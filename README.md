@@ -83,7 +83,7 @@ SV-matematica-semantica/
 
 ## Nota sobre PubPub
 
-PubPub cierra el 31/12/2026. Este repositorio es la sede definitiva de los documentos. Las URLs de PubPub se mantienen como referencia mientras el servicio esté disponible.
+Este repositorio es la sede definitiva de los documentos. Las URLs de PubPub se mantienen como referencia mientras el servicio esté disponible.
 
 ---
 
