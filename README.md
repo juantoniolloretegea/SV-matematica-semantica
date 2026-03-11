@@ -23,14 +23,16 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fund
 
 ### Nivel 2 — Serie de composición intercelular
 
-| Documento | Release | URL PubPub | Archivo en repositorio |
-|-----------|---------|------------|------------------------|
-| I. Transmisión en serie por parámetro puente | Release 4 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) | `documentos/composicion/I_transmision_serie_por_puente.md` |
-| II. Gramática general de composición | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) | `documentos/composicion/II_gramatica_general_composicion.md` |
-| III. Horizonte de sucesos y reevaluación discreta | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1) | `documentos/composicion/III_horizonte_sucesos_reevaluacion_discreta.md` |
-| IV. Transducción al alfabeto ternario e interfaz paramétrica del sistema | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica-del-sistema/release/1) | `documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
-| V. Invariantes, agentes especializados y operador de consulta del sistema | Release 2 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--v-invariantes-agentes-especializados-y-operador-de-consulta-del-sistema/release/2) | `documentos/composicion/V_invariantes_agentes_operador_consulta.md` |
-| VI. Análisis discreto, representaciones y herramientas de secuencias del sistema | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--vi-analisis-discreto-representaciones-y-herramientas-de-secuencias-del-sistema/release/1) | `documentos/composicion/VI_analisis_discreto_representaciones_secuencias.md` |
+| Doc | Título | Release | Archivo |
+|-----|--------|---------|---------|
+| I | Transmisión en serie por parámetro puente | R4 | `I_transmision_serie_por_puente.md` |
+| II | Gramática general de composición | R1 | `II_gramatica_general_composicion.md` |
+| III | Horizonte de sucesos y reevaluación discreta | R1 | `III_horizonte_sucesos_reevaluacion_discreta.md` |
+| IV | Transducción al alfabeto ternario e interfaz paramétrica | R1 | `IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
+| V | Invariantes, agentes especializados y operador de consulta | R2 | `V_invariantes_agentes_operador_consulta.md` |
+| VI | Análisis discreto, representaciones y herramientas de secuencias | R1 | `VI_analisis_discreto_representaciones_secuencias.md` |
+
+Todos los archivos se encuentran en `documentos/composicion/`.
 
 ### Guía práctica
 
@@ -42,12 +44,44 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fund
 
 ## Estructura del repositorio
 
-```text
+```
 SV-matematica-semantica/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
 ├── documentos/
 │   ├── composicion/          ← Serie de composición intercelular (I–VI)
-│   └── fundamentos/          ← Documento fundacional y materiales de referencia
+│   └── fundamentos/          ← Referencia al documento fundacional
 └── especificaciones/         ← Estructura reservada para artefactos verificables
+```
+
+---
+
+## Resumen de la serie
+
+**Doc I** — Transmisión en serie por parámetro puente. Célula acoplable, conector tipado σ_{k,φ}, grafo dirigido, criticidad condicionada.
+
+**Doc II** — Gramática general de composición. Relación semántica R(𝒜), compuerta ⊗_gate, meta-supervisión ▷, compilación Comp.
+
+**Doc III** — Horizonte de sucesos y reevaluación discreta. Horizonte ℋ(𝒜), frame Sₙ, dato νₙ, operador 𝒯_{νₙ}, trayectoria T, relación δ_Γ.
+
+**Doc IV** — Transducción al alfabeto ternario e interfaz paramétrica. Sensor ϕⱼ, admisibilidad R, transductor τⱼ, interfaz ℐ(𝒜), máscara E(C), ley de crecimiento, U silenciosa.
+
+**Doc V** — Invariantes, agentes especializados y operador de consulta. Inv_SV, dominio 𝔇, agente A_𝔇, operador 𝒬_ω con salida (r, J, M). Seis teoremas de invariancia, tres proposiciones de consulta.
+
+**Doc VI** — Análisis discreto, representaciones y herramientas de secuencias. Diferencia finita, taxonomía asintótica, funciones generatrices, transformada Z, álgebra lineal del DAG, codificaciones con invariantes preservados. Siete proposiciones.
+
+---
+
+## Repositorios del proyecto
+
+| Repositorio | Función |
+|------------|---------|
+| **SV-matematica-semantica** (este) | Padre doctrinal: fundamentos y serie de composición |
+| [SVcustos-dataset](https://github.com/juantoniolloretegea/SVcustos-dataset) | Marco de intrusión (Docs 2–6) |
+| [SVperitus-dataset](https://github.com/juantoniolloretegea/SVperitus-dataset) | Agentes especializados: código, tests, dominios clínicos |
+
+---
+
+*Sistema Vectorial SV · ISSN 2695-6411 · CC BY-NC-ND 4.0*
+*Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351*
