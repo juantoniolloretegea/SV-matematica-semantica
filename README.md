@@ -27,7 +27,7 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fu
 | I. Transmisión en serie por parámetro puente | Release 4 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) | `documentos/composicion/I_transmision_serie_por_puente.md` |
 | II. Gramática general de composición | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) | `documentos/composicion/II_gramatica_general_composicion.md` |
 | III. Horizonte de sucesos y reevaluación discreta | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1) | `documentos/composicion/III_horizonte_sucesos_reevaluacion_discreta.md` |
-| IV. Transducción al alfabeto ternario e interfaz paramétrica | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica/release/1) | `documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
+| IV. Transducción al alfabeto ternario e interfaz paramétrica | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica-del-sistema/release/1) | `documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
 
 ### Guía práctica
 
