@@ -2,12 +2,11 @@
 
 ## Matemática semántica del Sistema Vectorial SV
 
-Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fundacionales y la serie completa de álgebra de composición intercelular (Documentos I–VI).
+Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia y la serie completa de álgebra de composición intercelular (Documentos I–VI).
 
-**Autor:** Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351
-
-**ISSN:** 2695-6411
-
+**Autor:** Juan Antonio Lloret Egea  
+**ORCID:** 0000-0002-6634-3351  
+**ISSN:** 2695-6411  
 **Licencia:** CC BY-NC-ND 4.0
 
 **Colección PubPub:** [Álgebra de composición intercelular del Sistema Vectorial SV](https://www.itvia.online/algebra-de-composicion-intercelular-del-sistema-vectorial-sv)
@@ -37,7 +36,7 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fu
 
 | Documento | Release | URL PubPub |
 |-----------|---------|------------|
-| La guía práctica del conocimiento profundo y la crítica de la razón pura | Release 2 | [enlace](https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-critica-de-la-razon-pura/release/2) |
+| La guía práctica del conocimiento profundo y la crítica de la razón pura | Release 2 | [enlace](https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundo-y-la-critica-de-la-razon-pura/release/2) |
 
 ---
 
@@ -50,5 +49,5 @@ SV-matematica-semantica/
 ├── .gitignore
 ├── documentos/
 │   ├── composicion/          ← Serie de composición intercelular (I–VI)
-│   └── fundamentos/          ← Referencia al documento fundacional
+│   └── fundamentos/          ← Documento fundacional y materiales de referencia
 └── especificaciones/         ← Estructura reservada para artefactos verificables
