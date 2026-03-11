@@ -36,7 +36,7 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fund
 
 | Documento | Release | URL PubPub |
 |-----------|---------|------------|
-| La guía práctica del conocimiento profundo y la crítica de la razón pura | Release 2 | [enlace](https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundo-y-la-critica-de-la-razon-pura/release/2) |
+| La guía práctica del conocimiento profundo y la crítica de la razón pura | Release 2 | [enlace](https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-critica-de-la-razon-pura/release/2) |
 
 ---
 
