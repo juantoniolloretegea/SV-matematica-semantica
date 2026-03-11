@@ -41,7 +41,8 @@ SV-matematica-semantica/
 │   │   └── README.md
 │   ├── composicion/                   ← Álgebra de composición intercelular
 │   │   ├── README.md
-│   │   └── I_transmision_serie_por_puente.md
+│   │   ├── I_transmision_serie_por_puente.md
+│   │   └── II_gramatica_general_composicion.md
 │   └── evolucion/                     ← Álgebra de evolución discreta (futuro)
 │       └── README.md
 │
@@ -58,7 +59,8 @@ SV-matematica-semantica/
 | Documento | Versión | PubPub | GitHub |
 |-----------|---------|--------|--------|
 | Fundamentos algebraico-semánticos del SV | v1.0.0, R3 | [PubPub](https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3) | `documentos/fundamentos/` |
-| Composición I — Transmisión en serie por parámetro puente | v0.3.1, R4 | [PubPub](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) | `documentos/composicion/` |
+| Composición I — Transmisión en serie por parámetro puente | v1, R4 | [PubPub](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) | `documentos/composicion/` |
+| Composición II — Gramática general de composición | v1.0, R1 | [PubPub](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) | `documentos/composicion/` |
 
 ---
 
@@ -66,7 +68,6 @@ SV-matematica-semantica/
 
 | Documento | Estado |
 |-----------|--------|
-| Composición II — Gramática general de composición | En fase de arquitectura |
 | Evolución discreta — Frame, factor externo, cascada y trayectoria auditable | Esqueleto conceptual v0.3.0 |
 
 ---
