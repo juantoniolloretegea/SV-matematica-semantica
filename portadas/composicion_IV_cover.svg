@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" width="1400" height="800">
+  <defs>
+    <filter id="grain">
+      <feTurbulence baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply" result="grain"/>
+    </filter>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2a2520"/>
+    </marker>
+    <marker id="arrTeal" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#3a9a85"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="800" fill="#f0ebe3"/>
+  <rect width="1400" height="800" fill="#f5f0e8" opacity="0.5"/>
+  <rect width="1400" height="800" filter="url(#grain)" opacity="0.03"/>
+
+  <line x1="60" y1="120" x2="1340" y2="120" stroke="#c0b8a8" stroke-width="0.5"/>
+
+  <text x="700" y="60" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#2a2520" letter-spacing="4" font-variant="small-caps">Algebra de composicion intercelular del marco SV</text>
+  <text x="700" y="105" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#1a1510" letter-spacing="2" font-weight="bold">IV. Transduccion al alfabeto ternario e interfaz parametrica</text>
+
+  <line x1="60" y1="130" x2="1340" y2="130" stroke="#c0b8a8" stroke-width="0.5"/>
+
+  <!-- LEFT: POLYGON with transducer arrows feeding in -->
+  <g transform="translate(170, 420)">
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#b0a898" stroke-width="0.5"/>
+    <circle cx="0" cy="0" r="90" fill="none" stroke="#c5bdb0" stroke-width="0.3"/>
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#d0c8bb" stroke-width="0.3"/>
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#d8d0c5" stroke-width="0.3"/>
+    <line x1="0" y1="-125" x2="0" y2="125" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="-125" y1="0" x2="125" y2="0" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="-88" y1="-88" x2="88" y2="88" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="88" y1="-88" x2="-88" y2="88" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="-48" y1="-115" x2="48" y2="115" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="48" y1="-115" x2="-48" y2="115" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="-115" y1="-48" x2="115" y2="48" stroke="#c5bdb0" stroke-width="0.3"/>
+    <line x1="115" y1="-48" x2="-115" y2="48" stroke="#c5bdb0" stroke-width="0.3"/>
+
+    <polygon points="0,-90 55,-45 95,25 65,85 15,105 -45,85 -90,35 -75,-20 -40,-65 -8,-95"
+             fill="#4a7fb518" stroke="#4a7fb5" stroke-width="1.8" stroke-linejoin="round"/>
+
+    <!-- Transducer arrows feeding into polygon vertices -->
+    <line x1="0" y1="-130" x2="0" y2="-98" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+    <line x1="78" y1="-68" x2="60" y2="-50" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+    <line x1="125" y1="30" x2="100" y2="28" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+    <line x1="90" y1="115" x2="70" y2="90" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+    <line x1="-70" y1="115" x2="-50" y2="90" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+    <line x1="-120" y1="50" x2="-95" y2="40" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+    <line x1="-100" y1="-30" x2="-80" y2="-22" stroke="#3a9a85" stroke-width="1.3" marker-end="url(#arrTeal)" opacity="0.7"/>
+
+    <!-- tau labels -->
+    <text x="8" y="-134" font-family="Georgia, serif" font-size="9" fill="#3a9a85" font-style="italic">t1</text>
+    <text x="85" y="-72" font-family="Georgia, serif" font-size="9" fill="#3a9a85" font-style="italic">t2</text>
+    <text x="130" y="24" font-family="Georgia, serif" font-size="9" fill="#3a9a85" font-style="italic">t3</text>
+    <text x="96" y="120" font-family="Georgia, serif" font-size="9" fill="#3a9a85" font-style="italic">t4</text>
+    <text x="-82" y="120" font-family="Georgia, serif" font-size="9" fill="#3a9a85" font-style="italic">t5</text>
+
+    <!-- W labels outside -->
+    <text x="0" y="-148" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#8a7040">W1</text>
+    <text x="95" y="-78" font-family="Georgia, serif" font-size="9" fill="#8a7040">W2</text>
+    <text x="140" y="18" font-family="Georgia, serif" font-size="9" fill="#8a7040">W3</text>
+  </g>
+
+  <text x="318" y="425" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#3a3530">~</text>
+
+  <!-- CENTER: TRANSDUCTION CHAIN -->
+  <g transform="translate(360, 170)">
+    <!-- World -->
+    <rect x="180" y="0" width="150" height="32" rx="4" fill="none" stroke="#8a7040" stroke-width="1.2"/>
+    <text x="255" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#8a7040" font-weight="bold">x  in  Wj</text>
+    <text x="255" y="-10" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a8070" font-style="italic">magnitud tipada</text>
+
+    <line x1="255" y1="32" x2="255" y2="58" stroke="#2a2520" stroke-width="1" marker-end="url(#arr)"/>
+
+    <!-- Sensor -->
+    <rect x="185" y="61" width="140" height="30" rx="4" fill="#3a9a8510" stroke="#3a9a85" stroke-width="1.2"/>
+    <text x="255" y="81" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#2a2520" font-weight="bold">phij : Wj -> Oj*</text>
+    <text x="100" y="81" text-anchor="end" font-family="Georgia, serif" font-size="10" fill="#6a6050" font-style="italic">captura</text>
+
+    <line x1="255" y1="91" x2="255" y2="115" stroke="#2a2520" stroke-width="1" marker-end="url(#arr)"/>
+
+    <!-- Admissibility -->
+    <rect x="200" y="118" width="110" height="30" rx="4" fill="#c4785010" stroke="#c47850" stroke-width="1.2"/>
+    <text x="255" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#2a2520" font-weight="bold">rj  in  R</text>
+    <text x="100" y="138" text-anchor="end" font-family="Georgia, serif" font-size="10" fill="#6a6050" font-style="italic">admisibilidad</text>
+
+    <text x="325" y="126" font-family="Georgia, serif" font-size="8" fill="#c47850">ok | degradado</text>
+    <text x="325" y="138" font-family="Georgia, serif" font-size="8" fill="#c47850">fallido | U</text>
+
+    <!-- Fallido fork -->
+    <line x1="310" y1="140" x2="400" y2="140" stroke="#ef4444" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <line x1="400" y1="140" x2="400" y2="285" stroke="#ef4444" stroke-width="0.7" stroke-dasharray="3,2"/>
+    <text x="410" y="220" font-family="Georgia, serif" font-size="9" fill="#ef4444" font-style="italic">-> U</text>
+
+    <line x1="255" y1="148" x2="255" y2="172" stroke="#2a2520" stroke-width="1" marker-end="url(#arr)"/>
+
+    <!-- Transductor -->
+    <rect x="185" y="175" width="140" height="32" rx="4" fill="#4a7fb510" stroke="#4a7fb5" stroke-width="1.5"/>
+    <text x="255" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2a2520" font-weight="bold">tj : Oj -> Sigma</text>
+    <text x="100" y="196" text-anchor="end" font-family="Georgia, serif" font-size="10" fill="#6a6050" font-style="italic">ternarizacion</text>
+
+    <text x="340" y="184" font-family="Georgia, serif" font-size="9" fill="#22885a">B0 -> 0</text>
+    <text x="340" y="196" font-family="Georgia, serif" font-size="9" fill="#ef4444">B1 -> 1</text>
+    <text x="340" y="208" font-family="Georgia, serif" font-size="9" fill="#b08020">BU -> U</text>
+
+    <line x1="255" y1="207" x2="255" y2="235" stroke="#2a2520" stroke-width="1" marker-end="url(#arr)"/>
+
+    <!-- Sigma result -->
+    <rect x="220" y="238" width="70" height="28" rx="14" fill="#2a2520"/>
+    <text x="255" y="257" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#f5f0e8" font-weight="bold">sigma</text>
+
+    <line x1="255" y1="266" x2="255" y2="288" stroke="#2a2520" stroke-width="1" marker-end="url(#arr)"/>
+
+    <!-- Parameter -->
+    <rect x="225" y="291" width="60" height="25" rx="4" fill="#4a7fb512" stroke="#4a7fb5" stroke-width="1"/>
+    <text x="255" y="308" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#2a2520" font-weight="bold">Pj</text>
+
+    <!-- Right chain -->
+    <line x1="285" y1="303" x2="315" y2="303" stroke="#2a2520" stroke-width="0.8" marker-end="url(#arr)"/>
+    <text x="333" y="299" font-family="Georgia, serif" font-size="8" fill="#6a6050">celula</text>
+    <line x1="355" y1="303" x2="380" y2="303" stroke="#2a2520" stroke-width="0.8" marker-end="url(#arr)"/>
+    <text x="400" y="299" font-family="Georgia, serif" font-size="8" fill="#6a6050">comp.</text>
+    <line x1="418" y1="303" x2="443" y2="303" stroke="#2a2520" stroke-width="0.8" marker-end="url(#arr)"/>
+    <text x="460" y="299" font-family="Georgia, serif" font-size="8" fill="#6a6050">frame</text>
+    <line x1="478" y1="303" x2="503" y2="303" stroke="#2a2520" stroke-width="0.8" marker-end="url(#arr)"/>
+    <text x="518" y="299" font-family="Georgia, serif" font-size="8" fill="#6a6050">T</text>
+
+    <!-- Interface bracket -->
+    <rect x="70" y="48" width="360" height="280" rx="6" fill="none" stroke="#8a8070" stroke-width="0.8" stroke-dasharray="6,4" opacity="0.3"/>
+    <text x="250" y="345" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a8070" font-style="italic">I(A) con E(C)</text>
+
+    <!-- CT labels -->
+    <text x="78" y="240" font-family="Georgia, serif" font-size="8" fill="#6a6050">CT1 completitud</text>
+    <text x="78" y="251" font-family="Georgia, serif" font-size="8" fill="#6a6050">CT2 determinismo</text>
+    <text x="78" y="262" font-family="Georgia, serif" font-size="8" fill="#6a6050">CT3 criterio doc.</text>
+    <text x="78" y="273" font-family="Georgia, serif" font-size="8" fill="#6a6050">CT4 semantica</text>
+    <text x="78" y="284" font-family="Georgia, serif" font-size="8" fill="#6a6050">CT5 independencia</text>
+
+    <!-- Us label -->
+    <text x="450" y="350" font-family="Georgia, serif" font-size="10" fill="#8a8070" font-style="italic">Us = D \ Cov(I)</text>
+  </g>
+
+  <!-- RIGHT: NEURON -->
+  <g transform="translate(1050, 350)" opacity="0.6">
+    <ellipse cx="80" cy="40" rx="55" ry="50" fill="#c8c0b5" stroke="#8a8070" stroke-width="1"/>
+    <ellipse cx="80" cy="40" rx="45" ry="40" fill="#d5ccc0" stroke="#9a9285" stroke-width="0.5"/>
+    <circle cx="80" cy="35" r="18" fill="#b5ad9f" stroke="#8a8070" stroke-width="0.5"/>
+    <circle cx="75" cy="32" r="7" fill="#a09888" stroke="none"/>
+    <path d="M35,10 Q10,-20 -20,-35" fill="none" stroke="#a09888" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M-20,-35 Q-35,-42 -45,-38" fill="none" stroke="#a09888" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M-20,-35 Q-28,-50 -35,-55" fill="none" stroke="#a09888" stroke-width="1" stroke-linecap="round"/>
+    <path d="M50,-5 Q35,-35 20,-55" fill="none" stroke="#a09888" stroke-width="2" stroke-linecap="round"/>
+    <path d="M20,-55 Q12,-68 5,-72" fill="none" stroke="#a09888" stroke-width="1" stroke-linecap="round"/>
+    <path d="M80,-10 Q85,-40 78,-65" fill="none" stroke="#a09888" stroke-width="2" stroke-linecap="round"/>
+    <path d="M78,-65 Q72,-80 65,-85" fill="none" stroke="#a09888" stroke-width="1" stroke-linecap="round"/>
+    <path d="M110,-5 Q135,-25 155,-30" fill="none" stroke="#a09888" stroke-width="2" stroke-linecap="round"/>
+    <path d="M155,-30 Q168,-32 175,-28" fill="none" stroke="#a09888" stroke-width="1" stroke-linecap="round"/>
+    <path d="M155,-30 Q165,-40 170,-50" fill="none" stroke="#a09888" stroke-width="1" stroke-linecap="round"/>
+    <path d="M130,20 Q160,5 180,-5" fill="none" stroke="#a09888" stroke-width="2" stroke-linecap="round"/>
+    <path d="M125,55 Q155,50 175,55" fill="none" stroke="#a09888" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M35,70 Q10,85 -15,95" fill="none" stroke="#a09888" stroke-width="2" stroke-linecap="round"/>
+    <path d="M55,80 Q45,105 40,125" fill="none" stroke="#a09888" stroke-width="2" stroke-linecap="round"/>
+    <path d="M80,90 Q85,130 82,170 Q78,210 85,250 Q88,280 82,310" fill="none" stroke="#8a8070" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="82" cy="320" rx="12" ry="8" fill="#a09888" stroke="#8a8070" stroke-width="0.8"/>
+  </g>
+
+  <!-- LOGO -->
+  <g transform="translate(1050, 700)">
+    <path d="M0,0 L20,0 L20,22 L10,30 L0,22 Z" fill="none" stroke="#2a2520" stroke-width="1.5"/>
+    <path d="M5,5 L10,5 L10,18 L5,15 Z" fill="#2a2520" opacity="0.3"/>
+    <path d="M10,5 L15,5 L15,15 L10,18 Z" fill="#2a2520" opacity="0.15"/>
+    <path d="M3,16 L10,8 L17,16" fill="none" stroke="#2a2520" stroke-width="1"/>
+    <path d="M6,16 L10,11 L14,16" fill="none" stroke="#2a2520" stroke-width="0.5"/>
+    <text x="35" y="12" font-family="Georgia, serif" font-size="22" fill="#2a2520" font-weight="bold">SVcustos - SVperitus</text>
+    <text x="35" y="30" font-family="Georgia, serif" font-size="12" fill="#6a6050">© Autor: Juan Antonio Lloret Egea, 2026</text>
+  </g>
+</svg>

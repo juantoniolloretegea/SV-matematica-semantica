@@ -1,54 +1,42 @@
 # Álgebra de composición intercelular del marco SV
 
-Serie doctrinal que formaliza la composición entre células del Sistema Vectorial SV.
+Serie doctrinal de segundo nivel. Subordinada a los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Release 3).
 
 ---
 
 ## Documentos de la serie
 
-| Parte | Título | Estado | Release |
-|-------|--------|--------|---------|
-| **I** | Transmisión en serie por parámetro puente | Cerrado | [R4](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) |
-| **II** | Gramática general de composición | Cerrado | [R1](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) |
-
-## Documento I — Transmisión en serie por parámetro puente
-
-Formaliza el primer patrón compositivo del marco SV con grado alto de cierre (Grado A):
-
-- Célula acoplable como extensión compositiva Ĉᵢ = (Cᵢ, Bᵢ).
-- Parámetro puente, conector tipado y grafo dirigido acíclico.
-- Tríada estado base → estado actualizado → evaluación final.
-- Dos regímenes de buena formación (simple y general).
-- Operador de conflicto Ψ con tres familias iniciales.
-- Criticidad condicionada al puente ΔΓₖ.
-- Nueve proposiciones demostradas y siete principios doctrinales.
-- Caso interno: IMMUNO-1 → IMMUNO-2.
-
-Archivo: [`I_transmision_serie_por_puente.md`](I_transmision_serie_por_puente.md)
-
-## Documento II — Gramática general de composición
-
-Eleva la discusión desde un patrón particular a una gramática tipada de patrones compositivos:
-
-- Relación semántica previa R(𝒜) como paso obligatorio de diseño.
-- Jerarquía conceptual: relación / patrón / operador / constructor.
-- Escala de madurez formal A / B / C.
-- Compuerta jerárquica ⊗_gate (Grado B) con tabla de admisibilidad 𝒯.
-- Dominancia homogénea subsumida como caso particular de compuerta.
-- Supervisión meta del sistema ▷ (Grado B) con tres niveles de supervisión.
-- Composición multinivel Comp (Grado C) como constructor organizativo.
-- Criticidad compositiva ampliada: per-cell, condicionada al puente, per-cell en compuerta y global.
-- Tres proposiciones demostradas.
-- Casos de referencia: inmunología (serie), neumología (compuerta + meta), genética (horizonte).
-
-Archivo: [`II_gramatica_general_composicion.md`](II_gramatica_general_composicion.md)
+| Doc | Título | Objeto | Release | URL PubPub |
+|-----|--------|--------|---------|------------|
+| I | Transmisión en serie por parámetro puente | Célula acoplable, conector tipado σ_{k,φ}, grafo dirigido, criticidad condicionada | Release 4 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) |
+| II | Gramática general de composición | Relación semántica R(𝒜), compuerta ⊗_gate, meta-supervisión ▷, compilación Comp | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) |
+| III | Horizonte de sucesos y reevaluación discreta | Horizonte ℋ(𝒜), frame Sₙ, dato νₙ, operador 𝒯_{νₙ}, trayectoria T, relación δ_Γ | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1) |
+| IV | Transducción al alfabeto ternario e interfaz paramétrica | Sensor ϕⱼ, admisibilidad R, transductor τⱼ, interfaz ℐ(𝒜), máscara E(C), U silenciosa | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica/release/1) |
 
 ---
 
-## Subordinación
+## Cadena completa del SV tras los cuatro documentos
 
-Ambos documentos son doctrina derivada de segundo nivel, subordinada a los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Release 3).
+```
+magnitud x ∈ Wⱼ → sensor ϕⱼ → observación oⱼ → admisibilidad rⱼ →
+transductor τⱼ → σ ∈ Σ → parámetro Pⱼ → célula →
+composición (I, II) → frame → trayectoria (III)
+```
+
+El Doc IV formaliza la entrada. Los Docs I y II formalizan la composición interna. El Doc III formaliza la evolución por sucesos.
 
 ---
 
+## Archivos
+
+| Archivo | Documento |
+|---------|-----------|
+| `I_transmision_serie_por_puente.md` | Doc I |
+| `II_gramatica_general_composicion.md` | Doc II |
+| `III_horizonte_sucesos_reevaluacion_discreta.md` | Doc III |
+| `IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` | Doc IV |
+
+---
+
+*Autor: Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351*
 *ISSN 2695-6411 · CC BY-NC-ND 4.0*

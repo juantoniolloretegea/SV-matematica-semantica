@@ -1,95 +1,91 @@
 # SV-matematica-semantica
 
-## Matemática y Semántica del Sistema Vectorial SV
+## Matemática semántica del Sistema Vectorial SV
 
-Repositorio de doctrina matemática y semántica transversal del Sistema Vectorial SV.
+Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fundacionales y la serie de álgebra de composición intercelular.
 
-Los documentos aquí alojados establecen la verdad normativa del marco SV y gobiernan toda implementación, todo dominio de aplicación y toda extensión presente o futura del sistema, con independencia de la rama (SVcustos, SVperitus u otra) en la que se despliegue.
+**Autor:** Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351
 
----
+**ISSN:** 2695-6411
 
-### Qué es el Sistema Vectorial SV
-
-El Sistema Vectorial SV es un marco algebraico que evalúa situaciones complejas mediante una gramática ternaria estable: cada parámetro relevante se expresa como 0 (Apto), 1 (No\_Apto) o U (Indeterminado). Una regla determinista T(n) = ⌊7n/9⌋ clasifica el vector resultante. La representación geométrica es una poligonal polar cerrada. La inteligencia artificial queda subordinada al marco, no a la inversa.
+**Licencia:** CC BY-NC-ND 4.0
 
 ---
 
-### Relación con los demás repositorios del proyecto
+## Corpus doctrinal
 
-Este repositorio contiene la doctrina matemática y semántica del Sistema Vectorial SV. Los repositorios de implementación y dominio están subordinados a lo que aquí se establece:
+### Nivel 0 — Autoridad normativa suprema
 
-| Repositorio | Función | Relación |
-|-------------|---------|----------|
-| **SV-matematica-semantica** (este) | Verdad normativa matemática y semántica | Padre doctrinal |
-| [SVcustos-dataset](https://github.com/juantoniolloretegea/SVcustos-dataset) | Marco de intrusión — implementación y datos | Subordinado |
-| [SVperitus-dataset](https://github.com/juantoniolloretegea/SVperitus-dataset) | Agentes especializados — implementación y datos | Subordinado |
+| Documento | Release | URL PubPub |
+|-----------|---------|------------|
+| Fundamentos algebraico-semánticos del Sistema Vectorial SV | Release 3 | [enlace](https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3) |
 
-En caso de discrepancia entre cualquier implementación y lo que este repositorio establece, prevalece este repositorio. Los repositorios subordinados deben enlazar aquí como fuente de verdad normativa.
+### Nivel 2 — Serie de composición intercelular
+
+| Documento | Release | URL PubPub | Archivo en repositorio |
+|-----------|---------|------------|----------------------|
+| I. Transmisión en serie por parámetro puente | Release 4 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) | `documentos/composicion/I_transmision_serie_por_puente.md` |
+| II. Gramática general de composición | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) | `documentos/composicion/II_gramatica_general_composicion.md` |
+| III. Horizonte de sucesos y reevaluación discreta | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1) | `documentos/composicion/III_horizonte_sucesos_reevaluacion_discreta.md` |
+| IV. Transducción al alfabeto ternario e interfaz paramétrica | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica/release/1) | `documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
+
+### Guía práctica
+
+| Documento | Release | URL PubPub |
+|-----------|---------|------------|
+| La guía práctica del conocimiento profundo y la crítica de la razón pura | Release 2 | [enlace](https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-critica-de-la-razon-pura/release/2) |
 
 ---
 
-### Estructura del repositorio
+## Estructura del repositorio
 
 ```
 SV-matematica-semantica/
-│
-├── README.md                          ← Este archivo
-├── LICENSE                            ← CC BY-NC-ND 4.0
-│
+├── README.md
 ├── documentos/
-│   ├── fundamentos/                   ← Texto fundacional de referencia
-│   │   └── README.md
-│   ├── composicion/                   ← Álgebra de composición intercelular
-│   │   ├── README.md
-│   │   ├── I_transmision_serie_por_puente.md
-│   │   └── II_gramatica_general_composicion.md
-│   └── evolucion/                     ← Álgebra de evolución discreta (futuro)
-│       └── README.md
-│
-└── especificaciones/                  ← Verdad normativa verificable (futuro)
-    ├── nucleo/
-    ├── conformidad/
-    └── esquemas/
+│   └── composicion/
+│       ├── I_transmision_serie_por_puente.md
+│       ├── II_gramatica_general_composicion.md
+│       ├── III_horizonte_sucesos_reevaluacion_discreta.md
+│       └── IV_transduccion_alfabeto_ternario_interfaz_parametrica.md
+└── portadas/
+    ├── composicion_I_cover.png
+    ├── composicion_II_cover.svg
+    ├── composicion_III_cover.png
+    ├── composicion_III_cover.svg
+    ├── composicion_IV_cover.png
+    └── composicion_IV_cover.svg
 ```
 
 ---
 
-### Documentos publicados
+## Repositorios del proyecto
 
-| Documento | Versión | PubPub | GitHub |
-|-----------|---------|--------|--------|
-| Fundamentos algebraico-semánticos del SV | v1.0.0, R3 | [PubPub](https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3) | `documentos/fundamentos/` |
-| Composición I — Transmisión en serie por parámetro puente | v1, R4 | [PubPub](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4) | `documentos/composicion/` |
-| Composición II — Gramática general de composición | v1.0, R1 | [PubPub](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1) | `documentos/composicion/` |
-
----
-
-### Documentos en preparación
-
-| Documento | Estado |
-|-----------|--------|
-| Evolución discreta — Frame, factor externo, cascada y trayectoria auditable | Esqueleto conceptual v0.3.0 |
+| Repositorio | Función |
+|------------|---------|
+| **SV-matematica-semantica** (este) | Padre doctrinal: documentos fundacionales y serie de composición |
+| [SVcustos-dataset](https://github.com/juantoniolloretegea/SVcustos-dataset) | Marco de intrusión (Docs 2–6) |
+| [SVperitus-dataset](https://github.com/juantoniolloretegea/SVperitus-dataset) | Agentes especializados: código, tests, dominios clínicos |
 
 ---
 
-### Autoridad normativa suprema
+## Resumen de la serie de composición
 
-La verdad normativa suprema del Sistema Vectorial SV reside en el documento *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Release 3). Todo documento de este repositorio, y toda actividad de los repositorios subordinados, queda sujeta a lo que ese documento establece. Las condiciones de sustitución legítima están definidas en la Declaración de Autoridad Normativa Suprema del proyecto.
+**Doc I** — Transmisión en serie por parámetro puente. Formaliza cómo una célula transmite su clasificación a otra mediante un conector tipado σ_{k,φ}.
 
----
+**Doc II** — Gramática general de composición. Eleva la serie a gramática con cuatro patrones: serie, compuerta ⊗_gate, meta-supervisión ▷ y compilación Comp.
 
-### Datos del proyecto
+**Doc III** — Horizonte de sucesos y reevaluación discreta. Formaliza cómo el sistema evoluciona por sucesos declarados: horizonte ℋ(𝒜), frame Sₙ, dato νₙ, operador 𝒯_{νₙ}, trayectoria T, relación δ_Γ.
 
-| Campo | Valor |
-|-------|-------|
-| **Autor** | Juan Antonio Lloret Egea |
-| **ORCID** | [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) |
-| **ISSN** | 2695-6411 |
-| **Licencia** | CC BY-NC-ND 4.0 |
-| **Serie madre** | [De SVcustos hasta SVperitus](https://www.itvia.online/de-svcustos-el-marco-framework-de-intrusion-hasta-svperitus-agentes-especializados) |
-| **Serie IMMUNO** | [Células del Sistema Vector ternario en inmunología clínica](https://www.itvia.online/celulas-del-sistema-vector-ternario-en-inmunologia-clinica) |
+**Doc IV** — Transducción al alfabeto ternario e interfaz paramétrica. Formaliza cómo magnitudes no nativas del mundo ingresan al sistema: sensor ϕⱼ, admisibilidad R, transductor τⱼ, interfaz ℐ(𝒜) con máscara E(C), ley de crecimiento y U silenciosa.
 
 ---
 
-*Repositorio doctrinal del Sistema Vectorial SV.*
-*Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0 | ISSN 2695-6411*
+## Nota sobre PubPub
+
+PubPub cierra el 31/12/2026. Este repositorio es la sede definitiva de los documentos. Las URLs de PubPub se mantienen como referencia mientras el servicio esté disponible.
+
+---
+
+*Sistema Vectorial SV · ISSN 2695-6411 · CC BY-NC-ND 4.0*
+*Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351*
