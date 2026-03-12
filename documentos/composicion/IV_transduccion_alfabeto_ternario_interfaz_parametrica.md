@@ -1,4 +1,4 @@
-<!-- Publicado en PubPub: https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica/release/1 -->
+<!-- Publicado en PubPub: https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica-del-sistema/release/1 -->
 
 # Álgebra de composición intercelular del marco SV
 
