@@ -4,7 +4,13 @@
 
 Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, y la serie completa de álgebra de composición intercelular (Documentos I–VI).
 
-Para una visión guiada del corpus, con contexto doctrinal, jerarquía de documentos y accesos directos al contenido principal, consulte la [página web de orientación y navegación de SV-matematica-semantica](https://juantoniolloretegea.github.io/SV-matematica-semantica/).
+---
+
+## Puerta de entrada
+
+Para una visión guiada del corpus, con contexto doctrinal, jerarquía de documentos y accesos directos al contenido principal, consulte la <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">página web de orientación y navegación de SV-matematica-semantica</a>.
+
+---
 
 **Autor:** Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351
 
