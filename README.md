@@ -8,7 +8,7 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fund
 
 ## Puerta de entrada
 
-Para una visión guiada del corpus, con contexto doctrinal, jerarquía de documentos y accesos directos al contenido principal, consulte la <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">página web de orientación y navegación de SV-matematica-semantica</a>.
+Para orientarse en el corpus desde una vista unificada —con contexto doctrinal, jerarquía documental y accesos directos a sus piezas principales— consulte la <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">página web de entrada y navegación de SV-matematica-semantica</a>.
 
 ---
 
