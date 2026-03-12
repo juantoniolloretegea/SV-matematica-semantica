@@ -52,3 +52,4 @@ SV-matematica-semantica/
 │   ├── composicion/          ← Serie de composición intercelular (I–VI)
 │   └── fundamentos/          ← Referencia al documento fundacional
 └── especificaciones/         ← Estructura reservada para artefactos verificables
+```
