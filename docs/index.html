@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Puerta de entrada — Repositorio doctrinal del Sistema Vectorial SV</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --text: #0f172a;
+      --muted: #475569;
+      --line: #e2e8f0;
+      --soft: #f1f5f9;
+      --accent: #0f172a;
+      --accent-2: #1d4ed8;
+      --shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+      --radius: 18px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    a { color: var(--accent-2); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 22px 40px;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(10px);
+      background: rgba(255,255,255,0.88);
+      border-bottom: 1px solid var(--line);
+    }
+    .topbar {
+      display: flex;
+      gap: 18px;
+      align-items: flex-start;
+      justify-content: space-between;
+      padding: 18px 22px;
+      max-width: 1280px;
+      margin: 0 auto;
+    }
+    .eyebrow {
+      font-size: 12px;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(24px, 4vw, 38px);
+      line-height: 1.15;
+    }
+    .lead {
+      margin: 10px 0 0;
+      color: var(--muted);
+      max-width: 820px;
+    }
+    .hero-actions, .actions {
+      display: flex;
+      gap: 10px;
+    }
+    .hero-actions {
+      flex-wrap: nowrap;
+      align-items: flex-start;
+      justify-content: flex-end;
+      flex-shrink: 0;
+      margin-left: 12px;
+    }
+    .actions {
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 11px 15px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--text);
+      box-shadow: var(--shadow);
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform .15s ease, background .15s ease;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+    .btn:hover { transform: translateY(-1px); text-decoration: none; }
+    .btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: 280px minmax(0,1fr);
+      gap: 24px;
+      margin-top: 28px;
+    }
+    aside {
+      position: sticky;
+      top: 98px;
+      align-self: start;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+    .menu {
+      padding: 18px;
+    }
+    .menu h2 {
+      margin: 0 0 12px;
+      font-size: 18px;
+    }
+    .menu a {
+      display: block;
+      padding: 10px 12px;
+      border-radius: 12px;
+      color: var(--text);
+    }
+    .menu a:hover, .menu a.active {
+      background: var(--soft);
+      text-decoration: none;
+    }
+    main {
+      display: grid;
+      gap: 20px;
+    }
+    section {
+      padding: 24px;
+    }
+    h2 {
+      margin: 0;
+      font-size: 28px;
+      line-height: 1.2;
+    }
+    .muted {
+      color: var(--muted);
+    }
+    .grid-3 {
+      display: grid;
+      gap: 14px;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      margin-top: 18px;
+    }
+    .grid-2 {
+      display: grid;
+      gap: 14px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      margin-top: 18px;
+    }
+    .mini {
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+    }
+    .mini .k {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 7px;
+    }
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 18px 0 10px;
+    }
+    .tab-btn {
+      border: 1px solid var(--line);
+      background: #fff;
+      padding: 9px 12px;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .tab-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+    .doc-grid {
+      display: grid;
+      gap: 14px;
+      grid-template-columns: repeat(3, minmax(0,1fr));
+      margin-top: 18px;
+    }
+    .doc {
+      padding: 18px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .tag {
+      display: inline-flex;
+      width: fit-content;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 12px;
+      color: var(--muted);
+      background: #fff;
+    }
+    .doc h3 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.3;
+    }
+    .doc p { margin: 0; color: var(--muted); }
+    .eco {
+      padding: 18px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .eco h3 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.3;
+    }
+    .eco p { margin: 0; color: var(--muted); }
+    .eco ul {
+      margin: 0 0 0 18px;
+      padding: 0;
+      color: var(--text);
+    }
+    .eco li { margin: 8px 0; }
+    footer {
+      border-top: 1px solid var(--line);
+      background: rgba(255,255,255,0.88);
+      margin-top: 22px;
+    }
+    .footer-line {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 12px 22px;
+      font-size: 13px;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow-x: auto;
+    }
+    @media (max-width: 1024px) {
+      .layout { grid-template-columns: 1fr; }
+      aside { position: static; }
+      .grid-3, .doc-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 720px) {
+      .topbar { flex-direction: column; align-items: flex-start; }
+      .hero-actions { flex-wrap: wrap; margin-left: 0; }
+      .grid-3, .grid-2, .doc-grid { grid-template-columns: 1fr; }
+      section { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="topbar">
+      <div>
+        <div class="eyebrow">Puerta de entrada</div>
+        <h1>Repositorio doctrinal del Sistema Vectorial SV</h1>
+        <p class="lead">Página sintética de contexto, orientación y navegación para facilitarle el acceso al repositorio principal sin obligarle a reconstruir la jerarquía doctrinal a base de saltos entre archivos.</p>
+      </div>
+      <div class="hero-actions">
+        <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica" target="_blank" rel="noopener noreferrer">Abra el repositorio</a>
+        <a class="btn" href="https://www.itvia.online/algebra-de-composicion-intercelular-del-sistema-vectorial-sv" target="_blank" rel="noopener noreferrer">Consulte la colección PubPub</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="layout">
+      <aside>
+        <div class="card menu">
+          <h2>Menú</h2>
+          <a href="#vision">Visión general</a>
+          <a href="#jerarquia">Jerarquía doctrinal</a>
+          <a href="#ruta">Ruta de lectura</a>
+          <a href="#implementaciones">Relación con SVcustos y SVperitus</a>
+          <a href="#documentos">Mapa documental</a>
+          <a href="#ecosistema">Ecosistema SV</a>
+          <a href="#accesos">Accesos rápidos</a>
+        </div>
+      </aside>
+
+      <main>
+        <section id="vision" class="card">
+          <h2>Visión general</h2>
+          <p class="muted">Esta página no sustituye los README del repositorio ni los documentos doctrinales. Su función es servir como puerta de entrada comprensible y navegable: qué es el repositorio, cómo se organiza y por dónde conviene empezar.</p>
+          <div class="actions" style="margin-top:18px;">
+            <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/README.md" target="_blank" rel="noopener noreferrer">README raíz</a>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/fundamentos/README.md" target="_blank" rel="noopener noreferrer">Fundamentos</a>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/README.md" target="_blank" rel="noopener noreferrer">Índice de composición</a>
+          </div>
+        </section>
+
+        <section id="jerarquia" class="card">
+          <h2>Jerarquía doctrinal</h2>
+          <p class="muted">El repositorio se entiende mejor si se separan con nitidez sus niveles. Fundamentos fija el marco normativo; la serie I–VI desarrolla la composición intercelular; y la reserva de especificaciones queda diferenciada como espacio para artefactos verificables futuros.</p>
+          <div class="grid-3">
+            <div class="mini"><div class="k">Nivel 0</div><div>Fundamentos algebraico-semánticos del Sistema Vectorial SV</div></div>
+            <div class="mini"><div class="k">Nivel 2</div><div>Serie de composición intercelular (Documentos I–VI)</div></div>
+            <div class="mini"><div class="k">Reserva</div><div>Especificaciones y artefactos verificables</div></div>
+          </div>
+          <div class="actions" style="margin-top:18px;">
+            <a class="btn" href="https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3" target="_blank" rel="noopener noreferrer">Fundamentos en PubPub</a>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/fundamentos/README.md" target="_blank" rel="noopener noreferrer">Fundamentos en GitHub</a>
+          </div>
+        </section>
+
+        <section id="ruta" class="card">
+          <h2>Ruta de lectura recomendada</h2>
+          <p class="muted">Para una entrada ordenada conviene avanzar por capas: primero el mapa del repositorio, después el documento fundacional y solo entonces la serie I–VI. Así se reduce la carga de contexto y se evita confundir niveles doctrinales distintos.</p>
+          <div class="tabs" role="tablist" aria-label="Ruta de lectura">
+            <button class="tab-btn active" data-tab="t1">Paso 1</button>
+            <button class="tab-btn" data-tab="t2">Paso 2</button>
+            <button class="tab-btn" data-tab="t3">Paso 3</button>
+            <button class="tab-btn" data-tab="t4">Paso 4</button>
+          </div>
+          <div id="t1" class="tab-panel active">
+            <p><strong>README raíz.</strong> Entre primero por la visión general del repositorio y su estructura actual.</p>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/README.md" target="_blank" rel="noopener noreferrer">Abra el README raíz</a>
+          </div>
+          <div id="t2" class="tab-panel">
+            <p><strong>Fundamentos.</strong> Continúe por la autoridad normativa suprema y el marco semántico del sistema.</p>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/fundamentos/README.md" target="_blank" rel="noopener noreferrer">Abra Fundamentos</a>
+          </div>
+          <div id="t3" class="tab-panel">
+            <p><strong>Índice de composición.</strong> Revise después la función general de la serie I–VI antes de entrar en cada manuscrito.</p>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/README.md" target="_blank" rel="noopener noreferrer">Abra el índice de composición</a>
+          </div>
+          <div id="t4" class="tab-panel">
+            <p><strong>Documentos I–VI.</strong> Continúe con el desarrollo progresivo de la composición intercelular.</p>
+            <a class="btn" href="#documentos">Vaya al mapa documental</a>
+          </div>
+        </section>
+
+        <section id="implementaciones" class="card">
+          <h2>Relación con SVcustos y SVperitus</h2>
+          <p class="muted">SVcustos-dataset y SVperitus-dataset implementan soluciones distintas sobre la misma base SV. SV-matematica-semantica no compite con ellos, sino que aporta la matemática, el álgebra y la semántica que les dan fundamento más allá de la ingeniería de implementación.</p>
+          <div class="actions" style="margin-top:18px;">
+            <a class="btn" href="https://github.com/juantoniolloretegea/SVcustos-dataset" target="_blank" rel="noopener noreferrer">Abra SVcustos-dataset</a>
+            <a class="btn" href="https://github.com/juantoniolloretegea/SVperitus-dataset" target="_blank" rel="noopener noreferrer">Abra SVperitus-dataset</a>
+          </div>
+        </section>
+
+        <section id="documentos" class="card">
+          <h2>Mapa documental</h2>
+          <p class="muted">Acceso inmediato a cada pieza relevante del corpus, desde una sola pantalla. Usted puede entrar por el documento concreto o por el nivel doctrinal que necesite.</p>
+          <div class="doc-grid">
+            <article class="doc">
+              <span class="tag">Nivel 0</span>
+              <h3>Fundamentos</h3>
+              <p>Autoridad normativa suprema del marco SV.</p>
+              <div class="actions">
+                <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/fundamentos/README.md" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a class="btn" href="https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3" target="_blank" rel="noopener noreferrer">PubPub</a>
+              </div>
+            </article>
+            <article class="doc">
+              <span class="tag">Serie I–VI</span>
+              <h3>Documento I</h3>
+              <p>Transmisión en serie por parámetro puente.</p>
+              <div class="actions"><a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/I_transmision_serie_por_puente.md" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+            </article>
+            <article class="doc">
+              <span class="tag">Serie I–VI</span>
+              <h3>Documento II</h3>
+              <p>Gramática general de composición.</p>
+              <div class="actions"><a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/II_gramatica_general_composicion.md" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+            </article>
+            <article class="doc">
+              <span class="tag">Serie I–VI</span>
+              <h3>Documento III</h3>
+              <p>Horizonte de sucesos y reevaluación discreta.</p>
+              <div class="actions"><a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/III_horizonte_sucesos_reevaluacion_discreta.md" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+            </article>
+            <article class="doc">
+              <span class="tag">Serie I–VI</span>
+              <h3>Documento IV</h3>
+              <p>Transducción al alfabeto ternario e interfaz paramétrica del sistema.</p>
+              <div class="actions"><a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+            </article>
+            <article class="doc">
+              <span class="tag">Serie I–VI</span>
+              <h3>Documento V</h3>
+              <p>Invariantes, agentes especializados y operador de consulta del sistema.</p>
+              <div class="actions"><a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/V_invariantes_agentes_operador_consulta.md" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+            </article>
+            <article class="doc">
+              <span class="tag">Serie I–VI</span>
+              <h3>Documento VI</h3>
+              <p>Análisis discreto, representaciones y herramientas de secuencias del sistema.</p>
+              <div class="actions"><a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/VI_analisis_discreto_representaciones_secuencias.md" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+            </article>
+          </div>
+        </section>
+
+        <section id="ecosistema" class="card">
+          <h2>Ecosistema SV</h2>
+          <p class="muted">Si desea una visión unificada del conjunto, puede entenderlo así: SV-matematica-semantica fija la base matemática, algebraica y semántica; SVcustos-dataset implementa la línea de clasificación visual y entrenamiento de CNN sobre polígonos polares ternarios; y SVperitus-dataset organiza familias especializadas, entornos de ejecución, dominios, demos y aplicaciones conformes al marco SV.</p>
+          <div class="grid-2">
+            <article class="eco">
+              <h3>SVcustos-dataset</h3>
+              <p>Repositorio orientado a la generación de datasets de polígonos polares ternarios y al entrenamiento, evaluación y contraste de CNN tipo ResNet para clasificación automática en SVcustos.</p>
+              <ul>
+                <li>Generación de datasets visuales a partir de vectores ternarios 0, 1 y U.</li>
+                <li>Entrenamiento y evaluación de modelos para clasificar INTRUSIÓN, INDETERMINADO y NORMAL.</li>
+                <li>Soporte para varios niveles n, incluido el caso pareado, con scripts de generación, entrenamiento y evaluación.</li>
+              </ul>
+              <div class="actions"><a class="btn" href="https://github.com/juantoniolloretegea/SVcustos-dataset" target="_blank" rel="noopener noreferrer">Abra SVcustos-dataset</a></div>
+            </article>
+            <article class="eco">
+              <h3>SVperitus-dataset</h3>
+              <p>Repositorio marco de familias especializadas y de implementaciones contrastables conformes al Sistema Vectorial SV, con núcleo común, dominios, meta-célula, entornos por lenguaje y demostradores.</p>
+              <ul>
+                <li>Organización por especificaciones, dominio disponible de inmunología clínica, núcleo común y capa meta.</li>
+                <li>Implementaciones en Python, Rust/WASM y Kotlin, junto con aplicaciones demostrativas y documentación de serie.</li>
+                <li>Conexión explícita con Fundamentos como autoridad normativa del sistema y con la serie publicada de SVperitus.</li>
+              </ul>
+              <div class="actions"><a class="btn" href="https://github.com/juantoniolloretegea/SVperitus-dataset" target="_blank" rel="noopener noreferrer">Abra SVperitus-dataset</a></div>
+            </article>
+          </div>
+        </section>
+
+        <section id="accesos" class="card">
+          <h2>Accesos rápidos</h2>
+          <p class="muted">Entrada directa para quienes ya conocen el corpus y solo necesitan una navegación más cómoda que el recorrido manual por carpetas y README sucesivos.</p>
+          <div class="grid-3">
+            <div class="mini">
+              <div class="k">Entrada</div>
+              <div class="actions">
+                <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica" target="_blank" rel="noopener noreferrer">Repositorio</a>
+                <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/README.md" target="_blank" rel="noopener noreferrer">README raíz</a>
+              </div>
+            </div>
+            <div class="mini">
+              <div class="k">Núcleo doctrinal</div>
+              <div class="actions">
+                <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/fundamentos/README.md" target="_blank" rel="noopener noreferrer">Fundamentos</a>
+                <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/README.md" target="_blank" rel="noopener noreferrer">Índice I–VI</a>
+              </div>
+            </div>
+            <div class="mini">
+              <div class="k">Implementaciones</div>
+              <div class="actions">
+                <a class="btn" href="https://github.com/juantoniolloretegea/SVcustos-dataset" target="_blank" rel="noopener noreferrer">SVcustos</a>
+                <a class="btn" href="https://github.com/juantoniolloretegea/SVperitus-dataset" target="_blank" rel="noopener noreferrer">SVperitus</a>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer-line">Autor: Juan Antonio Lloret Egea © &nbsp;|&nbsp; ORCID: 0000-0002-6634-3351 &nbsp;|&nbsp; ISSN: 2695-6411 &nbsp;|&nbsp; Licencia: CC BY-NC-ND 4.0 &nbsp;|&nbsp; Institución: Instituto tecnológico virtual de la Inteligencia Artificial para el español ™ (ITVIA) &nbsp;|&nbsp; Versión publicada de esta web: 1.0 &nbsp;|&nbsp; Lugar y fecha: Madrid, 12/03/2026</div>
+  </footer>
+
+  <script>
+    const tabButtons = document.querySelectorAll('.tab-btn');
+    const panels = document.querySelectorAll('.tab-panel');
+    tabButtons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        tabButtons.forEach((b) => b.classList.remove('active'));
+        panels.forEach((p) => p.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById(btn.dataset.tab).classList.add('active');
+      });
+    });
+
+    const menuLinks = document.querySelectorAll('.menu a');
+    const sections = [...document.querySelectorAll('main section')];
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const id = entry.target.getAttribute('id');
+          menuLinks.forEach((a) => a.classList.toggle('active', a.getAttribute('href') === '#' + id));
+        }
+      });
+    }, { threshold: 0.35 });
+    sections.forEach((section) => observer.observe(section));
+  </script>
+</body>
+</html>
