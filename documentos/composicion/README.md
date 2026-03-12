@@ -1,8 +1,10 @@
 # SV-matematica-semantica
 
-## Matemática semántica del Sistema Vectorial SV
+## Serie de composición intercelular del Sistema Vectorial SV
 
-Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fundacionales y la serie completa de álgebra de composición intercelular (Documentos I–VI).
+Este directorio reúne la serie doctrinal de álgebra de composición intercelular del Sistema Vectorial SV (Documentos I–VI).
+
+El documento fundacional de referencia del repositorio está incorporado en `documentos/fundamentos/README.md`.
 
 **Autor:** Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351
 
@@ -14,15 +16,13 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fu
 
 ---
 
-## Corpus doctrinal
+## Relación con el documento fundacional
 
-### Nivel 0 — Autoridad normativa suprema
+| Documento | Release | URL PubPub | Archivo en repositorio |
+|-----------|---------|------------|------------------------|
+| Fundamentos algebraico-semánticos del Sistema Vectorial SV | Release 3 | [enlace](https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3) | `documentos/fundamentos/README.md` |
 
-| Documento | Release | URL PubPub |
-|-----------|---------|------------|
-| Fundamentos algebraico-semánticos del Sistema Vectorial SV | Release 3 | [enlace](https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3) |
-
-### Nivel 2 — Serie de composición intercelular
+## Serie de composición intercelular
 
 | Documento | Release | URL PubPub | Archivo en repositorio |
 |-----------|---------|------------|------------------------|
@@ -33,7 +33,7 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fu
 | V. Invariantes, agentes especializados y operador de consulta del sistema | Release 2 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--v-invariantes-agentes-especializados-y-operador-de-consulta-del-sistema/release/2) | `documentos/composicion/V_invariantes_agentes_operador_consulta.md` |
 | VI. Análisis discreto, representaciones y herramientas de secuencias del sistema | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--vi-analisis-discreto-representaciones-y-herramientas-de-secuencias-del-sistema/release/1) | `documentos/composicion/VI_analisis_discreto_representaciones_secuencias.md` |
 
-### Guía práctica
+## Documento complementario
 
 | Documento | Release | URL PubPub |
 |-----------|---------|------------|
@@ -41,15 +41,18 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene los documentos fu
 
 ---
 
-## Estructura del repositorio
+## Estructura doctrinal inmediata
 
 ```text
-SV-matematica-semantica/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── documentos/
-│   ├── composicion/          ← Serie de composición intercelular (I–VI)
-│   └── fundamentos/          ← Referencia al documento fundacional
-└── especificaciones/         ← Estructura reservada para artefactos verificables
+documentos/
+├── fundamentos/
+│   └── README.md                 ← Documento fundacional incorporado
+└── composicion/
+    ├── README.md                 ← Índice de la serie I–VI
+    ├── I_transmision_serie_por_puente.md
+    ├── II_gramatica_general_composicion.md
+    ├── III_horizonte_sucesos_reevaluacion_discreta.md
+    ├── IV_transduccion_alfabeto_ternario_interfaz_parametrica.md
+    ├── V_invariantes_agentes_operador_consulta.md
+    └── VI_analisis_discreto_representaciones_secuencias.md
 ```
