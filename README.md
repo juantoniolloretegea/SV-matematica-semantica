@@ -2,7 +2,7 @@
 
 ## Matemática semántica del Sistema Vectorial SV
 
-Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, y la serie completa de álgebra de composición intercelular (Documentos I–VI).
+Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, la serie completa de álgebra de composición intercelular (Documentos I–VI) y las especificaciones subordinadas activas del corpus.
 
 ---
 
@@ -42,6 +42,12 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fund
 | V. Invariantes, agentes especializados y operador de consulta del sistema | Release 2 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--v-invariantes-agentes-especializados-y-operador-de-consulta-del-sistema/release/2) | `documentos/composicion/V_invariantes_agentes_operador_consulta.md` |
 | VI. Análisis discreto, representaciones y herramientas de secuencias del sistema | Release 1 | [enlace](https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--vi-analisis-discreto-representaciones-y-herramientas-de-secuencias-del-sistema/release/1) | `documentos/composicion/VI_analisis_discreto_representaciones_secuencias.md` |
 
+### Especificaciones subordinadas activas
+
+| Pieza | URL PubPub | Archivo en repositorio |
+|-------|------------|------------------------|
+| Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV | [enlace](https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv/release/1?readingCollection=4ebab177) | `especificaciones/nucleo/origen_doctrinal_definicion_y_alcance_de_la_u_en_el_sistema_vectorial_sv.md` |
+
 ### Guía práctica
 
 | Documento | Release | URL PubPub |
@@ -60,5 +66,5 @@ SV-matematica-semantica/
 ├── documentos/
 │   ├── composicion/          ← Serie de composición intercelular (I–VI)
 │   └── fundamentos/          ← Documento fundacional incorporado
-└── especificaciones/         ← Estructura reservada para artefactos verificables
+└── especificaciones/         ← Especificaciones subordinadas y artefactos verificables
 ```
