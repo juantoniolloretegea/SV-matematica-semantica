@@ -10,7 +10,7 @@
 
 ---
 
-## Resumen
+## Resumen de esta edición
 
 Este documento fija, de forma expresa, transversal y subordinada, el **origen doctrinal**, la **definición canónica**, el **alcance estructural** y las **condiciones de uso legítimo** del signo **U** en el Sistema Vectorial SV. No introduce una nueva ontología ni una nueva fuente soberana. Su función es consolidar una pieza ya distribuida en el corpus, impedir lecturas parciales o impropias y facilitar su proyección rigurosa al lenguaje de computación del sistema, a la composición algebraico-semántica y a las aplicaciones especializadas del marco.
 
