@@ -2,6 +2,13 @@
 # BETA
 ## Matriz operativa completa de familias, operativa admisible y Clasificador C0–C5 en el Sistema Vectorial SV
 
+**Autor:** Juan Antonio Lloret Egea  
+**ORCID:** [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)  
+**ISSN:** 2695-6411  
+**Licencia:** CC BY-NC-ND 4.0  
+**Institución:** Instituto tecnológico virtual de la Inteligencia Artificial para el español ™ (ITVIA)  
+**Lugar y fecha:** Madrid, 14/03/2026  
+
 Naturaleza: proposición de trabajo
 Ubicación prevista: Beta / C1_proposiciones
 Rango: texto subordinado; no modifica por sí solo la doctrina, la IR ni la gramática superficial vigentes
