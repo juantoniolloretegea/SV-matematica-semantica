@@ -47,6 +47,11 @@ Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fund
 | Pieza | URL PubPub | Archivo en repositorio |
 |-------|------------|------------------------|
 | Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV | [enlace](https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv/release/1?readingCollection=4ebab177) | `especificaciones/nucleo/origen_doctrinal_definicion_y_alcance_de_la_u_en_el_sistema_vectorial_sv.md` |
+| Matriz operativa completa de familias, operativa admisible y Clasificador C0–C5 en el Sistema Vectorial SV | — | `especificaciones/proposiciones/matriz_operativa_completa_clasificador_sv.md` |
+| Desde la terna (0, 1, U) hasta la nueva frontera (0, 1, U, 0-1) | [enlace](https://www.itvia.online/pub/desde-la-terna-0-1-u-hasta-la-nueva-frontera-0-1-u-0-1/release/1) | `especificaciones/laboratorio/desde_la_terna_0_1_u_hasta_la_nueva_frontera_0_1_u_0_1.md` |
+
+> [!IMPORTANT]
+> Las piezas alojadas en `especificaciones/proposiciones/` y `especificaciones/laboratorio/` tienen carácter subordinado. Su presencia en espejo en otros repositorios del ecosistema SV no altera la prioridad doctrinal de `SV-matematica-semantica` ni la autoridad canónica superior de `itvia.online`.
 
 ### Guía práctica
 
