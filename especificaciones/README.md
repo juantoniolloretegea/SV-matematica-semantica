@@ -1,30 +1,55 @@
-# Especificaciones formales del Sistema Vectorial SV
+# Especificaciones del Sistema Vectorial SV
 
-**Estado:** Estructura reservada — contenido pendiente de migración
+Esta carpeta reúne especificaciones subordinadas, esquemas verificables y piezas de articulación formal del Sistema Vectorial SV.
 
----
+Su función no es sustituir a **Fundamentos algebraico-semánticos del Sistema Vectorial SV** ni a la serie principal **Álgebra de composición intercelular del Sistema Vectorial SV**, sino proporcionar un espacio de consolidación, precisión y despliegue técnico-doctrinal para elementos ya asentados en el corpus.
 
-## Función en el repositorio
+## Alcance de esta carpeta
 
-Este directorio albergará las especificaciones formales verificables del Sistema Vectorial SV: definiciones que puedan validarse automáticamente, contratos de datos y suites de conformidad cruzada.
+Las piezas alojadas en `especificaciones/` pueden cumplir, entre otras, las siguientes funciones:
 
-## Estructura prevista
+- fijar con mayor precisión el alcance de nociones ya presentes en el corpus;
+- articular transversalmente contenidos distribuidos en varios documentos de la serie;
+- servir de apoyo doctrinal o formal a la implementación del lenguaje de computación del SV;
+- ofrecer esquemas y criterios verificables sin alterar la jerarquía normativa del sistema.
 
-```
-especificaciones/
-├── nucleo/          ← Definiciones formales: célula, umbral T(n), convención semántica
-├── conformidad/     ← Tests de conformidad cruzada entre implementaciones (C8)
-└── esquemas/        ← Contratos YAML/JSON Schema para estructuras de datos SV
-```
+Toda especificación aquí contenida debe leerse como **subordinada** al núcleo doctrinal del repositorio.
 
-## Relación con SVperitus-dataset
+## Núcleo activo
 
-La carpeta `especificaciones/` existe actualmente en el repositorio SVperitus-dataset. El contenido migrará progresivamente a este repositorio como hogar canónico, manteniendo presencia en SVperitus como espejo o puntero según proceda.
+En el momento actual, esta carpeta incorpora como pieza principal de su núcleo activo:
 
-## Nota de honestidad
+- [`nucleo/origen_doctrinal_definicion_y_alcance_de_la_u_en_el_sistema_vectorial_sv.md`](./nucleo/origen_doctrinal_definicion_y_alcance_de_la_u_en_el_sistema_vectorial_sv.md)
 
-Esta carpeta existe para reservar la estructura correcta desde el nacimiento del repositorio. No contiene todavía artefactos verificables. No se presenta como material consolidado.
+Esta pieza tiene la categoría de **especificación transversal subordinada** y consolida, de forma expresa, el origen doctrinal, la definición canónica y el alcance estructural de la **U** en el Sistema Vectorial SV.
 
----
+## Criterio de jerarquía
 
-*ISSN 2695-6411 · CC BY-NC-ND 4.0*
+La interpretación de cualquier archivo incluido en esta carpeta queda subordinada a los siguientes textos, por este orden:
+
+1. **Fundamentos algebraico-semánticos del Sistema Vectorial SV**
+2. **Documentos I–VI** de la serie **Álgebra de composición intercelular del Sistema Vectorial SV**
+3. **La guía práctica del conocimiento profundo y la crítica de la razón pura**
+4. Las presentes especificaciones subordinadas
+
+Ningún archivo de esta carpeta puede leerse como refundación, corrección lateral o sustitución de la doctrina ya publicada.
+
+## Relación con otros repositorios del ecosistema SV
+
+Las piezas aquí alojadas pueden tener proyección o reflejo técnico en otros repositorios del ecosistema, especialmente:
+
+- el repositorio del lenguaje de computación del SV;
+- el repositorio de aplicación al marco SVperitus.
+
+En todos los casos, la prioridad doctrinal corresponde a este repositorio y, por encima de él, a la publicación canónica de `itvia.online`.
+
+## Regla editorial
+
+Los documentos del sistema se publican canónicamente en `itvia.online`.
+Los repositorios contienen código, datos, artefactos técnicos y reflejos doctrinales o formales asociados.
+
+Por ello, los archivos aquí incluidos no sustituyen la publicación canónica, sino que la acompañan dentro del entorno de trabajo y verificación del proyecto.
+
+## Estado
+
+Carpeta activada con núcleo doctrinal subordinado en desarrollo controlado.
