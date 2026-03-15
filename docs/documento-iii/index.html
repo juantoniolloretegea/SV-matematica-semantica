@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Documento III — Demostración audiovisual</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --text: #0f172a;
+      --muted: #475569;
+      --line: #e2e8f0;
+      --soft: #f1f5f9;
+      --accent: #0f172a;
+      --shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+      --radius: 18px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .wrap {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px 22px 44px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 24px;
+      margin-bottom: 22px;
+    }
+    .eyebrow {
+      font-size: 12px;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 4vw, 42px);
+      line-height: 1.12;
+    }
+    h2 {
+      margin: 0 0 10px;
+      font-size: 24px;
+      line-height: 1.2;
+    }
+    p { margin: 0; }
+    .muted { color: var(--muted); }
+    .lead { margin-top: 14px; max-width: 920px; }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 11px 15px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--text);
+      text-decoration: none;
+      box-shadow: var(--shadow);
+      white-space: nowrap;
+    }
+    .btn.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    video {
+      width: 100%;
+      display: block;
+      border-radius: 14px;
+      background: #000;
+    }
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0,1fr));
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .mini {
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 14px;
+    }
+    .mini .k {
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 6px;
+    }
+    ul {
+      margin: 10px 0 0 18px;
+      padding: 0;
+    }
+    li { margin: 8px 0; }
+    footer {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 24px;
+    }
+    @media (max-width: 820px) {
+      .meta { grid-template-columns: repeat(2, minmax(0,1fr)); }
+    }
+    @media (max-width: 560px) {
+      .meta { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="card">
+      <div class="eyebrow">Documento III</div>
+      <h1>Demostración audiovisual — Horizonte de sucesos y reevaluación discreta</h1>
+      <p class="lead muted">Esta página complementa el Documento III de la serie de composición intercelular y ofrece una visualización audiovisual directa del contenido dentro del propio ecosistema web publicado del repositorio, sin depender de servicios externos.</p>
+      <div class="actions">
+        <a class="btn primary" href="../index.html">Volver a la puerta de entrada</a>
+        <a class="btn" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/composicion/III_horizonte_sucesos_reevaluacion_discreta.md" target="_blank" rel="noopener noreferrer">Abrir Documento III en GitHub</a>
+        <a class="btn" href="https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/2" target="_blank" rel="noopener noreferrer">Abrir Release 2 en PubPub</a>
+      </div>
+    </section>
+
+    <section class="card">
+      <video controls preload="metadata">
+        <source src="../media/documento-iii-explicacion.mp4" type="video/mp4">
+        Su navegador no puede reproducir este vídeo HTML5.
+      </video>
+      <div class="meta">
+        <div class="mini"><div class="k">Documento</div><div>III — Horizonte de sucesos y reevaluación discreta</div></div>
+        <div class="mini"><div class="k">Release canónica</div><div>PubPub Release 2</div></div>
+        <div class="mini"><div class="k">Formato</div><div>MP4</div></div>
+        <div class="mini"><div class="k">Integración</div><div>GitHub Pages</div></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Función de esta pieza audiovisual</h2>
+      <p class="muted">El vídeo no sustituye el Documento III, sino que actúa como apoyo explicativo para facilitar su comprensión. Su lugar natural es esta página auxiliar, enlazada desde el documento doctrinal y servida desde la misma infraestructura web del repositorio.</p>
+      <ul>
+        <li>mantiene la referencia doctrinal principal en la Release 2 de PubPub;</li>
+        <li>preserva el control material del activo audiovisual dentro del propio repositorio;</li>
+        <li>permite una reproducción directa sin recurrir a plataformas externas.</li>
+      </ul>
+    </section>
+
+    <footer>
+      Juan Antonio Lloret Egea © · ITVIA · Documento auxiliar vinculado al Documento III del repositorio SV-matematica-semantica
+    </footer>
+  </div>
+</body>
+</html>
