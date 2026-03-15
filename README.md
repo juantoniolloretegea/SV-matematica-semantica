@@ -26,7 +26,7 @@ Licencia: CC BY-NC-ND 4.0
 | I. Transmisión en serie por parámetro puente | Release 4 | enlace | `documentos/composicion/I_transmision_serie_por_puente.md` |
 | II. Gramática general de composición | Release 1 | enlace | `documentos/composicion/II_gramatica_general_composicion.md` |
 | III. Horizonte de sucesos y reevaluación discreta | Release 1 | enlace | `documentos/composicion/III_horizonte_sucesos_reevaluacion_discreta.md` |
-| IV. Transducción al alfabeto ternario e interfaz paramétrica del sistema | Release 1 | enlace | `documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
+| IV. Transducción al alfabeto ternario e interfaz paramétrica del sistema | Release 2 | enlace | `documentos/composicion/IV_transduccion_alfabeto_ternario_interfaz_parametrica.md` |
 | V. Invariantes, agentes especializados y operador de consulta del sistema | Release 2 | enlace | `documentos/composicion/V_invariantes_agentes_operador_consulta.md` |
 | VI. Análisis discreto, representaciones y herramientas de secuencias del sistema | Release 1 | enlace | `documentos/composicion/VI_analisis_discreto_representaciones_secuencias.md` |
 
