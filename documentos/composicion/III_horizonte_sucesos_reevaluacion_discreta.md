@@ -1,30 +1,25 @@
-<!-- Publicado en PubPub: https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1 -->
-
-# Álgebra de composición intercelular del marco SV
-
+# Álgebra de composición intercelular del marco SV  
 ## III. Horizonte de sucesos y reevaluación discreta
 
-**Autor:** Juan Antonio Lloret Egea
-
-**ORCID:** 0000-0002-6634-3351
-
-**Versión:** 1
-
-**Lugar y fecha:** Madrid, 11/03/2026
-
-**Estado:** Documento doctrinal publicado
-
+**Autor:** Juan Antonio Lloret Egea  
+**ORCID:** 0000-0002-6634-3351  
+**Versión:** 1  
+**Lugar y fecha:** Madrid, 11/03/2026  
+**Estado:** Documento doctrinal publicado  
 CC BY-NC-ND 4.0 · ISSN 2695-6411
+
+> [!NOTE]
+> La Release 2 publicada de este documento incorpora una demostración audiovisual complementaria, accesible en la <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/documento-iii/" target="_blank" rel="noopener noreferrer">página web auxiliar del Documento III</a>.
 
 ---
 
 ## Resumen
 
-Este documento extiende el Sistema Vectorial SV con una capa formal de reevaluación discreta subordinada a la gramática espacial ya fijada en los *Fundamentos* y en los Documentos I y II. Su objeto no es el tiempo como primitivo del sistema, sino la sucesión ordenada de reevaluaciones desencadenadas por sucesos declarados pertenecientes al horizonte propio de una arquitectura compositiva.
+Este documento extiende el Sistema Vectorial SV con una capa formal de reevaluación discreta subordinada a la gramática espacial ya fijada en los *Fundamentos* y en los Documentos I y II.
 
-El documento introduce seis primitivos formales: el horizonte de sucesos ℋ(𝒜), el frame canónico Sₙ, el dato de transición νₙ, el operador inducido 𝒯_{νₙ}, la trayectoria T y la relación general de cambio de criticidad δ_Γ. Sobre esta base se establecen tres proposiciones nucleares: inmutabilidad del frame, reproducibilidad de la trayectoria bajo condiciones de cierre suficiente y acotación de cascada en régimen simple.
+Su objeto no es el tiempo como primitivo del sistema, sino la sucesión ordenada de reevaluaciones desencadenadas por sucesos declarados pertenecientes al horizonte propio de una arquitectura compositiva. El documento introduce seis primitivos formales: el horizonte de sucesos ℋ(𝒜), el frame canónico Sₙ, el dato de transición νₙ, el operador inducido 𝒰_{νₙ}, la trayectoria T y la relación general de cambio de criticidad δ_Γ.
 
-La pieza no formaliza la transducción de magnitudes no nativas al alfabeto ternario. Esa cuestión queda reservada al Documento IV.
+Sobre esta base se establecen tres proposiciones nucleares: inmutabilidad del frame, reproducibilidad de la trayectoria bajo condiciones de cierre suficiente y acotación de cascada en régimen simple. La pieza no formaliza la transducción de magnitudes no nativas al alfabeto ternario. Esa cuestión queda reservada al Documento IV.
 
 ---
 
@@ -32,12 +27,15 @@ La pieza no formaliza la transducción de magnitudes no nativas al alfabeto tern
 
 ### 1.1. Tesis central
 
-El Sistema Vectorial SV evoluciona por **sucesos**, no por tiempo. Un sistema de células acopladas se reevalúa cuando uno o varios sucesos pertenecientes a su horizonte propio presentan incidencia, ausencia verificada o indeterminación. La sucesión ordenada de esas reevaluaciones constituye la trayectoria del sistema.
+El Sistema Vectorial SV evoluciona por **sucesos**, no por tiempo.
+
+Un sistema de células acopladas se reevalúa cuando uno o varios sucesos pertenecientes a su horizonte propio presentan incidencia, ausencia verificada o indeterminación. La sucesión ordenada de esas reevaluaciones constituye la trayectoria del sistema.
 
 ### 1.2. Qué hace este documento
 
-Este documento formaliza la reevaluación discreta de una arquitectura compositiva ya definida en el marco SV. Para ello:
+Este documento formaliza la reevaluación discreta de una arquitectura compositiva ya definida en el marco SV.
 
+Para ello:
 - declara el horizonte de sucesos relevante de la arquitectura;
 - define el frame canónico como evaluación completa del sistema tras sucesos pertinentes;
 - separa el dato de transición del operador que actualiza parámetros;
@@ -47,7 +45,6 @@ Este documento formaliza la reevaluación discreta de una arquitectura compositi
 ### 1.3. Qué no hace este documento
 
 Este documento no:
-
 - formaliza la transducción de señales continuas al alfabeto ternario;
 - introduce estadística, minería de datos o aprendizaje opaco como fundamento del sistema;
 - define una norma general de convergencia de trayectorias;
@@ -55,15 +52,17 @@ Este documento no:
 
 ### 1.4. El tiempo como medida y metadato
 
-En el marco SV, el tiempo no comparece como primitivo ontológico ni como causa del cambio. Puede intervenir únicamente como instrumento de medida o como metadato de auditoría para registrar intervalos entre reevaluaciones. La medida acompaña al suceso; no lo funda ni lo reorganiza por sí misma.
+En el marco SV, el tiempo no comparece como primitivo ontológico ni como causa del cambio.
+
+Puede intervenir únicamente como instrumento de medida o como metadato de auditoría para registrar intervalos entre reevaluaciones. La medida acompaña al suceso; no lo funda ni lo reorganiza por sí misma.
 
 ---
 
 ## 2. Posición del Documento III en la serie
 
-Este documento constituye la tercera pieza de la teoría compositiva del marco SV.
+Este documento constituye la tercera pieza de la teoría compositiva del marco SV. El Documento I formalizó la transmisión en serie por parámetro puente. El Documento II elevó ese resultado a una gramática general de composición.
 
-El Documento I formalizó la transmisión en serie por parámetro puente. El Documento II elevó ese resultado a una gramática general de composición. El presente Documento III añade una capa nueva: la reevaluación discreta del sistema cuando se instancian sucesos relevantes ya legibles dentro del alfabeto ternario.
+El presente Documento III añade una capa nueva: la reevaluación discreta del sistema cuando se instancian sucesos relevantes ya legibles dentro del alfabeto ternario.
 
 ---
 
@@ -71,7 +70,7 @@ El Documento I formalizó la transmisión en serie por parámetro puente. El Doc
 
 ### 3.1. Arquitectura compositiva
 
-Sea 𝒜 una arquitectura compositiva del marco SV, ya definida por los objetos heredados de los *Fundamentos* y de los Documentos I y II.
+Sea una arquitectura compositiva 𝒜 del marco SV, ya definida por los objetos heredados de los *Fundamentos* y de los Documentos I y II.
 
 ### 3.2. Horizonte de sucesos
 
@@ -90,7 +89,6 @@ Todo suceso instanciado se expresa en el alfabeto
 > Σ = {0, 1, U}
 
 con la interpretación siguiente:
-
 - 1: consta su incidencia;
 - 0: consta su no incidencia conforme al protocolo de observación del dominio;
 - U: el sistema no puede cerrar su estado de forma suficiente.
@@ -119,7 +117,7 @@ El dato puede incorporar, además, la lista constitutiva de parámetros modifica
 
 A cada dato de transición suficientemente determinado le corresponde un operador inducido
 
-> 𝒯_{νₙ}
+> 𝒰_{νₙ}
 
 que actúa sobre el estado paramétrico del sistema y produce la actualización necesaria para una nueva evaluación.
 
@@ -153,9 +151,9 @@ Un suceso forma parte de ℋ(𝒜) si su incidencia, ausencia o indeterminación
 
 ### 4.3. Ejemplo abstracto
 
-En una arquitectura técnica, el horizonte puede contener sucesos como pérdida de suministro, rotura de componente, degradación de material o fallo de enlace. En una arquitectura clínica, puede contener resultados de prueba, cambios sintomáticos, eventos terapéuticos o aparición de signos de alarma.
+En una arquitectura técnica, el horizonte puede contener sucesos como pérdida de suministro, rotura de componente, degradación de material o fallo de enlace.
 
-Lo relevante no es el dominio concreto, sino que los sucesos estén declarados de forma formal y evaluable.
+En una arquitectura clínica, puede contener resultados de prueba, cambios sintomáticos, eventos terapéuticos o aparición de signos de alarma. Lo relevante no es el dominio concreto, sino que los sucesos estén declarados de forma formal y evaluable.
 
 ---
 
@@ -169,7 +167,7 @@ Una vez construido, un frame pasado no puede ser modificado por operaciones post
 
 ### 5.2. Proposición 2 — Reproducibilidad de la trayectoria
 
-Dado un frame inicial S₁ y una secuencia de datos de transición con contenido constitutivo suficiente para determinar cada operador inducido 𝒯_{νₙ}, todo frame posterior de la trayectoria es recalculable de forma determinista.
+Dado un frame inicial S₁ y una secuencia de datos de transición con contenido constitutivo suficiente para determinar cada operador inducido 𝒰_{νₙ}, todo frame posterior de la trayectoria es recalculable de forma determinista.
 
 **Observación:** los casos con indeterminación no cerrada pueden quedar fuera de este cierre fuerte.
 
@@ -196,7 +194,6 @@ La trayectoria puede incorporar además reevaluaciones de observación sin cambi
 La reevaluación no sustituye la gramática espacial ya fijada en el SV. La reactiva.
 
 Según el patrón compositivo, un dato de transición puede producir:
-
 - propagación lineal en serie;
 - propagación lateral en compuertas;
 - veto vertical en supervisión meta;
@@ -210,16 +207,13 @@ La trayectoria recoge esas reevaluaciones; la gramática espacial determina cóm
 
 El Documento III opera exclusivamente con sucesos ya legibles en el alfabeto ternario.
 
-El Documento IV formalizará cómo magnitudes no nativas del sistema llegan a ser ternarizables e ingresan en el horizonte de sucesos de la arquitectura.
-
-El Documento III no transduce. El Documento IV no organiza trayectorias. El IV presupone el III.
+El Documento IV formalizará cómo magnitudes no nativas del sistema llegan a ser ternarizables e ingresan en el horizonte de sucesos de la arquitectura. El Documento III no transduce. El Documento IV no organiza trayectorias. El IV presupone el III.
 
 ---
 
 ## 9. Límites de cierre
 
 Quedan expresamente fuera del cierre actual:
-
 - una axiomática general de horizontes bien formados;
 - una norma general de convergencia o divergencia de trayectorias;
 - una función de mérito inter-dominio;
@@ -231,7 +225,7 @@ Quedan expresamente fuera del cierre actual:
 
 El marco SV queda extendido con una capa de reevaluación discreta subordinada a su gramática espacial previa.
 
-El mecanismo formal es el siguiente: el diseñador declara ℋ(𝒜); uno o varios sucesos del horizonte se instancian con estado en Σ; el dato νₙ registra esa actualización; el operador 𝒯_{νₙ} actúa sobre el sistema; la evaluación espacial ℰ produce un nuevo frame; y la trayectoria T acumula la secuencia sin reescritura.
+El mecanismo formal es el siguiente: el diseñador declara ℋ(𝒜); uno o varios sucesos del horizonte se instancian con estado en Σ; el dato νₙ registra esa actualización; el operador 𝒰_{νₙ} actúa sobre el sistema; la evaluación espacial ℰ produce un nuevo frame; y la trayectoria T acumula la secuencia sin reescritura.
 
 Esta extensión no altera la base algebraico-semántica del SV. La hace evolucionar.
 
@@ -239,16 +233,16 @@ Esta extensión no altera la base algebraico-semántica del SV. La hace evolucio
 
 ## Referencias
 
-[R1] Juan Antonio Lloret Egea. *Fundamentos algebraico-semánticos del Sistema Vectorial SV.* v1.0.0, Release 3. ITVIA, 2026.
+[R1] Juan Antonio Lloret Egea. *Fundamentos algebraico-semánticos del Sistema Vectorial SV.* v1.0.0, Release 3. ITVIA, 2026.  
 https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3
 
-[R2] Juan Antonio Lloret Egea. *Álgebra de composición intercelular del marco SV — I. Transmisión en serie por parámetro puente.* v1, Release 4. ITVIA, 2026.
+[R2] Juan Antonio Lloret Egea. *Álgebra de composición intercelular del marco SV — I. Transmisión en serie por parámetro puente.* v1, Release 4. ITVIA, 2026.  
 https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4
 
-[R3] Juan Antonio Lloret Egea. *Álgebra de composición intercelular del marco SV — II. Gramática general de composición.* v1.0, Release 1. ITVIA, 2026.
+[R3] Juan Antonio Lloret Egea. *Álgebra de composición intercelular del marco SV — II. Gramática general de composición.* v1.0, Release 1. ITVIA, 2026.  
 https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1
 
-[R4] Juan Antonio Lloret Egea. *La guía práctica del conocimiento profundo y la crítica de la razón pura.* v1.0.0, Release 2. ITVIA, 2026.
+[R4] Juan Antonio Lloret Egea. *La guía práctica del conocimiento profundo y la crítica de la razón pura.* v1.0.0, Release 2. ITVIA, 2026.  
 https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-critica-de-la-razon-pura/release/2
 
 ---
@@ -262,7 +256,7 @@ https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-crit
 | Σ = {0, 1, U} | Alfabeto ternario |
 | Sₙ | Frame canónico |
 | νₙ | Dato de transición |
-| 𝒯_{νₙ} | Operador inducido por el dato |
+| 𝒰_{νₙ} | Operador inducido por el dato |
 | T | Trayectoria del sistema |
 | δ_Γ | Relación de cambio de criticidad |
 
@@ -270,14 +264,15 @@ https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-crit
 
 ## Ejemplo mínimo de notación
 
-    Arquitectura fija:      𝒜
-    Horizonte declarado:    ℋ(𝒜) = {ε₁, ε₂, ε₃}
-    Dato de transición:     ν₁ = {(ε₂, 1), (ε₃, U)}
-    Actualización:          P₂ = 𝒯_{ν₁}(P₁)
-    Reevaluación:           S₂ = ℰ(𝒜, P₂)
-    Trayectoria:            T = (S₁, ν₁, S₂)
+Arquitectura fija: 𝒜  
+Horizonte declarado: ℋ(𝒜) = {ε₁, ε₂, ε₃}  
+Dato de transición: ν₁ = {(ε₂, 1), (ε₃, U)}  
+Actualización: P₂ = 𝒰_{ν₁}(P₁)  
+Reevaluación: S₂ = ℰ(𝒜, P₂)  
+Trayectoria: T = (S₁, ν₁, S₂)
 
 ---
 
-*Documento doctrinal del Sistema Vectorial SV. ISSN 2695-6411.*
+*Documento doctrinal del Sistema Vectorial SV.  
+ISSN 2695-6411.*  
 *Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0*
