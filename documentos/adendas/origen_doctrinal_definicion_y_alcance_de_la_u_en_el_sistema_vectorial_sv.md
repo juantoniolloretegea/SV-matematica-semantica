@@ -405,7 +405,7 @@ Su razón de ser no es alterar el proyecto, sino evitar que la dispersión de la
 
 ### Guía transversal
 
-- **[G1]** Lloret Egea, Juan Antonio. *La guía práctica del conocimiento profundo y la crítica de la razón pura*. Corolario del Documento 8 de la serie *De SVcustos, el marco (framework) de intrusión, hasta SVperitus: agentes especializados*. ITVIA, versión 1.0.0, publicado el 07/03/2026. DOI: `10.21428/39829d0b.a2c17dcf`. URL canónica: `https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundo-y-la-critica-de-la-razon-pura/release/2`. ISSN: 2695-6411. ORCID: 0000-0002-6634-3351.
+- **[G1]** Lloret Egea, Juan Antonio. *La guía práctica del conocimiento profundo y la crítica de la razón pura*. Corolario del Documento 8 de la serie *De SVcustos, el marco (framework) de intrusión, hasta SVperitus: agentes especializados*. ITVIA, versión 1.0.0, publicado el 07/03/2026. DOI: `10.21428/39829d0b.a2c17dcf`. URL canónica: `https://www.itvia.online/pub/la-guia-practica-del-conocimiento-profundoy-la-critica-de-la-razon-pura/release/2. ISSN: 2695-6411. ORCID: 0000-0002-6634-3351.
 
 ### Repositorios y textos técnicos asociados
 
