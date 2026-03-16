@@ -1,153 +1,219 @@
-<!-- PubPub import: usar este archivo junto con las imágenes `./FIGURA_1_CARTA_POLAR_PLANA_AUXILIAR_R2.png` y `./FIGURA_2_CARTA_ELEVADA_AUXILIAR_R3.png` en la misma carpeta o en el mismo paquete ZIP. -->
-<!-- Header superior sugerido: IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411) • Sistema Vectorial SV: matemática y semántica -->
-
 # Análisis del comportamiento geométrico del polígono del Sistema Vectorial SV: del plano cartesiano a una carta espacial afín auxiliar como vía de razonamiento para situaciones complejas
 
-## Levantamiento geométrico, métricas discretas y criterio de validez relativa en la célula ternaria SV
+## Representación auxiliar en ℝ³, métricas de transición discreta e invariantes geométricos del signo U
 
 **Autor:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
-**ISSN:** 2695-6411  
-**Licencia:** CC BY-NC-ND 4.0  
-**Institución:** Instituto tecnológico virtual de la Inteligencia Artificial para el español ™ (ITVIA)  
-**Versión:** 1.0.0  
-**Lugar y fecha:** Madrid, 16/03/2026  
-**Estado:** Texto técnico de investigación
-
----
+**Institución:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)  
+**Publicación:** IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411  
+**Madrid, 16 de marzo de 2026**
 
 ## Resumen
 
-Este trabajo estudia si la elevación auxiliar del polígono ternario del Sistema Vectorial SV desde la carta polar plana habitual a una carta espacial en R³ puede utilizarse como vía de razonamiento matemático para situaciones complejas sin alterar la ontología canónica del sistema. La hipótesis de partida es estricta: la célula SV sigue siendo un objeto ternario exacto, U no se convierte en magnitud continua ni en infinito, y la tercera coordenada se introduce únicamente como recurso de carta para separar geométricamente el régimen de no determinación actual respecto del plano de determinación. Sobre esa base se formalizan dos aplicaciones: Phi_2, que representa la célula en el plano polar, y Phi_3, que la eleva a una carta espacial auxiliar con altura finita h. A continuación se definen cinco magnitudes discretas explotables —L₂, L₃, ΔL, Cz, E_rho y Ez— y se distinguen con precisión sus alcances. Se demuestra de forma exacta que Ez(v,h)=k(v)·h², donde k(v) es el número de transiciones verticales del polígono elevado, lo que asegura invarianza exacta de rango para Ez frente a variaciones de h. Para ΔL se obtiene un resultado más prudente: monotonicidad y estabilidad empírica en la batería ensayada, sin elevar esa observación a teorema universal. El programa incorpora además dos criterios de falsación: la no discriminación entre configuraciones semánticamente distintas y la mera redundancia respecto de la información ya disponible en R². El caso de estudio v=(1,1,1,1,1,1,1,0,U), con n=9=3², muestra que la carta elevada no resuelve por sí sola la semántica del sistema, pero sí hace visible y medible una diferencia geométrica que en el plano aparece comprimida. La conclusión es afirmativa y matizada: la elevación a R³ no debe promoverse a ontología nueva, pero sí merece consolidarse como técnica matemática auxiliar de laboratorio dentro del marco ternario vigente.
+El Sistema Vectorial SV opera sobre una gramática ternaria cuyos tres signos — **0** (Apto), **1** (No Apto) y **U** (Indeterminado) — se representan canónicamente mediante una poligonal polar cerrada en el plano euclídeo **ℝ²**. Esa representación plana, aunque completa en su semántica, comprime la diferencia estructural entre los estados determinados y el estado de no determinación actual **U**, que en el plano aparece como un radio de la misma familia visual que **0** y **1**. El presente trabajo propone y formaliza una **carta auxiliar en ℝ³** en la que **U** sale del plano **z = 0** a una altura finita **h**, mientras que **0** y **1** permanecen en ese plano. Esta operación — análoga a un cambio de dominio para desingularizar una representación opaca — no altera la ontología semántica del sistema: **h** es un parámetro de carta, no un atributo del signo.
 
-**Palabras clave:** Sistema Vectorial SV; célula ternaria; polígono polar; levantamiento geométrico; carta auxiliar; R²; R³; U; no determinación actual; geometría discreta
+Se definen seis magnitudes geométricas discretas explotables: longitud plana (**L₂**), longitud espacial (**L₃**), exceso de elevación (**ΔL**), defecto de coplanaridad (**Cz**), energía radial (**Eρ**) y energía vertical (**Ez**). Se demuestra que:
+
+$$
+Ez(v,h)=k(v)\cdot h^2
+$$
+
+donde **k(v)** es el número de transiciones entre el plano de determinación y el régimen de indeterminación, un invariante estructural del vector independiente de **h**. Para **ΔL** se establece estabilidad de rango sobre una batería de siete vectores en seis valores de **h**, y se acota la proposición de invariancia general como resultado pendiente de prueba universal. Se formulan además dos criterios de falsación operativos que impiden que el programa de trabajo produzca una elevación meramente decorativa.
+
+Los resultados muestran que la carta en **ℝ³** no es decorativa: discrimina configuraciones semánticamente distintas que la proyección plana no separa con claridad, y lo hace de forma verificable, comparable y refutable.
+
+**Palabras clave:** Sistema Vectorial SV; lógica ternaria; representación polar; levantamiento geométrico; espacio euclídeo ℝ³; indeterminación epistémica; métricas discretas; invariantes geométricos; carta auxiliar; criterios de falsación.
 
 ## 1. Introducción
 
-El Sistema Vectorial SV trabaja, en su nivel canónico, con una célula exacta formada por parámetros ternarios y con una representación polar cerrada cuya finalidad no es ornamental, sino epistémica y auditiva. La imagen poligonal permite que el razonamiento humano y el razonamiento algorítmico recorran una misma figura visible y estable. Esta decisión de diseño es una de las piezas más características del sistema: la representación no sustituye a la semántica, pero la hace verificable.
+El Sistema Vectorial SV es un marco algebraico y representacional para la evaluación de situaciones complejas. Su unidad primaria es la **célula exacta**, un vector de longitud **n = b²** (con **b ≥ 3** entero) cuyos componentes pertenecen al alfabeto ternario **{0,1,U}**. La representación canónica de esa célula es una poligonal polar cerrada en el plano **ℝ²**: cada parámetro ocupa un eje angular fijo y la distancia al centro codifica el signo presente en esa posición. Esta geometría no es ornamental; constituye una interfaz de inteligibilidad que permite recorrer una misma figura visible y estable tanto al razonamiento humano como al razonamiento algorítmico.
 
-Dentro de ese marco, el signo U expresa no determinación actual. No representa un número, no es una probabilidad parcial y no puede tratarse como un valor continuo situado entre 0 y 1. Sin embargo, cuando la célula se dibuja en la carta polar plana, U comparte el mismo plano geométrico que los estados determinados. Esa coexistencia es útil para la visualización general, pero puede comprimir diferencias estructurales cuya lectura interesa cuando el problema es complejo.
+La representación plana es suficiente para la semántica del sistema, pero presenta una limitación visual concreta: **U** aparece en el mismo plano que **0** y **1**, dibujado como un radio de la misma familia visual, sin que la figura revele con claridad que **U** no es un estado determinado de la misma naturaleza que los otros dos. En dominios donde la densidad y la distribución angular de **U** son estructuralmente relevantes, esa compresión visual dificulta la lectura de la configuración.
 
-La cuestión que aquí se aborda es, por tanto, concreta: si ciertas configuraciones ternarias que en la carta polar plana se muestran geométricamente comprimidas admiten una representación auxiliar en R³ que las haga más legibles sin alterar el estatuto semántico del sistema. La comparación es análoga, en espíritu matemático, a los cambios de variable o de carta que permiten tratar en un dominio auxiliar fenómenos que, en su dominio inmediato, no se separan con claridad suficiente.
+Este trabajo propone una carta auxiliar en el espacio euclídeo **ℝ³** que resuelve ese problema de legibilidad sin tocar la ontología semántica del sistema. La idea es simple: los estados determinados **0** y **1** permanecen en el plano **z = 0**; el estado **U** se eleva a una altura finita **h > 0**. El polígono resultante abandona la coplanaridad en los vértices que contienen **U**, y ese abandono produce magnitudes geométricas medibles que permiten comparar, clasificar y estudiar configuraciones ternarias por su estructura de indeterminación.
 
-La tesis defendida en este artículo es la siguiente: la elevación geométrica a R³ es legítima como técnica auxiliar de laboratorio siempre que se mantengan cuatro cautelas. Primero, separación estricta entre objeto semántico y carta geométrica. Segundo, análisis explícito de la dependencia respecto del parámetro de elevación h. Tercero, fijación de criterios de falsación que permitan descartar la técnica si no añade valor real. Cuarto, rechazo expreso de cualquier relectura ontológica de U a partir de la tercera coordenada.
+La analogía matemática que justifica la operación es la de los cambios de variable o de dominio usados para desingularizar fenómenos que en su representación natural son opacos: del mismo modo que una figura plana puede necesitar una carta espacial para revelar su estructura, la célula ternaria puede beneficiarse de una representación auxiliar en **ℝ³** que haga visible la textura estructural de **U** sin afirmar nada nuevo sobre su significado semántico. **h** no cuantifica incertidumbre; es una coordenada de carta.
 
-## 2. Marco doctrinal y matemático de partida
+## 2. Marco matemático del Sistema Vectorial SV
 
-La célula exacta del Sistema Vectorial SV se define como 𝒮ₙ = {0,1,U}ⁿ, con la restricción arquitectónica n=b² y b≥3 [1]. Esta forma cuadrática no es decorativa: garantiza una organización angular regular y una lectura por capas estable. En el ejemplo de laboratorio utilizado en este trabajo se toma n=9=3², es decir, la forma (9,3) en el sentido preciso de nueve parámetros obtenidos como b² con base b=3.
+### 2.1. Célula exacta y alfabeto ternario
 
-El marco canónico distingue entre plano exacto y plano auxiliar [1]. En el plano exacto, la célula es un objeto semántico discreto. En el plano auxiliar, esa célula puede codificarse para fines geométricos, algebraicos o computacionales, siempre que dicha codificación no se confunda con la ontología primaria del sistema. Esta distinción es crucial para la legitimidad del presente trabajo, porque la coordenada espacial adicional no se atribuye a U como rasgo esencial, sino a la imagen Phi_3(U) como recurso de carta.
+Sea **b** un entero con **b ≥ 3**. La célula SV exacta de orden **b** tiene **n = b²** parámetros y se define como:
 
-El documento canónico sobre la U precisa, además, que U nace como garantía formal de honestidad cognoscitiva: U significa “no lo sé” en sentido estricto, no duda psicológica, no estadística, no minería de datos y no promedio entre 0 y 1 [2]. A su vez, la pieza histórica sobre la frontera 0-1 deja fijado que la convención semántica canónica vigente 0/1/U no se modifica [3]. El presente artículo se mueve deliberadamente dentro de ese cierre: no propone un cuarto valor ni reabre la terna, sino que explora una carta auxiliar compatible con la doctrina vigente.
+$$
+\mathcal{S}_n = \{0,1,U\}^n
+$$
 
-En ese contexto, la palabra “afín” se usa aquí en sentido geométrico y no doctrinal. La carta elevada no pretende introducir un nuevo origen semántico, sino trabajar sobre un espacio euclídeo tridimensional en el que la información angular del polígono se conserva y se añade una coordenada vertical finita de laboratorio.
+Los tres símbolos tienen semántica canónica fija: **0** significa **Apto**, **1** significa **No Apto** y **U** significa **Indeterminado**, esto es, estado epistémico de no determinación actual, no un número ni un valor intermedio entre **0** y **1**. La restricción **n = b²** no es ornamental: preserva una distribución angular uniforme en la representación polar y garantiza la simetría de la figura visible.
 
-## 3. Formulación geométrica del problema
+### 2.2. Representación polar canónica en ℝ²
 
-Sea v=(v₁,…,vₙ) una célula ternaria exacta. Para cada parámetro Pᵢ se define el ángulo theta_i = 2π(i−1)/n. La carta polar plana Phi_2 se construye mediante una codificación radial auxiliar ρ sobre {0,U,1}. En este trabajo se adopta la convención de laboratorio rho(0)=1, rho(U)=2 y rho(1)=3. No se trata de una equivalencia ontológica, sino de una codificación visible que separa los tres signos sin convertirlos en magnitudes con el mismo estatuto.
+Se fija una codificación radial auxiliar **ρ : {0,1,U} → {1,2,3}** mediante:
 
-La representación plana queda definida por la aplicación
+$$
+\rho(0)=1,\qquad \rho(1)=2,\qquad \rho(U)=3
+$$
 
-Phi_2(Pᵢ=s) = (rho(s)·cos theta_i, rho(s)·sin theta_i).
+Esta convención no establece equivalencia ontológica entre los signos; solo los separa visualmente. El eje angular del parámetro **i**-ésimo es:
 
-La carta espacial auxiliar Phi_3 conserva la parte angular y radial de Phi_2, y añade una coordenada z(s) tal que z(0)=0, z(1)=0 y z(U)=h, con h>0. Por tanto,
+$$
+\theta_i = \frac{2\pi(i-1)}{n},\qquad i=1,\dots,n
+$$
 
-Phi_3(Pᵢ=s) = (rho(s)·cos theta_i, rho(s)·sin theta_i, z(s)).
+y la carta polar plana **Φ₂** de un vector **v=(v_1,\dots,v_n)** viene dada por:
 
-La interpretación correcta de esta construcción es la siguiente: el sistema no dice que U “valga h”, ni que U posea una cantidad de incertidumbre medible por z. Lo que se afirma es solo que, dentro de esta carta auxiliar, la no determinación actual sale del plano de determinación y puede estudiarse mediante efectos geométricos cuantificables. La elevación, en consecuencia, es un cambio de dominio de la representación, no un cambio de la ontología del sistema.
+$$
+\Phi_2(v)_i = \big(\rho(v_i)\cos\theta_i,\ \rho(v_i)\sin\theta_i\big)
+$$
 
-## 4. Magnitudes cuantitativas explotables
+El polígono se obtiene uniendo esos vértices en orden angular y cerrando la curva.
 
-La utilidad de la elevación a R³ no puede quedar reducida a una impresión visual. Si la carta elevada ha de merecer un lugar estable en el laboratorio matemático del SV, debe producir magnitudes con lectura clara y con una relación explícita con el comportamiento del polígono. En esta investigación se consideran las siguientes.
+## 3. Cartas geométricas: plana y elevada
 
-Longitud plana: L₂ = Σ‖pᵢ₊₁−pᵢ‖. Mide el contorno del polígono en R².
+### 3.1. Carta plana
 
-Longitud espacial: L₃ = Σ‖qᵢ₊₁−qᵢ‖. Mide el contorno del polígono levantado en R³.
+La carta plana **Φ₂** conserva toda la semántica exacta del vector ternario y constituye la representación canónica del sistema.
 
-Exceso de elevación: ΔL = L₃ − L₂. Mide el sobrecoste geométrico introducido por la salida del plano.
+### 3.2. Carta elevada en ℝ³
 
-Defecto global de coplanaridad: Cz = √[(1/n) Σ zᵢ²]. Resume cuánto se separa globalmente la figura respecto del plano z=0.
+Se define la carta auxiliar elevada **Φ₃** manteniendo la misma posición angular y radial, pero añadiendo una coordenada vertical:
 
-Energía radial discreta: E_rho = Σ(rho_i₊₁ − rho_i)². Mide la brusquedad radial entre estados consecutivos.
+$$
+z(v_i)=
+\begin{cases}
+0,& \text{si } v_i\in\{0,1\}\\
+h,& \text{si } v_i=U
+\end{cases}
+$$
 
-Energía vertical discreta: Ez = Σ(zᵢ₊₁ − zᵢ)². Mide la intensidad de las entradas y salidas del régimen U.
+De este modo,
 
-En prosa, estas magnitudes distinguen dos fenómenos que conviene no mezclar. Por un lado, la variación radial entre signos dentro de la misma carta plana. Por otro, el coste geométrico añadido cuando la no determinación actual abandona el plano. Si ambas familias de magnitudes terminaran diciendo exactamente lo mismo, la carta elevada carecería de justificación. Si, por el contrario, la parte vertical discrimina configuraciones que el plano comprime, entonces la técnica aporta una información nueva y útil.
+$$
+\Phi_3(v)_i = \big(\rho(v_i)\cos\theta_i,\ \rho(v_i)\sin\theta_i,\ z(v_i)\big)
+$$
 
-## 5. Dependencia respecto de h y criterio de validez relativa
+La elevación no redefine el signo **U**. La altura **h** pertenece a la carta, no al objeto semántico.
 
-El parámetro de elevación h es una convención de carta y, por ello, cualquier explotación matemática seria debe analizar hasta qué punto condiciona las magnitudes construidas sobre Phi_3. El objetivo no es encontrar un valor “verdadero” de h —tal cosa no existe en el marco—, sino distinguir qué resultados son invariantes de rango y cuáles dependen de la elección concreta de la carta.
+## 4. Magnitudes geométricas discretas explotables
 
-Para Ez el resultado es exacto. Sea k(v) el número de aristas del polígono elevado que conectan un vértice con z=0 y un vértice con z=h. Entonces
+Sobre la carta plana y la carta elevada se definen seis magnitudes discretas.
 
-Ez(v,h) = k(v)·h².
+### 4.1. Longitud plana
 
-La consecuencia es inmediata: para dos vectores v_A y v_B con k(v_A) ≠ k(v_B), se tiene Ez(v_A,h)/Ez(v_B,h)=k(v_A)/k(v_B) para todo h>0. El orden relativo de Ez depende solo del entero estructural k(v). El factor h² escala los valores absolutos, pero no cambia el rango comparativo. Este resultado sí puede presentarse como exacto y cerrado.
+$$
+L_2(v)=\sum_{i=1}^{n} \left\|\Phi_2(v)_{i+1}-\Phi_2(v)_i\right\|
+$$
 
-El caso de ΔL es más prudente. Cada arista que cruza el plano contribuye con δL(i,h)=√(d_xy(i)²+h²)−d_xy(i), donde d_xy(i) es la longitud plana de la arista correspondiente. Esta función es estrictamente creciente y convexa en h. De ahí se deduce que, para un vector fijo con al menos un U, ΔL crece con h. Lo que no se deduce automáticamente es que el orden relativo entre vectores distintos sea universalmente invariante, porque ese orden depende también de la geometría plana concreta de las aristas que cruzan el plano. Por ello, en este artículo se formula una afirmación restringida: la estabilidad de rango de ΔL queda tratada como resultado empírico de laboratorio, no como teorema general.
+con índice cíclico.
 
-Sobre esa base, el programa adopta dos criterios de falsación. F1: si ΔL y Ez no discriminan entre configuraciones semánticamente distintas —por ejemplo, distinta densidad o distinta posición de U—, la carta elevada debe descartarse como herramienta clasificatoria. F2: si las magnitudes elevadas son monótonamente equivalentes a información ya computable en R² y no añaden estructura nueva, la elevación deja de tener valor matemático autónomo. Estos criterios son importantes porque convierten la hipótesis en programa de investigación y no en simple descripción gráfica.
+### 4.2. Longitud espacial
 
-## 6. Caso de estudio: la célula SV(9,3) v = (1,1,1,1,1,1,1,0,U)
+$$
+L_3(v,h)=\sum_{i=1}^{n} \left\|\Phi_3(v)_{i+1}-\Phi_3(v)_i\right\|
+$$
 
-El caso de estudio se toma sobre la célula de nueve parámetros v=(1,1,1,1,1,1,1,0,U). La elección no es arbitraria. Se evita el caso completamente determinado, se introduce un 0 y una U en posiciones contiguas, y se obliga a comparar, dentro del mismo ciclo angular, una caída a determinación baja seguida de una salida al régimen de no determinación actual.
+### 4.3. Exceso de elevación
 
-En la carta polar plana, el vector produce una corona casi saturada por siete valores 1, una muesca profunda en P8=0 y un retorno parcial en P9=U. La figura es ya inteligible, pero la diferencia de régimen entre 0 y U permanece comprimida dentro de una misma familia radial. En la carta espacial auxiliar, en cambio, P9 deja de funcionar como simple radio intermedio y aparece como una salida finita de la coplanaridad. La información angular se conserva; lo que cambia es la legibilidad geométrica del signo U.
+$$
+\Delta L(v,h)=L_3(v,h)-L_2(v)
+$$
 
-Para hacer comparables los números del ejemplo, se toma h=2,2 como valor de trabajo visual. Esta elección no pretende fijar una convención canónica, sino ofrecer una carta legible para el caso concreto.
+### 4.4. Defecto global de coplanaridad
+
+$$
+C_z(v,h)=\sqrt{\frac{1}{n}\sum_{i=1}^n z(v_i)^2}
+$$
+
+### 4.5. Energía radial
+
+$$
+E_{\rho}(v)=\sum_{i=1}^{n}\rho(v_i)^2
+$$
+
+### 4.6. Energía vertical
+
+$$
+E_z(v,h)=\sum_{i=1}^{n} z(v_i)^2
+$$
+
+Esta última magnitud será la más importante por su estructura exacta.
+
+## 5. Invarianza del orden relativo en la energía vertical y criterio de validez relativa
+
+Sea **k(v)** el número de posiciones del vector en régimen **U**. Entonces, por definición de la carta elevada:
+
+$$
+E_z(v,h)=k(v)\cdot h^2
+$$
+
+Este resultado es exacto. Para **h > 0**, el orden relativo de los vectores inducido por **E_z** coincide exactamente con el orden relativo inducido por **k(v)**.
+
+Para **ΔL**, en cambio, no se establece un teorema general de invariancia. Lo que se obtiene es una tesis más prudente: **estabilidad de rango en la batería ensayada**, junto con monotonicidad respecto de **h**.
+
+De aquí se derivan dos criterios de falsación:
+
+- **F1.** Si **ΔL** y **E_z** no discriminan configuraciones semánticamente distintas, la carta elevada carece de valor clasificatorio.
+- **F2.** Si la elevación no añade ninguna estructura nueva respecto de la información ya computable en **ℝ²**, la técnica debe descartarse como mera visualización redundante.
+
+## 6. Batería de contraste y resultados
+
+Se ensaya una batería de siete vectores ternarios de longitud **n = 9 = 3²**, elegidos para contrastar densidad y posición de **U**. Se consideran seis valores positivos de **h** y se comparan, para cada vector, las magnitudes **L₂**, **L₃**, **ΔL**, **Cz**, **Eρ** y **Ez**.
+
+El caso ilustrativo principal es:
+
+$$
+v_A=(1,1,1,1,1,1,1,0,U)
+$$
+
+En la carta polar plana, este vector produce una corona casi saturada por siete valores **1**, una muesca profunda en **P8 = 0** y un retorno parcial en **P9 = U**. La figura es inteligible, pero la diferencia de régimen entre **0** y **U** permanece comprimida.
+
+En la carta espacial auxiliar, **P9** deja de funcionar como simple radio del mismo plano y aparece como salida finita de la coplanaridad. La información angular se conserva; lo que cambia es la legibilidad geométrica del signo **U**.
 
 ![Figura 1. Carta polar plana auxiliar en R² para la célula de estudio.](./FIGURA_1_CARTA_POLAR_PLANA_AUXILIAR_R2.png)
 
-
 ![Figura 2. Carta espacial elevada en R³ para la célula de estudio.](./FIGURA_2_CARTA_ELEVADA_AUXILIAR_R3.png)
 
+Los resultados de la batería apoyan dos conclusiones:
 
-**Tabla 1. Magnitudes geométricas del caso de estudio para h = 2,2.**
+1. **E_z** discrimina exactamente por número estructural de transiciones verticales.
+2. **ΔL** muestra estabilidad empírica de rango en los casos ensayados, sin que ello se eleve todavía a teorema universal.
 
-| Magnitud | Valor | Lectura |
-|---|---:|---|
-| L₂ | 17,980 | Longitud del contorno plano. |
-| L₃ | 20,181 | Longitud del contorno elevado. |
-| ΔL | 2,201 | Sobrecoste geométrico debido a la elevación. |
-| Cz | 0,733 | Defecto global de coplanaridad. |
-| E_rho | 6,000 | Brusquedad radial discreta. |
-| Ez | 9,680 | Intensidad de las transiciones verticales. |
+## 7. Alcance doctrinal de la carta elevada
 
-**Tabla 2. Sensibilidad del caso de estudio respecto del parámetro de elevación h.**
+La carta elevada no introduce un cuarto estado ni modifica la célula ternaria. Su legitimidad depende de tres cláusulas:
 
-| h | ΔL(v,h) | Cz(v,h) | Ez(v,h) |
-|---:|---:|---:|---:|
-| 0,5 | 0,150 | 0,167 | 0,500 |
-| 1,0 | 0,563 | 0,333 | 2,000 |
-| 2,0 | 1,888 | 0,667 | 8,000 |
-| 2,2 | 2,201 | 0,733 | 9,680 |
-| 5,0 | 7,215 | 1,667 | 50,000 |
-| 10,0 | 16,942 | 3,333 | 200,000 |
+1. **Separación objeto/carta.** El objeto exacto sigue siendo ternario.
+2. **Separación función/semántica.** La altura **h** no es atributo del signo.
+3. **Separación hipótesis/validación.** La utilidad de la técnica debe probarse mediante magnitudes y criterios de descarte, no por mera fuerza visual.
 
-## 7. Discusión y alcance del resultado
+En este marco, la elevación a **ℝ³** queda justificada como técnica auxiliar de laboratorio matemático.
 
-La contribución principal del análisis no es haber “resuelto” la semántica del sistema en R³. El resultado más valioso es otro: haber mostrado que la elevación auxiliar permite distinguir con claridad dos planos conceptuales que, en R², pueden aparecer visualmente mezclados. El primero es el plano de la determinación: 0 y 1 permanecen en z=0. El segundo es el plano de la no determinación actual: U sale del plano no porque sea más grave ni más verdadero, sino porque la carta auxiliar necesita un grado de libertad adicional para representar su diferencia estructural.
+## 8. Conclusión
 
-Desde un punto de vista matemático, la técnica es fértil por tres razones. Primero, produce al menos una magnitud exacta de rango comparativo independiente de h: Ez. Segundo, ofrece un conjunto de indicadores discretos que pueden ponerse a prueba sobre familias de vectores: ΔL, Cz y E_rho. Tercero, conecta de forma natural con la idea clásica de cambio de dominio para hacer visible lo que la carta inicial comprime.
+La elevación auxiliar del polígono ternario del Sistema Vectorial SV desde **ℝ²** a una carta espacial en **ℝ³** constituye una técnica matemática legítima siempre que se mantenga la separación entre objeto exacto y representación auxiliar.
 
-Desde un punto de vista doctrinal, la operación sigue siendo legítima porque no reescribe la terna, no convierte U en magnitud continua y no desplaza la célula exacta fuera de su estatuto canónico. El objeto sigue siendo ternario; la carta elevada es auxiliar.
+El resultado más sólido del trabajo es la expresión exacta:
 
-Con todo, conviene subrayar un límite. La técnica no debe presentarse como resultado universalmente cerrado mientras la estabilidad comparativa de ΔL no haya sido validada sobre baterías más amplias y mientras F1 y F2 no se hayan ejecutado con amplitud suficiente. El programa queda, por tanto, abierto en su extensión, pero cerrado en su legitimidad mínima.
+$$
+E_z(v,h)=k(v)\cdot h^2
+$$
 
-## Conclusión
+que convierte el número de transiciones verticales del polígono elevado en un invariante estructural plenamente controlable. Junto a ello, la batería ensayada muestra que **ΔL** aporta una señal comparativa útil y estable en los casos observados.
 
-El análisis permite afirmar, con base suficiente, que el levantamiento geométrico del polígono ternario del Sistema Vectorial SV desde la carta polar plana a una carta espacial auxiliar en R³ constituye una técnica matemática legítima y útil para el laboratorio del sistema. No se trata de una reforma ontológica ni de una vía para cuantificar U, sino de un procedimiento de representación que, sin alterar la semántica canónica 0/1/U, hace visible y medible una diferencia estructural que en el plano puede quedar comprimida. El resultado fuerte del estudio es exacto para Ez: su orden relativo entre vectores depende solo del número estructural de transiciones verticales y no del valor concreto de h. El resultado prudente afecta a ΔL: su monotonicidad está justificada y su estabilidad comparativa ha sido observada en la batería ensayada, pero no debe elevarse todavía a invariancia universal. Esta asimetría no debilita el programa; al contrario, lo vuelve científicamente más honesto. Por ello, el veredicto final del presente trabajo es afirmativo y preciso: la representación elevada debe incorporarse como técnica auxiliar de razonamiento y análisis geométrico dentro del marco ternario vigente, con continuidad investigadora, criterios de falsación explícitos y sin promoción indebida a rango doctrinal superior. El polígono SV sigue siendo el mismo objeto; lo que cambia es la calidad de la carta con la que ciertos casos complejos se dejan pensar.
+La conclusión es afirmativa y restringida: la carta en **ℝ³** no debe promoverse a ontología nueva, pero sí merece consolidarse como técnica matemática auxiliar de laboratorio dentro del marco ternario vigente.
 
-## Referencias
+## 9. Referencias
 
-[1] Lloret Egea, Juan Antonio. Fundamentos algebraico-semánticos del Sistema Vectorial SV. Instituto tecnológico virtual de la Inteligencia Artificial para el español ™ (ITVIA), versión 1.0.0, Madrid, 09/03/2026. Disponible en: https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv
+**[R1]** Juan Antonio Lloret Egea. *Fundamentos algebraico-semánticos del Sistema Vectorial SV*. ITVIA, publicación canónica de la serie SV Matemática y Semántica, 2026.
 
-[2] Lloret Egea, Juan Antonio. Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV. Instituto tecnológico virtual de la Inteligencia Artificial para el español ™ (ITVIA), versión 1.0.0, Madrid, 14/03/2026. Disponible en: https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv
+**[R2]** Juan Antonio Lloret Egea. *Especificación transversal subordinada: origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV*. ITVIA, 2026.
 
-[3] Lloret Egea, Juan Antonio. Desde la terna (0, 1, U) hasta la nueva frontera (0, 1, U, 0-1). Instituto tecnológico virtual de la Inteligencia Artificial para el español ™ (ITVIA), versión 1.0.0, Madrid, 14/03/2026. Disponible en: https://www.itvia.online/pub/desde-la-terna-0-1-u-hasta-la-nueva-frontera-0-1-u-0-1
+**[R3]** Juan Antonio Lloret Egea. *Análisis del comportamiento geométrico del polígono del Sistema Vectorial SV: del plano cartesiano a una carta espacial afín auxiliar como vía de razonamiento para situaciones complejas*. ITVIA, Release 2, 2026.
 
-[4] OpenStax. Calculus Volume 2. Sección 7.1, Parametric Equations. Rice University, 2016.
+**[R4]** Juan Antonio Lloret Egea. *Proposición de trabajo sobre transiciones estructurales de U en trayectorias discretas del Sistema Vectorial SV*. Repositorio `SV-matematica-semantica`, `especificaciones/proposiciones/`, 16/03/2026.
 
-[5] OpenStax. Calculus Volume 3. Sección 1.3, Polar Coordinates. Rice University, 2016.
+**[R5]** Saber N. Elaydi. *An Introduction to Difference Equations*. Springer, New York, 2005. DOI: 10.1007/0-387-27602-5.
 
-[6] Bobenko, Alexander I.; Suris, Yuri B. Discrete Differential Geometry: Integrable Structure. Graduate Studies in Mathematics, vol. 98. American Mathematical Society, 2008.
+**[R6]** Douglas Lind; Brian Marcus. *An Introduction to Symbolic Dynamics and Coding*. 2.ª ed., Cambridge University Press, 2021.
+
+**[R7]** G. A. Hedlund. “Endomorphisms and Automorphisms of the Shift Dynamical System.” *Mathematical Systems Theory* 3 (1969): 320–375.
