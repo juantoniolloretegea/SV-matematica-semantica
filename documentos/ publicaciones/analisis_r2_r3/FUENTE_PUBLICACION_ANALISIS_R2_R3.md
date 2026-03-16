@@ -1,5 +1,4 @@
-.
-<!-- PubPub import: usar este archivo junto con las imágenes `figura_1_R2.png` y `figura_2_R3.png` en la misma carpeta o en el mismo paquete ZIP. -->
+<!-- PubPub import: usar este archivo junto con las imágenes `./FIGURA_1_CARTA_POLAR_PLANA_AUXILIAR_R2.png` y `./FIGURA_2_CARTA_ELEVADA_AUXILIAR_R3.png` en la misma carpeta o en el mismo paquete ZIP. -->
 <!-- Header superior sugerido: IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411) • Sistema Vectorial SV: matemática y semántica -->
 
 # Análisis del comportamiento geométrico del polígono del Sistema Vectorial SV: del plano cartesiano a una carta espacial afín auxiliar como vía de razonamiento para situaciones complejas
@@ -97,13 +96,11 @@ En la carta polar plana, el vector produce una corona casi saturada por siete va
 
 Para hacer comparables los números del ejemplo, se toma h=2,2 como valor de trabajo visual. Esta elección no pretende fijar una convención canónica, sino ofrecer una carta legible para el caso concreto.
 
-![Figura 1. Carta polar plana auxiliar en R² para la célula de estudio.](figura_1_R2.png)
+![Figura 1. Carta polar plana auxiliar en R² para la célula de estudio.](./FIGURA_1_CARTA_POLAR_PLANA_AUXILIAR_R2.png)
 
-*Figura 1. Carta polar plana auxiliar en R² para la célula de estudio.*
 
-![Figura 2. Carta espacial elevada en R³ para la célula de estudio.](figura_2_R3.png)
+![Figura 2. Carta espacial elevada en R³ para la célula de estudio.](./FIGURA_2_CARTA_ELEVADA_AUXILIAR_R3.png)
 
-*Figura 2. Carta espacial elevada en R³ para la célula de estudio.*
 
 **Tabla 1. Magnitudes geométricas del caso de estudio para h = 2,2.**
 
