@@ -14,14 +14,25 @@ Su función es:
 
 ### 1. Análisis del comportamiento geométrico del polígono del Sistema Vectorial SV: del plano cartesiano a una carta espacial afín auxiliar como vía de razonamiento para situaciones complejas
 
-**Carpeta:**
+**Carpeta:**  
 `analisis_r2_r3/`
 
-**Versión pública de referencia:**
+**Versión pública de referencia:**  
 ITVIA / PubPub — Release 2
 
-**Objeto:**
+**Objeto:**  
 Desarrolla una técnica auxiliar de representación en **ℝ³** aplicada a la célula ternaria canónica del Sistema Vectorial SV, define magnitudes geométricas discretas explotables y fija criterios de validez relativa y de falsación de la carta elevada.
+
+### 2. Transiciones estructurales y trayectorias de la U en el Sistema Vectorial SV
+
+**Carpeta:**  
+`transiciones_u_trayectorias/`
+
+**Versión pública de referencia:**  
+ITVIA / PubPub — Release 2
+
+**Objeto:**  
+Formaliza la idea de trayectoria estructural de **U** dentro del régimen ternario canónico, abre una dimensión dinámica subordinada del sistema y prepara el encaje posterior entre sucesos, reevaluación, frame y lecturas auxiliares.
 
 ## Criterio de organización
 
@@ -29,7 +40,7 @@ Cada publicación integrada deberá disponer, como mínimo, de:
 
 - una carpeta propia;
 - un archivo fuente en Markdown;
-- las figuras documentales necesarias;
+- las figuras documentales necesarias, si existen;
 - una nota de referencia pública o equivalente;
 - y, cuando proceda, un README específico de carpeta.
 
