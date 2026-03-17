@@ -1,0 +1,35 @@
+# Meta
+
+## Finalidad
+
+Esta carpeta agrupa el **material auxiliar de control editorial y documental** del carril de semántica. Aquí se depositan piezas que no forman parte del cuerpo doctrinal del artículo, pero sí de su trazabilidad, publicación y mantenimiento.
+
+## Contenido esperado
+
+- `MANIFIESTO.md`  
+  Nota de estado del paquete o declaración mínima de su contenido.
+
+- `README_PUBPUB.md`  
+  Instrucciones o notas específicas para flujo de publicación en PubPub.
+
+- `descripcion_portada.txt`  
+  Texto breve para descripción editorial de la portada o del pub.
+
+- `referencias_apa7.md`  
+  Bibliografía en formato APA 7, útil para cierre formal del artículo o para normalización posterior.
+
+## Función
+
+Las piezas de `meta/` sirven para:
+- consolidar información dispersa,
+- evitar pérdida de contexto editorial,
+- y permitir que el paquete pueda rehacerse o republicarse sin depender de memoria informal.
+
+## Observación de limpieza
+
+En esta carpeta no deben quedar archivos residuales del tipo:
+- `borrame`
+- placeholders vacíos
+- duplicados accidentales
+
+Si aparecen, conviene eliminarlos en el siguiente commit de limpieza.
