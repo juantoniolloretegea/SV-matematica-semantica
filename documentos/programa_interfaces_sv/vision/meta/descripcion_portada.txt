@@ -1,0 +1,10 @@
+Portada del carril de visión del Sistema Vectorial SV.
+
+Esquema editorial técnico que sintetiza visualmente:
+- captura;
+- ternarización {0,1,U};
+- trayectoria;
+- y formalización de una interfaz visual estructurada.
+
+Formato previsto: 1200 x 800.
+Función: servir como portada editorial del carril y como apoyo visual de identificación pública en repositorio y publicación.
