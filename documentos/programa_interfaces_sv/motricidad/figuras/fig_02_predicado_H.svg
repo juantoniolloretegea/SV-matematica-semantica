@@ -1,0 +1,91 @@
+<svg width="100%" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: sans-serif; }
+    .th { font-size: 14px; font-weight: 500; fill: #2C2C2A; }
+    .ts { font-size: 12px; fill: #5F5E5A; }
+    .gray { fill: #F1EFE8; stroke: #888780; stroke-width: 0.5; }
+    .blue { fill: #E6F1FB; stroke: #185FA5; stroke-width: 0.5; }
+    .blue-th { font-size: 14px; font-weight: 500; fill: #0C447C; }
+    .blue-ts { font-size: 12px; fill: #185FA5; }
+    .amber { fill: #FAEEDA; stroke: #854F0B; stroke-width: 1; }
+    .amber-th { font-size: 14px; font-weight: 500; fill: #633806; }
+    .amber-ts { font-size: 12px; fill: #854F0B; }
+    .teal { fill: #E1F5EE; stroke: #0F6E56; stroke-width: 1.5; }
+    .teal-th { font-size: 14px; font-weight: 500; fill: #085041; }
+    .red { fill: #FCEBEB; stroke: #A32D2D; stroke-width: 0.5; }
+    .red-ts { font-size: 12px; fill: #A32D2D; }
+    .dashed { stroke: #B4B2A9; stroke-width: 0.5; stroke-dasharray: 4 3; }
+  </style>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Input node — centered in 170–510 range -->
+  <rect x="190" y="10" width="300" height="40" rx="8" class="gray"/>
+  <text class="th" x="340" y="30" text-anchor="middle" dominant-baseline="central">trayectoria T = (N, R, v, val)</text>
+  <line x1="340" y1="50" x2="340" y2="65" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+
+  <!-- C1 -->
+  <rect x="170" y="65" width="320" height="40" rx="6" class="blue"/>
+  <text class="blue-th" x="225" y="85" text-anchor="middle" dominant-baseline="central">C1</text>
+  <text class="blue-ts" x="370" y="85" text-anchor="middle" dominant-baseline="central">coherencia — valores ∈ {0,1,U}</text>
+  <line x1="340" y1="105" x2="340" y2="118" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+  <rect x="50" y="65" width="90" height="40" rx="6" class="red"/>
+  <text class="red-ts" x="95" y="85" text-anchor="middle" dominant-baseline="central">H(T) = 0</text>
+  <line x1="170" y1="85" x2="140" y2="85" class="dashed" fill="none"/>
+
+  <!-- C2 -->
+  <rect x="170" y="118" width="320" height="40" rx="6" class="blue"/>
+  <text class="blue-th" x="225" y="138" text-anchor="middle" dominant-baseline="central">C2</text>
+  <text class="blue-ts" x="370" y="138" text-anchor="middle" dominant-baseline="central">clausura — Anc(v) ⊆ N</text>
+  <line x1="340" y1="158" x2="340" y2="171" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+  <rect x="50" y="118" width="90" height="40" rx="6" class="red"/>
+  <text class="red-ts" x="95" y="138" text-anchor="middle" dominant-baseline="central">H(T) = 0</text>
+  <line x1="170" y1="138" x2="140" y2="138" class="dashed" fill="none"/>
+
+  <!-- C3 -->
+  <rect x="170" y="171" width="320" height="40" rx="6" class="blue"/>
+  <text class="blue-th" x="225" y="191" text-anchor="middle" dominant-baseline="central">C3</text>
+  <text class="blue-ts" x="370" y="191" text-anchor="middle" dominant-baseline="central">trazabilidad — ∃n ≠ v : n →* v</text>
+  <line x1="340" y1="211" x2="340" y2="224" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+  <rect x="50" y="171" width="90" height="40" rx="6" class="red"/>
+  <text class="red-ts" x="95" y="191" text-anchor="middle" dominant-baseline="central">H(T) = 0</text>
+  <line x1="170" y1="191" x2="140" y2="191" class="dashed" fill="none"/>
+
+  <!-- C4 amber -->
+  <rect x="170" y="224" width="320" height="40" rx="6" class="amber"/>
+  <text class="amber-th" x="225" y="244" text-anchor="middle" dominant-baseline="central">C4</text>
+  <text class="amber-ts" x="370" y="244" text-anchor="middle" dominant-baseline="central">no U crítico — ningún U alcanza v</text>
+  <line x1="340" y1="264" x2="340" y2="277" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+  <rect x="50" y="224" width="90" height="40" rx="6" class="red"/>
+  <text class="red-ts" x="95" y="244" text-anchor="middle" dominant-baseline="central">H(T) = 0</text>
+  <line x1="170" y1="244" x2="140" y2="244" class="dashed" fill="none"/>
+
+  <!-- C5 -->
+  <rect x="170" y="277" width="320" height="40" rx="6" class="blue"/>
+  <text class="blue-th" x="225" y="297" text-anchor="middle" dominant-baseline="central">C5</text>
+  <text class="blue-ts" x="370" y="297" text-anchor="middle" dominant-baseline="central">admisibilidad — val(n) ≠ ∅</text>
+  <line x1="340" y1="317" x2="340" y2="330" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+  <rect x="50" y="277" width="90" height="40" rx="6" class="red"/>
+  <text class="red-ts" x="95" y="297" text-anchor="middle" dominant-baseline="central">H(T) = 0</text>
+  <line x1="170" y1="297" x2="140" y2="297" class="dashed" fill="none"/>
+
+  <!-- C6 -->
+  <rect x="170" y="330" width="320" height="40" rx="6" class="blue"/>
+  <text class="blue-th" x="225" y="350" text-anchor="middle" dominant-baseline="central">C6</text>
+  <text class="blue-ts" x="370" y="350" text-anchor="middle" dominant-baseline="central">relevancia — ∃(a,b) ∈ R : b = v</text>
+  <line x1="340" y1="370" x2="340" y2="383" stroke="#888780" stroke-width="1" fill="none" marker-end="url(#arr)"/>
+  <rect x="50" y="330" width="90" height="40" rx="6" class="red"/>
+  <text class="red-ts" x="95" y="350" text-anchor="middle" dominant-baseline="central">H(T) = 0</text>
+  <line x1="170" y1="350" x2="140" y2="350" class="dashed" fill="none"/>
+
+  <!-- Output -->
+  <rect x="210" y="383" width="260" height="42" rx="8" class="teal"/>
+  <text class="teal-th" x="340" y="404" text-anchor="middle" dominant-baseline="central">H(T) = 1 · habilitable</text>
+
+  <!-- Right annotations — inside viewBox, anchored end at x=630 -->
+  <text class="ts" x="630" y="85" text-anchor="end">← falla en Ci</text>
+  <text class="ts" x="630" y="244" text-anchor="end">← específica del SV</text>
+</svg>
