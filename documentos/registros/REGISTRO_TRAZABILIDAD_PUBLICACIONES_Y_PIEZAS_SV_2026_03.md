@@ -95,11 +95,11 @@ Su finalidad es evitar pérdida de memoria estructural, facilitar auditoría pos
 - **Ubicación en repositorio:** `docs/gobierno/figuras/`
 - **Observación:** incluye portada y figuras 01–16 asociadas al pliego materializado localmente.
 
-### 4.5. Base mínima auxiliar del manual SVP
+### 4.5. Manual del lenguaje SVP en sede operativa
 
-- **Naturaleza:** base mínima auxiliar de remisión y legibilidad
-- **Ubicación en repositorio:** `docs/manual_svp/`
-- **Observación:** contiene una plantilla documental y un ejemplo mínimo `.svp`. Su función es auxiliar y no convierte `SV-matematica-semantica` en sede operativa del lenguaje.
+- **Naturaleza:** remisión a la sede operativa del manual del lenguaje
+- **Ubicación en repositorio:** `SV-lenguaje-de-computacion/docs/manual_svp/`
+- **Observación:** el manual del lenguaje SVP se consulta en el repositorio técnico del lenguaje. `SV-matematica-semantica` no aloja ya una base mínima auxiliar local de `manual_svp`, y mantiene únicamente la remisión doctrinal a su sede operativa propia.
 
 ## 5. Regla de prevalencia
 
