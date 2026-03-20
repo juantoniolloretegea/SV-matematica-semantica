@@ -50,6 +50,10 @@
       max-width: 1280px;
       margin: 0 auto;
     }
+    .hero-copy {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
     .eyebrow {
       font-size: 12px;
       letter-spacing: .18em;
@@ -65,7 +69,7 @@
     .lead {
       margin: 10px 0 0;
       color: var(--muted);
-      max-width: 900px;
+      max-width: none;
     }
     .hero-actions, .actions {
       display: flex;
@@ -279,10 +283,10 @@
 <body>
   <header>
     <div class="topbar">
-      <div>
+      <div class="hero-copy">
         <div class="eyebrow">Puerta de entrada</div>
         <h1>Repositorio doctrinal del Sistema Vectorial SV</h1>
-        <p class="lead">Repositorio padre doctrinal del Sistema Vectorial SV. Incorpora el documento fundacional de referencia, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas, la reserva documental material interna de <code>documentos/adendas/</code> y la materialización pública local del pliego de condiciones en <code>docs/gobierno/</code>, acompañada por una base mínima auxiliar del manual SVP en <code>docs/manual_svp/</code>.</p>
+        <p class="lead">Repositorio padre doctrinal del Sistema Vectorial SV. Incorpora el documento fundacional de referencia, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas, la reserva documental material interna de <code>documentos/adendas/</code> y la materialización pública local del pliego de condiciones en <code>docs/gobierno/</code>. El manual del lenguaje SVP se mantiene en su sede operativa propia, dentro de <code>SV-lenguaje-de-computacion/docs/manual_svp/</code>.</p>
       </div>
       <div class="hero-actions">
         <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica" target="_blank" rel="noopener noreferrer">Abra el repositorio</a>
@@ -480,7 +484,7 @@
 
         <section id="gobierno" class="card">
           <h2>Gobierno de fase y materialización pública local</h2>
-          <p class="muted">El bloque <code>docs/gobierno/</code> incorpora la materialización pública local del pliego de condiciones del Sistema Vectorial SV con su portada y figuras 01–16. La carpeta <code>docs/manual_svp/</code> añade una base mínima auxiliar del manual SVP para remisión, legibilidad y ejemplo mínimo, sin alterar la distribución ya fijada entre sede doctrinal y sede operativa.</p>
+          <p class="muted">El bloque <code>docs/gobierno/</code> incorpora la materialización pública local del pliego de condiciones del Sistema Vectorial SV con su portada y figuras 01–16. El manual del lenguaje SVP no se aloja en esta sede doctrinal, sino en su sede operativa propia dentro de <code>SV-lenguaje-de-computacion/docs/manual_svp/</code>.</p>
           <div class="grid-3">
             <article class="eco">
               <h3>Pliego de condiciones del Sistema Vectorial SV</h3>
@@ -497,10 +501,10 @@
               </div>
             </article>
             <article class="eco">
-              <h3>Base mínima auxiliar del manual SVP</h3>
-              <p>Anclaje de lectura y ejemplo mínimo. No convierte este repositorio en sede operativa del lenguaje, que sigue residiendo en <code>SV-lenguaje-de-computacion</code>.</p>
+              <h3>Manual SVP en sede operativa</h3>
+              <p>El manual del lenguaje SVP se consulta en el repositorio operativo del lenguaje, dentro de <code>SV-lenguaje-de-computacion/docs/manual_svp/</code>. Esta puerta de entrada doctrinal lo remite, pero no lo materializa localmente.</p>
               <div class="actions">
-                <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/docs/manual_svp" target="_blank" rel="noopener noreferrer">Abra la carpeta</a>
+                <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion/tree/main/docs/manual_svp" target="_blank" rel="noopener noreferrer">Abra el manual SVP</a>
                 <a class="btn" href="https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion" target="_blank" rel="noopener noreferrer">Sede operativa</a>
               </div>
             </article>
