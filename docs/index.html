@@ -42,17 +42,18 @@
       border-bottom: 1px solid var(--line);
     }
     .topbar {
-      display: flex;
-      gap: 18px;
-      align-items: flex-start;
-      justify-content: space-between;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      column-gap: 18px;
+      row-gap: 10px;
+      align-items: start;
       padding: 18px 22px;
       max-width: 1280px;
       margin: 0 auto;
     }
     .hero-copy {
-      flex: 1 1 auto;
       min-width: 0;
+      display: contents;
     }
     .eyebrow {
       font-size: 12px;
@@ -70,6 +71,7 @@
       margin: 10px 0 0;
       color: var(--muted);
       max-width: none;
+      grid-column: 1 / -1;
     }
     .hero-actions, .actions {
       display: flex;
@@ -81,6 +83,9 @@
       justify-content: flex-end;
       flex-shrink: 0;
       margin-left: 12px;
+      grid-column: 2;
+      grid-row: 1 / span 2;
+      align-self: start;
     }
     .actions {
       flex-wrap: wrap;
@@ -273,8 +278,15 @@
       .grid-3, .doc-grid { grid-template-columns: 1fr 1fr; }
     }
     @media (max-width: 720px) {
-      .topbar { flex-direction: column; align-items: flex-start; }
-      .hero-actions { flex-wrap: wrap; margin-left: 0; }
+      .topbar {
+        grid-template-columns: 1fr;
+      }
+      .hero-actions {
+        grid-column: 1;
+        grid-row: auto;
+        flex-wrap: wrap;
+        margin-left: 0;
+      }
       .grid-3, .grid-2, .doc-grid { grid-template-columns: 1fr; }
       section { padding: 20px; }
     }
@@ -286,7 +298,7 @@
       <div class="hero-copy">
         <div class="eyebrow">Puerta de entrada</div>
         <h1>Repositorio doctrinal del Sistema Vectorial SV</h1>
-        <p class="lead">Repositorio padre doctrinal del Sistema Vectorial SV. Incorpora el documento fundacional de referencia, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas, la reserva documental material interna de <code>documentos/adendas/</code> y la materialización pública local del pliego de condiciones en <code>docs/gobierno/</code>. El manual del lenguaje SVP se mantiene en su sede operativa propia, dentro de <code>SV-lenguaje-de-computacion/docs/manual_svp/</code>.</p>
+        <p class="lead">Repositorio padre doctrinal del Sistema Vectorial SV. Incorpora el documento fundacional de referencia, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas, la reserva documental material interna de <code>documentos/adendas/</code> y la materialización pública local del pliego de condiciones en <code>docs/gobierno/</code>. El manual del lenguaje SVP se consulta en su sede operativa propia, dentro de <code>SV-lenguaje-de-computacion/docs/manual_svp/</code>.</p>
       </div>
       <div class="hero-actions">
         <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica" target="_blank" rel="noopener noreferrer">Abra el repositorio</a>
