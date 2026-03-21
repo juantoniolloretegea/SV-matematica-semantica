@@ -1,0 +1,4 @@
+caso,salida,decision,fundamento
+Caso A — Entrega favorable,1,paso,Observación suficiente y garantía válida: la compuerta autoriza la entrega.
+Caso B — Salida en U,U,suspensión,La garantía no puede avalar honestamente la entrega; no se fabrica certeza.
+Caso C — Inadmisibilidad,inadmisibilidad,bloqueo,Fallo de captura: no procede entrega semántica.
