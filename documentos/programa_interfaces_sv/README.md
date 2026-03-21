@@ -16,8 +16,9 @@ En el estado actual, esta carpeta contiene los siguientes carriles:
 - `vision/`
 - `motricidad/`
 - `observacional/`
+- `olfato/`
 
-Cada uno de ellos representa una pieza diferenciada del Programa de interfaces y dispone de su propio `README.md`, su trazabilidad documental y su organización interna específica.
+Cada uno de ellos representa una pieza diferenciada del Programa de interfaces y dispone de su propio `README.md`, su trazabilidad documental y su organización interna específica. La enumeración anterior recoge únicamente los carriles materialmente presentes en esta sede en la fecha de esta revisión.
 
 ## Estructura efectiva
 
