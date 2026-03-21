@@ -1,71 +1,70 @@
-# Programa de interfaces del Sistema Vectorial SV
+# Carril observacional del Sistema Vectorial SV
 
 ## Finalidad
 
-Esta carpeta agrupa las piezas documentales, experimentales, visuales y editoriales relativas al **Programa de interfaces del Sistema Vectorial SV**.
+Esta carpeta reúne la pieza documental, visual y experimental del **carril observacional** del **Programa de interfaces del Sistema Vectorial SV**.
 
-Se entiende aquí por “interfaces” el conjunto de carriles destinados a formalizar, probar y publicar la mediación entre el marco doctrinal del SV y dominios funcionales diferenciados, sin romper la unidad algebraica y semántica del sistema.
+Su finalidad es fijar una **primera forma legítima** por la que artefactos externos complejos puedan ser tratados en el marco SV sin invadir su ontología primaria, sin introducir semántica rival y sin ejercer presión impropia sobre el Lenguaje SV.
 
-La vocación de esta carpeta no es puramente archivística. Su función es servir de raíz documental, experimental y editorial para manuscritos, figuras, portadas, laboratorios, metadatos y materiales suplementarios asociados a cada carril.
+## Estatuto de la pieza
 
-## Estado actual
+El manuscrito principal de este carril se presenta como una **pieza científica de clarificación, delimitación y prueba de legitimidad**.
 
-En el estado actual, esta carpeta contiene los siguientes carriles:
+No constituye todavía:
+- una API del Sistema Vectorial SV;
+- un módulo paralelo;
+- un subderivado operativo;
+- ni una propuesta de integración técnica inmediata.
 
-- `semantica/`
-- `vision/`
-- `motricidad/`
-- `observacional/`
-- `olfato/`
+Su función es doctrinal, experimental y editorial: clarificar el frente, poner a prueba su legitimidad y documentar sus condiciones de validez y de fracaso.
 
-Cada uno de ellos representa una pieza diferenciada del Programa de interfaces y dispone de su propio `README.md`, su trazabilidad documental y su organización interna específica. La heterogeneidad interna de esos carriles no invalida su pertenencia al mismo programa; obliga únicamente a describirlos con fidelidad material.
+## Contenido de la carpeta
 
-## Estructura efectiva
+### Manuscrito
+- `manuscrito_final_pubpub.md`  
+  Manuscrito principal del carril observacional, normalizado ya con extensión Markdown y nombre editorial estable.
 
-La estructura de los carriles del programa mantiene una **continuidad de criterio**, pero no exige una identidad rígida de subcarpetas.
+### Portada
+- `portada/`  
+  Activos gráficos de portada asociados a la pieza principal.
 
-En términos prácticos, cada carril debe tender a ser:
+### Figuras
+- `figuras/`  
+  Diagramas, imágenes y recursos visuales utilizados por el manuscrito.
 
-- rastreable;
-- reproducible;
-- editorialmente gobernable;
-- y doctrinalmente subordinado al bloque algebraico-semántico del SV.
+### Laboratorio
+- `laboratorio/`  
+  Laboratorio demostrativo mínimo en Python y materiales suplementarios reproducibles.
 
-Según su naturaleza, un carril puede organizarse mediante combinaciones como:
+### Metadatos editoriales
+- `meta/`  
+  Material bibliográfico, editorial y de apoyo documental asociado a la publicación.
 
-- `manuscrito/`
-- `figuras/`
-- `codigo/`
-- `laboratorio/`
-- `meta/`
-- `portada/`
-- `assets/`
+## Principios de fase
 
-o bien mediante archivos principales situados en la raíz del propio carril, cuando esa solución refleje mejor su estado editorial real.
+Este carril trabaja bajo estas restricciones activas:
 
-## Criterio de organización
+- preservación fuerte de `{0,1,U}`;
+- preservación de la `U` honesta;
+- exclusión de estadística, minería de datos e inferencia opaca como fundamento;
+- exclusión del tiempo fuerte como fundamento del cambio del sistema;
+- subordinación estricta al bloque algebraico-semántico del SV;
+- contención prudente respecto del Lenguaje SV.
 
-El criterio rector no es imponer una plantilla externa uniforme, sino preservar una disciplina suficiente para que cada interfaz pueda leerse, auditarse y mantenerse sin ambigüedad.
+## Colección
 
-Por ello:
+Esta carpeta pertenece a la colección:
 
-- ningún carril debe aparecer como repositorio aislado o independiente del SV;
-- ningún carril debe presentarse como sustituto del núcleo doctrinal;
-- y toda diferencia interna de estructura debe responder a una necesidad material del propio carril, no a improvisación.
+**Programa de interfaces del Sistema Vectorial SV**
 
-## Estatuto doctrinal
+## Autoría y procedencia
 
-Las interfaces no sustituyen al núcleo doctrinal del Sistema Vectorial SV. Lo prolongan en planos funcionales concretos.
+Autor: **Juan Antonio Lloret Egea**  
+ORCID: **0000-0002-6634-3351**  
+Institución: **Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)**  
+Publicación: **IA en™ – La Biblia de la IA™**  
+ISSN: **2695-6411**
 
-En consecuencia, esta carpeta debe leerse como un despliegue subordinado y estructurado de invariantes ya fijados en la matemática y la semántica del sistema, no como un conjunto de proyectos autónomos sin jerarquía común.
+## Nota final
 
-## Nota de mantenimiento
-
-Si en el futuro se crean nuevos carriles, conviene mantener:
-
-- continuidad razonable de nombres;
-- `README.md` específicos por carril;
-- criterio de trazabilidad documental;
-- y una organización interna coherente con el estado real de cada pieza.
-
-La homogeneidad deseable es de **disciplina y legibilidad**, no de plantilla rígida.
+El corpus SV, incluyendo su formulación doctrinal, desarrollo algebraico-semántico y parte de sus recursos gráficos, es de autoría unitaria. Este carril no oculta esa condición: la asume como dato de procedencia y trazabilidad. Su validez no se hace descansar en la autoría, sino en la explicitud de sus definiciones, la consistencia interna de sus argumentos y su exposición a contraste adversarial.
