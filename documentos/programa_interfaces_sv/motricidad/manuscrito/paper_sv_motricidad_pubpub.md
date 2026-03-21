@@ -72,7 +72,7 @@ Del mismo modo, mantiene el régimen eventivo ya establecido: en SV las transici
 
 En esta posición, la pregunta ya no es cómo se constituye una trayectoria, sino qué puede decirse de su posible exteriorización sin recurrir a información ajena a la propia trayectoria.
 
-![Figura 1. Cadena estructural del SV y punto de arranque del presente trabajo. Los nodos en gris representan pasos ya formalizados en el corpus; trayectoria (teal) es el objeto de partida; CSE · H(T) (púrpura) es el objeto introducido aquí.](figuras/fig_01_cadena_sv.svg)
+![Figura 1. Cadena estructural del SV y punto de arranque del presente trabajo. Los nodos en gris representan pasos ya formalizados en el corpus; trayectoria (teal) es el objeto de partida; CSE · H(T) (púrpura) es el objeto introducido aquí.](../figuras/fig_01_cadena_sv.svg)
 
 **Figura 1.** Cadena estructural del SV y punto de arranque del presente trabajo. Los nodos en gris representan pasos ya formalizados en el corpus; *trayectoria* es el objeto de partida; *CSE · H(T)* es el objeto introducido en este trabajo.
 
@@ -92,7 +92,7 @@ Finalmente, existen analogías superficiales con **guardas**, **precondiciones**
 
 El posicionamiento correcto del presente trabajo es, por tanto, el de una pieza de frontera: ni semántica general del SV, ni control robótico, ni planificación de movimiento, sino condición estructural de exposición.
 
-![Figura 5. Posicionamiento de la CSE respecto a modelos relacionados.](figuras/fig_05_posicionamiento.svg)
+![Figura 5. Posicionamiento de la CSE respecto a modelos relacionados.](../figuras/fig_05_posicionamiento.svg)
 
 **Figura 5.** Posicionamiento de la CSE respecto a modelos relacionados. El eje horizontal separa bivaluado de ternario; el vertical separa modelos que modelan ejecución de los que no. La CSE ocupa el cuadrante ternario / no-ejecutivo, que ninguno de los modelos previos habitaba.
 
@@ -166,7 +166,7 @@ Existe al menos una arista `(a,b) ∈ R` tal que `b = v`. La trayectoria no pued
 
 Estas seis condiciones no añaden nuevos valores semánticos ni redefinen la trayectoria. Operan como un filtro de frontera. Su austeridad es deliberada: no pretenden agotar toda posible teoría de exposición, sino fijar un mínimo no trivial y verificable.
 
-![Figura 2. Predicado H como filtro en cascada de seis condiciones. Cualquier fallo en Ci produce H(T) = 0. C4 aparece resaltado por ser la condición específica al alfabeto ternario del SV.](figuras/fig_02_predicado_H.svg)
+![Figura 2. Predicado H como filtro en cascada de seis condiciones. Cualquier fallo en Ci produce H(T) = 0. C4 aparece resaltado por ser la condición específica al alfabeto ternario del SV.](../figuras/fig_02_predicado_H.svg)
 
 **Figura 2.** Predicado H como filtro en cascada de seis condiciones. Cualquier fallo en Ci produce H(T) = 0. C4 aparece resaltado en ámbar por ser la condición específica al alfabeto ternario del SV.
 
@@ -204,7 +204,7 @@ Dos trayectorias `T₁` y `T₂` pueden ser individualmente habilitables y, sin 
 
 Estas proposiciones no agotan la teoría, pero muestran que `H` no es un mero renombrado de validez interna.
 
-![Figura 4. Las cuatro proposiciones del §7 como consecuencias de la tesis central. Prop. 2 en ámbar por depender específicamente de U; Prop. 4 en coral por ser la más contraintuitiva.](figuras/fig_04_proposiciones.svg)
+![Figura 4. Las cuatro proposiciones del §7 como consecuencias de la tesis central. Prop. 2 en ámbar por depender específicamente de U; Prop. 4 en coral por ser la más contraintuitiva.](../figuras/fig_04_proposiciones.svg)
 
 **Figura 4.** Las cuatro proposiciones como consecuencias de la tesis central: H no es trivial, es sensible a U, depende de clausura, y no es composicional.
 
@@ -262,7 +262,7 @@ val = {A:1, B:1}
 Se satisfacen C1–C6.  
 **Resultado:** `H(T₄) = 1`
 
-![Figura 3. Los cuatro ejemplos formales como grafos dirigidos T = (N, R, v, val). El nodo de exposición v se indica con doble círculo. Los nodos U en ámbar; las aristas que propagan U también. El único caso habilitable (Ejemplo 4) en verde.](figuras/fig_03_ejemplos.svg)
+![Figura 3. Los cuatro ejemplos formales como grafos dirigidos T = (N, R, v, val). El nodo de exposición v se indica con doble círculo. Los nodos U en ámbar; las aristas que propagan U también. El único caso habilitable (Ejemplo 4) en verde.](../figuras/fig_03_ejemplos.svg)
 
 **Figura 3.** Los cuatro ejemplos formales como grafos dirigidos T = (N, R, v, val). El nodo de exposición v se indica con doble círculo. Los nodos con valor U aparecen en ámbar; las aristas que propagan la indeterminación, también. El único caso habilitable (Ejemplo 4) se muestra en verde.
 
