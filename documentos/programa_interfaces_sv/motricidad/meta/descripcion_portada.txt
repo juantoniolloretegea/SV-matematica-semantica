@@ -1,7 +1,0 @@
-Portada pendiente de creación editorial.
-
-En el material recibido para este carril no se incluye todavía una portada específica.
-Cuando se genere, este archivo deberá describir:
-- el motivo visual elegido;
-- su función editorial;
-- y el formato previsto de publicación.

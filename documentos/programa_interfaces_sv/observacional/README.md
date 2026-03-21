@@ -1,29 +1,70 @@
-# Paquete final para PubPub — W-Corpus1 SV
+# Carril observacional del Sistema Vectorial SV
 
-Este paquete está preparado para una subida manual y ordenada a PubPub.
+## Finalidad
 
-## Archivo principal
+Esta carpeta reúne la pieza documental, visual y experimental del **carril observacional** del **Programa de interfaces del Sistema Vectorial SV**.
 
-- `manuscrito_final_pubpub.md` → texto para pegar en PubPub.
+Su finalidad es fijar una **primera forma legítima** por la que artefactos externos complejos puedan ser tratados en el marco SV sin invadir su ontología primaria, sin introducir semántica rival y sin ejercer presión impropia sobre el Lenguaje SV.
 
-## Portada
+## Estatuto de la pieza
 
-- `portada/portada_pubpub_1200x800.png` → portada recomendada.
+El manuscrito principal de este carril se presenta como una **pieza científica de clarificación, delimitación y prueba de legitimidad**.
 
-## Texto editorial breve
+No constituye todavía:
+- una API del Sistema Vectorial SV;
+- un módulo paralelo;
+- un subderivado operativo;
+- ni una propuesta de integración técnica inmediata.
 
-- `meta/TITULO_Y_TEXTO_BREVE.md` → título y texto descriptivo breve (<250 caracteres).
+Su función es doctrinal, experimental y editorial: clarificar el frente, poner a prueba su legitimidad y documentar sus condiciones de validez y de fracaso.
 
-## Figuras
+## Contenido de la carpeta
 
-- Carpeta `figuras/` → archivos PNG/SVG listos para subir.
-- `meta/tabla_insercion_figuras_pubpub.md` → orden de inserción de figuras.
+### Manuscrito
+- `manuscrito_final_pubpub.md`  
+  Manuscrito principal del carril observacional.
 
-## Laboratorio
+### Portada
+- `portada/`  
+  Activos gráficos de portada asociados a la pieza principal.
 
-- `laboratorio/bloque_codigo_pubpub.py` → bloque breve para el cuerpo del paper.
-- `laboratorio/lab_minimo_sv.py` → script completo suplementario.
+### Figuras
+- `figuras/`  
+  Diagramas, imágenes y recursos visuales utilizados por el manuscrito.
 
-## Guía
+### Laboratorio
+- `laboratorio/`  
+  Laboratorio demostrativo mínimo en Python y materiales suplementarios reproducibles.
 
-- `meta/GUIA_SUBIDA_PUBPUB.md` → secuencia recomendada de subida.
+### Metadatos editoriales
+- `meta/`  
+  Material bibliográfico, editorial y de apoyo documental asociado a la publicación.
+
+## Principios de fase
+
+Este carril trabaja bajo estas restricciones activas:
+
+- preservación fuerte de `{0,1,U}`;
+- preservación de la `U` honesta;
+- exclusión de estadística, minería de datos e inferencia opaca como fundamento;
+- exclusión del tiempo fuerte como fundamento del cambio del sistema;
+- subordinación estricta al bloque algebraico-semántico del SV;
+- contención prudente respecto del Lenguaje SV.
+
+## Colección
+
+Esta carpeta pertenece a la colección:
+
+**Programa de interfaces del Sistema Vectorial SV**
+
+## Autoría y procedencia
+
+Autor: **Juan Antonio Lloret Egea**  
+ORCID: **0000-0002-6634-3351**  
+Institución: **Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)**  
+Publicación: **IA en™ – La Biblia de la IA™**  
+ISSN: **2695-6411**
+
+## Nota final
+
+El corpus SV, incluyendo su formulación doctrinal, desarrollo algebraico-semántico y parte de sus recursos gráficos, es de autoría unitaria. Este carril no oculta esa condición: la asume como dato de procedencia y trazabilidad. Su validez no se hace descansar en la autoría, sino en la explicitud de sus definiciones, la consistencia interna de sus argumentos y su exposición a contraste adversarial.
