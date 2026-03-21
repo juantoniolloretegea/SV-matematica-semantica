@@ -1,6 +1,6 @@
 # REGISTRO_TRAZABILIDAD_PUBLICACIONES_Y_PIEZAS_SV_2026_03
 
-**Fecha:** 16/03/2026  
+**Fecha:** 20/03/2026  
 **Estado:** Registro ligero de trazabilidad y control  
 **Ámbito:** `SV-matematica-semantica`
 
@@ -80,13 +80,34 @@ Su finalidad es evitar pérdida de memoria estructural, facilitar auditoría pos
   - `documentos/publicaciones/transiciones_u_trayectorias/README_PUBLICACION_TRANSICIONES_U_TRAYECTORIAS.md`
 - **Observación:** describen objeto, función, versión pública de referencia y encaje doctrinal de cada publicación integrada.
 
+## 4 bis. Bloque de gobierno y acceso incorporado en marzo de 2026
+
+
+### 4.3. Pliego de condiciones del Sistema Vectorial SV
+
+- **Naturaleza:** pieza pública de consolidación y gobierno de fase
+- **Ubicación en repositorio:** `docs/gobierno/PLIEGO_DE_CONDICIONES_DEL_SISTEMA_VECTORIAL_SV.md`
+- **Observación:** materialización pública local del pliego en la sede doctrinal, con función de remisión, ordenación y control de fase. Su presencia no altera la primacía de las piezas canónicas específicas ni desplaza la distribución ya fijada entre sede doctrinal y sede operativa.
+
+### 4.4. Assets gráficos del pliego
+
+- **Naturaleza:** soporte gráfico asociado
+- **Ubicación en repositorio:** `docs/gobierno/figuras/`
+- **Observación:** incluye portada y figuras 01–16 asociadas al pliego materializado localmente.
+
+### 4.5. Manual del lenguaje SVP en sede operativa
+
+- **Naturaleza:** remisión a la sede operativa del manual del lenguaje
+- **Ubicación en repositorio:** `SV-lenguaje-de-computacion/docs/manual_svp/`
+- **Observación:** el manual del lenguaje SVP se consulta en el repositorio técnico del lenguaje. `SV-matematica-semantica` no aloja ya una base mínima auxiliar local de `manual_svp`, y mantiene únicamente la remisión doctrinal a su sede operativa propia.
+
 ## 5. Regla de prevalencia
 
 En caso de discrepancia menor entre el repositorio y una publicación pública integrada, prevalecerá la versión pública expresamente indicada en la documentación de la carpeta correspondiente, salvo corrección formal posterior registrada.
 
 ## 6. Regla de mantenimiento
 
-Toda nueva publicación o pieza doctrinal integrada que alcance estado consolidado deberá:
+Toda nueva publicación, pieza doctrinal o bloque de gobierno materializado que alcance estado consolidado deberá:
 
 1. incorporarse a este registro o a su actualización posterior;
 2. quedar enlazada con su carpeta de repositorio;

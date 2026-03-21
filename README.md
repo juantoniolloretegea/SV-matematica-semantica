@@ -1,6 +1,6 @@
 # SV-matematica-semantica
 
-Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas del corpus y la nueva reserva documental de `documentos/adendas/` para preservación material interna controlada.
+Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas del corpus, la nueva reserva documental de `documentos/adendas/` para preservación material interna controlada y, desde marzo de 2026, la materialización pública local del pliego de condiciones en `docs/gobierno/`, con remisión expresa al manual del lenguaje SVP en su sede operativa propia.
 
 > [!NOTE]
 > Para orientarse en el corpus desde una vista unificada —con contexto doctrinal, jerarquía documental y accesos directos a sus piezas principales— consulte la <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">página web de entrada y navegación de SV-matematica-semantica</a>.
@@ -10,6 +10,17 @@ ISSN: 2695-6411
 Licencia: CC BY-NC-ND 4.0
 
 ## Colección PubPub: [Álgebra de composición intercelular del Sistema Vectorial SV](https://www.itvia.online/algebra-de-composicion-intercelular-del-sistema-vectorial-sv)
+
+## Gobierno de fase y materialización pública local
+
+| Pieza | Función | Ruta en repositorio |
+|---|---|---|
+| Pliego de condiciones del Sistema Vectorial SV | Pieza pública de consolidación, remisión y gobierno de fase dentro de la sede doctrinal. | `docs/gobierno/PLIEGO_DE_CONDICIONES_DEL_SISTEMA_VECTORIAL_SV.md` |
+| Assets gráficos del pliego | Portada y figuras 01–16 asociadas al pliego materializado localmente. | `docs/gobierno/figuras/` |
+| Manual del lenguaje SVP | Sede operativa del manual del lenguaje y de su desarrollo vivo; su consulta se remite al repositorio técnico del lenguaje. | `SV-lenguaje-de-computacion/docs/manual_svp/` |
+
+> **Regla de alcance**  
+> La materialización local del pliego dentro de `SV-matematica-semantica` no desplaza la distribución ya fijada entre sedes. La autoridad doctrinal superior sigue residiendo en este repositorio, mientras que la sede central operativa y técnica del lenguaje —incluido el manual SVP— permanece en `SV-lenguaje-de-computacion`, conforme a la nota de remisión ya incorporada en `documentos/registros/NOTA_DE_REMISION_SOBRE_SEDE_DOCTRINAL_Y_SEDE_OPERATIVA_DEL_ECOSISTEMA_SV_2026_03_18.md`.
 
 ### Corpus doctrinal
 
@@ -68,5 +79,8 @@ SV-matematica-semantica/
 │   ├── composicion/   ← Serie de composición intercelular (I–VI)
 │   └── adendas/       ← Reserva documental material y preservadora
 ├── especificaciones/  ← Especificaciones subordinadas y artefactos verificables
-└── docs/              ← Puerta de entrada HTML del repositorio
+└── docs/              ← Puerta de entrada HTML, bloque de gobierno y soporte multimedia
+    ├── gobierno/      ← Pliego de condiciones materializado y assets gráficos asociados
+    ├── documento-iii/ ← Demostración audiovisual complementaria
+    └── media/         ← Soporte multimedia de la puerta de entrada
 ```
