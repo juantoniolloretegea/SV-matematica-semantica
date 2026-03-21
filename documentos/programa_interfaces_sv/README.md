@@ -18,7 +18,7 @@ En el estado actual, esta carpeta contiene los siguientes carriles:
 - `observacional/`
 - `olfato/`
 
-Cada uno de ellos representa una pieza diferenciada del Programa de interfaces y dispone de su propio `README.md`, su trazabilidad documental y su organización interna específica. La enumeración anterior recoge únicamente los carriles materialmente presentes en esta sede en la fecha de esta revisión.
+Cada uno de ellos representa una pieza diferenciada del Programa de interfaces y dispone de su propio `README.md`, su trazabilidad documental y su organización interna específica. La heterogeneidad interna de esos carriles no invalida su pertenencia al mismo programa; obliga únicamente a describirlos con fidelidad material.
 
 ## Estructura efectiva
 
