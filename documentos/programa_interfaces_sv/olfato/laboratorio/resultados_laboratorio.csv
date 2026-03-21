@@ -1,0 +1,6 @@
+caso,via,contexto,evidencia_volatil,coactivacion_gustativa,coactivacion_chemestesica,carga_textural_termica,salida_modelo
+"Caso 1. Café recién servido, sin ingestión",ortonasal,ambiental,suficiente,ausente,ausente,no relevante,admisibilidad olfativa suficiente
+Caso 2. Sabor a vainilla durante ingestión de crema,retronasal,ingestivo,suficiente,presente,ausente,relevante,admisibilidad olfativa con U
+Caso 3. Caramelo mentolado,indeterminada,ingestivo,suficiente,no separable,no separable,relevante,admisibilidad olfativa con U
+Caso 4. Solución de tastant con componente volátil,retronasal,ingestivo,suficiente,presente,ausente,no relevante,admisibilidad olfativa con U
+Caso 5. Olor ambiental en cocina con humo y picor ocular,ortonasal,ambiental,suficiente,ausente,presente,relevante,admisibilidad olfativa suficiente
