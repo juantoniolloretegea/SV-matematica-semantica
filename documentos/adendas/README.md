@@ -35,6 +35,7 @@ Solo deben alojarse aquí documentos que cumplan simultáneamente estas condicio
 | Pieza | Naturaleza | Observación |
 |---|---|---|
 | `origen_doctrinal_definicion_y_alcance_de_la_u_en_el_sistema_vectorial_sv.md` | Documento canónico complementario y especificación transversal subordinada | Mantiene doble sede material interna controlada con `especificaciones/nucleo/` |
+| `Nota de precision algebraico semantica/` | Nota pública, técnica, subordinada y de precisión | Conserva la sede material interna de la pieza "Suceso local, suceso envolvente y reevaluación situacional en horizonte declarado en el Sistema Vectorial SV" con manuscrito Markdown, copia HTML local y figuras asociadas. |
 
 ## Regla de sincronización
 
