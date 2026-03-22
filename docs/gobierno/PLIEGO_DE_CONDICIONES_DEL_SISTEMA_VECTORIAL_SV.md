@@ -317,11 +317,11 @@ La aportación del bloque algebraico-semántico al sistema completo es decisiva:
 
 ### 7.1. Función del bloque
 
-El **Programa de interfaces del Sistema Vectorial SV** constituye la capa por la que el sistema deja de presentarse solo como estructura algebraico-semántica abstracta y empieza a desplegarse como **régimen de interfaz primaria**. Su función no es reemplazar el núcleo algebraico, sino **hacerlo comparecer en carriles formalmente especializados** que permiten abrir el sistema hacia dominios de relación con el mundo y con el usuario sin romper su gramática constitutiva. En el estado actual de fase, este programa ha quedado materializado, al menos, en tres carriles ya reconocibles: **semántica**, **visión** y **motricidad**.
+El **Programa de interfaces del Sistema Vectorial SV** constituye la capa por la que el sistema deja de presentarse solo como estructura algebraico-semántica abstracta y empieza a desplegarse como **régimen de interfaz primaria**. Su función no es reemplazar el núcleo algebraico, sino **hacerlo comparecer en carriles formalmente especializados** que permiten abrir el sistema hacia dominios de relación con el mundo y con el usuario sin romper su gramática constitutiva. En el estado actual de fase, este programa ha quedado materializado ya en varios carriles reconocibles: **semántica**, **visión**, **motricidad**, **observacional** y **olfato**. No todos comparten el mismo grado de madurez ni idéntica organización interna, pero todos deben leerse como piezas subordinadas del mismo programa.
 
 ### 7.2. Estructura común del programa
 
-El programa de interfaces ha dejado ver ya un **patrón material común**. El directorio específico del programa declara su finalidad como programa de interfaces del SV y establece una organización homogénea por carril con subespacios de `manuscrito`, `figuras`, `codigo` y `meta`, acompañados de un `README.md` rector.
+El programa de interfaces ha dejado ver ya un **patrón material común**. El directorio específico del programa declara su finalidad como programa de interfaces del SV y establece una disciplina compartida de carriles con `README.md` rector, trazabilidad documental y organización interna suficiente. Esa continuidad de criterio no exige identidad rígida de subcarpetas: según su estado editorial real, un carril puede articularse mediante `manuscrito`, `figuras`, `codigo`, `laboratorio`, `meta`, `portada` o archivos principales en la raíz del propio carril.
 
 Esta homogeneidad permite reconocer que cada interfaz legítima del sistema debe disponer, como mínimo, de:
 - una **formulación manuscrita** de su objeto;
@@ -347,14 +347,14 @@ El carril de **motricidad** demuestra que el sistema puede extenderse hacia una 
 
 ### 7.6. Cierre temporal del frente básico
 
-A efectos del presente pliego, el **Programa de interfaces del Sistema Vectorial SV** puede considerarse **temporalmente cerrado** en su frente básico. Esta clausura no significa agotamiento absoluto del programa, ni cierre definitivo de todos los sentidos o interfaces futuras, sino **cierre suficiente de fase del frente básico, sin perjuicio de aperturas futuras legítimas**. La afirmación quedaría refutada, dentro del propio régimen de este pliego, si se acreditara que alguno de los carriles materializados carece todavía de los componentes mínimos de manuscrito, trazabilidad y soporte técnico o si el patrón común de carril no pudiera mantenerse de forma coherente entre semántica, visión y motricidad.
+A efectos del presente pliego, el **Programa de interfaces del Sistema Vectorial SV** puede considerarse **temporalmente cerrado** en su frente básico. Esta clausura no significa agotamiento absoluto del programa, ni cierre definitivo de todos los sentidos o interfaces futuras, sino **cierre suficiente de fase del frente básico, sin perjuicio de aperturas futuras legítimas**. La afirmación quedaría refutada, dentro del propio régimen de este pliego, si se acreditara que alguno de los carriles materializados carece todavía de los componentes mínimos de manuscrito, trazabilidad y soporte técnico o si la continuidad de criterio del programa dejara de sostenerse de forma coherente entre los carriles ya abiertos.
 
 ### 7.7. Qué fija y qué no fija este bloque
 
 Este bloque fija:
 - que el SV dispone ya de un **frente básico de interfaces primarias**;
 - que ese frente se articula en carriles formales, no en módulos improvisados;
-- que semántica, visión y motricidad constituyen ya un patrón materializado;
+- que semántica, visión, motricidad, observacional y olfato constituyen ya un patrón materializado de interfaces subordinadas;
 - y que el programa puede cerrarse temporalmente en fase sin agotar el crecimiento futuro.
 
 No fija, en cambio:
@@ -496,7 +496,7 @@ Por otro lado, esa continuidad no autoriza a tratar como cerradas cuestiones que
 Para reforzar su recepción pública, este pliego no trata sus principales afirmaciones de estado como autoaval inmune a contraste. A título mínimo, deben entenderse como refutables en los siguientes términos:
 
 - **Cierre de primer nivel del bloque algebraico-semántico:** quedaría refutado si se acreditara la ausencia de alguno de sus componentes constitutivos ya enumerados en este pliego —célula, composición, reevaluación por sucesos, entrada legítima del mundo, consulta y análisis discreto— o si apareciera una contradicción local suficiente que obligara a rehacer alguno de ellos como fundamento no resuelto.
-- **Cierre temporal del frente básico de interfaces:** quedaría refutado si el patrón común de carril dejara de sostenerse materialmente en semántica, visión y motricidad, o si alguno de esos carriles no pudiera ya presentarse como estructura formalmente abierta y trazable.
+- **Cierre temporal del frente básico de interfaces:** quedaría refutado si la continuidad de criterio del programa dejara de sostenerse materialmente entre los carriles ya abiertos, o si alguno de ellos no pudiera ya presentarse como estructura formalmente abierta y trazable.
 - **Suficiencia local de la terna `{0,1,U}` en la fase actual:** quedaría refutada si apareciera una contradicción local suficiente, interna al problema formal tratado, que no pudiera resolverse legítimamente sin ampliar el alfabeto canónico.
 
 ---
@@ -544,7 +544,7 @@ Las referencias que siguen se ofrecen con el grado de localización suficiente p
 ### 12.4. Programa de interfaces
 
 - *Programa de interfaces del Sistema Vectorial SV*. Repositorio doctrinal-técnico del proyecto, estructura material consultada el 18/03/2026.
-- Carriles `semantica/`, `vision/` y `motricidad/` dentro de `documentos/programa_interfaces_sv/`. Estructura material consultada el 18/03/2026.
+- Carriles `semantica/`, `vision/`, `motricidad/`, `observacional/` y `olfato/` dentro de `documentos/programa_interfaces_sv/`. Estructura material consultada y normalizada en marzo de 2026.
 
 ### 12.5. Bloque lenguaje
 

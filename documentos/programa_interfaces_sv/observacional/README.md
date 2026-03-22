@@ -22,7 +22,7 @@ Su función es doctrinal, experimental y editorial: clarificar el frente, poner 
 
 ### Manuscrito
 - `manuscrito_final_pubpub.md`  
-  Manuscrito principal del carril observacional.
+  Manuscrito principal del carril observacional, normalizado ya con extensión Markdown y nombre editorial estable.
 
 ### Portada
 - `portada/`  
