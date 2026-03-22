@@ -24,13 +24,13 @@ Licencia: CC BY-NC-ND 4.0
 
 ### Corpus doctrinal
 
-#### Nivel 0 — Autoridad normativa suprema
+#### Cimiento base — Autoridad normativa suprema
 
 | Documento | Release | URL PubPub | Archivo en repositorio |
 |---|---:|---|---|
 | Fundamentos algebraico-semánticos del Sistema Vectorial SV | Release 3 | [enlace](https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3) | `documentos/fundamentos/README.md` |
 
-#### Nivel 2 — Serie de composición intercelular
+#### Forjado I doctrinal — Serie de composición intercelular
 
 | Documento | Release | URL PubPub | Archivo en repositorio |
 |---|---:|---|---|
