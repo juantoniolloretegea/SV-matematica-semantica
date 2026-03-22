@@ -1,6 +1,6 @@
 # REGISTRO_TRAZABILIDAD_PUBLICACIONES_Y_PIEZAS_SV_2026_03
 
-**Fecha:** 20/03/2026  
+**Fecha:** 22/03/2026  
 **Estado:** Registro ligero de trazabilidad y control  
 **Ámbito:** `SV-matematica-semantica`
 
@@ -63,6 +63,13 @@ Su finalidad es evitar pérdida de memoria estructural, facilitar auditoría pos
 - **Naturaleza:** acta de cierre editorial
 - **Ubicación en repositorio:** `documentos/publicaciones/ACTA_CIERRE_BLOQUE_EDITORIAL_PUBLICACIONES_SV_2026_03.md`
 - **Observación:** deja cerrada la primera fase editorial integrada con criterio de fuente canónica, prevalencia pública y estructura documental mínima por publicación.
+
+### 3.6. Suceso local, suceso envolvente y reevaluación situacional en horizonte declarado en el Sistema Vectorial SV
+
+- **Naturaleza:** nota de precisión algebraico-semántica pública y subordinada
+- **Ubicación en repositorio:** `documentos/adendas/Nota de precision algebraico semantica/`
+- **Versión pública de referencia:** ITVIA / PubPub — Release 1
+- **Observación:** pieza preservada materialmente en `documentos/adendas/` con manuscrito Markdown, copia HTML local y figuras asociadas. Su integración no altera la jerarquía doctrinal del sistema y actúa como afinación delimitada del régimen de suceso local, suceso envolvente y reevaluación situacional.
 
 ## 4. Índices y piezas de acceso
 
