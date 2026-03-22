@@ -1,4 +1,4 @@
-# Suceso local, suceso envolvente y reevaluación situacional en horizonte declarado del Sistema Vectorial SV
+# Suceso local, suceso envolvente y reevaluación situacional en horizonte declarado en el Sistema Vectorial SV
 ## Nota de precisión algebraico-semántica sobre modificación efectiva sin tiempo fuerte
 
 **Autor:** Juan Antonio Lloret Egea  
@@ -174,7 +174,7 @@ Sea ahora `H+` un horizonte superior arquitectónicamente declarado, que contien
 
 En este ejemplo, `S1` no agota su situación. Su autolectura local puede seguir siendo estable. La modificación efectiva procede de la comparecencia de sucesos envolventes en un horizonte competente, no del mero transcurso temporal ni del flujo continuo del trayecto.
 
-![Figura 1. Frame local y horizonte envolvente](figuras/figura_1_frame_horizonte.svg)
+![Figura 1. Frame local y horizonte envolvente](../Figuras/figura_1_frame_horizonte.svg)
 
 ## 10. Serie de ejemplos de modificación efectiva sin tiempo fuerte
 
@@ -201,7 +201,7 @@ Un nodo `S1` puede mantener internamente el mismo estado local observable, pero 
 **Ejemplo 7. Persona sentada en sala de espera.**  
 Una persona `S1` puede sentirse “igual” durante una espera prolongada. Pero su situación efectiva cambia si, sin saberlo, se ejecutan sucesos externos relevantes: cancelación de vuelo, reasignación de puerta, llamada clínica, modificación de turno o activación de procedimiento. La duración de la espera no explica nada por sí sola; lo decisivo son los sucesos que el horizonte competente reconoce.
 
-![Figura 5. Tabla de ejemplos](figuras/figura_5_tabla_ejemplos.svg)
+![Figura 5. Tabla de ejemplos](../Figuras/figura_5_tabla_ejemplos.svg)
 
 ## 11. El tiempo frente al espejo
 
@@ -222,7 +222,7 @@ En un régimen temporalista, algo cambia porque dura o transcurre.
 En el SV, algo cambia porque comparecen sucesos legítimos en un horizonte declarado y competente.
 
 **El tiempo ordena; el suceso decide.**
-![Figura 2. Contraste entre temporalismo y régimen eventivo del SV](figuras/figura_2_tiempo_vs_suceso.svg)
+![Figura 2. Contraste entre temporalismo y régimen eventivo del SV](../Figuras/figura_2_tiempo_vs_suceso.svg)
 
 ## 12. Adversarial
 
@@ -236,7 +236,7 @@ La tercera objeción diría que la pieza destruye la autonomía del frame local.
 
 La cuarta objeción diría que “suceso envolvente” no es más que una reetiqueta de contexto. La respuesta es que el contexto blando no basta: solo cuentan unidades de modificación arquitectónicamente pertinentes y sometidas a cadena de entrada legítima.
 
-![Figura 3. Competencia de horizonte](figuras/figura_3_competencia_horizonte.svg)
+![Figura 3. Competencia de horizonte](../Figuras/figura_3_competencia_horizonte.svg)
 
 ## 13. Relación con la semántica del SV y con el Lenguaje SV
 
@@ -246,7 +246,7 @@ Respecto del **Lenguaje SV**, la pieza no introduce obligación inmediata alguna
 
 En este sentido, la pieza no empuja todavía al lenguaje a modificarse; **le advierte qué no debe olvidar**.
 
-![Figura 4. Coexistencia de clausura local y situación efectiva](figuras/figura_4_doble_plano.svg)
+![Figura 4. Coexistencia de clausura local y situación efectiva](../Figuras/figura_4_doble_plano.svg)
 
 ## 14. Conclusión
 
