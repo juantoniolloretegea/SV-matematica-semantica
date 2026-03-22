@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#fff"/>
+<text x="600" y="60" text-anchor="middle" font-size="34" font-family="Arial" font-weight="700">Figura 2. Contraste entre temporalismo y régimen eventivo del SV</text>
+<rect x="90" y="140" width="430" height="520" rx="18" fill="#f8f1f1" stroke="#8b2c2c" stroke-width="4"/>
+<text x="305" y="190" text-anchor="middle" font-size="28" font-family="Arial" font-weight="700" fill="#8b2c2c">Lectura temporalista</text>
+<text x="305" y="270" text-anchor="middle" font-size="24" font-family="Arial">duración</text>
+<text x="305" y="330" text-anchor="middle" font-size="24" font-family="Arial">continuidad</text>
+<text x="305" y="390" text-anchor="middle" font-size="24" font-family="Arial">secuencia</text>
+<text x="305" y="450" text-anchor="middle" font-size="24" font-family="Arial">trayecto</text>
+<path d="M305 490 L305 580" stroke="#8b2c2c" stroke-width="5" marker-end="url(#arrowr)"/>
+<text x="305" y="625" text-anchor="middle" font-size="28" font-family="Arial" font-weight="700">“cambio”</text>
+
+<rect x="680" y="140" width="430" height="520" rx="18" fill="#eff7ef" stroke="#20603d" stroke-width="4"/>
+<text x="895" y="190" text-anchor="middle" font-size="28" font-family="Arial" font-weight="700" fill="#20603d">Régimen eventivo del SV</text>
+<text x="895" y="255" text-anchor="middle" font-size="22" font-family="Arial">captura</text>
+<text x="895" y="305" text-anchor="middle" font-size="22" font-family="Arial">admisibilidad</text>
+<text x="895" y="355" text-anchor="middle" font-size="22" font-family="Arial">transducción</text>
+<text x="895" y="405" text-anchor="middle" font-size="22" font-family="Arial">suceso legítimo</text>
+<text x="895" y="455" text-anchor="middle" font-size="22" font-family="Arial">horizonte competente</text>
+<path d="M895 495 L895 580" stroke="#20603d" stroke-width="5" marker-end="url(#arrowg)"/>
+<text x="895" y="625" text-anchor="middle" font-size="28" font-family="Arial" font-weight="700">reevaluación</text>
+<text x="600" y="735" text-anchor="middle" font-size="28" font-family="Arial" font-style="italic">El tiempo ordena; el suceso decide.</text>
+<defs>
+<marker id="arrowr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><polygon points="0 0,10 3,0 6" fill="#8b2c2c"/></marker>
+<marker id="arrowg" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><polygon points="0 0,10 3,0 6" fill="#20603d"/></marker>
+</defs>
+</svg>

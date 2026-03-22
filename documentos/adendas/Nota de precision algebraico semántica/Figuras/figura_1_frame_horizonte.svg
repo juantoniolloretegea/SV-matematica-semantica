@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#ffffff"/>
+<text x="600" y="60" text-anchor="middle" font-size="34" font-family="Arial" font-weight="700">Figura 1. Frame local y horizonte envolvente</text>
+<circle cx="600" cy="430" r="240" fill="none" stroke="#999" stroke-width="4" stroke-dasharray="10 8"/>
+<circle cx="600" cy="430" r="110" fill="#eef6ff" stroke="#1f4d7a" stroke-width="4"/>
+<text x="600" y="420" text-anchor="middle" font-size="28" font-family="Arial" font-weight="700">S1</text>
+<text x="600" y="455" text-anchor="middle" font-size="20" font-family="Arial">clausura local estable</text>
+<text x="600" y="720" text-anchor="middle" font-size="26" font-family="Arial" font-weight="700">H+</text>
+<text x="600" y="750" text-anchor="middle" font-size="20" font-family="Arial">horizonte superior declarado y competente</text>
+<rect x="210" y="280" width="120" height="54" rx="10" fill="#f3efe0" stroke="#7a5f1f" stroke-width="3"/>
+<text x="270" y="314" text-anchor="middle" font-size="22" font-family="Arial">C1</text>
+<rect x="860" y="260" width="120" height="54" rx="10" fill="#f3efe0" stroke="#7a5f1f" stroke-width="3"/>
+<text x="920" y="294" text-anchor="middle" font-size="22" font-family="Arial">C2</text>
+<rect x="860" y="560" width="120" height="54" rx="10" fill="#f3efe0" stroke="#7a5f1f" stroke-width="3"/>
+<text x="920" y="594" text-anchor="middle" font-size="22" font-family="Arial">Cn</text>
+<rect x="200" y="560" width="150" height="54" rx="10" fill="#f3efe0" stroke="#7a5f1f" stroke-width="3"/>
+<text x="275" y="594" text-anchor="middle" font-size="22" font-family="Arial">sucesos</text>
+<path d="M 340 307 C 430 330, 470 350, 510 385" fill="none" stroke="#7a5f1f" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 860 287 C 780 320, 730 340, 690 385" fill="none" stroke="#7a5f1f" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 860 587 C 780 560, 730 530, 690 475" fill="none" stroke="#7a5f1f" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 350 587 C 430 560, 470 530, 510 475" fill="none" stroke="#7a5f1f" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="455" y="125" width="290" height="86" rx="14" fill="#f6f6f6" stroke="#444" stroke-width="3"/>
+<text x="600" y="160" text-anchor="middle" font-size="24" font-family="Arial" font-weight="700">reevaluación situacional</text>
+<text x="600" y="190" text-anchor="middle" font-size="18" font-family="Arial">S1 + C1…Cn  →  situación efectiva</text>
+<path d="M 600 211 L 600 310" fill="none" stroke="#444" stroke-width="4" marker-end="url(#arrow)"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><polygon points="0 0, 10 3, 0 6" fill="#333"/></marker></defs>
+</svg>
