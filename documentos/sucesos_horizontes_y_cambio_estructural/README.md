@@ -22,11 +22,13 @@ Esta familia ordena ese desplazamiento y lo desarrolla de forma progresiva, sin 
 
 ## Piezas integradas en esta sede
 
-En esta carpeta se integran materialmente, a esta fecha:
+En esta carpeta constan ya materialmente, a esta fecha:
 
 - **Documento VII.0**
 - **Documento VII.1**
 - **Documento VII.2**
+- **Documento VII.3**
+- `matriz_capa_sucesos/`
 - `REGISTRO_EDITORIAL_COLECCION_SUCESOS.csv`
 
 ## Registro y trazabilidad
@@ -78,15 +80,32 @@ Esta familia debe leerse bajo una restricción fuerte:
 - no confundir sucesión con cadena estructural;
 - y no tratar como cierre lo que todavía comparece como apertura o problema de trabajo.
 
-## Estado de este bloque
+## Estado actual de la familia
 
-A esta fecha, la familia queda materializada con su primer bloque doctrinal integrado y con su infraestructura de registro ya abierta.
+A esta fecha, la familia queda **materialmente integrada hasta VII.3**, con:
 
-El siguiente paso correcto no es inflar sin control la familia, sino:
+- sede doctrinal ya estabilizada;
+- registro editorial activo;
+- matriz madre y matriz espejo ya abiertas;
+- y contraste preliminar ya ejecutado con el estado real del Lenguaje SV.
 
-- consolidar la extracción matricial nacida de VII.0–VII.2;
-- contrastarla con el Lenguaje SV;
-- y sólo después abrir, con disciplina, el siguiente documento de la serie.
+La integración de **VII.3** no autoriza por sí misma un endurecimiento inmediato del Lenguaje SV. Su función principal ha sido consolidar el tramo doctrinal relativo a:
+
+- cadenas admisibles,
+- acumulación eventiva discreta,
+- y regímenes de paso entre sucesos admisibles,
+
+manteniendo todavía abierta la transición hacia el siguiente frente.
+
+## Siguiente paso correcto
+
+El siguiente paso correcto no es reabrir por inercia las piezas ya integradas ni inflar retrospectivamente la familia.
+
+Lo que procede ahora es:
+
+- **delimitar con rigor el Documento VII.4**;
+- mantener coherencia con la matriz de sucesos ya abierta;
+- y preparar, sin precipitación implementativa, el carril doctrinal que empezará a tocar el frente de **células especializadas** del Sistema Vectorial SV.
 
 ## Nota final
 
