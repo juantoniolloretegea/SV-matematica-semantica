@@ -22,18 +22,11 @@ Esta familia ordena ese desplazamiento y lo desarrolla de forma progresiva, sin 
 
 En esta carpeta constan ya materialmente, a esta fecha:
 
-<<<<<<< HEAD
 - Documento VII.0
 - Documento VII.1
 - Documento VII.2
 - Documento VII.3
 - Documento VII.4
-=======
-- **Documento VII.0**
-- **Documento VII.1**
-- **Documento VII.2**
-- **Documento VII.3**
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
 - `matriz_capa_sucesos/`
 - `REGISTRO_EDITORIAL_COLECCION_SUCESOS.csv`
 
@@ -87,16 +80,11 @@ Esta familia debe leerse bajo una restricción fuerte:
 
 ## Estado actual de la familia
 
-<<<<<<< HEAD
 A esta fecha, la familia queda materialmente integrada hasta **VII.4**, con:
-=======
-A esta fecha, la familia queda **materialmente integrada hasta VII.3**, con:
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
 
 - sede doctrinal ya estabilizada;
 - registro editorial activo;
 - matriz madre y matriz espejo ya abiertas;
-<<<<<<< HEAD
 - contraste preliminar ya ejecutado con el estado real del Lenguaje SV;
 - e incorporación expresa del frente de respuesta estructural, umbral, transición de régimen y preparación doctrinal de células especializadas.
 
@@ -106,35 +94,15 @@ La integración de VII.4 no autoriza por sí misma un endurecimiento inmediato d
 - persistencia de transporte y estabilidad de lectura;
 - umbral de ruptura y transición controlada de régimen;
 - y siembra doctrinal del carril inicial de células especializadas.
-=======
-- y contraste preliminar ya ejecutado con el estado real del Lenguaje SV.
-
-La integración de **VII.3** no autoriza por sí misma un endurecimiento inmediato del Lenguaje SV. Su función principal ha sido consolidar el tramo doctrinal relativo a:
-
-- cadenas admisibles,
-- acumulación eventiva discreta,
-- y regímenes de paso entre sucesos admisibles,
-
-manteniendo todavía abierta la transición hacia el siguiente frente.
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
 
 ## Siguiente paso correcto
 
 El siguiente paso correcto no es reabrir por inercia las piezas ya integradas ni inflar retrospectivamente la familia.
-<<<<<<< HEAD
 Lo que procede ahora es:
 
 - preparar con rigor el frente específico de **células especializadas del Sistema Vectorial SV**;
 - mantener coherencia con la matriz de sucesos ya abierta;
 - y sostener el contraste con el Lenguaje SV sin precipitación implementativa, backend prematuro ni cierre artificial de gramática humana.
-=======
-
-Lo que procede ahora es:
-
-- **delimitar con rigor el Documento VII.4**;
-- mantener coherencia con la matriz de sucesos ya abierta;
-- y preparar, sin precipitación implementativa, el carril doctrinal que empezará a tocar el frente de **células especializadas** del Sistema Vectorial SV.
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
 
 ## Nota final
 
