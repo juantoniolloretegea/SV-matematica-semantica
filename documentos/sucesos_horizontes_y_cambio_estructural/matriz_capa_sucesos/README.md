@@ -39,8 +39,6 @@ Por ello:
 
 ## Estado actual de esta capa
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 A esta fecha, esta matriz debe leerse después de la integración material de **VII.4** y antes de la apertura formal del frente específico de **células especializadas del Sistema Vectorial SV** y del siguiente ciclo fuerte de contraste con el Lenguaje SV.
 
 Su función inmediata no es forzar traducciones implementativas automáticas, sino conservar trazabilidad sobre tres planos distintos:
@@ -48,19 +46,5 @@ Su función inmediata no es forzar traducciones implementativas automáticas, si
 1. lo ya absorbido doctrinalmente por la familia VII hasta VII.4;
 2. lo ya contrastado de forma preliminar con el Lenguaje SV;
 3. y lo que todavía deberá reexaminarse cuando se abra el siguiente tramo doctrinal relativo a células especializadas.
-=======
-=======
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
-A esta fecha, esta matriz debe leerse **después de la integración material de VII.3** y **antes de la delimitación fuerte de VII.4**.
-
-Su función inmediata no es forzar traducciones implementativas automáticas, sino conservar trazabilidad sobre tres planos distintos:
-
-1. lo ya absorbido doctrinalmente por la familia VII;
-2. lo ya contrastado de forma preliminar con el Lenguaje SV;
-3. y lo que todavía deberá reexaminarse cuando se abra el siguiente tramo doctrinal.
-<<<<<<< HEAD
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
-=======
->>>>>>> 4160509cf588eb39a2d62774d505f233c8d42f12
 
 Por tanto, esta capa sigue siendo un instrumento de vigilancia, contraste y preparación, no un mandato autónomo de cierre técnico.
