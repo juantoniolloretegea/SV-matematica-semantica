@@ -1,0 +1,162 @@
+<svg viewBox='0 0 1200 800' width='1200' height='800' xmlns='http://www.w3.org/2000/svg' style='max-width:100%;display:block;background:#ffffff;'>
+<rect width='1200' height='800' fill='#ffffff' stroke='#2d6a9f' stroke-width='2'/>
+
+<!-- Header -->
+<rect x='0' y='0' width='1200' height='56' fill='#1a3a5c'/>
+<text x='600' y='30' text-anchor='middle' fill='#ffffff' font-size='19' font-weight='bold' font-family='Georgia, serif'>Figura 4. Respuesta estructural a suceso de horizonte</text>
+<text x='600' y='50' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>Sección 8.4  ·  Ejemplo IV  ·  Apertura estructural hacia VII.4  ·  Célula SV(9,3)</text>
+
+<!-- STABLE CHAIN: e1–e3 -->
+<text x='60' y='82' text-anchor='start' fill='#27a03a' font-size='13' font-weight='bold' font-family='Georgia, serif'>Cadena estable inicial</text>
+<rect x='16' y='88' width='130' height='60' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='81' y='114' text-anchor='middle' fill='#111111' font-size='15' font-weight='bold' font-family='Georgia, serif'>e₁</text>
+<text x='81' y='136' text-anchor='middle' fill='#555555' font-size='11' font-family='Georgia, serif'>P3: U→0</text>
+
+<line x1='146' y1='118' x2='176' y2='118' stroke='#27a03a' stroke-width='2' marker-end='url(#arrgr)'/>
+
+<rect x='178' y='88' width='130' height='60' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='243' y='114' text-anchor='middle' fill='#111111' font-size='15' font-weight='bold' font-family='Georgia, serif'>e₂</text>
+<text x='243' y='136' text-anchor='middle' fill='#555555' font-size='11' font-family='Georgia, serif'>P7: U→1</text>
+
+<line x1='308' y1='118' x2='338' y2='118' stroke='#27a03a' stroke-width='2' marker-end='url(#arrgr)'/>
+
+<rect x='340' y='88' width='130' height='60' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='405' y='114' text-anchor='middle' fill='#111111' font-size='15' font-weight='bold' font-family='Georgia, serif'>e₃</text>
+<text x='405' y='136' text-anchor='middle' fill='#555555' font-size='11' font-family='Georgia, serif'>P2: 0→1</text>
+
+<line x1='470' y1='118' x2='510' y2='118' stroke='#27a03a' stroke-width='2' marker-end='url(#arrgr)'/>
+<text x='490' y='110' text-anchor='middle' fill='#27a03a' font-size='10' font-family='Georgia, serif'>H</text>
+
+<!-- HORIZON EVENT -->
+<rect x='512' y='70' width='176' height='96' rx='6' fill='#fffbe6' stroke='#c8a800' stroke-width='2.5'/>
+<text x='600' y='92' text-anchor='middle' fill='#7a5900' font-size='14' font-weight='bold' font-family='Georgia, serif'>e* SUCESO DE</text>
+<text x='600' y='110' text-anchor='middle' fill='#7a5900' font-size='14' font-weight='bold' font-family='Georgia, serif'>HORIZONTE</text>
+<line x1='522' y1='118' x2='678' y2='118' stroke='#c8a800' stroke-width='0.8'/>
+<text x='600' y='136' text-anchor='middle' fill='#555555' font-size='11' font-family='Georgia, serif'>H → H′</text>
+<text x='600' y='154' text-anchor='middle' fill='#555555' font-size='11' font-family='Georgia, serif'>no destruye legibilidad</text>
+<text x='600' y='168' text-anchor='middle' fill='#7a5900' font-size='13' font-family='Georgia, serif'>⚠ H′ ≠ H</text>
+
+<!-- Label: acumulación previa -->
+<rect x='30' y='158' width='466' height='28' rx='3' fill='#27a03a' opacity='0.85'/>
+<text x='263' y='177' text-anchor='middle' fill='#ffffff' font-size='12' font-family='Georgia, serif'>A(e₁,e₂,e₃) bajo H — acumulación previa válida</text>
+
+<!-- DIVIDER LINE -->
+<line x1='600' y1='178' x2='600' y2='220' stroke='#c8a800' stroke-width='2' stroke-dasharray='6,4' marker-end='url(#arrorange)'/>
+<text x='620' y='202' text-anchor='start' fill='#7a5900' font-size='11' font-family='Georgia, serif'>¿qué sigue?</text>
+
+<!-- FOUR RESPONSES -->
+<!-- Label -->
+<text x='600' y='238' text-anchor='middle' fill='#1a3a5c' font-size='14' font-weight='bold' font-family='Georgia, serif'>Cuatro respuestas estructurales posibles ante e*</text>
+
+<!-- === R1: Prolongar bajo nueva regla === -->
+<rect x='16' y='248' width='264' height='190' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='2'/>
+<rect x='16' y='248' width='264' height='36' rx='6' fill='#2d6a9f'/>
+<text x='148' y='272' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold' font-family='Georgia, serif'>R1 — Prolongar</text>
+<text x='148' y='286' text-anchor='middle' fill='#cce0f5' font-size='11' font-family='Georgia, serif'>bajo nueva regla Φ′</text>
+<text x='30' y='308' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>La cadena continúa con</text>
+<text x='30' y='326' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>H′ y nueva regla Φ′</text>
+<text x='30' y='344' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>Requiere: Φ′ bien tipada</text>
+<text x='30' y='362' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>para H′ y observables</text>
+<text x='30' y='380' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>de H′</text>
+<rect x='26' y='394' width='244' height='34' rx='3' fill='#2d6a9f'/>
+<text x='148' y='416' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>…e₃ → e* → e₄ (H′)</text>
+
+<!-- === R2: Nueva cadena === -->
+<rect x='308' y='248' width='264' height='190' rx='6' fill='#eef5fc' stroke='#27a03a' stroke-width='2'/>
+<rect x='308' y='248' width='264' height='36' rx='6' fill='#27a03a'/>
+<text x='440' y='272' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold' font-family='Georgia, serif'>R2 — Nueva cadena</text>
+<text x='440' y='286' text-anchor='middle' fill='#d4f0da' font-size='11' font-family='Georgia, serif'>apertura independiente</text>
+<text x='322' y='308' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>e* cierra la cadena previa</text>
+<text x='322' y='326' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>y abre una nueva bajo H′</text>
+<text x='322' y='344' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>A(previa) se congela.</text>
+<text x='322' y='362' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>Nueva A′(…) parte de</text>
+<text x='322' y='380' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>cero bajo H′</text>
+<rect x='318' y='394' width='244' height='34' rx='3' fill='#27a03a'/>
+<text x='440' y='416' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>e* ⊢ e′₁(H′), e′₂(H′)…</text>
+
+<!-- === R3: Detener acumulación === -->
+<rect x='600' y='248' width='264' height='190' rx='6' fill='#eef5fc' stroke='#e07b00' stroke-width='2'/>
+<rect x='600' y='248' width='264' height='36' rx='6' fill='#e07b00'/>
+<text x='732' y='272' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold' font-family='Georgia, serif'>R3 — Detener</text>
+<text x='732' y='286' text-anchor='middle' fill='#fff0d4' font-size='11' font-family='Georgia, serif'>acumulación previa</text>
+<text x='614' y='308' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>A(e₁,e₂,e₃) queda como</text>
+<text x='614' y='326' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>registro cerrado</text>
+<text x='614' y='344' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>El suceso e* no genera</text>
+<text x='614' y='362' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>nueva acumulación</text>
+<text x='614' y='380' text-anchor='start' fill='#555555' font-size='11' font-family='Georgia, serif'>por falta de Φ bajo H′</text>
+<rect x='610' y='394' width='244' height='34' rx='3' fill='#e07b00'/>
+<text x='732' y='416' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>A congelada. Sin Φ nueva.</text>
+
+<!-- === R4: Reevaluación envolvente === -->
+<rect x='892' y='248' width='292' height='190' rx='6' fill='#fdecea' stroke='#c0392b' stroke-width='2.5'/>
+<rect x='892' y='248' width='292' height='36' rx='6' fill='#c0392b'/>
+<text x='1038' y='272' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold' font-family='Georgia, serif'>R4 — Reevaluación</text>
+<text x='1038' y='286' text-anchor='middle' fill='#fddbd9' font-size='11' font-family='Georgia, serif'>envolvente — no formalizada aún</text>
+<text x='906' y='308' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>e* exige reconsiderar la</text>
+<text x='906' y='326' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>cadena previa bajo H′</text>
+<text x='906' y='344' text-anchor='start' fill='#c0392b' font-size='11' font-family='Georgia, serif'>No formalizable aún en VII.3</text>
+<text x='906' y='362' text-anchor='start' fill='#c0392b' font-size='11' font-family='Georgia, serif'>Reservada para VII.4</text>
+<text x='906' y='380' text-anchor='start' fill='#888888' font-size='11' font-family='Georgia, serif'>"transporte retroactivo"</text>
+<rect x='902' y='394' width='272' height='34' rx='3' fill='#c0392b'/>
+<text x='1038' y='416' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Georgia, serif'>Apertura estructural → VII.4</text>
+
+<!-- Arrows from horizon event to four boxes -->
+<line x1='512' y1='118' x2='148' y2='248' stroke='#2d6a9f' stroke-width='1.5' stroke-dasharray='5,4' marker-end='url(#arrblue)'/>
+<line x1='550' y1='166' x2='440' y2='248' stroke='#27a03a' stroke-width='1.5' stroke-dasharray='5,4' marker-end='url(#arrgreen)'/>
+<line x1='640' y1='166' x2='732' y2='248' stroke='#e07b00' stroke-width='1.5' stroke-dasharray='5,4' marker-end='url(#arrorange2)'/>
+<line x1='688' y1='130' x2='1038' y2='248' stroke='#c0392b' stroke-width='1.5' stroke-dasharray='5,4' marker-end='url(#arrbad)'/>
+
+<!-- Bottom panel: Prop 5 -->
+<rect x='16' y='452' width='1168' height='60' rx='5' fill='#1a3a5c'/>
+<text x='600' y='474' text-anchor='middle' fill='#ffffff' font-size='14' font-weight='bold' font-family='Georgia, serif'>Proposición 5 — La respuesta estructural a suceso de horizonte no se reduce a mero paso cronológico</text>
+<text x='600' y='498' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>Lo decisivo es la capacidad del suceso para alterar el horizonte, la comparabilidad y la legitimidad de Φ</text>
+
+<!-- Prueba de estrés summary box -->
+<rect x='16' y='524' width='570' height='100' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='300' y='546' text-anchor='middle' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Georgia, serif'>Balance prueba de estrés — Lenguaje SV</text>
+<text x='36' y='566' text-anchor='start' fill='#27a03a' font-size='12' font-family='Georgia, serif'>✓ Cubierto:  horizonte formal, trayectoria, transición, admisibilidad</text>
+<text x='36' y='586' text-anchor='start' fill='#e07b00' font-size='12' font-family='Georgia, serif'>⚠ Vigilado:  cadenas, acumulaciones, endurecimiento prematuro</text>
+<text x='36' y='606' text-anchor='start' fill='#c0392b' font-size='12' font-family='Georgia, serif'>✗ No cubierto:  local/envolvente, afectación estratificada, respuesta horizonte</text>
+
+<!-- VII.4 aperture box -->
+<rect x='614' y='524' width='570' height='100' rx='5' fill='#fffbe6' stroke='#c8a800' stroke-width='2'/>
+<text x='898' y='546' text-anchor='middle' fill='#7a5900' font-size='13' font-weight='bold' font-family='Georgia, serif'>Apertura hacia VII.4</text>
+<text x='634' y='566' text-anchor='start' fill='#555555' font-size='12' font-family='Georgia, serif'>VII.4 deberá abordar:</text>
+<text x='634' y='586' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>· Respuesta estructural prolongada bajo H′</text>
+<text x='634' y='606' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>· Continuidad / ruptura del transporte estructural</text>
+
+<!-- Delimitación negativa -->
+<rect x='16' y='636' width='1168' height='46' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='600' y='656' text-anchor='middle' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Georgia, serif'>Delimitación negativa de VII.3</text>
+<text x='600' y='674' text-anchor='middle' fill='#333333' font-size='12' font-family='Georgia, serif'>sucesión ≠ cadena  ·  suma ≠ acumulación  ·  estabilidad ≠ convergencia  ·  cambio de horizonte ≠ transcurso</text>
+
+<!-- Adversarial A4 -->
+<rect x='16' y='694' width='1168' height='46' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='600' y='714' text-anchor='middle' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Georgia, serif'>Adversariales A4 y A5 respondidas</text>
+<text x='600' y='732' text-anchor='middle' fill='#333333' font-size='12' font-family='Georgia, serif'>Toda pieza está anclada al SV · El Lenguaje SV no es colonizado: sólo diagnosticado · Endurecimiento prematuro evitado</text>
+
+<!-- Footer -->
+<rect x='0' y='774' width='1200' height='26' fill='#1a3a5c'/>
+<text x='600' y='791' text-anchor='middle' fill='#ffffff' font-size='9' font-weight='bold' font-family='Georgia, serif'>Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Serie doctrinal: Sistema Vectorial SV | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ | IA eñ™ — La Biblia de la IA™ | ISSN: 2695-6411 | Madrid, 25 de marzo de 2026</text>
+
+<defs>
+<marker id='arrgr' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'>
+  <path d='M0,0 L0,10 L12,5 z' fill='#27a03a'/>
+</marker>
+<marker id='arrblue' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'>
+  <path d='M0,0 L0,10 L12,5 z' fill='#2d6a9f'/>
+</marker>
+<marker id='arrgreen' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'>
+  <path d='M0,0 L0,10 L12,5 z' fill='#27a03a'/>
+</marker>
+<marker id='arrorange' markerWidth='12' markerHeight='12' refX='5' refY='9' orient='auto'>
+  <path d='M0,0 L10,0 L5,12 z' fill='#c8a800'/>
+</marker>
+<marker id='arrorange2' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'>
+  <path d='M0,0 L0,10 L12,5 z' fill='#e07b00'/>
+</marker>
+<marker id='arrbad' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'>
+  <path d='M0,0 L0,10 L12,5 z' fill='#c0392b'/>
+</marker>
+</defs>
+</svg>

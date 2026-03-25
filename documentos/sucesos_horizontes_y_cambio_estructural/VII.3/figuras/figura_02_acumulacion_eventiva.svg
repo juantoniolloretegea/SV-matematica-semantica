@@ -1,0 +1,128 @@
+<svg viewBox='0 0 1200 800' width='1200' height='800' xmlns='http://www.w3.org/2000/svg' style='max-width:100%;display:block;background:#ffffff;'>
+<rect width='1200' height='800' fill='#ffffff' stroke='#2d6a9f' stroke-width='2'/>
+
+<!-- Header -->
+<rect x='0' y='0' width='1200' height='56' fill='#1a3a5c'/>
+<text x='600' y='30' text-anchor='middle' fill='#ffffff' font-size='19' font-weight='bold' font-family='Georgia, serif'>Figura 2. Acumulación eventiva</text>
+<text x='600' y='50' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>Definición 6.2  ·  Recursión formal sobre cadena legítima  ·  Aₙ₊₁ = Aₙ + Φ(eₙ₊₁, Aₙ)</text>
+
+<!-- Central formula box -->
+<rect x='300' y='68' width='600' height='68' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='2'/>
+<text x='600' y='92' text-anchor='middle' fill='#1a3a5c' font-size='15' font-weight='bold' font-family='Georgia, serif'>Regla de actualización bien tipada</text>
+<text x='600' y='120' text-anchor='middle' fill='#111111' font-size='16' font-family='Courier New, monospace'>A₁ = Δ_{e₁}F        Aₙ₊₁ = Aₙ + Φ(eₙ₊₁, Aₙ)</text>
+
+<!-- ===== LEFT COLUMN: LEGÍTIMO ===== -->
+<text x='290' y='162' text-anchor='middle' fill='#27a03a' font-size='14' font-weight='bold' font-family='Georgia, serif'>▶ Acumulación legítima (Ejemplo I)</text>
+
+<!-- Step e1 -->
+<rect x='36' y='172' width='500' height='80' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<rect x='36' y='172' width='80' height='80' rx='5' fill='#2d6a9f'/>
+<text x='76' y='204' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>e₁</text>
+<text x='76' y='232' text-anchor='middle' fill='#aacce8' font-size='11' font-family='Georgia, serif'>P3: U→0</text>
+<text x='180' y='198' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>σ(e₁) = {P3}, H₁,  F observable</text>
+<text x='180' y='220' text-anchor='start' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Courier New, monospace'>A₁ = Δ_{e₁}F = 1</text>
+<text x='180' y='240' text-anchor='start' fill='#27a03a' font-size='12' font-family='Georgia, serif'>Régimen: FINITO/inicial · tipado ✓</text>
+
+<!-- Arrow down -->
+<line x1='285' y1='252' x2='285' y2='270' stroke='#2d6a9f' stroke-width='2' marker-end='url(#arrdown)'/>
+
+<!-- Step e2 -->
+<rect x='36' y='272' width='500' height='80' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<rect x='36' y='272' width='80' height='80' rx='5' fill='#2d6a9f'/>
+<text x='76' y='304' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>e₂</text>
+<text x='76' y='332' text-anchor='middle' fill='#aacce8' font-size='11' font-family='Georgia, serif'>P7: U→1</text>
+<text x='180' y='298' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>σ(e₂) = {P7}, H₂ = H₁,  Φ conserva F</text>
+<text x='180' y='320' text-anchor='start' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Courier New, monospace'>A₂ = A₁ + Φ(e₂, A₁) = 1.8</text>
+<text x='180' y='340' text-anchor='start' fill='#27a03a' font-size='12' font-family='Georgia, serif'>Φ bien tipada · mismo régimen ✓</text>
+
+<!-- Arrow down -->
+<line x1='285' y1='352' x2='285' y2='370' stroke='#2d6a9f' stroke-width='2' marker-end='url(#arrdown)'/>
+
+<!-- Step e3 -->
+<rect x='36' y='372' width='500' height='80' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<rect x='36' y='372' width='80' height='80' rx='5' fill='#2d6a9f'/>
+<text x='76' y='404' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>e₃</text>
+<text x='76' y='432' text-anchor='middle' fill='#aacce8' font-size='11' font-family='Georgia, serif'>P7: ajuste</text>
+<text x='180' y='398' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>σ(e₃) = {P7}, H₃ = H₁,  Φ persistente</text>
+<text x='180' y='420' text-anchor='start' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Courier New, monospace'>A₃ = A₂ + Φ(e₃, A₂) = 2.3</text>
+<text x='180' y='440' text-anchor='start' fill='#27a03a' font-size='12' font-family='Georgia, serif'>Acumulación local válida ✓</text>
+
+<!-- Result legítimo -->
+<rect x='36' y='464' width='500' height='50' rx='5' fill='#1a3a5c'/>
+<text x='285' y='484' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold' font-family='Georgia, serif'>ACUMULACIÓN EVENTIVA LOCAL</text>
+<text x='285' y='502' text-anchor='middle' fill='#7ed6a8' font-size='13' font-family='Courier New, monospace'>A(e) = (A₁, A₂, A₃) · bien tipada · régimen estable</text>
+
+<!-- ===== RIGHT COLUMN: ILEGÍTIMO ===== -->
+<text x='910' y='162' text-anchor='middle' fill='#c0392b' font-size='14' font-weight='bold' font-family='Georgia, serif'>✗ Pseudoacumulación ilegítima (Ejemplo II)</text>
+
+<!-- Step e1' -->
+<rect x='664' y='172' width='500' height='80' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<rect x='664' y='172' width='80' height='80' rx='5' fill='#2d6a9f'/>
+<text x='704' y='204' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>e₁</text>
+<text x='704' y='232' text-anchor='middle' fill='#aacce8' font-size='11' font-family='Georgia, serif'>Conectiv.</text>
+<text x='808' y='198' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>σ(e₁) ⊆ {P1…P4}, H₁ conectividad</text>
+<text x='808' y='220' text-anchor='start' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Courier New, monospace'>A₁ = Δ_{e₁}F_c</text>
+<text x='808' y='240' text-anchor='start' fill='#27a03a' font-size='12' font-family='Georgia, serif'>Observable F_c bien definida ✓</text>
+
+<!-- Arrow down -->
+<line x1='913' y1='252' x2='913' y2='270' stroke='#c0392b' stroke-width='2' stroke-dasharray='6,4' marker-end='url(#arrbaddown)'/>
+
+<!-- Step e2' -->
+<rect x='664' y='272' width='500' height='80' rx='5' fill='#eef5fc' stroke='#c0392b' stroke-width='1.5'/>
+<rect x='664' y='272' width='80' height='80' rx='5' fill='#2d6a9f'/>
+<text x='704' y='304' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>e₂</text>
+<text x='704' y='332' text-anchor='middle' fill='#aacce8' font-size='11' font-family='Georgia, serif'>Conectiv.</text>
+<text x='808' y='298' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>σ(e₂) ⊆ {P5…P9}, H₂ = H₁</text>
+<text x='808' y='320' text-anchor='start' fill='#1a3a5c' font-size='13' font-weight='bold' font-family='Courier New, monospace'>A₂ = A₁ + Φ(e₂, A₁)</text>
+<text x='808' y='340' text-anchor='start' fill='#e07b00' font-size='12' font-family='Georgia, serif'>Φ aún definida · tensión latente ⚠</text>
+
+<!-- Arrow down with warning -->
+<line x1='913' y1='352' x2='913' y2='370' stroke='#c0392b' stroke-width='2' stroke-dasharray='6,4' marker-end='url(#arrbaddown)'/>
+
+<!-- Step e3' BREAK -->
+<rect x='664' y='372' width='500' height='80' rx='5' fill='#fdecea' stroke='#c0392b' stroke-width='2'/>
+<rect x='664' y='372' width='80' height='80' rx='5' fill='#c0392b'/>
+<text x='704' y='404' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>e₃</text>
+<text x='704' y='432' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Georgia, serif'>Obs. ajena</text>
+<text x='808' y='398' text-anchor='start' fill='#c0392b' font-size='12' font-family='Georgia, serif'>Exige observable O* de otro régimen</text>
+<text x='808' y='420' text-anchor='start' fill='#c0392b' font-size='13' font-weight='bold' font-family='Courier New, monospace'>Φ(e₃, A₂) = indefinido</text>
+<text x='808' y='440' text-anchor='start' fill='#c0392b' font-size='12' font-family='Georgia, serif'>Sin traducción formal ✗</text>
+
+<!-- Result ilegítimo -->
+<rect x='664' y='464' width='500' height='50' rx='5' fill='#c0392b'/>
+<text x='913' y='484' text-anchor='middle' fill='#ffffff' font-size='13' font-weight='bold' font-family='Georgia, serif'>PSEUDOACUMULACIÓN ILEGÍTIMA</text>
+<text x='913' y='502' text-anchor='middle' fill='#ffffff' font-size='12' font-family='Georgia, serif'>mismos 3 pasos · distinto resultado · régimen roto</text>
+
+<!-- Central divider -->
+<line x1='600' y1='155' x2='600' y2='525' stroke='#2d6a9f' stroke-width='1.5' stroke-dasharray='8,5'/>
+
+<!-- Conditions panel -->
+<rect x='16' y='528' width='1168' height='66' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='600' y='548' text-anchor='middle' fill='#1a3a5c' font-size='14' font-weight='bold' font-family='Georgia, serif'>Condiciones de acumulación eventiva local (Def. 6.2)</text>
+<text x='200' y='572' text-anchor='middle' fill='#2d6a9f' font-size='12' font-weight='bold' font-family='Georgia, serif'>i. A₁ de observable relevante</text>
+<text x='600' y='572' text-anchor='middle' fill='#2d6a9f' font-size='12' font-weight='bold' font-family='Georgia, serif'>ii. Aₙ₊₁ por regla Φ bien tipada</text>
+<text x='1000' y='572' text-anchor='middle' fill='#2d6a9f' font-size='12' font-weight='bold' font-family='Georgia, serif'>iii. Φ conserva régimen de lectura</text>
+
+<!-- Proposition 2 -->
+<rect x='16' y='606' width='1168' height='52' rx='5' fill='#1a3a5c'/>
+<text x='600' y='626' text-anchor='middle' fill='#ffffff' font-size='14' font-weight='bold' font-family='Georgia, serif'>Proposición 2 — No toda cadena admite acumulación eventiva</text>
+<text x='600' y='648' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>La existencia de una cadena no garantiza una regla Φ bien tipada para una magnitud acumulativa</text>
+
+<!-- Adversarial box -->
+<rect x='16' y='670' width='1168' height='52' rx='5' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='600' y='690' text-anchor='middle' fill='#111111' font-size='13' font-weight='bold' font-family='Georgia, serif'>Adversarial A2 respondida — La acumulación no es suma verbal de incidencias</text>
+<text x='600' y='710' text-anchor='middle' fill='#333333' font-size='12' font-family='Georgia, serif'>La acumulación se define por recursión formal sobre cadena legítima · Φ explícita · Aₙ ∈ 𝕂 bien tipado</text>
+
+<!-- Footer -->
+<rect x='0' y='774' width='1200' height='26' fill='#1a3a5c'/>
+<text x='600' y='791' text-anchor='middle' fill='#ffffff' font-size='9' font-weight='bold' font-family='Georgia, serif'>Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Serie doctrinal: Sistema Vectorial SV | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ | IA eñ™ — La Biblia de la IA™ | ISSN: 2695-6411 | Madrid, 25 de marzo de 2026</text>
+
+<defs>
+<marker id='arrdown' markerWidth='12' markerHeight='12' refX='5' refY='9' orient='auto'>
+  <path d='M0,0 L10,0 L5,12 z' fill='#2d6a9f'/>
+</marker>
+<marker id='arrbaddown' markerWidth='12' markerHeight='12' refX='5' refY='9' orient='auto'>
+  <path d='M0,0 L10,0 L5,12 z' fill='#c0392b'/>
+</marker>
+</defs>
+</svg>
