@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#ffffff"/>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#10263b"/>
+</marker>
+<marker id="arrowblue" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#2255aa"/>
+</marker>
+<marker id="arrowgrey" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+<path d="M0,0 L10,5 L0,10 z" fill="#999999"/>
+</marker>
+</defs>
+
+<!-- Título -->
+<text x="70" y="52" font-family="Arial" font-size="32" font-weight="700" fill="#10263b">Figura 4. Dato de enlace y tríada de dictámenes</text>
+
+<!-- Dato de enlace -->
+<rect x="60" y="90" width="340" height="300" rx="22" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="230" y="128" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#10263b">Dato de enlace</text>
+<text x="230" y="158" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#10263b">Λ = (J_Λ, Θ_Λ, Π_Λ)</text>
+<line x1="80" y1="172" x2="380" y2="172" stroke="#cccccc" stroke-width="1.2"/>
+
+<!-- Tipos de dato de enlace -->
+<text x="100" y="200" font-family="Arial" font-size="14" fill="#777777">① Separación completa         Λ = ∅</text>
+<text x="100" y="224" font-family="Arial" font-size="14" fill="#777777">② Enlace débil                   Θ_Λ frágil</text>
+<text x="100" y="248" font-family="Arial" font-size="14" fill="#777777">③ Reinicialización pura         Π_Λ ≡ 0</text>
+<text x="100" y="272" font-family="Arial" font-size="14" fill="#10263b" font-weight="700">④ Reinicialización con memoria  Π_Λ ≠ 0</text>
+<text x="100" y="296" font-family="Arial" font-size="14" fill="#10263b" font-weight="700">⑤ Enlace fuerte                transporte estable</text>
+<text x="230" y="356" text-anchor="middle" font-family="Arial" font-size="13" font-style="italic" fill="#888888">condición útil — no suficiente</text>
+
+<!-- Tríada de dictámenes -->
+<rect x="780" y="90" width="360" height="300" rx="22" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="960" y="128" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#10263b">Tríada de dictámenes</text>
+<text x="960" y="158" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">sobre R_A y R_B</text>
+<line x1="800" y1="172" x2="1120" y2="172" stroke="#cccccc" stroke-width="1.2"/>
+
+<rect x="800" y="185" width="320" height="58" rx="10" fill="#f9fafb" stroke="#10263b" stroke-width="1.5"/>
+<text x="960" y="210" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#555555">No equivalencia   R_A ≁ R_B</text>
+<text x="960" y="232" text-anchor="middle" font-family="Arial" font-size="13" fill="#888888">sin subdominio, transporte ni preservación</text>
+
+<rect x="800" y="256" width="320" height="58" rx="10" fill="#f9fafb" stroke="#2255aa" stroke-width="1.5"/>
+<text x="960" y="281" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#2255aa">Comparabilidad   R_A ⋈ R_B</text>
+<text x="960" y="303" text-anchor="middle" font-family="Arial" font-size="13" fill="#888888">alguna preservación o vía independiente</text>
+
+<rect x="800" y="327" width="320" height="58" rx="10" fill="#f0f8f0" stroke="#226622" stroke-width="2"/>
+<text x="960" y="352" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#226622">Equiv. parcial   R_A ~_par R_B</text>
+<text x="960" y="374" text-anchor="middle" font-family="Arial" font-size="13" fill="#226622">inv. local + pérdida declarada</text>
+
+<!-- Aparato de preservación e invariancia -->
+<rect x="460" y="155" width="260" height="220" rx="18" fill="#fff8f0" stroke="#aa6600" stroke-width="2.5"/>
+<text x="590" y="188" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#aa6600">Aparato de preservación e invariancia</text>
+<line x1="475" y1="198" x2="705" y2="198" stroke="#aa6600" stroke-width="1"/>
+<text x="590" y="222" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">Propiedad relevante</text>
+<text x="590" y="246" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">Preservación bajo Θ</text>
+<text x="590" y="270" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">Invariancia local ℱ</text>
+<text x="590" y="294" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">Pérdida declarada</text>
+<text x="590" y="344" text-anchor="middle" font-family="Arial" font-size="12" font-style="italic" fill="#aa6600">opera sobre Λ — no se reduce a él</text>
+
+<!-- ═══ FLECHAS ═══ -->
+<!-- Lambda → Aparato -->
+<path d="M 400 245 C 420 245, 440 265, 455 265" fill="none" stroke="#10263b" stroke-width="3" marker-end="url(#arrow)"/>
+<!-- Aparato → Tríada -->
+<path d="M 720 265 C 740 265, 760 265, 775 265" fill="none" stroke="#aa6600" stroke-width="3" marker-end="url(#arrow)"/>
+
+<!-- Línea punteada: Lambda=∅ → puede haber comparabilidad igualmente -->
+<path d="M 230 390 C 230 440, 590 440, 590 380" fill="none" stroke="#999999" stroke-width="2" stroke-dasharray="8,5" marker-end="url(#arrowgrey)"/>
+<text x="400" y="458" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">Lambda = ∅ no impide comparabilidad</text>
+<text x="400" y="475" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">si hay propiedad relevante por vía independiente</text>
+
+<!-- ═══ TABLA RESUMEN LAMBDA → TRÍADA ═══ -->
+<rect x="60" y="510" width="1080" height="215" rx="16" fill="#f9fafb" stroke="#cccccc" stroke-width="1.5"/>
+<text x="600" y="542" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#10263b">Tabla: tipo de Lambda → resultado posible en la tríada</text>
+<line x1="80" y1="555" x2="1120" y2="555" stroke="#cccccc" stroke-width="1"/>
+
+<!-- Cabeceras -->
+<text x="190" y="575" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#10263b">Tipo de enlace</text>
+<text x="490" y="575" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#555555">No equivalencia</text>
+<text x="720" y="575" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#2255aa">Comparabilidad</text>
+<text x="980" y="575" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#226622">Equiv. parcial</text>
+
+<!-- Filas -->
+<text x="190" y="602" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">① Separación / Lambda = ∅</text>
+<text x="490" y="602" text-anchor="middle" font-family="Arial" font-size="13" fill="#555555">probable</text>
+<text x="720" y="602" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">posible (vía indep.)</text>
+<text x="980" y="602" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">no</text>
+
+<text x="190" y="628" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">② Enlace débil</text>
+<text x="490" y="628" text-anchor="middle" font-family="Arial" font-size="13" fill="#555555">posible</text>
+<text x="720" y="628" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">posible</text>
+<text x="980" y="628" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">no sin inv. local</text>
+
+<text x="190" y="654" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">③④ Reinicialización (pura/mem.)</text>
+<text x="490" y="654" text-anchor="middle" font-family="Arial" font-size="13" fill="#555555">posible</text>
+<text x="720" y="654" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">probable</text>
+<text x="980" y="654" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">solo si inv. local</text>
+
+<text x="190" y="680" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b" font-weight="700">⑤ Enlace fuerte</text>
+<text x="490" y="680" text-anchor="middle" font-family="Arial" font-size="13" fill="#555555">improbable</text>
+<text x="720" y="680" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">probable</text>
+<text x="980" y="680" text-anchor="middle" font-family="Arial" font-size="13" fill="#226622">posible + pérdida decl.</text>
+
+<!-- separadores tabla -->
+<line x1="340" y1="558" x2="340" y2="692" stroke="#eeeeee" stroke-width="1"/>
+<line x1="595" y1="558" x2="595" y2="692" stroke="#eeeeee" stroke-width="1"/>
+<line x1="840" y1="558" x2="840" y2="692" stroke="#eeeeee" stroke-width="1"/>
+
+<!-- ═══ LÍNEA Y AUTORÍA ═══ -->
+<line x1="50" y1="780" x2="1150" y2="780" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="796" text-anchor="middle" font-family="Arial" font-size="7" fill="#888888">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Institución: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | Publicación: IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 25/03/2026</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="920" viewBox="0 0 1200 920">
+<rect width="1200" height="920" fill="#ffffff"/>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#10263b"/>
+</marker>
+</defs>
+
+<!-- Título -->
+<text x="70" y="52" font-family="Arial" font-size="32" font-weight="700" fill="#10263b">Figura 2. Tríada mínima de relaciones entre regímenes</text>
+
+<!-- ═══ PREGUNTA CENTRAL ═══ -->
+<rect x="75" y="80" width="1050" height="110" rx="22" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="600" y="128" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#10263b">¿Qué relación estructural existe entre R_A y R_B?</text>
+<text x="600" y="166" text-anchor="middle" font-family="Arial" font-size="17" fill="#10263b">No se presume relación por mera sucesión, por Lambda, ni por semejanza cualitativa.</text>
+
+<!-- ═══ BIFURCACIÓN: ¿existe familia de propiedades declarada? ═══ -->
+<path d="M 600 190 L 600 240" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 600 240 L 200 240" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 600 240 L 850 240" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 200 240 L 200 285" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M 850 240 L 850 285" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<text x="235" y="228" font-family="Arial" font-size="20" font-weight="700" fill="#10263b">No</text>
+<text x="880" y="228" font-family="Arial" font-size="20" font-weight="700" fill="#10263b">Sí / Lambda / Comp. indep.</text>
+
+<!-- ═══ CAJA: NO EQUIVALENCIA ═══ -->
+<rect x="80" y="300" width="240" height="200" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="200" y="348" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#10263b">No</text>
+<text x="200" y="378" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#10263b">equivalencia</text>
+<text x="200" y="418" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#555555">R_A ≁ R_B</text>
+<text x="200" y="458" text-anchor="middle" font-family="Arial" font-size="14" fill="#888888">sin subdominio,</text>
+<text x="200" y="476" text-anchor="middle" font-family="Arial" font-size="14" fill="#888888">sin transporte,</text>
+<text x="200" y="494" text-anchor="middle" font-family="Arial" font-size="14" fill="#888888">sin preservación</text>
+
+<!-- ═══ SUB-BIFURCACIÓN: ¿invariancia local + pérdida declarada? ═══ -->
+<path d="M 850 490 L 850 555" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 430 555 L 1075 555" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 600 555 L 600 495" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M 1050 555 L 1050 495" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<text x="540" y="543" font-family="Arial" font-size="17" font-weight="700" fill="#10263b">Alguna preservación</text>
+<text x="830" y="543" font-family="Arial" font-size="17" font-weight="700" fill="#10263b">Inv. local + pérdida declarada</text>
+
+<!-- ═══ CAJA: COMPARABILIDAD ═══ -->
+<rect x="400" y="300" width="400" height="190" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="600" y="348" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#10263b">Comparabilidad</text>
+<text x="600" y="388" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#2255aa">R_A ⋈ R_B</text>
+<text x="600" y="428" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">alguna preservación o comp. independiente</text>
+<text x="600" y="452" text-anchor="middle" font-family="Arial" font-size="14" fill="#888888">puede existir incluso con Lambda = ∅</text>
+<text x="600" y="473" text-anchor="middle" font-family="Arial" font-size="14" fill="#888888">no garantiza invariancia local</text>
+
+<!-- ═══ CAJA: EQUIVALENCIA PARCIAL ═══ -->
+<rect x="900" y="300" width="240" height="190" rx="22" fill="#f0f8f0" stroke="#226622" stroke-width="3"/>
+<text x="1020" y="348" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#226622">Equivalencia</text>
+<text x="1020" y="378" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#226622">parcial</text>
+<text x="1020" y="418" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#226622">R_A ~_par R_B</text>
+<text x="1020" y="452" text-anchor="middle" font-family="Arial" font-size="14" fill="#226622">inv. local + pérdida</text>
+<text x="1020" y="470" text-anchor="middle" font-family="Arial" font-size="14" fill="#226622">declarada</text>
+
+<!-- ═══ NOTA LEMA 1 ═══ -->
+<path d="M 900 390 L 810 390" stroke="#10263b" stroke-width="2" stroke-dasharray="6,4" fill="none" marker-end="url(#arrow)"/>
+<text x="855" y="380" text-anchor="middle" font-family="Arial" font-size="12" fill="#666666">Lema 1</text>
+<text x="855" y="395" text-anchor="middle" font-family="Arial" font-size="12" fill="#666666">implica ⊇</text>
+
+<!-- ═══ TEXTO PIE ═══ -->
+<text x="600" y="650" text-anchor="middle" font-family="Arial" font-size="17" fill="#10263b">La comparabilidad puede existir sin Lambda. La equivalencia parcial exige invariancia local y pérdida declarada.</text>
+<text x="600" y="678" text-anchor="middle" font-family="Arial" font-size="17" fill="#10263b">Vectores idénticos no implican ningún nivel de la tríada sin propiedades declaradas (Ejemplo E4).</text>
+
+<!-- ═══ LÍNEA Y AUTORÍA ═══ -->
+<line x1="50" y1="880" x2="1150" y2="880" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="896" text-anchor="middle" font-family="Arial" font-size="7" fill="#888888">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Institución: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | Publicación: IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 25/03/2026</text>
+</svg>

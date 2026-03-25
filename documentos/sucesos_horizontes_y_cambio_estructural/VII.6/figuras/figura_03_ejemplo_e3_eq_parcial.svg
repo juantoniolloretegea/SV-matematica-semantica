@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#ffffff"/>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#10263b"/>
+</marker>
+</defs>
+
+<!-- Título -->
+<text x="70" y="52" font-family="Arial" font-size="32" font-weight="700" fill="#10263b">Figura 3. Ejemplo E3 — Equivalencia parcial genuina sobre SV(9,3)</text>
+
+<!-- Etiquetas regímenes -->
+<text x="240" y="115" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">R_A: bloque superior activo</text>
+<text x="960" y="115" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">R_B: bloque superior activo</text>
+<text x="240" y="138" text-anchor="middle" font-family="Arial" font-size="16" fill="#888888">(zona media 0, zona inferior U)</text>
+<text x="960" y="138" text-anchor="middle" font-family="Arial" font-size="16" fill="#888888">(zona media U, zona inferior 0)</text>
+
+<!-- ═══ GRID R_A ═══ -->
+<g transform="translate(120,158)">
+  <rect x="0" y="0" width="240" height="240" fill="#ffffff" stroke="#10263b" stroke-width="4"/>
+  <line x1="80" y1="0" x2="80" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="160" y1="0" x2="160" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="80" x2="240" y2="80" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="160" x2="240" y2="160" stroke="#10263b" stroke-width="3"/>
+  <!-- Bloque superior J={P1,P2,P3} — zona de equivalencia -->
+  <rect x="0"   y="0" width="80" height="80" fill="#e0f0ff" stroke="#2255aa" stroke-width="2.5"/>
+  <rect x="80"  y="0" width="80" height="80" fill="#e0f0ff" stroke="#2255aa" stroke-width="2.5"/>
+  <rect x="160" y="0" width="80" height="80" fill="#e0f0ff" stroke="#2255aa" stroke-width="2.5"/>
+  <!-- Valores A = (1,1,1, 0,0,0, U,U,U) -->
+  <text x="40"  y="50" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#2255aa">1</text>
+  <text x="120" y="50" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#2255aa">1</text>
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#2255aa">1</text>
+  <text x="40"  y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#999999">0</text>
+  <text x="120" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#999999">0</text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#999999">0</text>
+  <text x="40"  y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#bbbbbb">U</text>
+  <text x="120" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#bbbbbb">U</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#bbbbbb">U</text>
+  <!-- J label -->
+  <text x="120" y="272" text-anchor="middle" font-family="Arial" font-size="17" fill="#2255aa" font-weight="700">J = {P1, P2, P3}</text>
+  <text x="120" y="292" text-anchor="middle" font-family="Arial" font-size="14" fill="#999999">zona de pérdida: {P4…P9}</text>
+</g>
+
+<!-- ═══ GRID R_B ═══ -->
+<g transform="translate(840,158)">
+  <rect x="0" y="0" width="240" height="240" fill="#ffffff" stroke="#10263b" stroke-width="4"/>
+  <line x1="80" y1="0" x2="80" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="160" y1="0" x2="160" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="80" x2="240" y2="80" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="160" x2="240" y2="160" stroke="#10263b" stroke-width="3"/>
+  <!-- Bloque superior Θ(J)={P1,P2,P3} — zona de equivalencia -->
+  <rect x="0"   y="0" width="80" height="80" fill="#e0f0ff" stroke="#2255aa" stroke-width="2.5"/>
+  <rect x="80"  y="0" width="80" height="80" fill="#e0f0ff" stroke="#2255aa" stroke-width="2.5"/>
+  <rect x="160" y="0" width="80" height="80" fill="#e0f0ff" stroke="#2255aa" stroke-width="2.5"/>
+  <!-- Valores B = (1,1,1, U,U,U, 0,0,0) -->
+  <text x="40"  y="50" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#2255aa">1</text>
+  <text x="120" y="50" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#2255aa">1</text>
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#2255aa">1</text>
+  <text x="40"  y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#bbbbbb">U</text>
+  <text x="120" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#bbbbbb">U</text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#bbbbbb">U</text>
+  <text x="40"  y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#999999">0</text>
+  <text x="120" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#999999">0</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#999999">0</text>
+  <text x="120" y="272" text-anchor="middle" font-family="Arial" font-size="17" fill="#2255aa" font-weight="700">Θ(J) = {P1, P2, P3}</text>
+  <text x="120" y="292" text-anchor="middle" font-family="Arial" font-size="14" fill="#999999">sin restricción fuera de Θ(J)</text>
+</g>
+
+<!-- ═══ FLECHAS DE TRANSPORTE (idénticas: Pi → Pi) ═══ -->
+<path d="M 360 198 C 500 198, 540 198, 680 198" fill="none" stroke="#2255aa" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 360 238 C 500 238, 540 238, 680 238" fill="none" stroke="#2255aa" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 360 278 C 500 278, 540 278, 680 278" fill="none" stroke="#2255aa" stroke-width="3.5" marker-end="url(#arrow)"/>
+<text x="520" y="183" text-anchor="middle" font-family="Arial" font-size="17" fill="#2255aa">Θ(P1)=P1</text>
+<text x="520" y="223" text-anchor="middle" font-family="Arial" font-size="17" fill="#2255aa">Θ(P2)=P2</text>
+<text x="520" y="263" text-anchor="middle" font-family="Arial" font-size="17" fill="#2255aa">Θ(P3)=P3</text>
+
+<!-- ═══ DICTAMEN Y PROPIEDADES ═══ -->
+<rect x="100" y="490" width="1000" height="160" rx="22" fill="#f0f8f0" stroke="#226622" stroke-width="3"/>
+<text x="600" y="530" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#226622">Dictamen: R_A ~_par R_B  (equivalencia parcial)</text>
+<text x="600" y="566" text-anchor="middle" font-family="Arial" font-size="16" fill="#10263b">ℱ = { bloque_superior_todo_1 ,  bloque_superior_sin_U }  —  ambas preservadas bajo Θ</text>
+<text x="600" y="596" text-anchor="middle" font-family="Arial" font-size="16" fill="#10263b">Invariancia local verificada sobre J = {P1, P2, P3}  |  Pérdida declarada: {P4,…,P9}</text>
+<text x="600" y="626" text-anchor="middle" font-family="Arial" font-size="15" fill="#888888">R_A difiere de R_B fuera de J — la equivalencia no se extiende al régimen completo</text>
+
+<!-- ═══ LÍNEA Y AUTORÍA ═══ -->
+<line x1="50" y1="858" x2="1150" y2="858" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="874" text-anchor="middle" font-family="Arial" font-size="7" fill="#888888">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Institución: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | Publicación: IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 25/03/2026</text>
+</svg>

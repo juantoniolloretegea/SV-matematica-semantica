@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+<rect width="1200" height="780" fill="#ffffff"/>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#10263b"/>
+</marker>
+<marker id="arrow2" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#2255aa"/>
+</marker>
+</defs>
+
+<!-- Título -->
+<text x="70" y="52" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#10263b">Figura 1. Preservación e invariancia local</text>
+
+<!-- ═══ RÉGIMEN R_A ═══ -->
+<rect x="60" y="90" width="310" height="380" rx="22" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="215" y="130" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#10263b">R_A</text>
+<text x="215" y="158" text-anchor="middle" font-family="Arial" font-size="16" fill="#10263b">S_A = soporte declarado</text>
+
+<!-- Subdominio J en R_A -->
+<rect x="100" y="178" width="230" height="130" rx="14" fill="#e8f0fa" stroke="#2255aa" stroke-width="2.5"/>
+<text x="215" y="210" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#2255aa">J ⊆ S_A</text>
+<text x="215" y="238" text-anchor="middle" font-family="Arial" font-size="15" fill="#2255aa">subdominio declarado</text>
+<!-- Propiedades en J -->
+<rect x="120" y="255" width="190" height="38" rx="8" fill="#ffffff" stroke="#2255aa" stroke-width="1.5"/>
+<text x="215" y="279" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#2255aa">ℱ = {P₁,…,Pₖ}</text>
+<text x="215" y="335" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">propiedades relevantes</text>
+<text x="215" y="355" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">tipadas sobre J</text>
+
+<!-- Zona no enlazada -->
+<text x="215" y="428" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">resto de S_A — pérdida declarada</text>
+<line x1="100" y1="410" x2="330" y2="410" stroke="#cccccc" stroke-width="1" stroke-dasharray="5,4"/>
+
+<!-- ═══ TRANSPORTE Θ ═══ -->
+<rect x="450" y="170" width="300" height="220" rx="22" fill="#fdf8f0" stroke="#aa6600" stroke-width="2.5"/>
+<text x="600" y="210" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#aa6600">Θ : J ⇀ S_B</text>
+<line x1="470" y1="225" x2="730" y2="225" stroke="#aa6600" stroke-width="1.5"/>
+<text x="600" y="260" text-anchor="middle" font-family="Arial" font-size="16" fill="#aa6600">transporte coherente</text>
+<text x="600" y="290" text-anchor="middle" font-family="Arial" font-size="16" fill="#10263b">P_B(Θ(x)) = P_A(x)</text>
+<text x="600" y="315" text-anchor="middle" font-family="Arial" font-size="14" fill="#888888">∀ x ∈ J donde Θ(x) definido</text>
+<text x="600" y="355" text-anchor="middle" font-family="Arial" font-size="14" font-style="italic" fill="#aa6600">no exige identidad de predicados</text>
+<text x="600" y="375" text-anchor="middle" font-family="Arial" font-size="14" font-style="italic" fill="#aa6600">exige coincidencia de valores</text>
+
+<!-- ═══ RÉGIMEN R_B ═══ -->
+<rect x="830" y="90" width="310" height="380" rx="22" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="985" y="130" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#10263b">R_B</text>
+<text x="985" y="158" text-anchor="middle" font-family="Arial" font-size="16" fill="#10263b">S_B = soporte declarado</text>
+
+<!-- Imagen de J en R_B -->
+<rect x="870" y="178" width="230" height="130" rx="14" fill="#fef3e8" stroke="#cc7700" stroke-width="2.5"/>
+<text x="985" y="210" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#cc7700">Θ(J) ⊆ S_B</text>
+<text x="985" y="238" text-anchor="middle" font-family="Arial" font-size="15" fill="#cc7700">imagen del subdominio</text>
+<rect x="890" y="255" width="190" height="38" rx="8" fill="#ffffff" stroke="#cc7700" stroke-width="1.5"/>
+<text x="985" y="279" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#cc7700">ℱ_B preservada</text>
+<text x="985" y="335" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">invariancia local</text>
+<text x="985" y="355" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">sobre Θ(J)</text>
+<text x="985" y="428" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">resto de S_B — sin restricción</text>
+<line x1="870" y1="410" x2="1100" y2="410" stroke="#cccccc" stroke-width="1" stroke-dasharray="5,4"/>
+
+<!-- ═══ FLECHAS ═══ -->
+<path d="M 370 280 C 400 280, 430 280, 445 280" fill="none" stroke="#aa6600" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 750 280 C 780 280, 810 280, 825 280" fill="none" stroke="#aa6600" stroke-width="3.5" marker-end="url(#arrow)"/>
+
+<!-- ═══ NOTA INVARIANCIA LOCAL ═══ -->
+<rect x="310" y="530" width="580" height="100" rx="14" fill="#f8f8f8" stroke="#10263b" stroke-width="1.5"/>
+<text x="600" y="568" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#10263b">Invariancia local</text>
+<text x="600" y="594" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">Familia ℱ suficientemente rica + todas preservadas bajo Θ</text>
+<text x="600" y="616" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">Fuera de J: los regímenes pueden diferir radicalmente</text>
+
+<!-- ═══ LÍNEA Y AUTORÍA ═══ -->
+<line x1="50" y1="740" x2="1150" y2="740" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="756" text-anchor="middle" font-family="Arial" font-size="7" fill="#888888">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Institución: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | Publicación: IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 25/03/2026</text>
+</svg>

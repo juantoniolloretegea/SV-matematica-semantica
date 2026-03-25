@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#ffffff"/>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+<path d="M0,0 L10,5 L0,10 z" fill="#10263b"/>
+</marker>
+</defs>
+
+<!-- Título -->
+<text x="70" y="52" font-family="Arial" font-size="32" font-weight="700" fill="#10263b">Figura 5. Mapa de los cinco ejemplos canónicos sobre SV(9,3)</text>
+
+<!-- ═══ FILA DE ENCABEZADOS ═══ -->
+<rect x="60" y="80" width="1080" height="50" rx="10" fill="#f4f6f8" stroke="#cccccc" stroke-width="1"/>
+<text x="170"  y="111" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#10263b">Ejemplo</text>
+<text x="380"  y="111" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#10263b">Vectores A / B</text>
+<text x="580"  y="111" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#10263b">Lambda</text>
+<text x="760"  y="111" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#10263b">Propiedad clave</text>
+<text x="1010" y="111" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#10263b">Dictamen tríada</text>
+
+<!-- Separadores verticales encabezado -->
+<line x1="275" y1="80" x2="275" y2="130" stroke="#cccccc" stroke-width="1"/>
+<line x1="490" y1="80" x2="490" y2="130" stroke="#cccccc" stroke-width="1"/>
+<line x1="680" y1="80" x2="680" y2="130" stroke="#cccccc" stroke-width="1"/>
+<line x1="870" y1="80" x2="870" y2="130" stroke="#cccccc" stroke-width="1"/>
+
+<!-- ═══ E1 ═══ -->
+<rect x="60" y="145" width="1080" height="120" rx="10" fill="#fafafa" stroke="#dddddd" stroke-width="1"/>
+<text x="170" y="175" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#10263b">E1</text>
+<text x="170" y="197" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">No equiv.</text>
+<text x="170" y="216" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">con comparab.</text>
+
+<!-- Mini grids E1 A -->
+<g transform="translate(288,152)">
+  <rect x="0" y="0" width="54" height="54" fill="#fff" stroke="#999" stroke-width="1"/>
+  <line x1="18" y1="0" x2="18" y2="54" stroke="#999" stroke-width="0.8"/>
+  <line x1="36" y1="0" x2="36" y2="54" stroke="#999" stroke-width="0.8"/>
+  <line x1="0" y1="18" x2="54" y2="18" stroke="#999" stroke-width="0.8"/>
+  <line x1="0" y1="36" x2="54" y2="36" stroke="#999" stroke-width="0.8"/>
+  <text x="9" y="13" text-anchor="middle" font-family="Arial" font-size="9" fill="#10263b">1</text>
+  <text x="27" y="13" text-anchor="middle" font-family="Arial" font-size="9" fill="#10263b">1</text>
+  <text x="45" y="13" text-anchor="middle" font-family="Arial" font-size="9" fill="#10263b">0</text>
+  <text x="9" y="31" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="27" y="31" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="45" y="31" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="9" y="49" text-anchor="middle" font-family="Arial" font-size="9" fill="#2255aa">U</text>
+  <text x="27" y="49" text-anchor="middle" font-family="Arial" font-size="9" fill="#2255aa">U</text>
+  <text x="45" y="49" text-anchor="middle" font-family="Arial" font-size="9" fill="#2255aa">U</text>
+  <text x="27" y="66" text-anchor="middle" font-family="Arial" font-size="9" fill="#888">A</text>
+</g>
+<text x="360" y="182" text-anchor="middle" font-family="Arial" font-size="14" fill="#10263b">→</text>
+<g transform="translate(368,152)">
+  <rect x="0" y="0" width="54" height="54" fill="#fff" stroke="#999" stroke-width="1"/>
+  <line x1="18" y1="0" x2="18" y2="54" stroke="#999" stroke-width="0.8"/>
+  <line x1="36" y1="0" x2="36" y2="54" stroke="#999" stroke-width="0.8"/>
+  <line x1="0" y1="18" x2="54" y2="18" stroke="#999" stroke-width="0.8"/>
+  <line x1="0" y1="36" x2="54" y2="36" stroke="#999" stroke-width="0.8"/>
+  <text x="9" y="13" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="27" y="13" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="45" y="13" text-anchor="middle" font-family="Arial" font-size="9" fill="#2255aa">U</text>
+  <text x="9" y="31" text-anchor="middle" font-family="Arial" font-size="9" fill="#10263b">1</text>
+  <text x="27" y="31" text-anchor="middle" font-family="Arial" font-size="9" fill="#10263b">1</text>
+  <text x="45" y="31" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="9" y="49" text-anchor="middle" font-family="Arial" font-size="9" fill="#2255aa">U</text>
+  <text x="27" y="49" text-anchor="middle" font-family="Arial" font-size="9" fill="#2255aa">U</text>
+  <text x="45" y="49" text-anchor="middle" font-family="Arial" font-size="9" fill="#999">0</text>
+  <text x="27" y="66" text-anchor="middle" font-family="Arial" font-size="9" fill="#888">B</text>
+</g>
+<text x="580" y="195" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">∅</text>
+<text x="760" y="182" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">Distribución alfabeto</text>
+<text x="760" y="200" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">idéntica — vía independiente</text>
+<rect x="880" y="158" width="240" height="50" rx="8" fill="#eef5ff" stroke="#2255aa" stroke-width="2"/>
+<text x="1000" y="183" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#2255aa">Comparabilidad</text>
+<text x="1000" y="200" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">R_A ⋈ R_B</text>
+<text x="760" y="230" text-anchor="middle" font-family="Arial" font-size="11" font-style="italic" fill="#888888">Lambda=∅ no impide comparabilidad</text>
+
+<!-- ═══ E2 ═══ -->
+<rect x="60" y="278" width="1080" height="110" rx="10" fill="#fafafa" stroke="#dddddd" stroke-width="1"/>
+<text x="170" y="308" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#10263b">E2</text>
+<text x="170" y="328" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">Comparab.</text>
+<text x="170" y="346" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">sin eq. parcial</text>
+<text x="380" y="335" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">A = (0,1,0,U,1,0,0,U,0)</text>
+<text x="380" y="355" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">B = (0,U,0,0,1,0,0,0,1)</text>
+<text x="580" y="328" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">Canónico previo</text>
+<text x="580" y="346" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">Reinicializ. con memoria</text>
+<text x="760" y="328" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">P5=1 en ambos — preserv.</text>
+<text x="760" y="346" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">puntual, no inv. local</text>
+<rect x="880" y="295" width="240" height="50" rx="8" fill="#eef5ff" stroke="#2255aa" stroke-width="2"/>
+<text x="1000" y="320" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#2255aa">Comparabilidad</text>
+<text x="1000" y="337" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">R_A ⋈ R_B</text>
+<text x="760" y="372" text-anchor="middle" font-family="Arial" font-size="11" font-style="italic" fill="#888888">enlace fuerte no garantiza equivalencia parcial</text>
+
+<!-- ═══ E3 ═══ -->
+<rect x="60" y="400" width="1080" height="110" rx="10" fill="#f0f8f0" stroke="#226622" stroke-width="1.5"/>
+<text x="170" y="430" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#226622">E3</text>
+<text x="170" y="450" text-anchor="middle" font-family="Arial" font-size="13" fill="#226622">Equivalencia</text>
+<text x="170" y="468" text-anchor="middle" font-family="Arial" font-size="13" fill="#226622">parcial genuina</text>
+<text x="380" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">A = (1,1,1,0,0,0,U,U,U)</text>
+<text x="380" y="458" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">B = (1,1,1,U,U,U,0,0,0)</text>
+<text x="580" y="440" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">—</text>
+<text x="760" y="436" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">ℱ = {bloque_1, sin_U}</text>
+<text x="760" y="454" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">sobre J={P1,P2,P3}</text>
+<text x="760" y="472" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">Pérdida: {P4…P9}</text>
+<rect x="880" y="418" width="240" height="50" rx="8" fill="#e0f0e0" stroke="#226622" stroke-width="2"/>
+<text x="1000" y="443" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#226622">Equiv. parcial</text>
+<text x="1000" y="460" text-anchor="middle" font-family="Arial" font-size="13" fill="#226622">R_A ~_par R_B</text>
+
+<!-- ═══ E4 ═══ -->
+<rect x="60" y="522" width="1080" height="110" rx="10" fill="#fff8f0" stroke="#aa5500" stroke-width="1.5"/>
+<text x="170" y="552" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#aa5500">E4</text>
+<text x="170" y="572" text-anchor="middle" font-family="Arial" font-size="13" fill="#aa5500">Trampa:</text>
+<text x="170" y="590" text-anchor="middle" font-family="Arial" font-size="13" fill="#aa5500">vectores iguales</text>
+<text x="380" y="558" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">A = B = (1,0,U,1,0,U,1,0,U)</text>
+<text x="380" y="576" text-anchor="middle" font-family="Arial" font-size="12" fill="#aa5500">vectores idénticos</text>
+<text x="580" y="565" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">—</text>
+<text x="760" y="552" text-anchor="middle" font-family="Arial" font-size="12" fill="#aa5500">Sin propiedades declaradas</text>
+<text x="760" y="570" text-anchor="middle" font-family="Arial" font-size="12" fill="#aa5500">reglas de actualización</text>
+<text x="760" y="588" text-anchor="middle" font-family="Arial" font-size="12" fill="#aa5500">pueden diferir</text>
+<rect x="880" y="540" width="240" height="50" rx="8" fill="#f9f9f9" stroke="#555555" stroke-width="2"/>
+<text x="1000" y="565" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#555555">No equivalencia</text>
+<text x="1000" y="582" text-anchor="middle" font-family="Arial" font-size="13" fill="#555555">R_A ≁ R_B</text>
+<text x="760" y="618" text-anchor="middle" font-family="Arial" font-size="11" font-style="italic" fill="#aa5500">vector ≠ régimen</text>
+
+<!-- ═══ E5 ═══ -->
+<rect x="60" y="644" width="1080" height="110" rx="10" fill="#fafafa" stroke="#dddddd" stroke-width="1"/>
+<text x="170" y="674" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#10263b">E5</text>
+<text x="170" y="694" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">Comparab.</text>
+<text x="170" y="712" text-anchor="middle" font-family="Arial" font-size="13" fill="#10263b">sin Lambda</text>
+<text x="380" y="682" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">A = (U,U,U,0,0,0,1,1,1)</text>
+<text x="380" y="700" text-anchor="middle" font-family="Arial" font-size="12" fill="#888888">B = (U,U,U,1,1,1,0,0,0)</text>
+<text x="580" y="692" text-anchor="middle" font-family="Arial" font-size="13" fill="#999999">∅</text>
+<text x="760" y="682" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">Distribución idéntica</text>
+<text x="760" y="700" text-anchor="middle" font-family="Arial" font-size="12" fill="#10263b">(3U, 3×1, 3×0)</text>
+<rect x="880" y="662" width="240" height="50" rx="8" fill="#eef5ff" stroke="#2255aa" stroke-width="2"/>
+<text x="1000" y="687" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#2255aa">Comparabilidad</text>
+<text x="1000" y="704" text-anchor="middle" font-family="Arial" font-size="13" fill="#2255aa">R_A ⋈ R_B</text>
+<text x="760" y="742" text-anchor="middle" font-family="Arial" font-size="11" font-style="italic" fill="#888888">cierra el hueco: Lambda=∅ ≠ incomparabilidad</text>
+
+<!-- Separadores verticales -->
+<line x1="275" y1="145" x2="275" y2="754" stroke="#eeeeee" stroke-width="1"/>
+<line x1="490" y1="145" x2="490" y2="754" stroke="#eeeeee" stroke-width="1"/>
+<line x1="680" y1="145" x2="680" y2="754" stroke="#eeeeee" stroke-width="1"/>
+<line x1="870" y1="145" x2="870" y2="754" stroke="#eeeeee" stroke-width="1"/>
+
+<!-- ═══ LÍNEA Y AUTORÍA ═══ -->
+<line x1="50" y1="860" x2="1150" y2="860" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="876" text-anchor="middle" font-family="Arial" font-size="7" fill="#888888">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Institución: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | Publicación: IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 25/03/2026</text>
+</svg>
