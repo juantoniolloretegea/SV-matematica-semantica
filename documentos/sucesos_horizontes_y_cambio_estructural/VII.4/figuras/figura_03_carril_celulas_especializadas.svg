@@ -1,0 +1,73 @@
+<svg viewBox='0 0 1200 800' width='1200' height='800' xmlns='http://www.w3.org/2000/svg' style='max-width:100%;display:block;background:#ffffff;'>
+<rect width='1200' height='800' fill='#ffffff' stroke='#2d6a9f' stroke-width='2'/>
+<rect x='0' y='0' width='1200' height='56' fill='#1a3a5c'/>
+<text x='600' y='30' text-anchor='middle' fill='#ffffff' font-size='19' font-weight='bold' font-family='Georgia, serif'>Figura 3. Carril doctrinal de células especializadas</text>
+<text x='600' y='50' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>VII.4 · Siembra fuerte sin fingir todavía el tratado completo de células</text>
+
+<rect x='360' y='90' width='480' height='120' rx='8' fill='#1a3a5c' stroke='#1a3a5c' stroke-width='2'/>
+<text x='600' y='118' text-anchor='middle' fill='#ffffff' font-size='18' font-weight='bold' font-family='Georgia, serif'>VII.4</text>
+<text x='600' y='144' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>respuesta estructural · umbral · transición de régimen</text>
+<text x='600' y='168' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>preparación doctrinal de células especializadas</text>
+<text x='600' y='192' text-anchor='middle' fill='#7ed6a8' font-size='12' font-family='Georgia, serif'>no cierre de backend · no gramática humana completa · no inflación semántica</text>
+
+<line x1='600' y1='210' x2='600' y2='260' stroke='#2d6a9f' stroke-width='2' marker-end='url(#arr)'/>
+
+<rect x='40' y='286' width='212' height='180' rx='6' fill='#fdecea' stroke='#c0392b' stroke-width='2'/>
+<text x='146' y='314' text-anchor='middle' fill='#c0392b' font-size='17' font-weight='bold' font-family='Georgia, serif'>1. Seguridad</text>
+<line x1='54' y1='322' x2='238' y2='322' stroke='#ef9a93' stroke-width='1'/>
+<text x='62' y='350' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Custodia integrada del sistema</text>
+<text x='62' y='374' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Trazabilidad de ruptura</text>
+<text x='62' y='396' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>  y transición</text>
+<text x='62' y='418' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• SVcustos como actor natural</text>
+<text x='62' y='440' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• No parche externo</text>
+
+<rect x='274' y='286' width='212' height='180' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='2'/>
+<text x='380' y='314' text-anchor='middle' fill='#1a3a5c' font-size='17' font-weight='bold' font-family='Georgia, serif'>2. Interfaces</text>
+<line x1='288' y1='322' x2='472' y2='322' stroke='#aacce8' stroke-width='1'/>
+<text x='296' y='350' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Visión</text>
+<text x='296' y='374' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Motricidad</text>
+<text x='296' y='398' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Olfato</text>
+<text x='296' y='422' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Frentes ya publicados y reales</text>
+
+<rect x='508' y='286' width='184' height='180' rx='6' fill='#e9f8ee' stroke='#27a03a' stroke-width='2'/>
+<text x='600' y='314' text-anchor='middle' fill='#1d6e2c' font-size='17' font-weight='bold' font-family='Georgia, serif'>3. Immuno2</text>
+<line x1='522' y1='322' x2='678' y2='322' stroke='#8dd3a0' stroke-width='1'/>
+<text x='530' y='350' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Carril SVperitus</text>
+<text x='530' y='374' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Requiere respuesta estructural</text>
+<text x='530' y='398' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• No basta clasificación estática</text>
+<text x='530' y='422' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Interlocución disciplinada</text>
+
+<rect x='714' y='286' width='220' height='180' rx='6' fill='#fffbe6' stroke='#c8a800' stroke-width='2'/>
+<text x='824' y='314' text-anchor='middle' fill='#7a5900' font-size='17' font-weight='bold' font-family='Georgia, serif'>4. Comprensión humana</text>
+<line x1='728' y1='322' x2='920' y2='322' stroke='#e0c84a' stroke-width='1'/>
+<text x='736' y='350' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Piloto inicial en español</text>
+<text x='736' y='374' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Arquitectura no provinciana</text>
+<text x='736' y='398' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Apertura: inglés, chino, hindi</text>
+<text x='736' y='422' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Sin teoría lingüística general aún</text>
+
+<rect x='956' y='286' width='204' height='180' rx='6' fill='#f3eefc' stroke='#7e57c2' stroke-width='2'/>
+<text x='1058' y='314' text-anchor='middle' fill='#5c3e99' font-size='17' font-weight='bold' font-family='Georgia, serif'>5. Protofrases</text>
+<line x1='970' y1='322' x2='1146' y2='322' stroke='#c4b0ea' stroke-width='1'/>
+<text x='978' y='350' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Banco operativo prioritario</text>
+<text x='978' y='374' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Inmunología</text>
+<text x='978' y='398' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• Desarrolladores</text>
+<text x='978' y='422' text-anchor='start' fill='#333333' font-size='12' font-family='Georgia, serif'>• No adorno editorial</text>
+
+<line x1='146' y1='466' x2='146' y2='516' stroke='#c0392b' stroke-width='1.8'/>
+<line x1='380' y1='466' x2='380' y2='516' stroke='#2d6a9f' stroke-width='1.8'/>
+<line x1='600' y1='466' x2='600' y2='516' stroke='#27a03a' stroke-width='1.8'/>
+<line x1='824' y1='466' x2='824' y2='516' stroke='#c8a800' stroke-width='1.8'/>
+<line x1='1058' y1='466' x2='1058' y2='516' stroke='#7e57c2' stroke-width='1.8'/>
+<line x1='146' y1='516' x2='1058' y2='516' stroke='#2d6a9f' stroke-width='1.8'/>
+
+<rect x='120' y='544' width='960' height='150' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='1.5'/>
+<text x='600' y='572' text-anchor='middle' fill='#1a3a5c' font-size='16' font-weight='bold' font-family='Georgia, serif'>Dictamen de continuidad</text>
+<text x='600' y='602' text-anchor='middle' fill='#333333' font-size='13' font-family='Georgia, serif'>VII.4 no escribe todavía el tratado completo de células especializadas.</text>
+<text x='600' y='626' text-anchor='middle' fill='#333333' font-size='13' font-family='Georgia, serif'>Pero deja ya declarado qué familias deben comparecer y bajo qué disciplina común:</text>
+<text x='600' y='650' text-anchor='middle' fill='#333333' font-size='13' font-family='Georgia, serif'>respuesta estructural, umbral, transición controlada y prohibición de herencia ilegítima.</text>
+<text x='600' y='676' text-anchor='middle' fill='#2d6a9f' font-size='13' font-family='Georgia, serif'>Siguiente frente natural: publicación paralela seria sobre células especializadas del Sistema Vectorial SV.</text>
+
+<rect x='0' y='774' width='1200' height='26' fill='#1a3a5c'/>
+<text x='600' y='791' text-anchor='middle' fill='#ffffff' font-size='9' font-weight='bold' font-family='Georgia, serif'>Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Serie doctrinal: Sistema Vectorial SV | Madrid, 25 de marzo de 2026</text>
+<defs><marker id='arr' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'><path d='M0,0 L0,10 L12,5 z' fill='#2d6a9f'/></marker></defs>
+</svg>

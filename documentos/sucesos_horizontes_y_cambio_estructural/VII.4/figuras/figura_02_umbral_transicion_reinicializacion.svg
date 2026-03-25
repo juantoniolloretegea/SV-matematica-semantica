@@ -1,0 +1,82 @@
+<svg viewBox='0 0 1200 800' width='1200' height='800' xmlns='http://www.w3.org/2000/svg' style='max-width:100%;display:block;background:#ffffff;'>
+<rect width='1200' height='800' fill='#ffffff' stroke='#2d6a9f' stroke-width='2'/>
+<rect x='0' y='0' width='1200' height='56' fill='#1a3a5c'/>
+<text x='600' y='30' text-anchor='middle' fill='#ffffff' font-size='19' font-weight='bold' font-family='Georgia, serif'>Figura 2. Umbral, transición y reinicialización</text>
+<text x='600' y='50' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>VII.4 · El umbral no autoriza arrastre: obliga a declarar ruptura, transición o suspensión</text>
+
+<text x='600' y='90' text-anchor='middle' fill='#1a3a5c' font-size='15' font-weight='bold' font-family='Georgia, serif'>Cadena en régimen Rₐ</text>
+<rect x='46' y='120' width='170' height='126' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='2'/>
+<text x='131' y='145' text-anchor='middle' fill='#111111' font-size='17' font-weight='bold' font-family='Georgia, serif'>e₁</text>
+<text x='131' y='171' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>transporte disponible</text>
+<text x='131' y='193' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>lectura acumulativa tipada</text>
+<rect x='58' y='210' width='146' height='22' rx='3' fill='#2d6a9f'/>
+<text x='131' y='225' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>Aₙ definido</text>
+
+<rect x='286' y='120' width='170' height='126' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='2'/>
+<text x='371' y='145' text-anchor='middle' fill='#111111' font-size='17' font-weight='bold' font-family='Georgia, serif'>e₂</text>
+<text x='371' y='171' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>persistencia parcial</text>
+<text x='371' y='193' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>observables aún legibles</text>
+<rect x='298' y='210' width='146' height='22' rx='3' fill='#2d6a9f'/>
+<text x='371' y='225' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>Aₙ definido</text>
+
+<rect x='526' y='106' width='180' height='154' rx='6' fill='#fdecea' stroke='#c0392b' stroke-width='2.2'/>
+<text x='616' y='135' text-anchor='middle' fill='#c0392b' font-size='18' font-weight='bold' font-family='Georgia, serif'>Índice k · Umbral</text>
+<line x1='540' y1='144' x2='692' y2='144' stroke='#ef9a93' stroke-width='1'/>
+<text x='616' y='169' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>falla transporte</text>
+<text x='616' y='191' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>o colapsa la actualización</text>
+<text x='616' y='213' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>o se pierde una observable relevante</text>
+<text x='616' y='238' text-anchor='middle' fill='#c0392b' font-size='16' font-weight='bold' font-family='Georgia, serif'>✗</text>
+
+<rect x='770' y='120' width='190' height='126' rx='6' fill='#fffbe6' stroke='#c8a800' stroke-width='2'/>
+<text x='865' y='145' text-anchor='middle' fill='#7a5900' font-size='17' font-weight='bold' font-family='Georgia, serif'>Transición</text>
+<text x='865' y='171' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>declaración explícita</text>
+<text x='865' y='193' text-anchor='middle' fill='#555555' font-size='11.5' font-family='Georgia, serif'>nuevo horizonte · nueva familia</text>
+<rect x='783' y='210' width='164' height='22' rx='3' fill='#c8a800'/>
+<text x='865' y='225' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>paso controlado</text>
+
+<rect x='1010' y='120' width='144' height='126' rx='6' fill='#e9f8ee' stroke='#27a03a' stroke-width='2'/>
+<text x='1082' y='145' text-anchor='middle' fill='#1d6e2c' font-size='17' font-weight='bold' font-family='Georgia, serif'>Rᵦ</text>
+<text x='1082' y='171' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>nuevo régimen</text>
+<text x='1082' y='193' text-anchor='middle' fill='#555555' font-size='12' font-family='Georgia, serif'>si queda tipado</text>
+<rect x='1022' y='210' width='120' height='22' rx='3' fill='#27a03a'/>
+<text x='1082' y='225' text-anchor='middle' fill='#ffffff' font-size='11' font-family='Courier New, monospace'>B₁ posible</text>
+
+<line x1='216' y1='183' x2='286' y2='183' stroke='#2d6a9f' stroke-width='2' marker-end='url(#arr)'/>
+<line x1='456' y1='183' x2='526' y2='183' stroke='#2d6a9f' stroke-width='2' marker-end='url(#arr)'/>
+<line x1='706' y1='183' x2='770' y2='183' stroke='#c0392b' stroke-width='2' marker-end='url(#arrbad)'/>
+<line x1='960' y1='183' x2='1010' y2='183' stroke='#c8a800' stroke-width='2' marker-end='url(#arry)'/>
+
+<line x1='28' y1='286' x2='1172' y2='286' stroke='#2d6a9f' stroke-width='1' stroke-dasharray='6,4'/>
+<text x='600' y='316' text-anchor='middle' fill='#1a3a5c' font-size='15' font-weight='bold' font-family='Georgia, serif'>Tres salidas legítimas tras el umbral</text>
+
+<rect x='46' y='346' width='340' height='180' rx='6' fill='#fdecea' stroke='#c0392b' stroke-width='2'/>
+<text x='216' y='374' text-anchor='middle' fill='#c0392b' font-size='17' font-weight='bold' font-family='Georgia, serif'>1. Régimen singular</text>
+<text x='68' y='408' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• El sistema reconoce pérdida de régimen previo</text>
+<text x='68' y='434' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• No fuerza continuidad ni nueva acumulación</text>
+<text x='68' y='460' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• Mantiene trazabilidad de la ruptura</text>
+
+<rect x='430' y='346' width='340' height='180' rx='6' fill='#fffbe6' stroke='#c8a800' stroke-width='2'/>
+<text x='600' y='374' text-anchor='middle' fill='#7a5900' font-size='17' font-weight='bold' font-family='Georgia, serif'>2. Transición controlada</text>
+<text x='452' y='408' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• Declara umbral, nuevo horizonte y nueva familia</text>
+<text x='452' y='434' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• Prohíbe la herencia automática entre Aₙ y Bₘ</text>
+<text x='452' y='460' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• Sólo admite reinicialización si el sucesor queda tipado</text>
+
+<rect x='814' y='346' width='340' height='180' rx='6' fill='#eef5fc' stroke='#2d6a9f' stroke-width='2'/>
+<text x='984' y='374' text-anchor='middle' fill='#1a3a5c' font-size='17' font-weight='bold' font-family='Georgia, serif'>3. Suspensión legítima</text>
+<text x='836' y='408' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• El sistema no inventa continuidad donde no la hay</text>
+<text x='836' y='434' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• Detiene la pretensión de lectura acumulativa</text>
+<text x='836' y='460' text-anchor='start' fill='#333333' font-size='13' font-family='Georgia, serif'>• Exige nueva formalización antes de seguir</text>
+
+<rect x='46' y='566' width='1108' height='104' rx='6' fill='#1a3a5c' stroke='#1a3a5c' stroke-width='1.5'/>
+<text x='600' y='594' text-anchor='middle' fill='#ffffff' font-size='16' font-weight='bold' font-family='Georgia, serif'>Regla negativa fuerte</text>
+<text x='600' y='623' text-anchor='middle' fill='#cccccc' font-size='13' font-family='Georgia, serif'>Lo no declarado no puede heredarse como continuidad. Lo no tipado no puede abrir una nueva acumulación como hecho.</text>
+<text x='600' y='648' text-anchor='middle' fill='#7ed6a8' font-size='13' font-family='Georgia, serif'>VII.4 disciplina así la transición sin anticipar backend, runner ni gramática humana cerrada.</text>
+
+<rect x='0' y='774' width='1200' height='26' fill='#1a3a5c'/>
+<text x='600' y='791' text-anchor='middle' fill='#ffffff' font-size='9' font-weight='bold' font-family='Georgia, serif'>Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Serie doctrinal: Sistema Vectorial SV | Madrid, 25 de marzo de 2026</text>
+<defs>
+<marker id='arr' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'><path d='M0,0 L0,10 L12,5 z' fill='#2d6a9f'/></marker>
+<marker id='arrbad' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'><path d='M0,0 L0,10 L12,5 z' fill='#c0392b'/></marker>
+<marker id='arry' markerWidth='12' markerHeight='12' refX='9' refY='5' orient='auto'><path d='M0,0 L0,10 L12,5 z' fill='#c8a800'/></marker>
+</defs>
+</svg>
