@@ -1,0 +1,18 @@
+# VII.5
+
+Título canónico del manuscrito de trabajo:
+
+> VII.5 — Enlace formal entre acumulaciones sucesivas en el Sistema Vectorial SV
+> con dato de enlace tipado \(\Lambda\), ejemplo canónico en SV(9,3) y laboratorio acompañante
+
+## Contenido
+
+- `manuscrito/` — archivo markdown de trabajo conservado junto al lote doctrinal del documento.
+- `figuras/` — figuras locales del documento, en formato vectorial SVG.
+- `laboratorio_python_vii5/` — laboratorio Python acompañante de verificación e ilustración.
+
+## Nota de organización
+
+Este bloque corresponde todavía a una **revisión troncal fortalecida** del documento VII.5. No incorpora aún exportación HTML de PubPub ni debe tratarse todavía como cierre editorial definitivo.
+
+El laboratorio Python acompaña, verifica e ilustra las definiciones, la tipología mínima del enlace y el ejemplo canónico sobre SV(9,3), pero no tiene rango doctrinal soberano sobre el manuscrito ni sobre el Lenguaje SV.

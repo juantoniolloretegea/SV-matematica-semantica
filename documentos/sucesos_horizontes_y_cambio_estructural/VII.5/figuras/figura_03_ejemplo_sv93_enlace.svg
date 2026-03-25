@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#ffffff"/>
+<text x="70" y="76" font-family="Arial" font-size="34" font-weight="700" fill="#10263b">Figura 3. Ejemplo canónico de enlace sobre SV(9,3)</text>
+
+<text x="240" y="145" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#10263b">A en R_A</text>
+<text x="960" y="145" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#10263b">B en R_B</text>
+
+<g transform="translate(120,190)">
+  <rect x="0" y="0" width="240" height="240" fill="#ffffff" stroke="#10263b" stroke-width="4"/>
+  <line x1="80" y1="0" x2="80" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="160" y1="0" x2="160" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="80" x2="240" y2="80" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="160" x2="240" y2="160" stroke="#10263b" stroke-width="3"/>
+  <rect x="80" y="0" width="80" height="80" fill="#eef3f7" stroke="#10263b" stroke-width="2"/>
+  <rect x="80" y="80" width="80" height="80" fill="#eef3f7" stroke="#10263b" stroke-width="2"/>
+  <rect x="80" y="160" width="80" height="80" fill="#eef3f7" stroke="#10263b" stroke-width="2"/>
+  <text x="40" y="50" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="120" y="50" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">1</text>
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="40" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">U</text>
+  <text x="120" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">1</text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="40" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="120" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">U</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="120" y="282" text-anchor="middle" font-family="Arial" font-size="20" fill="#10263b">J_Λ = {P2, P5, P8}</text>
+</g>
+
+<g transform="translate(840,190)">
+  <rect x="0" y="0" width="240" height="240" fill="#ffffff" stroke="#10263b" stroke-width="4"/>
+  <line x1="80" y1="0" x2="80" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="160" y1="0" x2="160" y2="240" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="80" x2="240" y2="80" stroke="#10263b" stroke-width="3"/>
+  <line x1="0" y1="160" x2="240" y2="160" stroke="#10263b" stroke-width="3"/>
+  <rect x="80" y="0" width="80" height="80" fill="#eef3f7" stroke="#10263b" stroke-width="2"/>
+  <rect x="80" y="80" width="80" height="80" fill="#eef3f7" stroke="#10263b" stroke-width="2"/>
+  <rect x="160" y="160" width="80" height="80" fill="#eef3f7" stroke="#10263b" stroke-width="2"/>
+  <text x="40" y="50" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="120" y="50" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">U</text>
+  <text x="200" y="50" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="40" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="120" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">1</text>
+  <text x="200" y="130" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="40" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="120" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">0</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="30" fill="#10263b">1</text>
+  <text x="120" y="282" text-anchor="middle" font-family="Arial" font-size="20" fill="#10263b">Π(P2)=0 · Π(P5)=1 · Π(P8)=μ</text>
+</g>
+
+<path d="M 360 270 C 500 270, 540 270, 680 270" fill="none" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 360 350 C 500 350, 540 350, 680 350" fill="none" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M 360 430 C 500 430, 540 430, 760 430" fill="none" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="590" y="250" text-anchor="middle" font-family="Arial" font-size="22" fill="#10263b">Θ(P2)=P2</text>
+<text x="590" y="330" text-anchor="middle" font-family="Arial" font-size="22" fill="#10263b">Θ(P5)=P5</text>
+<text x="610" y="410" text-anchor="middle" font-family="Arial" font-size="22" fill="#10263b">Θ(P8)=P9</text>
+
+<rect x="375" y="545" width="450" height="120" rx="24" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="600" y="595" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#10263b">Dictamen: reinicialización con memoria</text>
+<text x="600" y="632" text-anchor="middle" font-family="Arial" font-size="20" fill="#10263b">No hay separación completa ni enlace fuerte. La herencia es parcial, tipada y limitada.</text>
+
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#10263b"/></marker></defs>
+</svg>

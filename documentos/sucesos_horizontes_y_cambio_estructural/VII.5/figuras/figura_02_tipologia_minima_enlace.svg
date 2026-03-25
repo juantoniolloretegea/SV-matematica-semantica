@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860">
+<rect width="1200" height="860" fill="#ffffff"/>
+<text x="70" y="78" font-family="Arial" font-size="34" font-weight="700" fill="#10263b">Figura 2. Tipología mínima del enlace</text>
+
+<rect x="75" y="145" width="1050" height="110" rx="24" fill="#f4f6f8" stroke="#10263b" stroke-width="3"/>
+<text x="600" y="195" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#10263b">¿Existe dato de enlace Λ?</text>
+<text x="600" y="230" text-anchor="middle" font-family="Arial" font-size="20" fill="#10263b">La clasificación sólo procede si dominio, transporte y proyección pueden declararse sin contradicción.</text>
+
+<!-- Bifurcación principal -->
+<path d="M 600 255 L 600 300" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 600 300 L 170 300" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 600 300 L 760 300" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 170 300 L 170 335" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M 760 300 L 760 335" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<text x="205" y="288" font-family="Arial" font-size="22" font-weight="700" fill="#10263b">No</text>
+<text x="790" y="288" font-family="Arial" font-size="22" font-weight="700" fill="#10263b">Sí</text>
+
+<rect x="80" y="350" width="180" height="150" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="170" y="395" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">Separación</text>
+<text x="170" y="430" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">completa</text>
+<text x="170" y="470" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">Λ = ∅</text>
+
+<!-- Rama afirmativa -->
+<path d="M 760 500 L 760 540" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 335 540 L 1055 540" stroke="#10263b" stroke-width="4" fill="none"/>
+<path d="M 375 540 L 375 505" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M 600 540 L 600 505" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M 845 540 L 845 505" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+<path d="M 1052 540 L 1052 505" stroke="#10263b" stroke-width="4" marker-end="url(#arrow)" fill="none"/>
+
+<rect x="285" y="350" width="180" height="150" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="375" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">Enlace débil</text>
+<text x="375" y="450" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">transporte frágil</text>
+<text x="375" y="478" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">memoria auxiliar</text>
+
+<rect x="490" y="350" width="220" height="150" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="600" y="397" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">Reinicialización pura</text>
+<text x="600" y="445" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">Π_Λ ≡ 0</text>
+<text x="600" y="473" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">sin herencia efectiva</text>
+
+<rect x="735" y="350" width="220" height="150" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="845" y="397" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">Reinicialización</text>
+<text x="845" y="430" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">con memoria</text>
+<text x="845" y="465" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">Π_Λ ≠ 0,</text>
+<text x="845" y="493" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">pero herencia limitada</text>
+
+<rect x="980" y="350" width="145" height="150" rx="22" fill="#f9fafb" stroke="#10263b" stroke-width="3"/>
+<text x="1052" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">Enlace</text>
+<text x="1052" y="440" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#10263b">fuerte</text>
+<text x="1052" y="478" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">transporte parcial</text>
+<text x="1052" y="504" text-anchor="middle" font-family="Arial" font-size="18" fill="#10263b">y herencia significativa</text>
+
+<text x="600" y="640" text-anchor="middle" font-family="Arial" font-size="24" fill="#10263b">La memoria no basta para el enlace fuerte. La ausencia de herencia no impide una nueva acumulación: sólo impide fingir continuidad.</text>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#10263b"/></marker></defs>
+</svg>
