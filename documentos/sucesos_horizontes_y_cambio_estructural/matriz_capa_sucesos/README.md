@@ -38,3 +38,15 @@ Por ello:
 - `NO_CUBIERTO` no equivale automáticamente a backlog técnico;
 - `NO_PROCEDE_AUN` designa reserva doctrinal, no simple pendiente de implementación;
 - y `SOLO_VIGILANCIA` obliga a evitar endurecimientos prematuros del Lenguaje SV.
+
+## Estado actual de esta capa
+
+A esta fecha, esta matriz debe leerse **después de la integración material de VII.3** y **antes de la delimitación fuerte de VII.4**.
+
+Su función inmediata no es forzar traducciones implementativas automáticas, sino conservar trazabilidad sobre tres planos distintos:
+
+1. lo ya absorbido doctrinalmente por la familia VII;
+2. lo ya contrastado de forma preliminar con el Lenguaje SV;
+3. y lo que todavía deberá reexaminarse cuando se abra el siguiente tramo doctrinal.
+
+Por tanto, esta capa sigue siendo un instrumento de vigilancia, contraste y preparación, no un mandato autónomo de cierre técnico.
