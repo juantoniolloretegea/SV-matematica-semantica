@@ -1,7 +1,3 @@
----
-
-# VII.4 — Respuesta estructural, umbral, transición de régimen y preparación de células especializadas en el Sistema Vectorial SV
-
 **Autor:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
 **Serie doctrinal:** Sistema Vectorial SV  
