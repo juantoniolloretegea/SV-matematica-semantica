@@ -1,23 +1,4 @@
 ---
-title: "VII.4 — Respuesta estructural, umbral, transición de régimen y preparación de células especializadas en el Sistema Vectorial SV"
-author: "Juan Antonio Lloret Egea"
-orcid: "0000-0002-6634-3351"
-series: "Sistema Vectorial SV"
-publisher: "Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)"
-publication: "IA eñ™ – La Biblia de la IA™"
-issn: "2695-6411"
-date: "2026-03-25"
-keywords:
-  - Sistema Vectorial SV
-  - célula SV(9,3)
-  - respuesta estructural
-  - umbral de ruptura
-  - transición de régimen
-  - células especializadas
-  - SVcustos
-  - Immuno2
-  - protofrases
----
 
 # VII.4 — Respuesta estructural, umbral, transición de régimen y preparación de células especializadas en el Sistema Vectorial SV
 
