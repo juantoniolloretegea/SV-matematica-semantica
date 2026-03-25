@@ -1,3 +1,46 @@
+=============================================================================
+Laboratorio mínimo reproducible — VII.5
+Enlace formal entre acumulaciones sucesivas en el Sistema Vectorial SV
+
+Autor: Juan Antonio Lloret Egea
+ORCID: 0000-0002-6634-3351
+Serie doctrinal: Sistema Vectorial SV
+ITVIA / IA eñ™ — La Biblia de la IA™
+ISSN: 2695-6411 | Madrid, 25 de marzo de 2026
+=============================================================================
+
+Este laboratorio acompaña el problema propio central de VII.5 y cubre sus
+exigencias operativas mínimas:
+
+  - formalización mínima del dato de enlace Λ como triple
+    (J_Λ, Θ_Λ, Π_Λ) entre acumulación previa y acumulación
+    sucesiva;
+
+  - tipificación operativa de los cinco dictámenes básicos:
+    separación, enlace débil, reinicialización pura,
+    reinicialización con memoria y enlace fuerte;
+
+  - verificación de condiciones mínimas de existencia y
+    no existencia del enlace formal entre acumulaciones
+    sucesivas;
+
+  - reproducción del ejemplo canónico sobre SV(9,3),
+    con junta tipada, transporte parcial y proyección
+    aceptable hacia la acumulación sucesiva;
+
+  - validación operativa básica mediante aserciones, para
+    comprobar que el dictamen obtenido coincide con la
+    tipología declarada en el manuscrito.
+
+El laboratorio NO pretende:
+  - cerrar una teoría general de memoria estructural;
+  - constituir backend soberano ni IR;
+  - formalizar aún una semántica completa de herencia entre regímenes;
+  - ni sustituir la futura disciplina algebraica más fuerte del enlace.
+
+Sí ilustra con SV(9,3) el núcleo tipado del enlace formal entre
+acumulaciones sucesivas en el Sistema Vectorial SV.
+=============================================================================
 from __future__ import annotations
 
 from dataclasses import dataclass
