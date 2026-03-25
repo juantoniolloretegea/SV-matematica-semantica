@@ -1,4 +1,3 @@
----
 
 # VII.4 — Respuesta estructural, umbral, transición de régimen y preparación de células especializadas en el Sistema Vectorial SV
 
