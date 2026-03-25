@@ -1,3 +1,26 @@
+---
+title: "VII.4 — Respuesta estructural, umbral, transición de régimen y preparación de células especializadas en el Sistema Vectorial SV"
+author: "Juan Antonio Lloret Egea"
+orcid: "0000-0002-6634-3351"
+series: "Sistema Vectorial SV"
+publisher: "Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)"
+publication: "IA eñ™ – La Biblia de la IA™"
+issn: "2695-6411"
+date: "2026-03-25"
+keywords:
+  - Sistema Vectorial SV
+  - célula SV(9,3)
+  - respuesta estructural
+  - umbral de ruptura
+  - transición de régimen
+  - células especializadas
+  - SVcustos
+  - Immuno2
+  - protofrases
+---
+
+# VII.4 — Respuesta estructural, umbral, transición de régimen y preparación de células especializadas en el Sistema Vectorial SV
+
 **Autor:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
 **Serie doctrinal:** Sistema Vectorial SV  
@@ -99,7 +122,7 @@ Si alguno de esos tres planos falta, el documento no queda refutado automáticam
 Sea $C = SV(n,b)$ una célula del sistema y sea
 
 $$
-\operatorname{Pos}(C)=\{P_1,\dots,P_n\}
+\mathrm{Pos}(C)=\{P_1,\dots,P_n\}
 $$
 
 su **soporte paramétrico declarado**. Sea además $R$ un régimen de lectura sobre $C$ y sea $e$ un suceso admisible en horizonte declarado $H$.
@@ -107,7 +130,7 @@ su **soporte paramétrico declarado**. Sea además $R$ un régimen de lectura so
 Diremos que el sistema exhibe una **respuesta estructural** a $e$ si existe una partición explícita del soporte paramétrico declarado,
 
 $$
-\operatorname{Pos}(C)=Z_{\mathrm{pers}}\,\dot\cup\,Z_{\mathrm{reev}}\,\dot\cup\,Z_{\mathrm{noher}},
+\mathrm{Pos}(C)=Z_{\mathrm{pers}}\,\dot\cup\,Z_{\mathrm{reev}}\,\dot\cup\,Z_{\mathrm{noher}},
 $$
 
 no verbal y no meramente cronológica, tal que:
@@ -138,7 +161,7 @@ La respuesta estructural declara:
 
 La partición es disjunta y cubre las nueve posiciones: la respuesta es válida. El laboratorio Python (sección 9) reproduce este ejemplo con verificación automática.
 
-![Figura 1. Respuesta estructural a suceso de horizonte](./figuras/figura_01_respuesta_estructural_horizonte.svg){#fig-01}
+![Figura 1. Respuesta estructural a suceso de horizonte](../figuras/figura_01_respuesta_estructural_horizonte.svg)
 
 *Figura 1. La respuesta estructural no reduce el cambio al mero antes/después. Distingue persistencia legítima, zona de reevaluación y zona no heredable sobre una célula SV(9,3) en horizonte declarado H→H′.*
 
@@ -220,7 +243,7 @@ Habrá **transición controlada** desde un régimen $R_A$ a un régimen $R_B$ s�
 4. se prohíbe presumir continuidad automática entre acumulaciones heterogéneas $A_n$ y $B_m$;
 5. queda declarado, cuando proceda, el criterio de reinicialización.
 
-![Figura 2. Umbral, transición y reinicialización](./figuras/figura_02_umbral_transicion_reinicializacion.svg){#fig-02}
+![Figura 2. Umbral, transición y reinicialización](../figuras/figura_02_umbral_transicion_reinicializacion.svg)
 
 *Figura 2. El umbral no autoriza arrastre verbal. Obliga a declarar ruptura, transición controlada o suspensión. La reinicialización de $B_1$ sólo comparece cuando el régimen sucesor $R_B$ queda tipado.*
 
@@ -285,7 +308,7 @@ Sus dos prioridades iniciales deben ser:
 1. **protofrases para inmunología**, con el fin de que Immuno2 pueda empezar a hablar con el SV en un terreno de trabajo real;
 2. **protofrases para desarrolladores**, para que el desarrollo del Lenguaje SV y de sus futuras células no quede suspendido en formulaciones abstractas sin capacidad de prueba.
 
-![Figura 3. Carril doctrinal de células especializadas](./figuras/figura_03_carril_celulas_especializadas.svg){#fig-03}
+![Figura 3. Carril doctrinal de células especializadas](../figuras/figura_03_carril_celulas_especializadas.svg)
 
 *Figura 3. VII.4 no cierra todavía el tratado de células especializadas, pero ya impone su necesidad estructural. Seguridad integrada (SVcustos), interfaces publicadas, Immuno2/SVperitus, comprensión del lenguaje humano y banco de protofrases comparecen aquí como primeras familias obligatorias bajo la disciplina común de la respuesta estructural.*
 
