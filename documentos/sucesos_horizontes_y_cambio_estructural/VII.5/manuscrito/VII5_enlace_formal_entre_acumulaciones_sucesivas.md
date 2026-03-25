@@ -1,5 +1,5 @@
 # VII.5 — Enlace formal entre acumulaciones sucesivas en el Sistema Vectorial SV
-## con dato de enlace tipado \(\Lambda\), ejemplo canónico en SV(9,3) y laboratorio acompañante
+## con dato de enlace tipado $\Lambda$, ejemplo canónico en SV(9,3) y laboratorio acompañante
 
 **Autor:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
@@ -33,7 +33,7 @@ El laboratorio Python que acompaña a este documento se entrega en este mismo pa
 
 ## Resumen
 
-VII.4 dejó abierto un problema estructural preciso: declarado un umbral y admitida una transición controlada de régimen, todavía faltaba decidir si la nueva acumulación nace formalmente separada de la previa o si existe entre ambas algún tipo de enlace legítimo. La mera sucesión no basta. Tampoco basta una intuición difusa de continuidad. VII.5 introduce por ello el **dato de enlace** \(\Lambda\), entendido como una triple tipada \((J_\Lambda, \Theta_\Lambda, \Pi_\Lambda)\), donde \(J_\Lambda\) delimita el dominio enlazable de la acumulación previa, \(\Theta_\Lambda\) fija el transporte parcial y tipado hacia el régimen sucesor, y \(\Pi_\Lambda\) decide la proyección efectiva de herencia aceptable por el nuevo régimen. Sobre esa base, el documento distingue separación completa, enlace débil, reinicialización pura, reinicialización con memoria y enlace fuerte. La pieza no establece todavía teoría general de equivalencia entre regímenes ni topología global del tránsito; fija, más sobriamente, el punto mínimo donde el Sistema Vectorial SV puede afirmar enlace sin mentir.
+VII.4 dejó abierto un problema estructural preciso: declarado un umbral y admitida una transición controlada de régimen, todavía faltaba decidir si la nueva acumulación nace formalmente separada de la previa o si existe entre ambas algún tipo de enlace legítimo. La mera sucesión no basta. Tampoco basta una intuición difusa de continuidad. VII.5 introduce por ello el **dato de enlace** $\Lambda$, entendido como una triple tipada $(J_\Lambda, \Theta_\Lambda, \Pi_\Lambda)$, donde $J_\Lambda$ delimita el dominio enlazable de la acumulación previa, $\Theta_\Lambda$ fija el transporte parcial y tipado hacia el régimen sucesor, y $\Pi_\Lambda$ decide la proyección efectiva de herencia aceptable por el nuevo régimen. Sobre esa base, el documento distingue separación completa, enlace débil, reinicialización pura, reinicialización con memoria y enlace fuerte. La pieza no establece todavía teoría general de equivalencia entre regímenes ni topología global del tránsito; fija, más sobriamente, el punto mínimo donde el Sistema Vectorial SV puede afirmar enlace sin mentir.
 
 **Palabras clave:** Sistema Vectorial SV; enlace formal; acumulaciones sucesivas; dato de enlace; reinicialización con memoria; SV(9,3); herencia estructural.
 
@@ -51,7 +51,7 @@ Tras VII.4 ya era posible decir:
 - que puede declararse una transición controlada;
 - y que una nueva acumulación puede iniciarse en régimen sucesor.
 
-Pero todavía faltaba decidir si entre la acumulación previa \(A\) y la nueva acumulación \(B\) existe:
+Pero todavía faltaba decidir si entre la acumulación previa $A$ y la nueva acumulación $B$ existe:
 
 - separación completa,
 - mera comparación externa,
@@ -81,13 +81,13 @@ La legitimidad de VII.5 depende de superar, al menos, estas adversariales:
 
 **A1. Continuidad encubierta.** Llamar enlace a cualquier parecido narrativo entre la acumulación previa y la nueva.
 
-**A2. Funcionalismo pobre.** Reducir \(\Lambda\) a una simple aplicación o etiqueta verbal entre acumulaciones.
+**A2. Funcionalismo pobre.** Reducir $\Lambda$ a una simple aplicación o etiqueta verbal entre acumulaciones.
 
 **A3. Herencia total por inercia.** Suponer que todo régimen sucesor debe heredar algo del previo.
 
 **A4. Ruptura perezosa.** Declarar separación total allí donde sí existe una memoria estructural limitada y tipable.
 
-**A5. Ornamentación algebraica.** Introducir \(\Lambda\) como retórica sin dominio, transporte, ejemplo verificable ni laboratorio acompañante.
+**A5. Ornamentación algebraica.** Introducir $\Lambda$ como retórica sin dominio, transporte, ejemplo verificable ni laboratorio acompañante.
 
 ### 0.4. Dónde, cómo y cuándo puede un lector científico exigir prueba de no trivialidad
 
@@ -105,23 +105,23 @@ Si falta alguno de estos tres planos, el documento no queda automáticamente ref
 
 Sean:
 
-- \(A\) una acumulación legítima en régimen \(R_A\), con soporte declarado \(S_A\);
-- \(B\) una acumulación legítima en régimen \(R_B\), con soporte declarado \(S_B\);
+- $A$ una acumulación legítima en régimen $R_A$, con soporte declarado $S_A$;
+- $B$ una acumulación legítima en régimen $R_B$, con soporte declarado $S_B$;
 - y supóngase que entre ambas ha comparecido un umbral y una transición ya declarados conforme a VII.4.
 
-La pregunta de VII.5 no es si \(A\) ocurre antes que \(B\), ni si se parecen, ni si narrativamente pertenecen a un mismo proceso. La pregunta es ésta:
+La pregunta de VII.5 no es si $A$ ocurre antes que $B$, ni si se parecen, ni si narrativamente pertenecen a un mismo proceso. La pregunta es ésta:
 
-> ¿existe una estructura mínima y tipada que haga legítimo afirmar que entre \(A\) y \(B\) hay enlace formal?
+> ¿existe una estructura mínima y tipada que haga legítimo afirmar que entre $A$ y $B$ hay enlace formal?
 
 La regla negativa es inmediata: no se presume enlace por mera sucesión, por continuidad temporal, por analogía verbal ni por estética geométrica. Si hay enlace, debe quedar declarado y tipado. Si no lo hay, el sistema debe poder afirmar separación sin violencia ni eufemismo.
 
 ---
 
-## 2. Definición tipada del dato de enlace \(\Lambda\)
+## 2. Definición tipada del dato de enlace $\Lambda$
 
 ### 2.1. Definición mínima
 
-Diremos que existe un **dato de enlace** entre \(A\) y \(B\), denotado por
+Diremos que existe un **dato de enlace** entre $A$ y $B$, denotado por
 
 $$
 \Lambda_{A\to B},
@@ -135,25 +135,25 @@ $$
 
 tal que:
 
-1. \(J_\Lambda \subseteq S_A\) es el **dominio de enlace**, es decir, la parte explícitamente enlazable de la acumulación previa;
-2. \(\Theta_\Lambda : J_\Lambda \rightharpoonup S_B\) es un **transporte parcial tipado** hacia el soporte del régimen sucesor;
-3. \(\Pi_\Lambda : J_\Lambda \rightharpoonup \mathcal{H}_B \cup \{0\}\) es la **proyección de herencia**, donde \(\mathcal{H}_B\) designa el conjunto de datos herederos aceptables por el régimen \(R_B\), y el valor \(0\) denota no herencia efectiva.
+1. $J_\Lambda \subseteq S_A$ es el **dominio de enlace**, es decir, la parte explícitamente enlazable de la acumulación previa;
+2. $\Theta_\Lambda : J_\Lambda \rightharpoonup S_B$ es un **transporte parcial tipado** hacia el soporte del régimen sucesor;
+3. $\Pi_\Lambda : J_\Lambda \rightharpoonup \mathcal{H}_B \cup \{0\}$ es la **proyección de herencia**, donde $\mathcal{H}_B$ designa el conjunto de datos herederos aceptables por el régimen $R_B$, y el valor $0$ denota no herencia efectiva.
 
-**Nota de anclaje sobre \(\mathcal{H}_B\).** En VII.5, \(\mathcal{H}_B\) no se redefine desde cero: debe leerse a la luz de VII.4 allí donde el régimen sucesor quedó delimitado mediante **respuesta estructural**, **zona no heredable** y **transición controlada de régimen**. En consecuencia, una proyección sólo es aceptable si no contradice ese cierre previo del horizonte sucesor.
+**Nota de anclaje sobre $\mathcal{H}_B$.** En VII.5, $\mathcal{H}_B$ no se redefine desde cero: debe leerse a la luz de VII.4 allí donde el régimen sucesor quedó delimitado mediante **respuesta estructural**, **zona no heredable** y **transición controlada de régimen**. En consecuencia, una proyección sólo es aceptable si no contradice ese cierre previo del horizonte sucesor.
 
 La triple anterior debe leerse con sobriedad:
 
-- \(J_\Lambda\) impide heredar la totalidad de \(A\) por inercia;
-- \(\Theta_\Lambda\) impide llamar enlace a una mera vecindad narrativa;
-- \(\Pi_\Lambda\) impide confundir comparación, memoria resumida y herencia efectiva.
+- $J_\Lambda$ impide heredar la totalidad de $A$ por inercia;
+- $\Theta_\Lambda$ impide llamar enlace a una mera vecindad narrativa;
+- $\Pi_\Lambda$ impide confundir comparación, memoria resumida y herencia efectiva.
 
 ![Figura 1. Núcleo tipado del dato de enlace](../figuras/figura_01_nucleo_dato_enlace.svg)
 
-*Figura 1. El dato de enlace \(\Lambda\) no es una etiqueta verbal. Requiere dominio enlazable, transporte parcial tipado y proyección explícita de herencia entre acumulaciones sucesivas.*
+*Figura 1. El dato de enlace $\Lambda$ no es una etiqueta verbal. Requiere dominio enlazable, transporte parcial tipado y proyección explícita de herencia entre acumulaciones sucesivas.*
 
 ### 2.2. Consecuencia inmediata
 
-\(\Lambda\) no es una función simple ni una equivalencia entre regímenes. Es un dato compuesto que puede:
+$\Lambda$ no es una función simple ni una equivalencia entre regímenes. Es un dato compuesto que puede:
 
 - no existir;
 - existir sólo de forma parcial;
@@ -162,20 +162,20 @@ La triple anterior debe leerse con sobriedad:
 
 ### 2.2.bis. Convención mínima sobre no unicidad
 
-Para un mismo par \((A,B)\) pueden comparecer varias triples \(\Lambda\) formalmente admisibles. VII.5 no afirma aquí unicidad fuerte del dato de enlace. Para evitar inflación, adopta una convención de lectura mínima: **debe preferirse la triple más sobria que sostenga el dictamen sin exagerarlo**.
+Para un mismo par $(A,B)$ pueden comparecer varias triples $\Lambda$ formalmente admisibles. VII.5 no afirma aquí unicidad fuerte del dato de enlace. Para evitar inflación, adopta una convención de lectura mínima: **debe preferirse la triple más sobria que sostenga el dictamen sin exagerarlo**.
 
 En consecuencia:
 
-- no se debe elegir una \(\Lambda\) más rica si una más pobre basta;
+- no se debe elegir una $\Lambda$ más rica si una más pobre basta;
 - no se debe forzar un dictamen más fuerte del que autoriza la evidencia tipada;
 - y, en caso de competencia entre varias triples legítimas, prevalece la que conserve mejor la pérdida explícita declarada en VII.4.
 
 ### 2.3. Delimitación negativa inmediata
 
-La existencia de \(\Lambda\) **no** autoriza todavía a afirmar:
+La existencia de $\Lambda$ **no** autoriza todavía a afirmar:
 
 - continuidad global del sistema;
-- equivalencia entre \(R_A\) y \(R_B\);
+- equivalencia entre $R_A$ y $R_B$;
 - topología general del tránsito;
 - ni identidad fuerte entre las acumulaciones enlazadas.
 
@@ -185,28 +185,28 @@ Su función es más estrecha y más útil: fijar el punto mínimo donde el siste
 
 ## 3. Componentes del enlace
 
-### 3.1. Dominio de enlace \(J_\Lambda\)
+### 3.1. Dominio de enlace $J_\Lambda$
 
-El dominio de enlace selecciona qué parte de \(A\) es realmente candidata a entrar en relación con \(B\). Esto excluye dos excesos:
+El dominio de enlace selecciona qué parte de $A$ es realmente candidata a entrar en relación con $B$. Esto excluye dos excesos:
 
 - la herencia total automática del régimen previo;
 - y la vaguedad de un enlace sin soporte declarado.
 
-En términos operativos, \(J_\Lambda\) puede ser muy pequeño. La sobriedad del dominio no debilita el enlace; lo disciplina.
+En términos operativos, $J_\Lambda$ puede ser muy pequeño. La sobriedad del dominio no debilita el enlace; lo disciplina.
 
-### 3.2. Transporte parcial tipado \(\Theta_\Lambda\)
+### 3.2. Transporte parcial tipado $\Theta_\Lambda$
 
-El transporte \(\Theta_\Lambda\) no exige continuidad plena ni correspondencia total. Exige algo más concreto: que las posiciones o magnitudes seleccionadas en \(J_\Lambda\) puedan comparecer de forma legítima en \(S_B\), sin contradicción con el nuevo régimen.
+El transporte $\Theta_\Lambda$ no exige continuidad plena ni correspondencia total. Exige algo más concreto: que las posiciones o magnitudes seleccionadas en $J_\Lambda$ puedan comparecer de forma legítima en $S_B$, sin contradicción con el nuevo régimen.
 
 La parcialidad no es defecto. Es precisamente uno de los rasgos que hacen legítimo el enlace en un sistema que no presupone continuidad total.
 
-### 3.3. Proyección de herencia \(\Pi_\Lambda\)
+### 3.3. Proyección de herencia $\Pi_\Lambda$
 
-\(\Pi_\Lambda\) decide qué parte del dominio enlazable llega realmente a participar en la definición, arranque o memoria estructural de \(B\).
+$\Pi_\Lambda$ decide qué parte del dominio enlazable llega realmente a participar en la definición, arranque o memoria estructural de $B$.
 
-Su codominio es deliberadamente sobrio: \(\mathcal{H}_B \cup \{0\}\). Esto permite distinguir al menos tres situaciones:
+Su codominio es deliberadamente sobrio: $\mathcal{H}_B \cup \{0\}$. Esto permite distinguir al menos tres situaciones:
 
-- **no herencia**: el valor proyectado es \(0\);
+- **no herencia**: el valor proyectado es $0$;
 - **memoria resumida**: la proyección es no nula, pero parcial y limitada;
 - **herencia significativa**: la proyección es suficientemente rica y estable como para sostener un enlace fuerte.
 
@@ -230,9 +230,9 @@ No hay dominio enlazable, no hay transporte y no hay herencia. Las dos acumulaci
 
 Se cumple que:
 
-- \(J_\Lambda \neq \varnothing\);
-- \(\Theta_\Lambda\) es **no vacío**, pero sólo comparece de forma parcial y frágil;
-- \(\Pi_\Lambda\) conserva una proyección escasa o puramente auxiliar.
+- $J_\Lambda \neq \varnothing$;
+- $\Theta_\Lambda$ es **no vacío**, pero sólo comparece de forma parcial y frágil;
+- $\Pi_\Lambda$ conserva una proyección escasa o puramente auxiliar.
 
 Hay relación formal mínima, pero no continuidad estructural fuerte.
 
@@ -258,7 +258,7 @@ sin que por ello pueda afirmarse todavía enlace fuerte. Se conserva memoria dec
 
 ### 4.5. Enlace fuerte
 
-Existe un dominio suficientemente coherente, un transporte parcial estable —sin exigir cobertura total del dominio— y una proyección significativa aceptada por \(R_B\). La herencia no es total ni metafísica, pero sí estructuralmente relevante.
+Existe un dominio suficientemente coherente, un transporte parcial estable —sin exigir cobertura total del dominio— y una proyección significativa aceptada por $R_B$. La herencia no es total ni metafísica, pero sí estructuralmente relevante.
 
 ![Figura 2. Tipología mínima del enlace](../figuras/figura_02_tipologia_minima_enlace.svg)
 
@@ -270,21 +270,21 @@ Existe un dominio suficientemente coherente, un transporte parcial estable —si
 
 ### 5.1. Condiciones mínimas de existencia
 
-Para que \(\Lambda\) sea legítimo deben cumplirse, al menos, estas condiciones:
+Para que $\Lambda$ sea legítimo deben cumplirse, al menos, estas condiciones:
 
-1. **dominio coherente**: \(J_\Lambda\) debe estar explícitamente declarado y no ser un residuo inferido por narración;
-2. **transporte tipado**: \(\Theta_\Lambda\) no puede enviar posiciones o magnitudes a destinos incompatibles con \(R_B\);
-3. **proyección aceptable**: \(\Pi_\Lambda\) debe producir sólo datos aceptables por el régimen sucesor o el valor nulo \(0\);
+1. **dominio coherente**: $J_\Lambda$ debe estar explícitamente declarado y no ser un residuo inferido por narración;
+2. **transporte tipado**: $\Theta_\Lambda$ no puede enviar posiciones o magnitudes a destinos incompatibles con $R_B$;
+3. **proyección aceptable**: $\Pi_\Lambda$ debe producir sólo datos aceptables por el régimen sucesor o el valor nulo $0$;
 4. **no contradicción**: el enlace no puede deshacer por la puerta de atrás el umbral ya declarado en VII.4;
-5. **pérdida explícita**: debe quedar declarado qué parte de \(A\) no se hereda.
+5. **pérdida explícita**: debe quedar declarado qué parte de $A$ no se hereda.
 
 ### 5.2. Criterios de no existencia
 
 No procede hablar de enlace formal cuando ocurre cualquiera de estos casos:
 
-- \(J_\Lambda\) no está declarado;
-- \(\Theta_\Lambda\) es puramente verbal o contradictorio;
-- \(\Pi_\Lambda\) pretende heredar datos no aceptables por \(R_B\);
+- $J_\Lambda$ no está declarado;
+- $\Theta_\Lambda$ es puramente verbal o contradictorio;
+- $\Pi_\Lambda$ pretende heredar datos no aceptables por $R_B$;
 - la nueva acumulación se ha definido, de hecho, como inicio autónomo sin memoria tipada;
 - o la supuesta herencia depende sólo de parecido superficial entre acumulaciones.
 
@@ -294,7 +294,7 @@ No procede hablar de enlace formal cuando ocurre cualquiera de estos casos:
 
 ### Lema 1. Sin dominio declarado no hay enlace
 
-Si \(J_\Lambda\) no está explícitamente declarado, entonces no procede afirmar enlace formal entre \(A\) y \(B\).
+Si $J_\Lambda$ no está explícitamente declarado, entonces no procede afirmar enlace formal entre $A$ y $B$.
 
 **Razón.** Sin dominio no puede distinguirse qué se enlaza de qué no se enlaza.
 
@@ -306,21 +306,21 @@ $$
 \Pi_\Lambda \equiv 0,
 $$
 
-entonces no hay continuidad acumulativa efectiva entre \(A\) y \(B\).
+entonces no hay continuidad acumulativa efectiva entre $A$ y $B$.
 
 **Razón.** Puede haber historia, comparación o memoria externa, pero la nueva acumulación no hereda formalmente dato alguno de la previa.
 
 ### Lema 3. Sin transporte tipado no hay enlace fuerte
 
-Si \(\Theta_\Lambda\) es vacío, ilegítimo o contradictorio con \(R_B\), el enlace fuerte queda excluido.
+Si $\Theta_\Lambda$ es vacío, ilegítimo o contradictorio con $R_B$, el enlace fuerte queda excluido.
 
 ### Proposición 1. El enlace fuerte exige más que memoria
 
-La mera no nulidad de \(\Pi_\Lambda\) no basta para afirmar enlace fuerte. Hace falta, además, coherencia del dominio y transporte tipado no trivial.
+La mera no nulidad de $\Pi_\Lambda$ no basta para afirmar enlace fuerte. Hace falta, además, coherencia del dominio y transporte tipado no trivial.
 
 ### Proposición 2. Reinicialización con memoria no equivale a continuidad global
 
-La existencia de memoria proyectada no autoriza a hablar de identidad fuerte entre \(A\) y \(B\). Sólo autoriza a reconocer que una parte limitada de \(A\) participa en el arranque o en la definición de \(B\).
+La existencia de memoria proyectada no autoriza a hablar de identidad fuerte entre $A$ y $B$. Sólo autoriza a reconocer que una parte limitada de $A$ participa en el arranque o en la definición de $B$.
 
 ---
 
@@ -340,7 +340,7 @@ $$
 A = (0,1,0,\;U,1,0,\;0,U,0)
 $$
 
-bajo régimen \(R_A\).
+bajo régimen $R_A$.
 
 Tras un umbral ya declarado conforme a VII.4, se abre una nueva acumulación
 
@@ -348,29 +348,29 @@ $$
 B = (0,U,0,\;0,1,0,\;0,0,1)
 $$
 
-bajo régimen \(R_B\).
+bajo régimen $R_B$.
 
 Declárese:
 
-- dominio de enlace \(J_\Lambda = \{P_2, P_5, P_8\}\);
+- dominio de enlace $J_\Lambda = \{P_2, P_5, P_8\}$;
 - transporte parcial
-  \(\Theta_\Lambda(P_2)=P_2\),
-  \(\Theta_\Lambda(P_5)=P_5\),
-  \(\Theta_\Lambda(P_8)=P_9\);
+  $\Theta_\Lambda(P_2)=P_2$,
+  $\Theta_\Lambda(P_5)=P_5$,
+  $\Theta_\Lambda(P_8)=P_9$;
 - proyección de herencia
-  \(\Pi_\Lambda(P_2)=0\),
-  \(\Pi_\Lambda(P_5)=1\),
-  \(\Pi_\Lambda(P_8)=\mu\),
-  donde \(\mu\) representa memoria resumida aceptada por \(R_B\).
+  $\Pi_\Lambda(P_2)=0$,
+  $\Pi_\Lambda(P_5)=1$,
+  $\Pi_\Lambda(P_8)=\mu$,
+  donde $\mu$ representa memoria resumida aceptada por $R_B$.
 
-**Nota mínima sobre \(\mu\).** El símbolo \(\mu\) se usa aquí sólo como valor auxiliar de memoria resumida. Es **exterior** al alfabeto canónico \(\{0,1,U\}\), no tiene todavía rango doctrinal soberano y no puede arrastrarse a otro documento como si ya estuviera formalizado por sí mismo.
+**Nota mínima sobre $\mu$.** El símbolo $\mu$ se usa aquí sólo como valor auxiliar de memoria resumida. Es **exterior** al alfabeto canónico $\{0,1,U\}$, no tiene todavía rango doctrinal soberano y no puede arrastrarse a otro documento como si ya estuviera formalizado por sí mismo.
 
 ### 7.2. Dictamen del caso
 
 En este ejemplo:
 
-- no hay separación completa, porque \(J_\Lambda\) no es vacío;
-- no hay reinicialización pura, porque \(\Pi_\Lambda\) no es nula;
+- no hay separación completa, porque $J_\Lambda$ no es vacío;
+- no hay reinicialización pura, porque $\Pi_\Lambda$ no es nula;
 - no hay enlace fuerte, porque la herencia sigue siendo limitada y el transporte no cubre una parte estructural suficientemente amplia;
 - por tanto, el caso correcto es **reinicialización con memoria**.
 
@@ -392,7 +392,7 @@ El ejemplo muestra por qué VII.5 no puede reducirse a la oposición binaria ent
 
 ### Objeción B
 
-“\(\Lambda\) es sólo una función entre acumulaciones.”
+“$\Lambda$ es sólo una función entre acumulaciones.”
 
 **Respuesta.** No. El dato de enlace exige dominio declarado, transporte tipado y proyección explícita de herencia. Es más pobre que una equivalencia global y más rico que una simple correspondencia.
 
@@ -441,7 +441,7 @@ VII.5 no establece todavía:
 - continuidad global del sistema;
 - topología del enlace;
 - reconstrucción geométrica del tránsito;
-- ni implementación computacional soberana del dato \(\Lambda\) en el Lenguaje SV.
+- ni implementación computacional soberana del dato $\Lambda$ en el Lenguaje SV.
 
 La pieza conserva una función restringida, pero no decorativa: fijar el punto mínimo donde el Sistema Vectorial SV puede afirmar enlace, memoria parcial o separación sin mentir.
 
