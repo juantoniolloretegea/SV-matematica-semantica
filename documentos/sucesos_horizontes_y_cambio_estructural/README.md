@@ -1,28 +1,32 @@
-# Sucesos, horizontes y cambio estructural
+# Matriz de extracción y contraste — capa de sucesos
 
-Esta carpeta queda fijada como **sede canónica** de la colección doctrinal y editorial
-“Sucesos, horizontes y cambio estructural — una aproximación algebraica desde el Sistema Vectorial SV”.
-
-En este pase se integra materialmente el **primer bloque doctrinal** de la familia y se abre, de forma estrictamente subordinada, una **matriz de extracción y contraste** destinada a recoger necesidades estructurales nacidas de los documentos VII.x y a preparar su contraste posterior con el Lenguaje SV.
-
-## Alcance de este pase
-
-Se integran en esta sede:
-
-- Documento VII.0
-- Documento VII.1
-- Documento VII.2
-- registro editorial de la colección
-- matriz madre de extracción doctrinal de sucesos
-- matriz espejo de contraste con el Lenguaje SV
-
-## Restricción fuerte
-
-La carpeta `matriz_capa_sucesos/` **no constituye** una gramática nueva, ni una extensión del Lenguaje SV, ni una autorización automática para modificar gramática, IR, validator, runner o backend.
+Este módulo no constituye una gramática ni una extensión del Lenguaje SV.
 
 Su función es doble:
 
 1. extraer de los documentos VII.x necesidades estructurales reales;
-2. formularlas de modo controlado para su contraste posterior con el Lenguaje SV.
+2. formular dichas necesidades de forma controlada para su contraste posterior con el Lenguaje SV.
 
-Toda traslación a implementación deberá pasar por validación formal independiente y por gobierno técnico específico.
+## Piezas
+
+- `MATRIZ_MADRE_EXTRACCION_DOCTRINAL_SUCESOS.csv`
+- `MATRIZ_ESPEJO_CONTRASTE_LENGUAJE_SV.csv`
+
+## Regla de lectura
+
+La matriz madre recoge únicamente lo que está explícita o implícitamente exigido por los documentos de la familia VII.
+
+La matriz espejo está destinada a responder, desde el Lenguaje SV, si dichas necesidades:
+
+- están cubiertas,
+- están cubiertas parcialmente,
+- requieren vigilancia,
+- o no proceden todavía.
+
+Este módulo no autoriza por sí mismo cambios en gramática, IR, validator, runner o backend.
+
+## Nota asociada
+
+- `NOTA_ARQUITECTURA_FUTURA_SVCUSTOS_SEGURIDAD.md`
+
+Esta nota fija, con carácter prospectivo y no implementativo todavía, que la seguridad futura de las células especializadas no deberá concebirse como parche externo, sino como función estructural integrada, con referencia explícita al carril público actualmente existente de `SVcustos-dataset`.

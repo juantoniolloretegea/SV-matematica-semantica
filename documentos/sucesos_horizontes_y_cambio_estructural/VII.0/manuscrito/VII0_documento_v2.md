@@ -1,15 +1,24 @@
+### IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411) • Sucesos, horizontes y cambio estructural — Una aproximación algebraica desde el Sistema Vectorial SV
+
 # Documento VII.0 — Hacia una geometría eventivo-espacial sin tiempo canónico: horizonte declarado, sucesos y reevaluación situacional en el Sistema Vectorial SV
 
-**Autor:** Juan Antonio Lloret Egea
-**ORCID:** 0000-0002-6634-3351
-**Serie doctrinal:** Sistema Vectorial SV
-**Sello editorial:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)
-**Publicación:** IA eñ™ – La Biblia de la IA™
-**ISSN:** 2695-6411
-**Fecha:** Madrid, 22 de marzo de 2026
-**Pertenece a la colección:** [Sucesos, horizontes y cambio estructural — Una aproximación algebraica desde el Sistema Vectorial SV](https://www.itvia.online/sucesos-horizontes-y-cambio-estructural--una-aproximacion-algebraica-desde-el-sistema-vectorial-sv)
-**Licencia:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-**URL:** https://www.itvia.online/pub/documento-vii0--hacia-una-geometria-eventivo-espacial-sin-tiempo-canonico-horizonte-declarado-sucesos-y-reevaluacion-situacional-en-el-sistema-vectorial-sv
+### Juan Antonio Lloret Egea
+
+#### IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411)
+
+**Published on:**  Mar 22, 2026
+
+**URL:** <https://www.itvia.online/pub/documento-vii0--hacia-una-geometria-eventivo-espacial-sin-tiempo-canonico-horizonte-declarado-sucesos-y-reevaluacion-situacional-en-el-sistema-vectorial-sv>
+
+**License:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+**Autor:** Juan Antonio Lloret Egea | **ORCID:** 0000-0002-6634-3351 | **Serie doctrinal:** Sistema Vectorial SV | **Sello editorial:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) **Publicación:** IA eñ™ – La Biblia de la IA™ | **ISSN:** 2695-6411 | **Fecha:** Madrid, 22 de marzo de 2026
+
+---
+
+> **Pertenece a la colección:** [Sucesos, horizontes y cambio estructural — Una aproximación algebraica desde el Sistema Vectorial SV](https://www.itvia.online/sucesos-horizontes-y-cambio-estructural--una-aproximacion-algebraica-desde-el-sistema-vectorial-sv)
 
 ---
 
@@ -23,7 +32,7 @@ El texto se apoya en tres antecedentes internos inmediatos del propio SV. [El Do
 
 **Palabras clave:** Sistema Vectorial SV; alfabeto ternario; célula $(n,b)$; *frame*; suceso admisible; horizonte declarado; reevaluación situacional; tiempo no canónico; estructura eventivo-espacial; cálculo discreto.
 
-![Figura 1. Del tiempo fuerte a la lectura por sucesos.](figura_01_tiempo_fuerte_y_sucesos.png)
+![Figura 1. Del tiempo fuerte a la lectura por sucesos.](../figuras/figura_01_tiempo_fuerte_y_sucesos.png)
 
 *Figura 1. En el régimen de tiempo fuerte, el cambio se lee como función del transcurso: los frames S1–S4 se organizan a lo largo del eje t. En el régimen por sucesos y horizontes, el cambio comparece por suceso admisible dentro de un horizonte H declarado sobre posiciones del espacio ternario Σⁿ. El tiempo puede seguir presente como localizador, pero pierde la soberanía.*
 
@@ -43,19 +52,19 @@ Queda, por tanto, excluida toda sobrelectura. Este texto no afirma una nueva fí
 
 El Sistema Vectorial SV parte de un suelo semántico explícito: cada posición de una célula puede estar en uno de tres estados, y esa ternidad no es una convención sino una decisión arquitectónica. El alfabeto que la recoge es
 
-$$\Sigma = \{0,\, 1,\, U\},$$
+$$ \Sigma = \{0,\, 1,\, U\}, $$
 
 donde $0$ designa ausencia o no cumplimiento estructural, $1$ presencia o cumplimiento estructural, y $U$ indeterminación honesta —no probabilidad, no error, sino la forma positiva de no sobrecerrar lo que todavía no puede resolverse sin violencia sobre el fenómeno o sobre la arquitectura que lo recibe.
 
 Para cualquier base $b \geq 1$, la célula $(n, b)$ tiene $n = b^2$ componentes. El espacio de estados de esa célula es
 
-$$X_{(n,b)} = \Sigma^n = \{0,\, 1,\, U\}^n.$$
+$$ X_{(n,b)} = \Sigma^n = \{0,\, 1,\, U\}^n. $$
 
 ### 1.2. La instancia canónica: célula (9, 3)
 
 A lo largo de este documento, la célula $(9, 3)$ actúa como instancia canónica y verificable:
 
-$$n = 9,\quad b = 3,\quad \Sigma^9 = \{0,\,1,\,U\}^9.$$
+$$ n = 9,\quad b = 3,\quad \Sigma^9 = \{0,\,1,\,U\}^9. $$
 
 Sus nueve posiciones se designan P1, P2, …, P9 siguiendo la estructura del polígono SV. Un *frame* de esta célula es un vector de nueve componentes en $\{0, 1, U\}$. Cuando se enuncie una noción en el nivel general $(n, b)$, se acompañará de su instanciación en $(9, 3)$ como verificación directa.
 
@@ -63,11 +72,11 @@ Sus nueve posiciones se designan P1, P2, …, P9 siguiendo la estructura del pol
 
 Un *frame* es una configuración
 
-$$S \in \Sigma^n,$$
+$$ S \in \Sigma^n, $$
 
 es decir, una asignación de valor $\{0, 1, U\}$ a cada una de las $n$ posiciones de la célula. El *frame* es la unidad mínima de estado del SV. Una trayectoria es una sucesión de *frames*
 
-$$T = (S_1,\, \nu_1,\, S_2,\, \nu_2,\, \ldots,\, S_N),$$
+$$ T = (S_1,\, \nu_1,\, S_2,\, \nu_2,\, \ldots,\, S_N), $$
 
 donde cada $\nu_k$ recoge la comparecencia de dato o interacción asociada al paso entre $S_k$ y $S_{k+1}$.
 
@@ -85,7 +94,7 @@ La pieza *Análisis del comportamiento geométrico del polígono…* abrió una 
 
 Estos tres antecedentes no equivalen todavía al documento VII.0. El primero abrió el dominio discreto; el segundo, la dinámica estructural; el tercero, una espacialización auxiliar y cuantificable. El documento VII.0 formula la pregunta superior que aquellos no cerraban aún: ¿qué estatuto tiene el cambio cuando la modificación efectiva no se funda en tiempo fuerte, sino en sucesos admisibles que afectan horizontes declarados sobre el espacio ternario $\Sigma^n$?
 
-![Figura 2. Genealogía interna de VII.0.](figura_02_genealogia_interna.png)
+![Figura 2. Genealogía interna de VII.0.](../figuras/figura_02_genealogia_interna.png)
 
 *Figura 2. La cadena de antecedentes internos conduce desde el análisis discreto del Documento VI, pasando por la dinámica de U y la carta auxiliar en R³, hasta VII.0. Cada paso opera sobre el mismo espacio ternario Σⁿ sin alterar la terna canónica.*
 
@@ -103,13 +112,13 @@ Esta cautela no debilita la propuesta. La fortalece. El problema del tiempo no f
 
 Sea $\Sigma = \{0,1,U\}$ el alfabeto ternario canónico y sea $n = b^2$. Una célula del SV es un elemento de $\Sigma^n$. Un *frame* es una configuración $S_k \in \Sigma^n$, y una trayectoria discreta se representa como
 
-$$T = (S_1,\, \nu_1,\, S_2,\, \nu_2,\, \ldots,\, S_N),$$
+$$ T = (S_1,\, \nu_1,\, S_2,\, \nu_2,\, \ldots,\, S_N), $$
 
 donde $\nu_k$ recoge la comparecencia de dato o interacción asociada al paso entre $S_k$ y $S_{k+1}$.
 
 Introducimos una familia $\mathfrak{F}$ de **horizontes declarados**. Cada horizonte $H \in \mathfrak{F}$ se define como una triple
 
-$$H = (I_H,\, \preceq_H,\, \mathcal{A}_H),$$
+$$ H = (I_H,\, \preceq_H,\, \mathcal{A}_H), $$
 
 donde:
 
@@ -117,13 +126,13 @@ donde:
 - $\preceq_H$ es una relación interna de precedencia, admisibilidad o dependencia sobre $I_H$;
 - $\mathcal{A}_H$ es una álgebra de observables escalares sobre el espacio de estados $X_H$ asociado al horizonte.
 
-*(Nota: el documento VII.1 completa esta definición añadiendo $X_H = \Sigma^n$ como componente explícita de la cuaterna $H = (I_H, \preceq_H, X_H, \mathcal{A}_H)$.)*
+*(Nota: el documento VII.1 completa esta definición añadiendo* $X_H = \Sigma^n$ *como componente explícita de la cuaterna* $H = (I_H, \preceq_H, X_H, \mathcal{A}_H)$*.)*
 
 **Instancia (9, 3):** El horizonte canónico de la célula $(9, 3)$ tiene $I_H = \{P1, \ldots, P9\}$, con $\preceq_H$ inducida por la estructura del polígono SV, y $\mathcal{A}_H$ incluyendo al menos los observables $F_U(S) = |\{i : S_i = U\}|$ y $F_1(S) = |\{i : S_i = 1\}|$ —conteos de posiciones en cada valor de $\Sigma$.
 
 Un **suceso admisible** es una cuaterna
 
-$$e = (H,\, H',\, \sigma,\, R_e),$$
+$$ e = (H,\, H',\, \sigma,\, R_e), $$
 
 donde:
 
@@ -136,15 +145,15 @@ donde:
 
 Para evitar ambigüedades cuando los horizontes cambian, se fija una familia compatible de observables escalares
 
-$$F = (F_H)_{H \in \mathfrak{F}},\quad F_H \in \mathcal{A}_H,$$
+$$ F = (F_H)_{H \in \mathfrak{F}},\quad F_H \in \mathcal{A}_H, $$
 
 con $\mathbb{K} = \mathbb{R}$ o $\mathbb{K} = \mathbb{Z}$. Entonces, para todo suceso admisible $e = (H, H', \sigma, R_e)$, la **diferencia eventiva elemental** es
 
-$$\Delta_e F(x) = F_{H'}(R_e(x)) - F_H(x),\quad x \in X_H.$$
+$$ \Delta_e F(x) = F_{H'}(R_e(x)) - F_H(x),\quad x \in X_H. $$
 
 La diferencia eventiva no se toma respecto del tiempo, sino respecto del suceso. En la célula $(9, 3)$, si $F = F_U$ (número de posiciones en $U$) y $e$ cambia P3 de $U$ a $1$, entonces $\Delta_e F_U(x) = -1$: una posición menos en régimen de indeterminación.
 
-![Figura 3. Núcleo definicional mínimo de VII.0.](figura_03_nucleo_definicional.png)
+![Figura 3. Núcleo definicional mínimo de VII.0.](../figuras/figura_03_nucleo_definicional.png)
 
 *Figura 3. El horizonte declarado H fija el dominio legítimo de afectación sobre las posiciones de Σⁿ. El suceso admisible e = (H,H′,σ,Rₑ) porta soporte y operador de reevaluación. La reevaluación puede mantenerse local (H′=H) o modificar el propio horizonte (H′≠H).*
 
@@ -152,7 +161,7 @@ La diferencia eventiva no se toma respecto del tiempo, sino respecto del suceso.
 
 ## 5. Suceso local, suceso envolvente y dominio de afectación
 
-![Figura 4. Horizonte declarado y frontera de reevaluación.](figura_04_horizonte_y_frontera.png)
+![Figura 4. Horizonte declarado y frontera de reevaluación.](../figuras/figura_04_horizonte_y_frontera.png)
 
 *Figura 4. La legitimidad de la reevaluación tiene dominio, borde y exterior no afectado. En la célula (9,3), el horizonte H declara jurisdicción sobre un subconjunto de las nueve posiciones; fuera de H, los valores en Σ no quedan afectados por la reevaluación, por mucha proximidad que exista en el polígono.*
 
@@ -166,15 +175,15 @@ La distinción no es decorativa. Una teoría por sucesos que no diferencie escal
 
 También aquí aparece el puente con la pieza de R³. Sea una trayectoria discreta $\tau = (S_0, S_1, \ldots, S_m)$ sobre $\Sigma^n$ y sea $\chi_U(S_i)$ el indicador de pertenencia al régimen $U$ frente al plano de determinación. Definimos
 
-$$\varepsilon_i = \begin{cases} 1, & \chi_U(S_i) \neq \chi_U(S_{i+1}), \\ 0, & \chi_U(S_i) = \chi_U(S_{i+1}). \end{cases}$$
+$$ \varepsilon_i = \begin{cases} 1, & \chi_U(S_i) \neq \chi_U(S_{i+1}), \\ 0, & \chi_U(S_i) = \chi_U(S_{i+1}). \end{cases} $$
 
 Entonces
 
-$$k(\tau) = \sum_{i=0}^{m-1} \varepsilon_i$$
+$$ k(\tau) = \sum_{i=0}^{m-1} \varepsilon_i $$
 
 cuenta los cruces estructurales entre determinación e indeterminación. La pieza de carta auxiliar establece que $Ez(\tau,h) = h^2 \cdot k(\tau)$. En la célula $(9, 3)$, $k(\tau)$ cuenta cuántas veces alguna posición $P_i$ cruza la frontera $U \leftrightarrow \{0,1\}$ a lo largo de la trayectoria. Esta identidad convierte $k(\tau)$ en el antecedente formal de conteo eventivo para una clase concreta de cruces estructurales sobre $\Sigma^9$.
 
-![Figura 5. Escala de afectación: suceso local y suceso envolvente.](figura_05_escala_afectacion.png)
+![Figura 5. Escala de afectación: suceso local y suceso envolvente.](../figuras/figura_05_escala_afectacion.png)
 
 *Figura 5. La diferencia entre suceso local y envolvente es estructural, no cuantitativa. En la célula (9,3): un suceso que cambia una posición en U puede ser local (el horizonte permanece); un suceso que redefine qué posiciones están bajo jurisdicción es envolvente, aunque afecte pocas posiciones en Σ.*
 
@@ -184,15 +193,15 @@ cuenta los cruces estructurales entre determinación e indeterminación. La piez
 
 Sea $E$ una colección de sucesos admisibles sobre $\Sigma^n$ y sea $\prec$ una relación de precedencia operativa sobre $E$. No se exige aún que sea total. Basta con que permita identificar cadenas admisibles
 
-$$\gamma = (e_1, e_2, \ldots, e_m),\quad e_i : H_i \to H_{i+1},\quad e_i \prec e_{i+1}.$$
+$$ \gamma = (e_1, e_2, \ldots, e_m),\quad e_i : H_i \to H_{i+1},\quad e_i \prec e_{i+1}. $$
 
 Tomado un estado inicial $x_0 \in X_{H_1}$ —un *frame* de la célula— definimos recursivamente
 
-$$x_{i+1} = R_{e_i}(x_i).$$
+$$ x_{i+1} = R_{e_i}(x_i). $$
 
 Entonces la **acumulación eventiva discreta** de la familia de observables $F = (F_H)$ a lo largo de la cadena $\gamma$ queda definida por
 
-$$\mathcal{A}(\gamma;\, F,\, x_0) = \sum_{i=1}^{m} \Delta_{e_i} F(x_i).$$
+$$ \mathcal{A}(\gamma;\, F,\, x_0) = \sum_{i=1}^{m} \Delta_{e_i} F(x_i). $$
 
 Esta suma está bien formada aunque los horizontes cambien, porque cada término $\Delta_{e_i}F(x_i)$ es un escalar en $\mathbb{K}$.
 
@@ -204,7 +213,7 @@ La expresión anterior constituye el primer análogo serio de una integral, pero
 
 ## 7. Programa estructural eventivo-espacial en sentido no métrico
 
-En este documento, "geometría eventivo-espacial" no significa todavía geometría métrica completa. El contenido formal que se sostiene es más austero y, precisamente por eso, más defendible: un **programa estructural eventivo-espacial en sentido no métrico** sobre el espacio ternario $\Sigma^n$.
+En este documento, “geometría eventivo-espacial” no significa todavía geometría métrica completa. El contenido formal que se sostiene es más austero y, precisamente por eso, más defendible: un **programa estructural eventivo-espacial en sentido no métrico** sobre el espacio ternario $\Sigma^n$.
 
 Ese programa exige, al menos, las siguientes piezas:
 
@@ -216,9 +225,9 @@ Ese programa exige, al menos, las siguientes piezas:
 
 La espacialidad no desaparece en este programa. Pero deja de ser escenario absoluto dado por anticipado. Pasa a depender de una estructura de afectación, separación y reconstrucción sobre las posiciones del polígono SV.
 
-En la célula $(9, 3)$, las nueve posiciones $P1,\ldots,P9$ con valores en $\{0,1,U\}$ son el espacio sobre el que ese programa se instancia concretamente. La "geometría" que VII.0 abre no es la del plano cartesiano sino la de las relaciones entre sucesos que reevalúan esas posiciones.
+En la célula $(9, 3)$, las nueve posiciones $P1,\ldots,P9$ con valores en $\{0,1,U\}$ son el espacio sobre el que ese programa se instancia concretamente. La “geometría” que VII.0 abre no es la del plano cartesiano sino la de las relaciones entre sucesos que reevalúan esas posiciones.
 
-![Figura 6. Geometría eventivo-espacial como programa.](figura_06_programa_geometria.png)
+![Figura 6. Geometría eventivo-espacial como programa.](../figuras/figura_06_programa_geometria.png)
 
 *Figura 6. El programa abierto en VII.0 parte de sucesos admisibles y horizontes declarados sobre Σⁿ. Lo todavía no clausurado —métrica global, topología completa, dinámica continua— requerirá desarrollos posteriores que VII.0 no prejuzga.*
 
@@ -243,19 +252,19 @@ En el espacio ternario $\Sigma^n$, esto se traduce así: el orden en que las pos
 
 El documento no introduce todavía una derivada eventiva plenamente fundada. Lo que introduce es la **forma condicional** de una futura derivación por sucesos sobre $\Sigma^n$.
 
-*(Nota: la escala $\lambda$ que sigue se introduce como parámetro auxiliar de refinamiento; su dominio en $\mathbb{R}_{>0}$ es instrumental, no afirma que el dominio fundamental del SV sea real. La existencia del límite queda condicionada a una teoría previa de refinamiento sobre $\Sigma^n$.)*
+*(Nota: la escala* $\lambda$ *que sigue se introduce como parámetro auxiliar de refinamiento; su dominio en* $\mathbb{R}_{>0}$ *es instrumental, no afirma que el dominio fundamental del SV sea real. La existencia del límite queda condicionada a una teoría previa de refinamiento sobre* $\Sigma^n$*.)*
 
 Sea $\Gamma$ una familia dirigida de refinamientos de cadenas sobre $\Sigma^n$ y sea
 
-$$\lambda : \Gamma \to \mathbb{R}_{>0}$$
+$$ \lambda : \Gamma \to \mathbb{R}_{>0} $$
 
 una escala tal que $\lambda(\gamma_\alpha) \to 0$. Solo si existe una estructura de refinamiento suficiente y solo si el límite existe, podrá definirse una derivada eventiva de la forma
 
-$$D_\Gamma F = \lim_\alpha \frac{\mathcal{A}(\gamma_\alpha;\, F,\, x_\alpha)}{\lambda(\gamma_\alpha)}.$$
+$$ D_\Gamma F = \lim_\alpha \frac{\mathcal{A}(\gamma_\alpha;\, F,\, x_\alpha)}{\lambda(\gamma_\alpha)}. $$
 
 De manera análoga, si $\mu_H$ es una medida eventiva aún por construir sobre una clase $\Gamma_H$ de sucesos admisibles sobre $\Sigma^n$, la forma futura de una integral de sucesos no debería escribirse como integral temporal, sino como
 
-$$\int_{\Gamma_H} \Phi(e)\, d\mu_H(e),$$
+$$ \int_{\Gamma_H} \Phi(e)\, d\mu_H(e), $$
 
 con $\Phi$ definida sobre sucesos admisibles que reevalúan *frames* en $\{0,1,U\}^n$.
 
@@ -269,7 +278,7 @@ La teoría de causal sets parte de eventos y orden parcial; no de tiempo continu
 
 Su posible aportación propia se concentra en cuatro puntos, todos anclados en el espacio ternario $\Sigma = \{0,1,U\}$:
 
-$$\mathrm{SV} = (\text{suceso admisible},\ \text{horizonte declarado},\ \text{local/envolvente},\ \text{reevaluación situacional}).$$
+$$ \mathrm{SV} = (\text{suceso admisible},\ \text{horizonte declarado},\ \text{local/envolvente},\ \text{reevaluación situacional}). $$
 
 Esa cuaterna no es meramente filosófica. Es un programa algebraico sobre $\Sigma^n$:
 
@@ -291,7 +300,7 @@ Este documento:
 - no introduce un cálculo diferencial clásico ya operativo sobre sucesos;
 - no construye una métrica eventivo-espacial cerrada;
 - no identifica sin más la carta auxiliar en R³ con la geometría aquí abierta;
-- no convierte automáticamente $k(\tau)$ en "número de eventos";
+- no convierte automáticamente $k(\tau)$ en “número de eventos”;
 - y no modifica por sí mismo gramática, IR, validator, runner ni backend.
 
 Su función es otra: fijar el umbral correcto desde el que esos problemas puedan abrirse sin confusión, partiendo del único suelo que el SV reconoce como propio: $\Sigma^n = \{0,1,U\}^n$.
@@ -304,7 +313,7 @@ La primera objeción fuerte es que todo lo anterior no pase de ser un panfleto f
 
 La segunda objeción es que se estaría confundiendo el estado de lectura del sistema con la estructura física del mundo. El texto evita expresamente esa confusión: pertenece al plano formal del SV y no al de una teoría empírica ya confirmada.
 
-La tercera objeción es que "geometría" sigue siendo palabra prematura. También aquí el texto responde: el contenido sostenido es no métrico y programático; el título se entiende como vector de investigación y no como declaración de una geometría cerrada. La "geometría" que se abre es la de las relaciones entre sucesos que reevalúan posiciones en $\{0,1,U\}$.
+La tercera objeción es que “geometría” sigue siendo palabra prematura. También aquí el texto responde: el contenido sostenido es no métrico y programático; el título se entiende como vector de investigación y no como declaración de una geometría cerrada. La “geometría” que se abre es la de las relaciones entre sucesos que reevalúan posiciones en $\{0,1,U\}$.
 
 La cuarta objeción es técnica: que un documento así contamine por la puerta de atrás la gramática o el *backend*. También queda rechazada. VII.0 no introduce nuevos objetos obligatorios para el Lenguaje SV. Solo prohíbe canonizar tiempo fuerte donde el marco doctrinal ya exige cautela.
 
@@ -326,7 +335,7 @@ Este documento no cierra una historia. Abre una **línea de desarrollo** sobre e
 
 La familia VII debe comenzar aquí, en $\Sigma = \{0,1,U\}$, no terminar aquí.
 
-![Figura 7. Apertura de régimen y desarrollo pendiente.](figura_07_regimen_abierto.png)
+![Figura 7. Apertura de régimen y desarrollo pendiente.](../figuras/figura_07_regimen_abierto.png)
 
 *Figura 7. VII.0 fija el umbral. Lo que queda formalmente abierto —suceso admisible, horizonte, reevaluación situacional— y lo que queda formalmente pendiente —álgebra rigurosa, cálculo, reconstrucción geométrica— son los dos lados de un programa que opera desde el suelo ternario Σⁿ = {0,1,U}ⁿ.*
 

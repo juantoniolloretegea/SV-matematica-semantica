@@ -1,19 +1,28 @@
+### IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411) • Sucesos, horizontes y cambio estructural — Una aproximación algebraica desde el Sistema Vectorial SV
+
 # VII.2 — Precedencia, compatibilidad y afectación entre sucesos admisibles en el Sistema Vectorial SV
 
-**Autor:** Juan Antonio Lloret Egea
-**ORCID:** 0000-0002-6634-3351
-**Serie doctrinal:** Sistema Vectorial SV
-**Sello editorial:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)
-**Publicación:** IA eñ™ – La Biblia de la IA™
-**ISSN:** 2695-6411
-**Fecha:** Madrid, 23 de marzo de 2026
-**Pertenece a la colección:** <a href="https://www.itvia.online/sucesos-horizontes-y-cambio-estructural--una-aproximacion-algebraica-desde-el-sistema-vectorial-sv" target="_blank" rel="noopener noreferrer">Sucesos, horizontes y cambio estructural — Una aproximación algebraica desde el Sistema Vectorial SV</a>
-**Licencia:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-**URL:** https://www.itvia.online/pub/vii2--precedencia-compatibilidad-y-afectacion-entre-sucesos-admisibles-en-el-sistema-vectorial-sv
+### Juan Antonio Lloret Egea
 
-![Figura 0. Mapa de nociones relacionales de VII.2.](figura_00_portada.svg)
+#### IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411)
 
-*Figura 0. Mapa de nociones relacionales de VII.2.*
+**Published on:**  Mar 23, 2026
+
+**URL:** <https://www.itvia.online/pub/vii2--precedencia-compatibilidad-y-afectacion-entre-sucesos-admisibles-en-el-sistema-vectorial-sv>
+
+**License:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+**Autor:** Juan Antonio Lloret Egea | **ORCID:** 0000-0002-6634-3351 | **Serie doctrinal:** Sistema Vectorial SV | **Sello editorial:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) **Publicación:** IA eñ™ – La Biblia de la IA™ | **ISSN:** 2695-6411 | **Fecha:** Madrid, 23 de marzo de 2026
+
+---
+
+> **Pertenece a la colección:** [Sucesos, horizontes y cambio estructural — Una aproximación algebraica desde el Sistema Vectorial SV](https://www.itvia.online/sucesos-horizontes-y-cambio-estructural--una-aproximacion-algebraica-desde-el-sistema-vectorial-sv) | **Compilador, gramática, IR, doctrina, etc. en:** [SVP Playground — Sistema Vectorial SV](https://juantoniolloretegea.github.io/SV-lenguaje-de-computacion/)
+>
+> ---
+
+![Figura 0. Mapa de nociones relacionales de VII.2.](../figuras/figura_00_portada.svg)
 
 Figura 0. Las tres nociones se construyen en cadena —comparabilidad → afectación → precedencia— y desembocan en la Proposición 7.5: la precedencia es acíclica sobre Σⁿ = {0,1,U}ⁿ. La célula canónica (9,3) actúa como instancia verificable en todo el documento.
 
@@ -51,13 +60,13 @@ No existe cuarta clase oculta.
 
 El Sistema Vectorial SV parte de un suelo semántico explícito: cada posición de una célula puede estar en uno de tres estados, y esa ternidad no es una convención sino una decisión arquitectónica. El alfabeto que la recoge es
 
-$$\Sigma = \{0,\, 1,\, U\},$$
+$$ \Sigma = \{0,\, 1,\, U\}, $$
 
 donde $0$ designa ausencia o no cumplimiento estructural, $1$ presencia o cumplimiento estructural, y $U$ indeterminación honesta: no es probabilidad, ni error, ni término medio. U designa una forma positiva de no sobrecerrar lo que todavía no puede resolverse sin violencia sobre el fenómeno o sobre la arquitectura que lo recibe.
 
 Para cualquier base $b \geq 1$, la célula $(n, b)$ tiene $n = b^2$ componentes. El espacio de estados de esa célula es
 
-$$X_{(n,b)} = \Sigma^n = \{0,\, 1,\, U\}^n.$$
+$$ X_{(n,b)} = \Sigma^n = \{0,\, 1,\, U\}^n. $$
 
 El dominio activo de índices es $I_{(n,b)} = \{1, \ldots, n\}$. Cada índice $i \in I_{(n,b)}$ designa una posición de la célula que puede tomar valor en $\Sigma$.
 
@@ -65,7 +74,7 @@ El dominio activo de índices es $I_{(n,b)} = \{1, \ldots, n\}$. Cada índice $i
 
 A lo largo de este documento se utiliza como instancia canónica y verificable la célula $(9, 3)$:
 
-$$n = 9,\quad b = 3,\quad \Sigma^9 = \{0,\,1,\,U\}^9.$$
+$$ n = 9,\quad b = 3,\quad \Sigma^9 = \{0,\,1,\,U\}^9. $$
 
 Un *frame* de esta célula es un vector de nueve componentes, cada una en $\{0, 1, U\}$. Las posiciones se designan como P1, P2, …, P9 siguiendo la estructura del polígono SV. Cada vez que se enuncia una definición o proposición en el nivel general $(n, b)$, se acompaña de su instanciación explícita en $(9, 3)$. La doble lectura garantiza que las nociones formales mantienen contacto directo con el objeto propio del SV.
 
@@ -73,7 +82,7 @@ Un *frame* de esta célula es un vector de nueve componentes, cada una en $\{0, 
 
 Un *frame* es una configuración $S \in \Sigma^n$, es decir, una asignación de valor $\{0, 1, U\}$ a cada una de las $n$ posiciones de la célula. El *frame* es la unidad mínima de estado del SV. Una trayectoria es una sucesión de *frames*
 
-$$T = (S_1, \nu_1, S_2, \nu_2, \ldots, S_N)$$
+$$ T = (S_1, \nu_1, S_2, \nu_2, \ldots, S_N) $$
 
 donde cada $\nu_k$ recoge la comparecencia de dato o interacción asociada al paso entre *frames* consecutivos.
 
@@ -87,13 +96,13 @@ Un suceso admisible —en el sentido de VII.1— es una cuaterna que describe c�
 
 En el plano general del SV, el horizonte canónico asociado a una célula $(n, b)$ es la cuádrupla
 
-$$H_{(n,b)} = \bigl(I_{(n,b)},\; \preceq_{(n,b)},\; X_{(n,b)},\; \mathcal{A}_{(n,b)}\bigr),$$
+$$ H_{(n,b)} = \bigl(I_{(n,b)},\; \preceq_{(n,b)},\; X_{(n,b)},\; \mathcal{A}_{(n,b)}\bigr), $$
 
 donde: $I_{(n,b)} = \{1, \ldots, n\}$ es el dominio activo de índices de la célula; $\preceq_{(n,b)}$ es la relación interna de precedencia, admisibilidad o dependencia entre posiciones, inducida por la estructura del polígono SV; $X_{(n,b)} = \Sigma^n$ es el espacio de *frames*; $\mathcal{A}_{(n,b)}$ es la álgebra de observables: al menos las funciones $F : \Sigma^n \to \mathbb{Z}$, incluyendo los conteos de posiciones en cada valor de $\Sigma$.
 
 **Instancia canónica (9, 3):**
 
-$$H_{(9,3)} = \bigl(\{1,\ldots,9\},\; \preceq_{(9,3)},\; \{0,1,U\}^9,\; \mathcal{A}_{(9,3)}\bigr).$$
+$$ H_{(9,3)} = \bigl(\{1,\ldots,9\},\; \preceq_{(9,3)},\; \{0,1,U\}^9,\; \mathcal{A}_{(9,3)}\bigr). $$
 
 El dominio activo $I_{(9,3)} = \{P1, \ldots, P9\}$ son las nueve posiciones del polígono. Los observables naturales incluyen, por ejemplo, $F_U(S) = |\{i : S_i = U\}|$ (número de posiciones en régimen U) y $F_1(S) = |\{i : S_i = 1\}|$ (número de posiciones determinadas a 1).
 
@@ -101,7 +110,7 @@ El dominio activo $I_{(9,3)} = \{P1, \ldots, P9\}$ son las nueve posiciones del 
 
 Un suceso admisible sobre la célula $(n, b)$ es una cuaterna
 
-$$e = (H,\, H',\, \sigma,\, R_e),$$
+$$ e = (H,\, H',\, \sigma,\, R_e), $$
 
 donde $H$ y $H'$ son horizontes de la célula (posiblemente distintos bajo sucesos envolventes), $\sigma \subseteq I_{(n,b)}$ es el **soporte declarado** —el subconjunto de posiciones que cambian de valor bajo la reevaluación— y $R_e : D_e \to X_{H'}$ con $D_e \subseteq X_H$ es el **operador de reevaluación**.
 
@@ -111,7 +120,7 @@ donde $H$ y $H'$ son horizontes de la célula (posiblemente distintos bajo suces
 
 La dinámica de U en el SV está formalizada por el conteo de cruces estructurales
 
-$$k(\tau) = \sum_{i=0}^{m-1} \varepsilon_i,$$
+$$ k(\tau) = \sum_{i=0}^{m-1} \varepsilon_i, $$
 
 donde $\varepsilon_i = 1$ cuando el paso $S_i \to S_{i+1}$ cruza la frontera entre el régimen U y el plano de determinación $\{0,1\}$, y $\varepsilon_i = 0$ en caso contrario. La identidad $Ez(\tau, h) = h^2 k(\tau)$ establece que esta magnitud discreta es el antecedente formal del conteo eventivo.
 
@@ -146,7 +155,7 @@ La distinción entre afectación débil y fuerte tiene analogía con *enabling* 
 ### 3.4. Posición propia del SV
 
 | Tradición vecina | Qué formaliza bien | Qué falta para el SV |
-|---|---|---|
+| --- | --- | --- |
 | Estructuras de eventos | causalidad, concurrencia, conflicto | espacio de estados ternario; régimen U; horizonte como jurisdicción |
 | Redes de Petri / monoidal | composición de transiciones, marcaje | admisibilidad dependiente de U |
 | Estructuras inhibidoras | habilitación e inhibición | admisibilidad tipada por horizonte ternario |
@@ -158,7 +167,7 @@ La distinción entre afectación débil y fuerte tiene analogía con *enabling* 
 
 Sea $b \geq 1$ y $n = b^2$. Sea
 
-$$\mathcal{E}_{(n,b)} = \bigl\{e = (H,\, H',\, \sigma,\, R_e) \;\big|\; \sigma \subseteq I_{(n,b)},\; R_e : D_e \to X_{H'},\; \text{A1–A6}\bigr\}$$
+$$ \mathcal{E}_{(n,b)} = \bigl\{e = (H,\, H',\, \sigma,\, R_e) \;\big|\; \sigma \subseteq I_{(n,b)},\; R_e : D_e \to X_{H'},\; \text{A1–A6}\bigr\} $$
 
 la familia de sucesos admisibles sobre la célula $(n, b)$ en el sentido de VII.1. Cuando el contexto es claro, se escribe simplemente $\mathcal{E}$. El presente documento impone sobre $\mathcal{E}$ una capa mínima de relaciones legítimas, siempre interpretadas sobre el espacio de *frames* $\Sigma^n$.
 
@@ -170,7 +179,7 @@ la familia de sucesos admisibles sobre la célula $(n, b)$ en el sentido de VII.
 
 **Definición 5.1. Dato de transporte de observables para un par.** Sean $e, f \in \mathcal{E}$. Un dato de transporte parcial de observables para el par $(e, f)$ es una cuaterna
 
-$$(J_{e,f},\; \Theta_{e,f},\; \mathcal{F}_e,\; \mathcal{F}_f),$$
+$$ (J_{e,f},\; \Theta_{e,f},\; \mathcal{F}_e,\; \mathcal{F}_f), $$
 
 donde: $J_{e,f} \subseteq I_{(n,b)}$ es un dominio común de referencia no vacío de posiciones de la célula; $\Theta_{e,f} : \mathcal{F}_e \to \mathcal{F}_f$ es una aplicación parcial entre familias de observables relevantes de $e$ y $f$, con codominio en el mismo escalar $\mathbb{K} = \mathbb{R}$ o $\mathbb{K} = \mathbb{Z}$; para todo $F_e \in \mathcal{F}_e$ y su imagen $\Theta_{e,f}(F_e) = F_f \in \mathcal{F}_f$, la expresión $\Delta_e F_e(x) - \Delta_f F_f(y)$ es un escalar bien definido en $\mathbb{K}$ para $x \in D_e$, $y \in D_f$.
 
@@ -180,9 +189,7 @@ donde: $J_{e,f} \subseteq I_{(n,b)}$ es un dominio común de referencia no vací
 
 **Observación 5.3.** La comparabilidad no es simétrica por defecto: la existencia de transporte de $e$ a $f$ no garantiza transporte de $f$ a $e$. Se declara como problema abierto cuándo la comparabilidad es simétrica en familias de horizontes con álgebras compatibles (§12, problema 1).
 
-![Figura 1. Comparabilidad legítima entre dos sucesos admisibles.](figura_01_comparabilidad.svg)
-
-*Figura 1. Comparabilidad legítima entre dos sucesos admisibles.*
+![Figura 1. Comparabilidad legítima entre dos sucesos admisibles.](../figuras/figura_01_comparabilidad.svg)
 
 Figura 1. Dos sucesos son comparables cuando existe un dato de transporte entre sus observables sobre un dominio común de posiciones. En la célula (9,3) con σ(e) = {P3,P8} y σ(f) = {P6,P7}, ese dominio son las cinco posiciones no afectadas. La comparabilidad no es universal (Proposición 5.4) ni necesariamente simétrica (Observación 5.3).
 
@@ -192,9 +199,7 @@ Figura 1. Dos sucesos son comparables cuando existe un dato de transporte entre 
 
 **Instancia (9, 3):** Si $e$ opera sobre posiciones donde todos los valores son $\{0, 1\}$ y $f$ opera sobre posiciones enteramente en U sin observable numérico definido, no existe transporte entre sus álgebras de observables. El par no es comparable. ∎
 
-**Adversarial interna 5.5.**
-*Objeción.* El dato de transporte es demasiado abstracto si $\Theta_{e,f}$ no queda mejor especificado.
-*Respuesta.* La condición (3) impide que $\Theta_{e,f}$ funcione como etiqueta verbal: exige que produzca diferencias eventivas comparables en el mismo escalar. La instancia $(9, 3)$ muestra que en el caso natural del SV —observables que cuentan posiciones en cada valor de $\Sigma$— el transporte existe de forma concreta. La unicidad y las propiedades de preservación de estructura de $\Theta_{e,f}$ quedan abiertas (§12).
+**Adversarial interna 5.5.** *Objeción.* El dato de transporte es demasiado abstracto si $\Theta_{e,f}$ no queda mejor especificado. *Respuesta.* La condición (3) impide que $\Theta_{e,f}$ funcione como etiqueta verbal: exige que produzca diferencias eventivas comparables en el mismo escalar. La instancia $(9, 3)$ muestra que en el caso natural del SV —observables que cuentan posiciones en cada valor de $\Sigma$— el transporte existe de forma concreta. La unicidad y las propiedades de preservación de estructura de $\Theta_{e,f}$ quedan abiertas (§12).
 
 ---
 
@@ -208,15 +213,13 @@ Formalmente: existe $x \in D_e$ y $y \in D_f$ tal que $\Delta_e F_e(x) \neq 0$ y
 
 **Definición 6.2. Afectación fuerte.** Diremos que $e$ afecta fuertemente a $f$, notado $e \rightsquigarrow_s f$, si la aplicación de $R_e$ altera el dominio de admisibilidad de $f$:
 
-$$D_f^{\text{post-}e} \subsetneq D_f \quad \text{o} \quad D_f^{\text{post-}e} = \varnothing.$$
+$$ D_f^{\text{post-}e} \subsetneq D_f \quad \text{o} \quad D_f^{\text{post-}e} = \varnothing. $$
 
 **Instancia (9, 3):** Sea $f$ un suceso cuyo dominio de admisibilidad exige que P5 tenga valor 1: $D_f = \{S \in \Sigma^9 : S_{P5} = 1\}$. Si $e$ es un suceso que cambia P5 de 1 a U, entonces $D_f^{\text{post-}e} = \varnothing$: ningún *frame* resultante de $R_e$ pertenece a $D_f$. La reevaluación de $e$ destruye la aplicabilidad de $f$. Entonces $e \rightsquigarrow_s f$.
 
 **Observación 6.3. La distinción es estructural, no cuantitativa.** Un suceso que cambia una sola posición puede ser fuerte si esa posición es condición de admisibilidad de otro suceso. Un suceso que cambia seis posiciones puede ser débil si ninguna de ellas afecta la admisibilidad del suceso comparado. En la célula $(9, 3)$, esto es verificable caso a caso sobre el soporte $\sigma$.
 
-![Figura 2. Afectación débil y afectación fuerte.](figura_02_afectacion.svg)
-
-*Figura 2. Afectación débil y afectación fuerte.*
+![Figura 2. Afectación débil y afectación fuerte.](../figuras/figura_02_afectacion.svg)
 
 Figura 2. La distinción entre los dos tipos de afectación no es de grado sino de naturaleza. La afectación débil (columna izquierda, fondo claro) modifica cómo se evalúan los observables de f, pero el dominio $D_f$ permanece intacto: f sigue siendo admisible. La afectación fuerte (columna derecha, borde reforzado) destruye o restringe $D_f$: tras la reevaluación de e, hay *frames* que f ya no puede procesar. En la célula (9,3): cambiar P3 de U a 1 es débil si $D_f$ depende de P5 intacto; cambiar P5 de 1 a U es fuerte si $D_f$ exige P5=1, porque ese dominio queda vacío. La Proposición 6.5 establece que la afectación fuerte implica la débil, pero no al revés. La Proposición 6.4 establece que la afectación fuerte no es simétrica.
 
@@ -230,9 +233,7 @@ Figura 2. La distinción entre los dos tipos de afectación no es de grado sino 
 
 **Instancia (9, 3):** Si $e$ destruye $D_f$ al cambiar P5, el observable $F_f$ que evaluaba configuraciones con P5 = 1 ya no puede evaluarse sobre las configuraciones resultantes de $R_e$. Esa pérdida de evaluabilidad es precisamente la variación que caracteriza la afectación débil. ∎
 
-**Adversarial interna 6.6.**
-*Objeción.* La relación de afectación podría inflar en un símbolo casos demasiado distintos.
-*Respuesta.* La estratificación débil/fuerte es la respuesta directa. En el SV, la distinción tiene interpretación concreta sobre el espacio ternario: la afectación débil afecta la lectura de observables; la fuerte afecta qué *frames* son válidos como dominio de otro suceso. Las Proposiciones 6.4 y 6.5 establecen relaciones no triviales entre ambos niveles.
+**Adversarial interna 6.6.** *Objeción.* La relación de afectación podría inflar en un símbolo casos demasiado distintos. *Respuesta.* La estratificación débil/fuerte es la respuesta directa. En el SV, la distinción tiene interpretación concreta sobre el espacio ternario: la afectación débil afecta la lectura de observables; la fuerte afecta qué *frames* son válidos como dominio de otro suceso. Las Proposiciones 6.4 y 6.5 establecen relaciones no triviales entre ambos niveles.
 
 ---
 
@@ -244,21 +245,19 @@ Figura 2. La distinción entre los dos tipos de afectación no es de grado sino 
 2. $e \rightsquigarrow_s f$ (afectación fuerte, entendida en el sentido de que la reevaluación de $e$ condiciona la existencia del dominio de $f$);
 3. La reevaluación inducida por $e$ es condición necesaria de admisibilidad para $f$:
 
-$$D_f^{\text{pre-}e} = \varnothing \quad \text{y} \quad D_f^{\text{post-}e} \neq \varnothing.$$
+$$ D_f^{\text{pre-}e} = \varnothing \quad \text{y} \quad D_f^{\text{post-}e} \neq \varnothing. $$
 
 La condición (3) distingue precedencia de mera afectación fuerte: no basta que $e$ restrinja $D_f$; se requiere que sin la reevaluación de $e$, $f$ no tenga ningún *frame* admisible en absoluto, y que después de $e$ los haya.
 
 **Instancia (9, 3):** Sea $f$ un suceso que requiere que P3 tenga valor 1 para ser admisible. Si en el *frame* actual P3 tiene valor U, entonces $D_f^{\text{pre-}e} = \varnothing$: $f$ no es admisible. Sea $e$ un suceso con soporte $\{P3\}$ que cambia P3 de U a 1. Tras la reevaluación de $e$, $D_f^{\text{post-}e} \neq \varnothing$: $f$ se vuelve admisible. Entonces $e \prec f$. La precedencia de $e$ sobre $f$ está determinada por la dinámica de U sobre la posición P3.
 
-**Observación 7.2. Precedencia no es tiempo; es dinámica de U.** La precedencia no expresa "antes" y "después" en sentido cronológico. Expresa una dependencia estructural sobre el espacio ternario: $f$ no puede comparecer mientras ciertas posiciones estén en U. La reevaluación de $e$ que resuelve esas U hacia $\{0,1\}$ es lo que habilita $f$. No hay reloj global; hay dinámica de U.
+**Observación 7.2. Precedencia no es tiempo; es dinámica de U.** La precedencia no expresa “antes” y “después” en sentido cronológico. Expresa una dependencia estructural sobre el espacio ternario: $f$ no puede comparecer mientras ciertas posiciones estén en U. La reevaluación de $e$ que resuelve esas U hacia $\{0,1\}$ es lo que habilita $f$. No hay reloj global; hay dinámica de U.
 
 En la célula $(9, 3)$, la precedencia $e \prec f$ se reduce a verificar: ¿existe algún *frame* $S \in \Sigma^9$ donde $f$ sea admisible antes de aplicar $R_e$? Si no existe, y después de $R_e$ sí existe, entonces $e \prec f$.
 
-![Figura 3. Precedencia estructural y aciclicidad.](figura_03_precedencia.svg)
+![Figura 3. Precedencia estructural y aciclicidad.](../figuras/figura_03_precedencia.svg)
 
-*Figura 3. Precedencia estructural y aciclicidad.*
-
-Figura 3. La precedencia exige tres condiciones: comparabilidad, afectación fuerte, y que sin e el suceso f sea imposible. En la célula (9,3): P3 en U bloquea f; e resuelve P3 a 1 y habilita f. La Proposición 7.5 garantiza que ninguna cadena de precedencias puede cerrarse en ciclo: cada eslabón resuelve una U, y cerrar el ciclo contradiría A2. Sin reloj; solo terna.
+Figura 3. La precedencia exige tres condiciones: comparabilidad, afectación fuerte, y que sin e el suceso f sea imposible. En la célula (9,3): P3 en U bloquea f; e resuelve P3 a 1 y habilita f. La Proposición 7.5 garantiza que ninguna cadena de precedencias puede cerrarse en ciclo: cada eslabón resuelve una U, y cerrar el ciclo contradiría A2. Sin reloj; solo terna.
 
 **Proposición 7.3. Precedencia implica afectación fuerte, pero no recíprocamente.** $e \prec f$ implica $e \rightsquigarrow_s f$. La implicación no se invierte.
 
@@ -280,15 +279,11 @@ Figura 3. La precedencia exige tres condiciones: comparabilidad, afectación fue
 
 Esta proposición es el resultado central del documento: garantiza que VII.3 puede definir cadenas admisibles de sucesos sobre el SV sin circularidad, apoyándose en la dinámica de U como mecanismo de habilitación.
 
-**Observación 7.7. Hipótesis implícita de la Proposición 7.5: monotonicidad de la habilitación por U.**
-La prueba por contradicción presupone que ningún suceso en la cadena $e_1 \prec e_2 \prec \ldots \prec e_k$ puede *reintroducir* U en las posiciones que hacen admisible a $e_1$. Si un suceso posterior de la cadena revirtiera la resolución de U realizada por $e_1$ —devolviendo a U posiciones que $e_1$ necesita tener determinadas para existir como suceso—, el último paso del ciclo no contradiría A2. Esta condición de *monotonicidad de la habilitación* no está enunciada como axioma en VII.1 ni en este documento. La acíclicidad es sólida bajo ella; su falta de declaración explícita es el problema abierto más urgente de cara a VII.3. Se añade formalmente al §12 (problema 6).
+**Observación 7.7. Hipótesis implícita de la Proposición 7.5: monotonicidad de la habilitación por U.** La prueba por contradicción presupone que ningún suceso en la cadena $e_1 \prec e_2 \prec \ldots \prec e_k$ puede *reintroducir* U en las posiciones que hacen admisible a $e_1$. Si un suceso posterior de la cadena revirtiera la resolución de U realizada por $e_1$ —devolviendo a U posiciones que $e_1$ necesita tener determinadas para existir como suceso—, el último paso del ciclo no contradiría A2. Esta condición de *monotonicidad de la habilitación* no está enunciada como axioma en VII.1 ni en este documento. La acíclicidad es sólida bajo ella; su falta de declaración explícita es el problema abierto más urgente de cara a VII.3. Se añade formalmente al §12 (problema 6).
 
-**Adversarial interna 7.6.**
-*Objeción.* Podría estarse reintroduciendo tiempo fuerte con otro nombre.
-*Respuesta.* La precedencia no depende de ningún índice temporal externo. Depende de si $D_f^{\text{pre-}e} = \varnothing$ sobre el espacio de *frames* $\Sigma^n$. Esa condición es verificable posición a posición en la célula sin ninguna referencia a tiempo. La dinámica de U que habilita sucesos es una propiedad del espacio ternario, no de un reloj.
+**Adversarial interna 7.6.** *Objeción.* Podría estarse reintroduciendo tiempo fuerte con otro nombre. *Respuesta.* La precedencia no depende de ningún índice temporal externo. Depende de si $D_f^{\text{pre-}e} = \varnothing$ sobre el espacio de *frames* $\Sigma^n$. Esa condición es verificable posición a posición en la célula sin ninguna referencia a tiempo. La dinámica de U que habilita sucesos es una propiedad del espacio ternario, no de un reloj.
 
-**Observación 7.8. Lectura correcta de la condición (2) en presencia de la condición (3).**
-La condición (2) de la Def. 7.1 exige $e \rightsquigarrow_s f$, cuya definición (Def. 6.2) describe un suceso que *restringe o destruye* un dominio preexistente. La condición (3) establece que $D_f^{\text{pre-}e} = \varnothing$: ese dominio era ya vacío antes de $e$. La lectura correcta es que la condición (2) en el contexto de la precedencia no describe restricción de un dominio existente, sino la condición necesaria de que la reevaluación de $e$ sea lo que *crea* el dominio de $f$ donde antes no existía. Las condiciones (2) y (3) juntas establecen que $e$ transita el estado de $f$ de no-admisible a admisible, lo que es el caso límite de la afectación fuerte en dirección constructiva. Esta lectura no contradice la Def. 6.2; la especializa.
+**Observación 7.8. Lectura correcta de la condición (2) en presencia de la condición (3).** La condición (2) de la Def. 7.1 exige $e \rightsquigarrow_s f$, cuya definición (Def. 6.2) describe un suceso que *restringe o destruye* un dominio preexistente. La condición (3) establece que $D_f^{\text{pre-}e} = \varnothing$: ese dominio era ya vacío antes de $e$. La lectura correcta es que la condición (2) en el contexto de la precedencia no describe restricción de un dominio existente, sino la condición necesaria de que la reevaluación de $e$ sea lo que *crea* el dominio de $f$ donde antes no existía. Las condiciones (2) y (3) juntas establecen que $e$ transita el estado de $f$ de no-admisible a admisible, lo que es el caso límite de la afectación fuerte en dirección constructiva. Esta lectura no contradice la Def. 6.2; la especializa.
 
 ---
 
@@ -310,9 +305,7 @@ La condición (3) exige coevaluabilidad estable: no basta ausencia de conflicto,
 
 **Instancia (9, 3):** Con $\sigma(e) \cup \sigma(f) \subseteq \{P1,\ldots,P9\}$ y soportes disjuntos, al menos $9 - |\sigma(e)| - |\sigma(f)|$ posiciones forman el dominio común. Para soportes de tamaño 2 cada uno, $J_{e,f}$ tiene al menos 5 posiciones. ∎
 
-**Adversarial interna 8.3.**
-*Objeción.* La compatibilidad está definida negativamente como ausencia de afectación fuerte.
-*Respuesta.* La condición (3) es positiva: exige coevaluabilidad estable. La Proposición 8.2 muestra que hay una clase no vacía de pares compatibles —aquellos con soportes disjuntos— lo que impide que la definición sea vacua.
+**Adversarial interna 8.3.** *Objeción.* La compatibilidad está definida negativamente como ausencia de afectación fuerte. *Respuesta.* La condición (3) es positiva: exige coevaluabilidad estable. La Proposición 8.2 muestra que hay una clase no vacía de pares compatibles —aquellos con soportes disjuntos— lo que impide que la definición sea vacua.
 
 ---
 
@@ -325,7 +318,7 @@ La composición secuencial, estudiada en el artículo de composición (Lloret Eg
 ## 10. Resumen de resultados cerrados
 
 | Resultado | Tipo | Contenido |
-|---|---|---|
+| --- | --- | --- |
 | Proposición 5.4 | No trivial | No todo par de sucesos es comparable |
 | Proposición 6.4 | No trivial | La afectación fuerte no es simétrica |
 | Proposición 6.5 | No trivial | Afectación fuerte implica débil bajo comparabilidad |
@@ -338,7 +331,7 @@ La composición secuencial, estudiada en el artículo de composición (Lloret Eg
 
 ## 11. Delimitación negativa
 
-Este documento no establece: teoría completa de cadenas ordenadas por precedencia (reservada a VII.3); acumulación eventiva sobre cadenas con precedencia (reservada a VII.3); conexión métrica entre $k(\tau)$ y número de sucesos admisibles en régimen general (problema abierto); geometría reconstructiva ni física cerrada; modificación de gramática, IR, *validator*, *runner* o backend. (<a href="https://juantoniolloretegea.github.io/SV-lenguaje-de-computacion/" target="_blank" rel="noopener noreferrer">Ver documentación relacionada</a>.)
+Este documento no establece: teoría completa de cadenas ordenadas por precedencia (reservada a VII.3); acumulación eventiva sobre cadenas con precedencia (reservada a VII.3); conexión métrica entre $k(\tau)$ y número de sucesos admisibles en régimen general (problema abierto); geometría reconstructiva ni física cerrada; modificación de gramática, IR, *validator*, *runner* o backend. (Ver documentación relacionada.)
 
 ---
 
@@ -352,7 +345,7 @@ Este documento no establece: teoría completa de cadenas ordenadas por precedenc
 
 **4. Compatibilidad y composición paralela.** Si $e \parallel f$ sobre la misma célula, ¿existe una forma de composición paralela que preserve el soporte disjunto?
 
-**5. Puente entre precedencia y conteo $k(\tau)$.** La Proposición 7.5 garantiza acíclicidad; la conexión precisa entre $e \prec f$ y el incremento de $k(\tau)$ bajo cadenas de sucesos que resuelven U queda abierta para VII.3.
+**5. Puente entre precedencia y conteo** $k(\tau)$**.** La Proposición 7.5 garantiza acíclicidad; la conexión precisa entre $e \prec f$ y el incremento de $k(\tau)$ bajo cadenas de sucesos que resuelven U queda abierta para VII.3.
 
 **6. Monotonicidad de la habilitación (hipótesis implícita de Prop. 7.5).** La prueba de acíclicidad presupone que ningún suceso en una cadena de precedencia puede reintroducir U en las posiciones que hacen admisible al primer suceso de la cadena. Esta condición debe elevarse a axioma explícito antes de que VII.3 construya cadenas sobre ella, o bien la Proposición 7.5 debe reformularse como condicional bajo esa hipótesis declarada.
 
