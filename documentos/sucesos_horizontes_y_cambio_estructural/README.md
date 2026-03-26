@@ -28,6 +28,7 @@ En esta carpeta constan ya materialmente, a esta fecha:
 - Documento VII.3
 - Documento VII.4
 - Documento VII.5
+- Documento VII.6
 - `matriz_capa_sucesos/`
 - `REGISTRO_EDITORIAL_COLECCION_SUCESOS.csv`
 
@@ -81,20 +82,21 @@ Esta familia debe leerse bajo una restricción fuerte:
 
 ## Estado actual de la familia
 
-A esta fecha, la familia queda materialmente integrada hasta **VII.5**, con:
+A esta fecha, la familia queda materialmente integrada hasta **VII.6**, con:
 
 - sede doctrinal ya estabilizada;
 - registro editorial activo;
 - matriz madre y matriz espejo ya abiertas;
 - contraste preliminar ya ejecutado con el estado real del Lenguaje SV;
-- e incorporación expresa del frente de respuesta estructural, umbral, transición de régimen, enlace formal entre acumulaciones sucesivas y preparación doctrinal de células especializadas.
+- e incorporación expresa del frente de respuesta estructural, umbral, transición de régimen, enlace formal entre acumulaciones sucesivas, equivalencia parcial entre regímenes, preservación local, invariancia local y preparación doctrinal de células especializadas.
 
-La integración de VII.5 no autoriza por sí misma un endurecimiento inmediato del Lenguaje SV. Su función principal ha sido consolidar el tramo doctrinal relativo a:
+La integración hasta VII.6 no autoriza por sí misma un endurecimiento inmediato del Lenguaje SV. Su función principal ha sido consolidar el tramo doctrinal relativo a:
 
 - respuesta estructural a suceso de horizonte;
 - persistencia de transporte y estabilidad de lectura;
 - umbral de ruptura y transición controlada de régimen;
 - enlace formal entre acumulaciones sucesivas;
+- equivalencia parcial, preservación e invariancia local entre regímenes;
 - y preparación más fina del terreno previo al frente de células especializadas.
 
 ## Siguiente paso correcto
@@ -102,10 +104,11 @@ La integración de VII.5 no autoriza por sí misma un endurecimiento inmediato d
 El siguiente paso correcto no es reabrir por inercia las piezas ya integradas ni inflar retrospectivamente la familia.
 Lo que procede ahora es:
 
-- cerrar registralmente el ciclo VII.5;
-- decidir, con auditoría de tronco y no por intuición, si el siguiente frente correcto es un **VII.6** legítimo o la apertura formal del carril específico de **células especializadas del Sistema Vectorial SV**;
-- mantener coherencia con la matriz de sucesos ya abierta;
-- y sostener el contraste con el Lenguaje SV sin precipitación implementativa, backend prematuro ni cierre artificial de gramática humana.
+- cerrar registralmente la integración material de **VII.6**;
+- mantener coherencia con la matriz de sucesos ya abierta y actualizar su contraste con el Lenguaje SV;
+- consolidar, ya fuera de esta familia, las interfaces pendientes de **oído**, **tacto** y **NLP**;
+- preparar después la publicación específica relativa a **células especializadas del Sistema Vectorial SV** como cierre del frente de frontend antes de cualquier cierre de backend;
+- y sostener en todo momento el contraste con el Lenguaje SV sin precipitación implementativa, backend prematuro ni cierre artificial de gramática humana.
 
 ## Nota final
 
