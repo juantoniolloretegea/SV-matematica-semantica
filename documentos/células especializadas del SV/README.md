@@ -60,13 +60,6 @@ Juan Antonio Lloret Egea
 ORCID: 0000-0002-6634-3351
 Instituto Tecnológico Virtual de la Inteligencia Artificial
 para el Español™ (ITVIA)
-```
-
----
-
-**Commit:**
-```
-Add laboratorio de referencia — células especializadas SV (marco)
 
 Implementación ejecutable del anexo técnico del documento marco sobre
 células especializadas. Incluye evaluar_admisibilidad, clasificar_familia
