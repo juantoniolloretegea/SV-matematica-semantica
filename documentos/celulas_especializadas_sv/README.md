@@ -25,6 +25,10 @@ Su estatuto es de **sede doctrinal subordinada, preservadora y trazable**.
 A esta fecha, esta sede contiene materialmente:
 
 - `README.md` — nota de sede, alcance y trazabilidad básica de la colección.
+- `MICROAUDITORIA_APERTURA_CELULA_PILOTO_SEGURIDAD_ESTRUCTURAL_SV_2026_03_26.md` — microauditoría de apertura del primer frente operativo del carril.
+- `seguridad_estructural/` — subcarpeta de trabajo canónico de la célula especializada de seguridad estructural.
+  - `EXPLICACION_PUBLICA_AGENTE_ESPECIALIZADO_EN_SEGURIDAD.md`
+  - `PETICION_FORMAL_CADENCIA_OBSERVACIONAL_INTRA_SUCESO.md`
 
 ## Regla de incorporación material
 
@@ -50,7 +54,8 @@ Esta familia debe leerse en continuidad con:
 
 - la doctrina y cadena normativa principal del Sistema Vectorial SV;
 - la familia VII de sucesos, horizontes y cambio estructural, como frente inmediatamente anterior;
-- y el repositorio `SV-lenguaje-de-computacion`, únicamente en lo que respecta a espejo registral y continuidad prudencial de fase.
+- el repositorio `SV-lenguaje-de-computacion`, únicamente en lo que respecta a espejo registral y continuidad prudencial de fase;
+- y el repositorio `SVperitus-dataset`, únicamente en lo que respecta a artefactos operativos subordinados del agente especializado en seguridad.
 
 ## Autoría y procedencia
 
