@@ -2,14 +2,14 @@
 
 ## Contenido
 
-- `manuscrito/` — archivo markdown de trabajo conservado junto al lote editorial del documento.
-- `html/` — exportación HTML descargada de PubPub, conservada como respaldo editorial y base canónica de auditoría material para este bloque.
+- `manuscrito/` — manuscrito fuente conservado en esta sede material del documento.
+- `html/` — HTML de publicación conservado como respaldo editorial y base de contraste material para este bloque.
 - `figuras/` — figuras locales utilizadas por el documento.
 - `laboratorio_python/` — laboratorio Python acompañante del documento.
 
 ## Nota de organización
 
-Para este bloque, el HTML descargado de la publicación se toma como **base canónica de auditoría material**, porque recoge los ajustes finales incorporados en el cierre editorial de PubPub y no siempre visibles del mismo modo en el markdown de trabajo.
+Para este bloque, el HTML de la publicación se toma como **base canónica de contraste material**, porque recoge los ajustes finales incorporados en el cierre editorial y no siempre visibles del mismo modo en el manuscrito fuente.
 
 La exportación HTML puede arrastrar duplicaciones formales de autoría u otros elementos propios de PubPub. Esos arrastres no alteran el corpus doctrinal del documento y deben leerse como residuos de plataforma, no como contenido soberano adicional.
 

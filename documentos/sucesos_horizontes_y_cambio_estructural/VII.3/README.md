@@ -6,14 +6,14 @@ Título canónico del manuscrito:
 
 ## Contenido
 
-- `manuscrito/` — archivo markdown de trabajo conservado junto al lote editorial del documento.
-- `html/` — exportación HTML descargada de PubPub, conservada como respaldo editorial y base canónica de auditoría material para este bloque.
+- `manuscrito/` — manuscrito fuente conservado en esta sede material del documento.
+- `html/` — HTML de publicación conservado como respaldo editorial y base de contraste material para este bloque.
 - `figuras/` — figuras locales utilizadas por el documento.
 - `laboratorio_python_vii3/` — laboratorio Python acompañante del documento.
 
 ## Nota de organización
 
-Para **VII.3**, el HTML descargado de la publicación se toma como **base canónica de auditoría material**, porque recoge correcciones finales incorporadas en el cierre editorial de PubPub y no siempre visibles todavía en el markdown de trabajo.
+Para **VII.3**, el HTML de la publicación se toma como **base canónica de contraste material**, porque recoge correcciones finales incorporadas en el cierre editorial y no siempre visibles todavía en el manuscrito fuente.
 
 La normalización de nombres en la subcarpeta `html/` responde solo a criterio de orden material del repositorio. No altera el corpus del texto ni su contenido editorial.
 
