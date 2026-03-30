@@ -1,0 +1,21 @@
+funcion gamma_h(vector v, horizonte H):
+  para cada posicion i con v_i = U:
+    si no existe suceso de H que actue sobre i:
+      clasificar i como irreducible
+    si existe suceso sobre i pero el valor depende del suceso:
+      clasificar i como fronteriza
+    si existe suceso sobre i con valor determinado en {0,1}:
+      clasificar i como resoluble
+  devolver clasificacion completa
+
+funcion convergencia_estructural(trayectoria T, horizonte H):
+  calcular U_irr(T) con gamma_h
+  devolver (U_irr(T) es vacio)
+
+funcion delta_N(trayectoria T):
+  devolver maximo de delta_n(i) sobre posiciones no irreducibles
+
+funcion fork(T, frame_bifurcacion n*, dato_alternativo nu'):
+  conservar T sin modificar
+  crear T' compartiendo prefijo hasta S_n*
+  continuar T' sin borrar la historia de T

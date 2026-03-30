@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#ffffff"/>
+<rect x="8" y="8" width="1184" height="884" rx="24" fill="none" stroke="#1d4ed8" stroke-width="2" opacity="0.30"/>
+<defs>
+<linearGradient id="gBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#dbeafe"/>
+  <stop offset="100%" stop-color="#eff6ff"/>
+</linearGradient>
+<linearGradient id="gIndigo" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#e0e7ff"/>
+  <stop offset="100%" stop-color="#eef2ff"/>
+</linearGradient>
+</defs>
+
+<!-- Título -->
+<text x="600" y="46" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#111827">Correspondencia estructural: trayectoria SV e integral curvilínea</text>
+<text x="600" y="68" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151">Instrumento expositivo — no identidad formal, no isomorfismo entre marcos</text>
+
+<!-- ===== COLUMNA IZQUIERDA: Integral curvilínea ===== -->
+<rect x="36" y="84" width="520" height="490" rx="16" fill="url(#gBlue)" stroke="#1d4ed8" stroke-width="2"/>
+<text x="296" y="114" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#1d4ed8">Integral curvilínea</text>
+
+<!-- Curva y partición -->
+<path d="M80,210 C180,140 320,290 480,190" stroke="#1d4ed8" stroke-width="3" fill="none"/>
+<!-- Puntos de partición -->
+<circle cx="80"  cy="210" r="7" fill="#1d4ed8"/>
+<circle cx="185" cy="162" r="7" fill="#1d4ed8"/>
+<circle cx="290" cy="228" r="7" fill="#1d4ed8"/>
+<circle cx="385" cy="174" r="7" fill="#1d4ed8"/>
+<circle cx="480" cy="190" r="7" fill="#1d4ed8"/>
+<!-- Segmentos diferenciales -->
+<line x1="80" y1="210" x2="185" y2="162" stroke="#93c5fd" stroke-width="2" stroke-dasharray="6,3"/>
+<line x1="185" y1="162" x2="290" y2="228" stroke="#93c5fd" stroke-width="2" stroke-dasharray="6,3"/>
+<line x1="290" y1="228" x2="385" y2="174" stroke="#93c5fd" stroke-width="2" stroke-dasharray="6,3"/>
+<line x1="385" y1="174" x2="480" y2="190" stroke="#93c5fd" stroke-width="2" stroke-dasharray="6,3"/>
+<!-- Labels puntos -->
+<text x="68"  y="230" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1d4ed8">γ(t₀)</text>
+<text x="175" y="155" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1d4ed8">γ(t₁)</text>
+<text x="278" y="248" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1d4ed8">γ(t₂)</text>
+<text x="373" y="194" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1d4ed8">γ(t₃)</text>
+<text x="468" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1d4ed8">γ(t₄)</text>
+<!-- Diferencial label -->
+<text x="120" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1e40af">‖Δγ₀‖</text>
+
+<!-- Fórmula integral -->
+<rect x="60" y="278" width="480" height="56" rx="10" fill="#dbeafe" stroke="#93c5fd" stroke-width="1"/>
+<text x="300" y="302" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#1e3a8a">∫_γ f ds = lim_{‖P‖→0} Σ f(γ(tⱼ))·‖Δγⱼ‖</text>
+<text x="300" y="322" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">La partición controla la resolución de la curva</text>
+
+<!-- Tabla de objetos curvilíneos -->
+<text x="296" y="366" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#1d4ed8">Tres ideas del instrumento curvilíneo</text>
+<rect x="60" y="376" width="480" height="28" rx="0" fill="#bfdbfe"/>
+<text x="180" y="395" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Idea</text>
+<text x="400" y="395" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#1e3a8a">Contenido</text>
+<line x1="60" y1="404" x2="540" y2="404" stroke="#93c5fd" stroke-width="1"/>
+
+<text x="180" y="424" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Partición P</text>
+<text x="400" y="424" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Control de resolución del recorrido</text>
+<line x1="60" y1="434" x2="540" y2="434" stroke="#e2e8f0" stroke-width="1"/>
+
+<text x="180" y="454" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Evaluación local f(γ(tⱼ))</text>
+<text x="400" y="454" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Contribución de cada punto</text>
+<line x1="60" y1="464" x2="540" y2="464" stroke="#e2e8f0" stroke-width="1"/>
+
+<text x="180" y="484" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Recorrido γ</text>
+<text x="400" y="484" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Trayectoria como objeto primario</text>
+<line x1="60" y1="494" x2="540" y2="494" stroke="#93c5fd" stroke-width="1"/>
+
+<!-- Nota dominio -->
+<rect x="60" y="510" width="480" height="48" rx="8" fill="#f8fafc" stroke="#93c5fd" stroke-width="1"/>
+<text x="300" y="530" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">Dominio: ℝⁿ con métrica euclidiana.</text>
+<text x="300" y="548" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">Convergencia definida por distancia real.</text>
+
+<!-- ===== COLUMNA DERECHA: Trayectoria SV ===== -->
+<rect x="644" y="84" width="520" height="490" rx="16" fill="url(#gIndigo)" stroke="#4f46e5" stroke-width="2"/>
+<text x="904" y="114" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4f46e5">Trayectoria SV</text>
+
+<!-- Frames -->
+<rect x="668" y="152" width="80" height="58" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2"/>
+<text x="708" y="178" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#4f46e5">S₀</text>
+<text x="708" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#374151">[0,U,0,0,U,0,U,0,0]</text>
+
+<rect x="808" y="152" width="80" height="58" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2"/>
+<text x="848" y="178" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#4f46e5">S₁</text>
+<text x="848" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#374151">[0,0,0,0,U,0,0,0,0]</text>
+
+<rect x="948" y="152" width="80" height="58" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2"/>
+<text x="988" y="178" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#4f46e5">S₂</text>
+<text x="988" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#374151">[0,0,0,0,0,0,0,0,0]</text>
+
+<rect x="1090" y="158" width="56" height="46" rx="10" fill="#ffffff" stroke="#4f46e5" stroke-width="2"/>
+<text x="1118" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#4f46e5">Sₖ</text>
+
+<!-- Flechas -->
+<line x1="748" y1="181" x2="806" y2="181" stroke="#4f46e5" stroke-width="2"/>
+<polygon points="806,181 796,175 796,187" fill="#4f46e5"/>
+<text x="777" y="172" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4f46e5">ν₀</text>
+<line x1="888" y1="181" x2="946" y2="181" stroke="#4f46e5" stroke-width="2"/>
+<polygon points="946,181 936,175 936,187" fill="#4f46e5"/>
+<text x="917" y="172" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4f46e5">ν₁</text>
+<text x="1050" y="185" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#4f46e5">…</text>
+
+<!-- Fórmula trayectoria -->
+<rect x="668" y="228" width="476" height="56" rx="10" fill="#e0e7ff" stroke="#a5b4fc" stroke-width="1"/>
+<text x="906" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#312e81">T = (S₀, ν₀, S₁, ν₁, …, Sₖ)</text>
+<text x="906" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Sₙ₊₁ = U_νₙ(Sₙ) — operador determinista</text>
+
+<!-- Tabla de objetos SV -->
+<text x="904" y="316" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#4f46e5">Tres ideas trasladadas al SV</text>
+<rect x="668" y="326" width="476" height="28" rx="0" fill="#c7d2fe"/>
+<text x="808" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#312e81">Idea (SV)</text>
+<text x="1010" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#312e81">Contenido</text>
+<line x1="668" y1="354" x2="1144" y2="354" stroke="#a5b4fc" stroke-width="1"/>
+
+<text x="808" y="374" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Secuencia de frames Sₙ</text>
+<text x="1010" y="374" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Partición de la trayectoria</text>
+<line x1="668" y1="384" x2="1144" y2="384" stroke="#e2e8f0" stroke-width="1"/>
+
+<text x="808" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Evaluación ternaria del frame</text>
+<text x="1010" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Contribución local de cada Sₙ</text>
+<line x1="668" y1="414" x2="1144" y2="414" stroke="#e2e8f0" stroke-width="1"/>
+
+<text x="808" y="434" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Trayectoria T como objeto</text>
+<text x="1010" y="434" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Sucesión con estructura propia</text>
+<line x1="668" y1="444" x2="1144" y2="444" stroke="#a5b4fc" stroke-width="1"/>
+
+<!-- Nota dominio SV -->
+<rect x="668" y="460" width="476" height="48" rx="8" fill="#f8fafc" stroke="#a5b4fc" stroke-width="1"/>
+<text x="906" y="480" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">Dominio: K₃ⁿ = {0,1,U}ⁿ — sin métrica real canónica.</text>
+<text x="906" y="498" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">Convergencia ternaria: definición autónoma sin tomar prestada la real.</text>
+
+<!-- ===== BLOQUE CENTRAL de correspondencia ===== -->
+<rect x="470" y="594" width="260" height="52" rx="12" fill="#fef9c3" stroke="#d97706" stroke-width="2"/>
+<text x="600" y="616" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#92400e">Correspondencia estructural</text>
+<text x="600" y="636" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#d97706">⟷</text>
+
+
+
+
+
+<!-- Nota de diferencia clave -->
+<rect x="48" y="702" width="1112" height="92" rx="14" fill="#fefce8" stroke="#d97706" stroke-width="1.5"/>
+<text x="608" y="726" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#92400e">Diferencia estructural decisiva — por qué no hay isomorfismo</text>
+<text x="608" y="748" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">La integral opera en ℝⁿ con métrica euclidiana — la convergencia se define por distancia real.</text>
+<text x="608" y="768" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">La trayectoria SV opera en K₃ⁿ = {0,1,U}ⁿ — sin métrica real canónica: la convergencia se define de forma autónoma.</text>
+<text x="608" y="784" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#92400e" font-weight="600">Las tres ideas (partición, evaluación local, recorrido) se trasladan como instrumento expositivo, no como identidad algebraica.</text>
+
+<!-- Separador y autoría -->
+<line x1="50" y1="868" x2="1150" y2="868" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="884" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#555555">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA — IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 2026</text>
+</svg>

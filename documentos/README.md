@@ -21,6 +21,9 @@ Sede documental, experimental y editorial del **Programa de interfaces del Siste
 ### `sucesos_horizontes_y_cambio_estructural/`
 Sede doctrinal y editorial de la familia VII, relativa a sucesos, horizontes y cambio estructural dentro del Sistema Vectorial SV.
 
+### `gobierno_determinista_ia/`
+Sede doctrinal y editorial de la familia organizada por colecciones relativa al frente de **matemática de gobierno determinista para la inteligencia artificial** dentro del Sistema Vectorial SV.
+
 ### `celulas_especializadas_sv/`
 Sede doctrinal y editorial de la colección **Células especializadas del Sistema Vectorial SV**, abierta como réplica trazable en GitHub de una colección pública ya activa en ITVIA.
 
@@ -56,6 +59,7 @@ Cuando una pieza tenga **doble sede material interna controlada** entre `documen
 | `adendas/` | Piezas complementarias preservadas materialmente |
 | `programa_interfaces_sv/` | Programa de interfaces del SV y sus carriles materializados |
 | `sucesos_horizontes_y_cambio_estructural/` | Familia VII sobre sucesos, horizontes y cambio estructural |
+| `gobierno_determinista_ia/` | Familia organizada por colecciones del frente de matemática de gobierno determinista para la inteligencia artificial |
 | `celulas_especializadas_sv/` | Colección de células especializadas y su réplica doctrinal trazable |
 | `registros/` | Trazabilidad pública, remisiones y actas del repositorio doctrinal |
 | `publicaciones/` | Bloque editorial de publicaciones integradas en la sede doctrinal |

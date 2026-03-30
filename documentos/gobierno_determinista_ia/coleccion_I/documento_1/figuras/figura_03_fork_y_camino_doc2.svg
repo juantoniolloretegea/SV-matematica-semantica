@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#ffffff"/>
+<rect x="8" y="8" width="1184" height="884" rx="24" fill="none" stroke="#1d4ed8" stroke-width="2" opacity="0.30"/>
+<defs>
+<marker id="arrB3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+  <path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/>
+</marker>
+<marker id="arrR3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+  <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+</marker>
+<marker id="arrG3" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+  <path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/>
+</marker>
+</defs>
+
+<!-- Título -->
+<text x="600" y="46" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#111827">Fork de trayectoria y suelo inmediato para el Documento 2</text>
+<text x="600" y="68" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#374151">La bifurcación conserva T, crea T′ sin borrado — el Doc 1 deja la célula visible para el Doc 2</text>
+
+<!-- ===== PANEL IZQUIERDO: Fork ===== -->
+<rect x="36" y="84" width="560" height="460" rx="14" fill="#f8fafc" stroke="#1d4ed8" stroke-width="2"/>
+<text x="316" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#1d4ed8">Semántica de Fork — retroceso sin violación de append-only (§6)</text>
+
+<!-- Trayectoria original T (arriba) -->
+<text x="60" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#374151">Trayectoria original T:</text>
+
+<!-- Frames S0..S1 -->
+<rect x="60" y="152" width="56" height="44" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="88" y="179" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1d4ed8" font-weight="700">S₀</text>
+<line x1="116" y1="174" x2="136" y2="174" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arrB3)"/>
+<text x="126" y="148.10" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#6b7280">ν₀</text>
+
+<rect x="140" y="152" width="56" height="44" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="168" y="179" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#1d4ed8" font-weight="700">S₁</text>
+<line x1="196" y1="174" x2="216" y2="174" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arrB3)"/>
+<text x="206" y="148.10" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#6b7280">ν₁</text>
+
+<!-- S2 = punto de bifurcación -->
+<rect x="220" y="146" width="62" height="56" rx="8" fill="#fef9c3" stroke="#d97706" stroke-width="2.5"/>
+<text x="251" y="172" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#92400e" font-weight="700">S₂=n*</text>
+<text x="251" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#92400e">bifurc.</text>
+
+<!-- T continúa con ν₂ original (deriva) -->
+<line x1="282" y1="160" x2="306" y2="160" stroke="#dc2626" stroke-width="2" marker-end="url(#arrR3)"/>
+<text x="294" y="133.1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#dc2626">ν₂ (deriva)</text>
+<rect x="310" y="142" width="56" height="44" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="338" y="169" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626" font-weight="700">S₃</text>
+<line x1="366" y1="164" x2="386" y2="164" stroke="#dc2626" stroke-width="2" marker-end="url(#arrR3)"/>
+<rect x="390" y="142" width="56" height="44" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="418" y="169" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626" font-weight="700">S₄</text>
+<text x="460" y="169" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#dc2626">…</text>
+<text x="370" y="213.45" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#dc2626" font-style="italic">T original — deriva registrada, inmutable</text>
+
+<!-- Fork: ν₂' alternativo baja -->
+<line x1="251" y1="202" x2="251" y2="240" stroke="#16a34a" stroke-width="2.5" marker-end="url(#arrG3)"/>
+<text x="268" y="228" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#16a34a">ν₂' nuevo</text>
+
+<!-- Trayectoria fork T' -->
+<text x="60" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#15803d">Trayectoria fork T′:</text>
+<rect x="60" y="278" width="56" height="44" rx="8" fill="#d1d5db" stroke="#9ca3af" stroke-width="1"/>
+<text x="88" y="305" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b7280">S₀</text>
+<line x1="116" y1="300" x2="136" y2="300" stroke="#9ca3af" stroke-width="1.5" marker-end="url(#arrB3)"/>
+<rect x="140" y="278" width="56" height="44" rx="8" fill="#d1d5db" stroke="#9ca3af" stroke-width="1"/>
+<text x="168" y="305" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b7280">S₁</text>
+<line x1="196" y1="300" x2="216" y2="300" stroke="#9ca3af" stroke-width="1.5" marker-end="url(#arrB3)"/>
+<rect x="220" y="274" width="62" height="52" rx="8" fill="#fef9c3" stroke="#d97706" stroke-width="2"/>
+<text x="251" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#92400e" font-weight="700">S₂=n*</text>
+<text x="251" y="316" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#92400e">compartido</text>
+<line x1="282" y1="304.90" x2="306" y2="304.90" stroke="#16a34a" stroke-width="2" marker-end="url(#arrG3)"/>
+<text x="294" y="278.00" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#16a34a">ν₂′</text>
+<rect x="310" y="270" width="56" height="44" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="338" y="297" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d" font-weight="700">S₃′</text>
+<line x1="366" y1="310.90" x2="386" y2="310.90" stroke="#16a34a" stroke-width="2" marker-end="url(#arrG3)"/>
+<rect x="390" y="270" width="56" height="44" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="418" y="297" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d" font-weight="700">S₄′</text>
+<text x="460" y="297" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#16a34a">…</text>
+<text x="370" y="332" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#15803d" font-style="italic">T′ fork — nueva línea de evaluación</text>
+
+<!-- Propiedades del fork -->
+<rect x="60" y="368.90" width="490" height="120" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+<text x="305" y="392.90" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#15803d">Propiedades garantizadas</text>
+<text x="80" y="414.90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">✓  T permanece inalterada — J3.2 append-only no se viola</text>
+<text x="80" y="434.90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">✓  T′ comparte prefijo (S₀, …, S_n*) con T</text>
+<text x="80" y="454.90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">✓  La deriva queda registrada en T — no se borra</text>
+<text x="80" y="474.90" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">✓  T′ es la nueva línea activa de evaluación</text>
+
+<!-- ===== PANEL DERECHO: Suelo para el Doc2 ===== -->
+<rect x="616" y="84" width="560" height="460" rx="14" fill="#f8fafc" stroke="#0891b2" stroke-width="2"/>
+<text x="896" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#0891b2">Suelo que el Doc 1 entrega al Doc 2 (§6.3)</text>
+
+<!-- Trayectoria ejemplo director -->
+<text x="896" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Trayectoria ejemplar T_ex sobre célula de 9 posiciones:</text>
+
+<!-- S0 -->
+<rect x="648" y="152" width="140" height="64" rx="10" fill="#fef9c3" stroke="#d97706" stroke-width="2"/>
+<text x="718" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#92400e">S₀</text>
+<text x="718" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">[0, U, 0, 0, U, 0, U, 0, 0]</text>
+<text x="718" y="203" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#92400e">P2, P5, P7 en U</text>
+
+<!-- flecha ν₀ -->
+<line x1="788" y1="184" x2="812" y2="184" stroke="#0891b2" stroke-width="2" marker-end="url(#arrB3)"/>
+<text x="800" y="157.1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#0891b2">ν₀</text>
+
+<!-- S1 -->
+<rect x="816" y="152" width="140" height="64" rx="10" fill="#e0f2fe" stroke="#0891b2" stroke-width="2"/>
+<text x="886" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#0c4a6e">S₁</text>
+<text x="886" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">[0, 0, 0, 0, U, 0, 0, 0, 0]</text>
+<text x="886" y="203" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#0c4a6e">P2, P7 cerradas; P5 en U</text>
+
+<!-- flecha ν₁ -->
+<line x1="956" y1="184" x2="980" y2="184" stroke="#0891b2" stroke-width="2" marker-end="url(#arrB3)"/>
+<text x="968" y="157.1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#0891b2">ν₁</text>
+
+<!-- S2 -->
+<rect x="984" y="152" width="140" height="64" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="1054" y="176" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#15803d">S₂</text>
+<text x="1054" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">[0, 0, 0, 0, 0, 0, 0, 0, 0]</text>
+<text x="1054" y="203" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#15803d">Célula completamente cerrada</text>
+
+<!-- Clasificación Γ_ℋ en S0 -->
+<rect x="648" y="234" width="476" height="56" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="1"/>
+<text x="886" y="254" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#15803d">Γ_ℋ(S₀) bajo ℋ_ex = {ε_resp, ε_obj, ε_ref}</text>
+<text x="886" y="276" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">P2 → resoluble · P5 → resoluble · P7 → resoluble · 𝒰_irr = ∅</text>
+
+<!-- Profundidades -->
+<rect x="648" y="306" width="476" height="56" rx="10" fill="#e0e7ff" stroke="#4f46e5" stroke-width="1"/>
+<text x="886" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#312e81">Profundidades y ΔN</text>
+<text x="886" y="348" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Δn₂ = 1 · Δn₇ = 1 · Δn₅ = 2 → ΔN(T_ex) = 2</text>
+
+<!-- Lo que Doc1 entrega al Doc2 -->
+<rect x="648" y="380" width="476" height="130" rx="10" fill="#fef9c3" stroke="#d97706" stroke-width="1.5"/>
+<text x="886" y="402" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#92400e">El Doc 1 no construye el dominio lingüístico.</text>
+<text x="886" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">Deja visible para el Doc 2:</text>
+<text x="666" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">→ La célula mínima de 9 posiciones y su polígono</text>
+<text x="666" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">→ La clasificación Γ_ℋ y la condición 𝒰_irr = ∅</text>
+<text x="666" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#374151">→ La semántica de fork compatible con append-only</text>
+<text x="666" y="500" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#92400e" font-style="italic">El Doc 2 construirá sobre este suelo el transductor ℐ_NLP y el horizonte ℋ_NLP.</text>
+
+<!-- ===== PANEL INFERIOR: Trayectoria sobre polígono ===== -->
+<rect x="36" y="560" width="1140" height="256" rx="14" fill="#f8fafc" stroke="#0284c7" stroke-width="2"/>
+<text x="606" y="585" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0284c7">Lectura de T_ex sobre el polígono — de S₀ a S₂ bajo ℋ_ex</text>
+
+<!-- Polígono S0 -->
+<g transform="translate(80,590)">
+  <text x="95" y="14" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#92400e">S₀</text>
+  <polygon points="95,35 126,46 137,78 126,110 95,121 64,110 53,78 64,46" fill="none" stroke="#2f4f4f" stroke-width="2"/>
+  <circle cx="95" cy="35" r="9" fill="#6dbb75"/><text x="95" y="39" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="126" cy="46" r="9" fill="#f1c453"/><text x="126" y="50" text-anchor="middle" font-size="10" font-weight="700" fill="#111">U</text>
+  <circle cx="137" cy="78" r="9" fill="#6dbb75"/><text x="137" y="82" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="126" cy="110" r="9" fill="#6dbb75"/><text x="126" y="114" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="95" cy="121" r="9" fill="#f1c453"/><text x="95" y="125" text-anchor="middle" font-size="10" font-weight="700" fill="#111">U</text>
+  <circle cx="64" cy="110" r="9" fill="#6dbb75"/><text x="64" y="114" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="53" cy="78" r="9" fill="#f1c453"/><text x="53" y="82" text-anchor="middle" font-size="10" font-weight="700" fill="#111">U</text>
+  <circle cx="64" cy="46" r="9" fill="#6dbb75"/><text x="64" y="50" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="95" cy="73" r="9" fill="#6dbb75"/><text x="95" y="77" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <text x="95" y="153" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#92400e">P2,P5,P7 en U</text>
+</g>
+
+<!-- flecha S0→S1 -->
+<line x1="262" y1="780.00" x2="310" y2="780.00" stroke="#0284c7" stroke-width="2.5" marker-end="url(#arrB3)"/>
+<text x="286" y="751.10" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0284c7">ν₀: resp+ref</text>
+
+<!-- Polígono S1 -->
+<g transform="translate(320,590)">
+  <text x="95" y="14" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0c4a6e">S₁</text>
+  <polygon points="95,35 126,46 137,78 126,110 95,121 64,110 53,78 64,46" fill="none" stroke="#2f4f4f" stroke-width="2"/>
+  <circle cx="95" cy="35" r="9" fill="#6dbb75"/><text x="95" y="39" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="126" cy="46" r="9" fill="#6dbb75"/><text x="126" y="50" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="137" cy="78" r="9" fill="#6dbb75"/><text x="137" y="82" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="126" cy="110" r="9" fill="#6dbb75"/><text x="126" y="114" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="95" cy="121" r="9" fill="#f1c453"/><text x="95" y="125" text-anchor="middle" font-size="10" font-weight="700" fill="#111">U</text>
+  <circle cx="64" cy="110" r="9" fill="#6dbb75"/><text x="64" y="114" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="53" cy="78" r="9" fill="#6dbb75"/><text x="53" y="82" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="64" cy="46" r="9" fill="#6dbb75"/><text x="64" y="50" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="95" cy="73" r="9" fill="#6dbb75"/><text x="95" y="77" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <text x="95" y="153" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0c4a6e">P2,P7 cerradas · P5 en U</text>
+</g>
+
+<!-- flecha S1→S2 -->
+<line x1="502" y1="780.00" x2="550" y2="780.00" stroke="#0284c7" stroke-width="2.5" marker-end="url(#arrB3)"/>
+<text x="526" y="751.10" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#0284c7">ν₁: obj</text>
+
+<!-- Polígono S2 -->
+<g transform="translate(560,590)">
+  <text x="95" y="14" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#15803d">S₂ ✓ APTO</text>
+  <polygon points="95,35 126,46 137,78 126,110 95,121 64,110 53,78 64,46" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="95" cy="35" r="9" fill="#6dbb75"/><text x="95" y="39" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="126" cy="46" r="9" fill="#6dbb75"/><text x="126" y="50" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="137" cy="78" r="9" fill="#6dbb75"/><text x="137" y="82" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="126" cy="110" r="9" fill="#6dbb75"/><text x="126" y="114" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="95" cy="121" r="9" fill="#6dbb75"/><text x="95" y="125" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="64" cy="110" r="9" fill="#6dbb75"/><text x="64" y="114" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="53" cy="78" r="9" fill="#6dbb75"/><text x="53" y="82" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="64" cy="46" r="9" fill="#6dbb75"/><text x="64" y="50" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <circle cx="95" cy="73" r="9" fill="#6dbb75"/><text x="95" y="77" text-anchor="middle" font-size="10" font-weight="700" fill="#111">0</text>
+  <text x="95" y="153" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#15803d">Todas cerradas</text>
+</g>
+
+<!-- Lectura algebraica -->
+<rect x="770" y="592.56" width="390" height="220" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+<text x="965" y="615.56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#15803d">Lectura algebraica de T_ex</text>
+<text x="786" y="639.56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">• 𝒰_irr(T_ex) = ∅ bajo ℋ_ex → convergencia estructural ✓</text>
+<text x="786" y="659.56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">• HNA garantiza: P2,P7 no regresan a U tras S₁</text>
+<text x="786" y="679.56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">• P5 no regresa a U tras S₂</text>
+<text x="786" y="699.56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">• ΔN(T_ex) = 2 → W(T,2) = {S₀,S₁,S₂}, no O(k)</text>
+<text x="786" y="719.56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#374151">• Fork en n*=1 preserva T y crea T′ sin borrar</text>
+<rect x="786" y="731.56" width="360" height="30" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1"/>
+<text x="966" y="751.56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#15803d" font-weight="700">Suelo completo para el Documento 2 ✓</text>
+
+<!-- Separador y autoría -->
+<line x1="50" y1="868" x2="1150" y2="868" stroke="#cccccc" stroke-width="0.8"/>
+<text x="600" y="884" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#555555">Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA — IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 2026</text>
+</svg>

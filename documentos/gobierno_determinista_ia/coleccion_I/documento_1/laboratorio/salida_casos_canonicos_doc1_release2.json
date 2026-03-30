@@ -1,0 +1,50 @@
+{
+  "caso_1_gamma_suficiente": {
+    "1": "resoluble",
+    "4": "resoluble",
+    "6": "resoluble"
+  },
+  "caso_2_delta_N": 2,
+  "caso_3_ventana_activa_tamano": 3,
+  "caso_4_fork_append_only": "ok",
+  "caso_5_gamma_horizonte_pobre": {
+    "1": "resoluble",
+    "4": "irreducible",
+    "6": "irreducible"
+  },
+  "trayectoria_ejemplo": {
+    "S0": [
+      0,
+      null,
+      0,
+      0,
+      null,
+      0,
+      null,
+      0,
+      0
+    ],
+    "S1": [
+      0,
+      0,
+      0,
+      0,
+      null,
+      0,
+      0,
+      0,
+      0
+    ],
+    "S2": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
