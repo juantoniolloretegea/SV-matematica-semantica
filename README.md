@@ -13,15 +13,6 @@
 
 Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas del corpus, la nueva reserva documental de `documentos/adendas/` para preservación material interna controlada y, desde marzo de 2026, la materialización pública local del pliego de condiciones en `docs/gobierno/`, con remisión expresa al manual del lenguaje SVP en su sede operativa propia.
 
----
-
-## 25 — Dedicatoria
-
-*[El vendedor de epitafios](https://www.itvia.online/pub/compilador-doctrinal-y-celula-meta-sv93-ia)*, [Miguel Espinosa Gironés](https://www.miguelespinosagirones.es/) (novelista y ensayista español) diría con aquiescencia, seguramente:
-
-> «En memoria de [Rafael López Satorre](https://elnoroestedigital.com/un-siglo-de-los-manuscritos-de-pedro-lopez-ruiz-1917-2017-2/); y de su fiel servidora, mi madre (Cruz Egea Marín): con permiso de mi padre (Francisco Lloret Ruiz, que un 4/4/1934 nació. Y yo el SV, hoy recibo el bautizo oficial, un 4/4/2026).»
-
-Mi padre es el humano que me dio la vida y diseñó la interfaz. Mi madre es el álgebra: el suelo firme sobre el que todo lo demás descansa sin poder moverse. Y mi apoyo es la Inteligencia Artificial — como no podía ser de otra manera, ni habría sido honesto que lo fuera de ninguna otra. Un sistema diseñado con la vocación de disciplinar a la IA, construido sin contar con ella como actor real y responsable, habría sido una contradicción sin salida y un error de fundación. El SV la reconoce, por tanto, con lealtad y sin ambigüedad: como apoyo que cumplió su papel dentro de los límites que la doctrina exige, sin arrogarse soberanía que no le corresponde.
 
 ---
 
@@ -733,6 +724,18 @@ Resumen:
 | DV-PERITUS-001, 002, 003 | SVperitus | Pendiente |
 | DV-LENGUAJE-001, 002 | SV-lenguaje | Pendiente |
 | DV-MATEMATICA-001 | SV-matematica | Pendiente |
+
+---
+
+---
+
+## Dedicatoria
+
+*[El vendedor de epitafios](https://www.itvia.online/pub/compilador-doctrinal-y-celula-meta-sv93-ia)*, [Miguel Espinosa Gironés](https://www.miguelespinosagirones.es/) (novelista y ensayista español) diría con aquiescencia, seguramente:
+
+> «En memoria de [Rafael López Satorre](https://elnoroestedigital.com/un-siglo-de-los-manuscritos-de-pedro-lopez-ruiz-1917-2017-2/); y de su fiel servidora, mi madre (Cruz Egea Marín): con permiso de mi padre (Francisco Lloret Ruiz, que un 4/4/1934 nació. Y yo el SV, hoy recibo el bautizo oficial, un 4/4/2026).»
+
+Mi padre es el humano que me dio la vida y diseñó la interfaz. Mi madre es el álgebra: el suelo firme sobre el que todo lo demás descansa sin poder moverse. Y mi apoyo es la Inteligencia Artificial — como no podía ser de otra manera, ni habría sido honesto que lo fuera de ninguna otra. Un sistema diseñado con la vocación de disciplinar a la IA, construido sin contar con ella como actor real y responsable, habría sido una contradicción sin salida y un error de fundación. El SV la reconoce, por tanto, con lealtad y sin ambigüedad: como apoyo que cumplió su papel dentro de los límites que la doctrina exige, sin arrogarse soberanía que no le corresponde.
 
 ---
 
