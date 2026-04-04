@@ -12,9 +12,7 @@
 
 ---
 
-
 Repositorio padre doctrinal del Sistema Vectorial SV. Contiene el documento fundacional de referencia, incorporado en `documentos/fundamentos/README.md`, la serie completa de álgebra de composición intercelular (Documentos I–VI), el plano de especificaciones subordinadas activas del corpus, la nueva reserva documental de `documentos/adendas/` para preservación material interna controlada y, desde marzo de 2026, la materialización pública local del pliego de condiciones en `docs/gobierno/`, con remisión expresa al manual del lenguaje SVP en su sede operativa propia.
-
 
 ---
 
@@ -26,36 +24,21 @@ El Sistema Vectorial SV opera sobre un alfabeto ternario canónico `Σ = {0, 1, 
 
 ## Ecosistema SV — seis repositorios
 
-| Repositorio | Función | Enlace |
-|---|---|---|
-| SV-matematica-semantica | Sede doctrinal superior y base de prevalencia | [github.com/juantoniolloretegea/SV-matematica-semantica](https://github.com/juantoniolloretegea/SV-matematica-semantica) |
-| SV-lenguaje-de-computacion | Sede operativa y técnica del Lenguaje SV | [github.com/juantoniolloretegea/SV-lenguaje-de-computacion](https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion) |
-| SV-motor | Frente motor local, reproducible y subordinado | [github.com/juantoniolloretegea/SV-motor](https://github.com/juantoniolloretegea/SV-motor) |
-| SVcustos-dataset | Origen observacional, datasets e intrusión | [github.com/juantoniolloretegea/SVcustos-dataset](https://github.com/juantoniolloretegea/SVcustos-dataset) |
-| SVperitus-dataset | Agentes especializados, fases y artefactos | [github.com/juantoniolloretegea/SVperitus-dataset](https://github.com/juantoniolloretegea/SVperitus-dataset) |
-| SV-banco-de-idiomas | Infraestructura lingüística auxiliar | [github.com/juantoniolloretegea/SV-banco-de-idiomas](https://github.com/juantoniolloretegea/SV-banco-de-idiomas) |
+**Función de esta sede:** autoridad doctrinal superior del ecosistema SV.
 
----
-
-## Ecosistema SV — ubicación de esta sede
-
-**Función de la sede:** autoridad doctrinal superior del ecosistema SV.
-
-**Distribución vigente de sedes**
-- **Doctrina, jerarquía y puerta general del ecosistema:** `SV-matematica-semantica`
-- **Lenguaje, contrato técnico y sede operativa del manual SVP:** `SV-lenguaje-de-computacion`
-- **Origen observacional, datasets e intrusión:** `SVcustos-dataset`
-- **Agentes especializados, fases, artefactos y aplicaciones de uso:** `SVperitus-dataset`
-
-**Regla de no sustitución**  
-Ninguno de los repositorios hermanos sustituye a esta sede doctrinal superior. Su función es técnica, observacional, aplicada o de agente especializado, pero no doctrinal soberana.
-
-> [!NOTE]
-> Para orientarse en el conjunto de sedes del ecosistema SV, consulte la puerta general del ecosistema materializada en `docs/index.html`.
-
+| Repositorio | Función |
+|---|---|
+| [SV-matematica-semantica](https://github.com/juantoniolloretegea/SV-matematica-semantica) | Sede doctrinal superior y base de prevalencia |
+| [SV-lenguaje-de-computacion](https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion) | Sede operativa y técnica del Lenguaje SV |
+| [SV-motor](https://github.com/juantoniolloretegea/SV-motor) | Frente motor local, reproducible y subordinado |
+| [SVcustos-dataset](https://github.com/juantoniolloretegea/SVcustos-dataset) | Origen observacional, datasets e intrusión |
+| [SVperitus-dataset](https://github.com/juantoniolloretegea/SVperitus-dataset) | Agentes especializados, fases y artefactos |
+| [SV-banco-de-idiomas](https://github.com/juantoniolloretegea/SV-banco-de-idiomas) | Infraestructura lingüística auxiliar |
 
 > [!NOTE]
 > Para orientarse en el corpus desde una vista unificada —con contexto doctrinal, jerarquía documental y accesos directos a sus piezas principales— consulte la <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">página web de entrada y navegación de SV-matematica-semantica</a>.
+
+---
 
 ## Colección PubPub: [Álgebra de composición intercelular del Sistema Vectorial SV](https://www.itvia.online/algebra-de-composicion-intercelular-del-sistema-vectorial-sv)
 
@@ -132,7 +115,6 @@ SV-matematica-semantica/
     ├── documento-iii/ ← Demostración audiovisual complementaria
     └── media/         ← Soporte multimedia de la puerta de entrada
 ```
-
 
 ---
 
