@@ -30,7 +30,7 @@ El Sistema Vectorial SV opera sobre un alfabeto ternario canónico `Σ = {0, 1, 
 |---|---|
 | [SV-matematica-semantica](https://github.com/juantoniolloretegea/SV-matematica-semantica) | Sede doctrinal superior y base de prevalencia |
 | [SV-lenguaje-de-computacion](https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion) | Sede operativa y técnica del Lenguaje SV |
-| [SV-motor](https://github.com/juantoniolloretegea/SV-motor) | Frente motor local, reproducible y subordinado |
+| [SV-motor](https://github.com/juantoniolloretegea/SV-motor) | Motor de inteligencia artificial del ecosistema SV — determinista, reproducible y subordinado a la doctrina |
 | [SVcustos-dataset](https://github.com/juantoniolloretegea/SVcustos-dataset) | Origen observacional, datasets e intrusión |
 | [SVperitus-dataset](https://github.com/juantoniolloretegea/SVperitus-dataset) | Agentes especializados, fases y artefactos |
 | [SV-banco-de-idiomas](https://github.com/juantoniolloretegea/SV-banco-de-idiomas) | Infraestructura lingüística auxiliar |
