@@ -498,7 +498,7 @@ El operador primitivo de cambio del SV ya no es una derivada temporal. Es la **d
 Sea $q:\Gamma\to A$ un observable acumulable y $\omega_j>0$ un peso factual. Se define:
 
 $$
-\mathfrak A_{\Gamma[a,b]}(q):=\sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
+\mathfrak A_{\Gamma\lbrack a,b\rbrack}(q):=\sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
 $$
 
 En particular:
@@ -533,12 +533,12 @@ $$
 
 ## 4. Relación fundamental con la derivada
 
-Si $q_j=\mathfrak D_\Gamma f(j)$, entonces: $\mathfrak A_{\Gamma[a,b]}(q)=f_b-f_a.$ Ésta es la primera relación fundamental entre cambio y acumulación dentro del SV.
+Si $q_j=\mathfrak D_\Gamma f(j)$, entonces: $\mathfrak A_{\Gamma\lbrack a,b\rbrack}(q)=f_b-f_a.$ Ésta es la primera relación fundamental entre cambio y acumulación dentro del SV.
 
 **Demostración.** Por definición de acumulación factual:
 
 $$
-\mathfrak A_{\Gamma[a,b]}(q) = \sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
+\mathfrak A_{\Gamma\lbrack a,b\rbrack}(q) = \sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
 $$
 
 Sustituyendo $q_j = \mathfrak D_\Gamma f(j) = (f_{j+1}-f_j)/\omega(\nu_j)$:
@@ -549,7 +549,7 @@ $$
 
 El último paso aplica la telescopía de la derivada de suceso. $\square$
 
-*Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_\Gamma f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
+*Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_\Gamma f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak{A}_{\Gamma\lbrack 0,2\rbrack}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
 
 
 ## 5. Lectura ternaria inducida
@@ -649,7 +649,7 @@ Una posición en $U$ por suceso. Segunda derivada $\mathfrak{D}^2_\Gamma f \equi
 **Plano V — Acumulación factual (XI §4).** Relación fundamental:
 
 $$
-\mathfrak{A}_{\Gamma[0,3]}(\mathfrak{D}_\Gamma f) = -3 = f(\nu_3)-f(\nu_0).
+\mathfrak{A}_{\Gamma\lbrack 0,3\rbrack}(\mathfrak{D}_\Gamma f) = -3 = f(\nu_3)-f(\nu_0).
 $$
 
 Coste de memoria activa: $O(3)$ (Lloret Egea, 2026i).
@@ -1918,7 +1918,7 @@ La integral del campo a lo largo del mosaico orientado $M$: $\int_M \mathcal{F}\
 La acumulación de las variaciones del campo a lo largo de $\Gamma$ coincide con la diferencia de valores extremos:
 
 $$
-\mathfrak{A}_{\Gamma[C_0, C_3]}(\mathfrak{D}_{\Gamma}\mathcal{F}) = \mathcal{F}(C_3) - \mathcal{F}(C_0) = 0 - 3 = -3.
+\mathfrak{A}_{\Gamma\lbrack C_0, C_3\rbrack}(\mathfrak{D}_{\Gamma}\mathcal{F}) = \mathcal{F}(C_3) - \mathcal{F}(C_0) = 0 - 3 = -3.
 $$
 
 Este resultado es coherente con el obtenido en XII §7 ($\mathfrak{A}=-3$): el teorema de balance confirma la trazabilidad de extremo a extremo.
