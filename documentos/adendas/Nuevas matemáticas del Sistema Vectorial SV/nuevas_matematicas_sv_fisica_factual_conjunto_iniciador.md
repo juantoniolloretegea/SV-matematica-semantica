@@ -339,15 +339,15 @@ $$
 \Delta_{\nu_j}f:=f_{j+1}-f_j
 $$
 
-y, cuando exista peso factual positivo $\omega(\nu_j)$, $\mathfrak D_\Gamma f(j):=\frac{f_{j+1}-f_j}{\omega(\nu_j)}.$ **Estado B.**
+y, cuando exista peso factual positivo $\omega(\nu_j)$, $\mathfrak D_{\Gamma} f(j):=\frac{f_{j+1}-f_j}{\omega(\nu_j)}.$ **Estado B.**
 
 ### 3.3. Integral definida → acumulación factual
 
 $$
-\mathfrak A_\Gamma(f):=\sum_{j=0}^{k-1} f_j\thinspace \omega(\nu_j)
+\mathfrak A_{\Gamma}(f):=\sum_{j=0}^{k-1} f_j\thinspace \omega(\nu_j)
 $$
 
-y, cuando proceda, $\lim_{\|P_\Gamma\|\to 0}\sum f_j\thinspace \omega(\nu_j).$ **Estado B.**
+y, cuando proceda, $\lim_{\|P_{\Gamma}\|\to 0}\sum f_j\thinspace \omega(\nu_j).$ **Estado B.**
 
 ### 3.4. Integral curvilínea → trayectoria con partición
 
@@ -450,10 +450,10 @@ Para $j\in\lbrace 0,\dots,m-1\rbrace$, se define: $\Delta_{\nu_j}q:=q_{j+1}-q_j.
 
 ## 3. Derivada de trayectoria
 
-Sin normalización: $(\Delta_\Gamma q)(j):=\Delta_{\nu_j}q.$ Con peso factual positivo $\omega(\nu_j)$:
+Sin normalización: $(\Delta_{\Gamma} q)(j):=\Delta_{\nu_j}q.$ Con peso factual positivo $\omega(\nu_j)$:
 
 $$
-\mathfrak D_\Gamma q(j):=\frac{q_{j+1}-q_j}{\omega(\nu_j)}.
+\mathfrak D_{\Gamma} q(j):=\frac{q_{j+1}-q_j}{\omega(\nu_j)}.
 $$
 
 ## 4. Derivadas de orden superior
@@ -504,7 +504,7 @@ $$
 En particular:
 
 $$
-\mathfrak A_\Gamma(q):=\sum_{j=0}^{m-1} q_j\thinspace \omega(\nu_j).
+\mathfrak A_{\Gamma}(q):=\sum_{j=0}^{m-1} q_j\thinspace \omega(\nu_j).
 $$
 
 ## 2. Partición factual
@@ -516,13 +516,13 @@ Sea $P_{\Gamma}=\lbrace 0=i_0<i_1<\cdots<i_r=m\rbrace$ una partición factual. L
 - recorrido simple:
 
 $$
-\mathcal R_\Gamma(q)=(q_0,\dots,q_m)
+\mathcal R_{\Gamma}(q)=(q_0,\dots,q_m)
 $$
 
 - recorrido ponderado:
 
 $$
-\mathcal R_\Gamma^\omega(q)=(q_0\omega_0,\dots,q_{m-1}\omega_{m-1})
+\mathcal R_{\Gamma}^\omega(q)=(q_0\omega_0,\dots,q_{m-1}\omega_{m-1})
 $$
 
 - circulación factual:
@@ -533,7 +533,7 @@ $$
 
 ## 4. Relación fundamental con la derivada
 
-Si $q_j=\mathfrak D_\Gamma f(j)$, entonces: $\mathfrak A_{\Gamma\lbrack a,b\rbrack}(q)=f_b-f_a.$ Ésta es la primera relación fundamental entre cambio y acumulación dentro del SV.
+Si $q_j=\mathfrak D_{\Gamma} f(j)$, entonces: $\mathfrak A_{\Gamma\lbrack a,b\rbrack}(q)=f_b-f_a.$ Ésta es la primera relación fundamental entre cambio y acumulación dentro del SV.
 
 **Demostración.** Por definición de acumulación factual:
 
@@ -541,7 +541,7 @@ $$
 \mathfrak A_{\Gamma\lbrack a,b\rbrack}(q) = \sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
 $$
 
-Sustituyendo $q_j = \mathfrak D_\Gamma f(j) = (f_{j+1}-f_j)/\omega(\nu_j)$:
+Sustituyendo $q_j = \mathfrak D_{\Gamma} f(j) = (f_{j+1}-f_j)/\omega(\nu_j)$:
 
 $$
 \sum_{j=a}^{b-1} \frac{f_{j+1}-f_j}{\omega(\nu_j)}\thinspace \omega(\nu_j) = \sum_{j=a}^{b-1}(f_{j+1}-f_j) = f_b - f_a.
@@ -549,7 +549,7 @@ $$
 
 El último paso aplica la telescopía de la derivada de suceso. $\square$
 
-*Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_\Gamma f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak{A}_{\Gamma\lbrack 0,2\rbrack}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
+*Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_{\Gamma} f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak{A}_{\Gamma\lbrack 0,2\rbrack}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
 
 
 ## 5. Lectura ternaria inducida
@@ -641,15 +641,15 @@ Observable compatible (VII §1): $f(\nu_j)=|\lbrace i : v_j(i)=U\rbrace|$, con $
 **Plano IV — Derivada de suceso (X §2).** Con $\omega(\nu_j)=1$:
 
 $$
-\mathfrak{D}_\Gamma f(0)=-1,\quad \mathfrak{D}_\Gamma f(1)=-1,\quad \mathfrak{D}_\Gamma f(2)=-1.
+\mathfrak{D}_{\Gamma} f(0)=-1,\quad \mathfrak{D}_{\Gamma} f(1)=-1,\quad \mathfrak{D}_{\Gamma} f(2)=-1.
 $$
 
-Una posición en $U$ por suceso. Segunda derivada $\mathfrak{D}^2_\Gamma f \equiv 0$: variación lineal.
+Una posición en $U$ por suceso. Segunda derivada $\mathfrak{D}^2_{\Gamma} f \equiv 0$: variación lineal.
 
 **Plano V — Acumulación factual (XI §4).** Relación fundamental:
 
 $$
-\mathfrak{A}_{\Gamma\lbrack 0,3\rbrack}(\mathfrak{D}_\Gamma f) = -3 = f(\nu_3)-f(\nu_0).
+\mathfrak{A}_{\Gamma\lbrack 0,3\rbrack}(\mathfrak{D}_{\Gamma} f) = -3 = f(\nu_3)-f(\nu_0).
 $$
 
 Coste de memoria activa: $O(3)$ (Lloret Egea, 2026i).
@@ -1548,14 +1548,14 @@ Una familia $\Phi_\lambda$ es admisible si:
 ### 6.5. Separabilidad
 
 $$
-\mathcal T_\Phi\lbrack q_1\rbrack=\mathcal T_\Phi\lbrack q_2\rbrack \implies q_1=q_2
+\mathcal T_{\Phi}\lbrack q_1\rbrack=\mathcal T_{\Phi}\lbrack q_2\rbrack \implies q_1=q_2
 \quad\text{para todo } q_1,q_2\in\mathcal Q.
 $$
 
 ### 6.6. Inversa factual
 
 $$
-\mathcal T_\Phi^{-1}:\mathrm{Im}(\mathcal T_\Phi)\to \mathcal Q/\sim
+\mathcal T_{\Phi}^{-1}:\mathrm{Im}(\mathcal T_{\Phi})\to \mathcal Q/\sim
 $$
 
 con tres regímenes:
@@ -1567,7 +1567,7 @@ con tres regímenes:
 
 
 $$
-\kappa^{SV}_{\mathrm{rec}}(\Phi,q) = \frac{\|\delta q\|_{SV}}{\|\delta \mathcal T_\Phi\lbrack q\rbrack\|_{SV}}.
+\kappa^{SV}_{\mathrm{rec}}(\Phi,q) = \frac{\|\delta q\|_{SV}}{\|\delta \mathcal T_{\Phi}\lbrack q\rbrack\|_{SV}}.
 $$
 
 
@@ -1576,7 +1576,7 @@ $$
 Si $\Phi$ es separante y estable sobre $\mathcal Q$, entonces
 
 $$
-\mathcal T_\Phi^{-1}\bigl(\mathcal T_\Phi\lbrack q\rbrack\bigr)=q.
+\mathcal T_{\Phi}^{-1}\bigl(\mathcal T_{\Phi}\lbrack q\rbrack\bigr)=q.
 $$
 
 Si $\Phi$ no es separante, la salida correcta es una clase de equivalencia o `U` reconstructiva.
@@ -1945,7 +1945,7 @@ En $\nu_3 = \mathrm{APTO}$: $\nabla \mathcal{F}(\nu_3) = (0, 0)$. El jacobiano d
 | Dominio compatible (VII) | $f \in \mathbb{N}_0$ | aditivo, compatible |
 | Clasificación $\Gamma_{\mathcal{H}}$ (IX) | $\mathcal{U}_{\mathrm{irr}}=\varnothing$ | frame gobernable |
 | Residual (IX §2) | $\mathcal{R}(\nu_0)=3 \to 0$ | descenso monotónico |
-| Derivada de suceso (X) | $\mathfrak{D}_\Gamma f \equiv -1$ | constante |
+| Derivada de suceso (X) | $\mathfrak{D}_{\Gamma} f \equiv -1$ | constante |
 | Acumulación (XI) | $\mathfrak{A}=-3=f_3-f_0$ | telescopía ✓ |
 | Sensibilidad (XII §1) | $\mathcal{S}_a < 0$ | cierre activo |
 | Jacobiano en APTO (XII §2) | $J_{\mathrm{SV}}(\nu_3)=0$ | equilibrio ✓ |
