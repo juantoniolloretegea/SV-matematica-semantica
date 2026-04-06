@@ -1,0 +1,123 @@
+{
+  "lab": "lab_04_recorrido_completo",
+  "seccion": "XXIV §15",
+  "operadores_calculo": {
+    "f": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "derivadas": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "acumulacion": -3.0,
+    "telescopia_ok": true,
+    "gradiente_nu0": [
+      -1.0,
+      -1.0
+    ],
+    "jacobiano_clausura_nu3": [
+      0.0,
+      0.0
+    ],
+    "clasificacion_final": "APTO"
+  },
+  "operadores_geometricos": {
+    "phi_F01": 3,
+    "phi_F12": 2,
+    "phi_F23": 1,
+    "div_C1": 1.0,
+    "integral": 6,
+    "balance": -3
+  },
+  "tabla_verificacion": [
+    {
+      "operador": "Dominio compatible (VII)",
+      "formula": "f ∈ ℕ₀",
+      "valor": "[3, 2, 1, 0]",
+      "ok": true
+    },
+    {
+      "operador": "Clasificación Γ_ℋ (IX)",
+      "formula": "𝒰_irr=∅",
+      "valor": "True",
+      "ok": true
+    },
+    {
+      "operador": "Residual (IX §2)",
+      "formula": "R(ν₀)=3→0",
+      "valor": "3→0",
+      "ok": true
+    },
+    {
+      "operador": "Derivada suceso (X)",
+      "formula": "𝔇f≡-1",
+      "valor": "[-1.0, -1.0, -1.0]",
+      "ok": true
+    },
+    {
+      "operador": "Acumulación (XI)",
+      "formula": "𝔄=-3=f₃-f₀",
+      "valor": "-3.0",
+      "ok": true
+    },
+    {
+      "operador": "Sensibilidad (XII §1)",
+      "formula": "𝒮_a < 0",
+      "valor": "-1.0",
+      "ok": true
+    },
+    {
+      "operador": "Jacobiano en APTO (XII §2)",
+      "formula": "J(ν₃)=0",
+      "valor": "0.0",
+      "ok": true
+    },
+    {
+      "operador": "Flujo factual (XVIII)",
+      "formula": "Φ=3 por F₀₁",
+      "valor": "3",
+      "ok": true
+    },
+    {
+      "operador": "Divergencia (XVIII §2)",
+      "formula": "Div(C₁)=1",
+      "valor": "1.0",
+      "ok": true
+    },
+    {
+      "operador": "Integración (XIX)",
+      "formula": "∫_M=6",
+      "valor": "6",
+      "ok": true
+    },
+    {
+      "operador": "Balance (XX)",
+      "formula": "𝔄=-3 ✓",
+      "valor": "-3",
+      "ok": true
+    },
+    {
+      "operador": "Gradiente (XXIV §4)",
+      "formula": "∇F=(-1,-1)",
+      "valor": "[-1.0, -1.0]",
+      "ok": true
+    },
+    {
+      "operador": "Jacobiano clausura",
+      "formula": "J_cls=0",
+      "valor": "[0.0, 0.0]",
+      "ok": true
+    },
+    {
+      "operador": "Dictamen",
+      "formula": "κ_F=APTO",
+      "valor": "APTO",
+      "ok": true
+    }
+  ],
+  "veredicto": "APTO"
+}

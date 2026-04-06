@@ -1,0 +1,88 @@
+{
+  "lab": "lab_01_calculo_suceso",
+  "version": "1.0",
+  "casos_canonicos": {
+    "C1_constante": {
+      "f": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "derivadas": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "acumulacion": 0.0,
+      "telescopia_ok": true,
+      "clasificacion_final": null
+    },
+    "C2_lineal": {
+      "f": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "derivadas": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "acumulacion": -3.0,
+      "telescopia_ok": true,
+      "clasificacion_final": "APTO"
+    },
+    "C3_curvatura": {
+      "f": [
+        4,
+        2,
+        1,
+        0
+      ],
+      "derivadas": [
+        -2.0,
+        -1.0,
+        -1.0
+      ],
+      "acumulacion": -4.0,
+      "telescopia_ok": true,
+      "clasificacion_final": null
+    },
+    "C4_apertura_resolucion": {
+      "f": [
+        1,
+        3,
+        1,
+        0
+      ],
+      "derivadas": [
+        2.0,
+        -2.0,
+        -1.0
+      ],
+      "acumulacion": -1.0,
+      "telescopia_ok": true,
+      "clasificacion_final": "APTO"
+    },
+    "C5_reapertura_fork": {
+      "f": null,
+      "derivadas": null,
+      "acumulacion": null,
+      "telescopia_ok": null,
+      "clasificacion_final": null
+    }
+  },
+  "nmsv_detectados": {
+    "NMSV001": true,
+    "NMSV002": true,
+    "NMSV003": true,
+    "NMSV004": true,
+    "NMSV005": true,
+    "NMSV006": true,
+    "NMSV007": true,
+    "NMSV008": true
+  },
+  "veredicto": "APTO"
+}

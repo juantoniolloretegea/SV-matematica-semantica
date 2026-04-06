@@ -1,0 +1,68 @@
+{
+  "lab": "lab_03_geometrico",
+  "casos": {
+    "G1": {
+      "caso": "G1",
+      "descripcion": "Dos unidades con frontera interna cancelable",
+      "phi_F01": 3,
+      "div_C0": -3.0,
+      "div_C1": 3.0,
+      "cancelacion_interna": {
+        "internal_flux_net": 3.0,
+        "u_in_internal": 0,
+        "cancellation_ok": false
+      },
+      "balance": {
+        "algebraic_balance": -1,
+        "external_flux": -1,
+        "div_sum": 0.0,
+        "balance_ok": true,
+        "correspondencia_estructural": true
+      },
+      "ok": true
+    },
+    "G2": {
+      "caso": "G2",
+      "descripcion": "Tres unidades con orientación mixta",
+      "divergencias": {
+        "C0": -3.0,
+        "C1": 1.0,
+        "C2": 2.0
+      },
+      "balance": {
+        "algebraic_balance": -2,
+        "external_flux": -2,
+        "div_sum": 0.0,
+        "balance_ok": true,
+        "correspondencia_estructural": true
+      },
+      "ok": true
+    },
+    "G3": {
+      "caso": "G3",
+      "descripcion": "Frontera total insuficiente",
+      "fronteras_definidas": 0,
+      "error_detectado": true,
+      "mensaje": "Sin fronteras declaradas: flujo y divergencia no computables",
+      "ok": true
+    },
+    "G4": {
+      "caso": "G4",
+      "descripcion": "Campo factual en U — verificación de preservación",
+      "phi_F01": 3,
+      "phi_F12": "U",
+      "div_C1": "U",
+      "U_preservada": true,
+      "ok": true
+    },
+    "G5": {
+      "caso": "G5",
+      "descripcion": "Ciclo factual mínimo — circulación no nula",
+      "circulacion": 5,
+      "es_irrotacional": false,
+      "nota": "Campo convergente: circulación ≠ 0 (no es irrotacional). Un campo irrotacional requeriría que F sea constante en el ciclo.",
+      "ok": true
+    }
+  },
+  "veredicto": "APTO"
+}

@@ -1,0 +1,73 @@
+{
+  "lab": "lab_02_ejemplo_director",
+  "seccion": "XII §7",
+  "datos": {
+    "f": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "omega": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "n_posiciones": 9,
+    "base": 3
+  },
+  "planos": {
+    "plano_I": {
+      "f": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "ok": true
+    },
+    "plano_II": {
+      "delta_N": 3,
+      "ok": true
+    },
+    "plano_III": {
+      "U_irr": 0,
+      "residual_nu0": 3,
+      "clasificaciones": [
+        "INDETERMINADO",
+        "APTO",
+        "APTO",
+        "APTO"
+      ],
+      "limite": "APTO",
+      "ok": true
+    },
+    "plano_IV": {
+      "derivadas": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "segunda_derivada": [
+        0.0,
+        0.0
+      ],
+      "ok": true
+    },
+    "plano_V": {
+      "acumulacion": -3.0,
+      "delta": -3,
+      "ok": true
+    },
+    "plano_VI": {
+      "sensibilidad_nu0": -1.0,
+      "ok": true
+    },
+    "plano_VII": {
+      "jacobiano_nu3": 0.0,
+      "ok": true
+    }
+  },
+  "veredicto": "APTO"
+}

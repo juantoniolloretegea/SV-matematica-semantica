@@ -1,0 +1,39 @@
+{
+  "lab": "lab_07_higgs_factual",
+  "seccion": "III §3 Laboratorio director",
+  "trayectoria_evidencia": {
+    "f": [
+      4,
+      2,
+      0
+    ],
+    "derivadas": [
+      -2.0,
+      -2.0
+    ],
+    "acumulacion": -4.0,
+    "dictamen_final": "APTO"
+  },
+  "jacobiano_clausura": 0.0,
+  "sensibilidad_nu0": -1.0,
+  "fork_fondo": {
+    "f": [
+      3,
+      1,
+      0
+    ],
+    "dictamen_final": "APTO",
+    "append_only_ok": true
+  },
+  "u_persistente_sin_cierre": {
+    "f": [
+      1,
+      1
+    ],
+    "clasificaciones": [
+      "APTO",
+      "APTO"
+    ]
+  },
+  "veredicto": "APTO"
+}

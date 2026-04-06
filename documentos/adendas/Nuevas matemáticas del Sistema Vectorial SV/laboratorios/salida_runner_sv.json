@@ -1,0 +1,72 @@
+{
+  "runner": "runner_sv_nmsv",
+  "version": "1.0",
+  "labs": [
+    {
+      "lab": "lab_01_calculo_suceso.py",
+      "returncode": 0,
+      "stdout": "cumulación = 0.0\n    telescopía  ✓  [𝔄(𝔇f)=0.000, δ=0.000]\n\n  C2_lineal:\n    f(νj)       = [3, 2, 1, 0]\n    derivadas   = [-1.0, -1.0, -1.0]\n    acumulación = -3.0\n    telescopía  ✓  [𝔄(𝔇f)=-3.000, δ=-3.000]\n    clasificaciones: ['INDETERMINADO', 'APTO', 'APTO', 'APTO']\n\n  C3_curvatura:\n    f(νj)       = [4, 2, 1, 0]\n    derivadas   = [-2.0, -1.0, -1.0]\n    acumulación = -4.0\n    telescopía  ✓  [𝔄(𝔇f)=-4.000, δ=-4.000]\n\n  C4_apertura_resolucion:\n    f(νj)       = [1, 3, 1, 0]\n    derivadas   = [2.0, -2.0, -1.0]\n    acumulación = -1.0\n    telescopía  ✓  [𝔄(𝔇f)=-1.000, δ=-1.000]\n    clasificación final: APTO\n\n  C5_reapertura_fork:\n\n── CATÁLOGO NMSV (XV §5) ──\n  ✓ NMSV001 — Trayectoria vacía\n  ✓ NMSV002 — Peso ω(ν1) = 0 no positivo\n  ✓ NMSV003 — Observable no compatible: valor '2' ∉ K₃\n  ✓ NMSV004 — Longitud incompatible: f=3, ω=2\n  ✓ NMSV005 — Lectura ternaria mal declarada: bool Python ≠ K₃\n  ✓ NMSV006 — Degradación ilegítima de U: la posición P3=U no tiene suceso de cierre\n  ✓ NMSV007 — Violación append-only en el paso 1: frames anteriores modificados\n  ✓ NMSV008 — Cierre favorable ilegítimo: n0 ≥ T pero n1 > 0 — no se puede declarar \n\n── VERIFICACIONES CLAVE ──\n  ✓ f(ν) = [3,2,1,0]\n  ✓ derivadas = [-1,-1,-1]  (descenso uniforme)\n  ✓ acumulación = -3 = f(ν₃)-f(ν₀)  (telescopía)\n  ✓ clasificación final: APTO\n  ✓ C3 segunda derivada = [1.0, 0.0] (curvatura discreta presente)\n\n── VEREDICTO FINAL DEL LAB 01 ──\n  Clasificación: APTO\n  Salida congelada → salida_calculo_suceso.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    },
+    {
+      "lab": "lab_02_ejemplo_director.py",
+      "returncode": 0,
+      "stdout": "\n\n── Plano I — Dominio compatible (VII §1) ──\n  f(νj) = [3, 2, 1, 0]\n  ✓ Observable compatible f ∈ ℕ₀; valores verificados\n\n── Plano II — Equivalente clásico (VIII §2) ──\n  Descenso f(ν₀)=3 → f(ν₃)=0 — análogo función convergente\n  ΔN = 3  (profundidad de convergencia)\n  ✓ ΔN = 3\n\n── Plano III — U, residual y límite (IX) ──\n  𝒰_irr(ν₀) = ∅  (P1, P4, P7 son U-resolubles)\n  Residual R(ν₀) = 3\n  Clasificaciones por frame: ['INDETERMINADO', 'APTO', 'APTO', 'APTO']\n  κ_F(Γ) = APTO en ν₃ (f(ν₃)=0)\n  ✓ Límite estructural APTO alcanzado en ν₃\n\n── Plano IV — Derivada de suceso (X §2) ──\n  𝔇_Γ f(j) = [-1.0, -1.0, -1.0]\n  Segunda derivada 𝔇²_Γ f = [0.0, 0.0]\n  ✓ Derivada constante = -1  (una U por suceso)\n  ✓ Segunda derivada = 0  (variación lineal)\n\n── Plano V — Acumulación factual (XI §4) ──\n  𝔄_Γ[0,3](𝔇_Γ f) = -3.0\n  f(ν₃) - f(ν₀) = -3\n  |diferencia| = 0.00e+00\n  ✓ 𝔄 = -3 = f(ν₃)-f(ν₀)  (relación fundamental)\n\n── Plano VI — Sensibilidad factual (XII §1) ──\n  f base en ν₀ = 3, f perturbada en ν₀ = 2\n  𝒮_a1(f; ν₀) = (2 - 3) / 1.0 = -1.0\n  ✓ Sensibilidad = -1.0 < 0  (activar suceso adicional reduce f)\n\n── Plano VII — Jacobiano estructural (XII §2) ──\n  J_SV(ν₃)[a1] = (0 - 0) / 1.0 = 0.0\n  ✓ J_SV(ν₃) = 0  (punto de convergencia insensible a variaciones)\n\n── CIERRE DEL RECORRIDO ──\n  Todos los planos verificados: SÍ\n  Clasificación: APTO\n  ΔN=3, derivada uniforme, acumulación telescópica ✓\n  residual monotónico, jacobiano nulo en cierre ✓\n  Salida congelada → salida_ejemplo_director.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    },
+    {
+      "lab": "lab_03_geometrico.py",
+      "returncode": 0,
+      "stdout": "======================================================================\nLAB 03 — Laboratorio geométrico: casos G1–G5  (XXI, XXII, XXIV §3.11-12)\n======================================================================\n\n── G1: Dos unidades con frontera interna cancelable ✓\n   Φ(F₀₁) = 3\n   Div(C₁) = 3.0\n   Cancelación interna: neto=3.0 ok=False\n   Balance: Δ=-1, flujo_ext=-1, ok=True\n\n── G2: Tres unidades con orientación mixta ✓\n   Divergencias: {'C0': -3.0, 'C1': 1.0, 'C2': 2.0}\n   Balance: Δ=-2, flujo_ext=-2, ok=True\n\n── G3: Frontera total insuficiente ✓\n   → Sin fronteras declaradas: flujo y divergencia no computables\n\n── G4: Campo factual en U — verificación de preservación ✓\n   Φ(F₀₁) = 3\n   Div(C₁) = U\n   U preservada: True\n\n── G5: Ciclo factual mínimo — circulación no nula ✓\n   Circulación = 5\n\n── VERIFICACIONES CLAVE ──\n  ✓ G1: Φ(F₀₁) = 3  (campo de C₀=3 a través de F₀₁)\n  ✓ G3: frontera insuficiente detectada\n  ✓ G4: U preservada en campo no tipado\n  ✓ G2: balance ok, Δ=-2\n\n── VEREDICTO FINAL DEL LAB 03 ──\n  Clasificación: APTO\n  Salida congelada → salida_geometrico.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    },
+    {
+      "lab": "lab_04_recorrido_completo.py",
+      "returncode": 0,
+      "stdout": "\n  𝔇_Γ f(j)     = [-1.0, -1.0, -1.0]\n  𝔄 = -3.0  = f(ν₃)-f(ν₀) = -3\n  ∇F(ν₀)       = (-1.0, -1.0)\n  J_clausura   = (0.0, 0.0)\n  Clasificaciones: ['INDETERMINADO', 'APTO', 'APTO', 'APTO']\n\n── B. Operadores geométricos ──\n  Flujo Φ(F₀₁) = 3\n  Flujo Φ(F₁₂) = 2\n  Flujo Φ(F₂₃) = 1\n  Div(C₁) = (Φ_in=3 - Φ_out=2) / ω(C₁)=1 = 1.0\n  ∫_M F dω = 3 + 2 + 1 + 0 = 6\n  Balance ΔF = F(C₃)-F(C₀) = 0-3 = -3\n\n── TABLA RESUMEN (verificación contra documento) ──\n  ✓ Dominio compatible (VII)       f ∈ ℕ₀               = [3, 2, 1, 0]\n  ✓ Clasificación Γ_ℋ (IX)         𝒰_irr=∅              = True\n  ✓ Residual (IX §2)               R(ν₀)=3→0            = 3→0\n  ✓ Derivada suceso (X)            𝔇f≡-1                = [-1.0, -1.0, -1.0]\n  ✓ Acumulación (XI)               𝔄=-3=f₃-f₀           = -3.0\n  ✓ Sensibilidad (XII §1)          𝒮_a < 0              = -1.0\n  ✓ Jacobiano en APTO (XII §2)     J(ν₃)=0              = 0.0\n  ✓ Flujo factual (XVIII)          Φ=3 por F₀₁          = 3\n  ✓ Divergencia (XVIII §2)         Div(C₁)=1            = 1.0\n  ✓ Integración (XIX)              ∫_M=6                = 6\n  ✓ Balance (XX)                   𝔄=-3 ✓               = -3\n  ✓ Gradiente (XXIV §4)            ∇F=(-1,-1)           = [-1.0, -1.0]\n  ✓ Jacobiano clausura             J_cls=0              = [0.0, 0.0]\n  ✓ Dictamen                       κ_F=APTO             = APTO\n\n── VEREDICTO FINAL DEL LAB 04 ──\n  Todos los operadores verificados: SÍ\n  Clasificación: APTO\n  Salida congelada → salida_recorrido_completo.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    },
+    {
+      "lab": "lab_05_maxwell_factual.py",
+      "returncode": 0,
+      "stdout": "LAB 05 — Maxwell Factual Sintético (Sección I §3)\nSin tiempo soberano: trayectoria indexada por sucesos.\n======================================================================\n\n── 1. Observable compatible (sin tiempo soberano) ──\n  f(νj) = [3, 1, 0]  [conteo de posiciones en U por suceso]\n  ✓ Trayectoria de 3 sucesos (no 3 instantes temporales)\n  ✓ f desciente desde 3 (indeterminado) hasta 0 (APTO)\n\n── 2. Derivada de suceso del residual ──\n  𝔇_Γ f(j) = [-2.0, -1.0]\n  ✓ Derivadas negativas: convergencia confirmada sin tiempo soberano\n\n── 3. Acumulación factual (circulación sobre trayectorias cerradas) ──\n  𝔄 = -3.0  = f(ν₂)-f(ν₀) = -3\n  ✓ Acumulación telescópica verificada\n\n── 4. Sensibilidad respecto del parámetro de contorno ──\n  𝒮_a(f; ν₀) = -1.0  (aumentar precisión del contorno reduce f)\n  ✓ Sensibilidad = -1.0 < 0 — mejor contorno reduce indeterminación\n\n── 5. Dictamen por frame (frontera factual explícita) ──\n  Clasificaciones: ['INDETERMINADO', 'APTO', 'APTO']\n  ✓ κ_F(Γ) = APTO en ν₂\n\n── 6. Caso de violación estructural (P1=1) ──\n  Célula con P1=1 (infracción) → NO_APTO\n  ✓ Frame con infracción P1=1 → NO_APTO (no APTO)\n\n── VERIFICACIONES CLAVE (Sección I §2, I §3) ──\n  ✓ Residuales leídos sin tiempo soberano\n  ✓ Acumulación factual trazable\n  ✓ Sensibilidad respecto de contorno declarada\n  ✓ Sin estadística: lectura estrictamente ternaria\n  ✓ Dictamen APTO alcanzado por cierre de indeterminaciones\n\n  Clasificación: APTO\n  Salida congelada → salida_maxwell_factual.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    },
+    {
+      "lab": "lab_06_gravedad_factual.py",
+      "returncode": 0,
+      "stdout": "======================================================================\nLAB 06 — Gravedad Factual Sintética (Sección II §4)\nEvento gravitacional: coincidencia, reapertura, append-only.\n======================================================================\n\n── 1. Trayectoria principal — evento gravitacional ──\n  f(νj) = [3, 1, 0]\n  𝔇_Γ f(j) = [-2.0, -1.0]\n  𝔄 = -3.0 = f(ν₂)-f(ν₀) = -3\n  Clasificaciones: ['INDETERMINADO', 'APTO', 'APTO']\n  ✓ Coincidencia verificada en 3 sucesos — APTO\n\n── 2. Reapertura legítima (fork por ruido sísmico) ──\n  Fork f(νj) = [2, 1, 0]\n  Fork acumulación = -2.0\n  Fork clasificaciones: ['APTO', 'APTO', 'APTO']\n  ✓ Trayectoria principal intacta (append-only verificado)\n  ✓ Fork cierra en APTO — reapertura legítima procesada\n\n── 3. Sensibilidad al parámetro de veto sísmico ──\n  𝒮_a(f; ν₀) = -1.0 (mejor veto reduce U en ν₀)\n  ✓ Sensibilidad = -1.0: mejor veto sísmico mejora la lectura\n\n── VERIFICACIONES CLAVE (Sección II §4) ──\n  ✓ Trayectoria de coincidencia sin tiempo soberano\n  ✓ Reapertura por ruido sísmico correctamente modelada (fork)\n  ✓ Append-only: trayectoria principal intacta\n  ✓ Dictamen APTO en ambas trayectorias (principal y fork)\n  ✓ Sin estadística bayesiana soberana\n\n  Clasificación: APTO\n  Salida congelada → salida_gravedad_factual.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    },
+    {
+      "lab": "lab_07_higgs_factual.py",
+      "returncode": 0,
+      "stdout": "ncia acumulada en 3 sucesos — APTO\n  ✓ Sin sigma soberano: cierre ternario puro\n\n── 2. Jacobiano estructural y de clausura ──\n  𝒮_a(f; ν₀) = -1.0  (mayor resolución reduce f en ν₀)\n  J_clausura = 0.0  (insensible en punto de cierre)\n  ✓ Sensibilidad < 0 en ν₀: mayor resolución acelera el cierre\n  ✓ J_clausura = 0: punto de cierre insensible a variaciones del detector\n\n── 3. Reapertura (fork por re-análisis del fondo) ──\n  Fork f(νj) = [3, 1, 0]\n  Fork clasificaciones: ['INDETERMINADO', 'APTO', 'APTO']\n  Fork acumulación = -3.0\n  ✓ Fork cierra en APTO — re-análisis del fondo completado\n  ✓ Trayectoria principal intacta (append-only)\n\n── 4. U persistente sin cierre legítimo — no se fabrica APTO ──\n  f(νj) = [1, 1]  (P2=U no resuelta)\n  Clasificaciones: ['APTO', 'APTO']\n  ✓ Canal con evidencia insuficiente: no se declara NO_APTO sin infracciones\n  ✓ La U se preserva honestamente: no se fuerza cierre\n\n── 5. NMSV006: verificación de no-degradación de U ──\n  P2=U no puede resolverse a 0 sin suceso de evidencia declarado.\n  NMSV006 previene el cierre favorable ilegítimo de indeterminaciones.\n  ✓ NMSV006 verificado (L830 del documento, XV §5)\n\n── VERIFICACIONES CLAVE (Sección III §3) ──\n  ✓ Trayectorias de evidencia sin sigma soberano\n  ✓ Canal declarado (H→γγ sintético) evaluado por sucesos\n  ✓ Jacobiano de clausura = 0\n  ✓ Reapertura por re-análisis del fondo (fork)\n  ✓ U honesta preservada: no se fabrica cierre\n\n  Clasificación: APTO\n  Salida congelada → salida_higgs_factual.json\n",
+      "stderr": "",
+      "veredicto": "APTO"
+    }
+  ],
+  "hashes": {
+    "salida_calculo_suceso.json": "6421d0cef94661eae47ba6380b42fd46",
+    "salida_ejemplo_director.json": "4a3b724ef72cc119370cfcd42fd23c4f",
+    "salida_geometrico.json": "242789cd60a6d110530717ac213d60b3",
+    "salida_recorrido_completo.json": "2980a99ccc0f859190d198fae23f0e78",
+    "salida_maxwell_factual.json": "6182e838259624ca94882e21e0e86724",
+    "salida_gravedad_factual.json": "c0552a600b37318226c187b75bdc690e",
+    "salida_higgs_factual.json": "642d8284b5272d25277acb8494d5a557"
+  },
+  "invariantes": {
+    "no_degradacion_U": true,
+    "append_only": true,
+    "separacion_planos": true,
+    "no_cierre_favorable": true,
+    "frontera_explicita": true
+  },
+  "veredicto_final": "APTO"
+}

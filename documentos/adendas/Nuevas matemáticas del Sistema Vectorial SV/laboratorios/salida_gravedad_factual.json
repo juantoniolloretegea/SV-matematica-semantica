@@ -1,0 +1,28 @@
+{
+  "lab": "lab_06_gravedad_factual",
+  "seccion": "II §4 Laboratorio director",
+  "trayectoria_principal": {
+    "f": [
+      3,
+      1,
+      0
+    ],
+    "derivadas": [
+      -2.0,
+      -1.0
+    ],
+    "acumulacion": -3.0,
+    "dictamen_final": "APTO"
+  },
+  "fork_sismico": {
+    "f": [
+      2,
+      1,
+      0
+    ],
+    "dictamen_final": "APTO",
+    "append_only_ok": true
+  },
+  "sensibilidad_veto": -1.0,
+  "veredicto": "APTO"
+}

@@ -1,0 +1,23 @@
+{
+  "lab": "lab_05_maxwell_factual",
+  "seccion": "I §3 Laboratorio director",
+  "f": [
+    3,
+    1,
+    0
+  ],
+  "derivadas": [
+    -2.0,
+    -1.0
+  ],
+  "acumulacion": -3.0,
+  "telescopia_ok": true,
+  "sensibilidad_nu0": -1.0,
+  "clasificaciones": [
+    "INDETERMINADO",
+    "APTO",
+    "APTO"
+  ],
+  "dictamen_final": "APTO",
+  "veredicto": "APTO"
+}
