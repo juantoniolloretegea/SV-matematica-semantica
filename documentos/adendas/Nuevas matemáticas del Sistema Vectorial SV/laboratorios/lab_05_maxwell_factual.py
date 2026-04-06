@@ -24,6 +24,7 @@ Sello:     ITVIA — IA eñ™ | ISSN 2695-6411 | CC BY-NC-ND 4.0
 """
 
 import json, sys, os, importlib.util
+import os
 
 _spec = importlib.util.spec_from_file_location(
     "l01", os.path.join(os.path.dirname(__file__), "lab_01_calculo_suceso.py"))
@@ -143,7 +144,7 @@ def run_lab05():
         'sensibilidad_nu0': sens, 'clasificaciones': cls,
         'dictamen_final': cls[-1], 'veredicto': verdict
     }
-    with open('/mnt/user-data/outputs/laboratorios/salida_maxwell_factual.json',
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'salida_maxwell_factual.json'),
               'w', encoding='utf-8') as fout:
         json.dump(out, fout, ensure_ascii=False, indent=2)
     print("  Salida congelada → salida_maxwell_factual.json")

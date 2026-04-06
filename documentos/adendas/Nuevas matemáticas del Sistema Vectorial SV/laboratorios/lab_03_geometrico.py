@@ -10,6 +10,7 @@ Sello:     ITVIA — IA eñ™ | ISSN 2695-6411 | CC BY-NC-ND 4.0
 """
 
 import json, sys
+import os
 
 # ── Representación de mosaico SV ─────────────────────────────────────────────
 # Célula: {'id': str, 'field': int|'U', 'omega': float}
@@ -282,7 +283,7 @@ def run_lab03():
     print(f"  Clasificación: {verdict}")
 
     output = {'lab': 'lab_03_geometrico', 'casos': cases, 'veredicto': verdict}
-    with open('/mnt/user-data/outputs/laboratorios/salida_geometrico.json',
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'salida_geometrico.json'),
               'w', encoding='utf-8') as fout:
         json.dump(output, fout, ensure_ascii=False, indent=2, default=str)
     print("  Salida congelada → salida_geometrico.json")

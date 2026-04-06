@@ -9,6 +9,7 @@ Licencia:  CC BY-NC-ND 4.0 | Madrid, 2026
 """
 
 import json, hashlib, sys
+import os
 from typing import List, Union, Optional
 
 # ── Alfabeto K₃ ─────────────────────────────────────────────────────────────
@@ -409,7 +410,7 @@ def run_lab01():
         'nmsv_detectados': {k: v['detectado'] for k, v in nmsv_res.items()},
         'veredicto': verdict
     }
-    with open('/mnt/user-data/outputs/laboratorios/salida_calculo_suceso.json','w',
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'salida_calculo_suceso.json'),'w',
               encoding='utf-8') as fout:
         json.dump(output, fout, ensure_ascii=False, indent=2)
     print("  Salida congelada → salida_calculo_suceso.json")

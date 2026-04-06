@@ -14,6 +14,7 @@ Sello:     ITVIA — IA eñ™ | ISSN 2695-6411 | CC BY-NC-ND 4.0
 """
 
 import json, sys
+import os
 # Importamos funciones del lab 01 (mismo directorio)
 import importlib.util, os
 _spec = importlib.util.spec_from_file_location(
@@ -159,7 +160,7 @@ def run_lab02():
         'planos': results,
         'veredicto': verdict
     }
-    with open('/mnt/user-data/outputs/laboratorios/salida_ejemplo_director.json',
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'salida_ejemplo_director.json'),
               'w', encoding='utf-8') as fout:
         json.dump(output, fout, ensure_ascii=False, indent=2)
     print("  Salida congelada → salida_ejemplo_director.json")

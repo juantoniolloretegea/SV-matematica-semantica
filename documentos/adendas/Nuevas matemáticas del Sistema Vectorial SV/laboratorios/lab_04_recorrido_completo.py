@@ -11,6 +11,7 @@ Sello:     ITVIA — IA eñ™ | ISSN 2695-6411 | CC BY-NC-ND 4.0
 """
 
 import json, sys, os, importlib.util
+import os
 
 # Importar módulos previos
 def load_lab(name, path):
@@ -180,7 +181,7 @@ def run_lab04():
         ],
         'veredicto': verdict
     }
-    with open('/mnt/user-data/outputs/laboratorios/salida_recorrido_completo.json',
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'salida_recorrido_completo.json'),
               'w', encoding='utf-8') as fout:
         json.dump(output, fout, ensure_ascii=False, indent=2, default=str)
     print("  Salida congelada → salida_recorrido_completo.json")

@@ -45,7 +45,7 @@ python3 lab_03_geometrico.py
 python3 lab_04_recorrido_completo.py
 ```
 
-**Runner completo (ejecuta los 4 labs y emite veredicto):**
+**Runner completo (ejecuta los 7 labs y emite veredicto):**
 ```bash
 python3 runner_sv_nmsv.py
 ```
@@ -93,3 +93,7 @@ python3 runner_sv_nmsv.py
 | ∇F(ν₀) | (-1, -1) | ✓ |
 | J_clausura | 0 | ✓ |
 | Dictamen | APTO | ✓ |
+
+## Nota de portabilidad
+
+Las salidas JSON se regeneran en esta misma carpeta `laboratorios/`. No se requiere ninguna ruta absoluta externa ni preparación manual de directorios.
