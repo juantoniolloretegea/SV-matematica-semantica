@@ -243,6 +243,7 @@ Este estudio no nace para polemizar con el cálculo clásico, sino para preparar
 Deben distinguirse tres planos:
 
 1. plano ternario canónico:
+
 $$
 K_3=\{0,1,U\}
 $$
@@ -261,6 +262,7 @@ En la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posicione
 ## 2. Operaciones elementales universales
 
 ### Suma
+
 $$
 a+b
 $$
@@ -268,16 +270,19 @@ $$
 sobre dominios aditivos compatibles.
 
 ### Neutro
+
 $$
 0_A
 $$
 
 ### Opuesto y resta
+
 $$
 a-b:=a+(-b)
 $$
 
 ### Producto externo por escalar
+
 $$
 \lambda a
 $$
@@ -327,6 +332,7 @@ Se distinguen cuatro estados:
 ## 3. Mapa principal
 
 ### 3.1. Variable independiente clásica → índice de suceso
+
 $$
 \Gamma=(\nu_0,\nu_1,\dots,\nu_k)
 $$
@@ -334,6 +340,7 @@ $$
 El candidato básico a variable independiente del cálculo del SV es la posición de un suceso en una trayectoria factual. **Estado A.**
 
 ### 3.2. Derivada → derivada de suceso
+
 $$
 \Delta_{\nu_j}f:=f_{j+1}-f_j
 $$
@@ -347,6 +354,7 @@ $$
 **Estado B.**
 
 ### 3.3. Integral definida → acumulación factual
+
 $$
 \mathfrak A_\Gamma(f):=\sum_{j=0}^{k-1} f_j\,\omega(\nu_j)
 $$
@@ -507,9 +515,11 @@ y así sucesivamente por inducción, cuando el dominio lo permita.
 - Invariancia append-only retrospectiva.
 
 La propiedad de **telescopía** admite la formulación explícita:
+
 $$
 \sum_{j=a}^{b-1} \Delta_{\nu_j} f = f_b - f_a.
 $$
+
 La **invariancia append-only retrospectiva** establece que, si $\Gamma' = (\nu_0,\ldots,\nu_m,\nu_{m+1})$ es extensión de $\Gamma$ por añadido de un suceso nuevo, entonces $\Delta_{\nu_j}f$ queda invariante para todo $j\in\{0,\ldots,m-1\}$.
 
 *Ejemplo.* Sea $\Gamma=(\nu_0,\nu_1,\nu_2)$ una trayectoria sobre la célula $\mathrm{SV}(9{,}3)$, y sea $f(\nu_j)=|\{i : v_j(i)=U\}|$ el observable compatible que cuenta las posiciones en indeterminación en el frame $j$-ésimo (Lloret Egea, 2026k). Para $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=0$ y pesos $\omega(\nu_j)=1$: $\Delta_{\nu_0}f=-1$ y $\Delta_{\nu_1}f=-2$. La telescopía da $\sum_{j=0}^{1}\Delta_{\nu_j}f=-3=f(\nu_2)-f(\nu_0)$. La trayectoria ha resuelto tres posiciones en indeterminación y alcanza la condición de límite estructural $\kappa_F(T)=\mathrm{APTO}$.
@@ -542,6 +552,7 @@ $$
 ## 2. Partición factual
 
 Sea
+
 $$
 P_\Gamma=\{0=i_0<i_1<\cdots<i_r=m\}
 $$
@@ -551,16 +562,19 @@ una partición factual. La acumulación total es aditiva por subtrayectorias y s
 ## 3. Operadores de recorrido
 
 - recorrido simple:
+
 $$
 \mathcal R_\Gamma(q)=(q_0,\dots,q_m)
 $$
 
 - recorrido ponderado:
+
 $$
 \mathcal R_\Gamma^\omega(q)=(q_0\omega_0,\dots,q_{m-1}\omega_{m-1})
 $$
 
 - circulación factual:
+
 $$
 \mathfrak C_{\Gamma^\circlearrowleft}(q)=\sum_{j=0}^{m-1}\varepsilon_j q_j\omega_j
 $$
@@ -576,13 +590,17 @@ $$
 Ésta es la primera relación fundamental entre cambio y acumulación dentro del SV.
 
 **Demostración.** Por definición de acumulación factual:
+
 $$
 \mathfrak A_{\Gamma[a,b]}(q) = \sum_{j=a}^{b-1} q_j\,\omega(\nu_j).
 $$
+
 Sustituyendo $q_j = \mathfrak D_\Gamma f(j) = (f_{j+1}-f_j)/\omega(\nu_j)$:
+
 $$
 \sum_{j=a}^{b-1} \frac{f_{j+1}-f_j}{\omega(\nu_j)}\,\omega(\nu_j) = \sum_{j=a}^{b-1}(f_{j+1}-f_j) = f_b - f_a.
 $$
+
 El último paso aplica la telescopía de la derivada de suceso. $\square$
 
 *Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_\Gamma f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
@@ -1496,9 +1514,11 @@ Composición parcial $\circ_{\mathrm{cl}}$:
 - una composición no legitimable se conserva como clase abierta.
 
 Estabilidad:
+
 $$
 J^{SV}_{\mathrm{cl}}(a,k)\in\{0\to0,\;1\to1,\;U\to U\}
 $$
+
 define estabilidad; resolución favorable o desfavorable define resolución; reapertura o inversión define fragilidad.
 
 ## 6. Transformadas de trayectoria, reconstrucción e inversa factual
@@ -1606,9 +1626,11 @@ $$
 ### 7.4. Composición formal de cambios de dominio
 
 Si
+
 $$
 \mathfrak C_{D_0\to D_1},\quad \mathfrak C_{D_1\to D_2}
 $$
+
 son legítimos y sus invariantes son compatibles, entonces existe la composición
 
 $$\mathfrak C_{D_0\to D_2} = \mathfrak C_{D_1\to D_2}\circ \mathfrak C_{D_0\to D_1}.$$
@@ -1633,9 +1655,11 @@ z_{SV}=(u,v),
 $$
 
 Formalmente:
+
 $$
 z_{SV}=u+\mathbf i_{SV}v,
 $$
+
 donde $\mathbf i_{SV}$ es un marcador formal auxiliar.
 
 ### 8.2. Compatibilidad compleja factual
@@ -1729,6 +1753,7 @@ Con ello la gravedad factual mínima dispone ya de formulación por conexión y 
 ### 11.3. Maxwell factual completo de primer orden
 
 Se fija el bloque factual completo:
+
 $$
 \mathrm{Div}_{SV}(D)=\rho,\qquad \mathrm{Div}_{SV}(B)=0,
 $$
@@ -1737,7 +1762,9 @@ $$
 \mathrm{Rot}_{SV}(E)+\partial^{SV}_{\nu}B=0,\qquad
 \mathrm{Rot}_{SV}(H)-\partial^{SV}_{\nu}D=J,
 $$
+
 junto con relaciones constitutivas
+
 $$
 D=\varepsilon_{SV}(E),\qquad
 B=\mu_{SV}(H),\qquad
