@@ -8,6 +8,8 @@ ISSN: 2695-6411
 Licencia: CC BY-NC-ND 4.0 
 Lugar y fecha: Madrid, 6/04/2026 
 
+## INTRODUCCIÓN
+
 El presente estudio se organiza en dos partes. La primera parte fija el programa de física factual del <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">Sistema Vectorial SV</a>: delimita qué operadores, estructuras y criterios de clausura exige cada dominio físico —electromagnetismo, gravedad, sector de Higgs y frontera cuántica— para que el sistema pueda operar con legitimidad científica propia. La segunda parte responde a esas exigencias desarrollando las nuevas matemáticas del Sistema Vectorial SV: establece los fundamentos del cálculo del suceso, construye sus operadores propios y alcanza el cierre del programa mediante análisis riguroso de completitud. La física factual actúa en todo momento como dominio director de máxima exigencia; las nuevas matemáticas nacen de esa exigencia y la satisfacen.
 
 # Primera parte. Física factual del Sistema Vectorial SV
@@ -53,7 +55,7 @@ Este conjunto queda constituido como estudio futuro del SV. No se cierra aquí n
 
 ## 1. Núcleo del problema
 
-Las ecuaciones de Maxwell, en forma diferencial, obligan a tratar divergencia, rotor, condiciones de contorno, propagación, medios materiales y conservación de carga. El SV no puede responder aquí con simple semántica; necesita operadores propios de cambio, circulación, acumulación, residualidad y clausura factual.
+Las ecuaciones de Maxwell, en forma diferencial, obligan a tratar divergencia, rotor, condiciones de contorno, propagación, medios materiales y conservación de carga. El (sistema) SV no puede responder aquí con simple semántica; necesita operadores propios de cambio, circulación, acumulación, residualidad y clausura factual.
 
 ## 2. Embriones de mapeo
 
@@ -234,7 +236,7 @@ Bloque IV — Proyección al lenguaje de programación del SV, al motor de intel
 
 ## 5. Conclusión
 
-Este estudio no nace para polemizar con el cálculo clásico, sino para preparar el punto en que el SV pueda hablar matemáticamente con voz propia sin carecer de fundamento matemático propio. La física actúa aquí como dominio director de exigencia; el lenguaje de programación del SV, como razón estratégica de fondo; y la doctrina, como condición de legitimidad.
+Este estudio no nace para polemizar con el cálculo clásico, sino para preparar el punto en que el (Sistema Vectorial) SV pueda hablar matemáticamente con voz propia sin carecer de fundamento matemático propio. La física actúa aquí como dominio director de exigencia; el lenguaje de programación del SV, como razón estratégica de fondo; y la doctrina, como condición de legitimidad.
 
 # VII. Fundamentos operativos del cálculo del suceso: operaciones elementales y dominios compatibles en el Sistema Vectorial SV
 
@@ -1865,8 +1867,8 @@ Quedan absorbidas en el cierre:
 - clases de ciclo y dualidad mínima;
 - unión formal con el lenguaje de programación del SV, el IR y el lowering.
 
-### 14.2. Deudas ya no imprescindibles para el arranque
-No queda, tras esta versión, ninguna deuda matemática imprescindible para el arranque del programa. Lo que permanezca vivo pertenece ya al plano de:
+### 14.2. Deudas ya no imprescindibles para el iniciado
+No queda, tras esta versión, ninguna deuda matemática imprescindible para el inicio de este estudio. Lo que permanezca vivo pertenece ya al plano de:
 - profundización posterior;
 - limpieza de estilo;
 - unificación morfológica;
@@ -1978,9 +1980,9 @@ El estudio no presenta, a este nivel, lagunas matemáticas que impidan su arranq
 
 # Laboratorios y runner del Sistema Vectorial SV
 
-Los laboratorios de este estudio se alojan en el repositorio doctrinal del Sistema Vectorial SV, en la carpeta dedicada `documentos/adendas/laboratorios/`:
+Los laboratorios de este estudio se alojan en el repositorio doctrinal del Sistema Vectorial SV, en la carpeta dedicada `documentos/adendas/Nuevas matemáticas del Sistema Vectorial SV/laboratorios/`:
 
-**Repositorio:** <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/laboratorios" target="_blank" rel="noopener noreferrer">https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/laboratorios</a>
+**Repositorio:** <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios" target="_blank" rel="noopener noreferrer">https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios</a>
 
 Todos los laboratorios son ejecutables con Python 3.9 o superior, sin dependencias externas (módulos estándar: `json`, `hashlib`, `subprocess`). El runner maestro ejecuta los siete laboratorios secuencialmente y emite veredicto final con huellas de integridad MD5.
 
@@ -1988,25 +1990,25 @@ Todos los laboratorios son ejecutables con Python 3.9 o superior, sin dependenci
 
 | Laboratorio | Sección | Descripción |
 |---|---|---|
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_01_calculo_suceso.py" target="_blank" rel="noopener noreferrer"><code>lab_01_calculo_suceso.py</code></a> | XIV–XV | Módulos A-D: derivada de suceso, acumulación factual, sensibilidad, custodia. Cinco casos canónicos. Catálogo NMSV001-NMSV008. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_02_ejemplo_director.py" target="_blank" rel="noopener noreferrer"><code>lab_02_ejemplo_director.py</code></a> | XII §7 | Los 7 planos del ejemplo director sobre SV(9,3): f=[3,2,1,0], derivadas=[-1,-1,-1], acumulación=-3, J=0, APTO. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_03_geometrico.py" target="_blank" rel="noopener noreferrer"><code>lab_03_geometrico.py</code></a> | XXI–XXII | Laboratorio geométrico G1-G5: flujo factual, divergencia, cancelación interna, conservación de U, circulación. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_04_recorrido_completo.py" target="_blank" rel="noopener noreferrer"><code>lab_04_recorrido_completo.py</code></a> | XXIV §15 | Pipeline completo: tabla de 14 operadores verificados → dictamen APTO. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_05_maxwell_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_05_maxwell_factual.py</code></a> | I §3 | Maxwell factual sintético: residuales de campo sin tiempo soberano, acumulación trazable. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_06_gravedad_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_06_gravedad_factual.py</code></a> | II §4 | Gravedad factual sintética: evento gravitacional, coincidencia y reapertura (fork sísmico). |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_07_higgs_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_07_higgs_factual.py</code></a> | III §3 | Higgs factual sintético: evidencia acumulada, fork por re-análisis del fondo, J_clausura=0. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/runner_sv_nmsv.py" target="_blank" rel="noopener noreferrer"><code>runner_sv_nmsv.py</code></a> | XV | Runner maestro: ejecuta los 7 laboratorios, verifica 5 invariantes y emite veredicto final con huellas MD5. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_01_calculo_suceso.py" target="_blank" rel="noopener noreferrer"><code>lab_01_calculo_suceso.py</code></a> | XIV–XV | Módulos A-D: derivada de suceso, acumulación factual, sensibilidad, custodia. Cinco casos canónicos. Catálogo NMSV001-NMSV008. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_02_ejemplo_director.py" target="_blank" rel="noopener noreferrer"><code>lab_02_ejemplo_director.py</code></a> | XII §7 | Los 7 planos del ejemplo director sobre SV(9,3): f=[3,2,1,0], derivadas=[-1,-1,-1], acumulación=-3, J=0, APTO. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_03_geometrico.py" target="_blank" rel="noopener noreferrer"><code>lab_03_geometrico.py</code></a> | XXI–XXII | Laboratorio geométrico G1-G5: flujo factual, divergencia, cancelación interna, conservación de U, circulación. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_04_recorrido_completo.py" target="_blank" rel="noopener noreferrer"><code>lab_04_recorrido_completo.py</code></a> | XXIV §15 | Pipeline completo: tabla de 14 operadores verificados → dictamen APTO. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_05_maxwell_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_05_maxwell_factual.py</code></a> | I §3 | Maxwell factual sintético: residuales de campo sin tiempo soberano, acumulación trazable. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_06_gravedad_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_06_gravedad_factual.py</code></a> | II §4 | Gravedad factual sintética: evento gravitacional, coincidencia y reapertura (fork sísmico). |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_07_higgs_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_07_higgs_factual.py</code></a> | III §3 | Higgs factual sintético: evidencia acumulada, fork por re-análisis del fondo, J_clausura=0. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/runner_sv_nmsv.py" target="_blank" rel="noopener noreferrer"><code>runner_sv_nmsv.py</code></a> | XV | Runner maestro: ejecuta los 7 laboratorios, verifica 5 invariantes y emite veredicto final con huellas MD5. |
 
 ## Salidas congeladas (JSON)
 
 Disponibles en la misma carpeta del repositorio:
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_calculo_suceso.json" target="_blank" rel="noopener noreferrer"><code>salida_calculo_suceso.json</code></a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_ejemplo_director.json" target="_blank" rel="noopener noreferrer"><code>salida_ejemplo_director.json</code></a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_geometrico.json" target="_blank" rel="noopener noreferrer"><code>salida_geometrico.json</code></a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_recorrido_completo.json" target="_blank" rel="noopener noreferrer"><code>salida_recorrido_completo.json</code></a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_maxwell_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_maxwell_factual.json</code></a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_gravedad_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_gravedad_factual.json</code></a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_higgs_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_higgs_factual.json</code></a>.
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_calculo_suceso.json" target="_blank" rel="noopener noreferrer"><code>salida_calculo_suceso.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_ejemplo_director.json" target="_blank" rel="noopener noreferrer"><code>salida_ejemplo_director.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_geometrico.json" target="_blank" rel="noopener noreferrer"><code>salida_geometrico.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_recorrido_completo.json" target="_blank" rel="noopener noreferrer"><code>salida_recorrido_completo.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_maxwell_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_maxwell_factual.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_gravedad_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_gravedad_factual.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_higgs_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_higgs_factual.json</code></a>.
 
 **Veredicto del runner:** 7/7 laboratorios APTO — 5/5 invariantes satisfechos — clasificación final: **APTO**.
 
@@ -2117,16 +2119,16 @@ $$
 
 #### Detalle Capa E — posición en U
 
-**E1 — Implementación de referencia:** Los módulos Python de laboratorio están descritos en XIV §1–§4 y el runner en XV §1–§3. Los scripts ejecutables no están en el paquete .md. Esta U no es una infracción; es un límite de alcance declarado: el manuscrito es el artefacto de este paquete, no el software. La U queda abierta hasta la fase de publicación del repositorio ejecutable.
+**E1 — Implementación de referencia:** Los módulos Python de laboratorio están descritos en XIV §1–§4 y el runner en XV §1–§3. Los scripts ejecutables no están en el documento publicado (véase apartado laboratorios). Esta U no es una infracción; es un límite de alcance declarado: el documento es el artefacto de esta fase, no el software. La U queda abierta hasta la fase de publicación del repositorio ejecutable.
 
 ---
 
 ### 4.2 Posición en U sin bloquear publicación
 
-**E1** (C_diseno) — scripts Python referenciados pero no en el paquete .md.
+**E1** (C_diseno) — scripts Python referenciados pero no en el documento.
 **Q8** (C_base) — salidas de ejecución trazables numéricamente pero no en forma de archivos ejecutados.
 
-Estas posiciones no son infracciones; son límites explícitos de alcance correspondientes a la fase manuscrito-pre-publicación. No impiden la publicación del documento como pieza fundacional de las nuevas matemáticas del Sistema Vectorial SV.
+Estas posiciones no son infracciones; son límites explícitos de alcance correspondientes a la fase documento-pre-publicación. No impiden la publicación del documento como elemento fundacional de las nuevas matemáticas del Sistema Vectorial SV.
 
 ---
 
@@ -2142,8 +2144,8 @@ Estas posiciones no son infracciones; son límites explícitos de alcance corres
 |---|---|---|
 | M-REF | APTO | 0 referencias internas rotas; 16 referencias cruzadas →§ verificadas. |
 | M-LTX | APTO | 222 tokens $$, par exacto; 111 bloques; 0 residuos de delimitadores LaTeX incompatibles. |
-| M-LAB | INDETERMINADO | Especificaciones XIV–XV y XXI–XXII completas; scripts Python no en paquete. |
-| M-ASEO | APTO | 0 temporalismo soberano; 0 estadística; 0 inferencia opaca; 0 léxico zafio; 0 cocina interna. |
+| M-LAB | INDETERMINADO | Especificaciones XIV–XV y XXI–XXII completas; scripts Python no en la publicación. |
+| M-ASEO | APTO | 0 temporalismo soberano; 0 estadística; 0 inferencia opaca; 0 léxico zafio; 0 genealogía de construcción del documento. |
 
 **Casos canónicos descritos:** 3 (XIV §2: cambio, acumulación, sensibilidad)
 
@@ -2151,7 +2153,7 @@ Estas posiciones no son infracciones; son límites explícitos de alcance corres
 
 **Pseudocódigo de referencia presente:** sí (XIV §1, XV §1–§3)
 
-**Implementación ejecutable en paquete:** no (límite de fase declarado)
+**Implementación ejecutable en el documento:** no (límite de fase declarado)
 
 **Temporalismo soberano detectado:** 0
 
@@ -2179,11 +2181,11 @@ $$
 
 **Alcance exacto del dictamen:**
 
-El dictamen se refiere al lote material efectivamente auditado: el manuscrito `Vtotal_V1_Hito7.md` como pieza fundacional de las nuevas matemáticas del Sistema Vectorial SV y la física factual como conjunto iniciador.
+El dictamen se refiere al lote material efectivamente auditado: el documento como elemento fundacional de las nuevas matemáticas del Sistema Vectorial SV y la física factual como conjunto iniciador.
 
-Las dos posiciones mantenidas en U —E1 (scripts Python fuera del paquete) y Q8 (salidas de ejecución no formalizadas)— no impiden la publicación del documento y quedan declaradas como límites explícitos de alcance de esta fase.
+Las dos posiciones mantenidas en U —E1 (scripts Python fuera del documento) y Q8 (salidas de ejecución no formalizadas)— no impiden la publicación del documento y quedan declaradas como límites explícitos de alcance de esta fase (ya materializada).
 
-La imagen poligonal del dictamen queda diferida a la fase siguiente conforme a la planificación editorial.
+La imagen poligonal del dictamen: publicada.
 
 La publicación deberá conservar la vecindad relativa entre manuscrito, laboratorio y bibliografía, o mantener referencias materiales equivalentes y verificables en la sede pública.
 
