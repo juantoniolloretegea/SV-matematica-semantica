@@ -244,48 +244,48 @@ Deben distinguirse tres planos:
 
 1. plano ternario canónico:
 
-$$
+```text
 K_3=\{0,1,U\}
-$$
+```
 
 2. plano de observables compatibles, donde existen suma, resta y, en ciertos casos, producto por escalar y cociente;
 
 3. plano de lectura inducida, que proyecta observables o trayectorias a clausura ternaria o a dictamen.
 
-La matemática primaria del cálculo del suceso no se define originariamente sobre $K_3$, sino sobre observables compatibles.
+La matemática primaria del cálculo del suceso no se define originariamente sobre `K_3`, sino sobre observables compatibles.
 
-**Ejemplo director.** A lo largo de las secciones VII–XII se desarrolla un ejemplo continuo sobre la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones. Cada sección aplica el operador que le corresponde al mismo objeto de entrada; el recorrido se completa en XII §7 y se extiende al bloque geométrico en XXIV §15.
+**Ejemplo director.** A lo largo de las secciones VII–XII se desarrolla un ejemplo continuo sobre la célula canónica del Sistema Vectorial SV de base `b=3` y `n=9` posiciones. Cada sección aplica el operador que le corresponde al mismo objeto de entrada; el recorrido se completa en XII §7 y se extiende al bloque geométrico en XXIV §15.
 
-En la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones —formalizada en los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Lloret Egea, 2026k)— el plano ternario canónico $K_3=\{0,1,U\}$ actúa como codominio de lectura: cada posición $p_i$ del vector $\mathbf{v}=(v_1,\ldots,v_9)$ toma valor en $K_3$. El plano de observables compatibles se instancia en magnitudes aditivas derivadas de ese vector: la función $q(\mathbf{v})=|\{i : v_i=U\}|$, que contabiliza las posiciones en indeterminación, toma valores en $\mathbb{N}_0$ y soporta suma y resta. La clausura ternaria se obtiene por lectura inducida conforme al horizonte declarado (Lloret Egea, 2026i).
+En la célula canónica del Sistema Vectorial SV de base `b=3` y `n=9` posiciones —formalizada en los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Lloret Egea, 2026k)— el plano ternario canónico `K_3=\{0,1,U\}` actúa como codominio de lectura: cada posición `p_i` del vector `\mathbf{v}=(v_1,\ldots,v_9)` toma valor en `K_3`. El plano de observables compatibles se instancia en magnitudes aditivas derivadas de ese vector: la función `q(\mathbf{v})=|\{i : v_i=U\}|`, que contabiliza las posiciones en indeterminación, toma valores en `\mathbb{N}_0` y soporta suma y resta. La clausura ternaria se obtiene por lectura inducida conforme al horizonte declarado (Lloret Egea, 2026i).
 
 
 ## 2. Operaciones elementales universales
 
 ### Suma
 
-$$
+```text
 a+b
-$$
+```
 
 sobre dominios aditivos compatibles.
 
 ### Neutro
 
-$$
+```text
 0_A
-$$
+```
 
 ### Opuesto y resta
 
-$$
+```text
 a-b:=a+(-b)
-$$
+```
 
 ### Producto externo por escalar
 
-$$
+```text
 \lambda a
-$$
+```
 
 Estas operaciones son las verdaderamente elementales del cálculo del suceso.
 
@@ -333,37 +333,37 @@ Se distinguen cuatro estados:
 
 ### 3.1. Variable independiente clásica → índice de suceso
 
-$$
+```text
 \Gamma=(\nu_0,\nu_1,\dots,\nu_k)
-$$
+```
 
 El candidato básico a variable independiente del cálculo del SV es la posición de un suceso en una trayectoria factual. **Estado A.**
 
 ### 3.2. Derivada → derivada de suceso
 
-$$
+```text
 \Delta_{\nu_j}f:=f_{j+1}-f_j
-$$
+```
 
-y, cuando exista peso factual positivo $\omega(\nu_j)$,
+y, cuando exista peso factual positivo `\omega(\nu_j)`,
 
-$$
+```text
 \mathfrak D_\Gamma f(j):=\frac{f_{j+1}-f_j}{\omega(\nu_j)}.
-$$
+```
 
 **Estado B.**
 
 ### 3.3. Integral definida → acumulación factual
 
-$$
+```text
 \mathfrak A_\Gamma(f):=\sum_{j=0}^{k-1} f_j\,\omega(\nu_j)
-$$
+```
 
 y, cuando proceda,
 
-$$
+```text
 \lim_{\|P_\Gamma\|\to 0}\sum f_j\,\omega(\nu_j).
-$$
+```
 
 **Estado B.**
 
@@ -408,20 +408,20 @@ La `U` no es:
 
 Su función es preservar la no clausura legítima cuando no existe base suficiente para decidir.
 
-La formalización canónica de la U como estado estructural resoluble queda fijada en *Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV* (Lloret Egea, 2026l). En la célula $\mathrm{SV}(9{,}3)$, la posición $p_i=U$ puede tipificarse en tres categorías estructuralmente distintas mediante la función $\Gamma_{\mathcal{H}}$ introducida en Lloret Egea (2026i): $U$ **irreducible** —el horizonte declarado no contiene suceso que la resuelva—, $U$ **fronteriza** —el resultado depende del suceso que llegue— y $U$ **resoluble** —existe un suceso en el horizonte que la cierra unívocamente. Esta clasificación es computable antes de ejecutar cualquier trayectoria y constituye el instrumento de gobierno que distingue al SV de los sistemas probabilísticos.
+La formalización canónica de la U como estado estructural resoluble queda fijada en *Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV* (Lloret Egea, 2026l). En la célula `\mathrm{SV}(9{,}3)`, la posición `p_i=U` puede tipificarse en tres categorías estructuralmente distintas mediante la función `\Gamma_{\mathcal{H}}` introducida en Lloret Egea (2026i): `U` **irreducible** —el horizonte declarado no contiene suceso que la resuelva—, `U` **fronteriza** —el resultado depende del suceso que llegue— y `U` **resoluble** —existe un suceso en el horizonte que la cierra unívocamente. Esta clasificación es computable antes de ejecutar cualquier trayectoria y constituye el instrumento de gobierno que distingue al SV de los sistemas probabilísticos.
 
 
 ## 2. El residual
 
-Sea $\mathcal T$ una ley o estructura de cierre declarada, y $X$ un estado factual bajo frontera explícita $F$. Se propone llamar **residual estructural** a toda magnitud que exprese la distancia entre:
-- el cierre que $\mathcal T$ declara;
-- y el cierre que el sistema puede sostener legítimamente para $X$.
+Sea `\mathcal T` una ley o estructura de cierre declarada, y `X` un estado factual bajo frontera explícita `F`. Se propone llamar **residual estructural** a toda magnitud que exprese la distancia entre:
+- el cierre que `\mathcal T` declara;
+- y el cierre que el sistema puede sostener legítimamente para `X`.
 
 Notación:
 
-$$
+```text
 R_{\mathcal T,F}(X)
-$$
+```
 
 Se distinguen, al menos:
 - residual de cierre;
@@ -431,19 +431,19 @@ Se distinguen, al menos:
 
 ## 3. El límite estructural
 
-Se propone llamar **límite estructural** de una trayectoria $T$ al estado de clausura alcanzado cuando:
+Se propone llamar **límite estructural** de una trayectoria `T` al estado de clausura alcanzado cuando:
 
-$$
+```text
 \mathcal U_{\mathrm{irr}}(T)=\varnothing,
 \qquad
 \Delta_N(T)\le L,
 \qquad
 \kappa_F(T)=APTO.
-$$
+```
 
 El límite del SV no es aproximación continua a un punto real. Es clausura estructural de trayectoria.
 
-En la célula canónica $\mathrm{SV}(9{,}3)$, el límite estructural corresponde a la condición $\mathcal{U}_{\mathrm{irr}}(T)=\varnothing$: ninguna posición del vector evaluado contiene $U$ irreducible. Esta condición es el enunciado operativo del Teorema HNA (Hipótesis de Monotonía de Habilitación), demostrado como teorema del corpus en Lloret Egea (2026i) a partir del invariante append-only de la trayectoria formalizado en Lloret Egea (2026c).
+En la célula canónica `\mathrm{SV}(9{,}3)`, el límite estructural corresponde a la condición `\mathcal{U}_{\mathrm{irr}}(T)=\varnothing`: ninguna posición del vector evaluado contiene `U` irreducible. Esta condición es el enunciado operativo del Teorema HNA (Hipótesis de Monotonía de Habilitación), demostrado como teorema del corpus en Lloret Egea (2026i) a partir del invariante append-only de la trayectoria formalizado en Lloret Egea (2026c).
 
 
 ## 4. Consecuencias
@@ -468,19 +468,19 @@ El estudio no podrá crecer legítimamente si no preserva este trípode:
 
 Sea
 
-$$
+```text
 \Gamma=(\nu_0,\nu_1,\dots,\nu_m)
-$$
+```
 
-una trayectoria de sucesos y sea $q:\Gamma\to A$ un observable compatible, con $A$ al menos grupo abeliano.
+una trayectoria de sucesos y sea `q:\Gamma\to A` un observable compatible, con `A` al menos grupo abeliano.
 
 ## 2. Derivada de suceso
 
-Para $j\in\{0,\dots,m-1\}$, se define:
+Para `j\in\{0,\dots,m-1\}`, se define:
 
-$$
+```text
 \Delta_{\nu_j}q:=q_{j+1}-q_j.
-$$
+```
 
 Éste es el operador diferencial primitivo del SV.
 
@@ -488,21 +488,21 @@ $$
 
 Sin normalización:
 
-$$
+```text
 (\Delta_\Gamma q)(j):=\Delta_{\nu_j}q.
-$$
+```
 
-Con peso factual positivo $\omega(\nu_j)$:
+Con peso factual positivo `\omega(\nu_j)`:
 
-$$
+```text
 \mathfrak D_\Gamma q(j):=\frac{q_{j+1}-q_j}{\omega(\nu_j)}.
-$$
+```
 
 ## 4. Derivadas de orden superior
 
-$$
+```text
 \Delta_{\nu_j}^2 q=q_{j+2}-2q_{j+1}+q_j
-$$
+```
 
 y así sucesivamente por inducción, cuando el dominio lo permita.
 
@@ -516,18 +516,18 @@ y así sucesivamente por inducción, cuando el dominio lo permita.
 
 La propiedad de **telescopía** admite la formulación explícita:
 
-$$
+```text
 \sum_{j=a}^{b-1} \Delta_{\nu_j} f = f_b - f_a.
-$$
+```
 
-La **invariancia append-only retrospectiva** establece que, si $\Gamma' = (\nu_0,\ldots,\nu_m,\nu_{m+1})$ es extensión de $\Gamma$ por añadido de un suceso nuevo, entonces $\Delta_{\nu_j}f$ queda invariante para todo $j\in\{0,\ldots,m-1\}$.
+La **invariancia append-only retrospectiva** establece que, si `\Gamma' = (\nu_0,\ldots,\nu_m,\nu_{m+1})` es extensión de `\Gamma` por añadido de un suceso nuevo, entonces `\Delta_{\nu_j}f` queda invariante para todo `j\in\{0,\ldots,m-1\}`.
 
-*Ejemplo.* Sea $\Gamma=(\nu_0,\nu_1,\nu_2)$ una trayectoria sobre la célula $\mathrm{SV}(9{,}3)$, y sea $f(\nu_j)=|\{i : v_j(i)=U\}|$ el observable compatible que cuenta las posiciones en indeterminación en el frame $j$-ésimo (Lloret Egea, 2026k). Para $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=0$ y pesos $\omega(\nu_j)=1$: $\Delta_{\nu_0}f=-1$ y $\Delta_{\nu_1}f=-2$. La telescopía da $\sum_{j=0}^{1}\Delta_{\nu_j}f=-3=f(\nu_2)-f(\nu_0)$. La trayectoria ha resuelto tres posiciones en indeterminación y alcanza la condición de límite estructural $\kappa_F(T)=\mathrm{APTO}$.
+*Ejemplo.* Sea `\Gamma=(\nu_0,\nu_1,\nu_2)` una trayectoria sobre la célula `\mathrm{SV}(9{,}3)`, y sea `f(\nu_j)=|\{i : v_j(i)=U\}|` el observable compatible que cuenta las posiciones en indeterminación en el frame `j`-ésimo (Lloret Egea, 2026k). Para `f(\nu_0)=3`, `f(\nu_1)=2`, `f(\nu_2)=0` y pesos `\omega(\nu_j)=1`: `\Delta_{\nu_0}f=-1` y `\Delta_{\nu_1}f=-2`. La telescopía da `\sum_{j=0}^{1}\Delta_{\nu_j}f=-3=f(\nu_2)-f(\nu_0)`. La trayectoria ha resuelto tres posiciones en indeterminación y alcanza la condición de límite estructural `\kappa_F(T)=\mathrm{APTO}`.
 
 
 ## 6. Lectura ternaria inducida
 
-La derivada primaria opera sobre observables compatibles, no sobre $K_3$. La clausura ternaria se lee inducidamente mediante un morfismo $\tau$, nunca como si $\{0,1,U\}$ fuese el dominio primario de la resta.
+La derivada primaria opera sobre observables compatibles, no sobre `K_3`. La clausura ternaria se lee inducidamente mediante un morfismo `\tau`, nunca como si `\{0,1,U\}` fuese el dominio primario de la resta.
 
 ## 7. Conclusión
 
@@ -537,25 +537,25 @@ El operador primitivo de cambio del SV ya no es una derivada temporal. Es la **d
 
 ## 1. Acumulación factual elemental
 
-Sea $q:\Gamma\to A$ un observable acumulable y $\omega_j>0$ un peso factual. Se define:
+Sea `q:\Gamma\to A` un observable acumulable y `\omega_j>0` un peso factual. Se define:
 
-$$
+```text
 \mathfrak A_{\Gamma[a,b]}(q):=\sum_{j=a}^{b-1} q_j\,\omega(\nu_j).
-$$
+```
 
 En particular:
 
-$$
+```text
 \mathfrak A_\Gamma(q):=\sum_{j=0}^{m-1} q_j\,\omega(\nu_j).
-$$
+```
 
 ## 2. Partición factual
 
 Sea
 
-$$
+```text
 P_\Gamma=\{0=i_0<i_1<\cdots<i_r=m\}
-$$
+```
 
 una partición factual. La acumulación total es aditiva por subtrayectorias y se preserva bajo refinamiento coherente.
 
@@ -563,52 +563,52 @@ una partición factual. La acumulación total es aditiva por subtrayectorias y s
 
 - recorrido simple:
 
-$$
+```text
 \mathcal R_\Gamma(q)=(q_0,\dots,q_m)
-$$
+```
 
 - recorrido ponderado:
 
-$$
+```text
 \mathcal R_\Gamma^\omega(q)=(q_0\omega_0,\dots,q_{m-1}\omega_{m-1})
-$$
+```
 
 - circulación factual:
 
-$$
+```text
 \mathfrak C_{\Gamma^\circlearrowleft}(q)=\sum_{j=0}^{m-1}\varepsilon_j q_j\omega_j
-$$
+```
 
 ## 4. Relación fundamental con la derivada
 
-Si $q_j=\mathfrak D_\Gamma f(j)$, entonces:
+Si `q_j=\mathfrak D_\Gamma f(j)`, entonces:
 
-$$
+```text
 \mathfrak A_{\Gamma[a,b]}(q)=f_b-f_a.
-$$
+```
 
 Ésta es la primera relación fundamental entre cambio y acumulación dentro del SV.
 
 **Demostración.** Por definición de acumulación factual:
 
-$$
+```text
 \mathfrak A_{\Gamma[a,b]}(q) = \sum_{j=a}^{b-1} q_j\,\omega(\nu_j).
-$$
+```
 
-Sustituyendo $q_j = \mathfrak D_\Gamma f(j) = (f_{j+1}-f_j)/\omega(\nu_j)$:
+Sustituyendo `q_j = \mathfrak D_\Gamma f(j) = (f_{j+1}-f_j)/\omega(\nu_j)`:
 
-$$
+```text
 \sum_{j=a}^{b-1} \frac{f_{j+1}-f_j}{\omega(\nu_j)}\,\omega(\nu_j) = \sum_{j=a}^{b-1}(f_{j+1}-f_j) = f_b - f_a.
-$$
+```
 
-El último paso aplica la telescopía de la derivada de suceso. $\square$
+El último paso aplica la telescopía de la derivada de suceso. `\square`
 
-*Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_\Gamma f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
+*Ejemplo de aplicación.* Para la misma trayectoria `\Gamma=(\nu_0,\nu_1,\nu_2)` sobre la célula `\mathrm{SV}(9{,}3)` con `f(\nu_j)` el conteo de posiciones en `U`, pesos `\omega(\nu_j)=1` y `q_j=\mathfrak{D}_\Gamma f(j)`: `q_0=-1`, `q_1=-2`. La relación fundamental da `\mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)`. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa `O(\Delta N)` (Lloret Egea, 2026i).
 
 
 ## 5. Lectura ternaria inducida
 
-La acumulación factual opera primariamente sobre dominios compatibles. La clausura ternaria se obtiene solo como lectura inducida, nunca como suma en $\{0,1,U\}$.
+La acumulación factual opera primariamente sobre dominios compatibles. La clausura ternaria se obtiene solo como lectura inducida, nunca como suma en `\{0,1,U\}`.
 
 ## 6. Conclusión
 
@@ -618,30 +618,30 @@ La derivada de suceso descompone el cambio; la acumulación factual recompone la
 
 ## 1. Sensibilidad factual
 
-Sea $q$ dependiente de un parámetro $x_a$. Se define la sensibilidad puntual:
+Sea `q` dependiente de un parámetro `x_a`. Se define la sensibilidad puntual:
 
-$$
+```text
 \mathcal S_a(q;\nu_j):=\frac{\Delta_{x_a}q_j}{\Delta x_a},
 \qquad
 \Delta_{x_a}q_j:=q_j(x_a+\Delta x_a)-q_j(x_a).
-$$
+```
 
 La sensibilidad de trayectoria es la familia ordenada:
 
-$$
+```text
 \mathcal S_a^\Gamma(q)=\bigl(\mathcal S_a(q;\nu_0),\dots,\mathcal S_a(q;\nu_m)\bigr).
-$$
+```
 
 ## 2. Jacobiano estructural
 
-Sea $q:\Gamma\to A^r$ dependiente de parámetros $x=(x_1,\dots,x_p)$. El jacobiano estructural puntual se define por:
+Sea `q:\Gamma\to A^r` dependiente de parámetros `x=(x_1,\dots,x_p)`. El jacobiano estructural puntual se define por:
 
-$$
+```text
 J_{\mathrm{SV}}(\nu_j)=
 \left(
 \frac{\Delta_{x_b} q_j^{(a)}}{\Delta x_b}
 \right)_{a,b}.
-$$
+```
 
 El jacobiano de trayectoria es la familia ordenada de esas matrices.
 
@@ -653,11 +653,11 @@ Debe distinguirse del estructural. Registra clases de transición inducida sobre
 
 Se introduce como embrión la familia:
 
-$$
+```text
 \mathcal T_{\Phi}[q](\lambda):=\sum_{j=0}^{m} q_j\,\Phi_\lambda(\nu_j),
-$$
+```
 
-con núcleo declarado $\Phi_\lambda$ sobre sucesos.
+con núcleo declarado `\Phi_\lambda` sobre sucesos.
 
 ## 5. Lectura
 
@@ -671,54 +671,54 @@ Este bloque mide:
 
 Si derivada y acumulación permitían medir cambio y recomposición, sensibilidad y transformadas permiten medir propagación, robustez y reexpresión del caso.
 
-## 7. Ejemplo director: la célula $\mathrm{SV}(9,3)$ bajo los operadores del cálculo del suceso
+## 7. Ejemplo director: la célula `\mathrm{SV}(9,3)` bajo los operadores del cálculo del suceso
 
 Este apartado aplica, sobre un único objeto de entrada, todos los operadores de las secciones VII–XII. El mismo objeto se extiende al bloque geométrico en XXIV §15.
 ![Ejemplo director: la célula SV(9,3) bajo los 7 planos del cálculo del suceso](figuras/fig_ejemplo_director.png)
 
 *Figura — Ejemplo director: la célula SV(9,3) evaluando un frame conversacional bajo los siete planos del cálculo del suceso. La trayectoria Γ = (ν₀, ν₁, ν₂, ν₃) con f = [3, 2, 1, 0] muestra la convergencia desde tres posiciones en indeterminación (P₁, P₄, P₇ = U) hasta el cierre completo en ν₃ = APTO. Plano I: dominio compatible, f ∈ ℕ₀. Plano II: equivalente clásico, descenso ΔN=3. Plano III: U_irr = ∅ (todas resolubles). Plano IV: derivada constante 𝔇f ≡ −1. Plano V: acumulación telescópica 𝔄 = −3 = f(ν₃)−f(ν₀). Plano VI: sensibilidad 𝒮_a = −1 < 0. Plano VII: jacobiano en clausura J_SV(ν₃) = 0.*
 
-**Objeto.** Sea la célula canónica $\mathrm{SV}(9,3)$ evaluando un frame conversacional conforme a *El transductor lingüístico y el horizonte $H_{\mathrm{NLP}}$ del Sistema Vectorial SV* (Lloret Egea, 2026j). Trayectoria $\Gamma = (\nu_0, \nu_1, \nu_2, \nu_3)$:
+**Objeto.** Sea la célula canónica `\mathrm{SV}(9,3)` evaluando un frame conversacional conforme a *El transductor lingüístico y el horizonte `H_{\mathrm{NLP}}` del Sistema Vectorial SV* (Lloret Egea, 2026j). Trayectoria `\Gamma = (\nu_0, \nu_1, \nu_2, \nu_3)`:
 
-$$
+```text
 \mathbf{v}_0 = (U,0,0,\,U,0,0,\,U,0,0), \quad
 \mathbf{v}_1 = (0,0,0,\,U,0,0,\,U,0,0),
-$$
+```
 
-$$
+```text
 \mathbf{v}_2 = (0,0,0,\,0,0,0,\,U,0,0), \quad
 \mathbf{v}_3 = (0,0,0,\,0,0,0,\,0,0,0).
-$$
+```
 
-Observable compatible (VII §1): $f(\nu_j)=|\{i : v_j(i)=U\}|$, con $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=1$, $f(\nu_3)=0$.
+Observable compatible (VII §1): `f(\nu_j)=|\{i : v_j(i)=U\}|`, con `f(\nu_0)=3`, `f(\nu_1)=2`, `f(\nu_2)=1`, `f(\nu_3)=0`.
 
-**Plano I — Dominio compatible (VII §1).** $K_3=\{0,1,U\}$ codominio de lectura; $f \in \mathbb{N}_0$ observable aditivo compatible. Lectura inducida: APTO si $f=0$.
+**Plano I — Dominio compatible (VII §1).** `K_3=\{0,1,U\}` codominio de lectura; `f \in \mathbb{N}_0` observable aditivo compatible. Lectura inducida: APTO si `f=0`.
 
-**Plano II — Equivalente clásico (VIII §2).** El descenso $f(\nu_0)=3 \to f(\nu_3)=0$ es el análogo de una función convergente a su mínimo. $\Delta N = 3$.
+**Plano II — Equivalente clásico (VIII §2).** El descenso `f(\nu_0)=3 \to f(\nu_3)=0` es el análogo de una función convergente a su mínimo. `\Delta N = 3`.
 
-**Plano III — U, residual y límite (IX).** Mediante $\Gamma_{\mathcal{H}}$ (Lloret Egea, 2026i): $P_1$, $P_4$ y $P_7$ son U-resolubles; $\mathcal{U}_{\mathrm{irr}}(\nu_0)=\varnothing$ (gobernable). Residual $\mathcal{R}(\nu_0)=3$; límite $\kappa_F(\Gamma)=\mathrm{APTO}$ en $\nu_3$.
+**Plano III — U, residual y límite (IX).** Mediante `\Gamma_{\mathcal{H}}` (Lloret Egea, 2026i): `P_1`, `P_4` y `P_7` son U-resolubles; `\mathcal{U}_{\mathrm{irr}}(\nu_0)=\varnothing` (gobernable). Residual `\mathcal{R}(\nu_0)=3`; límite `\kappa_F(\Gamma)=\mathrm{APTO}` en `\nu_3`.
 
-**Plano IV — Derivada de suceso (X §2).** Con $\omega(\nu_j)=1$:
+**Plano IV — Derivada de suceso (X §2).** Con `\omega(\nu_j)=1`:
 
-$$
+```text
 \mathfrak{D}_\Gamma f(0)=-1,\quad \mathfrak{D}_\Gamma f(1)=-1,\quad \mathfrak{D}_\Gamma f(2)=-1.
-$$
+```
 
-Una posición en $U$ por suceso. Segunda derivada $\mathfrak{D}^2_\Gamma f \equiv 0$: variación lineal.
+Una posición en `U` por suceso. Segunda derivada `\mathfrak{D}^2_\Gamma f \equiv 0`: variación lineal.
 
 **Plano V — Acumulación factual (XI §4).** Relación fundamental:
 
-$$
+```text
 \mathfrak{A}_{\Gamma[0,3]}(\mathfrak{D}_\Gamma f) = -3 = f(\nu_3)-f(\nu_0).
-$$
+```
 
-Coste de memoria activa: $O(3)$ (Lloret Egea, 2026i).
+Coste de memoria activa: `O(3)` (Lloret Egea, 2026i).
 
-**Plano VI — Sensibilidad factual (XII §1).** Sea $a$ el umbral de activación en $\mathcal{H}_{\mathrm{NLP}}$. $\mathcal{S}_a(f;\nu_0)<0$: activar un suceso adicional reduce $f$ en una unidad. Sensibilidad uniforme a lo largo de $\Gamma$.
+**Plano VI — Sensibilidad factual (XII §1).** Sea `a` el umbral de activación en `\mathcal{H}_{\mathrm{NLP}}`. `\mathcal{S}_a(f;\nu_0)<0`: activar un suceso adicional reduce `f` en una unidad. Sensibilidad uniforme a lo largo de `\Gamma`.
 
-**Plano VII — Jacobiano estructural (XII §2).** El jacobiano $J_{\mathrm{SV}}(\nu_j)$ mide la tasa de cambio del observable por unidad de variación paramétrica. En $\nu_3$ (APTO): $J_{\mathrm{SV}}(\nu_3)=0$ — el punto de convergencia es insensible a variaciones del horizonte.
+**Plano VII — Jacobiano estructural (XII §2).** El jacobiano `J_{\mathrm{SV}}(\nu_j)` mide la tasa de cambio del observable por unidad de variación paramétrica. En `\nu_3` (APTO): `J_{\mathrm{SV}}(\nu_3)=0` — el punto de convergencia es insensible a variaciones del horizonte.
 
-**Cierre del recorrido parcial.** Los operadores VII–XII producen un dictamen coherente: $\Delta N=3$, derivada uniforme, acumulación telescópica verificada, residual decreciente, jacobiano nulo en el cierre. El cuadro geométrico completo en XXIV §15.
+**Cierre del recorrido parcial.** Los operadores VII–XII producen un dictamen coherente: `\Delta N=3`, derivada uniforme, acumulación telescópica verificada, residual decreciente, jacobiano nulo en el cierre. El cuadro geométrico completo en XXIV §15.
 
 
 
@@ -954,7 +954,7 @@ Este apartado fija cuatro nociones:
 
 ### 2.1 Trayectoria factual orientada
 
-Sea $\Gamma=(\nu_0,\dots,\nu_m)$. La trayectoria está orientada si el orden es semánticamente significativo y no puede permutarse sin cambiar el caso.
+Sea `\Gamma=(\nu_0,\dots,\nu_m)`. La trayectoria está orientada si el orden es semánticamente significativo y no puede permutarse sin cambiar el caso.
 
 ### 2.2 Frontera factual
 
@@ -966,7 +966,7 @@ Un mosaico compatible es un conjunto finito de trayectorias, subtrayectorias o c
 
 ### 2.4 Campo factual
 
-Un campo factual es toda aplicación $\mathcal F:D\to A^r$ definida sobre una trayectoria, una superficie factual o un volumen factual del sistema, con codominio compatible y lectura estructuralmente interpretable.
+Un campo factual es toda aplicación `\mathcal F:D\to A^r` definida sobre una trayectoria, una superficie factual o un volumen factual del sistema, con codominio compatible y lectura estructuralmente interpretable.
 
 ## 3. Consecuencias
 
@@ -993,27 +993,27 @@ Este apartado introduce la primera formulación explícita de flujo factual, div
 
 ## 1. Flujo factual
 
-Sea $\mathcal F$ un campo factual y $F$ una frontera factual explícita. El flujo factual se define preliminarmente por:
+Sea `\mathcal F` un campo factual y `F` una frontera factual explícita. El flujo factual se define preliminarmente por:
 
-$$
+```text
 \Phi_{SV}(\mathcal F;\mathcal M,F)=\sum_j \sigma_j\,\mathcal F(F_j)\,\omega(F_j).
-$$
+```
 
 ## 2. Divergencia factual
 
-Para una unidad local $C$ con frontera $F_C$:
+Para una unidad local `C` con frontera `F_C`:
 
-$$
+```text
 \mathrm{Div}_{SV}(\mathcal F;C)=\Phi_{SV}(\mathcal F;C,F_C)-\mathcal I_{SV}(\mathcal F;C).
-$$
+```
 
 ## 3. Rotor factual
 
-Sobre un ciclo factual compatible $\Gamma^\circlearrowleft$:
+Sobre un ciclo factual compatible `\Gamma^\circlearrowleft`:
 
-$$
+```text
 \mathrm{Rot}_{SV}(\mathcal F;\Gamma^\circlearrowleft)=\mathfrak C_{\Gamma^\circlearrowleft}(\mathcal F).
-$$
+```
 
 ## 4. Estatuto
 
@@ -1035,17 +1035,17 @@ Un volumen factual es una agregación compatible de superficies o celdas locales
 
 ## 3. Pegado compatible
 
-Dos elementos $X$ e $Y$ admiten pegado compatible si sus fronteras parciales, orientaciones y trazabilidad permiten una agregación sin doble contabilidad ilegítima.
+Dos elementos `X` e `Y` admiten pegado compatible si sus fronteras parciales, orientaciones y trazabilidad permiten una agregación sin doble contabilidad ilegítima.
 
 ## 4. Integrales preliminares
 
-$$
+```text
 \iint_{\Sigma_{SV}}^{SV}\mathcal F = \sum_j \sigma_j\,\mathcal F(\Gamma_j)\,\omega(\Gamma_j)
-$$
+```
 
-$$
+```text
 \iiint_{\mathcal V_{SV}}^{SV}\mathcal G = \sum_k \mathcal G(C_k)\,\omega(C_k)
-$$
+```
 
 ## 5. Conclusión
 
@@ -1055,15 +1055,15 @@ El SV dispone ya de una primera teoría de agregación geométrica sobre superfi
 
 ## Enunciado preliminar
 
-Sea $\mathcal V_{SV}$ un volumen factual con frontera total $F(\mathcal V_{SV})$, mosaico compatible y campo factual $\mathcal F$. Bajo hipótesis de frontera explícita, pegado compatible, orientación coherente y preservación de `U`, se obtiene la correspondencia estructural:
+Sea `\mathcal V_{SV}` un volumen factual con frontera total `F(\mathcal V_{SV})`, mosaico compatible y campo factual `\mathcal F`. Bajo hipótesis de frontera explícita, pegado compatible, orientación coherente y preservación de `U`, se obtiene la correspondencia estructural:
 
-$$
+```text
 \iiint_{\mathcal V_{SV}}^{SV}\mathrm{Div}_{SV}(\mathcal F)
 \;\leadsto\;
 \iint_{F(\mathcal V_{SV})}^{SV}\mathcal F.
-$$
+```
 
-El símbolo $\leadsto$ expresa correspondencia estructural preparatoria, no identidad formal cerrada.
+El símbolo `\leadsto` expresa correspondencia estructural preparatoria, no identidad formal cerrada.
 
 ## Idea de demostración
 
@@ -1168,11 +1168,11 @@ El alcance de este apartado es recoger, en un bloque único y doctrinalmente ali
 
 La cadena de prevalencia permanece intacta:
 
-$$
+```text
 \text{doctrina} \succ \text{álgebra} \succ \text{lenguaje} \succ \text{IR} \succ \text{runner/backend}.
-$$
+```
 
-Ningún operador, dominio auxiliar o formalismo posterior podrá corregir silenciosamente el suelo doctrinal del SV. La matemática primaria del cálculo del suceso continúa definiéndose sobre dominios compatibles y no sobre $K_3$, quedando la clausura ternaria como lectura inducida.
+Ningún operador, dominio auxiliar o formalismo posterior podrá corregir silenciosamente el suelo doctrinal del SV. La matemática primaria del cálculo del suceso continúa definiéndose sobre dominios compatibles y no sobre `K_3`, quedando la clausura ternaria como lectura inducida.
 
 ## 2. Diagnóstico de completitud matemática: carencias identificadas y cierres alcanzados
 
@@ -1197,132 +1197,132 @@ El diagnóstico fue claro: el conjunto de secciones previas contenía ya el suel
 
 ### 3.1. Operador de borde factual
 
-Sea $C$ una unidad local del mosaico. Su borde queda expresado como suma finita de bordes locales orientados:
+Sea `C` una unidad local del mosaico. Su borde queda expresado como suma finita de bordes locales orientados:
 
-$$
+```text
 \partial C=\sum_{j=1}^{m(C)} \sigma_j\,F_j,
 \qquad \sigma_j\in\{-1,+1\}.
-$$
+```
 
 La orientación de cada borde queda inducida por la orientación factual de la unidad de la que procede, y se cierra como regla constitutiva que
 
-$$
+```text
 \partial^2=0.
-$$
+```
 
 Esta igualdad no se introduce como préstamo topológico ajeno, sino como principio propio de cancelación de bordes internos del SV.
 
 ### 3.2. Ley de pegado compatible
 
-Sean $X$ e $Y$ dos unidades factuales. Diremos que admiten **pegado compatible** si existe un subconjunto de borde común $G\subseteq \partial X\cap \partial Y$ tal que:
+Sean `X` e `Y` dos unidades factuales. Diremos que admiten **pegado compatible** si existe un subconjunto de borde común `G\subseteq \partial X\cap \partial Y` tal que:
 
-1. $G$ está materialmente identificado;
+1. `G` está materialmente identificado;
 2. sus orientaciones son opuestas;
 3. sus pesos factuales son coherentes;
 4. el pegado no introduce doble contabilidad.
 
-Entonces el compuesto factual $X\cup_G Y$ satisface:
+Entonces el compuesto factual `X\cup_G Y` satisface:
 
-$$
+```text
 \partial(X\cup_G Y)=\partial X+\partial Y-2G_{\mathrm{int}},
-$$
+```
 
 y, por cancelación orientada de borde interno,
 
-$$
+```text
 \partial(X\cup_G Y)=\partial_{\mathrm{ext}}(X,Y).
-$$
+```
 
 ### 3.3. Proposición de cancelación interna
 
 **Proposición.**  
-Si $\mathcal M$ es un mosaico compatible, toda cara interna compartida exactamente por dos unidades con orientación opuesta desaparece en $\partial\mathcal M$.
+Si `\mathcal M` es un mosaico compatible, toda cara interna compartida exactamente por dos unidades con orientación opuesta desaparece en `\partial\mathcal M`.
 
 **Demostración.**  
-La contribución de esa cara aparece una vez con signo $+1$ y otra con signo $-1$. Su suma es nula en el grupo aditivo compatible subyacente. Si la cara no es verificable como común, la cancelación no procede y no se clausura por intuición. $\square$
+La contribución de esa cara aparece una vez con signo `+1` y otra con signo `-1`. Su suma es nula en el grupo aditivo compatible subyacente. Si la cara no es verificable como común, la cancelación no procede y no se clausura por intuición. `\square`
 
 ### 3.4. Frontera total del mosaico
 
 La frontera total del mosaico compatible se define por
 
-$$
+```text
 \partial\mathcal M:=\sum_{\alpha\in A}\partial C_\alpha.
-$$
+```
 
 Las caras internas compatibles se cancelan automáticamente y la suma resultante deja sólo borde externo factual. Si alguna cancelación no es legitimable, la salida no se fuerza: queda componente abierta en `U`.
 
 ### 3.5. Flujo factual: definición y alcance
 
-Sea $\mathcal F$ un campo factual formal y sea $B$ una frontera factual orientada. Se define el flujo factual por
+Sea `\mathcal F` un campo factual formal y sea `B` una frontera factual orientada. Se define el flujo factual por
 
-$$
+```text
 \Phi_{SV}(\mathcal F;B)
 :=
 \sum_j \sigma_j\,\langle \mathcal F(B_j), n_{B_j}\rangle_{SV}\,\omega(B_j),
-$$
+```
 
 donde:
-- $B=\sum_j \sigma_j B_j$;
-- $n_{B_j}$ es una orientación factual normalizada, no necesariamente euclídea;
-- $\langle\cdot,\cdot\rangle_{SV}$ denota la contracción factual compatible cuando exista;
+- `B=\sum_j \sigma_j B_j`;
+- `n_{B_j}` es una orientación factual normalizada, no necesariamente euclídea;
+- `\langle\cdot,\cdot\rangle_{SV}` denota la contracción factual compatible cuando exista;
 - y, si tal contracción no procede, el flujo se mantiene en el nivel escalar que resulte legítimo.
 
 ### 3.6. Divergencia factual: formulación formal
 
-Para una unidad local $C$, se define la divergencia factual formal por
+Para una unidad local `C`, se define la divergencia factual formal por
 
 $$\mathrm{Div}_{SV}(\mathcal F;C)\,\omega(C) = \Phi_{SV}(\mathcal F;\partial C)-\mathcal I_{\mathrm{res}}(\mathcal F;C),$$
 
-donde $\mathcal I_{\mathrm{res}}$ es el término factual interno de fuente, sumidero o residual estructural local.
+donde `\mathcal I_{\mathrm{res}}` es el término factual interno de fuente, sumidero o residual estructural local.
 
 En el caso homogéneo sin residual interior:
 
-$$
+```text
 \mathrm{Div}_{SV}(\mathcal F;C)\,\omega(C)=\Phi_{SV}(\mathcal F;\partial C).
-$$
+```
 
 ### 3.7. Rotor factual: formulación formal
 
-Sobre un ciclo factual orientado $\Gamma^\circlearrowleft$, se define la circulación factual
+Sobre un ciclo factual orientado `\Gamma^\circlearrowleft`, se define la circulación factual
 
 $$\mathfrak C_{\Gamma^\circlearrowleft}(\mathcal F) = \sum_j \varepsilon_j\,\mathcal F(\Gamma_j)\,\omega(\Gamma_j).$$
 
-El rotor factual formal queda definido como la clase de operador local cuya integral factual de superficie recupera la circulación sobre $\partial\Sigma$. Más abajo se refuerza además como antisimetría de parciales posicionales.
+El rotor factual formal queda definido como la clase de operador local cuya integral factual de superficie recupera la circulación sobre `\partial\Sigma`. Más abajo se refuerza además como antisimetría de parciales posicionales.
 
 ### 3.8. Integrales factuales: formulación completa
 
-Para una superficie factual $\Sigma_{SV}$:
+Para una superficie factual `\Sigma_{SV}`:
 
-$$
+```text
 \iint_{\Sigma_{SV}}^{SV}\mathcal F
 :=
 \sum_j \sigma_j\,\mathcal F(B_j)\,\omega(B_j).
-$$
+```
 
-Para un volumen factual $\mathcal V_{SV}$:
+Para un volumen factual `\mathcal V_{SV}`:
 
-$$
+```text
 \iiint_{\mathcal V_{SV}}^{SV}\mathcal G
 :=
 \sum_k \mathcal G(C_k)\,\omega(C_k).
-$$
+```
 
 ### 3.9. Invariancia por refinamiento
 
 **Teorema.**  
-Si $\mathcal M'$ es un refinamiento compatible de $\mathcal M$, entonces
+Si `\mathcal M'` es un refinamiento compatible de `\mathcal M`, entonces
 
-$$
+```text
 \iint_{\Sigma_{SV}}^{SV}\mathcal F
 \quad\text{y}\quad
 \iiint_{\mathcal V_{SV}}^{SV}\mathcal G
-$$
+```
 
-son invariantes bajo el paso de $\mathcal M$ a $\mathcal M'$, salvo contribuciones que deban permanecer abiertas en `U`.
+son invariantes bajo el paso de `\mathcal M` a `\mathcal M'`, salvo contribuciones que deban permanecer abiertas en `U`.
 
 ### 3.10. Teorema de balance de frontera
 
-Si $\mathcal V_{SV}$ es un volumen factual compatible y $\mathcal F$ un campo factual formal, entonces, bajo frontera explícita, orientación coherente, pegado compatible, ausencia de doble contabilidad y preservación de `U`,
+Si `\mathcal V_{SV}` es un volumen factual compatible y `\mathcal F` un campo factual formal, entonces, bajo frontera explícita, orientación coherente, pegado compatible, ausencia de doble contabilidad y preservación de `U`,
 
 $$\iiint_{\mathcal V_{SV}}^{SV}\mathrm{Div}_{SV}(\mathcal F) = \iint_{\partial\mathcal V_{SV}}^{SV}\mathcal F - \iiint_{\mathcal V_{SV}}^{SV}\mathcal I_{\mathrm{res}}(\mathcal F).$$
 
@@ -1380,23 +1380,23 @@ La lectura ternaria se reserva para un momento posterior; no participa en la igu
 
 ### 4.1. Parciales paramétricas
 
-Si $q:\Gamma\to A^r$ depende de parámetros $x=(x_1,\dots,x_p)$, la parcial respecto de $x_a$ en el suceso $\nu_j$ queda definida por
+Si `q:\Gamma\to A^r` depende de parámetros `x=(x_1,\dots,x_p)`, la parcial respecto de `x_a` en el suceso `\nu_j` queda definida por
 
-$$
+```text
 \partial^{SV}_{x_a} q(\nu_j)
 :=
 \frac{q_j(x_a+\Delta x_a)-q_j(x_a)}{\Delta x_a}.
-$$
+```
 
 ### 4.2. Parciales posicionales
 
 Si un observable tiene componentes o posiciones internas tipadas, se define
 
-$$
+```text
 \partial^{SV}_{i} f(\nu_j)
 :=
 \frac{f_j^{(i,+)}-f_j^{(i,-)}}{\delta_i}.
-$$
+```
 
 ### 4.3. Gradiente factual
 
@@ -1416,33 +1416,33 @@ cuando la contracción factual compatible está legitimada en el dominio.
 
 ### 4.5. Segunda derivada de suceso
 
-$$
+```text
 \Delta_{\nu_j}^2 f:=f_{j+2}-2f_{j+1}+f_j.
-$$
+```
 
 Versión normalizada:
 
-$$
+```text
 \mathfrak D_{\Gamma}^{(2)} f(j)
 :=
 \frac{f_{j+2}-2f_{j+1}+f_j}{\omega(\nu_j)\,\omega(\nu_{j+1})}.
-$$
+```
 
 ### 4.6. Segundas parciales paramétricas
 
-$$
+```text
 \partial^{SV\,2}_{x_a x_a} f(\nu_j)
 :=
 \frac{f_j(x_a+\Delta x_a)-2f_j(x_a)+f_j(x_a-\Delta x_a)}{(\Delta x_a)^2}.
-$$
+```
 
 Parciales mixtas:
 
-$$
+```text
 \partial^{SV\,2}_{x_a x_b} f(\nu_j)
 :=
 \partial^{SV}_{x_a}\bigl(\partial^{SV}_{x_b}f(\nu_j)\bigr).
-$$
+```
 
 No se declara conmutatividad universal; solo bajo compatibilidad explícita de perturbaciones.
 
@@ -1458,11 +1458,11 @@ $$H^{SV}_{\mathrm{pos}} f(\nu_j) = \bigl(\partial^{SV\,2}_{ij} f(\nu_j)\bigr)_{i
 
 ### 4.8. Laplaciano factual
 
-$$
+```text
 \Delta^{SV}_{\mathrm{L}} f(\nu_j)
 :=
 \sum_{i=1}^{n}\partial^{SV\,2}_{ii} f(\nu_j).
-$$
+```
 
 ## 5. Jacobianos, divergencia posicional y rotor como antisimetría
 
@@ -1482,32 +1482,32 @@ $$\mathrm{Div}_{SV}(F) = \sum_{i=1}^{n}\partial^{SV}_{i}F^i - \mathcal I_{\mathr
 
 $$\Omega^{SV}_{ij}(F) = \partial^{SV}_{i}F^j-\partial^{SV}_{j}F^i.$$
 
-En dimensión dos basta $\Omega^{SV}_{12}$. En dimensión tres puede proyectarse a vector solo bajo estructura auxiliar declarada. En dimensión superior debe mantenerse como 2-forma factual antisimétrica.
+En dimensión dos basta `\Omega^{SV}_{12}`. En dimensión tres puede proyectarse a vector solo bajo estructura auxiliar declarada. En dimensión superior debe mantenerse como 2-forma factual antisimétrica.
 
 ### 5.5. Jacobiano de clausura
 
 Morfismo de clausura:
 
-$$
+```text
 \tau:\mathcal O \to K_3^m.
-$$
+```
 
 Matriz de transición:
 
 $$J^{SV}_{\mathrm{cl}}(a,k) = \mathrm{clase}\!\Bigl( \tau_k(q(x+\Delta x_a)) \leftarrow \tau_k(q(x)) \Bigr).$$
 
 Clases mínimas:
-- persistencia de cierre $0\to0$,
-- persistencia de infracción $1\to1$,
-- persistencia de `U` $U\to U$,
-- resolución favorable $U\to0$,
-- resolución desfavorable $U\to1$,
-- reapertura $0\to U$,
-- reapertura $1\to U$,
-- inversión $0\leftrightarrow1$,
+- persistencia de cierre `0\to0`,
+- persistencia de infracción `1\to1`,
+- persistencia de `U` `U\to U`,
+- resolución favorable `U\to0`,
+- resolución desfavorable `U\to1`,
+- reapertura `0\to U`,
+- reapertura `1\to U`,
+- inversión `0\leftrightarrow1`,
 - bifurcación estructural.
 
-Composición parcial $\circ_{\mathrm{cl}}$:
+Composición parcial `\circ_{\mathrm{cl}}`:
 - la persistencia es neutra;
 - dos resoluciones sucesivas colapsan en la clase final;
 - una reapertura rompe la persistencia previa;
@@ -1515,9 +1515,9 @@ Composición parcial $\circ_{\mathrm{cl}}$:
 
 Estabilidad:
 
-$$
+```text
 J^{SV}_{\mathrm{cl}}(a,k)\in\{0\to0,\;1\to1,\;U\to U\}
-$$
+```
 
 define estabilidad; resolución favorable o desfavorable define resolución; reapertura o inversión define fragilidad.
 
@@ -1525,11 +1525,11 @@ define estabilidad; resolución favorable o desfavorable define resolución; rea
 
 ### 6.1. Forma general
 
-$$
+```text
 \mathcal T_{\Phi}[q](\lambda)
 :=
 \sum_{j=0}^{m} q_j\,\Phi_\lambda(\nu_j).
-$$
+```
 
 ### 6.2. Familias de transformadas mínimas
 
@@ -1551,7 +1551,7 @@ $$\mathcal T_{\mathrm{res}}[q] = \sum_j q_j\,R(\nu_j).$$
 
 ### 6.3. Núcleos admisibles
 
-Una familia $\Phi_\lambda$ es admisible si:
+Una familia `\Phi_\lambda` es admisible si:
 1. está declarada sobre sucesos o posiciones de trayectoria;
 2. respeta el dominio compatible;
 3. no introduce tiempo soberano;
@@ -1566,16 +1566,16 @@ Una familia $\Phi_\lambda$ es admisible si:
 
 ### 6.5. Separabilidad
 
-$$
+```text
 \mathcal T_\Phi[q_1]=\mathcal T_\Phi[q_2] \implies q_1=q_2
 \quad\text{para todo } q_1,q_2\in\mathcal Q.
-$$
+```
 
 ### 6.6. Inversa factual
 
-$$
+```text
 \mathcal T_\Phi^{-1}:\mathrm{Im}(\mathcal T_\Phi)\to \mathcal Q/\!\sim
-$$
+```
 
 con tres regímenes:
 - reconstrucción exacta;
@@ -1588,21 +1588,21 @@ $$\kappa^{SV}_{\mathrm{rec}}(\Phi,q) = \frac{\|\delta q\|_{SV}}{\|\delta \mathca
 
 ### 6.8. Teorema de reconstrucción
 
-Si $\Phi$ es separante y estable sobre $\mathcal Q$, entonces
+Si `\Phi` es separante y estable sobre `\mathcal Q`, entonces
 
-$$
+```text
 \mathcal T_\Phi^{-1}\bigl(\mathcal T_\Phi[q]\bigr)=q.
-$$
+```
 
-Si $\Phi$ no es separante, la salida correcta es una clase de equivalencia o `U` reconstructiva.
+Si `\Phi` no es separante, la salida correcta es una clase de equivalencia o `U` reconstructiva.
 
 ## 7. Cambio de dominio ampliado
 
 ### 7.1. Definición
 
-$$
+```text
 \mathfrak C_{D\to D'}:\mathcal O_D\to \mathcal O_{D'}
-$$
+```
 
 con:
 1. trazabilidad del observable;
@@ -1618,18 +1618,18 @@ con:
 
 ### 7.3. Invariantes
 
-$$
+```text
 \mathrm{Inv}(\mathfrak C)=
 \{\text{aditividad},\ \text{orden},\ \text{clase de cierre},\ \text{residual},\ \text{frontera},\ \text{orientación}\}.
-$$
+```
 
 ### 7.4. Composición formal de cambios de dominio
 
 Si
 
-$$
+```text
 \mathfrak C_{D_0\to D_1},\quad \mathfrak C_{D_1\to D_2}
-$$
+```
 
 son legítimos y sus invariantes son compatibles, entonces existe la composición
 
@@ -1649,36 +1649,36 @@ Quedan legitimados:
 
 ### 8.1. Variable compleja factual
 
-$$
+```text
 z_{SV}=(u,v),
 \qquad u,v\in D.
-$$
+```
 
 Formalmente:
 
-$$
+```text
 z_{SV}=u+\mathbf i_{SV}v,
-$$
+```
 
-donde $\mathbf i_{SV}$ es un marcador formal auxiliar.
+donde `\mathbf i_{SV}` es un marcador formal auxiliar.
 
 ### 8.2. Compatibilidad compleja factual
 
-$$
+```text
 \partial^{SV}_{u}P=\partial^{SV}_{v}Q,
 \qquad
 \partial^{SV}_{v}P=-\partial^{SV}_{u}Q.
-$$
+```
 
 ### 8.3. Integral compleja factual
 
-$$
+```text
 \int_{\Gamma^\circlearrowleft}^{SV} f_{SV}(z)\,dz_{SV}
 :=
 \sum_{j} f_{SV}(z_j)\,\Delta z_j,
 \qquad
 \Delta z_j = \Delta u_j + \mathbf i_{SV}\Delta v_j.
-$$
+```
 
 ### 8.4. Singularidades factuales
 
@@ -1690,11 +1690,11 @@ $$
 
 ### 8.5. Residuo factual
 
-$$
+```text
 \mathrm{Res}_{SV}(f_{SV};a)
-$$
+```
 
-mide la concentración neta de defecto o fuente estructural capturada por cualquier ciclo factual compatible que rodee la singularidad $a$ sin cruzar otras singularidades.
+mide la concentración neta de defecto o fuente estructural capturada por cualquier ciclo factual compatible que rodee la singularidad `a` sin cruzar otras singularidades.
 
 ### 8.6. Teorema del residuo factual
 
@@ -1704,11 +1704,11 @@ La ley sustantiva es: circulación factual compleja sobre el contorno = suma de 
 
 ## 9. Clases de ciclo, cohomología factual mínima y dualidad
 
-Dos ciclos factuales $\Gamma_1,\Gamma_2$ son equivalentes cuando tienen la misma frontera nula, difieren por pegado de fronteras internas cancelables y no atraviesan singularidades o defectos no equivalentes. La clase de ciclo factual se escribe
+Dos ciclos factuales `\Gamma_1,\Gamma_2` son equivalentes cuando tienen la misma frontera nula, difieren por pegado de fronteras internas cancelables y no atraviesan singularidades o defectos no equivalentes. La clase de ciclo factual se escribe
 
-$$
+```text
 [\Gamma]_{SV}:=\Gamma/\!\sim_{SV}.
-$$
+```
 
 Se define una cohomología factual mínima como estructura dual que clasifica funcionales invariantes sobre clases de ciclo. La dualidad factual queda cerrada a primer orden:
 - interior y frontera;
@@ -1718,35 +1718,35 @@ Se define una cohomología factual mínima como estructura dual que clasifica fu
 
 ## 10. Operadores generadores y desarrollo espectral factual
 
-Se introduce un operador generador factual $\mathcal G^{SV}$ de trayectorias tal que
+Se introduce un operador generador factual `\mathcal G^{SV}` de trayectorias tal que
 
-$$
+```text
 q_{j+1} = \mathcal G^{SV}(q_j,\nu_j).
-$$
+```
 
 Sobre ese suelo se añade un desarrollo espectral factual:
 
-$$
+```text
 q = \sum_{\lambda\in\Lambda} c_\lambda\,\Psi_\lambda,
-$$
+```
 
-donde $\Psi_\lambda$ son modos factuales y $c_\lambda$ coeficientes en dominio compatible.
+donde `\Psi_\lambda` son modos factuales y `c_\lambda` coeficientes en dominio compatible.
 
 ## 11. Curvatura factual completa, gravedad factual mínima y Maxwell factual completo
 
 ### 11.1. Curvatura factual por conexión
 
-Sea $\nabla^{SV}$ una conexión factual declarada sobre trayectorias o mosaicos. La curvatura factual se define por
+Sea `\nabla^{SV}` una conexión factual declarada sobre trayectorias o mosaicos. La curvatura factual se define por
 
 $$\mathcal R^{SV}(X,Y)Z = \nabla^{SV}_{X}\nabla^{SV}_{Y}Z - \nabla^{SV}_{Y}\nabla^{SV}_{X}Z - \nabla^{SV}_{[X,Y]_{SV}}Z.$$
 
 ### 11.2. Curvatura factual por holonomía
 
-Sobre un ciclo factual elemental $\square$, la curvatura puede medirse también por el defecto de holonomía:
+Sobre un ciclo factual elemental `\square`, la curvatura puede medirse también por el defecto de holonomía:
 
-$$
+```text
 \mathrm{Hol}_{SV}(\square)-\mathrm{Id}.
-$$
+```
 
 Con ello la gravedad factual mínima dispone ya de formulación por conexión y por holonomía.
 
@@ -1754,37 +1754,37 @@ Con ello la gravedad factual mínima dispone ya de formulación por conexión y 
 
 Se fija el bloque factual completo:
 
-$$
+```text
 \mathrm{Div}_{SV}(D)=\rho,\qquad \mathrm{Div}_{SV}(B)=0,
-$$
+```
 
-$$
+```text
 \mathrm{Rot}_{SV}(E)+\partial^{SV}_{\nu}B=0,\qquad
 \mathrm{Rot}_{SV}(H)-\partial^{SV}_{\nu}D=J,
-$$
+```
 
 junto con relaciones constitutivas
 
-$$
+```text
 D=\varepsilon_{SV}(E),\qquad
 B=\mu_{SV}(H),\qquad
 J=\sigma_{SV}(E)+J_{\mathrm{ext}}.
-$$
+```
 
 ### 11.4. Condiciones de contorno factuales
 
-Sobre una interfaz factual $\Sigma$, se exige:
-- continuidad o salto declarado del componente tangencial de $E$;
-- continuidad o salto declarado del componente normal de $D$;
+Sobre una interfaz factual `\Sigma`, se exige:
+- continuidad o salto declarado del componente tangencial de `E`;
+- continuidad o salto declarado del componente normal de `D`;
 - balance factual explícito de fuente de borde cuando proceda.
 
 ### 11.5. Ley de balance electromagnético
 
-Para todo volumen factual $\mathcal V$:
+Para todo volumen factual `\mathcal V`:
 
 $$\iiint_{\mathcal V}^{SV}\mathrm{Div}_{SV}(D) = \iint_{\partial\mathcal V}^{SV} D.$$
 
-Análogamente para $B$, y para rotor/circulación sobre ciclos factuales compatibles.
+Análogamente para `B`, y para rotor/circulación sobre ciclos factuales compatibles.
 
 ### 11.6. Bloque de Higgs y canales
 
@@ -1829,9 +1829,9 @@ Todo lowering al IR deberá preservar:
 
 ### 12.3. Regla de legitimidad
 
-$$
+```text
 \text{doctrina} \succ \text{álgebra} \succ \text{lenguaje} \succ \text{IR} \succ \text{runner/backend}.
-$$
+```
 
 ## 13. Frontera cuántica positiva y negativa
 
@@ -1857,7 +1857,7 @@ Pero solo si el retorno al SV se produce mediante:
 3. residual estructural;
 4. morfismo de clausura.
 
-No existe paso legítimo directo desde una representación auxiliar $\Psi$ a $K_3$; ese retorno exige mediación factual por morfismo de observación y morfismo de clausura.
+No existe paso legítimo directo desde una representación auxiliar `\Psi` a `K_3`; ese retorno exige mediación factual por morfismo de observación y morfismo de clausura.
 
 ## 14. Trazabilidad técnica mínima de lo resuelto y de lo absorbido
 
@@ -1885,7 +1885,7 @@ No queda, tras esta versión, ninguna deuda matemática imprescindible para el a
 - laboratorios de mayor extensión;
 - expansión futura de generalidad o elegancia formal.
 
-## 15. Recorrido completo: la célula $\mathrm{SV}(9,3)$ bajo todos los operadores
+## 15. Recorrido completo: la célula `\mathrm{SV}(9,3)` bajo todos los operadores
 
 Este apartado extiende el ejemplo director de XII §7 al bloque geométrico, completando el recorrido desde el suceso elemental hasta los campos factuales, el flujo, la integración y la clausura.
 ![Recorrido completo: la célula SV(9,3) bajo todos los operadores](figuras/fig_recorrido_completo.png)
@@ -1894,97 +1894,97 @@ Este apartado extiende el ejemplo director de XII §7 al bloque geométrico, com
 
 ### Objeto extendido: mosaico de frames
 
-Sea el mosaico $M = \{C_0, C_1, C_2, C_3\}$ donde cada celda $C_j$ corresponde al frame $\nu_j$ de la trayectoria $\Gamma$ del ejemplo de XII §7. El campo factual $\mathcal{F}: M \to \mathbb{N}_0$ asigna a cada celda el conteo de posiciones en $U$:
+Sea el mosaico `M = \{C_0, C_1, C_2, C_3\}` donde cada celda `C_j` corresponde al frame `\nu_j` de la trayectoria `\Gamma` del ejemplo de XII §7. El campo factual `\mathcal{F}: M \to \mathbb{N}_0` asigna a cada celda el conteo de posiciones en `U`:
 
-$$
+```text
 \mathcal{F}(C_0) = 3, \quad \mathcal{F}(C_1) = 2, \quad \mathcal{F}(C_2) = 1, \quad \mathcal{F}(C_3) = 0.
-$$
+```
 
-Las celdas están orientadas con fronteras $F_{01}$, $F_{12}$, $F_{23}$. Pesos $\omega(C_j)=1$, $\omega(F_{jk})=1$.
+Las celdas están orientadas con fronteras `F_{01}`, `F_{12}`, `F_{23}`. Pesos `\omega(C_j)=1`, `\omega(F_{jk})=1`.
 
 ### Flujo factual (XVIII §1)
 
-El flujo del campo $\mathcal{F}$ a través de $F_{01}$:
+El flujo del campo `\mathcal{F}` a través de `F_{01}`:
 
-$$
+```text
 \Phi_{\mathrm{SV}}(\mathcal{F}; F_{01}) = \sigma_0 \,\mathcal{F}(C_0)\,\omega(F_{01}) = 3.
-$$
+```
 
-El sistema transporta tres unidades de indeterminación de $C_0$ hacia $C_1$; dos de $C_1$ hacia $C_2$; una de $C_2$ hacia $C_3$.
+El sistema transporta tres unidades de indeterminación de `C_0` hacia `C_1`; dos de `C_1` hacia `C_2`; una de `C_2` hacia `C_3`.
 
 ### Divergencia factual (XVIII §2)
 
-En la celda $C_1$ (receptora de campo por $F_{01}$ y emisora hacia $C_2$ por $F_{12}$):
+En la celda `C_1` (receptora de campo por `F_{01}` y emisora hacia `C_2` por `F_{12}`):
 
-$$
+```text
 \mathrm{Div}_{\mathrm{SV}}(\mathcal{F})(C_1) = \frac{\Phi_{\mathrm{SV}}(\mathcal{F};F_{01}) - \Phi_{\mathrm{SV}}(\mathcal{F};F_{12})}{\omega(C_1)} = \frac{3 - 2}{1} = 1.
-$$
+```
 
-$C_1$ acumula una unidad neta de indeterminación (fuente parcial): recibe campo desde $C_0$ ($\Phi=3$) y emite hacia $C_2$ ($\Phi=2$).
+`C_1` acumula una unidad neta de indeterminación (fuente parcial): recibe campo desde `C_0` (`\Phi=3`) y emite hacia `C_2` (`\Phi=2`).
 
 ### Rotor factual (XVIII §3)
 
-Para el recorrido orientado $C_0 \to C_1 \to C_2 \to C_0$, el rotor factual mide la circulación de $\mathcal{F}$. Dado que $\mathcal{F}$ decrece monotónicamente a lo largo del recorrido dirigido, la circulación neta sobre el ciclo cerrado vale:
+Para el recorrido orientado `C_0 \to C_1 \to C_2 \to C_0`, el rotor factual mide la circulación de `\mathcal{F}`. Dado que `\mathcal{F}` decrece monotónicamente a lo largo del recorrido dirigido, la circulación neta sobre el ciclo cerrado vale:
 
-$$
+```text
 \mathrm{Rot}_{\mathrm{SV}}(\mathcal{F}) = \mathcal{F}(C_0) - \mathcal{F}(C_3) = 3 - 0 = 3.
-$$
+```
 
 Un campo que no cierra su ciclo no es irrotacional: la indeterminación se disipa a lo largo del recorrido.
 
 ### Integración factual (XIX §4)
 
-La integral del campo a lo largo del mosaico orientado $M$:
+La integral del campo a lo largo del mosaico orientado `M`:
 
-$$
+```text
 \int_M \mathcal{F}\,d\omega = \sum_{j=0}^{2} \mathcal{F}(C_j)\,\omega(C_j) = 3 + 2 + 1 + 0 = 6.
-$$
+```
 
 Seis unidades acumuladas de indeterminación a lo largo de los cuatro frames.
 
 ### Balance de frontera — Teorema SV (XX)
 
-La acumulación de las variaciones del campo a lo largo de $\Gamma$ coincide con la diferencia de valores extremos:
+La acumulación de las variaciones del campo a lo largo de `\Gamma` coincide con la diferencia de valores extremos:
 
-$$
+```text
 \mathfrak{A}_{\Gamma[C_0, C_3]}(\mathfrak{D}_{\Gamma}\mathcal{F}) = \mathcal{F}(C_3) - \mathcal{F}(C_0) = 0 - 3 = -3.
-$$
+```
 
-Este resultado es coherente con el obtenido en XII §7 ($\mathfrak{A}=-3$): el teorema de balance confirma la trazabilidad de extremo a extremo.
+Este resultado es coherente con el obtenido en XII §7 (`\mathfrak{A}=-3`): el teorema de balance confirma la trazabilidad de extremo a extremo.
 
 ### Derivadas parciales y gradiente (XXIV §4)
 
-Sea $\mathcal{F}$ función de dos parámetros del horizonte $\mathcal{H}_{\mathrm{NLP}}$: $a_1$ (umbral para $P_4$) y $a_2$ (umbral para $P_7$). Derivadas parciales en $\nu_0$:
+Sea `\mathcal{F}` función de dos parámetros del horizonte `\mathcal{H}_{\mathrm{NLP}}`: `a_1` (umbral para `P_4`) y `a_2` (umbral para `P_7`). Derivadas parciales en `\nu_0`:
 
-$$
+```text
 \frac{\partial \mathcal{F}}{\partial a_1}\bigg|_{\nu_0} = -1, \qquad
 \frac{\partial \mathcal{F}}{\partial a_2}\bigg|_{\nu_0} = -1.
-$$
+```
 
-Gradiente: $\nabla \mathcal{F}(\nu_0) = (-1, -1)$. El sistema es igualmente sensible a ambos parámetros. No hay asimetría de diseño en el horizonte.
+Gradiente: `\nabla \mathcal{F}(\nu_0) = (-1, -1)`. El sistema es igualmente sensible a ambos parámetros. No hay asimetría de diseño en el horizonte.
 
 ### Jacobiano de clausura (XXIV §5)
 
-En $\nu_3 = \mathrm{APTO}$: $\nabla \mathcal{F}(\nu_3) = (0, 0)$. El jacobiano de clausura es nulo: el punto de convergencia es estable bajo perturbaciones de diseño del horizonte. Coincide con el resultado de XII §7.
+En `\nu_3 = \mathrm{APTO}`: `\nabla \mathcal{F}(\nu_3) = (0, 0)`. El jacobiano de clausura es nulo: el punto de convergencia es estable bajo perturbaciones de diseño del horizonte. Coincide con el resultado de XII §7.
 
 ### Cuadro resumen
 
 | Operador | Fórmula | Resultado |
 |---|---|---|
-| Dominio compatible (VII) | $f \in \mathbb{N}_0$ | aditivo, compatible |
-| Clasificación $\Gamma_{\mathcal{H}}$ (IX) | $\mathcal{U}_{\mathrm{irr}}=\varnothing$ | frame gobernable |
-| Residual (IX §2) | $\mathcal{R}(\nu_0)=3 \to 0$ | descenso monotónico |
-| Derivada de suceso (X) | $\mathfrak{D}_\Gamma f \equiv -1$ | constante |
-| Acumulación (XI) | $\mathfrak{A}=-3=f_3-f_0$ | telescopía ✓ |
-| Sensibilidad (XII §1) | $\mathcal{S}_a < 0$ | cierre activo |
-| Jacobiano en APTO (XII §2) | $J_{\mathrm{SV}}(\nu_3)=0$ | equilibrio ✓ |
-| Flujo factual (XVIII) | $\Phi=3$ por $F_{01}$ | campo decreciente |
-| Divergencia (XVIII §2) | $\mathrm{Div}(C_1)=1$ | fuente parcial |
-| Integración (XIX) | $\int_M=6$ | total acumulado |
-| Balance (XX) | $\mathfrak{A}=-3$ | coherente con XII §7 ✓ |
-| Gradiente (XXIV §4) | $\nabla \mathcal{F}=(-1,-1)$ | horizonte equilibrado |
-| Jacobiano clausura | $J_{\mathrm{clausura}}=0$ | convergencia estable ✓ |
-| Dictamen | $\kappa_F(\Gamma)=\mathrm{APTO}$ | gobernable y cerrado |
+| Dominio compatible (VII) | `f \in \mathbb{N}_0` | aditivo, compatible |
+| Clasificación `\Gamma_{\mathcal{H}}` (IX) | `\mathcal{U}_{\mathrm{irr}}=\varnothing` | frame gobernable |
+| Residual (IX §2) | `\mathcal{R}(\nu_0)=3 \to 0` | descenso monotónico |
+| Derivada de suceso (X) | `\mathfrak{D}_\Gamma f \equiv -1` | constante |
+| Acumulación (XI) | `\mathfrak{A}=-3=f_3-f_0` | telescopía ✓ |
+| Sensibilidad (XII §1) | `\mathcal{S}_a < 0` | cierre activo |
+| Jacobiano en APTO (XII §2) | `J_{\mathrm{SV}}(\nu_3)=0` | equilibrio ✓ |
+| Flujo factual (XVIII) | `\Phi=3` por `F_{01}` | campo decreciente |
+| Divergencia (XVIII §2) | `\mathrm{Div}(C_1)=1` | fuente parcial |
+| Integración (XIX) | `\int_M=6` | total acumulado |
+| Balance (XX) | `\mathfrak{A}=-3` | coherente con XII §7 ✓ |
+| Gradiente (XXIV §4) | `\nabla \mathcal{F}=(-1,-1)` | horizonte equilibrado |
+| Jacobiano clausura | `J_{\mathrm{clausura}}=0` | convergencia estable ✓ |
+| Dictamen | `\kappa_F(\Gamma)=\mathrm{APTO}` | gobernable y cerrado |
 
 **El Sistema Vectorial SV produce, para este input declarado con honestidad, un dictamen coherente y trazable en todos los niveles del aparato matemático: desde la derivada de suceso elemental hasta el flujo geométrico, sin tiempo soberano, sin probabilidad y sin inferencia opaca.**
 
@@ -2057,9 +2057,9 @@ Disponibles en la misma carpeta del repositorio:
 
 Las métricas son deterministas. No expresan probabilidad, frecuencia ni inferencia. Se basan en conteo estructural de posiciones, contraste material directo y aplicación de la regla ternaria de la célula de seguridad.
 
-Para $C_{\mathrm{obj}}^9$ y $C_{\mathrm{base}}^9$ se computan $n_0$, $n_1$, $n_U$ con umbral $T(9)=7$.
+Para `C_{\mathrm{obj}}^9` y `C_{\mathrm{base}}^9` se computan `n_0`, `n_1`, `n_U` con umbral `T(9)=7`.
 
-Para $C_{\mathrm{diseno}}^{36}$ se computan $n_0$, $n_1$, $n_U$ con umbral $T(36)=28$.
+Para `C_{\mathrm{diseno}}^{36}` se computan `n_0`, `n_1`, `n_U` con umbral `T(36)=28`.
 
 Se fijan además cuatro métricas auxiliares:
 
@@ -2072,7 +2072,7 @@ Se fijan además cuatro métricas auxiliares:
 
 ## 3. Dictamen de suelo
 
-### 3.1 $C_{\mathrm{obj}}^9$
+### 3.1 `C_{\mathrm{obj}}^9`
 
 | Posición | Dictamen | Fundamento material |
 |---|---|---|
@@ -2086,11 +2086,11 @@ Se fijan además cuatro métricas auxiliares:
 | O8 | APTO | Laboratorios y runners especificados en XIV, XV, XXI, XXII; ejemplos XII §7 y XXIV §15 con recorrido completo. |
 | O9 | APTO | Integración con calidad declarada: autor, ORCID, ISSN, licencia CC BY-NC-ND 4.0, fecha, bibliografía APA7. |
 
-**Conteo $C_{\mathrm{obj}}^9$:** $n_0=9$, $n_1=0$, $n_U=0$, $T(9)=7$ — **Clasificación: APTO**
+**Conteo `C_{\mathrm{obj}}^9`:** `n_0=9`, `n_1=0`, `n_U=0`, `T(9)=7` — **Clasificación: APTO**
 
 ---
 
-### 3.2 $C_{\mathrm{base}}^9$
+### 3.2 `C_{\mathrm{base}}^9`
 
 | Posición | Dictamen | Fundamento material |
 |---|---|---|
@@ -2104,25 +2104,25 @@ Se fijan además cuatro métricas auxiliares:
 | Q8 | INDETERMINADO | Evidencias de ejecución: XII §7 y XXIV §15 son trazables numéricamente, pero scripts Python no están en el paquete .md. |
 | Q9 | APTO | Artefactos internos de diseño: 0 residuos de cocina interna tras auditoría máxima con 6 problemas detectados y corregidos. |
 
-**Conteo $C_{\mathrm{base}}^9$:** $n_0=8$, $n_1=0$, $n_U=1$, $T(9)=7$ — **Clasificación: APTO**
+**Conteo `C_{\mathrm{base}}^9`:** `n_0=8`, `n_1=0`, `n_U=1`, `T(9)=7` — **Clasificación: APTO**
 
 ---
 
 ### 3.3 Compuerta de suelo
 
-Con $C_{\mathrm{obj}}^9 = \mathrm{APTO}$ y $C_{\mathrm{base}}^9 = \mathrm{APTO}$, la compuerta $T_{\mathrm{suelo}}$ produce:
+Con `C_{\mathrm{obj}}^9 = \mathrm{APTO}` y `C_{\mathrm{base}}^9 = \mathrm{APTO}`, la compuerta `T_{\mathrm{suelo}}` produce:
 
-$$
+```text
 S_{\mathrm{suelo}} = \mathrm{APTO}.
-$$
+```
 
 ---
 
-## 4. Dictamen de custodia del diseño — $C_{\mathrm{diseno}}^{36}$
+## 4. Dictamen de custodia del diseño — `C_{\mathrm{diseno}}^{36}`
 
 ### 4.1 Capas y conteos
 
-| Capa | $n_0$ | $n_1$ | $n_U$ | Resultado |
+| Capa | `n_0` | `n_1` | `n_U` | Resultado |
 |---|---|---|---|---|
 | A — Anclaje doctrinal | 6 | 0 | 0 | — |
 | B — Captura y transducción | 6 | 0 | 0 | — |
@@ -2130,9 +2130,9 @@ $$
 | D — Concordancia documental y registral | 6 | 0 | 0 | — |
 | E — Laboratorio y verificación | 5 | 0 | 1 | — |
 | F — Realidad de despliegue y límites | 6 | 0 | 0 | — |
-| **Total** | **35** | **0** | **1** | $T(36)=28$ |
+| **Total** | **35** | **0** | **1** | `T(36)=28` |
 
-**Clasificación $C_{\mathrm{diseno}}^{36}$:** $n_0=35 \geq T(36)=28$ — **APTO**
+**Clasificación `C_{\mathrm{diseno}}^{36}`:** `n_0=35 \geq T(36)=28` — **APTO**
 
 #### Detalle Capa E — posición en U
 
@@ -2182,11 +2182,11 @@ Estas posiciones no son infracciones; son límites explícitos de alcance corres
 
 ## 7. Compuerta final de custodia
 
-Con $S_{\mathrm{suelo}} = \mathrm{APTO}$ y $C_{\mathrm{diseno}}^{36} = \mathrm{APTO}$, la compuerta $T_{\mathrm{cust}}$ produce:
+Con `S_{\mathrm{suelo}} = \mathrm{APTO}` y `C_{\mathrm{diseno}}^{36} = \mathrm{APTO}`, la compuerta `T_{\mathrm{cust}}` produce:
 
-$$
+```text
 A_{\mathrm{custodia}} = \mathrm{APTO}.
-$$
+```
 
 ---
 
