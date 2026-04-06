@@ -597,7 +597,7 @@ Debe distinguirse del estructural. Registra clases de transición inducida sobre
 
 ## 4. Transformadas de trayectoria
 
-Se introduce como embrión la familia: $\mathcal T_{\Phi}\lbrack q\rbrack(\lambda):=\sum_{j=0}^{m} q_j\thinspace \Phi_\lambda(\nu_j),$ con núcleo declarado $\Phi_\lambda$ sobre sucesos.
+Se introduce como embrión la familia: $\mathcal T_{\Phi}\lbrack q\rbrack(\lambda):=\sum_{j=0}^{m} q_j\thinspace \Phi_{\lambda}(\nu_j),$ con núcleo declarado $\Phi_{\lambda}$ sobre sucesos.
 
 ## 5. Lectura
 
@@ -1170,7 +1170,7 @@ La contribución de esa cara aparece una vez con signo $+1$ y otra con signo $-1
 
 ### 3.4. Frontera total del mosaico
 
-La frontera total del mosaico compatible se define por $\partial\mathcal M:=\sum_{\alpha\in A}\partial C_\alpha.$ Las caras internas compatibles se cancelan automáticamente y la suma resultante deja sólo borde externo factual. Si alguna cancelación no es legitimable, la salida no se fuerza: queda componente abierta en `U`.
+La frontera total del mosaico compatible se define por $\partial\mathcal M:=\sum_{\alpha\in A}\partial C_{\alpha}.$ Las caras internas compatibles se cancelan automáticamente y la suma resultante deja sólo borde externo factual. Si alguna cancelación no es legitimable, la salida no se fuerza: queda componente abierta en `U`.
 
 ### 3.5. Flujo factual: definición y alcance
 
@@ -1493,7 +1493,7 @@ Estabilidad: $J^{SV}_{\mathrm{cl}}(a,k)\in\lbrace 0\to0,\;1\to1,\;U\to U\rbrace$
 $$
 \mathcal T_{\Phi}\lbrack q\rbrack(\lambda)
 :=
-\sum_{j=0}^{m} q_j\thinspace \Phi_\lambda(\nu_j).
+\sum_{j=0}^{m} q_j\thinspace \Phi_{\lambda}(\nu_j).
 $$
 
 ### 6.2. Familias de transformadas mínimas
@@ -1532,7 +1532,7 @@ $$
 
 ### 6.3. Núcleos admisibles
 
-Una familia $\Phi_\lambda$ es admisible si:
+Una familia $\Phi_{\lambda}$ es admisible si:
 1. está declarada sobre sucesos o posiciones de trayectoria;
 2. respeta el dominio compatible;
 3. no introduce tiempo soberano;
@@ -1705,7 +1705,7 @@ $$
 q_{j+1} = \mathcal G^{SV}(q_j,\nu_j).
 $$
 
-Sobre ese suelo se añade un desarrollo espectral factual: $q = \sum_{\lambda\in\Lambda} c_\lambda\thinspace \Psi_\lambda,$ donde $\Psi_\lambda$ son modos factuales y $c_\lambda$ coeficientes en dominio compatible.
+Sobre ese suelo se añade un desarrollo espectral factual: $q = \sum_{\lambda\in\Lambda} c_{\lambda}\thinspace \Psi_{\lambda},$ donde $\Psi_{\lambda}$ son modos factuales y $c_{\lambda}$ coeficientes en dominio compatible.
 
 ## 11. Curvatura factual completa, gravedad factual mínima y Maxwell factual completo
 
