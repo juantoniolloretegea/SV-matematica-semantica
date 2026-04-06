@@ -666,6 +666,7 @@ $$
 \mathbf{v}_0 = (U,0,0,\,U,0,0,\,U,0,0), \quad
 \mathbf{v}_1 = (0,0,0,\,U,0,0,\,U,0,0),
 $$
+
 $$
 \mathbf{v}_2 = (0,0,0,\,0,0,0,\,U,0,0), \quad
 \mathbf{v}_3 = (0,0,0,\,0,0,0,\,0,0,0).
@@ -1513,15 +1514,19 @@ $$
 ### 6.2. Familias de transformadas mínimas
 
 #### Transformada de amortiguación
+
 $$\mathcal T_{\alpha}[q] = \sum_j q_j\,\alpha^j, \qquad \alpha\in R_+.$$
 
 #### Transformada de persistencia
+
 $$\mathcal T_{\mathrm{pers}}[q](L) = \sum_j q_j\,\mathbf 1_{\{\ell(\nu_j)\ge L\}}.$$
 
 #### Transformada cíclica
+
 $$\mathcal T_{\mathrm{cyc}}[q](\kappa) = \sum_j q_j\,e^{SV}_{\kappa}(\nu_j).$$
 
 #### Transformada residual
+
 $$\mathcal T_{\mathrm{res}}[q] = \sum_j q_j\,R(\nu_j).$$
 
 ### 6.3. Núcleos admisibles
@@ -1605,6 +1610,7 @@ $$
 \mathfrak C_{D_0\to D_1},\quad \mathfrak C_{D_1\to D_2}
 $$
 son legítimos y sus invariantes son compatibles, entonces existe la composición
+
 $$\mathfrak C_{D_0\to D_2} = \mathfrak C_{D_1\to D_2}\circ \mathfrak C_{D_0\to D_1}.$$
 
 Si la compatibilidad de invariantes no puede sostenerse, la composición no se fuerza; queda abierta o tipada como no aplicable.
@@ -1726,6 +1732,7 @@ Se fija el bloque factual completo:
 $$
 \mathrm{Div}_{SV}(D)=\rho,\qquad \mathrm{Div}_{SV}(B)=0,
 $$
+
 $$
 \mathrm{Rot}_{SV}(E)+\partial^{SV}_{\nu}B=0,\qquad
 \mathrm{Rot}_{SV}(H)-\partial^{SV}_{\nu}D=J,
@@ -1747,6 +1754,7 @@ Sobre una interfaz factual $\Sigma$, se exige:
 ### 11.5. Ley de balance electromagnético
 
 Para todo volumen factual $\mathcal V$:
+
 $$\iiint_{\mathcal V}^{SV}\mathrm{Div}_{SV}(D) = \iint_{\partial\mathcal V}^{SV} D.$$
 
 Análogamente para $B$, y para rotor/circulación sobre ciclos factuales compatibles.
