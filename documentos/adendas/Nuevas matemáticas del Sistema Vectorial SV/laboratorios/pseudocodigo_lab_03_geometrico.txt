@@ -1,0 +1,23 @@
+PSEUDOCÓDIGO — LAB 03 — GEOMÉTRICO G1–G5
+
+entrada: mosaicos factuales, fronteras orientadas y campos locales
+
+para cada caso G1–G5:
+    construir el mosaico compatible
+    verificar frontera explícita
+    verificar orientación coherente
+
+    para cada borde relevante:
+        calcular flujo factual Φ_SV(F; B)
+
+    para cada célula relevante:
+        calcular divergencia factual fuerte mediante flujo de frontera y residual interior
+
+    si existe ciclo:
+        calcular circulación factual
+
+    verificar ley de pegado y cancelación interna
+    verificar balance interior–frontera
+    preservar U cuando no exista base suficiente para cierre
+
+emitir salida JSON congelada de los casos y dictamen local de custodia

@@ -1,0 +1,30 @@
+PSEUDOCÓDIGO — LAB 01 — CÁLCULO DEL SUCESO
+
+entrada: trayectoria T de células SV(9,3), pesos ω
+verificar que T no esté vacía
+verificar que cada célula tenga 9 posiciones y que cada valor pertenezca a K3 = {0,1,U}
+verificar que los pesos sean positivos y compatibles con la trayectoria
+
+para cada frame ν_j de T:
+    calcular f(ν_j) = número de posiciones en U
+
+para cada j desde 0 hasta |T|-2:
+    calcular derivada de suceso D_Γ f(j) = (f(ν_{j+1}) - f(ν_j)) / ω(ν_j)
+
+si hay al menos dos derivadas:
+    calcular segunda derivada de suceso por aplicación iterada del mismo operador
+
+calcular acumulación factual A_Γ(f) = suma de f_j * ω_j según el tramo declarado
+verificar telescopía: suma de derivadas = f_b - f_a
+
+si existe perturbación paramétrica:
+    calcular sensibilidad puntual S_a(q; ν_j)
+    construir jacobiano estructural si procede
+
+aplicar controles NMSV:
+    no degradación de U
+    append-only
+    separación de planos
+    no cierre favorable ilegítimo
+
+emitir salida JSON congelada y dictamen

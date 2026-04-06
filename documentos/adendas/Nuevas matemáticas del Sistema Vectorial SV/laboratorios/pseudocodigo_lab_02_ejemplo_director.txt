@@ -1,0 +1,23 @@
+PSEUDOCÓDIGO — LAB 02 — EJEMPLO DIRECTOR
+
+entrada: trayectoria canónica del ejemplo director sobre SV(9,3)
+
+calcular el observable compatible f(ν_j) = conteo de U por frame
+verificar que f = [3, 2, 1, 0]
+
+calcular derivadas de suceso
+verificar que D_Γ f = [-1, -1, -1]
+
+calcular acumulación factual y comprobar relación fundamental:
+    A_Γ = f(ν_3) - f(ν_0) = -3
+
+calcular ΔN como profundidad de convergencia del ejemplo director
+verificar ΔN = 3
+
+si existe trayectoria perturbada:
+    calcular sensibilidad y jacobiano en el frame final
+
+aplicar clasificación final de la célula
+verificar dictamen APTO
+
+emitir salida JSON con los siete planos del ejemplo director

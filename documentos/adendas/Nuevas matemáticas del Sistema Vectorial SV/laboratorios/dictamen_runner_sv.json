@@ -1,0 +1,6 @@
+{
+  "artefacto_fuente": "salida_runner_sv.json",
+  "dictamen": "APTO",
+  "alcance": "runner_sv",
+  "fundamento_breve": "El runner maestro acredita 7/7 laboratorios APTO y conserva las invariantes declaradas."
+}

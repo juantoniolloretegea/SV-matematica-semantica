@@ -1,0 +1,15 @@
+PSEUDOCÓDIGO — LAB 05 — MAXWELL FACTUAL SINTÉTICO
+
+entrada: trayectoria factual de un caso electromagnético sintético
+
+representar el frame electromagnético en una célula SV(9,3)
+calcular observable de posiciones en U
+calcular derivada de suceso y acumulación factual
+
+si existe perturbación paramétrica:
+    calcular sensibilidad respecto de fuente, medio o contorno
+
+verificar que no se usa tiempo soberano
+verificar residual factual y ausencia de cierre favorable ilegítimo
+aplicar clasificación final del caso
+emitir salida JSON congelada con dictamen APTO o NO_APTO

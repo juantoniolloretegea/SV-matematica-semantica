@@ -1,5 +1,5 @@
 """
-Runner SV — Ejecuta los cuatro laboratorios secuencialmente y emite veredicto final.
+Runner SV — Ejecuta los siete laboratorios secuencialmente y emite veredicto final.
 Corresponde a la sección XV (runner mínimo reproducible) del documento.
 
 Funciones: cambio, acumulación, sensibilidad, custodia, congelación de salida.

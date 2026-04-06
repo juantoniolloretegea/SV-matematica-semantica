@@ -1,0 +1,17 @@
+PSEUDOCÓDIGO — LAB 04 — RECORRIDO COMPLETO
+
+entrada: objeto director y pipeline completo de operadores NMSV
+
+aplicar sucesivamente:
+    dominio compatible
+    derivada de suceso
+    acumulación factual
+    sensibilidad factual
+    jacobiano estructural
+    bloque geométrico mínimo
+    dictamen de clausura
+
+verificar que cada operador produce el valor esperado del documento
+construir tabla resumen de resultados del pipeline
+verificar que la clasificación final es APTO
+emitir salida JSON congelada del recorrido completo

@@ -19,6 +19,14 @@ laboratorios/
 ├── lab_06_gravedad_factual.py        ← II §4 Gravedad factual sintética
 ├── lab_07_higgs_factual.py           ← III §3 Higgs factual sintético
 ├── runner_sv_nmsv.py                 ← Runner maestro XV (7 labs)
+├── pseudocodigo_lab_01_calculo_suceso.txt   ← Pseudocódigo lab 01
+├── pseudocodigo_lab_02_ejemplo_director.txt ← Pseudocódigo lab 02
+├── pseudocodigo_lab_03_geometrico.txt       ← Pseudocódigo lab 03
+├── pseudocodigo_lab_04_recorrido_completo.txt ← Pseudocódigo lab 04
+├── pseudocodigo_lab_05_maxwell_factual.txt  ← Pseudocódigo lab 05
+├── pseudocodigo_lab_06_gravedad_factual.txt ← Pseudocódigo lab 06
+├── pseudocodigo_lab_07_higgs_factual.txt    ← Pseudocódigo lab 07
+├── pseudocodigo_runner_sv_nmsv.txt          ← Pseudocódigo del runner
 ├── salida_calculo_suceso.json        ← Salida congelada lab 01
 ├── salida_ejemplo_director.json      ← Salida congelada lab 02
 ├── salida_geometrico.json            ← Salida congelada lab 03
@@ -33,7 +41,7 @@ laboratorios/
 ## Requisitos
 
 - Python 3.9 o superior
-- No requiere dependencias externas (stdlib únicamente: `json`, `hashlib`, `subprocess`)
+- No requiere dependencias externas (stdlib únicamente: `json`, `hashlib`, `subprocess`, `sys`, `os`, `importlib.util`)
 
 ## Ejecución
 
@@ -43,6 +51,9 @@ python3 lab_01_calculo_suceso.py
 python3 lab_02_ejemplo_director.py
 python3 lab_03_geometrico.py
 python3 lab_04_recorrido_completo.py
+python3 lab_05_maxwell_factual.py
+python3 lab_06_gravedad_factual.py
+python3 lab_07_higgs_factual.py
 ```
 
 **Runner completo (ejecuta los 7 labs y emite veredicto):**
@@ -97,3 +108,21 @@ python3 runner_sv_nmsv.py
 ## Nota de portabilidad
 
 Las salidas JSON se regeneran en esta misma carpeta `laboratorios/`. No se requiere ninguna ruta absoluta externa ni preparación manual de directorios.
+
+
+## Entregables adicionales
+
+- Pseudocódigo explícito de cada laboratorio (`pseudocodigo_lab_01` a `pseudocodigo_lab_07`)
+- Pseudocódigo explícito del runner (`pseudocodigo_runner_sv_nmsv.txt`)
+
+## Entregables satélite añadidos
+
+- `dictamen_calculo_suceso.json` a `dictamen_higgs_factual.json`
+- `dictamen_runner_sv.json`
+- `dictamen_custodia_geometria_factual_etapa_1.json`
+- `analisis_resultados_laboratorios.md`
+- `analisis_resultados_geometria_factual_etapa_1.md`
+- `figura_mosaico_factual_etapa_1.svg`
+- `figura_balance_frontera_etapa_1.svg`
+
+Estos artefactos no alteran la ejecución de los laboratorios. Su función es reforzar la trazabilidad entre manuscrito, lote técnico y publicación.

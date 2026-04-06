@@ -1,0 +1,12 @@
+{
+  "laboratorio": "lab_03_geometrico.py",
+  "casos_minimos": [
+    "G1",
+    "G2",
+    "G3",
+    "G4",
+    "G5"
+  ],
+  "dictamen": "APTO",
+  "observacion": "El laboratorio geométrico existe materialmente y cubre los cinco casos mínimos declarados en el manuscrito."
+}

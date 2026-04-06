@@ -1,0 +1,18 @@
+PSEUDOCÓDIGO — LAB 06 — GRAVEDAD FACTUAL SINTÉTICA
+
+entrada: trayectoria factual de evento gravitacional con coincidencia y posible reapertura
+
+construir trayectoria principal del evento
+calcular observable compatible, derivadas y acumulación
+verificar coincidencia entre detectores
+verificar append-only de la trayectoria principal
+
+si aparece ruido sísmico u otra reapertura legítima:
+    crear fork como trayectoria nueva sin borrar la anterior
+    reevaluar el cierre sobre la nueva rama
+
+si existe perturbación paramétrica del veto de ruido:
+    calcular sensibilidad correspondiente
+
+clasificar el evento como APTO, INDETERMINADO o NO_APTO
+emitir salida JSON congelada y dictamen

@@ -1,0 +1,30 @@
+PSEUDOCÓDIGO — RUNNER SV NMSV
+
+entrada: paquete local de laboratorios 01–07 y salidas JSON asociadas
+
+inicializar directorio local del paquete
+
+para cada laboratorio en [01..07]:
+    ejecutar el script como subproceso
+    registrar returncode, stdout, stderr y veredicto local
+
+para cada salida JSON esperada:
+    calcular huella MD5 en el directorio local
+
+verificar invariantes del runner:
+    no degradación de U
+    append-only
+    separación de planos
+    no cierre favorable ilegítimo
+    frontera explícita
+
+si todos los laboratorios son APTO y todos los invariantes son verdaderos:
+    veredicto final = APTO
+si no:
+    veredicto final = NO_APTO
+
+emitir salida_runner_sv.json con:
+    resultados de laboratorios
+    huellas MD5
+    invariantes
+    veredicto final

@@ -1,0 +1,20 @@
+PSEUDOCÓDIGO — LAB 07 — HIGGS FACTUAL SINTÉTICO
+
+entrada: trayectoria factual de un canal experimental del Higgs
+
+representar la evidencia del canal en una célula SV(9,3)
+calcular observable, derivadas y acumulación factual
+
+verificar que no se usa cierre por estadística soberana
+verificar residual del canal y separación señal-fondo como residual factual
+verificar coherencia entre detectores independientes
+
+si existe reapertura del fondo:
+    crear fork sin borrar la trayectoria principal
+    reevaluar el canal en la rama nueva
+
+si existe perturbación de resolución espectral:
+    calcular sensibilidad del canal
+
+calcular jacobiano estructural y de clausura cuando proceda
+clasificar el canal y emitir salida JSON congelada

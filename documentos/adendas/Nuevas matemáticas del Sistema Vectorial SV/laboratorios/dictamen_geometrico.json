@@ -1,0 +1,6 @@
+{
+  "artefacto_fuente": "salida_geometrico.json",
+  "dictamen": "APTO",
+  "alcance": "geometrico",
+  "fundamento_breve": "Los casos G1–G5 verifican cancelación interna, balance de frontera y conservación de U."
+}

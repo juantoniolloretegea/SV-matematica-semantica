@@ -1,0 +1,6 @@
+{
+  "artefacto_fuente": "salida_recorrido_completo.json",
+  "dictamen": "APTO",
+  "alcance": "recorrido_completo",
+  "fundamento_breve": "El pipeline completo del cálculo del suceso y del bloque geométrico concluye en APTO."
+}
