@@ -1,12 +1,12 @@
 # Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador
 
-Juan Antonio Lloret Egea  
-ORCID: 0000-0002-6634-3351  
-Sello editorial: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)  
-Publicación: IA eñ™ — La Biblia de la IA™  
-ISSN: 2695-6411  
-Licencia: CC BY-NC-ND 4.0  
-Lugar y fecha: Madrid, 6/04/2026  
+Juan Antonio Lloret Egea 
+ORCID: 0000-0002-6634-3351 
+Sello editorial: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) 
+Publicación: IA eñ™ — La Biblia de la IA™ 
+ISSN: 2695-6411 
+Licencia: CC BY-NC-ND 4.0 
+Lugar y fecha: Madrid, 6/04/2026 
 
 El presente estudio se organiza en dos partes. La primera parte fija el programa de física factual del Sistema Vectorial SV: delimita qué operadores, estructuras y criterios de clausura exige cada dominio físico —electromagnetismo, gravedad, sector de Higgs y frontera cuántica— para que el sistema pueda operar con legitimidad científica propia. La segunda parte responde a esas exigencias desarrollando las nuevas matemáticas del Sistema Vectorial SV: establece los fundamentos del cálculo del suceso, construye sus operadores propios y alcanza el cierre del programa mediante análisis riguroso de completitud. La física factual actúa en todo momento como dominio director de máxima exigencia; las nuevas matemáticas nacen de esa exigencia y la satisfacen.
 
@@ -147,11 +147,11 @@ El conjunto de Física Factual del Sistema Vectorial SV (FFSV) debe entenderse c
 ## Lo ya ganado
 
 - Apartados de este conjunto:
-  1. Electromagnetismo factual del SV.
-  2. Gravedad discreta, curvatura factual y ondas gravitacionales.
-  3. Sector de Higgs y física factual de partículas.
-  4. Frontera cuántica, no clausura y límites del régimen ternario.
-  5. Alcance, límites y estado del conjunto Física factual del Sistema Vectorial SV.
+ 1. Electromagnetismo factual del SV.
+ 2. Gravedad discreta, curvatura factual y ondas gravitacionales.
+ 3. Sector de Higgs y física factual de partículas.
+ 4. Frontera cuántica, no clausura y límites del régimen ternario.
+ 5. Alcance, límites y estado del conjunto Física factual del Sistema Vectorial SV.
 - tres laboratorios sintéticos iniciales;
 - secuencia propia de conjunto.
 
@@ -204,33 +204,33 @@ El estudio se ordena en cuatro bloques:
 
 Bloque I — Fundamentos operativos del cálculo del suceso: operaciones elementales y dominios compatibles en el Sistema Vectorial SV
 
-1. Dominios compatibles  
-2. Operaciones elementales universales  
-3. Operaciones condicionadas  
-4. Operaciones especiales no universales  
-5. Principio de no universalidad indebida  
+1. Dominios compatibles 
+2. Operaciones elementales universales 
+3. Operaciones condicionadas 
+4. Operaciones especiales no universales 
+5. Principio de no universalidad indebida 
 
 Bloque II — Estatuto y cartografía
 
-1. Cartografía de equivalentes  
-2. La U, el residual y el límite estructural  
+1. Cartografía de equivalentes 
+2. La U, el residual y el límite estructural 
 
 Bloque III — Herramientas matemáticas nuevas
 
-1. Fundamentos operativos  
-2. Derivada de suceso y de trayectoria  
-3. Acumulación factual  
-4. Sensibilidad factual, jacobiano estructural y transformadas  
+1. Fundamentos operativos 
+2. Derivada de suceso y de trayectoria 
+3. Acumulación factual 
+4. Sensibilidad factual, jacobiano estructural y transformadas 
 
 Bloque IV — Proyección al lenguaje de programación del SV, al motor de inteligencia artificial y a la ciencia
 
-1. El cálculo del suceso y el futuro del Lenguaje de Computación del SV  
-2. Física factual del SV  
-3. Compilación científica, motor de inteligencia artificial y frontera técnica con IA  
-4. Laboratorio mínimo reproducible  
-5. Runner mínimo reproducible  
-6. Arquitectura preliminar de biblioteca matemática soberana  
-7. Síntesis programática y deudas vivas  
+1. El cálculo del suceso y el futuro del Lenguaje de Computación del SV 
+2. Física factual del SV 
+3. Compilación científica, motor de inteligencia artificial y frontera técnica con IA 
+4. Laboratorio mínimo reproducible 
+5. Runner mínimo reproducible 
+6. Arquitectura preliminar de biblioteca matemática soberana 
+7. Síntesis programática y deudas vivas 
 
 ## 5. Conclusión
 
@@ -242,7 +242,7 @@ Este estudio no nace para polemizar con el cálculo clásico, sino para preparar
 
 Deben distinguirse tres planos:
 
-1. plano ternario canónico: $K_3=\{0,1,U\}$ 2. plano de observables compatibles, donde existen suma, resta y, en ciertos casos, producto por escalar y cociente;
+1. plano ternario canónico: $K_3=\lbrace 0,1,U\rbrace$ 2. plano de observables compatibles, donde existen suma, resta y, en ciertos casos, producto por escalar y cociente;
 
 3. plano de lectura inducida, que proyecta observables o trayectorias a clausura ternaria o a dictamen.
 
@@ -250,7 +250,7 @@ La matemática primaria del cálculo del suceso no se define originariamente sob
 
 **Ejemplo director.** A lo largo de las secciones VII–XII se desarrolla un ejemplo continuo sobre la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones. Cada sección aplica el operador que le corresponde al mismo objeto de entrada; el recorrido se completa en XII §7 y se extiende al bloque geométrico en XXIV §15.
 
-En la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones —formalizada en los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Lloret Egea, 2026k)— el plano ternario canónico $K_3=\{0,1,U\}$ actúa como codominio de lectura: cada posición $p_i$ del vector $\mathbf{v}=(v_1,\ldots,v_9)$ toma valor en $K_3$. El plano de observables compatibles se instancia en magnitudes aditivas derivadas de ese vector: la función $q(\mathbf{v})=|\{i : v_i=U\}|$, que contabiliza las posiciones en indeterminación, toma valores en $\mathbb{N}_0$ y soporta suma y resta. La clausura ternaria se obtiene por lectura inducida conforme al horizonte declarado (Lloret Egea, 2026i).
+En la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones —formalizada en los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Lloret Egea, 2026k)— el plano ternario canónico $K_3=\lbrace 0,1,U\rbrace$ actúa como codominio de lectura: cada posición $p_i$ del vector $\mathbf{v}=(v_1,\ldots,v_9)$ toma valor en $K_3$. El plano de observables compatibles se instancia en magnitudes aditivas derivadas de ese vector: la función $q(\mathbf{v})=|\lbrace i : v_i=U\rbrace|$, que contabiliza las posiciones en indeterminación, toma valores en $\mathbb{N}_0$ y soporta suma y resta. La clausura ternaria se obtiene por lectura inducida conforme al horizonte declarado (Lloret Egea, 2026i).
 
 
 ## 2. Operaciones elementales universales
@@ -344,10 +344,10 @@ y, cuando exista peso factual positivo $\omega(\nu_j)$, $\mathfrak D_\Gamma f(j)
 ### 3.3. Integral definida → acumulación factual
 
 $$
-\mathfrak A_\Gamma(f):=\sum_{j=0}^{k-1} f_j\,\omega(\nu_j)
+\mathfrak A_\Gamma(f):=\sum_{j=0}^{k-1} f_j\thinspace \omega(\nu_j)
 $$
 
-y, cuando proceda, $\lim_{\|P_\Gamma\|\to 0}\sum f_j\,\omega(\nu_j).$ **Estado B.**
+y, cuando proceda, $\lim_{\|P_\Gamma\|\to 0}\sum f_j\thinspace \omega(\nu_j).$ **Estado B.**
 
 ### 3.4. Integral curvilínea → trayectoria con partición
 
@@ -446,7 +446,7 @@ Sea $\Gamma=(\nu_0,\nu_1,\dots,\nu_m)$ una trayectoria de sucesos y sea $q:\Gamm
 
 ## 2. Derivada de suceso
 
-Para $j\in\{0,\dots,m-1\}$, se define: $\Delta_{\nu_j}q:=q_{j+1}-q_j.$ Éste es el operador diferencial primitivo del SV.
+Para $j\in\lbrace 0,\dots,m-1\rbrace$, se define: $\Delta_{\nu_j}q:=q_{j+1}-q_j.$ Éste es el operador diferencial primitivo del SV.
 
 ## 3. Derivada de trayectoria
 
@@ -478,14 +478,14 @@ $$
 \sum_{j=a}^{b-1} \Delta_{\nu_j} f = f_b - f_a.
 $$
 
-La **invariancia append-only retrospectiva** establece que, si $\Gamma' = (\nu_0,\ldots,\nu_m,\nu_{m+1})$ es extensión de $\Gamma$ por añadido de un suceso nuevo, entonces $\Delta_{\nu_j}f$ queda invariante para todo $j\in\{0,\ldots,m-1\}$.
+La **invariancia append-only retrospectiva** establece que, si $\Gamma' = (\nu_0,\ldots,\nu_m,\nu_{m+1})$ es extensión de $\Gamma$ por añadido de un suceso nuevo, entonces $\Delta_{\nu_j}f$ queda invariante para todo $j\in\lbrace 0,\ldots,m-1\rbrace$.
 
-*Ejemplo.* Sea $\Gamma=(\nu_0,\nu_1,\nu_2)$ una trayectoria sobre la célula $\mathrm{SV}(9{,}3)$, y sea $f(\nu_j)=|\{i : v_j(i)=U\}|$ el observable compatible que cuenta las posiciones en indeterminación en el frame $j$-ésimo (Lloret Egea, 2026k). Para $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=0$ y pesos $\omega(\nu_j)=1$: $\Delta_{\nu_0}f=-1$ y $\Delta_{\nu_1}f=-2$. La telescopía da $\sum_{j=0}^{1}\Delta_{\nu_j}f=-3=f(\nu_2)-f(\nu_0)$. La trayectoria ha resuelto tres posiciones en indeterminación y alcanza la condición de límite estructural $\kappa_F(T)=\mathrm{APTO}$.
+*Ejemplo.* Sea $\Gamma=(\nu_0,\nu_1,\nu_2)$ una trayectoria sobre la célula $\mathrm{SV}(9{,}3)$, y sea $f(\nu_j)=|\lbrace i : v_j(i)=U\rbrace|$ el observable compatible que cuenta las posiciones en indeterminación en el frame $j$-ésimo (Lloret Egea, 2026k). Para $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=0$ y pesos $\omega(\nu_j)=1$: $\Delta_{\nu_0}f=-1$ y $\Delta_{\nu_1}f=-2$. La telescopía da $\sum_{j=0}^{1}\Delta_{\nu_j}f=-3=f(\nu_2)-f(\nu_0)$. La trayectoria ha resuelto tres posiciones en indeterminación y alcanza la condición de límite estructural $\kappa_F(T)=\mathrm{APTO}$.
 
 
 ## 6. Lectura ternaria inducida
 
-La derivada primaria opera sobre observables compatibles, no sobre $K_3$. La clausura ternaria se lee inducidamente mediante un morfismo $\tau$, nunca como si $\{0,1,U\}$ fuese el dominio primario de la resta.
+La derivada primaria opera sobre observables compatibles, no sobre $K_3$. La clausura ternaria se lee inducidamente mediante un morfismo $\tau$, nunca como si $\lbrace 0,1,U\rbrace$ fuese el dominio primario de la resta.
 
 ## 7. Conclusión
 
@@ -498,18 +498,18 @@ El operador primitivo de cambio del SV ya no es una derivada temporal. Es la **d
 Sea $q:\Gamma\to A$ un observable acumulable y $\omega_j>0$ un peso factual. Se define:
 
 $$
-\mathfrak A_{\Gamma[a,b]}(q):=\sum_{j=a}^{b-1} q_j\,\omega(\nu_j).
+\mathfrak A_{\Gamma[a,b]}(q):=\sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
 $$
 
 En particular:
 
 $$
-\mathfrak A_\Gamma(q):=\sum_{j=0}^{m-1} q_j\,\omega(\nu_j).
+\mathfrak A_\Gamma(q):=\sum_{j=0}^{m-1} q_j\thinspace \omega(\nu_j).
 $$
 
 ## 2. Partición factual
 
-Sea $P_{\Gamma}=\{0=i_0<i_1<\cdots<i_r=m\}$ una partición factual. La acumulación total es aditiva por subtrayectorias y se preserva bajo refinamiento coherente.
+Sea $P_{\Gamma}=\lbrace 0=i_0<i_1<\cdots<i_r=m\rbrace$ una partición factual. La acumulación total es aditiva por subtrayectorias y se preserva bajo refinamiento coherente.
 
 ## 3. Operadores de recorrido
 
@@ -538,13 +538,13 @@ Si $q_j=\mathfrak D_\Gamma f(j)$, entonces: $\mathfrak A_{\Gamma[a,b]}(q)=f_b-f_
 **Demostración.** Por definición de acumulación factual:
 
 $$
-\mathfrak A_{\Gamma[a,b]}(q) = \sum_{j=a}^{b-1} q_j\,\omega(\nu_j).
+\mathfrak A_{\Gamma[a,b]}(q) = \sum_{j=a}^{b-1} q_j\thinspace \omega(\nu_j).
 $$
 
 Sustituyendo $q_j = \mathfrak D_\Gamma f(j) = (f_{j+1}-f_j)/\omega(\nu_j)$:
 
 $$
-\sum_{j=a}^{b-1} \frac{f_{j+1}-f_j}{\omega(\nu_j)}\,\omega(\nu_j) = \sum_{j=a}^{b-1}(f_{j+1}-f_j) = f_b - f_a.
+\sum_{j=a}^{b-1} \frac{f_{j+1}-f_j}{\omega(\nu_j)}\thinspace \omega(\nu_j) = \sum_{j=a}^{b-1}(f_{j+1}-f_j) = f_b - f_a.
 $$
 
 El último paso aplica la telescopía de la derivada de suceso. $\square$
@@ -554,7 +554,7 @@ El último paso aplica la telescopía de la derivada de suceso. $\square$
 
 ## 5. Lectura ternaria inducida
 
-La acumulación factual opera primariamente sobre dominios compatibles. La clausura ternaria se obtiene solo como lectura inducida, nunca como suma en $\{0,1,U\}$.
+La acumulación factual opera primariamente sobre dominios compatibles. La clausura ternaria se obtiene solo como lectura inducida, nunca como suma en $\lbrace 0,1,U\rbrace$.
 
 ## 6. Conclusión
 
@@ -597,7 +597,7 @@ Debe distinguirse del estructural. Registra clases de transición inducida sobre
 
 ## 4. Transformadas de trayectoria
 
-Se introduce como embrión la familia: $\mathcal T_{\Phi}[q](\lambda):=\sum_{j=0}^{m} q_j\,\Phi_\lambda(\nu_j),$ con núcleo declarado $\Phi_\lambda$ sobre sucesos.
+Se introduce como embrión la familia: $\mathcal T_{\Phi}\lbrack q\rbrack(\lambda):=\sum_{j=0}^{m} q_j\thinspace \Phi_\lambda(\nu_j),$ con núcleo declarado $\Phi_\lambda$ sobre sucesos.
 
 ## 5. Lectura
 
@@ -621,18 +621,18 @@ Este apartado aplica, sobre un único objeto de entrada, todos los operadores de
 **Objeto.** Sea la célula canónica $\mathrm{SV}(9,3)$ evaluando un frame conversacional conforme a *El transductor lingüístico y el horizonte $H_{\mathrm{NLP}}$ del Sistema Vectorial SV* (Lloret Egea, 2026j). Trayectoria $\Gamma = (\nu_0, \nu_1, \nu_2, \nu_3)$:
 
 $$
-\mathbf{v}_0 = (U,0,0,\,U,0,0,\,U,0,0), \quad
-\mathbf{v}_1 = (0,0,0,\,U,0,0,\,U,0,0),
+\mathbf{v}_0 = (U,0,0,\thinspace U,0,0,\thinspace U,0,0), \quad
+\mathbf{v}_1 = (0,0,0,\thinspace U,0,0,\thinspace U,0,0),
 $$
 
 $$
-\mathbf{v}_2 = (0,0,0,\,0,0,0,\,U,0,0), \quad
-\mathbf{v}_3 = (0,0,0,\,0,0,0,\,0,0,0).
+\mathbf{v}_2 = (0,0,0,\thinspace 0,0,0,\thinspace U,0,0), \quad
+\mathbf{v}_3 = (0,0,0,\thinspace 0,0,0,\thinspace 0,0,0).
 $$
 
-Observable compatible (VII §1): $f(\nu_j)=|\{i : v_j(i)=U\}|$, con $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=1$, $f(\nu_3)=0$.
+Observable compatible (VII §1): $f(\nu_j)=|\lbrace i : v_j(i)=U\rbrace|$, con $f(\nu_0)=3$, $f(\nu_1)=2$, $f(\nu_2)=1$, $f(\nu_3)=0$.
 
-**Plano I — Dominio compatible (VII §1).** $K_3=\{0,1,U\}$ codominio de lectura; $f \in \mathbb{N}_0$ observable aditivo compatible. Lectura inducida: APTO si $f=0$.
+**Plano I — Dominio compatible (VII §1).** $K_3=\lbrace 0,1,U\rbrace$ codominio de lectura; $f \in \mathbb{N}_0$ observable aditivo compatible. Lectura inducida: APTO si $f=0$.
 
 **Plano II — Equivalente clásico (VIII §2).** El descenso $f(\nu_0)=3 \to f(\nu_3)=0$ es el análogo de una función convergente a su mínimo. $\Delta N = 3$.
 
@@ -786,13 +786,13 @@ El runner debe cubrir:
 
 ## 5. Catálogo mínimo de errores
 
-NMSV001 — Trayectoria vacía  
-NMSV002 — Pesos no positivos  
-NMSV003 — Observable no compatible  
-NMSV004 — Longitud incompatible  
-NMSV005 — Lectura ternaria mal declarada  
-NMSV006 — Degradación ilegítima de `U`  
-NMSV007 — Violación append-only  
+NMSV001 — Trayectoria vacía 
+NMSV002 — Pesos no positivos 
+NMSV003 — Observable no compatible 
+NMSV004 — Longitud incompatible 
+NMSV005 — Lectura ternaria mal declarada 
+NMSV006 — Degradación ilegítima de `U` 
+NMSV007 — Violación append-only 
 NMSV008 — Cierre favorable ilegítimo
 
 ## 6. Conclusión
@@ -884,10 +884,10 @@ Este apartado abre la base geométrica mínima del cálculo del suceso. Su funci
 
 Este apartado fija cuatro nociones:
 
-1. trayectoria factual orientada;  
-2. frontera factual;  
-3. mosaico compatible;  
-4. campo factual.  
+1. trayectoria factual orientada; 
+2. frontera factual; 
+3. mosaico compatible; 
+4. campo factual. 
 
 ## 2. Definiciones de trabajo
 
@@ -935,7 +935,7 @@ Este apartado introduce la primera formulación explícita de flujo factual, div
 Sea $\mathcal F$ un campo factual y $F$ una frontera factual explícita. El flujo factual se define preliminarmente por:
 
 $$
-\Phi_{SV}(\mathcal F;\mathcal M,F)=\sum_j \sigma_j\,\mathcal F(F_j)\,\omega(F_j).
+\Phi_{SV}(\mathcal F;\mathcal M,F)=\sum_j \sigma_j\thinspace \mathcal F(F_j)\thinspace \omega(F_j).
 $$
 
 ## 2. Divergencia factual
@@ -979,11 +979,11 @@ Dos elementos $X$ e $Y$ admiten pegado compatible si sus fronteras parciales, or
 ## 4. Integrales preliminares
 
 $$
-\iint_{\Sigma_{SV}}^{SV}\mathcal F = \sum_j \sigma_j\,\mathcal F(\Gamma_j)\,\omega(\Gamma_j)
+\iint_{\Sigma_{SV}}^{SV}\mathcal F = \sum_j \sigma_j\thinspace \mathcal F(\Gamma_j)\thinspace \omega(\Gamma_j)
 $$
 
 $$
-\iiint_{\mathcal V_{SV}}^{SV}\mathcal G = \sum_k \mathcal G(C_k)\,\omega(C_k)
+\iiint_{\mathcal V_{SV}}^{SV}\mathcal G = \sum_k \mathcal G(C_k)\thinspace \omega(C_k)
 $$
 
 ## 5. Conclusión
@@ -1006,10 +1006,10 @@ El símbolo $\leadsto$ expresa correspondencia estructural preparatoria, no iden
 
 ## Idea de demostración
 
-1. Descomponer el volumen factual en unidades locales.  
-2. Expandir cada divergencia local como balance entre interior y frontera.  
-3. Cancelar fronteras internas compatibles por orientación opuesta.  
-4. Conservar como borde agregado solo la frontera total del volumen.  
+1. Descomponer el volumen factual en unidades locales. 
+2. Expandir cada divergencia local como balance entre interior y frontera. 
+3. Cancelar fronteras internas compatibles por orientación opuesta. 
+4. Conservar como borde agregado solo la frontera total del volumen. 
 5. Obtener el balance interior–frontera como resultado del pegado.
 
 ## Conclusión
@@ -1020,27 +1020,27 @@ El bloque geométrico posee aquí su primera articulación teoremática en forma
 
 ## Casos mínimos
 
-- **G1** — dos unidades con frontera interna cancelable;  
-- **G2** — tres unidades con orientación mixta;  
-- **G3** — frontera total insuficiente;  
-- **G4** — campo factual insuficiente;  
+- **G1** — dos unidades con frontera interna cancelable; 
+- **G2** — tres unidades con orientación mixta; 
+- **G3** — frontera total insuficiente; 
+- **G4** — campo factual insuficiente; 
 - **G5** — ciclo factual mínimo.
 
 ## Entregables
 
-- pseudocódigo doctrinal;  
-- script de referencia;  
-- salida JSON congelada;  
-- dictamen local de custodia;  
+- pseudocódigo doctrinal; 
+- script de referencia; 
+- salida JSON congelada; 
+- dictamen local de custodia; 
 - figuras del mosaico y del balance.
 
 ## Criterios de verificación
 
-- compatibilidad del mosaico;  
-- frontera explícita;  
-- cancelación interna correcta;  
-- balance interior–frontera;  
-- conservación de `U`;  
+- compatibilidad del mosaico; 
+- frontera explícita; 
+- cancelación interna correcta; 
+- balance interior–frontera; 
+- conservación de `U`; 
 - y no soberanía de la figura.
 
 ## Conclusión
@@ -1051,23 +1051,23 @@ El bloque de geometría factual dispone ya de su primer laboratorio materializab
 
 ## Funciones mínimas
 
-1. validar mosaicos compatibles;  
-2. validar fronteras y orientación;  
-3. calcular flujo factual;  
-4. calcular divergencia local y agregada;  
-5. calcular circulación factual cuando exista ciclo;  
-6. contrastar el balance preliminar de frontera;  
-7. emitir salida JSON, dictamen local y custodia.  
+1. validar mosaicos compatibles; 
+2. validar fronteras y orientación; 
+3. calcular flujo factual; 
+4. calcular divergencia local y agregada; 
+5. calcular circulación factual cuando exista ciclo; 
+6. contrastar el balance preliminar de frontera; 
+7. emitir salida JSON, dictamen local y custodia. 
 
 ## Catálogo mínimo de errores
 
-- mosaico incompatible;  
-- frontera ausente o insuficiente;  
-- orientación contradictoria;  
-- campo factual no tipado;  
-- doble contabilidad;  
-- cierre favorable ilegítimo;  
-- `U` degradada.  
+- mosaico incompatible; 
+- frontera ausente o insuficiente; 
+- orientación contradictoria; 
+- campo factual no tipado; 
+- doble contabilidad; 
+- cierre favorable ilegítimo; 
+- `U` degradada. 
 
 ## Conclusión
 
@@ -1077,20 +1077,20 @@ El runner geométrico no es todavía el lenguaje de programación del SV ni IR, 
 
 ## Tipos mínimos futuros
 
-- `MosaicoCompatible`  
-- `FronteraFactual`  
-- `CampoFactual`  
-- `CicloFactual`  
-- tipos de flujo, divergencia y balance  
+- `MosaicoCompatible` 
+- `FronteraFactual` 
+- `CampoFactual` 
+- `CicloFactual` 
+- tipos de flujo, divergencia y balance 
 
 ## Contratos mínimos
 
-- frontera explícita;  
-- orientación coherente;  
-- pegado compatible;  
-- no doble contabilidad;  
-- geometría auxiliar no soberana;  
-- preservación de `U`.  
+- frontera explícita; 
+- orientación coherente; 
+- pegado compatible; 
+- no doble contabilidad; 
+- geometría auxiliar no soberana; 
+- preservación de `U`. 
 
 ## Conclusión
 
@@ -1133,8 +1133,8 @@ El diagnóstico fue claro: el conjunto de secciones previas contenía ya el suel
 Sea $C$ una unidad local del mosaico. Su borde queda expresado como suma finita de bordes locales orientados:
 
 $$
-\partial C=\sum_{j=1}^{m(C)} \sigma_j\,F_j,
-\qquad \sigma_j\in\{-1,+1\}.
+\partial C=\sum_{j=1}^{m(C)} \sigma_j\thinspace F_j,
+\qquad \sigma_j\in\lbrace -1,+1\rbrace.
 $$
 
 La orientación de cada borde queda inducida por la orientación factual de la unidad de la que procede, y se cierra como regla constitutiva que
@@ -1162,10 +1162,10 @@ $$
 
 ### 3.3. Proposición de cancelación interna
 
-**Proposición.**  
+**Proposición.** 
 Si $\mathcal M$ es un mosaico compatible, toda cara interna compartida exactamente por dos unidades con orientación opuesta desaparece en $\partial\mathcal M$.
 
-**Demostración.**  
+**Demostración.** 
 La contribución de esa cara aparece una vez con signo $+1$ y otra con signo $-1$. Su suma es nula en el grupo aditivo compatible subyacente. Si la cara no es verificable como común, la cancelación no procede y no se clausura por intuición. $\square$
 
 ### 3.4. Frontera total del mosaico
@@ -1179,7 +1179,7 @@ Sea $\mathcal F$ un campo factual formal y sea $B$ una frontera factual orientad
 $$
 \Phi_{SV}(\mathcal F;B)
 :=
-\sum_j \sigma_j\,\langle \mathcal F(B_j), n_{B_j}\rangle_{SV}\,\omega(B_j),
+\sum_j \sigma_j\thinspace \langle \mathcal F(B_j), n_{B_j}\rangle_{SV}\thinspace \omega(B_j),
 $$
 
 donde:
@@ -1194,7 +1194,7 @@ Para una unidad local $C$, se define la divergencia factual formal por
 
 
 $$
-\mathrm{Div}_{SV}(\mathcal F;C)\,\omega(C) = \Phi_{SV}(\mathcal F;\partial C)-\mathcal I_{\mathrm{res}}(\mathcal F;C),
+\mathrm{Div}_{SV}(\mathcal F;C)\thinspace \omega(C) = \Phi_{SV}(\mathcal F;\partial C)-\mathcal I_{\mathrm{res}}(\mathcal F;C),
 $$
 
 
@@ -1203,7 +1203,7 @@ donde $\mathcal I_{\mathrm{res}}$ es el término factual interno de fuente, sumi
 En el caso homogéneo sin residual interior:
 
 $$
-\mathrm{Div}_{SV}(\mathcal F;C)\,\omega(C)=\Phi_{SV}(\mathcal F;\partial C).
+\mathrm{Div}_{SV}(\mathcal F;C)\thinspace \omega(C)=\Phi_{SV}(\mathcal F;\partial C).
 $$
 
 ### 3.7. Rotor factual: formulación formal
@@ -1212,7 +1212,7 @@ Sobre un ciclo factual orientado $\Gamma^\circlearrowleft$, se define la circula
 
 
 $$
-\mathfrak C_{\Gamma^\circlearrowleft}(\mathcal F) = \sum_j \varepsilon_j\,\mathcal F(\Gamma_j)\,\omega(\Gamma_j).
+\mathfrak C_{\Gamma^\circlearrowleft}(\mathcal F) = \sum_j \varepsilon_j\thinspace \mathcal F(\Gamma_j)\thinspace \omega(\Gamma_j).
 $$
 
 
@@ -1225,7 +1225,7 @@ Para una superficie factual $\Sigma_{SV}$:
 $$
 \iint_{\Sigma_{SV}}^{SV}\mathcal F
 :=
-\sum_j \sigma_j\,\mathcal F(B_j)\,\omega(B_j).
+\sum_j \sigma_j\thinspace \mathcal F(B_j)\thinspace \omega(B_j).
 $$
 
 Para un volumen factual $\mathcal V_{SV}$:
@@ -1233,12 +1233,12 @@ Para un volumen factual $\mathcal V_{SV}$:
 $$
 \iiint_{\mathcal V_{SV}}^{SV}\mathcal G
 :=
-\sum_k \mathcal G(C_k)\,\omega(C_k).
+\sum_k \mathcal G(C_k)\thinspace \omega(C_k).
 $$
 
 ### 3.9. Invariancia por refinamiento
 
-**Teorema.**  
+**Teorema.** 
 Si $\mathcal M'$ es un refinamiento compatible de $\mathcal M$, entonces
 
 $$
@@ -1374,13 +1374,13 @@ Versión normalizada:
 $$
 \mathfrak D_{\Gamma}^{(2)} f(j)
 :=
-\frac{f_{j+2}-2f_{j+1}+f_j}{\omega(\nu_j)\,\omega(\nu_{j+1})}.
+\frac{f_{j+2}-2f_{j+1}+f_j}{\omega(\nu_j)\thinspace \omega(\nu_{j+1})}.
 $$
 
 ### 4.6. Segundas parciales paramétricas
 
 $$
-\partial^{SV\,2}_{x_a x_a} f(\nu_j)
+\partial^{SV\thinspace 2}_{x_a x_a} f(\nu_j)
 :=
 \frac{f_j(x_a+\Delta x_a)-2f_j(x_a)+f_j(x_a-\Delta x_a)}{(\Delta x_a)^2}.
 $$
@@ -1388,7 +1388,7 @@ $$
 Parciales mixtas:
 
 $$
-\partial^{SV\,2}_{x_a x_b} f(\nu_j)
+\partial^{SV\thinspace 2}_{x_a x_b} f(\nu_j)
 :=
 \partial^{SV}_{x_a}\bigl(\partial^{SV}_{x_b}f(\nu_j)\bigr).
 $$
@@ -1401,7 +1401,7 @@ Paramétrico:
 
 
 $$
-H^{SV}_x f(\nu_j) = \bigl(\partial^{SV\,2}_{x_a x_b} f(\nu_j)\bigr)_{a,b}.
+H^{SV}_x f(\nu_j) = \bigl(\partial^{SV\thinspace 2}_{x_a x_b} f(\nu_j)\bigr)_{a,b}.
 $$
 
 
@@ -1409,7 +1409,7 @@ Posicional:
 
 
 $$
-H^{SV}_{\mathrm{pos}} f(\nu_j) = \bigl(\partial^{SV\,2}_{ij} f(\nu_j)\bigr)_{i,j}.
+H^{SV}_{\mathrm{pos}} f(\nu_j) = \bigl(\partial^{SV\thinspace 2}_{ij} f(\nu_j)\bigr)_{i,j}.
 $$
 
 
@@ -1418,7 +1418,7 @@ $$
 $$
 \Delta^{SV}_{\mathrm{L}} f(\nu_j)
 :=
-\sum_{i=1}^{n}\partial^{SV\,2}_{ii} f(\nu_j).
+\sum_{i=1}^{n}\partial^{SV\thinspace 2}_{ii} f(\nu_j).
 $$
 
 ## 5. Jacobianos, divergencia posicional y rotor como antisimetría
@@ -1463,7 +1463,7 @@ Morfismo de clausura: $\tau:\mathcal O \to K_3^m.$ Matriz de transición:
 
 
 $$
-J^{SV}_{\mathrm{cl}}(a,k) = \mathrm{clase}\!\Bigl( \tau_k(q(x+\Delta x_a)) \leftarrow \tau_k(q(x)) \Bigr).
+J^{SV}_{\mathrm{cl}}(a,k) = \mathrm{clase}\Bigl( \tau_k(q(x+\Delta x_a)) \leftarrow \tau_k(q(x)) \Bigr).
 $$
 
 
@@ -1484,16 +1484,16 @@ Composición parcial $\circ_{\mathrm{cl}}$:
 - una reapertura rompe la persistencia previa;
 - una composición no legitimable se conserva como clase abierta.
 
-Estabilidad: $J^{SV}_{\mathrm{cl}}(a,k)\in\{0\to0,\;1\to1,\;U\to U\}$ define estabilidad; resolución favorable o desfavorable define resolución; reapertura o inversión define fragilidad.
+Estabilidad: $J^{SV}_{\mathrm{cl}}(a,k)\in\lbrace 0\to0,\;1\to1,\;U\to U\rbrace$ define estabilidad; resolución favorable o desfavorable define resolución; reapertura o inversión define fragilidad.
 
 ## 6. Transformadas de trayectoria, reconstrucción e inversa factual
 
 ### 6.1. Forma general
 
 $$
-\mathcal T_{\Phi}[q](\lambda)
+\mathcal T_{\Phi}\lbrack q\rbrack(\lambda)
 :=
-\sum_{j=0}^{m} q_j\,\Phi_\lambda(\nu_j).
+\sum_{j=0}^{m} q_j\thinspace \Phi_\lambda(\nu_j).
 $$
 
 ### 6.2. Familias de transformadas mínimas
@@ -1502,7 +1502,7 @@ $$
 
 
 $$
-\mathcal T_{\alpha}[q] = \sum_j q_j\,\alpha^j, \qquad \alpha\in R_+.
+\mathcal T_{\alpha}\lbrack q\rbrack = \sum_j q_j\thinspace \alpha^j, \qquad \alpha\in R_+.
 $$
 
 
@@ -1510,7 +1510,7 @@ $$
 
 
 $$
-\mathcal T_{\mathrm{pers}}[q](L) = \sum_j q_j\,\mathbf 1_{\{\ell(\nu_j)\ge L\}}.
+\mathcal T_{\mathrm{pers}}\lbrack q\rbrack(L) = \sum_j q_j\thinspace \mathbf 1_{\lbrace \ell(\nu_j)\ge L\rbrace}.
 $$
 
 
@@ -1518,7 +1518,7 @@ $$
 
 
 $$
-\mathcal T_{\mathrm{cyc}}[q](\kappa) = \sum_j q_j\,e^{SV}_{\kappa}(\nu_j).
+\mathcal T_{\mathrm{cyc}}\lbrack q\rbrack(\kappa) = \sum_j q_j\thinspace e^{SV}_{\kappa}(\nu_j).
 $$
 
 
@@ -1526,7 +1526,7 @@ $$
 
 
 $$
-\mathcal T_{\mathrm{res}}[q] = \sum_j q_j\,R(\nu_j).
+\mathcal T_{\mathrm{res}}\lbrack q\rbrack = \sum_j q_j\thinspace R(\nu_j).
 $$
 
 
@@ -1548,14 +1548,14 @@ Una familia $\Phi_\lambda$ es admisible si:
 ### 6.5. Separabilidad
 
 $$
-\mathcal T_\Phi[q_1]=\mathcal T_\Phi[q_2] \implies q_1=q_2
+\mathcal T_\Phi\lbrack q_1\rbrack=\mathcal T_\Phi\lbrack q_2\rbrack \implies q_1=q_2
 \quad\text{para todo } q_1,q_2\in\mathcal Q.
 $$
 
 ### 6.6. Inversa factual
 
 $$
-\mathcal T_\Phi^{-1}:\mathrm{Im}(\mathcal T_\Phi)\to \mathcal Q/\!\sim
+\mathcal T_\Phi^{-1}:\mathrm{Im}(\mathcal T_\Phi)\to \mathcal Q/\sim
 $$
 
 con tres regímenes:
@@ -1567,7 +1567,7 @@ con tres regímenes:
 
 
 $$
-\kappa^{SV}_{\mathrm{rec}}(\Phi,q) = \frac{\|\delta q\|_{SV}}{\|\delta \mathcal T_\Phi[q]\|_{SV}}.
+\kappa^{SV}_{\mathrm{rec}}(\Phi,q) = \frac{\|\delta q\|_{SV}}{\|\delta \mathcal T_\Phi\lbrack q\rbrack\|_{SV}}.
 $$
 
 
@@ -1576,7 +1576,7 @@ $$
 Si $\Phi$ es separante y estable sobre $\mathcal Q$, entonces
 
 $$
-\mathcal T_\Phi^{-1}\bigl(\mathcal T_\Phi[q]\bigr)=q.
+\mathcal T_\Phi^{-1}\bigl(\mathcal T_\Phi\lbrack q\rbrack\bigr)=q.
 $$
 
 Si $\Phi$ no es separante, la salida correcta es una clase de equivalencia o `U` reconstructiva.
@@ -1605,7 +1605,7 @@ con:
 
 $$
 \mathrm{Inv}(\mathfrak C)=
-\{\text{aditividad},\ \text{orden},\ \text{clase de cierre},\ \text{residual},\ \text{frontera},\ \text{orientación}\}.
+\lbrace \text{aditividad},\ \text{orden},\ \text{clase de cierre},\ \text{residual},\ \text{frontera},\ \text{orientación}\rbrace.
 $$
 
 ### 7.4. Composición formal de cambios de dominio
@@ -1650,9 +1650,9 @@ $$
 ### 8.3. Integral compleja factual
 
 $$
-\int_{\Gamma^\circlearrowleft}^{SV} f_{SV}(z)\,dz_{SV}
+\int_{\Gamma^\circlearrowleft}^{SV} f_{SV}(z)\thinspace dz_{SV}
 :=
-\sum_{j} f_{SV}(z_j)\,\Delta z_j,
+\sum_{j} f_{SV}(z_j)\thinspace \Delta z_j,
 \qquad
 \Delta z_j = \Delta u_j + \mathbf i_{SV}\Delta v_j.
 $$
@@ -1677,7 +1677,7 @@ mide la concentración neta de defecto o fuente estructural capturada por cualqu
 
 
 $$
-\int_{\Gamma^\circlearrowleft}^{SV} f_{SV}(z)\,dz_{SV} = 2\pi_{SV}\mathbf i_{SV} \sum_{k=1}^{r}\mathrm{Res}_{SV}(f_{SV};a_k).
+\int_{\Gamma^\circlearrowleft}^{SV} f_{SV}(z)\thinspace dz_{SV} = 2\pi_{SV}\mathbf i_{SV} \sum_{k=1}^{r}\mathrm{Res}_{SV}(f_{SV};a_k).
 $$
 
 
@@ -1688,7 +1688,7 @@ La ley sustantiva es: circulación factual compleja sobre el contorno = suma de 
 Dos ciclos factuales $\Gamma_1,\Gamma_2$ son equivalentes cuando tienen la misma frontera nula, difieren por pegado de fronteras internas cancelables y no atraviesan singularidades o defectos no equivalentes. La clase de ciclo factual se escribe
 
 $$
-[\Gamma]_{SV}:=\Gamma/\!\sim_{SV}.
+[\Gamma]_{SV}:=\Gamma/\sim_{SV}.
 $$
 
 Se define una cohomología factual mínima como estructura dual que clasifica funcionales invariantes sobre clases de ciclo. La dualidad factual queda cerrada a primer orden:
@@ -1705,7 +1705,7 @@ $$
 q_{j+1} = \mathcal G^{SV}(q_j,\nu_j).
 $$
 
-Sobre ese suelo se añade un desarrollo espectral factual: $q = \sum_{\lambda\in\Lambda} c_\lambda\,\Psi_\lambda,$ donde $\Psi_\lambda$ son modos factuales y $c_\lambda$ coeficientes en dominio compatible.
+Sobre ese suelo se añade un desarrollo espectral factual: $q = \sum_{\lambda\in\Lambda} c_\lambda\thinspace \Psi_\lambda,$ donde $\Psi_\lambda$ son modos factuales y $c_\lambda$ coeficientes en dominio compatible.
 
 ## 11. Curvatura factual completa, gravedad factual mínima y Maxwell factual completo
 
@@ -1877,7 +1877,7 @@ Este apartado extiende el ejemplo director de XII §7 al bloque geométrico, com
 
 ### Objeto extendido: mosaico de frames
 
-Sea el mosaico $M = \{C_0, C_1, C_2, C_3\}$ donde cada celda $C_j$ corresponde al frame $\nu_j$ de la trayectoria $\Gamma$ del ejemplo de XII §7. El campo factual $\mathcal{F}: M \to \mathbb{N}_0$ asigna a cada celda el conteo de posiciones en $U$:
+Sea el mosaico $M = \lbrace C_0, C_1, C_2, C_3\rbrace$ donde cada celda $C_j$ corresponde al frame $\nu_j$ de la trayectoria $\Gamma$ del ejemplo de XII §7. El campo factual $\mathcal{F}: M \to \mathbb{N}_0$ asigna a cada celda el conteo de posiciones en $U$:
 
 $$
 \mathcal{F}(C_0) = 3, \quad \mathcal{F}(C_1) = 2, \quad \mathcal{F}(C_2) = 1, \quad \mathcal{F}(C_3) = 0.
@@ -1887,7 +1887,7 @@ Las celdas están orientadas con fronteras $F_{01}$, $F_{12}$, $F_{23}$. Pesos $
 
 ### Flujo factual (XVIII §1)
 
-El flujo del campo $\mathcal{F}$ a través de $F_{01}$: $\Phi_{\mathrm{SV}}(\mathcal{F}; F_{01}) = \sigma_0 \,\mathcal{F}(C_0)\,\omega(F_{01}) = 3.$ El sistema transporta tres unidades de indeterminación de $C_0$ hacia $C_1$; dos de $C_1$ hacia $C_2$; una de $C_2$ hacia $C_3$.
+El flujo del campo $\mathcal{F}$ a través de $F_{01}$: $\Phi_{\mathrm{SV}}(\mathcal{F}; F_{01}) = \sigma_0 \thinspace \mathcal{F}(C_0)\thinspace \omega(F_{01}) = 3.$ El sistema transporta tres unidades de indeterminación de $C_0$ hacia $C_1$; dos de $C_1$ hacia $C_2$; una de $C_2$ hacia $C_3$.
 
 ### Divergencia factual (XVIII §2)
 
@@ -1911,7 +1911,7 @@ Un campo que no cierra su ciclo no es irrotacional: la indeterminación se disip
 
 ### Integración factual (XIX §4)
 
-La integral del campo a lo largo del mosaico orientado $M$: $\int_M \mathcal{F}\,d\omega = \sum_{j=0}^{2} \mathcal{F}(C_j)\,\omega(C_j) = 3 + 2 + 1 + 0 = 6.$ Seis unidades acumuladas de indeterminación a lo largo de los cuatro frames.
+La integral del campo a lo largo del mosaico orientado $M$: $\int_M \mathcal{F}\thinspace d\omega = \sum_{j=0}^{2} \mathcal{F}(C_j)\thinspace \omega(C_j) = 3 + 2 + 1 + 0 = 6.$ Seis unidades acumuladas de indeterminación a lo largo de los cuatro frames.
 
 ### Balance de frontera — Teorema SV (XX)
 
