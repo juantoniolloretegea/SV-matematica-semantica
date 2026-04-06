@@ -8,7 +8,7 @@ ISSN: 2695-6411
 Licencia: CC BY-NC-ND 4.0 
 Lugar y fecha: Madrid, 6/04/2026 
 
-El presente estudio se organiza en dos partes. La primera parte fija el programa de física factual del Sistema Vectorial SV: delimita qué operadores, estructuras y criterios de clausura exige cada dominio físico —electromagnetismo, gravedad, sector de Higgs y frontera cuántica— para que el sistema pueda operar con legitimidad científica propia. La segunda parte responde a esas exigencias desarrollando las nuevas matemáticas del Sistema Vectorial SV: establece los fundamentos del cálculo del suceso, construye sus operadores propios y alcanza el cierre del programa mediante análisis riguroso de completitud. La física factual actúa en todo momento como dominio director de máxima exigencia; las nuevas matemáticas nacen de esa exigencia y la satisfacen.
+El presente estudio se organiza en dos partes. La primera parte fija el programa de física factual del <a href="https://juantoniolloretegea.github.io/SV-matematica-semantica/" target="_blank" rel="noopener noreferrer">Sistema Vectorial SV</a>: delimita qué operadores, estructuras y criterios de clausura exige cada dominio físico —electromagnetismo, gravedad, sector de Higgs y frontera cuántica— para que el sistema pueda operar con legitimidad científica propia. La segunda parte responde a esas exigencias desarrollando las nuevas matemáticas del Sistema Vectorial SV: establece los fundamentos del cálculo del suceso, construye sus operadores propios y alcanza el cierre del programa mediante análisis riguroso de completitud. La física factual actúa en todo momento como dominio director de máxima exigencia; las nuevas matemáticas nacen de esa exigencia y la satisfacen.
 
 # Primera parte. Física factual del Sistema Vectorial SV
 
@@ -19,7 +19,7 @@ A medida que ese estudio factual queda delineado, se hace visible la exigencia e
 ## 1. Estatuto
 
 Este conjunto queda subordinado a:
-- la sede doctrinal superior del SV;
+- la <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica" target="_blank" rel="noopener noreferrer">sede doctrinal superior del SV</a>;
 - el conjunto principal de nuevas matemáticas del SV;
 - y la cadena de prevalencia del proyecto.
 
@@ -168,7 +168,7 @@ El bloque de Física Factual del Sistema Vectorial SV mantiene su validez con ra
 
 # Segunda parte. Las nuevas matemáticas del Sistema Vectorial SV
 
-Esta segunda parte se abre en respuesta directa a las exigencias establecidas en la primera. La física factual no comparece aquí como marco de referencia externo, sino como dominio director que revela una carencia estructural determinada: el Sistema Vectorial SV no puede sostener con legitimidad sus futuras células factuales si no dispone de operadores propios de cambio, acumulación, sensibilidad, residualidad y clausura. Esta exigencia es de naturaleza doble: interna, porque el sistema ya dispone del suelo conceptual suficiente para construir ese aparato matemático; y externa, porque el Lenguaje de Computación del SV no puede proyectarse con rigor científico sin él.
+Esta segunda parte se abre en respuesta directa a las exigencias establecidas en la primera. La física factual no comparece aquí como marco de referencia externo, sino como dominio director que revela una carencia estructural determinada: el Sistema Vectorial SV no puede sostener con legitimidad sus futuras células factuales si no dispone de operadores propios de cambio, acumulación, sensibilidad, residualidad y clausura. Esta exigencia es de naturaleza doble: interna, porque el sistema ya dispone del suelo conceptual suficiente para construir ese aparato matemático; y externa, porque el <a href="https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion" target="_blank" rel="noopener noreferrer">Lenguaje de Computación del SV</a> no puede proyectarse con rigor científico sin él.
 
 El desarrollo avanza desde los fundamentos operativos del cálculo del suceso —derivadas de suceso, acumulación factual, jacobianos estructurales, transformadas de trayectoria, geometría factual— hasta el cierre de la sección XXIV, que resuelve las carencias matemáticas identificadas en el curso del programa.
 
@@ -176,7 +176,7 @@ El desarrollo avanza desde los fundamentos operativos del cálculo del suceso �
 
 ## 1. Naturaleza y rango
 
-El presente apartado tiene rango de **documento marco**. Su legitimidad depende de que permanezca subordinado a la sede doctrinal del sistema y de que no intente forzar crecimiento por la vía del backend, del laboratorio o del motor de inteligencia artificial.
+El presente apartado tiene rango de **documento marco**. Su legitimidad depende de que permanezca subordinado a la sede doctrinal del sistema y de que no intente forzar crecimiento por la vía del backend, del laboratorio o del <a href="https://github.com/juantoniolloretegea/SV-motor" target="_blank" rel="noopener noreferrer">motor de inteligencia artificial</a>.
 
 ## 2. Objeto del estudio
 
@@ -242,13 +242,13 @@ Este estudio no nace para polemizar con el cálculo clásico, sino para preparar
 
 Deben distinguirse tres planos:
 
-1. plano ternario canónico: $K_3=\lbrace 0,1,U\rbrace$ 2. plano de observables compatibles, donde existen suma, resta y, en ciertos casos, producto por escalar y cociente;
+1. <a href="https://www.itvia.online/algebra-de-composicion-intercelular-del-sistema-vectorial-sv" target="_blank" rel="noopener noreferrer">plano ternario canónico</a>: $K_3=\lbrace 0,1,U\rbrace$ 2. plano de observables compatibles, donde existen suma, resta y, en ciertos casos, producto por escalar y cociente;
 
 3. plano de lectura inducida, que proyecta observables o trayectorias a clausura ternaria o a dictamen.
 
 La matemática primaria del cálculo del suceso no se define originariamente sobre $K_3$, sino sobre observables compatibles.
 
-**Ejemplo director.** A lo largo de las secciones VII–XII se desarrolla un ejemplo continuo sobre la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones. Cada sección aplica el operador que le corresponde al mismo objeto de entrada; el recorrido se completa en XII §7 y se extiende al bloque geométrico en XXIV §15.
+**Ejemplo director.** A lo largo de las secciones VII–XII se desarrolla un ejemplo continuo sobre la <a href="https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3?readingCollection=4ebab177" target="_blank" rel="noopener noreferrer">célula canónica del Sistema Vectorial SV</a> de base $b=3$ y $n=9$ posiciones. Cada sección aplica el operador que le corresponde al mismo objeto de entrada; el recorrido se completa en XII §7 y se extiende al bloque geométrico en XXIV §15.
 
 En la célula canónica del Sistema Vectorial SV de base $b=3$ y $n=9$ posiciones —formalizada en los *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Lloret Egea, 2026k)— el plano ternario canónico $K_3=\lbrace 0,1,U\rbrace$ actúa como codominio de lectura: cada posición $p_i$ del vector $\mathbf{v}=(v_1,\ldots,v_9)$ toma valor en $K_3$. El plano de observables compatibles se instancia en magnitudes aditivas derivadas de ese vector: la función $q(\mathbf{v})=|\lbrace i : v_i=U\rbrace|$, que contabiliza las posiciones en indeterminación, toma valores en $\mathbb{N}_0$ y soporta suma y resta. La clausura ternaria se obtiene por lectura inducida conforme al horizonte declarado (Lloret Egea, 2026i).
 
@@ -310,7 +310,9 @@ Este apartado no invalida los textos ya escritos sobre derivada, acumulación o 
 ## 1. Estatuto del mapeo
 ![Cartografía de equivalentes: cálculo clásico y cálculo del suceso SV](figuras/fig_cartografia.png)
 
-*Figura — Cartografía de equivalentes entre el cálculo clásico y el cálculo del suceso del Sistema Vectorial SV. A la izquierda, el marco clásico opera sobre ℝ con métrica euclidiana: la convergencia se define por distancia real y las derivadas son infinitesimales. A la derecha, el cálculo del suceso SV opera sobre K₃ⁿ = {0,1,U}ⁿ sin métrica real canónica: la derivada de suceso es 𝔇_Γf(j) = Δf/ω, la acumulación es 𝔄 = Σf·ω y la convergencia se define estructuralmente por el cierre de la indeterminación. Las tres ideas del cálculo curvilíneo —partición, evaluación local, recorrido— se trasladan al SV como instrumento expositivo, no como identidad algebraica.*
+Figura 1. Cartografía de equivalentes: cálculo clásico y cálculo del suceso SV
+
+*Figura 1 — Cartografía de equivalentes entre el cálculo clásico y el cálculo del suceso del Sistema Vectorial SV. A la izquierda, el marco clásico opera sobre ℝ con métrica euclidiana: la convergencia se define por distancia real y las derivadas son infinitesimales. A la derecha, el cálculo del suceso SV opera sobre K₃ⁿ = {0,1,U}ⁿ sin métrica real canónica: la derivada de suceso es 𝔇_Γf(j) = Δf/ω, la acumulación es 𝔄 = Σf·ω y la convergencia se define estructuralmente por el cierre de la indeterminación. Las tres ideas del cálculo curvilíneo —partición, evaluación local, recorrido— se trasladan al SV como instrumento expositivo, no como identidad algebraica.*
 
 Aquí, **equivalente** no significa identidad formal ni isomorfismo entre marcos. Significa: objeto, operador o construcción del SV que puede asumir una función matemática comparable bajo régimen propio.
 
@@ -351,7 +353,7 @@ y, cuando proceda, $\lim_{\|P_{\Gamma}\|\to 0}\sum f_j\thinspace \omega(\nu_j).$
 
 ### 3.4. Integral curvilínea → trayectoria con partición
 
-El corpus ya reconoce una correspondencia estructural expositiva entre trayectoria SV e integral curvilínea, sin identidad formal. **Estado A.**
+El corpus ya reconoce una correspondencia estructural expositiva entre trayectoria <a href="https://www.itvia.online/pub/convergencia-ternaria-y-gobierno-determinista-de-trayectorias-en-el-sistema-vectorial-sv-tipologia-de-la-indeterminacion-hna-como-teorema-y-fundamentos-de-la-celula-nlp/release/2" target="_blank" rel="noopener noreferrer">SV e integral curvilínea</a>, sin identidad formal. **Estado A.**
 
 ### 3.5. Límite → clausura estructural
 
@@ -390,7 +392,7 @@ La `U` no es:
 
 Su función es preservar la no clausura legítima cuando no existe base suficiente para decidir.
 
-La formalización canónica de la U como estado estructural resoluble queda fijada en *Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV* (Lloret Egea, 2026l). En la célula $\mathrm{SV}(9{,}3)$, la posición $p_i=U$ puede tipificarse en tres categorías estructuralmente distintas mediante la función $\Gamma_{\mathcal{H}}$ introducida en Lloret Egea (2026i): $U$ **irreducible** —el horizonte declarado no contiene suceso que la resuelva—, $U$ **fronteriza** —el resultado depende del suceso que llegue— y $U$ **resoluble** —existe un suceso en el horizonte que la cierra unívocamente. Esta clasificación es computable antes de ejecutar cualquier trayectoria y constituye el instrumento de gobierno que distingue al SV de los sistemas probabilísticos.
+La formalización canónica de la U como estado estructural resoluble queda fijada en *<a href="https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv/release/1?readingCollection=4ebab177" target="_blank" rel="noopener noreferrer">Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV</a>* (Lloret Egea, 2026l). En la célula $\mathrm{SV}(9{,}3)$, la posición $p_i=U$ puede tipificarse en tres categorías estructuralmente distintas mediante la función $\Gamma_{\mathcal{H}}$ introducida en Lloret Egea (2026i): $U$ **irreducible** —el horizonte declarado no contiene suceso que la resuelva—, $U$ **fronteriza** —el resultado depende del suceso que llegue— y $U$ **resoluble** —existe un suceso en el horizonte que la cierra unívocamente. Esta clasificación es computable antes de ejecutar cualquier trayectoria y constituye el instrumento de gobierno que distingue al SV de los sistemas probabilísticos.
 
 
 ## 2. El residual
@@ -419,7 +421,7 @@ $$
 
 El límite del SV no es aproximación continua a un punto real. Es clausura estructural de trayectoria.
 
-En la célula canónica $\mathrm{SV}(9{,}3)$, el límite estructural corresponde a la condición $\mathcal{U}_{\mathrm{irr}}(T)=\varnothing$: ninguna posición del vector evaluado contiene $U$ irreducible. Esta condición es el enunciado operativo del Teorema HNA (Hipótesis de Monotonía de Habilitación), demostrado como teorema del corpus en Lloret Egea (2026i) a partir del invariante append-only de la trayectoria formalizado en Lloret Egea (2026c).
+En la célula canónica $\mathrm{SV}(9{,}3)$, el límite estructural corresponde a la condición $\mathcal{U}_{\mathrm{irr}}(T)=\varnothing$: ninguna posición del vector evaluado contiene $U$ irreducible. Esta condición es el enunciado operativo del Teorema HNA (<a href="https://www.itvia.online/fundamentos-algebraicos-del-gobierno-determinista-convergencia-ternaria-clasificacion-de-la-indeterminacion-y-celula-nlp" target="_blank" rel="noopener noreferrer">Hipótesis de Monotonía de Habilitación</a>), demostrado como teorema del corpus en Lloret Egea (2026i) a partir del invariante append-only de la trayectoria formalizado en Lloret Egea (2026c).
 
 
 ## 4. Consecuencias
@@ -616,7 +618,9 @@ Si derivada y acumulación permitían medir cambio y recomposición, sensibilida
 Este apartado aplica, sobre un único objeto de entrada, todos los operadores de las secciones VII–XII. El mismo objeto se extiende al bloque geométrico en XXIV §15.
 ![Ejemplo director: la célula SV(9,3) bajo los 7 planos del cálculo del suceso](figuras/fig_ejemplo_director.png)
 
-*Figura — Ejemplo director: la célula SV(9,3) evaluando un frame conversacional bajo los siete planos del cálculo del suceso. La trayectoria Γ = (ν₀, ν₁, ν₂, ν₃) con f = [3, 2, 1, 0] muestra la convergencia desde tres posiciones en indeterminación (P₁, P₄, P₇ = U) hasta el cierre completo en ν₃ = APTO. Plano I: dominio compatible, f ∈ ℕ₀. Plano II: equivalente clásico, descenso ΔN=3. Plano III: U_irr = ∅ (todas resolubles). Plano IV: derivada constante 𝔇f ≡ −1. Plano V: acumulación telescópica 𝔄 = −3 = f(ν₃)−f(ν₀). Plano VI: sensibilidad 𝒮_a = −1 < 0. Plano VII: jacobiano en clausura J_SV(ν₃) = 0.*
+Figura 2. Ejemplo director: la célula SV(9,3) bajo los 7 planos del cálculo del suceso
+
+*Figura 2 — Ejemplo director: la célula SV(9,3) evaluando un frame conversacional bajo los siete planos del cálculo del suceso. La trayectoria Γ = (ν₀, ν₁, ν₂, ν₃) con f = [3, 2, 1, 0] muestra la convergencia desde tres posiciones en indeterminación (P₁, P₄, P₇ = U) hasta el cierre completo en ν₃ = APTO. Plano I: dominio compatible, f ∈ ℕ₀. Plano II: equivalente clásico, descenso ΔN=3. Plano III: U_irr = ∅ (todas resolubles). Plano IV: derivada constante 𝔇f ≡ −1. Plano V: acumulación telescópica 𝔄 = −3 = f(ν₃)−f(ν₀). Plano VI: sensibilidad 𝒮_a = −1 < 0. Plano VII: jacobiano en clausura J_SV(ν₃) = 0.*
 
 **Objeto.** Sea la célula canónica $\mathrm{SV}(9,3)$ evaluando un frame conversacional conforme a *El transductor lingüístico y el horizonte $H_{\mathrm{NLP}}$ del Sistema Vectorial SV* (Lloret Egea, 2026j). Trayectoria $\Gamma = (\nu_0, \nu_1, \nu_2, \nu_3)$:
 
@@ -876,7 +880,9 @@ Si el lenguaje de programación del SV quiere aspirar a madurez científica real
 Este apartado abre la base geométrica mínima del cálculo del suceso. Su función es fijar las nociones preparatorias de trayectoria factual orientada, frontera factual, mosaico compatible y campo factual como suelo necesario para el bloque geométrico posterior. No importa geometría diferencial clásica como soberana, no altera la terna `{0,1,U}` y no autoriza cierres por intuición visual. Sí fija el vocabulario mínimo con el que el SV puede hablar de borde, interior, compatibilidad y agregación geométrica sin traicionar su régimen de sucesos.
 ![Operadores geométricos factuales: mosaico, flujo, divergencia y balance](figuras/fig_geometria_mosaico.png)
 
-*Figura — Operadores geométricos del cálculo del suceso aplicados sobre el mosaico M = {C₀, C₁, C₂, C₃} con campo factual F(Cⱼ) = [3, 2, 1, 0]. Arriba izquierda: el mosaico con sus fronteras orientadas F₀₁, F₁₂, F₂₃ y el flujo factual Φ(F_jk) = F(C_j)·ω(F_jk) por cada frontera. Arriba derecha: aplicación numérica — Φ(F₀₁)=3, Φ(F₁₂)=2, Div(C₁) = (3−2)/1 = 1, ∫_M = 6, ΔF = −3. Abajo: el teorema preliminar de balance de frontera muestra la correspondencia estructural (⟿) entre la integral de la divergencia y el flujo externo, verificada numéricamente: ΔF = F(C₃)−F(C₀) = −3, coincidente con la acumulación de derivadas del ejemplo director.*
+Figura 3. Operadores geométricos factuales: mosaico, flujo, divergencia y balance
+
+*Figura 3 — Operadores geométricos del cálculo del suceso aplicados sobre el mosaico M = {C₀, C₁, C₂, C₃} con campo factual F(Cⱼ) = [3, 2, 1, 0]. Arriba izquierda: el mosaico con sus fronteras orientadas F₀₁, F₁₂, F₂₃ y el flujo factual Φ(F_jk) = F(C_j)·ω(F_jk) por cada frontera. Arriba derecha: aplicación numérica — Φ(F₀₁)=3, Φ(F₁₂)=2, Div(C₁) = (3−2)/1 = 1, ∫_M = 6, ΔF = −3. Abajo: el teorema preliminar de balance de frontera muestra la correspondencia estructural (⟿) entre la integral de la divergencia y el flujo externo, verificada numéricamente: ΔF = F(C₃)−F(C₀) = −3, coincidente con la acumulación de derivadas del ejemplo director.*
 
 **Nota metodológica sobre el orden de las secciones XVII–XX.** Los operadores geométricos del SV —flujo, divergencia, rotor e integración— se definen en estas secciones mediante sumas discretas orientadas sobre fronteras y mosaicos, sin invocar derivadas parciales en sentido analítico. Esta elección sigue la lógica del cálculo diferencial exterior: los operadores globales preceden a la representación local en coordenadas. La derivada parcial factual y el gradiente se formalizan en XXIV §4; la equivalencia "divergencia = suma de parciales factuales" se establece en XXIV §5. El lector que prefiera el orden analítico clásico puede consultar XXIV §4 antes de retomar estas secciones sin pérdida de coherencia.
 
@@ -1802,7 +1808,7 @@ El término correcto es **unión**.
 
 ### 12.2. Contratos de lowering
 
-Todo lowering al IR deberá preservar:
+<a href="https://juantoniolloretegea.github.io/SV-lenguaje-de-computacion/" target="_blank" rel="noopener noreferrer">Todo lowering al IR</a> deberá preservar:
 1. frontera explícita;
 2. orientación coherente;
 3. ausencia de doble contabilidad;
@@ -1873,7 +1879,9 @@ No queda, tras esta versión, ninguna deuda matemática imprescindible para el a
 Este apartado extiende el ejemplo director de XII §7 al bloque geométrico, completando el recorrido desde el suceso elemental hasta los campos factuales, el flujo, la integración y la clausura.
 ![Recorrido completo: la célula SV(9,3) bajo todos los operadores](figuras/fig_recorrido_completo.png)
 
-*Figura — Recorrido completo de la célula SV(9,3) bajo los catorce operadores del programa matemático. El mosaico M = {C₀, C₁, C₂, C₃} con F = [3, 2, 1, 0] sirve como objeto unificado sobre el que se ejercen todos los operadores del cálculo del suceso y del bloque de geometría factual. La tabla verifica: dominio compatible ✓, U_irr = ∅ ✓, residual monotónico ✓, derivada constante −1 ✓, acumulación −3 ✓, sensibilidad −1 ✓, jacobiano en APTO = 0 ✓, flujo 3 ✓, divergencia 1 ✓, integral 6 ✓, balance −3 ✓, gradiente (−1,−1) ✓, jacobiano de clausura (0,0) ✓, dictamen APTO ✓. El resultado establece la clausura del programa matemático a primer orden completo.*
+Figura 4. Recorrido completo: la célula SV(9,3) bajo todos los operadores
+
+*Figura 4 — Recorrido completo de la célula SV(9,3) bajo los catorce operadores del programa matemático. El mosaico M = {C₀, C₁, C₂, C₃} con F = [3, 2, 1, 0] sirve como objeto unificado sobre el que se ejercen todos los operadores del cálculo del suceso y del bloque de geometría factual. La tabla verifica: dominio compatible ✓, U_irr = ∅ ✓, residual monotónico ✓, derivada constante −1 ✓, acumulación −3 ✓, sensibilidad −1 ✓, jacobiano en APTO = 0 ✓, flujo 3 ✓, divergencia 1 ✓, integral 6 ✓, balance −3 ✓, gradiente (−1,−1) ✓, jacobiano de clausura (0,0) ✓, dictamen APTO ✓. El resultado establece la clausura del programa matemático a primer orden completo.*
 
 ### Objeto extendido: mosaico de frames
 
@@ -1972,7 +1980,7 @@ El estudio no presenta, a este nivel, lagunas matemáticas que impidan su arranq
 
 Los laboratorios de este estudio se alojan en el repositorio doctrinal del Sistema Vectorial SV, en la carpeta dedicada `documentos/adendas/laboratorios/`:
 
-**Repositorio:** <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios" target="_blank"><a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios" target="_blank" rel="noopener noreferrer">https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios</a></a>
+**Repositorio:** <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/laboratorios" target="_blank" rel="noopener noreferrer">https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/laboratorios</a>
 
 Todos los laboratorios son ejecutables con Python 3.9 o superior, sin dependencias externas (módulos estándar: `json`, `hashlib`, `subprocess`). El runner maestro ejecuta los siete laboratorios secuencialmente y emite veredicto final con huellas de integridad MD5.
 
@@ -1980,34 +1988,36 @@ Todos los laboratorios son ejecutables con Python 3.9 o superior, sin dependenci
 
 | Laboratorio | Sección | Descripción |
 |---|---|---|
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_01_calculo_suceso.py" target="_blank">`lab_01_calculo_suceso.py`</a> | XIV–XV | Módulos A-D: derivada de suceso, acumulación factual, sensibilidad, custodia. Cinco casos canónicos. Catálogo NMSV001-NMSV008. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_02_ejemplo_director.py" target="_blank">`lab_02_ejemplo_director.py`</a> | XII §7 | Los 7 planos del ejemplo director sobre SV(9,3): f=[3,2,1,0], derivadas=[-1,-1,-1], acumulación=-3, J=0, APTO. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_03_geometrico.py" target="_blank">`lab_03_geometrico.py`</a> | XXI–XXII | Laboratorio geométrico G1-G5: flujo factual, divergencia, cancelación interna, conservación de U, circulación. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_04_recorrido_completo.py" target="_blank">`lab_04_recorrido_completo.py`</a> | XXIV §15 | Pipeline completo: tabla de 14 operadores verificados → dictamen APTO. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_05_maxwell_factual.py" target="_blank">`lab_05_maxwell_factual.py`</a> | I §3 | Maxwell factual sintético: residuales de campo sin tiempo soberano, acumulación trazable. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_06_gravedad_factual.py" target="_blank">`lab_06_gravedad_factual.py`</a> | II §4 | Gravedad factual sintética: evento gravitacional, coincidencia y reapertura (fork sísmico). |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/lab_07_higgs_factual.py" target="_blank">`lab_07_higgs_factual.py`</a> | III §3 | Higgs factual sintético: evidencia acumulada, fork por re-análisis del fondo, J_clausura=0. |
-| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/runner_sv_nmsv.py" target="_blank">`runner_sv_nmsv.py`</a> | XV | Runner maestro: ejecuta los 7 laboratorios, verifica 5 invariantes y emite veredicto final con huellas MD5. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_01_calculo_suceso.py" target="_blank" rel="noopener noreferrer"><code>lab_01_calculo_suceso.py</code></a> | XIV–XV | Módulos A-D: derivada de suceso, acumulación factual, sensibilidad, custodia. Cinco casos canónicos. Catálogo NMSV001-NMSV008. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_02_ejemplo_director.py" target="_blank" rel="noopener noreferrer"><code>lab_02_ejemplo_director.py</code></a> | XII §7 | Los 7 planos del ejemplo director sobre SV(9,3): f=[3,2,1,0], derivadas=[-1,-1,-1], acumulación=-3, J=0, APTO. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_03_geometrico.py" target="_blank" rel="noopener noreferrer"><code>lab_03_geometrico.py</code></a> | XXI–XXII | Laboratorio geométrico G1-G5: flujo factual, divergencia, cancelación interna, conservación de U, circulación. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_04_recorrido_completo.py" target="_blank" rel="noopener noreferrer"><code>lab_04_recorrido_completo.py</code></a> | XXIV §15 | Pipeline completo: tabla de 14 operadores verificados → dictamen APTO. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_05_maxwell_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_05_maxwell_factual.py</code></a> | I §3 | Maxwell factual sintético: residuales de campo sin tiempo soberano, acumulación trazable. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_06_gravedad_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_06_gravedad_factual.py</code></a> | II §4 | Gravedad factual sintética: evento gravitacional, coincidencia y reapertura (fork sísmico). |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/lab_07_higgs_factual.py" target="_blank" rel="noopener noreferrer"><code>lab_07_higgs_factual.py</code></a> | III §3 | Higgs factual sintético: evidencia acumulada, fork por re-análisis del fondo, J_clausura=0. |
+| <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/runner_sv_nmsv.py" target="_blank" rel="noopener noreferrer"><code>runner_sv_nmsv.py</code></a> | XV | Runner maestro: ejecuta los 7 laboratorios, verifica 5 invariantes y emite veredicto final con huellas MD5. |
 
 ## Salidas congeladas (JSON)
 
 Disponibles en la misma carpeta del repositorio:
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_calculo_suceso.json" target="_blank">`salida_calculo_suceso.json`</a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_ejemplo_director.json" target="_blank">`salida_ejemplo_director.json`</a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_geometrico.json" target="_blank">`salida_geometrico.json`</a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_recorrido_completo.json" target="_blank">`salida_recorrido_completo.json`</a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_maxwell_factual.json" target="_blank">`salida_maxwell_factual.json`</a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_gravedad_factual.json" target="_blank">`salida_gravedad_factual.json`</a>,
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/Nuevas%20matem%C3%A1ticas%20del%20Sistema%20Vectorial%20SV/laboratorios/salida_higgs_factual.json" target="_blank">`salida_higgs_factual.json`</a>.
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_calculo_suceso.json" target="_blank" rel="noopener noreferrer"><code>salida_calculo_suceso.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_ejemplo_director.json" target="_blank" rel="noopener noreferrer"><code>salida_ejemplo_director.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_geometrico.json" target="_blank" rel="noopener noreferrer"><code>salida_geometrico.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_recorrido_completo.json" target="_blank" rel="noopener noreferrer"><code>salida_recorrido_completo.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_maxwell_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_maxwell_factual.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_gravedad_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_gravedad_factual.json</code></a>,
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/laboratorios/salida_higgs_factual.json" target="_blank" rel="noopener noreferrer"><code>salida_higgs_factual.json</code></a>.
 
 **Veredicto del runner:** 7/7 laboratorios APTO — 5/5 invariantes satisfechos — clasificación final: **APTO**.
 
 # Evaluación de la célula de seguridad estructural
 
-**Agente evaluador:** Célula especializada de seguridad estructural para la custodia del diseño, el DSL y los laboratorios del Sistema Vectorial SV (Lloret Egea, 2026g).
+**Agente evaluador:** <a href="https://juantoniolloretegea.github.io/SVperitus-dataset/agentes/seguridad_estructural/" target="_blank" rel="noopener noreferrer">Célula especializada de seguridad estructural para la custodia del diseño, el DSL y los laboratorios del Sistema Vectorial SV (Lloret Egea, 2026g).</a>
 ![Auditoría poligonal de la célula de seguridad estructural](figuras/fig_seguridad_poligonal.png)
 
-*Figura — Auditoría poligonal obligatoria del agente de seguridad estructural sobre el manuscrito Vtotal_V1 (Hito 8). Cada polígono representa una célula ternaria: verde (K₃=0, conformidad), ámbar (K₃=U, indeterminación), rojo (K₃=1, infracción). C_obj⁹: n0=9, n1=0, nU=0, T(9)=7 → APTO. C_base⁹: n0=8, n1=0, nU=1, T(9)=7 → APTO (Q8 en U: scripts Python no en paquete .md, límite de fase declarado). C_diseño³⁶: n0=35, n1=0, nU=1, T(36)=28 → APTO (E1 en U: implementación de referencia fuera del paquete). S_suelo = T_suelo(APTO, APTO) = APTO. A_custodia = T_cust(APTO, APTO) = APTO. Las posiciones en U no bloquean la publicación; son límites explícitos de alcance, no infracciones materiales.*
+Figura 5. Auditoría poligonal de la célula de seguridad estructural
+
+*Figura — Auditoría poligonal obligatoria del agente de seguridad estructural sobre el documento a publicar. Cada polígono representa una célula ternaria: verde (K₃=0, conformidad), ámbar (K₃=U, indeterminación), rojo (K₃=1, infracción). C_obj⁹: n0=9, n1=0, nU=0, T(9)=7 → APTO. C_base⁹: n0=8, n1=0, nU=1, T(9)=7 → APTO (Q8 en U: scripts Python no en paquete .md, límite de fase declarado). C_diseño³⁶: n0=35, n1=0, nU=1, T(36)=28 → APTO (E1 en U: implementación de referencia fuera del paquete). S_suelo = T_suelo(APTO, APTO) = APTO. A_custodia = T_cust(APTO, APTO) = APTO. Las posiciones en U no bloquean la publicación; son límites explícitos de alcance, no infracciones materiales.*
 
 **Documento evaluado:** *Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador*
 
@@ -2015,12 +2025,12 @@ Disponibles en la misma carpeta del repositorio:
 
 ---
 
-## 1. Artefactos del paquete auditado
+## 1. Artefactos del conjunto auditado
 
-- `Vtotal_V1_Hito7.md` — manuscrito matemático completo (2109 líneas)
-- Scripts Python: referenciados en XIV §1 y XV, no incluidos en este paquete (límite de alcance declarado)
-- Figuras: diferidas a fase posterior por decisión documentada
-- Laboratorio ejecutable: descrito en XIV §1–§4 y XXI; no incluido en este paquete
+- Documento matemático completo (2109 líneas)
+- Scripts Python: referenciados en XIV §1 y XV, no incluidos en este documento (límite de alcance declarado)
+- Figuras: todas presentes.
+- Laboratorio ejecutable: descrito en XIV §1–§4 y XXI; no incluido en este documento. La referencia URL general es: <a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas" target="_blank" rel="noopener noreferrer">https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas</a>
 
 ---
 
@@ -2055,7 +2065,7 @@ Se fijan además cuatro métricas auxiliares:
 | O6 | APTO | Revisión del corpus SV aplicable: Lloret Egea (2026a–m) citados en texto con referencias cruzadas. |
 | O7 | APTO | 2109 líneas de desarrollo teórico con definiciones, proposiciones, teoremas y demostraciones. |
 | O8 | APTO | Laboratorios y runners especificados en XIV, XV, XXI, XXII; ejemplos XII §7 y XXIV §15 con recorrido completo. |
-| O9 | APTO | Integración con calidad declarada: autor, ORCID, ISSN, licencia CC BY-NC-ND 4.0, fecha, bibliografía APA7. |
+| O9 | APTO | <a href="https://github.com/juantoniolloretegea/SV-lenguaje-de-computacion/tree/main/docs/calidad" target="_blank" rel="noopener noreferrer">Integración con calidad declarada</a>: autor, ORCID, ISSN, licencia CC BY-NC-ND 4.0, fecha, bibliografía APA7. |
 
 **Conteo $C_{\mathrm{obj}}^9$:** $n_0=9$, $n_1=0$, $n_U=0$, $T(9)=7$ — **Clasificación: APTO**
 
@@ -2182,23 +2192,23 @@ La publicación deberá conservar la vecindad relativa entre manuscrito, laborat
 
 ## Bibliografía mínima
 
-- CERN. (s. f.). *El bosón de Higgs*. Organización Europea para la Investigación Nuclear. <a href="https://home.cern/science/physics/higgs-boson" target="_blank" rel="noopener noreferrer">https://home.cern/science/physics/higgs-boson</a>
+- CERN. (s. f.). *El bosón de Higgs*. Organización Europea para la Investigación Nuclear. https://home.cern/science/physics/higgs-boson
 
-- CERN. (s. f.). *El Modelo Estándar*. Organización Europea para la Investigación Nuclear. <a href="https://home.cern/science/physics/standard-model" target="_blank" rel="noopener noreferrer">https://home.cern/science/physics/standard-model</a>
+- CERN. (s. f.). *El Modelo Estándar*. Organización Europea para la Investigación Nuclear. https://home.cern/science/physics/standard-model
 
-- Gentle, A. P. (2002). Regge calculus: A unique tool for numerical relativity. *General Relativity and Gravitation*, *34*(10), 1701–1718. <a href="https://doi.org/10.1023/A:1020128425143" target="_blank" rel="noopener noreferrer">https://doi.org/10.1023/A:1020128425143</a>
+- Gentle, A. P. (2002). Regge calculus: A unique tool for numerical relativity. *General Relativity and Gravitation*, *34*(10), 1701–1718. https://doi.org/10.1023/A:1020128425143
 
-- LIGO Caltech. (s. f.). *What are gravitational waves?* California Institute of Technology, LIGO Laboratory. <a href="https://www.ligo.caltech.edu/page/what-are-gw" target="_blank" rel="noopener noreferrer">https://www.ligo.caltech.edu/page/what-are-gw</a>
+- LIGO Caltech. (s. f.). *What are gravitational waves?* California Institute of Technology, LIGO Laboratory. https://www.ligo.caltech.edu/page/what-are-gw
 
-- LIGO Scientific Collaboration. (s. f.). *What are gravitational waves?* LIGO Scientific Collaboration. <a href="https://www.ligo.org/science/GW.php" target="_blank" rel="noopener noreferrer">https://www.ligo.org/science/GW.php</a>
+- LIGO Scientific Collaboration. (s. f.). *What are gravitational waves?* LIGO Scientific Collaboration. https://www.ligo.org/science/GW.php
 
-- Lloret Egea, J. A. (2026a). *Álgebra de composición intercelular del marco SV — I. Transmisión en serie por parámetro puente* (Release 4). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4</a>
+- Lloret Egea, J. A. (2026a). *Álgebra de composición intercelular del marco SV — I. Transmisión en serie por parámetro puente* (Release 4). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv/release/4
 
-- Lloret Egea, J. A. (2026b). *Álgebra de composición intercelular del marco SV — II. Gramática general de composición* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1</a>
+- Lloret Egea, J. A. (2026b). *Álgebra de composición intercelular del marco SV — II. Gramática general de composición* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--ii-gramatica-general-de-composicion/release/1
 
-- Lloret Egea, J. A. (2026c). *Álgebra de composición intercelular del marco SV — III. Horizonte de sucesos y reevaluación discreta* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1</a>
+- Lloret Egea, J. A. (2026c). *Álgebra de composición intercelular del marco SV — III. Horizonte de sucesos y reevaluación discreta* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta/release/1
 
-- Lloret Egea, J. A. (2026d). *Álgebra de composición intercelular del marco SV — IV. Transducción al alfabeto ternario e interfaz paramétrica del sistema* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica-del-sistema/release/1" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica-del-sistema/release/1</a>
+- Lloret Egea, J. A. (2026d). *Álgebra de composición intercelular del marco SV — IV. Transducción al alfabeto ternario e interfaz paramétrica del sistema* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iv-transduccion-al-alfabeto-ternario-e-interfaz-parametrica-del-sistema/release/1
 
 - Lloret Egea, J. A. (2026e). *Álgebra de composición intercelular del marco SV — V. Invariantes, agentes especializados y operador de consulta del sistema*. IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español.
 
@@ -2208,20 +2218,20 @@ La publicación deberá conservar la vecindad relativa entre manuscrito, laborat
 
 - Lloret Egea, J. A. (2026h). *Células especializadas del Sistema Vectorial SV: estatuto, perfil funcional mínimo y familias iniciales*. IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español.
 
-- Lloret Egea, J. A. (2026i). *Convergencia ternaria y gobierno determinista de trayectorias en el Sistema Vectorial SV: tipología de la indeterminación, HNA como teorema y fundamentos de la célula NLP* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/convergencia-ternaria-y-gobierno-determinista-de-trayectorias-en-el-sistema-vectorial-sv-tipologia-de-la-indeterminacion-hna-como-teorema-y-fundamentos-de-la-celula-nlp/release/1" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/convergencia-ternaria-y-gobierno-determinista-de-trayectorias-en-el-sistema-vectorial-sv-tipologia-de-la-indeterminacion-hna-como-teorema-y-fundamentos-de-la-celula-nlp/release/1</a>
+- Lloret Egea, J. A. (2026i). *Convergencia ternaria y gobierno determinista de trayectorias en el Sistema Vectorial SV: tipología de la indeterminación, HNA como teorema y fundamentos de la célula NLP* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/convergencia-ternaria-y-gobierno-determinista-de-trayectorias-en-el-sistema-vectorial-sv-tipologia-de-la-indeterminacion-hna-como-teorema-y-fundamentos-de-la-celula-nlp/release/1
 
 - Lloret Egea, J. A. (2026j). *El transductor lingüístico — morfismo de dominio — y el horizonte H_NLP del Sistema Vectorial SV: construcción formal del mapeo entre actos comunicativos, textura de indeterminación y evaluación ternaria del frame* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español.
 
-- Lloret Egea, J. A. (2026k). *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Release 3). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3</a>
+- Lloret Egea, J. A. (2026k). *Fundamentos algebraico-semánticos del Sistema Vectorial SV* (Release 3). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/fundamentos-algebraico-semanticos-del-sistema-vectorial-sv/release/3
 
-- Lloret Egea, J. A. (2026l). *Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv</a>
+- Lloret Egea, J. A. (2026l). *Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV* (Release 1). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv
 
-- Lloret Egea, J. A. (2026m). *Transiciones estructurales y trayectorias de la U en el Sistema Vectorial SV* (Release 2). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. <a href="https://www.itvia.online/pub/transiciones-estructurales-y-trayectorias-de-la-u-en-el-sistema-vectorial-sv/release/2" target="_blank" rel="noopener noreferrer">https://www.itvia.online/pub/transiciones-estructurales-y-trayectorias-de-la-u-en-el-sistema-vectorial-sv/release/2</a>
+- Lloret Egea, J. A. (2026m). *Transiciones estructurales y trayectorias de la U en el Sistema Vectorial SV* (Release 2). IA eñ™ — La Biblia de la IA™ (ISSN 2695-6411). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://www.itvia.online/pub/transiciones-estructurales-y-trayectorias-de-la-u-en-el-sistema-vectorial-sv/release/2
 
-- Maxwell, J. C. (1865). A dynamical theory of the electromagnetic field. *Philosophical Transactions of the Royal Society of London*, *155*, 459–512. <a href="https://doi.org/10.1098/rstl.1865.0008" target="_blank" rel="noopener noreferrer">https://doi.org/10.1098/rstl.1865.0008</a>
+- Maxwell, J. C. (1865). A dynamical theory of the electromagnetic field. *Philosophical Transactions of the Royal Society of London*, *155*, 459–512. https://doi.org/10.1098/rstl.1865.0008
 
-- MIT OpenCourseWare. (2009). *Electromagnetics and Applications* (Curso 6.013). Massachusetts Institute of Technology. <a href="https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009/" target="_blank" rel="noopener noreferrer">https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009/</a>
+- MIT OpenCourseWare. (2009). *Electromagnetics and Applications* (Curso 6.013). Massachusetts Institute of Technology. https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009/
 
 - Regge, T. (1961). General relativity without coordinates. *Il Nuovo Cimento*, *19*(3), 558–571.
 
-- Zhang, B., Jiang, L., Chen, R., & Chew, W. C. (2022). *An A-Φ formulation solver in electromagnetics based on discrete exterior calculus* [Preprint]. arXiv. <a href="https://doi.org/10.48550/arXiv.2207.02260" target="_blank" rel="noopener noreferrer">https://doi.org/10.48550/arXiv.2207.02260</a>
+- Zhang, B., Jiang, L., Chen, R., & Chew, W. C. (2022). *An A-Φ formulation solver in electromagnetics based on discrete exterior calculus* [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2207.02260
