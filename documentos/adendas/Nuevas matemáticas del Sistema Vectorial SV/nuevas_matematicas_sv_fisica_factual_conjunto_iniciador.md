@@ -547,12 +547,10 @@ $$
 \sum_{j=a}^{b-1} \frac{f_{j+1}-f_j}{\omega(\nu_j)}\thinspace \omega(\nu_j) = \sum_{j=a}^{b-1}(f_{j+1}-f_j) = f_b - f_a.
 $$
 
-El último paso aplica la telescopía de la derivada de suceso. ◻
+El último paso aplica la telescopía de la derivada de suceso. $\square$
 
-Ejemplo de aplicación. Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9,3)$, con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_{\Gamma}f(j)$, se tiene $q_0=-1$ y $q_1=-2$.
+*Ejemplo de aplicación.* Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9{,}3)$ con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak D_{\Gamma} f(j)$: $q_0=-1$, $q_1=-2$. La relación fundamental da $\mathfrak A_{\Gamma\lbrack 0,2\rbrack}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)$. La acumulación de las variaciones registra el cierre total de tres posiciones en indeterminación, con coste de memoria activa $O(\Delta N)$ (Lloret Egea, 2026i).
 
-```math
-\mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)
 
 ## 5. Lectura ternaria inducida
 
