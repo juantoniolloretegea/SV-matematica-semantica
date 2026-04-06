@@ -558,7 +558,12 @@ Ejemplo de aplicación. Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ s
 ```math
 \mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)
 
+El último paso aplica la telescopía de la derivada de suceso. ◻
 
+Ejemplo de aplicación. Para la misma trayectoria $\Gamma=(\nu_0,\nu_1,\nu_2)$ sobre la célula $\mathrm{SV}(9,3)$, con $f(\nu_j)$ el conteo de posiciones en $U$, pesos $\omega(\nu_j)=1$ y $q_j=\mathfrak{D}_{\Gamma}f(j)$, se tiene $q_0=-1$ y $q_1=-2$.
+
+```math
+\mathfrak{A}_{\Gamma[0,2]}(q)=(-1)\cdot 1+(-2)\cdot 1=-3=f(\nu_2)-f(\nu_0)
 ## 5. Lectura ternaria inducida
 
 La acumulación factual opera primariamente sobre dominios compatibles. La clausura ternaria se obtiene solo como lectura inducida, nunca como suma en $\lbrace 0,1,U\rbrace$.
