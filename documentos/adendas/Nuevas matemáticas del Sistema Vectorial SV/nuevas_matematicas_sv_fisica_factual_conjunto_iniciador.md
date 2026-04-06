@@ -985,7 +985,7 @@ $$
 Para una unidad local $C$ con frontera $F_C$:
 
 $$
-\operatorname{Div}_{SV}(\mathcal F;C)=\Phi_{SV}(\mathcal F;C,F_C)-\mathcal I_{SV}(\mathcal F;C).
+\mathrm{Div}_{SV}(\mathcal F;C)=\Phi_{SV}(\mathcal F;C,F_C)-\mathcal I_{SV}(\mathcal F;C).
 $$
 
 ## 3. Rotor factual
@@ -993,7 +993,7 @@ $$
 Sobre un ciclo factual compatible $\Gamma^\circlearrowleft$:
 
 $$
-\operatorname{Rot}_{SV}(\mathcal F;\Gamma^\circlearrowleft)=\mathfrak C_{\Gamma^\circlearrowleft}(\mathcal F).
+\mathrm{Rot}_{SV}(\mathcal F;\Gamma^\circlearrowleft)=\mathfrak C_{\Gamma^\circlearrowleft}(\mathcal F).
 $$
 
 ## 4. Estatuto
@@ -1039,7 +1039,7 @@ El SV dispone ya de una primera teoría de agregación geométrica sobre superfi
 Sea $\mathcal V_{SV}$ un volumen factual con frontera total $F(\mathcal V_{SV})$, mosaico compatible y campo factual $\mathcal F$. Bajo hipótesis de frontera explícita, pegado compatible, orientación coherente y preservación de `U`, se obtiene la correspondencia estructural:
 
 $$
-\iiint_{\mathcal V_{SV}}^{SV}\operatorname{Div}_{SV}(\mathcal F)
+\iiint_{\mathcal V_{SV}}^{SV}\mathrm{Div}_{SV}(\mathcal F)
 \;\leadsto\;
 \iint_{F(\mathcal V_{SV})}^{SV}\mathcal F.
 $$
@@ -1253,7 +1253,7 @@ donde:
 Para una unidad local $C$, se define la divergencia factual formal por
 
 $$
-\operatorname{Div}_{SV}(\mathcal F;C)\,\omega(C)
+\mathrm{Div}_{SV}(\mathcal F;C)\,\omega(C)
 =
 \Phi_{SV}(\mathcal F;\partial C)-\mathcal I_{\mathrm{res}}(\mathcal F;C),
 $$
@@ -1263,7 +1263,7 @@ donde $\mathcal I_{\mathrm{res}}$ es el término factual interno de fuente, sumi
 En el caso homogéneo sin residual interior:
 
 $$
-\operatorname{Div}_{SV}(\mathcal F;C)\,\omega(C)=\Phi_{SV}(\mathcal F;\partial C).
+\mathrm{Div}_{SV}(\mathcal F;C)\,\omega(C)=\Phi_{SV}(\mathcal F;\partial C).
 $$
 
 ### 3.7. Rotor factual: formulación formal
@@ -1314,7 +1314,7 @@ son invariantes bajo el paso de $\mathcal M$ a $\mathcal M'$, salvo contribucion
 Si $\mathcal V_{SV}$ es un volumen factual compatible y $\mathcal F$ un campo factual formal, entonces, bajo frontera explícita, orientación coherente, pegado compatible, ausencia de doble contabilidad y preservación de `U`,
 
 $$
-\iiint_{\mathcal V_{SV}}^{SV}\operatorname{Div}_{SV}(\mathcal F)
+\iiint_{\mathcal V_{SV}}^{SV}\mathrm{Div}_{SV}(\mathcal F)
 =
 \iint_{\partial\mathcal V_{SV}}^{SV}\mathcal F
 -
@@ -1324,7 +1324,7 @@ $$
 En el caso homogéneo sin residual interior:
 
 $$
-\iiint_{\mathcal V_{SV}}^{SV}\operatorname{Div}_{SV}(\mathcal F)
+\iiint_{\mathcal V_{SV}}^{SV}\mathrm{Div}_{SV}(\mathcal F)
 =
 \iint_{\partial\mathcal V_{SV}}^{SV}\mathcal F.
 $$
@@ -1512,7 +1512,7 @@ $$
 ### 5.3. Divergencia como suma de parciales diagonales
 
 $$
-\operatorname{Div}_{SV}(F)
+\mathrm{Div}_{SV}(F)
 =
 \sum_{i=1}^{n}\partial^{SV}_{i}F^i
 -
@@ -1542,7 +1542,7 @@ Matriz de transición:
 $$
 J^{SV}_{\mathrm{cl}}(a,k)
 =
-\operatorname{clase}\!\Bigl(
+\mathrm{clase}\!\Bigl(
 \tau_k(q(x+\Delta x_a))
 \leftarrow
 \tau_k(q(x))
@@ -1638,7 +1638,7 @@ $$
 ### 6.6. Inversa factual
 
 $$
-\mathcal T_\Phi^{-1}:\operatorname{Im}(\mathcal T_\Phi)\to \mathcal Q/\!\sim
+\mathcal T_\Phi^{-1}:\mathrm{Im}(\mathcal T_\Phi)\to \mathcal Q/\!\sim
 $$
 
 con tres regímenes:
@@ -1758,7 +1758,7 @@ $$
 ### 8.5. Residuo factual
 
 $$
-\operatorname{Res}_{SV}(f_{SV};a)
+\mathrm{Res}_{SV}(f_{SV};a)
 $$
 
 mide la concentración neta de defecto o fuente estructural capturada por cualquier ciclo factual compatible que rodee la singularidad $a$ sin cruzar otras singularidades.
@@ -1769,7 +1769,7 @@ $$
 \int_{\Gamma^\circlearrowleft}^{SV} f_{SV}(z)\,dz_{SV}
 =
 2\pi_{SV}\mathbf i_{SV}
-\sum_{k=1}^{r}\operatorname{Res}_{SV}(f_{SV};a_k).
+\sum_{k=1}^{r}\mathrm{Res}_{SV}(f_{SV};a_k).
 $$
 
 La ley sustantiva es: circulación factual compleja sobre el contorno = suma de defectos concentrados interiores.
@@ -1825,7 +1825,7 @@ $$
 Sobre un ciclo factual elemental $\square$, la curvatura puede medirse también por el defecto de holonomía:
 
 $$
-\operatorname{Hol}_{SV}(\square)-\operatorname{Id}.
+\mathrm{Hol}_{SV}(\square)-\mathrm{Id}.
 $$
 
 Con ello la gravedad factual mínima dispone ya de formulación por conexión y por holonomía.
@@ -1834,11 +1834,11 @@ Con ello la gravedad factual mínima dispone ya de formulación por conexión y 
 
 Se fija el bloque factual completo:
 $$
-\operatorname{Div}_{SV}(D)=\rho,\qquad \operatorname{Div}_{SV}(B)=0,
+\mathrm{Div}_{SV}(D)=\rho,\qquad \mathrm{Div}_{SV}(B)=0,
 $$
 $$
-\operatorname{Rot}_{SV}(E)+\partial^{SV}_{\nu}B=0,\qquad
-\operatorname{Rot}_{SV}(H)-\partial^{SV}_{\nu}D=J,
+\mathrm{Rot}_{SV}(E)+\partial^{SV}_{\nu}B=0,\qquad
+\mathrm{Rot}_{SV}(H)-\partial^{SV}_{\nu}D=J,
 $$
 junto con relaciones constitutivas
 $$
@@ -1858,7 +1858,7 @@ Sobre una interfaz factual $\Sigma$, se exige:
 
 Para todo volumen factual $\mathcal V$:
 $$
-\iiint_{\mathcal V}^{SV}\operatorname{Div}_{SV}(D)
+\iiint_{\mathcal V}^{SV}\mathrm{Div}_{SV}(D)
 =
 \iint_{\partial\mathcal V}^{SV} D.
 $$
