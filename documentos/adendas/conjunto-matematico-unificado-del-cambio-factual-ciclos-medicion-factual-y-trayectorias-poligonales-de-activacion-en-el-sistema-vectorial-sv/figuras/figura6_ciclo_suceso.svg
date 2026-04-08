@@ -1,0 +1,44 @@
+<svg width="1360" height="634" xmlns="http://www.w3.org/2000/svg" font-family="serif">
+<rect width="100%" height="100%" fill="white"/>
+<text x="680" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a3a5c">Figura 6. Estructura del Ciclo de Suceso: v(Sₙ) = v(S₀), εₙ ≠ ε₀</text>
+<text x="680" y="62" text-anchor="middle" font-size="14" fill="#555">Mismo polígono en dos sucesos soberanos y distintos (J3.2). Campo factual conservativo: Σmₖ = 0, ΣDiv = 0.</text>
+<polygon points="280.0,170.0 352.3,233.8 353.9,307.0 409.9,395.0 318.5,425.7 254.3,390.5 150.1,395.0 169.2,300.5 231.8,262.5" fill="#1565c0" opacity="0.18" stroke="#1565c0" stroke-width="3.5"/>
+<circle cx="280.0" cy="170.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="352.3" cy="233.8" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="353.9" cy="307.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="409.9" cy="395.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="318.5" cy="425.7" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="254.3" cy="390.5" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="150.1" cy="395.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="169.2" cy="300.5" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="231.8" cy="262.5" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="280" cy="320" r="162" fill="none" stroke="#1565c0" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.4"/>
+<text x="280" y="514" text-anchor="middle" font-size="20" font-weight="bold" fill="#1565c0">S₀  (ε₀)</text>
+<text x="280" y="538" text-anchor="middle" font-size="14" fill="#555">Estado de partida</text>
+<text x="280" y="150" text-anchor="middle" font-size="13" fill="#1565c0" font-style="italic">Polígono idéntico</text>
+<polygon points="1080.0,170.0 1152.3,233.8 1153.9,307.0 1209.9,395.0 1118.5,425.7 1054.3,390.5 950.1,395.0 969.2,300.5 1031.8,262.5" fill="#1565c0" opacity="0.18" stroke="#1565c0" stroke-width="3.5"/>
+<circle cx="1080.0" cy="170.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1152.3" cy="233.8" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1153.9" cy="307.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1209.9" cy="395.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1118.5" cy="425.7" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1054.3" cy="390.5" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="950.1" cy="395.0" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="969.2" cy="300.5" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1031.8" cy="262.5" r="7" fill="#1565c0" opacity="0.7"/>
+<circle cx="1080" cy="320" r="162" fill="none" stroke="#1565c0" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.4"/>
+<text x="1080" y="514" text-anchor="middle" font-size="20" font-weight="bold" fill="#1565c0">Sₙ  (εₙ ≠ ε₀)</text>
+<text x="1080" y="538" text-anchor="middle" font-size="14" fill="#555">Mismo estado, suceso distinto</text>
+<text x="1080" y="150" text-anchor="middle" font-size="13" fill="#1565c0" font-style="italic">Polígono idéntico</text>
+<path d="M450,320 Q680,140 910,320" fill="none" stroke="#e67e22" stroke-width="3" stroke-dasharray="10,5"/>
+<polygon points="910,320 892,308 902,326" fill="#e67e22"/>
+<text x="680" y="122" text-anchor="middle" font-size="16" fill="#e67e22" font-weight="bold">Trayectoria T = (S₀, ν₀, S₁, ν₁, …, Sₙ)</text>
+<text x="680" y="146" text-anchor="middle" font-size="13" fill="#888">longitud n, coste 𝔄_CS ≥ n·φ₀</text>
+<rect x="440" y="380" width="480" height="90" fill="#eaf4fb" stroke="#1565c0" stroke-width="1.5" rx="8"/>
+<text x="454" y="408" font-size="14" fill="#1e8449" font-weight="bold">CS-1:  v(Sₙ) = v(S₀)  ⟹  Σmₖ = 0  y  ΣDiv = 0  (campo conservativo)</text>
+<text x="454" y="436" font-size="14" fill="#c0392b" font-weight="bold">CS-2:  εₙ ≠ ε₀  ⟹  soberanía de los sucesos inviolable (J3.2)</text>
+<text x="454" y="464" font-size="14" fill="#555" font-weight="normal">Tripla del CS: (𝔄_CS,  φmax,  ‖J‖₁)</text>
+<rect x="0" y="600" width="1360" height="34" fill="#f8f9fa"/>
+<line x1="0" y1="600" x2="1360" y2="600" stroke="#ccc" stroke-width="1"/>
+<text x="680" y="622" text-anchor="middle" font-size="11" fill="#555" font-family="serif">Autor: Juan Antonio Lloret Egea  |  ORCID: 0000-0002-6634-3351  |  ITVIA — IA eñ™ — La Biblia de la IA™  |  ISSN 2695-6411  |  Madrid, 2026</text>
+</svg>

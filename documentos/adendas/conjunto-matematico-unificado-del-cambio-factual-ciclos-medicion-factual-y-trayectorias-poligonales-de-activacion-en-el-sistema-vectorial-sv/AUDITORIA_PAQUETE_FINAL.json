@@ -1,0 +1,19 @@
+{
+  "authoritative_html_exists": true,
+  "main_md_exists": true,
+  "markdown_alias_exists": true,
+  "runner_maestro_exit_code": 0,
+  "figures_count": 8,
+  "lab_count": 17,
+  "folder_readmes": {
+    "core": true,
+    "laboratorios": true,
+    "pseudocodigo": true,
+    "runners": true,
+    "figuras": true
+  },
+  "canonical_pubpub_url": "https://www.itvia.online/pub/conjunto-matematico-unificado-del-cambio-factual-ciclos-medicion-factual-y-trayectorias-poligonales-de-activacion-en-el-sistema-vectorial-sv",
+  "canonical_github_url": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/conjunto-matematico-unificado-del-cambio-factual-ciclos-medicion-factual-y-trayectorias-poligonales-de-activacion-en-el-sistema-vectorial-sv",
+  "html_sha256": "c8a6575aaf11ea1c9c4a51ad56c68296b9391144c769fd4af7dcba87a8d9bb52",
+  "md_sha256": "5063387f951f717228a68c6e64b214e7f76468efe73a522aae7569d812948424"
+}
