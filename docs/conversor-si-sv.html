@@ -1,0 +1,573 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Conversor de primitivos metrológicos SV ↔ SI</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card: #ffffff;
+      --text: #0f172a;
+      --muted: #475569;
+      --line: #e2e8f0;
+      --soft: #f1f5f9;
+      --accent: #0f172a;
+      --accent-2: #1d4ed8;
+      --green: #16a34a;
+      --shadow: 0 10px 25px rgba(15,23,42,0.06);
+      --radius: 18px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    a { color: var(--accent-2); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 0 22px 40px; }
+    header {
+      position: sticky; top: 0; z-index: 20;
+      backdrop-filter: blur(10px);
+      background: rgba(255,255,255,0.88);
+      border-bottom: 1px solid var(--line);
+    }
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(0,1fr) auto;
+      column-gap: 18px; row-gap: 10px;
+      align-items: start; padding: 18px 22px;
+      max-width: 1280px; margin: 0 auto;
+    }
+    .eyebrow { font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+    h1 { margin: 0; font-size: clamp(22px,3.5vw,34px); line-height: 1.15; }
+    .lead { margin: 10px 0 0; color: var(--muted); grid-column: 1/-1; }
+    .hero-actions { display: flex; gap: 10px; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-end; flex-shrink: 0; margin-left: 12px; grid-column: 2; grid-row: 1/span 2; align-self: start; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      padding: 11px 15px; border-radius: 14px; border: 1px solid var(--line);
+      background: #fff; color: var(--text); box-shadow: var(--shadow);
+      text-decoration: none; cursor: pointer;
+      transition: transform .15s ease, background .15s ease;
+      font-size: 14px; white-space: nowrap;
+    }
+    .btn:hover { transform: translateY(-1px); text-decoration: none; }
+    .btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .layout { display: grid; grid-template-columns: 260px minmax(0,1fr); gap: 24px; margin-top: 28px; }
+    aside { position: sticky; top: 98px; align-self: start; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+    .menu { padding: 18px; }
+    .menu h2 { margin: 0 0 12px; font-size: 17px; }
+    .menu a { display: block; padding: 9px 12px; border-radius: 12px; color: var(--text); font-size: 14px; }
+    .menu a:hover, .menu a.active { background: var(--soft); text-decoration: none; }
+    main { display: grid; gap: 20px; }
+    section { padding: 24px; }
+    h2 { margin: 0; font-size: 26px; line-height: 1.2; }
+    h3 { margin: 18px 0 8px; font-size: 18px; }
+    .muted { color: var(--muted); }
+    .primitivo-grid { display: grid; gap: 16px; grid-template-columns: repeat(3,minmax(0,1fr)); margin-top: 20px; }
+    .prim-card {
+      background: var(--soft); border: 1px solid var(--line); border-radius: 16px;
+      padding: 18px; display: flex; flex-direction: column; gap: 10px;
+    }
+    .prim-card .dim { font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--muted); }
+    .prim-card .name-sv { font-size: 16px; font-weight: 600; }
+    .prim-card .abrev { font-family: 'Courier New', monospace; font-size: 14px; color: var(--accent-2); }
+    .prim-card .equiv { font-size: 13px; color: var(--muted); }
+    .prim-card .const { font-family: 'Courier New', monospace; font-size: 12px; background: var(--card); padding: 4px 8px; border-radius: 8px; border: 1px solid var(--line); }
+    .badge { display: inline-flex; width: fit-content; border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; font-size: 11px; color: var(--muted); background: #fff; }
+    .badge.pleno { background: #dcfce7; border-color: #bbf7d0; color: #15803d; }
+    .badge.contingente { background: #fef9c3; border-color: #fef08a; color: #854d0e; }
+    .badge.diferida { background: #fee2e2; border-color: #fecaca; color: #991b1b; }
+
+    /* Converter */
+    .conv-box { background: var(--soft); border: 1px solid var(--line); border-radius: 16px; padding: 22px; margin-top: 20px; }
+    .conv-row { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: end; margin-bottom: 16px; }
+    .conv-field { display: flex; flex-direction: column; gap: 6px; }
+    .conv-field label { font-size: 13px; color: var(--muted); font-weight: 500; }
+    .conv-field select, .conv-field input {
+      padding: 11px 14px; border-radius: 12px; border: 1px solid var(--line);
+      background: #fff; font-size: 15px; color: var(--text); width: 100%;
+    }
+    .conv-field input:focus, .conv-field select:focus { outline: 2px solid var(--accent-2); border-color: transparent; }
+    .swap-btn {
+      padding: 11px 16px; border-radius: 12px; border: 1px solid var(--line);
+      background: #fff; cursor: pointer; font-size: 18px; color: var(--muted);
+      transition: transform .15s;
+    }
+    .swap-btn:hover { transform: rotate(180deg) scale(1.1); }
+    .result-box {
+      background: #fff; border: 1px solid var(--line); border-radius: 12px;
+      padding: 18px; margin-top: 10px; min-height: 80px;
+    }
+    .result-main { font-size: 24px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+    .result-detail { font-size: 13px; color: var(--muted); }
+    .result-formula { font-family: 'Courier New', monospace; font-size: 13px; color: var(--accent-2); margin-top: 8px; }
+
+    /* Table */
+    .table-wrap { overflow-x: auto; margin-top: 16px; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th { background: var(--soft); padding: 10px 12px; text-align: left; border-bottom: 2px solid var(--line); font-weight: 600; }
+    td { padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    td code { font-size: 12px; background: var(--soft); padding: 2px 6px; border-radius: 6px; }
+    tr:hover td { background: var(--soft); }
+
+    footer { border-top: 1px solid var(--line); background: rgba(255,255,255,0.88); margin-top: 22px; }
+    .footer-line { max-width: 1280px; margin: 0 auto; padding: 12px 22px; font-size: 13px; color: var(--muted); white-space: nowrap; overflow-x: auto; }
+
+    @media (max-width: 1024px) {
+      .layout { grid-template-columns: 1fr; }
+      aside { position: static; }
+      .primitivo-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 720px) {
+      .topbar { grid-template-columns: 1fr; }
+      .hero-actions { grid-column: 1; grid-row: auto; flex-wrap: wrap; margin-left: 0; }
+      .primitivo-grid { grid-template-columns: 1fr; }
+      .conv-row { grid-template-columns: 1fr; }
+      section { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="topbar">
+    <div>
+      <div class="eyebrow">Sistema Vectorial SV — Metrología factual</div>
+      <h1>Conversor de primitivos metrológicos SV ↔ SI</h1>
+      <p class="lead">Herramienta de conversión bidireccional entre los primitivos metrológicos del Sistema Vectorial SV y el Sistema Internacional de Unidades (SI 2019). V.1</p>
+    </div>
+    <div class="hero-actions">
+      <a class="btn primary" href="https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/primitivos-metrologicos-sv/" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="btn" href="https://www.itvia.online/nueva-matematica--y-fisica-factual-del-sv" target="_blank" rel="noopener noreferrer">Colección PubPub</a>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="layout">
+    <aside>
+      <div class="card menu">
+        <h2>Navegación</h2>
+        <a href="#primitivos">Primitivos declarados</a>
+        <a href="#conversor">Conversor interactivo</a>
+        <a href="#tabla-completa">Tabla completa SI↔SV</a>
+        <a href="#derivadas">Unidades derivadas</a>
+        <a href="#constantes">Constantes físicas</a>
+        <a href="#laboratorios">Laboratorios Python</a>
+      </div>
+    </aside>
+
+    <main>
+      <!-- PRIMITIVOS -->
+      <section id="primitivos" class="card">
+        <h2>Primitivos metrológicos del SV</h2>
+        <p class="muted">Seis primitivos declarados mediante instanciación contingente de las constantes del SI 2019. La candela se difiere por ser una constante psicofísica sin fundamento físico fundamental.</p>
+        <div class="primitivo-grid" id="prim-grid"></div>
+      </section>
+
+      <!-- CONVERSOR -->
+      <section id="conversor" class="card">
+        <h2>Conversor interactivo</h2>
+        <p class="muted">Introduzca un valor numérico, seleccione la magnitud y la dirección de conversión. Las equivalencias son exactas bajo las instanciaciones contingentes declaradas.</p>
+        <div class="conv-box">
+          <div class="conv-row">
+            <div class="conv-field">
+              <label for="magnitud-sel">Magnitud</label>
+              <select id="magnitud-sel"></select>
+            </div>
+            <div style="padding-bottom:4px;">
+              <button class="swap-btn" id="swap-btn" title="Intercambiar dirección">⇄</button>
+            </div>
+            <div class="conv-field">
+              <label for="dir-sel">Dirección</label>
+              <select id="dir-sel">
+                <option value="SI_SV">SI → SV</option>
+                <option value="SV_SI">SV → SI</option>
+              </select>
+            </div>
+          </div>
+          <div class="conv-field" style="margin-bottom:14px;">
+            <label for="valor-in" id="label-in">Valor en SI</label>
+            <input type="number" id="valor-in" placeholder="Introduzca el valor…" step="any" value="1" />
+          </div>
+          <button class="btn primary" id="conv-btn" style="width:100%;justify-content:center;font-size:16px;padding:14px;">Convertir</button>
+          <div class="result-box" id="result-box">
+            <div class="result-main" id="res-main">—</div>
+            <div class="result-detail" id="res-detail"></div>
+            <div class="result-formula" id="res-formula"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TABLA COMPLETA -->
+      <section id="tabla-completa" class="card">
+        <h2>Tabla completa SI ↔ SV</h2>
+        <p class="muted">Mapeo bidireccional exacto de los siete primitivos del SI 2019. La columna «Tipo» indica la afinidad doctrinal con el corpus SV.</p>
+        <div class="table-wrap">
+          <table id="tabla-primitivos"></table>
+        </div>
+      </section>
+
+      <!-- DERIVADAS -->
+      <section id="derivadas" class="card">
+        <h2>Unidades derivadas en notación SV</h2>
+        <p class="muted">Dimensiones de las unidades derivadas más relevantes expresadas en primitivos SV. Los valores numéricos bajo instanciación contingente coinciden con el SI.</p>
+        <div class="table-wrap">
+          <table id="tabla-derivadas"></table>
+        </div>
+      </section>
+
+      <!-- CONSTANTES -->
+      <section id="constantes" class="card">
+        <h2>Constantes físicas fundamentales en unidades SV</h2>
+        <p class="muted">Valores exactos (SI 2019) y dimensiones en el sistema de primitivos SV.</p>
+        <div class="table-wrap">
+          <table id="tabla-constantes"></table>
+        </div>
+      </section>
+
+      <!-- LABORATORIOS -->
+      <section id="laboratorios" class="card">
+        <h2>Laboratorios Python</h2>
+        <p class="muted">Archivos Python autocontenidos y autoejecutables. Cada uno verifica numéricamente el primitivo correspondiente sin dependencias externas.</p>
+        <div style="display:grid;gap:12px;grid-template-columns:repeat(2,minmax(0,1fr));margin-top:16px;" id="labs-grid"></div>
+      </section>
+    </main>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-line">
+    Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA — IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 2026
+  </div>
+</footer>
+
+<script>
+// =====================================================================
+// DATOS
+// =====================================================================
+const PRIMITIVOS = [
+  {
+    dim: "[T] Tiempo",
+    nameSV: "Unidad Elemental del Medidor Factual de Ciclo",
+    abrev: "UE_MFC",
+    nameSI: "segundo", symSI: "s",
+    const: "Δν_Cs = 9 192 631 770 Hz",
+    equiv: "9 UE_MFC = 1 s",
+    factor: 1/9,          // 1 UE_MFC en segundos
+    nota: "9 UE_MFC = 1 s (exacto). No introduce tiempo soberano.",
+    tipo: "pleno",
+    formula_SV: (v) => `${v} s × 9 = ${(v*9).toPrecision(8)} UE_MFC`,
+    formula_SI: (v) => `${v} UE_MFC ÷ 9 = ${(v/9).toPrecision(8)} s`,
+  },
+  {
+    dim: "[L] Longitud",
+    nameSV: "Unidad Factual de Extensión",
+    abrev: "UFE",
+    nameSI: "metro", symSI: "m",
+    const: "c = 299 792 458 m/s",
+    equiv: "1 UFE = 1 m",
+    factor: 1,
+    nota: "1 UFE = 1 m (exacto). No introduce geometría diferencial.",
+    tipo: "pleno",
+    formula_SV: (v) => `${v} m × 1 = ${v} UFE`,
+    formula_SI: (v) => `${v} UFE × 1 = ${v} m`,
+  },
+  {
+    dim: "[M] Masa",
+    nameSV: "Unidad Factual de Masa",
+    abrev: "UFM",
+    nameSI: "kilogramo", symSI: "kg",
+    const: "h = 6.62607015×10⁻³⁴ J·s",
+    equiv: "1 UFM = 1 kg",
+    factor: 1,
+    nota: "1 UFM = 1 kg (exacto). No introduce mecánica cuántica.",
+    tipo: "contingente",
+    formula_SV: (v) => `${v} kg × 1 = ${v} UFM`,
+    formula_SI: (v) => `${v} UFM × 1 = ${v} kg`,
+  },
+  {
+    dim: "[I] Corriente",
+    nameSV: "Unidad Factual de Corriente",
+    abrev: "UFC",
+    nameSI: "amperio", symSI: "A",
+    const: "e = 1.602176634×10⁻¹⁹ C",
+    equiv: "1 UFC = 1 A",
+    factor: 1,
+    nota: "1 UFC = 1 A (exacto). No introduce electrodinámica cuántica.",
+    tipo: "pleno",
+    formula_SV: (v) => `${v} A × 1 = ${v} UFC`,
+    formula_SI: (v) => `${v} UFC × 1 = ${v} A`,
+  },
+  {
+    dim: "[Θ] Temperatura",
+    nameSV: "Unidad Factual de Temperatura",
+    abrev: "UFT",
+    nameSI: "kelvin", symSI: "K",
+    const: "k_B = 1.380649×10⁻²³ J/K",
+    equiv: "1 UFT = 1 K",
+    factor: 1,
+    nota: "1 UFT = 1 K (exacto). No introduce mecánica estadística.",
+    tipo: "contingente",
+    formula_SV: (v) => `${v} K × 1 = ${v} UFT`,
+    formula_SI: (v) => `${v} UFT × 1 = ${v} K`,
+  },
+  {
+    dim: "[N] Cantidad",
+    nameSV: "Unidad Factual de Cantidad de Entidad",
+    abrev: "UFCE",
+    nameSI: "mol", symSI: "mol",
+    const: "N_A = 6.02214076×10²³ mol⁻¹",
+    equiv: "1 UFCE = 1 mol",
+    factor: 1,
+    nota: "1 UFCE = 1 mol (exacto). No introduce química molecular.",
+    tipo: "pleno",
+    formula_SV: (v) => `${v} mol × 1 = ${v} UFCE`,
+    formula_SI: (v) => `${v} UFCE × 1 = ${v} mol`,
+  },
+  {
+    dim: "[J] Intensidad luminosa",
+    nameSV: "— (diferida)",
+    abrev: "—",
+    nameSI: "candela", symSI: "cd",
+    const: "K_cd = 683 lm/W a 540 THz",
+    equiv: "Diferida: referencia directa al SI",
+    factor: null,
+    nota: "Constante psicofísica (CIE 1931). Sin fundamento físico fundamental. Diferida indefinidamente.",
+    tipo: "diferida",
+    formula_SV: () => "Diferida — referenciar al SI directamente",
+    formula_SI: () => "Diferida — referenciar al SI directamente",
+  },
+];
+
+const DERIVADAS = [
+  ["Velocidad",       "UFE · UE_MFC⁻¹",                   "m/s",      "c = 299 792 458 UFE/UE_MFC"],
+  ["Aceleración",     "UFE · UE_MFC⁻²",                   "m/s²",     "g ≈ 9.80665 UFE/UE_MFC²"],
+  ["Frecuencia",      "UE_MFC⁻¹",                         "Hz",       "Δν_Cs / 9 = 1 021 403 530 UE_MFC⁻¹"],
+  ["Fuerza [N]",      "UFM · UFE · UE_MFC⁻²",             "N",        "1 N = 1 UFM·UFE·UE_MFC⁻²"],
+  ["Energía [J]",     "UFM · UFE² · UE_MFC⁻²",            "J",        "E₀ = m₀c² en estas unidades"],
+  ["Potencia [W]",    "UFM · UFE² · UE_MFC⁻³",            "W",        "1 W = 1 UFM·UFE²·UE_MFC⁻³"],
+  ["Presión [Pa]",    "UFM · UFE⁻¹ · UE_MFC⁻²",          "Pa",       "1 atm ≈ 101 325 Pa"],
+  ["Voltaje [V]",     "UFM · UFE² · UFC⁻¹ · UE_MFC⁻³",   "V",        "1 V = 1 UFM·UFE²·UFC⁻¹·UE_MFC⁻³"],
+  ["Resistencia [Ω]", "UFM · UFE² · UFC⁻² · UE_MFC⁻³",   "Ω",        "1 Ω = 1 UFM·UFE²·UFC⁻²·UE_MFC⁻³"],
+  ["Capacidad [F]",   "UFC² · UE_MFC⁴ · UFM⁻¹ · UFE⁻²",  "F",        "1 F = 1 UFC²·UE_MFC⁴·UFM⁻¹·UFE⁻²"],
+  ["Inductancia [H]", "UFM · UFE² · UFC⁻² · UE_MFC⁻²",   "H",        "1 H = 1 UFM·UFE²·UFC⁻²·UE_MFC⁻²"],
+  ["Campo B [T]",     "UFM · UFC⁻¹ · UE_MFC⁻²",          "T",        "1 T = 1 UFM·UFC⁻¹·UE_MFC⁻²"],
+  ["Flujo mag. [Wb]", "UFM · UFE² · UFC⁻¹ · UE_MFC⁻²",   "Wb",       "1 Wb = 1 UFM·UFE²·UFC⁻¹·UE_MFC⁻²"],
+  ["Entropía [J/K]",  "UFM · UFE² · UE_MFC⁻² · UFT⁻¹",  "J/K",      "k_B = 1.380649×10⁻²³ J/K"],
+  ["Masa molar",      "UFM · UFCE⁻¹",                     "kg/mol",   "H: 1.008×10⁻³ UFM/UFCE"],
+  ["R ideal",         "UFM · UFE² · UE_MFC⁻² · UFCE⁻¹ · UFT⁻¹", "J/(mol·K)", "R = 8.31446 J/(mol·K)"],
+];
+
+const CONSTANTES = [
+  ["Δν_Cs (hiperfina Cs-133)", "9 192 631 770",      "UE_MFC⁻¹ · 9",             "Define UE_MFC"],
+  ["c (velocidad de la luz)",  "299 792 458",         "UFE · UE_MFC⁻¹",           "Define UFE"],
+  ["h (Planck)",               "6.62607015×10⁻³⁴",   "UFM · UFE² · UE_MFC⁻¹",   "Define UFM"],
+  ["e (carga elemental)",      "1.602176634×10⁻¹⁹",  "UFC · UE_MFC",             "Define UFC"],
+  ["k_B (Boltzmann)",          "1.380649×10⁻²³",     "UFM · UFE² · UE_MFC⁻² · UFT⁻¹", "Define UFT"],
+  ["N_A (Avogadro)",           "6.02214076×10²³",     "UFCE⁻¹",                   "Define UFCE"],
+  ["G (gravitación)",          "6.674×10⁻¹¹",        "UFE³ · UFM⁻¹ · UE_MFC⁻²", "Constante gravitacional"],
+  ["R (gas ideal)",            "8.314462618",         "UFM·UFE²·UE_MFC⁻²·UFCE⁻¹·UFT⁻¹","N_A·k_B"],
+  ["σ (Stefan-Boltzmann)",     "5.6704×10⁻⁸",        "UFM · UE_MFC⁻³ · UFT⁻⁴",  "2π⁵k_B⁴/(15h³c²)"],
+  ["m_p (masa protón)",        "1.67262×10⁻²⁷",      "UFM",                       "938.272 UFM·UFE²·c⁻²"],
+  ["m_e (masa electrón)",      "9.10938×10⁻³¹",      "UFM",                       "0.511 MeV/c² en UFM"],
+  ["ε₀ (perm. vacío)",         "8.85419×10⁻¹²",      "UFC²·UE_MFC⁴·UFM⁻¹·UFE⁻³","1/(μ₀c²)"],
+];
+
+const LABS = [
+  { num: "01", title: "Tiempo — UE_MFC",    file: "lab_01_tiempo_ue_mfc.py" },
+  { num: "02", title: "Longitud — UFE",     file: "lab_02_longitud_ufe.py" },
+  { num: "03", title: "Masa — UFM",         file: "lab_03_masa_ufm.py" },
+  { num: "04", title: "Corriente — UFC",    file: "lab_04_corriente_ufc.py" },
+  { num: "05", title: "Temperatura — UFT",  file: "lab_05_temperatura_uft.py" },
+  { num: "06", title: "Cantidad — UFCE",    file: "lab_06_cantidad_ufce.py" },
+  { num: "07", title: "Unidades derivadas", file: "lab_07_unidades_derivadas.py" },
+];
+
+const BASE_URL = "https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/primitivos-metrologicos-sv/laboratorios/";
+
+// =====================================================================
+// RENDER: PRIMITIVOS
+// =====================================================================
+const grid = document.getElementById("prim-grid");
+PRIMITIVOS.forEach(p => {
+  const d = document.createElement("div");
+  d.className = "prim-card";
+  const tipoLabel = p.tipo === "pleno" ? "Primitivo pleno" : p.tipo === "contingente" ? "Contingente con delimitación" : "Diferida";
+  d.innerHTML = `
+    <span class="badge ${p.tipo}">${tipoLabel}</span>
+    <div class="dim">${p.dim}</div>
+    <div class="name-sv">${p.nameSV}</div>
+    <div class="abrev">${p.abrev}</div>
+    <div class="equiv">${p.equiv}</div>
+    <div class="const">${p.const}</div>
+    <div class="equiv" style="font-size:11px;color:#64748b;">${p.nota}</div>
+  `;
+  grid.appendChild(d);
+});
+
+// =====================================================================
+// RENDER: TABLA COMPLETA
+// =====================================================================
+const tablaPrim = document.getElementById("tabla-primitivos");
+tablaPrim.innerHTML = `
+  <thead><tr>
+    <th>Primitivo SV</th><th>Nombre completo SV</th><th>Abrev. SV</th>
+    <th>Primitivo SI</th><th>Constante ancla</th><th>Equivalencia exacta</th><th>Tipo</th>
+  </tr></thead>
+  <tbody>
+    ${PRIMITIVOS.map(p => `
+      <tr>
+        <td><strong>${p.dim}</strong></td>
+        <td>${p.nameSV}</td>
+        <td><code>${p.abrev}</code></td>
+        <td>${p.nameSI} (<code>${p.symSI}</code>)</td>
+        <td><code>${p.const}</code></td>
+        <td>${p.equiv}</td>
+        <td><span class="badge ${p.tipo}">${p.tipo}</span></td>
+      </tr>
+    `).join("")}
+  </tbody>
+`;
+
+// =====================================================================
+// RENDER: TABLA DERIVADAS
+// =====================================================================
+const tablaD = document.getElementById("tabla-derivadas");
+tablaD.innerHTML = `
+  <thead><tr><th>Magnitud</th><th>Dimensión SV</th><th>Unidad SI</th><th>Referencia</th></tr></thead>
+  <tbody>${DERIVADAS.map(([mag,dimSV,si,ref]) => `
+    <tr><td>${mag}</td><td><code>${dimSV}</code></td><td>${si}</td><td style="font-size:12px;color:var(--muted);">${ref}</td></tr>
+  `).join("")}</tbody>
+`;
+
+// =====================================================================
+// RENDER: CONSTANTES
+// =====================================================================
+const tablaC = document.getElementById("tabla-constantes");
+tablaC.innerHTML = `
+  <thead><tr><th>Constante</th><th>Valor numérico</th><th>Dimensión SV</th><th>Función</th></tr></thead>
+  <tbody>${CONSTANTES.map(([nom,val,dim,fun]) => `
+    <tr><td>${nom}</td><td><code>${val}</code></td><td><code>${dim}</code></td><td style="font-size:12px;color:var(--muted);">${fun}</td></tr>
+  `).join("")}</tbody>
+`;
+
+// =====================================================================
+// RENDER: LABORATORIOS
+// =====================================================================
+const labsGrid = document.getElementById("labs-grid");
+LABS.forEach(l => {
+  const a = document.createElement("a");
+  a.href = BASE_URL + l.file;
+  a.target = "_blank"; a.rel = "noopener noreferrer";
+  a.style.cssText = "background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--text);transition:transform .15s,box-shadow .15s;";
+  a.onmouseenter = () => { a.style.transform = "translateY(-2px)"; a.style.boxShadow = "0 6px 18px rgba(15,23,42,0.1)"; };
+  a.onmouseleave = () => { a.style.transform = ""; a.style.boxShadow = ""; };
+  a.innerHTML = `
+    <span style="font-size:22px;flex-shrink:0;">🧪</span>
+    <div>
+      <div style="font-size:13px;color:var(--muted);margin-bottom:3px;">Lab ${l.num}</div>
+      <div style="font-weight:600;font-size:15px;">${l.title}</div>
+      <div style="font-size:12px;color:var(--accent-2);margin-top:3px;font-family:monospace;">${l.file}</div>
+    </div>
+  `;
+  labsGrid.appendChild(a);
+});
+
+// =====================================================================
+// CONVERSOR
+// =====================================================================
+const sel = document.getElementById("magnitud-sel");
+const activos = PRIMITIVOS.filter(p => p.factor !== null);
+activos.forEach((p, i) => {
+  const o = document.createElement("option");
+  o.value = i; o.textContent = `${p.dim} — ${p.abrev} / ${p.symSI}`;
+  sel.appendChild(o);
+});
+
+function updateLabels() {
+  const dir = document.getElementById("dir-sel").value;
+  const p = activos[sel.value];
+  const lin = document.getElementById("label-in");
+  lin.textContent = dir === "SI_SV" ? `Valor en ${p.nameSI} (${p.symSI})` : `Valor en ${p.abrev}`;
+}
+sel.addEventListener("change", updateLabels);
+document.getElementById("dir-sel").addEventListener("change", updateLabels);
+updateLabels();
+
+document.getElementById("swap-btn").addEventListener("click", () => {
+  const d = document.getElementById("dir-sel");
+  d.value = d.value === "SI_SV" ? "SV_SI" : "SI_SV";
+  updateLabels();
+});
+
+document.getElementById("conv-btn").addEventListener("click", convertir);
+document.getElementById("valor-in").addEventListener("keydown", e => { if (e.key === "Enter") convertir(); });
+
+function convertir() {
+  const p = activos[sel.value];
+  const dir = document.getElementById("dir-sel").value;
+  const val = parseFloat(document.getElementById("valor-in").value);
+  if (isNaN(val)) { alert("Introduzca un valor numérico válido."); return; }
+
+  let resultado, detalle, formula;
+
+  if (dir === "SI_SV") {
+    // SI -> SV
+    if (p.abrev === "UE_MFC") {
+      resultado = val * 9;
+      detalle = `${val} ${p.symSI} × 9 = ${resultado.toPrecision(10)} UE_MFC`;
+      formula = `f(x) = x × 9  |  f(${val}) = ${resultado.toPrecision(8)}`;
+    } else {
+      resultado = val * p.factor;
+      detalle = `${val} ${p.symSI} × ${p.factor} = ${resultado.toPrecision(10)} ${p.abrev}`;
+      formula = `f(x) = x × ${p.factor}  |  f(${val}) = ${resultado.toPrecision(8)}`;
+    }
+    document.getElementById("res-main").textContent = `${formatNum(resultado)} ${p.abrev}`;
+  } else {
+    // SV -> SI
+    if (p.abrev === "UE_MFC") {
+      resultado = val / 9;
+      detalle = `${val} UE_MFC ÷ 9 = ${resultado.toPrecision(10)} ${p.symSI}`;
+      formula = `f(x) = x ÷ 9  |  f(${val}) = ${resultado.toPrecision(8)}`;
+    } else {
+      resultado = val / p.factor;
+      detalle = `${val} ${p.abrev} ÷ ${p.factor} = ${resultado.toPrecision(10)} ${p.symSI}`;
+      formula = `f(x) = x ÷ ${p.factor}  |  f(${val}) = ${resultado.toPrecision(8)}`;
+    }
+    document.getElementById("res-main").textContent = `${formatNum(resultado)} ${p.symSI}`;
+  }
+
+  document.getElementById("res-detail").textContent = detalle;
+  document.getElementById("res-formula").textContent = `Fórmula: ${formula}`;
+  document.getElementById("res-detail").textContent += `  •  ${p.nota}`;
+}
+
+function formatNum(n) {
+  if (Math.abs(n) === 0) return "0";
+  if (Math.abs(n) >= 1e-4 && Math.abs(n) < 1e9) return parseFloat(n.toPrecision(10)).toString();
+  return n.toExponential(6);
+}
+
+// =====================================================================
+// MENU ACTIVO
+// =====================================================================
+const menuLinks = document.querySelectorAll(".menu a");
+const sections = [...document.querySelectorAll("main section")];
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      const id = e.target.getAttribute("id");
+      menuLinks.forEach(a => a.classList.toggle("active", a.getAttribute("href") === "#" + id));
+    }
+  });
+}, { threshold: 0.3 });
+sections.forEach(s => obs.observe(s));
+</script>
+</body>
+</html>
