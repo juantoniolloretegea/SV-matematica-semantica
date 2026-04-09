@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "runner_exit_code": 0,
+  "summary": {
+    "CONFIRMA": 7,
+    "REFUTA": 0,
+    "ABIERTO": 0
+  },
+  "negative_path_codes": {
+    "missing_support": 21,
+    "missing_author": 20,
+    "status_mismatch": 33
+  },
+  "package_root": "primitivos-metrologicos-sv",
+  "github_tree": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/primitivos-metrologicos-sv",
+  "pubpub_collection": "https://www.itvia.online/nueva-matematica--y-fisica-factual-del-sv"
+}

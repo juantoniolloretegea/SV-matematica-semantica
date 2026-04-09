@@ -1,0 +1,148 @@
+{
+  "ok": true,
+  "exit_code": 0,
+  "summary": {
+    "CONFIRMA": 7,
+    "REFUTA": 0,
+    "ABIERTO": 0
+  },
+  "results": [
+    {
+      "assertion_id": "PME-UE_MFC",
+      "section": "III",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-UE_MFC",
+        "title": "Laboratorio 01 — UE_MFC",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la partición exacta del segundo SI en 9 UE_MFC sobre SV(3,9).",
+        "details": {
+          "delta_nu_cs": 9192631770,
+          "n_celda": 9,
+          "sar_por_ue_mfc": 1021403530,
+          "division_exacta": true,
+          "nueve_ue_mfc_equivalen_segundo_si": true,
+          "ue_mfc_en_segundo_si": "1/9"
+        }
+      }
+    },
+    {
+      "assertion_id": "PME-UFE",
+      "section": "IV",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-UFE",
+        "title": "Laboratorio 02 — UFE",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la UFE como instanciación contingente de longitud anclada en c, sin sustrato discreto entero propio.",
+        "details": {
+          "c_luz": 299792458,
+          "intervalo_ue_mfc_num": 9,
+          "intervalo_ue_mfc_den": 299792458,
+          "gcd_reducido_num": 656616555,
+          "gcd_reducido_den": 21413747,
+          "c_mod_9": 1,
+          "ufe_equivale_metro_si_bajo_instanciacion": true
+        }
+      }
+    },
+    {
+      "assertion_id": "PME-UFM",
+      "section": "V",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-UFM",
+        "title": "Laboratorio 03 — UFM",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la UFM como instanciación contingente anclada en h y restringida a masa invariante.",
+        "details": {
+          "h_planck": 6.62607015e-34,
+          "c_luz": 299792458,
+          "delta_nu_cs": 9192631770,
+          "m_foton_cs_ufm": 6.777265312312068e-41,
+          "ufm_equivale_kg_si_bajo_instanciacion": true,
+          "masa_invariante_compatible": true
+        }
+      }
+    },
+    {
+      "assertion_id": "PME-UFC",
+      "section": "VI",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-UFC",
+        "title": "Laboratorio 04 — UFC",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la UFC como primitivo eléctrico de alta afinidad discreta, anclado en e.",
+        "details": {
+          "e_carga_elemental": 1.602176634e-19,
+          "eventos_por_culombio": 6.241509074460763e+18,
+          "ufc_equivale_amperio_si_bajo_instanciacion": true,
+          "discrecion_de_carga_compatible_con_sv": true
+        }
+      }
+    },
+    {
+      "assertion_id": "PME-UFT",
+      "section": "VII",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-UFT",
+        "title": "Laboratorio 05 — UFT",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la UFT como instanciación contingente del kelvin anclada en k_B, sin importar mecánica estadística al SV.",
+        "details": {
+          "k_boltzmann": 1.380649e-23,
+          "energia_termica_293": 4.04530157e-21,
+          "constante_gas_r": 8.31446261815324,
+          "uft_equivale_kelvin_si_bajo_instanciacion": true,
+          "delimitacion_negativa_estadistica": true
+        }
+      }
+    },
+    {
+      "assertion_id": "PME-UFCE",
+      "section": "VIII",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-UFCE",
+        "title": "Laboratorio 06 — UFCE",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la UFCE como primitivo de cantidad de entidad, independiente y compatible con la ontología de conteo del SV.",
+        "details": {
+          "n_avogadro": 6.02214076e+23,
+          "cociente_na_sar": 65510518757567.945,
+          "ufce_equivale_mol_si_bajo_instanciacion": true,
+          "conteo_discreto_de_entidades": true
+        }
+      }
+    },
+    {
+      "assertion_id": "PME-DERIVADAS",
+      "section": "IX",
+      "expected": "CONFIRMA",
+      "result": {
+        "lab_id": "PME-DERIVADAS",
+        "title": "Laboratorio 07 — Unidades derivadas",
+        "status": "CONFIRMA",
+        "passed": true,
+        "summary": "Confirma la tabla de unidades derivadas y la consistencia dimensional de R = N_A * k_B.",
+        "details": {
+          "fuerza": "UFM*UFE*UE_MFC^-2",
+          "energia": "UFM*UFE^2*UE_MFC^-2",
+          "potencia": "UFM*UFE^2*UE_MFC^-3",
+          "voltaje": "UFM*UFE^2*UFC^-1*UE_MFC^-3",
+          "resistencia": "UFM*UFE^2*UFC^-2*UE_MFC^-3",
+          "campo_magnetico": "UFM*UFC^-1*UE_MFC^-2",
+          "constante_gas": 8.31446261815324
+        }
+      }
+    }
+  ]
+}
