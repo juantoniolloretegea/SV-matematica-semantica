@@ -1,0 +1,95 @@
+{
+  "runner": "ed_em_01",
+  "courant_max": 0.984807753012,
+  "courant_estable": true,
+  "input_state": [
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "media": 0.111111111111,
+  "alpha": [
+    0.170232098471,
+    0.038588483926,
+    -0.111111111111,
+    -0.208820582397
+  ],
+  "beta": [
+    0.142841691041,
+    0.218846167336,
+    0.19245008973,
+    0.076004476295
+  ],
+  "modulos": [
+    0.222222222222,
+    0.222222222222,
+    0.222222222222,
+    0.222222222222
+  ],
+  "reconstruccion_exacta": [
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "error_maximo_k4": 0.0,
+  "reconstruccion_truncada_k2": [
+    0.319931693508,
+    0.555555555556,
+    0.319931693508,
+    -0.05912098736,
+    -0.111111111111,
+    0.072522627185,
+    0.072522627185,
+    -0.111111111111,
+    -0.05912098736
+  ],
+  "borde_maximo_k2": 0.444444444444,
+  "snapshots": [
+    {
+      "paso": 0,
+      "xi": 0.0,
+      "valor_maximo": 1.0,
+      "indice_maximo_1_indexed": 2
+    },
+    {
+      "paso": 1,
+      "xi": 0.5,
+      "valor_maximo": 0.5,
+      "indice_maximo_1_indexed": 2
+    },
+    {
+      "paso": 2,
+      "xi": 1.0,
+      "valor_maximo": 0.5,
+      "indice_maximo_1_indexed": 1
+    },
+    {
+      "paso": 3,
+      "xi": 1.5,
+      "valor_maximo": 0.484375,
+      "indice_maximo_1_indexed": 1
+    },
+    {
+      "paso": 4,
+      "xi": 2.0,
+      "valor_maximo": 0.390625,
+      "indice_maximo_1_indexed": 4
+    }
+  ],
+  "passed": true,
+  "dictamen_local": "APTO",
+  "timestamp": "2026-04-10T20:17:40Z",
+  "md5": "968253cc27fa13aa889c396df3337c33"
+}

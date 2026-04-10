@@ -1,0 +1,53 @@
+{
+  "lab_id": "LAB-EM-01",
+  "case_id": "ED-EM-01",
+  "observable": "E_SV_escalarizado",
+  "pulse_position_1_indexed": 2,
+  "input_state": [
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "media": 0.111111111111,
+  "alpha": [
+    0.170232098471,
+    0.038588483926,
+    -0.111111111111,
+    -0.208820582397
+  ],
+  "beta": [
+    0.142841691041,
+    0.218846167336,
+    0.19245008973,
+    0.076004476295
+  ],
+  "modulos": [
+    0.222222222222,
+    0.222222222222,
+    0.222222222222,
+    0.222222222222
+  ],
+  "reconstruccion_exacta": [
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "error_maximo_reconstruccion": 0.0,
+  "tolerancia": 1e-12,
+  "passed": true,
+  "dictamen_local": "APTO",
+  "timestamp": "2026-04-10T20:17:40Z",
+  "md5": "fcd9a75c27ab0ba9f58aa81e90b956fd"
+}

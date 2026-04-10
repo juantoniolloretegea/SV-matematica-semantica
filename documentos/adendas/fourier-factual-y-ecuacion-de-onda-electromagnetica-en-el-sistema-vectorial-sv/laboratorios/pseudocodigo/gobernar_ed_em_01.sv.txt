@@ -1,0 +1,46 @@
+PROCEDIMIENTO GOBERNAR_ED_EM_01
+
+ENTRA:
+    caso := ED-EM-01
+    dominio := VACIO_FACTUAL
+    trayectoria := TRAYECTORIA_POLIGONAL_CANONICA_SV_3_9
+    observable := CAMPO_ELECTROMAGNETICO_FACTUAL_INICIAL
+    escala_ciclo := UE_MFC
+    escala_extension := UFE
+    parametros_materiales := NULO
+
+DECLARA:
+    exigir COMPATIBILIDAD_DE_TRAYECTORIA
+    exigir HOMOGENEIDAD_DIMENSIONAL
+    exigir CUSTODIA_DE_ENTRADA
+
+EJECUTA:
+    1. LEER_CONFIGURACION_FACTUAL(caso, trayectoria, observable)
+    2. MEDIR_EN_CICLO_FACTUAL(escala_ciclo)
+    3. PROYECTAR_A_MODOS_CICLICOS_FACTUALES(observable)
+    4. RECONSTRUIR_EN_REGIMEN_COMPLETO
+    5. CALCULAR_BALANCE_FACTUAL_MODAL
+    6. TRUNCAR_A_ORDEN_DECLARADO
+    7. MEDIR_RESIDUAL_DE_BORDE_FACTUAL
+    8. PROPAGAR_EN_REGIMEN_DE_ONDA_FACTUAL
+    9. COMPARAR_ESTADO_INICIAL_Y_ESTADO_PROPAGADO
+   10. EMITIR_DICTAMEN_LOCAL
+   11. CONGELAR_SALIDA_JSON
+   12. SELLAR_HUELLA_DE_INTEGRIDAD
+
+NO_TOLERA:
+    trayectoria_incompatible
+    observable_sin_dimension
+    importacion_fallida
+    excepcion_no_controlada
+    salida_no_congelada
+    passed_false
+
+SALE:
+    transformada_modal_factual
+    balance_factual_modal
+    residual_de_borde_factual
+    estado_propagado
+    dictamen_local
+    huella_de_integridad
+FIN

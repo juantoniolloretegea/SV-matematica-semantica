@@ -1,0 +1,12 @@
+{
+  "lab_id": "LAB-EM-03",
+  "case_id": "ED-EM-01",
+  "contenido_cuadratico": 1.0,
+  "lado_derecho_balance": 1.0,
+  "diferencia_absoluta": 0.0,
+  "tolerancia": 1e-12,
+  "passed": true,
+  "dictamen_local": "APTO",
+  "timestamp": "2026-04-10T20:17:40Z",
+  "md5": "6300fbb99e0cd526e69da42480a700a1"
+}

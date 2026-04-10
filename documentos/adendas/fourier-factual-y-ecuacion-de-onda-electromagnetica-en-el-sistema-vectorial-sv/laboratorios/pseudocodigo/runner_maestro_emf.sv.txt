@@ -1,0 +1,31 @@
+PROCEDIMIENTO RUNNER_MAESTRO_EMF
+
+DECLARA:
+    suite :=
+        [LAB-EM-01, LAB-EM-02, LAB-EM-03, LAB-EM-04, LAB-EM-05]
+
+    invariantes_obligatorios :=
+        [autoria_presente,
+         trayectorias_compatibles,
+         dimensiones_homogeneas,
+         salidas_congeladas,
+         huellas_validas]
+
+PARA cada laboratorio EN suite HACER:
+    EJECUTAR(laboratorio)
+    SI FALLA(laboratorio) ENTONCES
+        REGISTRAR_ERROR
+        CORTAR_EN_REGIMEN_FAIL_FAST
+    FIN_SI
+    VERIFICAR(invariantes_obligatorios)
+    SI ALGUN_INVARIANTE_NO_PASA ENTONCES
+        REGISTRAR_ERROR
+        CORTAR_EN_REGIMEN_FAIL_FAST
+    FIN_SI
+FIN_PARA
+
+EMITIR_REPORTE_GLOBAL_JSON
+EMITIR_DICTAMEN_FINAL
+SELLAR_HUELLAS_DE_INTEGRIDAD
+
+FIN

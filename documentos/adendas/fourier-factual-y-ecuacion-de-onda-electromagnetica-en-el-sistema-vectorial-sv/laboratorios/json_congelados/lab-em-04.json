@@ -1,0 +1,94 @@
+{
+  "lab_id": "LAB-EM-04",
+  "case_id": "ED-EM-01",
+  "edge_set_1_indexed": [
+    1,
+    2,
+    3
+  ],
+  "resultados_truncacion": {
+    "K_0": {
+      "borde_maximo": 0.888888888889,
+      "borde_cuadratico": 0.814814814815,
+      "residuo_total_cuadratico": 0.888888888889,
+      "concentracion_borde": 0.916666666667,
+      "sobreoscilacion": 0.0,
+      "suboscilacion": 0.0,
+      "reconstruccion_truncada": [
+        0.111111111111,
+        0.111111111111,
+        0.111111111111,
+        0.111111111111,
+        0.111111111111,
+        0.111111111111,
+        0.111111111111,
+        0.111111111111,
+        0.111111111111
+      ]
+    },
+    "K_1": {
+      "borde_maximo": 0.666666666667,
+      "borde_cuadratico": 0.6027524476,
+      "residuo_total_cuadratico": 0.666666666667,
+      "concentracion_borde": 0.9041286714,
+      "sobreoscilacion": 0.0,
+      "suboscilacion": 0.0,
+      "reconstruccion_truncada": [
+        0.281343209582,
+        0.333333333333,
+        0.281343209582,
+        0.149699595037,
+        0.0,
+        -0.097709471286,
+        -0.097709471286,
+        0.0,
+        0.149699595037
+      ]
+    },
+    "K_2": {
+      "borde_maximo": 0.444444444444,
+      "borde_cuadratico": 0.402243441219,
+      "residuo_total_cuadratico": 0.444444444444,
+      "concentracion_borde": 0.905047742743,
+      "sobreoscilacion": 0.0,
+      "suboscilacion": 0.0,
+      "reconstruccion_truncada": [
+        0.319931693508,
+        0.555555555556,
+        0.319931693508,
+        -0.05912098736,
+        -0.111111111111,
+        0.072522627185,
+        0.072522627185,
+        -0.111111111111,
+        -0.05912098736
+      ]
+    },
+    "K_3": {
+      "borde_maximo": 0.222222222222,
+      "borde_cuadratico": 0.136594787315,
+      "residuo_total_cuadratico": 0.222222222222,
+      "concentracion_borde": 0.614676542915,
+      "sobreoscilacion": 0.0,
+      "suboscilacion": 0.0,
+      "reconstruccion_truncada": [
+        0.208820582397,
+        0.777777777778,
+        0.208820582397,
+        -0.170232098471,
+        0.111111111111,
+        -0.038588483926,
+        -0.038588483926,
+        0.111111111111,
+        -0.170232098471
+      ]
+    }
+  },
+  "todos_finitos": true,
+  "borde_maximo_decreciente": true,
+  "concentraciones_validas": true,
+  "passed": true,
+  "dictamen_local": "APTO",
+  "timestamp": "2026-04-10T20:17:40Z",
+  "md5": "e1045b501a9a03e6ddd1bf8ed27718f0"
+}
