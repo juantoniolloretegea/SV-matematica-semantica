@@ -55,12 +55,12 @@ El trabajo debe leerse junto con el conjunto reproducible que lo acompaña. Ese 
 | Componente | Función material |
 |---|---|
 | [`publicacion_sv_fisica_contemporanea.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/publicacion_sv_fisica_contemporanea.md) | texto base para publicación y revisión editorial |
-| [`analisis-estructural-fisica-sv.html`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html) | entrada pública y navegación pública del conjunto |
-| [metrología](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#metrologia), [electromagnetismo](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#electromagnetismo), [multidetector](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#multidetector), [partículas](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#particulas) y [no clausura](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#no-clausura) | acceso navegable a los dominios y trazabilidad del conjunto |
+| [`analisis-estructural-fisica-sv/`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/) | entrada pública y navegación pública del conjunto |
+| [metrología](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/metrologia.html), [electromagnetismo](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/electromagnetismo.html), [multidetector](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/multidetector.html), [partículas](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/particulas.html) y [no clausura](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/no-clausura.html) | acceso navegable a los dominios y trazabilidad del conjunto |
 | [`entorno_local/README_local.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/README_local.md) | runner, núcleo Python, datasets, laboratorios y pruebas mínimas |
-| [`analisis-estructural-fisica-sv.html#implementacion-local`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#implementacion-local) | contrato operativo resumido para reejecución |
-| [`analisis-estructural-fisica-sv.html#catalogo-ffsv`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#catalogo-ffsv) | catálogo de errores publicado del entorno local |
-| [`analisis-estructural-fisica-sv.html#plan-verificacion`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#plan-verificacion) | plan mínimo de verificación material |
+| [`implementacion/implementacion-local.html`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/implementacion/implementacion-local.html) | contrato operativo resumido para reejecución |
+| [`errores/catalogo-ffsv.html`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/errores/catalogo-ffsv.html) | catálogo de errores publicado del entorno local |
+| [`tests/plan-verificacion.html`](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/tests/plan-verificacion.html) | plan mínimo de verificación material |
 
 El conjunto es autocontenido en sentido operativo, no en sentido ontológico. Esto significa que el lector dispone, en un mismo bloque, del texto, de la interfaz de exploración, de los datasets, de los laboratorios, del runner y de pruebas mínimas suficientes para reejecutar los casos controlados. No significa que el marco quede validado de una vez y para siempre sobre todos los contextos experimentales posibles.
 
@@ -74,21 +74,21 @@ Su alcance actual corresponde a validación estructural y laboratorial controlad
 
 En física, la descripción de la evolución de un sistema se expresa de forma habitual mediante una parametrización temporal. En su forma más general, un estado físico se escribe como:
 
-\[
+$$
 x(t)
-\]
+$$
 
 y su dinámica se establece a través de ecuaciones diferenciales del tipo:
 
-\[
+$$
 \frac{d x(t)}{dt} = F(x(t), t)
-\]
+$$
 
 En el caso de sistemas ondulatorios, esta dependencia adopta formas como la ecuación de onda:
 
-\[
+$$
 \frac{\partial^2 \psi}{\partial t^2} = c^2 \nabla^2 \psi
-\]
+$$
 
 En análisis experimental, esta estructura se traduce en series temporales de señal, reconstrucciones dependientes del tiempo, sincronización entre detectores y correlaciones temporales entre eventos (Arnold, 1989; Oppenheim & Schafer, 2010).
 
@@ -100,13 +100,13 @@ Esta formulación presenta limitaciones en contextos experimentales concretos. E
 
 Para evitar esta dependencia, se introduce una descripción basada en **sucesos** y **trayectorias factuales**:
 
-\[
+$$
 T = (S_0, \varepsilon_0, S_1, \varepsilon_1, \dots, S_n)
-\]
+$$
 
 donde:
-- \(S_i\) representa un estado físico accesible o reconstruido;
-- \(\varepsilon_i\) representa un suceso o transformación explícita entre estados.
+- $S_i$ representa un estado físico accesible o reconstruido;
+- $\varepsilon_i$ representa un suceso o transformación explícita entre estados.
 
 El orden de la trayectoria no se apoya en una variable temporal continua, sino en la relación estructural entre estados y sucesos.
 
@@ -114,15 +114,15 @@ El orden de la trayectoria no se apoya en una variable temporal continua, sino e
 
 En física experimental, la discrepancia entre un estado observado y su reconstrucción se expresa habitualmente mediante magnitudes de error o desviación. El marco propuesto reformula esa discrepancia como **residual estructural**, no como error a minimizar. Dado un paso de trayectoria:
 
-\[
+$$
 S_i \xrightarrow{\varepsilon_i} S_{i+1}
-\]
+$$
 
 se define un residual:
 
-\[
+$$
 R(S_i, S_{i+1})
-\]
+$$
 
 que no se reduce a una magnitud escalar única, sino que se interpreta como una estructura de diferencia entre estados. Este residual puede contener componentes debidas a truncación, borde, incompatibilidades entre representaciones o información no capturada por el modelo aplicado.
 
@@ -130,15 +130,15 @@ que no se reduce a una magnitud escalar única, sino que se interpreta como una 
 
 La clausura no se determina por un umbral implícito, sino por una **frontera de clausura explícita**. Dada una trayectoria:
 
-\[
+$$
 T = (S_0, \varepsilon_0, \dots, S_n)
-\]
+$$
 
 se define una función de frontera:
 
-\[
+$$
 F(T)
-\]
+$$
 
 que evalúa si la trayectoria puede considerarse cerrada en términos estructurales. En la implementación reproducible incluida en este conjunto, la frontera se calcula a partir de la clasificación ternaria derivada de los residuales entre estados consecutivos. Las transformaciones y el horizonte declarado se conservan en la traza del análisis y sirven para contextualizar y reproducir el caso, pero no alteran todavía el operador efectivo de frontera en esta versión.
 
@@ -146,17 +146,17 @@ que evalúa si la trayectoria puede considerarse cerrada en términos estructura
 
 Las herramientas diferenciales conocidas se amplían aquí a una sensibilidad definida sobre trayectorias y no únicamente sobre funciones. Dada una trayectoria:
 
-\[
+$$
 T = (S_0, \varepsilon_0, \dots, S_n)
-\]
+$$
 
 se considera una perturbación:
 
-\[
+$$
 \delta T
-\]
+$$
 
-que puede afectar a los estados, a las transformaciones o a las condiciones de contorno. El marco general admite esas tres vías. En la implementación reproducible actual, el **jacobiano estructural** se realiza sobre los estados numéricos de la trayectoria mediante perturbaciones explícitas de magnitud declarada. Para cada estado numérico \(S_i\), se evalúa si una perturbación \(\varepsilon\) produce un cambio en el dictamen global. Los estados de tipo \(U\) no son perturbables. El resultado es un registro de los estados sensibles y de la variación de dictamen asociada a cada perturbación. Esta implementación se recoge en el módulo `core/jacobian.py` del entorno local.
+que puede afectar a los estados, a las transformaciones o a las condiciones de contorno. El marco general admite esas tres vías. En la implementación reproducible actual, el **jacobiano estructural** se realiza sobre los estados numéricos de la trayectoria mediante perturbaciones explícitas de magnitud declarada. Para cada estado numérico $S_i$, se evalúa si una perturbación $\varepsilon$ produce un cambio en el dictamen global. Los estados de tipo $U$ no son perturbables. El resultado es un registro de los estados sensibles y de la variación de dictamen asociada a cada perturbación. Esta implementación se recoge en el módulo `core/jacobian.py` del entorno local.
 
 ### 3.5. Clasificación local y dictamen global
 
@@ -164,40 +164,40 @@ Se introduce una distinción explícita entre **clasificación local** y **dicta
 
 En la implementación reproducible de esta versión, cada transición entre estados consecutivos se evalúa mediante una clasificación ternaria derivada del residual estructural:
 
-\[
+$$
 C \in \{0, 1, U\}
-\]
+$$
 
 donde:
-- \(1\) indica validez estructural;
-- \(0\) indica no validez estructural;
-- \(U\) indica que la información disponible no permite decidir.
+- $1$ indica validez estructural;
+- $0$ indica no validez estructural;
+- $U$ indica que la información disponible no permite decidir.
 
 A partir de la clasificación local y del análisis de la trayectoria completa, se emite un dictamen global:
 
-\[
+$$
 D(T) \in \{\text{APTO}, \text{INDETERMINADO}, \text{NO APTO}\}
-\]
+$$
 
 ### 3.6. Reapertura factual y trazabilidad
 
 La revisión de un resultado se formaliza como **reapertura factual** de la trayectoria, no como sustitución. Dada una trayectoria:
 
-\[
+$$
 T = (S_0, \varepsilon_0, \dots, S_n)
-\]
+$$
 
 la incorporación de nueva información o la modificación de condiciones da lugar a una extensión:
 
-\[
+$$
 T \longrightarrow T'
-\]
+$$
 
-donde \(T'\) contiene a \(T\) como subestructura:
+donde $T'$ contiene a $T$ como subestructura:
 
-\[
+$$
 T \subseteq T'
-\]
+$$
 
 La reapertura no corrige un suceso ya fijado ni lo sustituye; añade nuevos sucesos soberanos a la trayectoria y conserva íntegra la trazabilidad de los anteriores.
 
@@ -207,9 +207,9 @@ La reapertura no corrige un suceso ya fijado ni lo sustituye; añade nuevos suce
 
 La herramienta metrológica factual no trata la medición como una operación instantánea, sino como una **trayectoria de medición y transformación**. Se parte de una estructura del tipo:
 
-\[
+$$
 T = (S_0, \varepsilon_0, S_1, \varepsilon_1, \dots, S_n)
-\]
+$$
 
 La herramienta se organiza sobre cinco elementos: equivalencia metrológica factual, trayectoria de transformación, residual estructural, frontera de validación y dictamen global. La comparación estructural de estados se realiza sobre representaciones normalizadas a una unidad base común. Esto garantiza que una conversión metrológicamente correcta —cuyo residual en la unidad base es cero— produce dictamen APTO, mientras que una reducción con pérdida de información produce residual positivo y dictamen NO APTO. El trasfondo metrológico clásico de esta exigencia, aunque aquí se reformule fuera del régimen probabilístico, sigue siendo reconocible en la disciplina de unidades y en la expresión rigurosa de la incertidumbre de medida (BIPM, 2019; JCGM, 2008; Taylor, 1997).
 
@@ -231,7 +231,7 @@ El conjunto de hipótesis físicas se trata como un **conjunto finito de trayect
 
 ### 4.6. Herramienta de no clausura y frontera cuántica
 
-En la física cuántica existen situaciones en las que la no clausura no es un defecto del análisis, sino una propiedad estructural del sistema. La herramienta trata estos casos como **no clausura estructural**, representada mediante \(U\) y reflejada en el dictamen global como **INDETERMINADO** cuando la estructura no permite una clausura legítima. En el paquete reproducible, esto se ensaya mediante casos mínimos de orden de medición, límite de observabilidad, no clausura irreductible, clausura forzada y reapertura factual. No se presenta como teoría cuántica cerrada ni como sustitución de la formulación estándar (Dirac, 1981; von Neumann, 1955; Heisenberg, 1958; Sakurai & Napolitano, 2017).
+En la física cuántica existen situaciones en las que la no clausura no es un defecto del análisis, sino una propiedad estructural del sistema. La herramienta trata estos casos como **no clausura estructural**, representada mediante $U$ y reflejada en el dictamen global como **INDETERMINADO** cuando la estructura no permite una clausura legítima. En el paquete reproducible, esto se ensaya mediante casos mínimos de orden de medición, límite de observabilidad, no clausura irreductible, clausura forzada y reapertura factual. No se presenta como teoría cuántica cerrada ni como sustitución de la formulación estándar (Dirac, 1981; von Neumann, 1955; Heisenberg, 1958; Sakurai & Napolitano, 2017).
 
 ## 5. Laboratorios ejecutables
 
@@ -309,7 +309,7 @@ Los laboratorios no actúan aquí como ejemplos ornamentales, sino como piezas d
 
 Este laboratorio verifica que el marco distingue entre equivalencia metrológica estructural, pérdida de información por reducción, compensación aparente, incompatibilidad dimensional y no clausura metrológica. Su función es comprobar que la disciplina de unidades y el residual estructural producen un dictamen conservador sin introducir cierre espurio.
 
-- Página navegable: [laboratorios/metrologia.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#metrologia)
+- Página navegable: [laboratorios/metrologia.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/metrologia.html)
 - Implementación local: [`entorno_local/labs/metrologia_lab.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/labs/metrologia_lab.py)
 - Dataset principal: [`entorno_local/datasets/metrologia_casos.json`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/datasets/metrologia_casos.json)
 
@@ -317,7 +317,7 @@ Este laboratorio verifica que el marco distingue entre equivalencia metrológica
 
 Este laboratorio ensaya reconstrucción completa, truncación con pérdida modal, residual de borde, conflicto estructural entre campo medido y reconstruido y no clausura electromagnética. Su función no es resolver electromagnetismo general, sino verificar que el marco conserva el residual y no blanquea cierres allí donde la reconstrucción queda estructuralmente abierta.
 
-- Página navegable: [laboratorios/electromagnetismo.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#electromagnetismo)
+- Página navegable: [laboratorios/electromagnetismo.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/electromagnetismo.html)
 - Implementación local: [`entorno_local/labs/electromagnetismo_lab.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/labs/electromagnetismo_lab.py)
 - Dataset principal: [`entorno_local/datasets/electromagnetismo_casos.json`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/datasets/electromagnetismo_casos.json)
 
@@ -325,7 +325,7 @@ Este laboratorio ensaya reconstrucción completa, truncación con pérdida modal
 
 Este laboratorio contrasta coincidencia completa, coincidencia parcial, correlación aparente, conflicto estructural y no clausura entre detectores. Su función es verificar que la proximidad entre lecturas no se confunda automáticamente con coincidencia estructural suficiente.
 
-- Página navegable: [laboratorios/multidetector.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#multidetector)
+- Página navegable: [laboratorios/multidetector.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/multidetector.html)
 - Implementación local: [`entorno_local/labs/multidetector_lab.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/labs/multidetector_lab.py)
 - Dataset principal: [`entorno_local/datasets/multidetector_casos.json`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/datasets/multidetector_casos.json)
 
@@ -333,7 +333,7 @@ Este laboratorio contrasta coincidencia completa, coincidencia parcial, correlac
 
 Este laboratorio verifica identificación unívoca, ambigüedad estructural, hipótesis dominante con alternativa residual, conflicto entre hipótesis incompatibles y no clausura bajo ambigüedad irreductible. Su función es preservar la coexistencia de trayectorias compatibles cuando la estructura observacional no autoriza colapso prematuro.
 
-- Página navegable: [laboratorios/particulas.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#particulas)
+- Página navegable: [laboratorios/particulas.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/particulas.html)
 - Implementación local: [`entorno_local/labs/particulas_lab.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/labs/particulas_lab.py)
 - Dataset principal: [`entorno_local/datasets/particulas_casos.json`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/datasets/particulas_casos.json)
 
@@ -341,7 +341,7 @@ Este laboratorio verifica identificación unívoca, ambigüedad estructural, hip
 
 Este laboratorio verifica determinación parcial con estado irresuelto, dependencia del orden de medición, no clausura irreductible, clausura forzada sobre estados incompatibles y reapertura factual con nueva información. Su función específica es comprobar que el operador de reapertura extiende la trayectoria sin reescribir el pasado y preserva la trazabilidad material de los sucesos previos.
 
-- Página navegable: [laboratorios/no-clausura.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv.html#no-clausura)
+- Página navegable: [laboratorios/no-clausura.html](https://juantoniolloretegea.github.io/SV-matematica-semantica/analisis-estructural-fisica-sv/laboratorios/no-clausura.html)
 - Implementación local: [`entorno_local/labs/no_clausura_lab.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/labs/no_clausura_lab.py)
 - Dataset principal: [`entorno_local/datasets/no_clausura_casos.json`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/analisis-estructural-fisica-sv/entorno_local/datasets/no_clausura_casos.json)
 
