@@ -1,0 +1,74 @@
+[
+  {
+    "name": "reconstruccion_completa",
+    "states": [
+      1,
+      1
+    ],
+    "transforms": [
+      "reconstruccion_modal"
+    ],
+    "horizon": {
+      "domain": "electromagnetismo",
+      "caso": "reconstruccion_completa"
+    }
+  },
+  {
+    "name": "truncacion_controlada",
+    "states": [
+      1,
+      0.8
+    ],
+    "transforms": [
+      "truncacion"
+    ],
+    "horizon": {
+      "domain": "electromagnetismo",
+      "caso": "truncacion_controlada"
+    }
+  },
+  {
+    "name": "residual_de_borde",
+    "states": [
+      1,
+      1,
+      "U"
+    ],
+    "transforms": [
+      "reconstruccion_modal",
+      "borde"
+    ],
+    "horizon": {
+      "domain": "electromagnetismo",
+      "caso": "residual_de_borde"
+    }
+  },
+  {
+    "name": "conflicto_estructural",
+    "states": [
+      1,
+      0
+    ],
+    "transforms": [
+      "conflicto"
+    ],
+    "horizon": {
+      "domain": "electromagnetismo",
+      "caso": "conflicto_estructural"
+    }
+  },
+  {
+    "name": "no_clausura_em",
+    "states": [
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "limite_representacion"
+    ],
+    "horizon": {
+      "domain": "electromagnetismo",
+      "caso": "no_clausura_em"
+    }
+  }
+]

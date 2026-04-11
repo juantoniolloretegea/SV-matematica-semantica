@@ -1,0 +1,74 @@
+[
+  {
+    "name": "equivalencia_ideal",
+    "states": [
+      1,
+      1
+    ],
+    "transforms": [
+      "conversion_exacta"
+    ],
+    "horizon": {
+      "domain": "metrologia",
+      "caso": "equivalencia_ideal"
+    }
+  },
+  {
+    "name": "reduccion_con_perdida",
+    "states": [
+      1,
+      0.8
+    ],
+    "transforms": [
+      "reduccion"
+    ],
+    "horizon": {
+      "domain": "metrologia",
+      "caso": "reduccion_con_perdida"
+    }
+  },
+  {
+    "name": "compensacion_aparente",
+    "states": [
+      1,
+      1,
+      "U"
+    ],
+    "transforms": [
+      "conversion_exacta",
+      "estimacion"
+    ],
+    "horizon": {
+      "domain": "metrologia",
+      "caso": "compensacion_aparente"
+    }
+  },
+  {
+    "name": "incompatibilidad_dimensional",
+    "states": [
+      1,
+      0
+    ],
+    "transforms": [
+      "transformacion_incompatible"
+    ],
+    "horizon": {
+      "domain": "metrologia",
+      "caso": "incompatibilidad_dimensional"
+    }
+  },
+  {
+    "name": "no_clausura_metrologica",
+    "states": [
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "medicion_indeterminada"
+    ],
+    "horizon": {
+      "domain": "metrologia",
+      "caso": "no_clausura_metrologica"
+    }
+  }
+]

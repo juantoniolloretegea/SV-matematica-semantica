@@ -1,0 +1,13 @@
+{
+  "states": [
+    1,
+    1
+  ],
+  "transforms": [
+    "conversion_exacta"
+  ],
+  "horizon": {
+    "domain": "metrologia",
+    "closure": "strict"
+  }
+}

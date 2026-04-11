@@ -1,0 +1,15 @@
+{
+  "states": [
+    1,
+    1,
+    1
+  ],
+  "transforms": [
+    "detector_A",
+    "detector_B"
+  ],
+  "horizon": {
+    "domain": "multidetector",
+    "closure": "open"
+  }
+}

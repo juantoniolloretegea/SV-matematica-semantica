@@ -1,0 +1,83 @@
+[
+  {
+    "name": "coincidencia_completa",
+    "states": [
+      1,
+      1,
+      1
+    ],
+    "transforms": [
+      "detector_A",
+      "detector_B"
+    ],
+    "horizon": {
+      "domain": "multidetector",
+      "caso": "coincidencia_completa"
+    }
+  },
+  {
+    "name": "coincidencia_parcial",
+    "states": [
+      1,
+      1,
+      "U"
+    ],
+    "transforms": [
+      "detector_A",
+      "detector_B_parcial"
+    ],
+    "horizon": {
+      "domain": "multidetector",
+      "caso": "coincidencia_parcial"
+    }
+  },
+  {
+    "name": "correlacion_aparente",
+    "states": [
+      1,
+      1,
+      0
+    ],
+    "transforms": [
+      "detector_A",
+      "detector_B",
+      "detector_C_conflicto"
+    ],
+    "horizon": {
+      "domain": "multidetector",
+      "caso": "correlacion_aparente"
+    }
+  },
+  {
+    "name": "conflicto_estructural",
+    "states": [
+      1,
+      0,
+      "U"
+    ],
+    "transforms": [
+      "detector_A",
+      "detector_B_conflicto"
+    ],
+    "horizon": {
+      "domain": "multidetector",
+      "caso": "conflicto_estructural"
+    }
+  },
+  {
+    "name": "no_clausura_multidetector",
+    "states": [
+      "U",
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "detector_A_U",
+      "detector_B_U"
+    ],
+    "horizon": {
+      "domain": "multidetector",
+      "caso": "no_clausura_multidetector"
+    }
+  }
+]

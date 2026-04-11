@@ -1,0 +1,15 @@
+{
+  "states": [
+    1,
+    1,
+    "U"
+  ],
+  "transforms": [
+    "lectura",
+    "reevaluacion"
+  ],
+  "horizon": {
+    "domain": "ejemplo",
+    "closure": "open"
+  }
+}

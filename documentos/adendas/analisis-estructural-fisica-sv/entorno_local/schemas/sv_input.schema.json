@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SV Analysis Input",
+  "type": "object",
+  "required": ["states", "horizon"],
+  "properties": {
+    "states": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "anyOf": [
+          {"type": "number"},
+          {"type": "string", "enum": ["U"]},
+          {"type": "null"}
+        ]
+      }
+    },
+    "transforms": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "horizon": {
+      "type": "object",
+      "required": ["domain"],
+      "properties": {
+        "domain": {"type": "string", "minLength": 1},
+        "caso": {"type": "string"},
+        "nuevos_estados": {
+          "type": "array",
+          "items": {
+            "anyOf": [
+              {"type": "number"},
+              {"type": "string", "enum": ["U"]},
+              {"type": "null"}
+            ]
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

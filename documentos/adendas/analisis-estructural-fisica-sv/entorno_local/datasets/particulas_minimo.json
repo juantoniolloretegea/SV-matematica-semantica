@@ -1,0 +1,13 @@
+{
+  "states": [
+    1,
+    1
+  ],
+  "transforms": [
+    "identificacion"
+  ],
+  "horizon": {
+    "domain": "particulas",
+    "closure": "open"
+  }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "identificacion_univoca",
+    "states": [
+      1,
+      1
+    ],
+    "transforms": [
+      "identificacion"
+    ],
+    "horizon": {
+      "domain": "particulas",
+      "caso": "identificacion_univoca"
+    }
+  },
+  {
+    "name": "ambiguedad_estructural",
+    "states": [
+      1,
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "hipotesis_A",
+      "hipotesis_B"
+    ],
+    "horizon": {
+      "domain": "particulas",
+      "caso": "ambiguedad_estructural"
+    }
+  },
+  {
+    "name": "hipotesis_dominante",
+    "states": [
+      1,
+      1,
+      "U"
+    ],
+    "transforms": [
+      "hipotesis_principal",
+      "hipotesis_residual"
+    ],
+    "horizon": {
+      "domain": "particulas",
+      "caso": "hipotesis_dominante"
+    }
+  },
+  {
+    "name": "conflicto_estructural",
+    "states": [
+      1,
+      0,
+      "U"
+    ],
+    "transforms": [
+      "hipotesis_A",
+      "hipotesis_incompatible"
+    ],
+    "horizon": {
+      "domain": "particulas",
+      "caso": "conflicto_estructural"
+    }
+  },
+  {
+    "name": "no_clausura_ambiguedad",
+    "states": [
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "ambiguedad_irreductible"
+    ],
+    "horizon": {
+      "domain": "particulas",
+      "caso": "no_clausura_ambiguedad"
+    }
+  }
+]

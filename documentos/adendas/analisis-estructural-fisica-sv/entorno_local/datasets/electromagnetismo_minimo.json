@@ -1,0 +1,13 @@
+{
+  "states": [
+    1,
+    1
+  ],
+  "transforms": [
+    "reconstruccion_modal"
+  ],
+  "horizon": {
+    "domain": "electromagnetismo",
+    "closure": "open"
+  }
+}

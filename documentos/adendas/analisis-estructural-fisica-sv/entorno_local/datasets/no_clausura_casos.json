@@ -1,0 +1,77 @@
+[
+  {
+    "name": "determinacion_parcial",
+    "states": [
+      1,
+      "U"
+    ],
+    "transforms": [
+      "medicion_parcial"
+    ],
+    "horizon": {
+      "domain": "no_clausura",
+      "caso": "determinacion_parcial"
+    }
+  },
+  {
+    "name": "dependencia_orden",
+    "states": [
+      "U",
+      1,
+      "U"
+    ],
+    "transforms": [
+      "orden_A",
+      "orden_B"
+    ],
+    "horizon": {
+      "domain": "no_clausura",
+      "caso": "dependencia_orden"
+    }
+  },
+  {
+    "name": "no_clausura_irreductible",
+    "states": [
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "limite_observabilidad"
+    ],
+    "horizon": {
+      "domain": "no_clausura",
+      "caso": "no_clausura_irreductible"
+    }
+  },
+  {
+    "name": "clausura_forzada",
+    "states": [
+      1,
+      0
+    ],
+    "transforms": [
+      "cierre_forzado"
+    ],
+    "horizon": {
+      "domain": "no_clausura",
+      "caso": "clausura_forzada"
+    }
+  },
+  {
+    "name": "reapertura",
+    "states": [
+      "U",
+      "U"
+    ],
+    "transforms": [
+      "medicion_inicial"
+    ],
+    "horizon": {
+      "domain": "no_clausura",
+      "caso": "reapertura",
+      "nuevos_estados": [
+        1
+      ]
+    }
+  }
+]

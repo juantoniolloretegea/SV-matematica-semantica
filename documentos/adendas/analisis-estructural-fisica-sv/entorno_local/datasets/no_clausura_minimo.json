@@ -1,0 +1,13 @@
+{
+  "states": [
+    1,
+    "U"
+  ],
+  "transforms": [
+    "medicion_parcial"
+  ],
+  "horizon": {
+    "domain": "no_clausura",
+    "closure": "open"
+  }
+}
