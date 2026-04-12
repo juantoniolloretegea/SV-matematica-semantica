@@ -172,7 +172,7 @@ $U$ no representa una probabilidad, ni una ausencia trivial de dato, ni una vari
 Para toda célula $v$ de tamaño $n$, se definen los conteos:
 
 $$
-N_0(v)=\#\{i: v_i=0\}, \qquad N_1(v)=\#\{i: v_i=1\}, \qquad N_U(v)=\#\{i: v_i=U\}
+N_0(v)=\lvert\{i: v_i=0\}\rvert, \qquad N_1(v)=\lvert\{i: v_i=1\}\rvert, \qquad N_U(v)=\lvert\{i: v_i=U\}\rvert
 $$
 
 con la identidad
@@ -298,10 +298,10 @@ Se define **suceso compuesto** toda composición finita, tipada y explícita de 
 Formalmente,
 
 $$
-e \in E_{\mathrm{comp}}^{(A,F)} \iff e = \operatorname{Comp}_{\tau}(e_1,\dots,e_k)
+e \in E_{\mathrm{comp}}^{(A,F)} \iff e = \mathrm{Comp}_{\tau}(e_1,\dots,e_k)
 $$
 
-con $k\ge 2$, cada $e_j\in E_{\mathrm{prim}}^{(A,F)}\cup E_{\mathrm{exo}}^{(A,F)}$, y donde $\operatorname{Comp}_{\tau}$ representa una composición con tipo explícito $\tau$.
+con $k\ge 2$, cada $e_j\in E_{\mathrm{prim}}^{(A,F)}\cup E_{\mathrm{exo}}^{(A,F)}$, y donde $\mathrm{Comp}_{\tau}$ representa una composición con tipo explícito $\tau$.
 
 ### 7.2. Prohibición de la mera coexistencia empírica
 
@@ -312,7 +312,7 @@ La simultaneidad fáctica no basta para producir un suceso compuesto. Dos aconte
 Todo suceso compuesto debe conservar posibilidad de lectura retrospectiva de sus componentes:
 
 $$
-\operatorname{Comp}_{\tau}(e_1,\dots,e_k) \longrightarrow \{e_1,\dots,e_k\}
+\mathrm{Comp}_{\tau}(e_1,\dots,e_k) \longrightarrow \{e_1,\dots,e_k\}
 $$
 
 ## 8. Admisibilidad suficiente del caso
@@ -354,7 +354,7 @@ Un caso puede entrar como suceso operable cuando alcanza 19 posiciones con base 
 Sea $C_i$ una célula canónica del agente $A$ en la fase $F$. Se define un subconjunto no vacío
 
 $$
-K_i^{(A,F)} \subseteq \operatorname{Pos}(C_i)
+K_i^{(A,F)} \subseteq \mathrm{Pos}(C_i)
 $$
 
 llamado **conjunto de parámetros críticos de entrada**.
@@ -418,7 +418,7 @@ El campo libre es legítimo si conserva estatuto subordinado. Su función es exp
 Se define **agente compuesto** toda arquitectura obtenida por composición tipada de dos o más agentes previamente legitimados:
 
 $$
-A^{\mathrm{comp}}=\operatorname{Comp}_{\tau}(A_1,\dots,A_k)
+A^{\mathrm{comp}}=\mathrm{Comp}_{\tau}(A_1,\dots,A_k)
 $$
 
 ### 11.2. Superagente
