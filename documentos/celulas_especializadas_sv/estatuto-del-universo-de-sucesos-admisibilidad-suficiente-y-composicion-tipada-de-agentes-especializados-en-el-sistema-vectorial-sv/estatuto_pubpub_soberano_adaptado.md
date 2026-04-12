@@ -526,13 +526,30 @@ El laboratorio demuestra que:
 
 ### 13.2. Regímenes comparativos
 
-Se definen cinco regímenes:
+Se definen cinco regímenes de evaluación, cada uno con una política de admisión distinta. El objetivo adversarial es mostrar que solo el Régimen SV-Correcto resuelve simultáneamente los cuatro casos canónicos de forma coherente con la doctrina del sistema.
 
-- **Régimen SV-Correcto**
-- **Régimen Rígido 25/25**
-- **Régimen Conteo Bruto**
-- **Régimen Permisivo Débil**
-- **Régimen No Tipado de Composición**
+**Régimen SV-Correcto.** Aplica la doble compuerta: $m(c) \ge T(n)$ y $K \subseteq \mathrm{dom}(c)$. Admite el caso solo si se cumplen ambas condiciones. El dictamen fuerte exige adicionalmente $N_0 \ge T(n)$ o $N_1 \ge T(n)$.
+
+**Régimen Rígido 25/25.** Exige captura exhaustiva: $\mathrm{dom}(c) = \mathrm{Pos}(C_i)$, es decir, $m(c) = n$. No admite ningún caso con posiciones sin informar. No distingue entre admisión y dictamen fuerte.
+
+**Régimen Conteo Bruto.** Aplica únicamente el umbral cuantitativo: $m(c) \ge T(n)$, sin compuerta de criticidad. Ignora si $K \subseteq \mathrm{dom}(c)$.
+
+**Régimen Permisivo Débil.** Admite cualquier caso con al menos una posición informada: $m(c) \ge 1$. No aplica umbral ni criticidad.
+
+**Régimen No Tipado de Composición.** Solo aplicable al Caso D. Admite la composición de sucesos por coexistencia empírica, sin exigir relación formal tipada entre componentes.
+
+La tabla siguiente muestra el resultado que produce cada régimen sobre los cuatro casos canónicos:
+
+| Caso | SV-Correcto | Rígido 25/25 | Conteo Bruto | Permisivo Débil | No Tipado |
+|------|-------------|--------------|--------------|-----------------|-----------|
+| A — cobertura insuficiente ($m(c) < T(n)$) | NO_ADMISIBLE ✓ | NO_ADMISIBLE ✓ | NO_ADMISIBLE ✓ | ADMISIBLE ✗ | NO_ADMISIBLE ✓ |
+| B — cobertura suficiente sin $K$ ($m(c) \ge T(n)$, $K \nsubseteq \mathrm{dom}(c)$) | NO_ADMISIBLE ✓ | NO_ADMISIBLE ✓ | ADMISIBLE ✗ | ADMISIBLE ✗ | ADMISIBLE ✗ |
+| C — admisión sin dictamen fuerte | ADMISIBLE + INDETERMINADO ✓ | NO_ADMISIBLE ✗ | ADMISIBLE + INDETERMINADO ✓ | ADMISIBLE + INDETERMINADO ✓ | — |
+| D — dictamen fuerte | ADMISIBLE + DICTAMEN FUERTE ✓ | ADMISIBLE + DICTAMEN FUERTE ✓ | ADMISIBLE + DICTAMEN FUERTE ✓ | ADMISIBLE + DICTAMEN FUERTE ✓ | composición ilegítima ✗ |
+
+✓ indica resultado correcto conforme a la doctrina del sistema. ✗ indica fallo.
+
+El Régimen SV-Correcto es el único que produce ✓ en todos los casos. El fallo estructural de los demás es siempre el mismo: el Conteo Bruto no detecta el Caso B (admite casos con cobertura numérica pero sin parámetros críticos), el Permisivo Débil falla en A y B, el Rígido 25/25 falla en C al tratar todo caso incompleto como inadmisible (impidiendo la operación legítima con admisibilidad suficiente), y el No Tipado falla en D al no exigir relación formal entre componentes.
 
 ### 13.3. Casos canónicos
 
