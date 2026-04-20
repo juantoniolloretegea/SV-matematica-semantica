@@ -168,7 +168,7 @@ $$
 \mathfrak{D}_\Gamma(q_1 q_2)(j) = q_1(\nu_{j+1})\,\frac{q_2(\nu_{j+1}) - q_2(\nu_j)}{\omega(\nu_j)} + \frac{q_1(\nu_{j+1}) - q_1(\nu_j)}{\omega(\nu_j)}\,q_2(\nu_j),
 $$
 
-que es la igualdad enunciada. $\blacksquare$
+que es la igualdad enunciada. **Q.E.D.**
 
 **Propiedad 5.2.3 (anulación sobre constantes).** Si $q(\nu) \equiv c$ para todo $\nu \in \Xi_{SV}$, entonces $\mathfrak{D}_\Gamma q \equiv 0$.
 
