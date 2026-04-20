@@ -1,7 +1,6 @@
 
 ---
 # Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV
-
 **© 2026. Todos los derechos reservados**.  
 
 **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 20/04/2026 | **Advertencia**: Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido. 
@@ -15,7 +14,6 @@
 This paper establishes the sovereign operational foundation required to formulate, within the Sistema Vectorial SV (SV), the electromagnetic phenomenon as a factual domain that does not rely on sovereign time, probability, statistics, or external coordinate systems. Building on the published algebraic corpus of the SV and on the exact closures proved in this paper, we extract, compact, align, and close seven operator families: event calculus with its canonical derivative and accumulation, factual flux over oriented boundaries, factual divergence in both balance form and positional trace form, factual rotor as oriented circulation and as antisymmetry of positional partial derivatives, factual surface and volume integrals with refinement invariance, the sovereign Gauss–SV boundary balance theorem, structural and positional Jacobians together with four trajectory transforms, an exact frontier criterion based on structural loss of invertibility and the exact reconfiguration operator associated with it. The three emergent identities of the unified mathematical corpus—the differential-geometric identity, the discrete Gauss–SV formula, and its associated factual complex integral—are derived and verified over the canonical polygonal activation path. A dedicated consistency walk through the SV(3,9) cell confirms the coherence of the full operator bundle. The resulting operational foundation is sovereign with respect to its sources, respects the constitutive prohibitions of the SV, and provides a closed platform apt to carry any downstream electromagnetic construction within the system without recourse to external auxiliary geometry.
 
 **Keywords:** Sistema Vectorial SV; factual flux; factual divergence; factual rotor; Gauss–SV boundary balance theorem; event calculus; factual Jacobian; trajectory transforms; operator sovereignty; electromagnetic domain.
-
 ---
 
 ## Resumen
