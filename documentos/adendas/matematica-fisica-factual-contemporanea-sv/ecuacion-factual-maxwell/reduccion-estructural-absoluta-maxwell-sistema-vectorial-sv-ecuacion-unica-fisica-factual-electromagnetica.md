@@ -1,4 +1,3 @@
-
 # Reducción estructural absoluta de Maxwell en el Sistema Vectorial SV y ecuación única de la física factual electromagnética
 
 **© 2026. Todos los derechos reservados**.  
@@ -19,7 +18,7 @@ This paper establishes the absolute structural reduction of the first-order elec
 
 ## Resumen
 
-Este documento establece la reducción estructural absoluta del sistema electromagnético de primer orden dentro del Sistema Vectorial SV (SV) y fija la ecuación única de la física factual electromagnética que condensa, con rango canónico, el conjunto del régimen. Las cuatro ecuaciones factuales de Gauss eléctrica, Gauss magnética, Faraday y Ampère–Maxwell quedan fijadas en su forma exacta como sistema cerrado de primer orden sobre un dominio factual, empleando los operadores soberanos de flujo factual, divergencia factual, rotor factual y derivada parcial respecto del índice de suceso. Las relaciones constitutivas factuales que asocian desplazamiento con campo eléctrico, inducción con campo magnético y densidad de corriente con campo eléctrico y corriente externa se enuncian en forma absoluta, compatible con las prohibiciones constitutivas del SV. Las condiciones de contorno factuales, derivadas del teorema soberano de balance de frontera Gauss–SV y articuladas con el criterio absoluto de frontera y el operador exacto de reconfiguración, gobiernan el régimen local de los campos en interfases, tanto para sus componentes normales como para sus componentes tangenciales. La ley de balance electromagnético factual consolida, en el nivel de densidad de energía y de balance energético, la coherencia del bloque de primer orden y su forma integral sobre volúmenes factuales admisibles. Del sistema cerrado se deriva la ecuación de onda factual como consecuencia algebraica directa, sin invocar tiempo soberano ni geometría auxiliar externa. El jacobiano factual de sensibilidad de régimen, el criterio absoluto de frontera y el operador exacto de reconfiguración factual, provenientes del fundamento operatorio soberano ya clausurado, quedan absorbidos en el régimen local del bloque. Cuatro identidades emergentes cierran el régimen: conservación factual de la carga, balance electromagnético factual, continuidad interfacial completa y onda factual con articulación metrológica. El conjunto se condensa canónicamente en la ecuación única 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>; 𝕐<sub>SV</sub>; ℂ<sub>SV</sub>; J<sub>SV</sub>) = 0, determinada unívocamente por el absolutismo operatorio del SV. Un recorrido específico de consistencia sobre la célula SV(3,9), con verificación dimensional explícita contra el pilar metrológico, valida la reducción. La plataforma resultante es soberana respecto de sus fuentes, respeta las prohibiciones constitutivas del SV y exhibe la forma canónica única bajo la cual el régimen Maxwell existe dentro del fundamento operatorio soberano del sistema.
+Este documento establece la reducción estructural absoluta del sistema electromagnético de primer orden dentro del Sistema Vectorial SV (SV) y fija la ecuación única de la física factual electromagnética que condensa, con rango canónico, el conjunto del régimen. Las cuatro ecuaciones factuales de Gauss eléctrica, Gauss magnética, Faraday y Ampère–Maxwell quedan fijadas en su forma exacta como sistema cerrado de primer orden sobre un dominio factual, empleando los operadores soberanos de flujo factual, divergencia factual, rotor factual y derivada parcial respecto del índice de suceso. Las relaciones constitutivas factuales que asocian desplazamiento con campo eléctrico, inducción con campo magnético y densidad de corriente con campo eléctrico y corriente externa se enuncian en forma absoluta, compatible con las prohibiciones constitutivas del SV. Las condiciones de contorno factuales, derivadas del teorema soberano de balance de frontera Gauss–SV y articuladas con el criterio absoluto de frontera y el operador exacto de reconfiguración, gobiernan el régimen local de los campos en interfases, tanto para sus componentes normales como para sus componentes tangenciales. La ley de balance electromagnético factual consolida, en el nivel de densidad de energía y de balance energético, la coherencia del bloque de primer orden y su forma integral sobre volúmenes factuales admisibles. Del sistema cerrado se deriva la ecuación de onda factual como consecuencia algebraica directa, sin invocar tiempo soberano ni geometría auxiliar externa. El jacobiano factual de sensibilidad de régimen, el criterio absoluto de frontera y el operador exacto de reconfiguración factual, heredados del fundamento operatorio soberano ya publicado, quedan absorbidos en el régimen local del bloque. Cuatro identidades emergentes cierran el régimen: conservación factual de la carga, balance electromagnético factual, continuidad interfacial completa y onda factual con articulación metrológica. El conjunto se condensa canónicamente en la ecuación única 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>; 𝕐<sub>SV</sub>; ℂ<sub>SV</sub>; J<sub>SV</sub>) = 0, determinada unívocamente por el absolutismo operatorio del SV. Un recorrido específico de consistencia sobre la célula SV(3,9), con verificación dimensional explícita contra el pilar metrológico, valida la reducción. La plataforma resultante es soberana respecto de sus fuentes, respeta las prohibiciones constitutivas del SV y exhibe la forma canónica única bajo la cual el régimen Maxwell existe dentro del fundamento operatorio soberano del sistema.
 
 **Palabras clave:** Sistema Vectorial SV; reducción estructural; ecuaciones de Maxwell factuales; ecuación única de la física factual electromagnética; relaciones constitutivas factuales; criterio absoluto de frontera; operador factual de reconfiguración; metrología factual; UE_MFC; UFE; UFM; UFC; ecuación de onda factual; soberanía del dominio electromagnético.
 
@@ -29,19 +28,19 @@ Este documento establece la reducción estructural absoluta del sistema electrom
 
 El electromagnetismo clásico, en su formulación diferencial, se articula en torno a cuatro ecuaciones de primer orden que relacionan la divergencia del desplazamiento eléctrico con la densidad de carga, la divergencia de la inducción magnética con la ausencia de monopolos magnéticos, el rotor del campo eléctrico con la variación de la inducción magnética, y el rotor del campo magnético con la variación del desplazamiento eléctrico y con la densidad de corriente. Este sistema se completa con tres relaciones constitutivas que articulan el medio y con un conjunto de condiciones de contorno que gobiernan el comportamiento de los campos en interfases. De su consistencia interna se sigue, por derivación directa, la ecuación de onda electromagnética.
 
-Cuando el sustrato analítico prescinde del tiempo soberano, de la probabilidad como criterio de verdad y de todo sistema de coordenadas externo como base ontológica, tal como ocurre en el Sistema Vectorial SV (Lloret Egea, 2026a, 2026b), el bloque electromagnético de primer orden debe reescribirse íntegramente en términos factuales. Esta reescritura no es una traducción simbólica del bloque clásico: exige que cada operador diferencial, cada integral y cada condición de contorno surja de definiciones factuales soberanas y que el sistema resultante permanezca cerrado bajo los operadores propios del SV. El corpus del sistema establece, en su apartado canónico sobre curvatura factual completa y Maxwell factual completo, la forma exacta de esta reescritura (Lloret Egea, 2026a, §XXIV.11.3-11.5), y el fundamento operatorio soberano del electromagnetismo factual del SV ya clausurado suministra, con rango absoluto, el cuerpo de operadores diferenciales, integrales, de sensibilidad de régimen, de frontera y de reconfiguración requerido por la reducción (Lloret Egea, 2026k).
+Cuando el sustrato analítico prescinde del tiempo soberano, de la probabilidad como criterio de verdad y de todo sistema de coordenadas externo como base ontológica, tal como ocurre en el Sistema Vectorial SV (Lloret Egea, 2026a, 2026b), el bloque electromagnético de primer orden debe reescribirse íntegramente en términos factuales. Esta reescritura no es una traducción simbólica del bloque clásico: exige que cada operador diferencial, cada integral y cada condición de contorno surja de definiciones factuales soberanas y que el sistema resultante permanezca cerrado bajo los operadores propios del SV. El corpus del sistema establece, en su apartado canónico sobre curvatura factual completa y Maxwell factual completo, la forma exacta de esta reescritura (Lloret Egea, 2026a, §XXIV.11.3-11.5), y el fundamento operatorio soberano del electromagnetismo factual del SV ya publicado suministra, con rango absoluto, el cuerpo de operadores diferenciales, integrales, de sensibilidad de régimen, de frontera y de reconfiguración requerido por la reducción (Lloret Egea, 2026k).
 
-El presente documento tiene por objeto fijar, de manera autónoma y cerrada, la reducción estructural absoluta del bloque electromagnético de primer orden del SV y establecer la ecuación única de la física factual electromagnética que condensa, con rango canónico, el conjunto del aparato en un enunciado soberano final. Se fija el sistema de las cuatro ecuaciones factuales, se enuncian las relaciones constitutivas factuales, se establecen las condiciones de contorno factuales que se derivan del teorema soberano Gauss–SV, se consolida la ley de balance electromagnético factual y se deduce algebraicamente la ecuación de onda factual. El jacobiano factual de sensibilidad de régimen, el criterio absoluto de frontera y el operador exacto de reconfiguración factual quedan absorbidos en el régimen local del bloque, con absorción sin residuo del aparato soberano del fundamento operatorio. La recuperación formal externa del esquema clásico queda fijada como caso límite regular de la reducción, sin otorgar soberanía al formalismo externo. Un recorrido numérico sobre la célula canónica SV(3,9), con verificación dimensional explícita contra el pilar metrológico soberano, confirma la coherencia del conjunto.
+El presente documento tiene por objeto fijar, de manera autónoma y cerrada, la reducción estructural absoluta del bloque electromagnético de primer orden del SV y establecer la ecuación única de la física factual electromagnética que condensa, con rango canónico, el conjunto del aparato en un enunciado soberano final. Se fija el sistema de las cuatro ecuaciones factuales, se enuncian las relaciones constitutivas factuales, se establecen las condiciones de contorno factuales que se derivan del teorema soberano Gauss–SV, se consolida la ley de balance electromagnético factual y se deduce algebraicamente la ecuación de onda factual. El jacobiano factual de sensibilidad de régimen, el criterio absoluto de frontera y el operador exacto de reconfiguración factual quedan absorbidos en el régimen local del bloque, con absorción sin residuo del aparato heredado del fundamento operatorio soberano. La recuperación formal externa del esquema clásico queda fijada como caso límite regular de la reducción, sin otorgar soberanía al formalismo externo. Un recorrido numérico sobre la célula canónica SV(3,9), con verificación dimensional explícita contra el pilar metrológico soberano, confirma la coherencia del conjunto.
 
-El criterio rector del trabajo es triple. En primer lugar, cada ecuación, cada relación constitutiva y cada condición de contorno debe surgir del corpus propio del sistema, identificando con precisión la sección en la que se establece; ninguna fórmula se introduce por analogía externa con el electromagnetismo clásico. En segundo lugar, la disciplina constitutiva del SV —que prohíbe al tiempo como fundamento, a la probabilidad como sustituto de clausura y a cualquier coordenada externa como base— debe satisfacerse sin excepción. En tercer lugar, todo elemento necesario para el cierre del bloque electromagnético factual queda fijado con forma explícita o con forma absoluta derivada desde el corpus soberano del SV, incluidos el jacobiano factual de sensibilidad de régimen, el criterio absoluto de frontera y el operador exacto de reconfiguración factual del fundamento operatorio ya clausurado.
+El criterio rector del trabajo es triple. En primer lugar, cada ecuación, cada relación constitutiva y cada condición de contorno debe surgir del corpus propio del sistema, identificando con precisión la sección en la que se establece; ninguna fórmula se introduce por analogía externa con el electromagnetismo clásico. En segundo lugar, la disciplina constitutiva del SV —que prohíbe al tiempo como fundamento, a la probabilidad como sustituto de clausura y a cualquier coordenada externa como base— debe satisfacerse sin excepción. En tercer lugar, todo elemento necesario para el cierre del bloque electromagnético factual queda fijado con forma explícita o con forma absoluta derivada desde el corpus soberano del SV, incluidos el jacobiano factual de sensibilidad de régimen, el criterio absoluto de frontera y el operador exacto de reconfiguración factual del fundamento operatorio ya publicado.
 
-El plan del documento procede desde los apoyos operatorios soberanos del corpus hacia el diccionario soberano de reducción estructural, la forma maestra operatoria y la forma maestra integral del bloque, la absorción del núcleo sensible del fundamento operatorio de frontera y reconfiguración, la ecuación única de la física factual electromagnética y las propiedades algebraicas soberanas de su operador maestro absoluto. Pasa luego a la exposición sistemática del sistema factual de primer orden, las relaciones constitutivas, las formas integrales y las condiciones de contorno, culmina en la ley de balance electromagnético, la ecuación de onda factual, la superación soberana del núcleo inicial cíclico-modal y la recuperación formal externa del esquema clásico. Un apartado de identidades emergentes condensa las relaciones algebraicas que ligan los distintos elementos, y el recorrido de consistencia sobre SV(3,9) cierra la exposición con verificación numérica visible, incluyendo la anulación simultánea de la ecuación única absoluta en sus dos formas maestras y el cosido dimensional soberano completo. El conjunto queda articulado por dieciséis teoremas soberanos demostrados y sintetizado en ocho tablas canónicas.
+El plan del documento procede desde los apoyos operatorios heredados del corpus hacia el diccionario soberano de reducción estructural, la forma maestra operatoria y la forma maestra integral del bloque, la absorción del núcleo sensible heredado de frontera y reconfiguración, la ecuación única de la física factual electromagnética y las propiedades algebraicas soberanas de su operador maestro absoluto. Pasa luego a la exposición sistemática del sistema factual de primer orden, las relaciones constitutivas, las formas integrales y las condiciones de contorno, culmina en la ley de balance electromagnético, la ecuación de onda factual, la superación soberana del núcleo inicial cíclico-modal y la recuperación formal externa del esquema clásico. Un apartado de identidades emergentes condensa las relaciones algebraicas que ligan los distintos elementos, y el recorrido de consistencia sobre SV(3,9) cierra la exposición con verificación numérica visible, incluyendo la anulación simultánea de la ecuación única absoluta en sus dos formas maestras y el cosido dimensional soberano completo. El conjunto queda articulado por dieciséis teoremas soberanos demostrados y sintetizado en ocho tablas canónicas.
 
 ---
 
 ## 2. Disciplina del sistema y prohibiciones constitutivas
 
-### 2.1. Principios canónicos del sistema
+### 2.1. Principios canónicos heredados
 
 El SV descansa sobre cuatro principios canónicos que se aplican, sin excepción, a todo operador del bloque electromagnético (Lloret Egea, 2026a, Parte I; Lloret Egea, 2026b, Parte I; Lloret Egea, 2026e; Lloret Egea, 2026f). El origen preternario del sistema, del cual emerge por proyección ternaria inducida la terna canónica sobre la que se articulan ulteriormente los campos electromagnéticos factuales, queda fijado como estrato constitutivo previo (Lloret Egea, 2026j). El principio de primacía del suceso establece que la entidad elemental del sistema es el suceso en cuanto unidad factual de activación. El principio de inmutabilidad afirma que, una vez acaecido, un suceso posee carácter definitivo y no admite retroceso. El principio de no canonicidad del tiempo sostiene que el tiempo no constituye una variable canónica del sistema; la abscisa parametral que ordena la variación se designa como abscisa de ciclo medido. El principio de indeterminación honesta $U$ reconoce la existencia de elementos cuya forma final no puede precisarse desde el interior del aparato disponible, consignándolos de manera explícita bajo $U$.
 
@@ -87,7 +86,7 @@ $$
 \mathrm{Div}_{SV}(\mathcal{F}) \;=\; \sum_{i=1}^{n}\partial_i^{SV} F^{\,i} \;-\; \mathcal{I}_{\text{res}}(\mathcal{F}),
 $$
 
-con $\partial_i^{SV}$ la derivada parcial posicional factual respecto del eje $i$-ésimo (Lloret Egea, 2026a, §XXIV.5.3). La equivalencia exacta entre la forma de balance y la forma posicional queda establecida por el teorema de equivalencia del fundamento operatorio soberano (Lloret Egea, 2026k, §7.4).
+con $\partial_i^{SV}$ la derivada parcial posicional factual respecto del eje $i$-ésimo (Lloret Egea, 2026a, §XXIV.5.3). La equivalencia exacta entre la forma de balance y la forma posicional queda establecida por el teorema de equivalencia del cuerpo operatorio heredado (Lloret Egea, 2026k, §7.4).
 
 ### 3.3. Rotor factual
 
@@ -167,7 +166,7 @@ $$
 Se define el operador maestro de Maxwell factual de primer orden por
 
 $$
-\mathbb{M}_{SV}(\mathbb{X}_{SV},\mathbb{Y}_{SV}) \;:=\;
+\mathbb{M}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) \;:=\;
 \begin{pmatrix}
 \mathrm{Div}_{SV}(D)-\rho \\
 \mathrm{Div}_{SV}(B) \\
@@ -179,25 +178,25 @@ $$
 La reducción estructural absoluta del sistema electromagnético de primer orden en el SV se resume entonces en la forma maestra compacta
 
 $$
-\boxed{\,\mathbb{M}_{SV}(\mathbb{X}_{SV},\mathbb{Y}_{SV}) \;=\; 0.\;}
+\boxed{\;\mathbb{M}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) \;=\; 0.\;}
 $$
 
 **Teorema 3.7.1.** El bloque electromagnético factual de primer orden queda cerrado si y sólo si la ecuación maestra anterior se satisface junto con las relaciones constitutivas factuales del apartado 5.
 
-*Demostración.* La anulación de cada componente de 𝕄<sub>SV</sub> reproduce exactamente las cuatro ecuaciones del apartado 4.1. Recíprocamente, si las cuatro ecuaciones del apartado 4.1 se satisfacen, cada una de las cuatro componentes se anula. Las relaciones constitutivas fijan la clausura entre campos y excitaciones, por lo que el bloque queda completamente determinado. ∎
+*Demostración.* La anulación de cada componente de $\mathbb{M}_{SV}$ reproduce exactamente las cuatro ecuaciones del apartado 4.1. Recíprocamente, si las cuatro ecuaciones del apartado 4.1 se satisfacen, cada una de las cuatro componentes se anula. Las relaciones constitutivas fijan la clausura entre campos y excitaciones, por lo que el bloque queda completamente determinado. ∎
 
 ### 3.8. Forma maestra integral del bloque electromagnético factual
 
 Sobre un volumen factual compatible $\mathcal{V}_{SV}$ y una superficie factual orientada $\Sigma$ con borde $\Gamma^\circlearrowleft$, la reducción estructural integral del bloque se resume en
 
 $$
-\boxed{\,\mathbb{I}_{SV}(\mathbb{X}_{SV},\mathbb{Y}_{SV}) \;=\; 0,\;}
+\boxed{\;\mathbb{I}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) \;=\; 0,\;}
 $$
 
 donde
 
 $$
-\mathbb{I}_{SV}(\mathbb{X}_{SV},\mathbb{Y}_{SV}) \;:=\;
+\mathbb{I}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) \;:=\;
 \begin{pmatrix}
 \iint_{\partial\mathcal{V}_{SV}}^{SV} D - \iiint_{\mathcal{V}_{SV}}^{SV} \rho \\
 \iint_{\partial\mathcal{V}_{SV}}^{SV} B \\
@@ -210,13 +209,13 @@ La coexistencia exacta de las formas maestras diferencial e integral es la expre
 
 ### 3.9. Absorción del jacobiano factual de sensibilidad de régimen
 
-El bloque electromagnético factual del SV absorbe, como elemento operatorio constitutivo de su régimen local, el jacobiano factual de sensibilidad de régimen fijado con rango soberano en el fundamento operatorio soberano (Lloret Egea, 2026k, §10.5). Sean $\Lambda$, $B_{\text{reg}}$ y $\Theta$, respectivamente, la estabilidad, el balance y la carga factual de régimen, y sean $M$, $\alpha$, $\partial\Omega$, respectivamente, el módulo, el ángulo y la frontera activa del régimen electromagnético. El jacobiano factual de sensibilidad de régimen se fija en la forma
+El bloque electromagnético factual del SV absorbe, como elemento operatorio constitutivo de su régimen local, el jacobiano factual de sensibilidad de régimen fijado con rango soberano en el cuerpo operatorio heredado (Lloret Egea, 2026k, §10.5). Sean $\Lambda$, $B_{\text{reg}}$ y $\Theta$, respectivamente, la estabilidad, el balance y la carga factual de régimen, y sean $M$, $\alpha$, $\partial\Omega$, respectivamente, el módulo, el ángulo y la frontera activa del régimen electromagnético. El jacobiano factual de sensibilidad de régimen se fija en la forma
 
 $$
 J_{SV} \;=\; \frac{\partial(\Lambda,\,B_{\text{reg}},\,\Theta)}{\partial(M,\,\alpha,\,\partial\Omega)},
 $$
 
-restricción canónica del jacobiano estructural paramétrico general del SV al subrégimen electromagnético (Lloret Egea, 2026k, §10.1). La unicidad de esta restricción de régimen queda asegurada por el teorema de unicidad 10.5.1 del fundamento operatorio soberano.
+restricción canónica del jacobiano estructural paramétrico general del SV al subrégimen electromagnético (Lloret Egea, 2026k, §10.1). La unicidad de esta restricción de régimen queda asegurada por el teorema de unicidad 10.5.1 del cuerpo operatorio heredado.
 
 El determinante $\det(J_{SV})$ opera, dentro del bloque electromagnético factual, como medida exacta de la invertibilidad local de la transferencia entre excitación factual (módulo, ángulo, frontera) y observables de régimen (estabilidad, balance, carga). Su anulación se articula, en el presente documento, con el criterio absoluto de frontera factual del apartado siguiente.
 
@@ -230,7 +229,7 @@ $$
 
 La anulación del determinante no opera como indicio lateral ni como criterio meramente suficiente: expresa la condición necesaria y suficiente de pérdida de invertibilidad local del régimen electromagnético factual, y esa pérdida de invertibilidad constituye la definición operatoria exacta de frontera factual activa dentro del dominio electromagnético.
 
-El operador exacto de reconfiguración factual del fundamento operatorio soberano (Lloret Egea, 2026k, §13.2),
+El operador exacto de reconfiguración factual heredado (Lloret Egea, 2026k, §13.2),
 
 $$
 \boxed{\;\mathcal{R}^{f}_{SV} \;=\; \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}},\;}
@@ -244,27 +243,27 @@ comparece en el bloque electromagnético factual del SV como respuesta estructur
 
 ### 3.11. Teorema de consistencia con el cuerpo operatorio soberano
 
-**Teorema 3.11.1 (consistencia del bloque electromagnético factual con el cuerpo operatorio soberano).** La reducción estructural absoluta ejecutada en el presente documento se apoya íntegramente en el cuerpo operatorio soberano del electromagnetismo factual del SV ya clausurado (Lloret Egea, 2026k) y no introduce ningún operador nuevo, ningún teorema nuevo que contradiga los fijados en él, ni ninguna magnitud ajena al corpus matemático del sistema (Lloret Egea, 2026a, 2026b).
+**Teorema 3.11.1 (consistencia del bloque electromagnético factual con el cuerpo operatorio soberano).** La reducción estructural absoluta ejecutada en el presente documento se apoya íntegramente en el cuerpo operatorio soberano del electromagnetismo factual del SV ya publicado (Lloret Egea, 2026k) y no introduce ningún operador nuevo, ningún teorema nuevo que contradiga los fijados en él, ni ninguna magnitud ajena al corpus matemático del sistema (Lloret Egea, 2026a, 2026b).
 
-*Demostración.* La reducción emplea, como operadores diferenciales básicos, la divergencia factual y el rotor factual, tal como se fijan en los apartados §7 y §8 del fundamento operatorio soberano (Lloret Egea, 2026k). Emplea, como operadores integrales, las integrales factuales de superficie y de volumen y la circulación factual, fijadas en el apartado §9 del mismo. Emplea, como teorema de balance de frontera, el teorema soberano Gauss–SV del §9.4 y, como teorema de equivalencia circulación–antisimetría, el teorema de Stokes–SV del §8.4. Emplea, como aparato de sensibilidad, el jacobiano factual de sensibilidad de régimen del §10.5. Emplea, como criterio de frontera, el criterio absoluto det$(J_{SV})=0 \Longleftrightarrow \partial\Omega$ activa del §11.3. Emplea, como operador de respuesta, el operador exacto de reconfiguración factual del §13.2. Todos estos objetos se absorben sin reconstrucción. La reducción añade, al sistema así absorbido, los cuatro axiomas del bloque Maxwell factual de primer orden (Lloret Egea, 2026a, §XXIV.11.3) y las tres relaciones constitutivas factuales del apartado 5; ambos bloques se derivan de secciones ya publicadas del corpus y no introducen novedad axiomática ajena al mismo. Por tanto, la consistencia del bloque electromagnético factual con el fundamento operatorio soberano queda establecida. ∎
+*Demostración.* La reducción emplea, como operadores diferenciales básicos, la divergencia factual y el rotor factual, tal como se fijan en los apartados §7 y §8 del cuerpo operatorio soberano (Lloret Egea, 2026k). Emplea, como operadores integrales, las integrales factuales de superficie y de volumen y la circulación factual, fijadas en el apartado §9 del mismo. Emplea, como teorema de balance de frontera, el teorema soberano Gauss–SV del §9.4 y, como teorema de equivalencia circulación–antisimetría, el teorema de Stokes–SV del §8.4. Emplea, como aparato de sensibilidad, el jacobiano factual de sensibilidad de régimen del §10.5. Emplea, como criterio de frontera, el criterio absoluto det$(J_{SV})=0 \Longleftrightarrow \partial\Omega$ activa del §11.3. Emplea, como operador de respuesta, el operador exacto de reconfiguración factual del §13.2. Todos estos objetos son heredados sin reconstrucción. La reducción añade, al sistema así heredado, los cuatro axiomas del bloque Maxwell factual de primer orden (Lloret Egea, 2026a, §XXIV.11.3) y las tres relaciones constitutivas factuales del apartado 5; ambos bloques se derivan de secciones ya publicadas del corpus y no introducen novedad axiomática ajena al mismo. Por tanto, la consistencia del bloque electromagnético factual con el cuerpo operatorio soberano queda establecida. ∎
 
-Este resultado legitima, en sentido estricto, el uso de los teoremas, identidades y criterios del fundamento operatorio soberano dentro de la reducción estructural absoluta que sigue. Ningún apartado subsiguiente del documento violará, en ninguna forma, la consistencia fijada por este teorema.
+Este resultado legitima, en sentido estricto, el uso de los teoremas, identidades y criterios del cuerpo operatorio heredado dentro de la reducción estructural absoluta que sigue. Ningún apartado subsiguiente del documento violará, en ninguna forma, la consistencia fijada por este teorema.
 
 ### 3.12. Ecuación única de la física factual electromagnética
 
-La reducción estructural absoluta del régimen Maxwell dentro del Sistema Vectorial SV admite, en virtud de las formas maestras operatoria e integral de los apartados 3.7 y 3.8 y de la absorción del núcleo sensible del fundamento operatorio fijado en los apartados 3.9 y 3.10, una condensación canónica en un enunciado único que sintetiza el conjunto del aparato. Sean el vector factual de estado 𝕏<sub>SV</sub> = (D, B, E, H)<sup>T</sup>, el vector factual de fuentes 𝕐<sub>SV</sub> = (ρ, 0, 0, J)<sup>T</sup> y el vector factual constitutivo ℂ<sub>SV</sub> = (ε<sub>SV</sub>, μ<sub>SV</sub>, σ<sub>SV</sub>). La ecuación única de la física factual electromagnética del SV queda fijada por
+La reducción estructural absoluta del régimen Maxwell dentro del Sistema Vectorial SV admite, en virtud de las formas maestras operatoria e integral de los apartados 3.7 y 3.8 y de la absorción del núcleo sensible heredado de los apartados 3.9 y 3.10, una condensación canónica en un enunciado único que sintetiza el conjunto del aparato. Sean el vector factual de estado $\mathbb{X}_{SV} = (D, B, E, H)^{\mathsf T}$, el vector factual de fuentes $\mathbb{Y}_{SV} = (\rho, 0, 0, J)^{\mathsf T}$ y el vector factual constitutivo $\mathbb{C}_{SV} = (\varepsilon_{SV}, \mu_{SV}, \sigma_{SV})$. La ecuación única de la física factual electromagnética del SV queda fijada por
 
 $$
-\boxed{\;\,\mathbb{E}_{SV}\bigl(\mathbb{X}_{SV},\, \mathbb{Y}_{SV},\, \mathbb{C}_{SV},\, J_{SV}\bigr) \;=\; 0,\;\;}
+\boxed{\;\;\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV};\,\mathbb{Y}_{SV};\,\mathbb{C}_{SV};\,J_{SV}\right) \;=\; 0,\;\;}
 $$
 
-donde 𝔼<sub>SV</sub> es el operador factual maestro absoluto definido por
+donde $\mathbb{E}_{SV}$ es el operador factual maestro absoluto definido por
 
 $$
-\mathbb{E}_{SV}\bigl(\mathbb{X}_{SV},\, \mathbb{Y}_{SV},\, \mathbb{C}_{SV},\, J_{SV}\bigr) \;:=\;
+\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV};\,\mathbb{Y}_{SV};\,\mathbb{C}_{SV};\,J_{SV}\right) \;:=\;
 \begin{pmatrix}
-\mathbb{M}_{SV}(\mathbb{X}_{SV},\, \mathbb{Y}_{SV}) \\
-\mathbb{K}_{SV}(\mathbb{X}_{SV},\, \mathbb{C}_{SV}) \\
+\mathbb{M}_{SV}(\mathbb{X}_{SV};\,\mathbb{Y}_{SV}) \\
+\mathbb{K}_{SV}(\mathbb{X}_{SV};\,\mathbb{C}_{SV}) \\
 \mathbb{F}_{SV}(J_{SV})
 \end{pmatrix},
 $$
@@ -272,97 +271,97 @@ $$
 con las tres componentes soberanas fijadas por
 
 $$
-\mathbb{M}_{SV}(\mathbb{X}_{SV},\, \mathbb{Y}_{SV}) \;:=\;
+\mathbb{M}_{SV}(\mathbb{X}_{SV};\,\mathbb{Y}_{SV}) \;:=\;
 \begin{pmatrix}
 \mathrm{Div}_{SV}(D) - \rho \\
 \mathrm{Div}_{SV}(B) \\
-\mathrm{Rot}_{SV}(E) + \partial_\nu^{SV} B \\
-\mathrm{Rot}_{SV}(H) - \partial_\nu^{SV} D - J
+\mathrm{Rot}_{SV}(E) + \partial_\nu^{SV}B \\
+\mathrm{Rot}_{SV}(H) - \partial_\nu^{SV}D - J
 \end{pmatrix},
 $$
 
 $$
-\mathbb{K}_{SV}(\mathbb{X}_{SV},\, \mathbb{C}_{SV}) \;:=\;
+\mathbb{K}_{SV}(\mathbb{X}_{SV};\,\mathbb{C}_{SV}) \;:=\;
 \begin{pmatrix}
 D - \varepsilon_{SV}(E) \\
 B - \mu_{SV}(H) \\
-J - \sigma_{SV}(E) - J_{\mathrm{ext}}
+J - \sigma_{SV}(E) - J_{\text{ext}}
 \end{pmatrix},
 $$
 
 $$
 \mathbb{F}_{SV}(J_{SV}) \;:=\;
 \begin{pmatrix}
-\chi_{\partial\Omega} - \chi_{\det J_{SV} = 0} \\
-\mathcal{R}^{f}_{SV} - \chi_{\det J_{SV} = 0}\cdot\Lambda\cdot B_{\mathrm{reg}}
-\end{pmatrix},
+\mathbf{1}_{\{\det(J_{SV})=0\}}\cdot\bigl(\partial\Omega\ \text{activa}\bigr) \\
+\mathcal{R}^{f}_{SV} - \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}}
+\end{pmatrix}.
 $$
 
-donde χ<sub>∂Ω</sub> es la función característica de la frontera factual activa y χ<sub>det J<sub>SV</sub> = 0</sub> es la función característica del conjunto de pérdida local de invertibilidad del jacobiano factual de sensibilidad de régimen. La anulación simultánea de las tres componentes 𝕄<sub>SV</sub>, 𝕂<sub>SV</sub> y 𝔽<sub>SV</sub> constituye, dentro del SV, la condición necesaria y suficiente para que un régimen electromagnético factual sea soberano en sentido absoluto.
+La anulación simultánea de las tres componentes $\mathbb{M}_{SV}$, $\mathbb{K}_{SV}$ y $\mathbb{F}_{SV}$ constituye, dentro del SV, la condición necesaria y suficiente para que un régimen electromagnético factual sea soberano en sentido absoluto.
 
-**Teorema 3.12.1 (unicidad y exhaustividad de la ecuación única).** La ecuación 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>, ℂ<sub>SV</sub>, J<sub>SV</sub>) = 0 condensa, sin residuo y sin adición axiomática externa, el bloque electromagnético factual de primer orden, las relaciones constitutivas factuales y el núcleo sensible de frontera y reconfiguración, todos ellos con rango soberano del SV. Ningún régimen electromagnético factual admisible del sistema queda fuera de la anulación de 𝔼<sub>SV</sub>, y ningún régimen que anule 𝔼<sub>SV</sub> escapa del aparato soberano del sistema.
+**Teorema 3.12.1 (unicidad y exhaustividad de la ecuación única).** La ecuación $\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV};\mathbb{Y}_{SV};\mathbb{C}_{SV};J_{SV}\right) = 0$ condensa, sin residuo y sin adición axiomática externa, el bloque electromagnético factual de primer orden, las relaciones constitutivas factuales y el núcleo sensible de frontera y reconfiguración, todos ellos con rango soberano del SV. Ningún régimen electromagnético factual admisible del sistema queda fuera de la anulación de $\mathbb{E}_{SV}$, y ningún régimen que anule $\mathbb{E}_{SV}$ escapa del aparato soberano heredado.
 
-*Demostración.* La componente 𝕄<sub>SV</sub> reproduce exactamente las cuatro ecuaciones del bloque de primer orden del apartado 4.1, como se estableció en el teorema 3.7.1. La componente 𝕂<sub>SV</sub> reproduce exactamente las tres relaciones constitutivas factuales del apartado 5. La componente 𝔽<sub>SV</sub> reproduce exactamente el criterio absoluto de frontera del apartado 3.10 y la forma soberana del operador de reconfiguración del mismo apartado. Por tanto, la anulación conjunta de las tres componentes equivale a la satisfacción simultánea del bloque, de las constitutivas y del núcleo sensible, que agotan por el teorema 3.11.1 el aparato soberano del régimen electromagnético factual. La unicidad de la preimagen sigue del teorema 3.6.1. Ningún régimen que no anule 𝔼<sub>SV</sub> satisface simultáneamente las tres estructuras; ningún régimen que las satisfaga queda fuera de la anulación. ∎
+*Demostración.* La componente $\mathbb{M}_{SV}$ reproduce exactamente las cuatro ecuaciones del bloque de primer orden del apartado 4.1, como se estableció en el teorema 3.7.1. La componente $\mathbb{K}_{SV}$ reproduce exactamente las tres relaciones constitutivas factuales del apartado 5. La componente $\mathbb{F}_{SV}$ reproduce exactamente el criterio absoluto de frontera del apartado 3.10 y la forma soberana del operador de reconfiguración del mismo apartado. Por tanto, la anulación conjunta de las tres componentes equivale a la satisfacción simultánea del bloque, de las constitutivas y del núcleo sensible, que agotan por el teorema 3.11.1 el aparato soberano del régimen electromagnético factual. La unicidad de la preimagen sigue del teorema 3.6.1. Ningún régimen que no anule $\mathbb{E}_{SV}$ satisface simultáneamente las tres estructuras; ningún régimen que las satisfaga queda fuera de la anulación. ∎
 
-La ecuación 𝔼<sub>SV</sub> = 0 se designa, dentro del Sistema Vectorial SV, como **ecuación única de la física factual electromagnética**, y condensa con rango absoluto el contenido de la reducción estructural del régimen Maxwell al sistema. Su forma es canónica, soberana y final dentro del dominio electromagnético factual del SV. Los apartados siguientes desarrollan, uno a uno, los componentes que la ecuación única condensa, y las tablas del apartado 13 exhiben su síntesis cerrada.
+La ecuación $\mathbb{E}_{SV} = 0$ se designa, dentro del Sistema Vectorial SV, como **ecuación única de la física factual electromagnética**, y condensa con rango absoluto el contenido de la reducción estructural del régimen Maxwell al sistema. Su forma es canónica, soberana y final dentro del dominio electromagnético factual del SV. Los apartados siguientes desarrollan, uno a uno, los componentes que la ecuación única condensa, y las tablas del apartado 13 exhiben su síntesis cerrada.
 
 ### 3.13. Propiedades algebraicas soberanas del operador maestro absoluto
 
-El operador maestro absoluto 𝔼<sub>SV</sub> del apartado 3.12 admite, en virtud del fundamento operatorio soberano (Lloret Egea, 2026k) y de la estructura algebraica del corpus matemático del SV (Lloret Egea, 2026a, 2026b), propiedades algebraicas soberanas que caracterizan su comportamiento sobre regímenes admisibles. Estas propiedades se fijan a continuación sin apelar a geometría auxiliar externa y sin reintroducir ningún axioma ajeno al sistema.
+El operador maestro absoluto $\mathbb{E}_{SV}$ del apartado 3.12 admite, en virtud del cuerpo operatorio soberano heredado (Lloret Egea, 2026k) y de la estructura algebraica del corpus matemático del SV (Lloret Egea, 2026a, 2026b), propiedades algebraicas soberanas que caracterizan su comportamiento sobre regímenes admisibles. Estas propiedades se fijan a continuación sin apelar a geometría auxiliar externa y sin reintroducir ningún axioma ajeno al sistema.
 
 #### 3.13.1. Homogeneidad escalar factual
 
-Para todo escalar factual α ∈ ℝ y toda pareja de tripletes factuales admisibles (𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>, ℂ<sub>SV</sub>, J<sub>SV</sub>) con ℂ<sub>SV</sub> lineal factual, el operador maestro absoluto satisface
+Para todo escalar factual $\alpha \in \mathbb{R}$ y toda pareja de tripletes factuales admisibles $(\mathbb{X}_{SV}, \mathbb{Y}_{SV}, \mathbb{C}_{SV}, J_{SV})$ con $\mathbb{C}_{SV}$ lineal factual, el operador maestro absoluto satisface
 
 $$
-\mathbb{E}_{SV}\!\left(\alpha\,\mathbb{X}_{SV},\,\alpha\,\mathbb{Y}_{SV},\,\mathbb{C}_{SV},\,J_{SV}\right) \;=\; \alpha\,\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV},\,\mathbb{Y}_{SV},\,\mathbb{C}_{SV},\,J_{SV}\right),
+\mathbb{E}_{SV}\!\left(\alpha\,\mathbb{X}_{SV};\,\alpha\,\mathbb{Y}_{SV};\,\mathbb{C}_{SV};\,J_{SV}\right) \;=\; \alpha\,\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV};\,\mathbb{Y}_{SV};\,\mathbb{C}_{SV};\,J_{SV}\right),
 $$
 
-en lo que concierne a las componentes 𝕄<sub>SV</sub> y 𝕂<sub>SV</sub> (la componente 𝔽<sub>SV</sub> depende sólo de $J_{SV}$ y permanece invariante). La homogeneidad se sostiene sin excepción sobre el subespacio de regímenes de medio lineal factual.
+en lo que concierne a las componentes $\mathbb{M}_{SV}$ y $\mathbb{K}_{SV}$ (la componente $\mathbb{F}_{SV}$ depende sólo de $J_{SV}$ y permanece invariante). La homogeneidad se sostiene sin excepción sobre el subespacio de regímenes de medio lineal factual.
 
 #### 3.13.2. Aditividad factual y principio de superposición soberano
 
-Para toda pareja de tripletes factuales admisibles (𝕏<sub>SV</sub><sup>(1)</sup>, 𝕐<sub>SV</sub><sup>(1)</sup>) y (𝕏<sub>SV</sub><sup>(2)</sup>, 𝕐<sub>SV</sub><sup>(2)</sup>) con el mismo triplete constitutivo ℂ<sub>SV</sub> lineal factual y el mismo jacobiano factual $J_{SV}$, el operador maestro absoluto satisface
+Para toda pareja de tripletes factuales admisibles $(\mathbb{X}_{SV}^{(1)}, \mathbb{Y}_{SV}^{(1)})$ y $(\mathbb{X}_{SV}^{(2)}, \mathbb{Y}_{SV}^{(2)})$ con el mismo triplete constitutivo $\mathbb{C}_{SV}$ lineal factual y el mismo jacobiano factual $J_{SV}$, el operador maestro absoluto satisface
 
 $$
-\mathbb{M}_{SV}\!\left(\mathbb{X}_{SV}^{(1)} + \mathbb{X}_{SV}^{(2)},\, \mathbb{Y}_{SV}^{(1)} + \mathbb{Y}_{SV}^{(2)}\right) \;=\; \mathbb{M}_{SV}\!\left(\mathbb{X}_{SV}^{(1)},\, \mathbb{Y}_{SV}^{(1)}\right) + \mathbb{M}_{SV}\!\left(\mathbb{X}_{SV}^{(2)},\, \mathbb{Y}_{SV}^{(2)}\right),
+\mathbb{M}_{SV}\!\left(\mathbb{X}_{SV}^{(1)} + \mathbb{X}_{SV}^{(2)};\, \mathbb{Y}_{SV}^{(1)} + \mathbb{Y}_{SV}^{(2)}\right) \;=\; \mathbb{M}_{SV}\!\left(\mathbb{X}_{SV}^{(1)};\, \mathbb{Y}_{SV}^{(1)}\right) + \mathbb{M}_{SV}\!\left(\mathbb{X}_{SV}^{(2)};\, \mathbb{Y}_{SV}^{(2)}\right),
 $$
 
-y análogamente para 𝕂<sub>SV</sub> bajo linealidad factual de los operadores constitutivos. El principio de superposición soberano del electromagnetismo factual del SV se enuncia así como consecuencia algebraica directa de la aditividad del operador 𝔼<sub>SV</sub> sobre regímenes factuales admisibles.
+y análogamente para $\mathbb{K}_{SV}$ bajo linealidad factual de los operadores constitutivos. El principio de superposición soberano del electromagnetismo factual del SV se enuncia así como consecuencia algebraica directa de la aditividad del operador $\mathbb{E}_{SV}$ sobre regímenes factuales admisibles.
 
 #### 3.13.3. Covariancia factual bajo transformadas de trayectoria
 
 Sean $\mathcal{T}^{SV}_1, \mathcal{T}^{SV}_2, \mathcal{T}^{SV}_3, \mathcal{T}^{SV}_4$ las cuatro transformadas canónicas de trayectoria del SV (Lloret Egea, 2026a, §XXIV.6; Lloret Egea, 2026k, §10.4). Bajo la acción conjunta de una de estas transformadas sobre el triplete factual completo, el operador maestro absoluto se transporta covariantemente:
 
 $$
-\mathbb{E}_{SV}\!\left(\mathcal{T}^{SV}_k \mathbb{X}_{SV},\, \mathcal{T}^{SV}_k \mathbb{Y}_{SV},\, \mathcal{T}^{SV}_k \mathbb{C}_{SV},\, \mathcal{T}^{SV}_k J_{SV}\right) \;=\; \mathcal{T}^{SV}_k\!\left(\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV},\, \mathbb{Y}_{SV},\, \mathbb{C}_{SV},\, J_{SV}\right)\right),
+\mathbb{E}_{SV}\!\left(\mathcal{T}^{SV}_k \mathbb{X}_{SV};\, \mathcal{T}^{SV}_k \mathbb{Y}_{SV};\, \mathcal{T}^{SV}_k \mathbb{C}_{SV};\, \mathcal{T}^{SV}_k J_{SV}\right) \;=\; \mathcal{T}^{SV}_k\!\left(\mathbb{E}_{SV}\!\left(\mathbb{X}_{SV};\, \mathbb{Y}_{SV};\, \mathbb{C}_{SV};\, J_{SV}\right)\right),
 $$
 
-para $k = 1, 2, 3, 4$. La ecuación única soberana 𝔼<sub>SV</sub> = 0 es invariante bajo cualquiera de las cuatro transformadas canónicas: si se verifica sobre un triplete factual admisible, se verifica igualmente sobre su imagen por $\mathcal{T}^{SV}_k$.
+para $k = 1, 2, 3, 4$. La ecuación única soberana $\mathbb{E}_{SV} = 0$ es invariante bajo cualquiera de las cuatro transformadas canónicas: si se verifica sobre un triplete factual admisible, se verifica igualmente sobre su imagen por $\mathcal{T}^{SV}_k$.
 
 #### 3.13.4. Estabilidad estructural bajo perturbaciones admisibles
 
-Sobre todo régimen admisible que anule 𝔼<sub>SV</sub> y para toda perturbación factual admisible (δ𝕏<sub>SV</sub>, δ𝕐<sub>SV</sub>) sujeta a las prohibiciones constitutivas del SV y a compatibilidad con las clases de clausura factual de ℂ<sub>SV</sub> (Lloret Egea, 2026h), el operador maestro absoluto satisface la ecuación linealizada factual
+Sobre todo régimen admisible que anule $\mathbb{E}_{SV}$ y para toda perturbación factual admisible $(\delta\mathbb{X}_{SV}, \delta\mathbb{Y}_{SV})$ sujeta a las prohibiciones constitutivas del SV y a compatibilidad con las clases de clausura factual de $\mathbb{C}_{SV}$ (Lloret Egea, 2026h), el operador maestro absoluto satisface la ecuación linealizada factual
 
 $$
-\mathbb{E}_{SV}^{\,\prime}\!\left[\,\mathbb{X}_{SV},\,\mathbb{Y}_{SV},\,\mathbb{C}_{SV},\,J_{SV}\,\right]\!\left(\delta\mathbb{X}_{SV},\,\delta\mathbb{Y}_{SV}\right) \;=\; 0
+\mathbb{E}_{SV}^{\,\prime}\!\left[\,\mathbb{X}_{SV};\,\mathbb{Y}_{SV};\,\mathbb{C}_{SV};\,J_{SV}\,\right]\!\left(\delta\mathbb{X}_{SV};\,\delta\mathbb{Y}_{SV}\right) \;=\; 0
 $$
 
-como condición necesaria y suficiente para que el régimen perturbado siga siendo solución de la ecuación única soberana. La estabilidad estructural del régimen ante perturbaciones factuales admisibles queda, así, caracterizada algebraicamente por la linealización factual del operador 𝔼<sub>SV</sub>.
+como condición necesaria y suficiente para que el régimen perturbado siga siendo solución de la ecuación única soberana. La estabilidad estructural del régimen ante perturbaciones factuales admisibles queda, así, caracterizada algebraicamente por la linealización factual del operador $\mathbb{E}_{SV}$.
 
 #### 3.13.5. Teorema de propiedades algebraicas del operador maestro absoluto
 
-**Teorema 3.13.1 (propiedades algebraicas soberanas del operador maestro absoluto).** Sobre el subespacio de regímenes electromagnéticos factuales admisibles con medio lineal factual y jacobiano factual de sensibilidad de régimen fijo, el operador maestro absoluto 𝔼<sub>SV</sub> es homogéneo escalar, aditivo factual, covariante bajo las cuatro transformadas canónicas de trayectoria del SV, y estructuralmente estable ante perturbaciones factuales admisibles.
+**Teorema 3.13.1 (propiedades algebraicas soberanas del operador maestro absoluto).** Sobre el subespacio de regímenes electromagnéticos factuales admisibles con medio lineal factual y jacobiano factual de sensibilidad de régimen fijo, el operador maestro absoluto $\mathbb{E}_{SV}$ es homogéneo escalar, aditivo factual, covariante bajo las cuatro transformadas canónicas de trayectoria del SV, y estructuralmente estable ante perturbaciones factuales admisibles.
 
-*Demostración.* La homogeneidad escalar se sigue de la linealidad factual de los operadores $\mathrm{Div}_{SV}$, $\mathrm{Rot}_{SV}$ y $\partial_\nu^{SV}$ sobre los campos factuales admisibles (Lloret Egea, 2026k, §§7-8), de la linealidad de las relaciones constitutivas factuales $\varepsilon_{SV}$, $\mu_{SV}$ y $\sigma_{SV}$ en su régimen lineal, y de la estructura vectorial factual de 𝕏<sub>SV</sub> y 𝕐<sub>SV</sub>.
+*Demostración.* La homogeneidad escalar se sigue de la linealidad factual de los operadores $\mathrm{Div}_{SV}$, $\mathrm{Rot}_{SV}$ y $\partial_\nu^{SV}$ sobre los campos factuales admisibles (Lloret Egea, 2026k, §§7-8), de la linealidad de las relaciones constitutivas factuales $\varepsilon_{SV}$, $\mu_{SV}$ y $\sigma_{SV}$ en su régimen lineal, y de la estructura vectorial factual de $\mathbb{X}_{SV}$ y $\mathbb{Y}_{SV}$.
 
-La aditividad factual se sigue de las mismas propiedades operatorias y del hecho de que la composición $\mathrm{Div}_{SV}\circ\mathrm{Rot}_{SV} = 0$ (Lloret Egea, 2026a, §§XXIV.5.3-XXIV.5.4) se preserva bajo suma factual. Si 𝕏<sub>SV</sub><sup>(1)</sup> y 𝕏<sub>SV</sub><sup>(2)</sup> son soluciones con fuentes 𝕐<sub>SV</sub><sup>(1)</sup> y 𝕐<sub>SV</sub><sup>(2)</sup>, respectivamente, su suma es solución con fuente 𝕐<sub>SV</sub><sup>(1)</sup> + 𝕐<sub>SV</sub><sup>(2)</sup>.
+La aditividad factual se sigue de las mismas propiedades operatorias y del hecho de que la composición $\mathrm{Div}_{SV}\circ\mathrm{Rot}_{SV} = 0$ (Lloret Egea, 2026a, §§XXIV.5.3-XXIV.5.4) se preserva bajo suma factual. Si $\mathbb{X}_{SV}^{(1)}$ y $\mathbb{X}_{SV}^{(2)}$ son soluciones con fuentes $\mathbb{Y}_{SV}^{(1)}$ y $\mathbb{Y}_{SV}^{(2)}$, respectivamente, su suma es solución con fuente $\mathbb{Y}_{SV}^{(1)} + \mathbb{Y}_{SV}^{(2)}$.
 
-La covariancia factual bajo transformadas de trayectoria se sigue del teorema de covariancia factual del fundamento operatorio soberano (Lloret Egea, 2026k, §10.4), que garantiza $\mathcal{T}^{SV}_k \circ \mathrm{Div}_{SV} = \mathrm{Div}_{SV} \circ \mathcal{T}^{SV}_k$, $\mathcal{T}^{SV}_k \circ \mathrm{Rot}_{SV} = \mathrm{Rot}_{SV} \circ \mathcal{T}^{SV}_k$ y $\mathcal{T}^{SV}_k \circ \partial_\nu^{SV} = \partial_\nu^{SV} \circ \mathcal{T}^{SV}_k$ para las cuatro transformadas canónicas. Aplicando la covariancia componente a componente se obtiene la covariancia de 𝕄<sub>SV</sub> y 𝕂<sub>SV</sub>; la componente 𝔽<sub>SV</sub> es invariante bajo las cuatro transformadas por depender sólo del determinante del jacobiano factual, cuya anulación es covariante.
+La covariancia factual bajo transformadas de trayectoria se sigue del teorema de covariancia factual del cuerpo operatorio heredado (Lloret Egea, 2026k, §10.4), que garantiza $\mathcal{T}^{SV}_k \circ \mathrm{Div}_{SV} = \mathrm{Div}_{SV} \circ \mathcal{T}^{SV}_k$, $\mathcal{T}^{SV}_k \circ \mathrm{Rot}_{SV} = \mathrm{Rot}_{SV} \circ \mathcal{T}^{SV}_k$ y $\mathcal{T}^{SV}_k \circ \partial_\nu^{SV} = \partial_\nu^{SV} \circ \mathcal{T}^{SV}_k$ para las cuatro transformadas canónicas. Aplicando la covariancia componente a componente se obtiene la covariancia de $\mathbb{M}_{SV}$ y $\mathbb{K}_{SV}$; la componente $\mathbb{F}_{SV}$ es invariante bajo las cuatro transformadas por depender sólo del determinante del jacobiano factual, cuya anulación es covariante.
 
-La estabilidad estructural ante perturbaciones admisibles se sigue de la diferenciabilidad factual de los operadores soberanos sobre el subespacio lineal: la linealización factual 𝔼'<sub>SV</sub> existe y es lineal factual en (δ𝕏<sub>SV</sub>, δ𝕐<sub>SV</sub>) con coeficientes fijados por el régimen base. La condición 𝔼'<sub>SV</sub>(δ𝕏<sub>SV</sub>, δ𝕐<sub>SV</sub>) = 0 es entonces condición necesaria y suficiente para que el régimen perturbado permanezca en la variedad solución de la ecuación única. ∎
+La estabilidad estructural ante perturbaciones admisibles se sigue de la diferenciabilidad factual de los operadores soberanos sobre el subespacio lineal: la linealización factual $\mathbb{E}_{SV}^{\,\prime}$ existe y es lineal factual en $(\delta\mathbb{X}_{SV}, \delta\mathbb{Y}_{SV})$ con coeficientes fijados por el régimen base. La condición $\mathbb{E}_{SV}^{\,\prime}(\delta\mathbb{X}_{SV}; \delta\mathbb{Y}_{SV}) = 0$ es entonces condición necesaria y suficiente para que el régimen perturbado permanezca en la variedad solución de la ecuación única. ∎
 
-Las cuatro propiedades soberanas del operador maestro absoluto —homogeneidad escalar, aditividad factual, covariancia factual y estabilidad estructural— agotan la caracterización algebraica soberana de 𝔼<sub>SV</sub> sobre el subespacio de regímenes admisibles con medio lineal factual. Cualquier uso posterior de la ecuación única dentro del sistema puede apoyarse en estas cuatro propiedades sin introducir ningún elemento ajeno al aparato soberano del SV, ni a las clases de clausura factual del programa de transmutación factual (Lloret Egea, 2026h), ni al estrato constitutivo originario del sistema (Lloret Egea, 2026j).
+Las cuatro propiedades soberanas del operador maestro absoluto —homogeneidad escalar, aditividad factual, covariancia factual y estabilidad estructural— agotan la caracterización algebraica soberana de $\mathbb{E}_{SV}$ sobre el subespacio de regímenes admisibles con medio lineal factual. Cualquier uso posterior de la ecuación única dentro del sistema puede apoyarse en estas cuatro propiedades sin introducir ningún elemento ajeno al aparato soberano del SV, ni a las clases de clausura factual del programa de transmutación factual (Lloret Egea, 2026h), ni al estrato constitutivo originario del sistema (Lloret Egea, 2026j).
 
 ---
 
@@ -375,14 +374,14 @@ El bloque factual completo de primer orden del electromagnetismo en el Sistema V
 
 $$
 \boxed{\;\;\begin{aligned}
-\mathrm{Div}_{SV}(D) &\;=\; \rho, \\[4pt]
-\mathrm{Div}_{SV}(B) &\;=\; 0, \\[4pt]
-\mathrm{Rot}_{SV}(E) + \partial_\nu^{SV} B &\;=\; 0, \\[4pt]
+\mathrm{Div}_{SV}(D) &\;=\; \rho, \\
+\mathrm{Div}_{SV}(B) &\;=\; 0, \\
+\mathrm{Rot}_{SV}(E) + \partial_\nu^{SV} B &\;=\; 0, \\
 \mathrm{Rot}_{SV}(H) - \partial_\nu^{SV} D &\;=\; J.
 \end{aligned}\;\;}
 $$
 
-Aquí $D$ designa el desplazamiento eléctrico factual, $B$ la inducción magnética factual, $E$ el campo eléctrico factual, $H$ el campo magnético factual, $\rho$ la densidad factual de carga eléctrica y $J$ la densidad factual de corriente eléctrica. Los símbolos $\partial_\nu^{SV}$ denotan derivación parcial respecto del índice factual de suceso, en el sentido fijado en el apartado 2.3, y no aluden a ningún tiempo soberano. Las cuatro ecuaciones del sistema son exactamente las cuatro componentes de la forma maestra operatoria 𝕄<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>) = 0 del apartado 3.7, y constituyen la primera componente 𝕄<sub>SV</sub> de la ecuación única 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>, ℂ<sub>SV</sub>, J<sub>SV</sub>) = 0 del apartado 3.12.
+Aquí $D$ designa el desplazamiento eléctrico factual, $B$ la inducción magnética factual, $E$ el campo eléctrico factual, $H$ el campo magnético factual, $\rho$ la densidad factual de carga eléctrica y $J$ la densidad factual de corriente eléctrica. Los símbolos $\partial_\nu^{SV}$ denotan derivación parcial respecto del índice factual de suceso, en el sentido fijado en el apartado 2.3, y no aluden a ningún tiempo soberano. Las cuatro ecuaciones del sistema son exactamente las cuatro componentes de la forma maestra operatoria $\mathbb{M}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) = 0$ del apartado 3.7, y constituyen la primera componente $\mathbb{M}_{SV}$ de la ecuación única $\mathbb{E}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV};\mathbb{C}_{SV};J_{SV}) = 0$ del apartado 3.12.
 
 ### 4.2. Ley de Gauss eléctrica factual
 
@@ -470,7 +469,7 @@ $$
 
 Combinando las igualdades anteriores se obtiene la conservación enunciada. ∎
 
-La clausura del sistema así enunciada se expresa, en forma compacta, como la anulación simultánea de la componente 𝕄<sub>SV</sub> de la ecuación única 𝔼<sub>SV</sub> = 0 del apartado 3.12, en conjunción con las relaciones constitutivas del apartado 5 (componente 𝕂<sub>SV</sub>) y con el criterio absoluto de frontera y el operador exacto de reconfiguración de los apartados 3.9-3.10 (componente 𝔽<sub>SV</sub>). Cualquier régimen electromagnético factual del SV admisible queda determinado, en sentido soberano, por la anulación conjunta de las tres componentes.
+La clausura del sistema así enunciada se expresa, en forma compacta, como la anulación simultánea de la componente $\mathbb{M}_{SV}$ de la ecuación única $\mathbb{E}_{SV} = 0$ del apartado 3.12, en conjunción con las relaciones constitutivas del apartado 5 (componente $\mathbb{K}_{SV}$) y con el criterio absoluto de frontera y el operador exacto de reconfiguración de los apartados 3.9-3.10 (componente $\mathbb{F}_{SV}$). Cualquier régimen electromagnético factual del SV admisible queda determinado, en sentido soberano, por la anulación conjunta de las tres componentes.
 
 ---
 
@@ -512,7 +511,7 @@ El operador $\sigma_{SV}$ es el operador factual de conductividad del medio, mie
 
 ### 5.5. Clausura del bloque constitutivo
 
-Las tres relaciones constitutivas anteriores agotan, sin residuo, la asociación entre magnitudes de campo y de excitación en el dominio electromagnético factual. Al conjugarse con las cuatro ecuaciones de 4.1, producen un sistema factual plenamente determinado una vez fijadas las clases de clausura factual admisibles para $\varepsilon_{SV}$, $\mu_{SV}$ y $\sigma_{SV}$. Las clases de clausura factual admisibles para estos tres operadores forman parte del programa de transmutación factual del sistema, que fija la caracterización completa de las clases factuales emergentes compatibles con el dominio electromagnético (Lloret Egea, 2026h). Las tres relaciones constitutivas son exactamente las tres componentes de 𝕂<sub>SV</sub>(𝕏<sub>SV</sub>, ℂ<sub>SV</sub>) = 0, segunda componente de la ecuación única 𝔼<sub>SV</sub> = 0 del apartado 3.12, y su anulación simultánea con la componente 𝕄<sub>SV</sub> y la componente 𝔽<sub>SV</sub> constituye la reducción estructural absoluta del régimen.
+Las tres relaciones constitutivas anteriores agotan, sin residuo, la asociación entre magnitudes de campo y de excitación en el dominio electromagnético factual. Al conjugarse con las cuatro ecuaciones de 4.1, producen un sistema factual plenamente determinado una vez fijadas las clases de clausura factual admisibles para $\varepsilon_{SV}$, $\mu_{SV}$ y $\sigma_{SV}$. Las clases de clausura factual admisibles para estos tres operadores forman parte del programa de transmutación factual del sistema, que fija la caracterización completa de las clases factuales emergentes compatibles con el dominio electromagnético (Lloret Egea, 2026h). Las tres relaciones constitutivas son exactamente las tres componentes de $\mathbb{K}_{SV}(\mathbb{X}_{SV};\mathbb{C}_{SV}) = 0$, segunda componente de la ecuación única $\mathbb{E}_{SV} = 0$ del apartado 3.12, y su anulación simultánea con la componente $\mathbb{M}_{SV}$ y la componente $\mathbb{F}_{SV}$ constituye la reducción estructural absoluta del régimen.
 
 
 ### 5.6. Cierre metrológico soberano del bloque constitutivo y del bloque de primer orden
@@ -731,7 +730,7 @@ La articulación produce, además, la continuidad local de la respuesta interna 
 
 *Demostración.* Las cuatro condiciones interfaciales se derivan, sin hipótesis adicional, de las formas integrales de las cuatro ecuaciones del bloque factual (apartado 6) aplicadas a volúmenes factuales infinitesimales y ciclos factuales infinitesimales a caballo de la interfase. Esta derivación se realiza por el teorema soberano Gauss–SV (§3.4) y el teorema de Stokes–SV (§3.3), y es simultánea para las cuatro componentes normales y tangenciales. La activación de la interfase es equivalente a $\det(J_{SV}) = 0$ por el criterio absoluto de frontera fijado en el apartado 3.10, que opera como condición necesaria y suficiente. La respuesta interna del bloque es, por el teorema 3.10.1, única y igual al valor local de $\mathcal{R}^{f}_{SV}$. Así, las cuatro condiciones, el criterio absoluto de frontera y el operador de reconfiguración quedan articulados sobre la misma interfase en una estructura soberana conjunta. ∎
 
-El enunciado anterior fija, con rango absoluto, el contenido de la componente 𝔽<sub>SV</sub>(J<sub>SV</sub>) = 0 de la ecuación única 𝔼<sub>SV</sub> = 0 del apartado 3.12. Bajo la articulación soberana establecida, el criterio absoluto de frontera y el operador de reconfiguración operan conjuntamente como núcleo sensible del régimen interfacial, y su anulación simultánea con las componentes 𝕄<sub>SV</sub> y 𝕂<sub>SV</sub> agota la reducción estructural absoluta del bloque electromagnético factual del SV.
+El enunciado anterior fija, con rango absoluto, el contenido de la componente $\mathbb{F}_{SV}(J_{SV}) = 0$ de la ecuación única $\mathbb{E}_{SV} = 0$ del apartado 3.12. Bajo la articulación soberana establecida, el criterio absoluto de frontera y el operador de reconfiguración operan conjuntamente como núcleo sensible del régimen interfacial, y su anulación simultánea con las componentes $\mathbb{M}_{SV}$ y $\mathbb{K}_{SV}$ agota la reducción estructural absoluta del bloque electromagnético factual del SV.
 
 ---
 
@@ -913,12 +912,12 @@ La reducción estructural absoluta del bloque electromagnético factual posee, a
 **Teorema 9.8.1 (recuperación formal externa del esquema clásico).** Sea $\mathcal{M}_{\text{ext}}$ el esquema clásico de Maxwell de primer orden y sea $\mathcal{D}_{SV}^{-1}$ la inversa formal del diccionario soberano del apartado 3.5, aplicada sobre un medio homogéneo, isótropo y regular. Entonces,
 
 $$
-\mathcal{D}_{SV}^{-1}\!\left(\mathbb{M}_{SV}(\mathbb{X}_{SV},\mathbb{Y}_{SV}) = 0\right) \;=\; \mathcal{M}_{\text{ext}},
+\mathcal{D}_{SV}^{-1}\!\left(\mathbb{M}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) = 0\right) \;=\; \mathcal{M}_{\text{ext}},
 $$
 
 y la reducción estructural absoluta del presente documento constituye, bajo las prohibiciones constitutivas del SV, la única preimagen soberana de $\mathcal{M}_{\text{ext}}$ compatible con el fundamento operatorio del sistema.
 
-*Demostración.* El diccionario soberano $\mathcal{D}_{SV}$ del apartado 3.5 mapea cada operador clásico del esquema $\mathcal{M}_{\text{ext}}$ a su análogo factual soberano y cada magnitud clásica a su lectura factual exclusiva. Por construcción, $\mathcal{D}_{SV}$ es invertible sobre el subespacio de regímenes homogéneos, isótropos y regulares, en el cual las relaciones constitutivas factuales $\varepsilon_{SV}$, $\mu_{SV}$ y $\sigma_{SV}$ actúan como escalares factuales. Sobre ese subespacio, la inversa formal $\mathcal{D}_{SV}^{-1}$ envía los operadores factuales a sus homólogos clásicos: $\mathrm{Div}_{SV} \mapsto \nabla\cdot$, $\mathrm{Rot}_{SV} \mapsto \nabla\times$, $\partial_\nu^{SV} \mapsto \partial_t$. Aplicada a la forma maestra operatoria 𝕄<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>) = 0, la inversa produce, componente a componente, el sistema de cuatro ecuaciones diferenciales de Maxwell clásico. La unicidad de la preimagen soberana se sigue del teorema 3.6.1 (unicidad de la reducción estructural) aplicado en sentido inverso: dado el esquema clásico, el diccionario soberano es la única biyección formal que satisface simultáneamente la preservación del orden de primer grado, la prohibición del tiempo soberano, la prohibición de probabilidad y la prohibición de coordenadas externas como base ontológica. ∎
+*Demostración.* El diccionario soberano $\mathcal{D}_{SV}$ del apartado 3.5 mapea cada operador clásico del esquema $\mathcal{M}_{\text{ext}}$ a su análogo factual soberano y cada magnitud clásica a su lectura factual exclusiva. Por construcción, $\mathcal{D}_{SV}$ es invertible sobre el subespacio de regímenes homogéneos, isótropos y regulares, en el cual las relaciones constitutivas factuales $\varepsilon_{SV}$, $\mu_{SV}$ y $\sigma_{SV}$ actúan como escalares factuales. Sobre ese subespacio, la inversa formal $\mathcal{D}_{SV}^{-1}$ envía los operadores factuales a sus homólogos clásicos: $\mathrm{Div}_{SV} \mapsto \nabla\cdot$, $\mathrm{Rot}_{SV} \mapsto \nabla\times$, $\partial_\nu^{SV} \mapsto \partial_t$. Aplicada a la forma maestra operatoria $\mathbb{M}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV}) = 0$, la inversa produce, componente a componente, el sistema de cuatro ecuaciones diferenciales de Maxwell clásico. La unicidad de la preimagen soberana se sigue del teorema 3.6.1 (unicidad de la reducción estructural) aplicado en sentido inverso: dado el esquema clásico, el diccionario soberano es la única biyección formal que satisface simultáneamente la preservación del orden de primer grado, la prohibición del tiempo soberano, la prohibición de probabilidad y la prohibición de coordenadas externas como base ontológica. ∎
 
 La recuperación formal externa demuestra, con rango soberano, que la reducción estructural absoluta del presente documento no pierde contenido algebraico respecto del esquema clásico: en cualquier régimen clásicamente admisible, el bloque reducido se proyecta sin residuo sobre el sistema de Maxwell clásico, y en todo régimen no clásicamente admisible sólo existe la forma factual. El esquema clásico queda así absorbido como caso límite regular del bloque factual, sin quedar soberano en ningún lugar del sistema.
 
@@ -974,7 +973,7 @@ Las cuatro identidades anteriores —conservación factual de la carga, balance 
 
 **Teorema 10.6.1 (cierre algebraico conjunto de las identidades emergentes).** Las cuatro identidades emergentes de los apartados 10.1 a 10.4 constituyen un cierre algebraico conjunto del bloque Maxwell factual de primer orden, en el sentido de que ninguna de ellas puede violarse sin violar simultáneamente al menos una de las cuatro ecuaciones del apartado 4.1 o una de las tres relaciones constitutivas del apartado 5.
 
-*Demostración.* Sea violada la identidad de conservación factual de la carga. Por la demostración del teorema 4.6.1, esto exige la violación simultánea de la ley de Gauss eléctrica factual o de la ley de Ampère–Maxwell factual, o la anulación de la propiedad soberana $\mathrm{Div}_{SV}\circ\mathrm{Rot}_{SV} = 0$. La última opción queda excluida por el fundamento operatorio soberano (Lloret Egea, 2026k, §§7–8), con lo que la violación fuerza la ruptura de una de las dos ecuaciones del bloque.
+*Demostración.* Sea violada la identidad de conservación factual de la carga. Por la demostración del teorema 4.6.1, esto exige la violación simultánea de la ley de Gauss eléctrica factual o de la ley de Ampère–Maxwell factual, o la anulación de la propiedad soberana $\mathrm{Div}_{SV}\circ\mathrm{Rot}_{SV} = 0$. La última opción queda excluida por el cuerpo operatorio heredado (Lloret Egea, 2026k, §§7–8), con lo que la violación fuerza la ruptura de una de las dos ecuaciones del bloque.
 
 Sea violada la identidad del balance electromagnético factual. Por la demostración del teorema 8.3.1, esto exige la violación simultánea de al menos una de las dos ecuaciones con derivada respecto del índice factual de suceso (Faraday factual o Ampère–Maxwell factual) o la ruptura de la simetría factual de alguno de los operadores constitutivos $\varepsilon_{SV}$, $\mu_{SV}$.
 
@@ -984,7 +983,7 @@ Sea violada la identidad de onda factual. Por la derivación del apartado 9.1, e
 
 En los cuatro casos, la violación de la identidad emergente implica la violación simultánea de al menos un elemento del bloque de primer orden o de las relaciones constitutivas. Por tanto, las cuatro identidades forman un cierre algebraico conjunto. ∎
 
-Este resultado establece la consistencia interna del sistema de identidades emergentes y garantiza que el bloque Maxwell factual del SV funciona como una totalidad algebraica no redundante: ninguna de las cuatro identidades es deducible de las otras tres sin apelar al bloque de primer orden o a las relaciones constitutivas. Las cuatro identidades quedan, por tanto, estructuralmente subordinadas a la ecuación única 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>, ℂ<sub>SV</sub>, J<sub>SV</sub>) = 0 del apartado 3.12: su anulación conjunta es consecuencia directa de la anulación conjunta de las tres componentes 𝕄<sub>SV</sub>, 𝕂<sub>SV</sub> y 𝔽<sub>SV</sub> de la ecuación única, sin que ninguna de ellas introduzca contenido axiomático ajeno al aparato soberano del SV.
+Este resultado establece la consistencia interna del sistema de identidades emergentes y garantiza que el bloque Maxwell factual del SV funciona como una totalidad algebraica no redundante: ninguna de las cuatro identidades es deducible de las otras tres sin apelar al bloque de primer orden o a las relaciones constitutivas. Las cuatro identidades quedan, por tanto, estructuralmente subordinadas a la ecuación única $\mathbb{E}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV};\mathbb{C}_{SV};J_{SV}) = 0$ del apartado 3.12: su anulación conjunta es consecuencia directa de la anulación conjunta de las tres componentes $\mathbb{M}_{SV}$, $\mathbb{K}_{SV}$ y $\mathbb{F}_{SV}$ de la ecuación única, sin que ninguna de ellas introduzca contenido axiomático ajeno al aparato soberano del SV.
 
 ---
 
@@ -992,7 +991,7 @@ Este resultado establece la consistencia interna del sistema de identidades emer
 
 ### 11.1. Dominio del recorrido
 
-La célula canónica SV(3,9) — notada alternativamente SV(9,3) en otras referencias del corpus por transposición convencional entre el número de estados ternarios y el número de vértices poligonales —, con su codificación visible y su polígono factual canónico de nueve vértices (Lloret Egea, 2026a, §XII; Lloret Egea, 2026d, §III), se extiende a un mosaico factual de frames interconectados que cubre la estructura interna de la célula y celdas vecinas con orientación compatible. Sobre este mosaico se aplican, de forma sistemática, las cuatro ecuaciones factuales, las tres relaciones constitutivas, las formas integrales, las condiciones de contorno y el balance electromagnético factual.
+La célula canónica SV(3,9) — notada alternativamente SV(9,3) en otras referencias del corpus por transposición convencional entre el número de estados ternarios y el número de vértices poligonales —, con su codificación visible y su polígono factual canónico de nueve vértices (Lloret Egea, 2026a, §XII; Lloret Egea, 2026d, §III), se extiende a un mosaico factual de tramas interconectadas que cubre la estructura interna de la célula y celdas vecinas con orientación compatible. Sobre este mosaico se aplican, de forma sistemática, las cuatro ecuaciones factuales, las tres relaciones constitutivas, las formas integrales, las condiciones de contorno y el balance electromagnético factual.
 
 ### 11.2. Verificación visible de la ley de Gauss eléctrica factual
 
@@ -1102,7 +1101,7 @@ $$
 
 verifica exactamente la identidad de conservación factual del apartado 10.1.
 
-### 11.8. Verificación visible completa de las condiciones de contorno factuales
+### 11.8. Verificación visible de las condiciones de contorno factuales
 
 Sobre una interfase factual con normal saliente $n$, separando dos medios con valores factuales de los campos
 
@@ -1159,7 +1158,7 @@ Con ello queda exhibida la coherencia algebraica entre la pérdida de invertibil
 Sobre la instancia numérica verificada en los apartados 11.2 a 11.7, la ecuación única factual del bloque electromagnético de primer orden en su forma maestra operatoria produce la anulación exacta de sus cuatro componentes:
 
 $$
-\mathbb{M}_{SV}(\mathbb{X}_{SV},\,\mathbb{Y}_{SV}) \;=\;
+\mathbb{M}_{SV}(\mathbb{X}_{SV};\,\mathbb{Y}_{SV}) \;=\;
 \begin{pmatrix}
 \mathrm{Div}_{SV}(D) - \rho \\
 \mathrm{Div}_{SV}(B) \\
@@ -1175,7 +1174,7 @@ $$
 Las cuatro componentes del sistema se anulan exactamente en los valores visibles consignados: la primera componente, por la verificación del apartado 11.2; la segunda, por la verificación del apartado 11.3; la tercera, por la verificación del apartado 11.4; la cuarta, por la verificación del apartado 11.5. De forma paralela, la forma maestra integral del bloque produce la misma anulación componente a componente,
 
 $$
-\mathbb{I}_{SV}(\mathbb{X}_{SV},\,\mathbb{Y}_{SV}) \;=\;
+\mathbb{I}_{SV}(\mathbb{X}_{SV};\,\mathbb{Y}_{SV}) \;=\;
 \begin{pmatrix}
 \iint^{SV}_{\partial\mathcal{V}_{SV}} D - \iiint^{SV}_{\mathcal{V}_{SV}} \rho \\
 \iint^{SV}_{\partial\mathcal{V}_{SV}} B \\
@@ -1188,7 +1187,7 @@ $$
 \end{pmatrix}.
 $$
 
-La ecuación única absoluta de la física factual electromagnética 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>, ℂ<sub>SV</sub>, J<sub>SV</sub>) = 0 queda así verificada de forma visible sobre la instancia numérica del recorrido, al anularse simultáneamente, con valores visibles y reproducibles, sus tres componentes soberanas 𝕄<sub>SV</sub>, 𝕂<sub>SV</sub> y 𝔽<sub>SV</sub>, conforme a los apartados 11.2-11.7, 5.2-5.4 y 11.9-11.10, respectivamente.
+La ecuación única absoluta de la física factual electromagnética $\mathbb{E}_{SV}(\mathbb{X}_{SV};\mathbb{Y}_{SV};\mathbb{C}_{SV};J_{SV}) = 0$ queda así verificada de forma visible sobre la instancia numérica del recorrido, al anularse simultáneamente, con valores visibles y reproducibles, sus tres componentes soberanas $\mathbb{M}_{SV}$, $\mathbb{K}_{SV}$ y $\mathbb{F}_{SV}$, conforme a los apartados 11.2-11.7, 5.2-5.4 y 11.9-11.10, respectivamente.
 
 Sobre la misma base visible, la compatibilidad dimensional de las ecuaciones, de las relaciones constitutivas, de las identidades emergentes y de la ecuación de onda se verifica por aplicación directa de la tabla de dimensiones factuales soberanas del apartado 5.6.3.
 
@@ -1237,11 +1236,11 @@ El recorrido completo confirma, de forma visible y reproducible, la coherencia g
 
 El bloque electromagnético factual del Sistema Vectorial SV queda establecido, en el presente documento, en su forma soberana de primer orden. Las cuatro ecuaciones factuales de Gauss eléctrica, Gauss magnética, Faraday y Ampère–Maxwell, junto con las tres relaciones constitutivas factuales y las condiciones de contorno derivadas del teorema soberano Gauss–SV, constituyen un sistema cerrado sobre cualquier volumen factual compatible, sin recurrir a geometría auxiliar externa, a variable temporal soberana ni a inferencia probabilística. La ley de balance electromagnético factual consolida, en el nivel de la energía, la coherencia del sistema, y la ecuación de onda factual se deriva como consecuencia algebraica directa.
 
-Cuatro identidades emergentes cierran el bloque: la conservación factual de la carga, el balance electromagnético factual, la continuidad interfacial factual completa y la identidad de onda factual. Dieciséis teoremas soberanos demostrados articulan el contenido del documento, desde la unicidad de la reducción estructural (Teorema 3.6.1) y la clausura operatoria del bloque bajo la forma maestra (Teorema 3.7.1) hasta el cierre algebraico conjunto de las identidades emergentes (Teorema 10.6.1), pasando por la respuesta interna única en frontera activa (Teorema 3.10.1), la consistencia del bloque con el fundamento operatorio soberano (Teorema 3.11.1), la unicidad y exhaustividad de la ecuación única de la física factual electromagnética (Teorema 3.12.1), las propiedades algebraicas soberanas del operador maestro absoluto —homogeneidad, aditividad, covariancia y estabilidad— (Teorema 3.13.1), la conservación factual de la carga (Teorema 4.6.1), el cierre metrológico soberano exacto (Teorema 5.6.1), la equivalencia factual diferencial-integral (Teorema 6.5.1), la articulación soberana de las condiciones de contorno (Teorema 7.8.1), el balance Poynting–SV (Teorema 8.3.1), la coincidencia con el régimen modal factual (Teorema 9.5.1), la superación soberana del núcleo inicial cíclico-modal (Teorema 9.6.1), la consistencia onda–medio bajo el pilar metrológico (Teorema 9.7.1) y la recuperación formal externa del esquema clásico como caso límite regular (Teorema 9.8.1). Un recorrido de consistencia sobre la célula canónica SV(3,9) ha confirmado la coherencia global del bloque con verificación numérica visible y reproducible sobre dieciocho bancos independientes, incluyendo la anulación simultánea de la ecuación única absoluta en sus dos formas maestras operatoria e integral.
+Cuatro identidades emergentes cierran el bloque: la conservación factual de la carga, el balance electromagnético factual, la continuidad interfacial factual completa y la identidad de onda factual. Dieciséis teoremas soberanos demostrados articulan el contenido del documento, desde la unicidad de la reducción estructural (Teorema 3.6.1) y la clausura operatoria del bloque bajo la forma maestra (Teorema 3.7.1) hasta el cierre algebraico conjunto de las identidades emergentes (Teorema 10.6.1), pasando por la respuesta interna única en frontera activa (Teorema 3.10.1), la consistencia con el cuerpo operatorio soberano heredado (Teorema 3.11.1), la unicidad y exhaustividad de la ecuación única de la física factual electromagnética (Teorema 3.12.1), las propiedades algebraicas soberanas del operador maestro absoluto —homogeneidad, aditividad, covariancia y estabilidad— (Teorema 3.13.1), la conservación factual de la carga (Teorema 4.6.1), el cierre metrológico soberano exacto (Teorema 5.6.1), la equivalencia factual diferencial-integral (Teorema 6.5.1), la articulación soberana de las condiciones de contorno (Teorema 7.8.1), el balance Poynting–SV (Teorema 8.3.1), la coincidencia con el régimen modal factual (Teorema 9.5.1), la superación soberana del núcleo inicial cíclico-modal (Teorema 9.6.1), la consistencia onda–medio bajo el pilar metrológico (Teorema 9.7.1) y la recuperación formal externa del esquema clásico como caso límite regular (Teorema 9.8.1). Un recorrido de consistencia sobre la célula canónica SV(3,9) ha confirmado la coherencia global del bloque con verificación numérica visible y reproducible sobre dieciocho bancos independientes, incluyendo la anulación simultánea de la ecuación única absoluta en sus dos formas maestras operatoria e integral.
 
 La plataforma resultante queda disponible como reducción estructural absoluta del bloque electromagnético de primer orden en el SV. En el nivel soberano se alojan las cuatro ecuaciones factuales y sus identidades emergentes, compatibles con las prohibiciones constitutivas del sistema. En el nivel operatorio se alojan las formas integrales, las condiciones de contorno y la ley de balance electromagnético, inmediatamente aplicables a configuraciones concretas del dominio electromagnético factual. La indeterminación honesta $U$ permanece exclusivamente como principio constitutivo del sistema y no comparece como residuo no resuelto del bloque aquí establecido.
 
-La reducción establecida, articulada por la ecuación única 𝔼<sub>SV</sub>(𝕏<sub>SV</sub>, 𝕐<sub>SV</sub>, ℂ<sub>SV</sub>, J<sub>SV</sub>) = 0, condensa con rango absoluto el contenido del régimen Maxwell clásico dentro del fundamento operatorio soberano del sistema. El Teorema 3.12.1 fija, en sentido estricto, la unicidad y exhaustividad de esta ecuación: ningún régimen electromagnético factual admisible del sistema queda fuera de la anulación del operador maestro absoluto, y ningún régimen que anule el operador maestro absoluto escapa del aparato soberano. El Teorema 3.13.1 fija, en sentido estricto, las propiedades algebraicas soberanas del operador —homogeneidad, aditividad, covariancia y estabilidad estructural— que caracterizan su comportamiento sobre regímenes admisibles. La forma reducida así establecida es canónica, soberana y final dentro del dominio electromagnético factual del SV. El documento no abre ningún residuo abierto, no remite ninguna pieza a instancia ulterior, y no admite superación externa de su contenido operatorio. Todo régimen electromagnético factual compatible con el sistema queda enteramente determinado, en su forma soberana, por la ecuación única aquí fijada.
+El conjunto resultante fija el marco soberano actualmente establecido del electromagnetismo factual de primer orden en el Sistema Vectorial SV. La reducción estructural absoluta consignada en este documento absorbe íntegramente el régimen Maxwell en su forma de primer orden, lo condensa en la ecuación única de la física factual electromagnética y deja establecida una base canónica, estable y expansible para el crecimiento ulterior del dominio electromagnético factual del sistema, sin rectificación de su núcleo algebraico ya fijado.
 
 ---
 
@@ -1314,7 +1313,7 @@ Las tablas 1, 2, 3 y 4 agotan, en su conjunto, el bloque electromagnético factu
 | Conductividad factual | σ<sub>SV</sub> | UFC<sup>2</sup> · UE_MFC<sup>3</sup> · UFM<sup>−1</sup> · UFE<sup>−3</sup> |
 
 
-### Tabla 6. Objetos del fundamento operatorio soberano
+### Tabla 6. Objetos heredados del cuerpo operatorio soberano
 
 | Objeto | Forma canónica | Localización |
 |---|---|---|
@@ -1334,7 +1333,7 @@ Las tablas 1, 2, 3 y 4 agotan, en su conjunto, el bloque electromagnético factu
 | Teorema 3.6.1 | Unicidad de la reducción estructural del sistema electromagnético al SV | §3.6 |
 | Teorema 3.7.1 | Clausura del bloque factual de primer orden bajo la forma maestra operatoria | §3.7 |
 | Teorema 3.10.1 | Respuesta interna única del bloque electromagnético factual en frontera activa | §3.10 |
-| Teorema 3.11.1 | Consistencia del bloque con el fundamento operatorio soberano | §3.11 |
+| Teorema 3.11.1 | Consistencia del bloque con el cuerpo operatorio soberano heredado | §3.11 |
 | Teorema 3.12.1 | Unicidad y exhaustividad de la ecuación única de la física factual electromagnética | §3.12 |
 | Teorema 3.13.1 | Propiedades algebraicas soberanas del operador maestro absoluto: homogeneidad, aditividad, covariancia y estabilidad | §3.13 |
 | Teorema 4.6.1 | Conservación factual de la carga como consecuencia directa del bloque | §4.6 |
@@ -1364,7 +1363,7 @@ Las tablas 1, 2, 3 y 4 agotan, en su conjunto, el bloque electromagnético factu
 | **Ecuación única soberana** | **𝔼<sub>SV</sub>(𝕏<sub>SV</sub>; 𝕐<sub>SV</sub>; ℂ<sub>SV</sub>; J<sub>SV</sub>) = 0** | **Condensación canónica absoluta del régimen electromagnético factual del SV** |
 
 
-Las ocho tablas, tomadas en conjunto, agotan la síntesis canónica del bloque electromagnético factual del Sistema Vectorial SV: ecuaciones, relaciones constitutivas, condiciones de contorno, identidades emergentes, cosido metrológico soberano, objetos del fundamento operatorio soberano, teoremas soberanos del bloque y ecuación única de la física factual electromagnética con su recuperación formal externa. La reducción estructural absoluta queda fijada, en forma exacta y reproducible, sobre este cuerpo de tablas.
+Las ocho tablas, tomadas en conjunto, agotan la síntesis canónica del bloque electromagnético factual del Sistema Vectorial SV: ecuaciones, relaciones constitutivas, condiciones de contorno, identidades emergentes, cosido metrológico soberano, objetos heredados del cuerpo operatorio soberano, teoremas soberanos del bloque y ecuación única de la física factual electromagnética con su recuperación formal externa. La reducción estructural absoluta queda fijada, en forma exacta y reproducible, sobre este cuerpo de tablas.
 
 ---
 
