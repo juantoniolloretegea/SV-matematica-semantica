@@ -491,7 +491,7 @@ El jacobiano de clausura se define como el morfismo estructural que asocia a una
 
 Una transformada de trayectoria 𝒯<sub>Φ</sub>[q] asocia a una magnitud factual q definida sobre una trayectoria poligonal factual una nueva magnitud factual, parametrizada por un índice auxiliar λ, mediante la expresión general
 
-> 𝒯<sub>Φ</sub>[q](λ) := Σ<sub>j=0</sub><sup>m</sup> q<sub>j</sub> Φ<sub>λ</sub>(ν<sub>j</sub>),
+> 𝒯<sub>Φ</sub>\[q\](λ) := Σ<sub>j=0</sub><sup>m</sup> q<sub>j</sub> Φ<sub>λ</sub>(ν<sub>j</sub>),
 
 donde Φ<sub>λ</sub> es un núcleo admisible (Lloret Egea, 2026a, §XXIV.6.1). El corpus del SV establece cuatro familias canónicas de transformadas de trayectoria sobre trayectorias poligonales factuales, que se enuncian a continuación.
 
@@ -501,11 +501,11 @@ donde Φ<sub>λ</sub> es un núcleo admisible (Lloret Egea, 2026a, §XXIV.6.1). 
 
 **Transformada de persistencia.** Registra la contribución de los sucesos cuya longitud factual iguala o supera un umbral L:
 
-> 𝒯<sub>pers</sub>[q](L) = Σ<sub>j</sub> q<sub>j</sub> 𝟙<sub>{ℓ(ν<sub>j</sub>) ≥ L}</sub>.
+> 𝒯<sub>pers</sub>\[q\](L) = Σ<sub>j</sub> q<sub>j</sub> 𝟙<sub>{ℓ(ν<sub>j</sub>) ≥ L}</sub>.
 
 **Transformada cíclica.** Asociada al análisis modal del SV sobre ciclos canónicos, donde e<sup>SV</sup><sub>κ</sub> denota el núcleo cíclico factual de frecuencia modal κ:
 
-> 𝒯<sub>cyc</sub>[q](κ) = Σ<sub>j</sub> q<sub>j</sub> e<sup>SV</sup><sub>κ</sub>(ν<sub>j</sub>).
+> 𝒯<sub>cyc</sub>\[q\](κ) = Σ<sub>j</sub> q<sub>j</sub> e<sup>SV</sup><sub>κ</sub>(ν<sub>j</sub>).
 
 **Transformada residual.** Extrae la componente residual estructural a lo largo de la trayectoria, donde R(ν<sub>j</sub>) es el núcleo residual asociado al índice de suceso:
 
@@ -948,10 +948,10 @@ La tabla 1 reúne, en un cuerpo único y de referencia inmediata, el conjunto ce
 | Jacobiano estructural paramétrico | J<sup>SV</sup><sub>x</sub>(q; ν<sub>j</sub>) = ( ∂<sup>SV</sup><sub>x<sub>b</sub></sub> q<sup>(a)</sup>(ν<sub>j</sub>) )<sub>a,b</sub> | Lloret Egea (2026a, §XXIV.5.1) |
 | Jacobiano posicional | J<sup>SV</sup><sub>pos</sub>(q; ν<sub>j</sub>) = ( ∂<sup>SV</sup><sub>i</sub> q<sup>(a)</sup>(ν<sub>j</sub>) )<sub>a,i</sub> | Lloret Egea (2026a, §XXIV.5.2) |
 | Jacobiano de clausura | J<sup>SV</sup><sub>clau</sub>: morfismo estructural de cambio de clase de clausura local | Lloret Egea (2026a, §XXIV.5.5) |
-| Transformada de trayectoria (forma general) | 𝒯<sub>Φ</sub>[q](λ) = Σ<sub>j=0</sub><sup>m</sup> q<sub>j</sub> Φ<sub>λ</sub>(ν<sub>j</sub>) | Lloret Egea (2026a, §XXIV.6.1) |
+| Transformada de trayectoria (forma general) | 𝒯<sub>Φ</sub>\[q\](λ) = Σ<sub>j=0</sub><sup>m</sup> q<sub>j</sub> Φ<sub>λ</sub>(ν<sub>j</sub>) | Lloret Egea (2026a, §XXIV.6.1) |
 | Transformada de amortiguación | 𝒯<sub>α</sub>[q] = Σ<sub>j</sub> q<sub>j</sub> α<sup>j</sup>, α ∈ ℝ<sub>+</sub> | Lloret Egea (2026a, §XXIV.6.2) |
-| Transformada de persistencia | 𝒯<sub>pers</sub>[q](L) = Σ<sub>j</sub> q<sub>j</sub> 𝟙<sub>{ℓ(ν<sub>j</sub>) ≥ L}</sub> | Lloret Egea (2026a, §XXIV.6.2) |
-| Transformada cíclica | 𝒯<sub>cyc</sub>[q](κ) = Σ<sub>j</sub> q<sub>j</sub> e<sup>SV</sup><sub>κ</sub>(ν<sub>j</sub>) | Lloret Egea (2026a, §XXIV.6.2) |
+| Transformada de persistencia | 𝒯<sub>pers</sub>\[q\](L) = Σ<sub>j</sub> q<sub>j</sub> 𝟙<sub>{ℓ(ν<sub>j</sub>) ≥ L}</sub> | Lloret Egea (2026a, §XXIV.6.2) |
+| Transformada cíclica | 𝒯<sub>cyc</sub>\[q\](κ) = Σ<sub>j</sub> q<sub>j</sub> e<sup>SV</sup><sub>κ</sub>(ν<sub>j</sub>) | Lloret Egea (2026a, §XXIV.6.2) |
 | Transformada residual | 𝒯<sub>res</sub>[q] = Σ<sub>j</sub> q<sub>j</sub> R(ν<sub>j</sub>) | Lloret Egea (2026a, §XXIV.6.2) |
 | Curvatura factual por holonomía | Hol<sub>γ</sub>(q) = q<sub>final</sub> / q<sub>inicial</sub> sobre bucle γ | Lloret Egea (2026a, §XXIV.11.2) |
 | Identidad diferencial-geométrica | Div<sub>SV</sub>(C<sub>k</sub>) = −m<sub>k</sub>, k = 0, 1, …, n−1 | Lloret Egea (2026b, Parte IV, §5) |
