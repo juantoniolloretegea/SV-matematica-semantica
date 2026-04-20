@@ -3,7 +3,7 @@
 # Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV
 **© 2026. Todos los derechos reservados**.  
 
-**Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 20/04/2026 | **Advertencia**: Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido. 
+**Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 2$\blacksquare$0/04/2026 | **Advertencia**: Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido. 
 
 **Warning**: This publication is protected by **CEDRO**. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author’s copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
 
@@ -168,7 +168,7 @@ $$
 \mathfrak{D}_\Gamma(q_1 q_2)(j) = q_1(\nu_{j+1})\,\frac{q_2(\nu_{j+1}) - q_2(\nu_j)}{\omega(\nu_j)} + \frac{q_1(\nu_{j+1}) - q_1(\nu_j)}{\omega(\nu_j)}\,q_2(\nu_j),
 $$
 
-que es la igualdad enunciada. **Q.E.D.**
+que es la igualdad enunciada.
 
 **Propiedad 5.2.3 (anulación sobre constantes).** Si $q(\nu) \equiv c$ para todo $\nu \in \Xi_{SV}$, entonces $\mathfrak{D}_\Gamma q \equiv 0$.
 
@@ -204,7 +204,7 @@ $$
 \mathcal{A}(q;\Omega) \;=\; \sum_{i=1}^{p}\, \mathcal{A}(q;\Omega_i).
 $$
 
-*Demostración.* Es consecuencia directa de la definición, dado que la unión disjunta admisible garantiza que cada celda $C_k$ pertenece exactamente a un $\Omega_i$ y no se produce doble contabilidad al sumar las acumulaciones parciales (Lloret Egea, 2026a, Parte V, §§1-2). $\blacksquare$
+*Demostración.* Es consecuencia directa de la definición, dado que la unión disjunta admisible garantiza que cada celda $C_k$ pertenece exactamente a un $\Omega_i$ y no se produce doble contabilidad al sumar las acumulaciones parciales (Lloret Egea, 2026a, Parte V, §§1-2).
 
 **Propiedad 5.4.2 (linealidad).** $\mathcal{A}(\lambda_1 q_1 + \lambda_2 q_2;\Omega) = \lambda_1 \mathcal{A}(q_1;\Omega) + \lambda_2 \mathcal{A}(q_2;\Omega)$ para toda combinación lineal factualmente admisible.
 
@@ -326,7 +326,7 @@ $$
 
 son equivalentes sobre $C$.
 
-*Demostración.* Por la propiedad de aditividad del flujo sobre frontera compuesta (Propiedad 6.4.2) y la cancelación de fronteras internas (Propiedad 6.4.4), el flujo sobre $\partial C$ se descompone como suma orientada de las contribuciones de las caras elementales $B_j$ que constituyen la frontera. Cada cara contribuye con $\sigma_j\,\langle \mathcal{F}(B_j),\,n_{B_j}\rangle_{SV}\,\omega(B_j)$. Seleccionando la base posicional en la cual cada eje coordenado es paralelo a una orientación admisible de cara, la proyección $\langle \mathcal{F}(B_j),\,n_{B_j}\rangle_{SV}$ se reduce a la componente $F^i$ correspondiente al eje normal, y la suma sobre caras opuestas del par $(B_j^{+}, B_j^{-})$ respecto del mismo eje produce, dividida por $\omega(C)$, precisamente la derivada parcial posicional factual $\partial_i^{SV} F^{\,i}$. Sumando sobre los $n$ ejes de la base y restando el residual estructural interno se obtiene la igualdad de las dos expresiones (Lloret Egea, 2026a, §XXIV.5.3). $\blacksquare$
+*Demostración.* Por la propiedad de aditividad del flujo sobre frontera compuesta (Propiedad 6.4.2) y la cancelación de fronteras internas (Propiedad 6.4.4), el flujo sobre $\partial C$ se descompone como suma orientada de las contribuciones de las caras elementales $B_j$ que constituyen la frontera. Cada cara contribuye con $\sigma_j\,\langle \mathcal{F}(B_j),\,n_{B_j}\rangle_{SV}\,\omega(B_j)$. Seleccionando la base posicional en la cual cada eje coordenado es paralelo a una orientación admisible de cara, la proyección $\langle \mathcal{F}(B_j),\,n_{B_j}\rangle_{SV}$ se reduce a la componente $F^i$ correspondiente al eje normal, y la suma sobre caras opuestas del par $(B_j^{+}, B_j^{-})$ respecto del mismo eje produce, dividida por $\omega(C)$, precisamente la derivada parcial posicional factual $\partial_i^{SV} F^{\,i}$. Sumando sobre los $n$ ejes de la base y restando el residual estructural interno se obtiene la igualdad de las dos expresiones (Lloret Egea, 2026a, §XXIV.5.3).
 
 El uso conjunto de ambas formas permite transitar entre el enfoque geométrico-integral y el enfoque diferencial-local dentro del sistema sin pérdida de información.
 
@@ -552,7 +552,7 @@ donde $\pi_{\mathrm{reg}}$ proyecta sobre los observables de régimen y $\iota_{
 
 **Teorema 10.5.1 (unicidad de la restricción de régimen).** Fijados simultáneamente los observables $(\Lambda,B,\Theta)$ y las variables $(M,\alpha,\partial\Omega)$, la expresión anterior es la única restricción local de orden primero compatible con el jacobiano estructural del sistema.
 
-*Demostración.* Toda restricción local de orden primero del jacobiano estructural general a un subrégimen debe componerse con un proyector lineal sobre observables y con una inclusión sobre parámetros. Fijados ambos subconjuntos, la regla de la cadena determina unívocamente el diferencial restringido. No existe un segundo operador de orden primero distinto que conserve simultáneamente linealidad, localidad y compatibilidad con el jacobiano estructural general. $\blacksquare$
+*Demostración.* Toda restricción local de orden primero del jacobiano estructural general a un subrégimen debe componerse con un proyector lineal sobre observables y con una inclusión sobre parámetros. Fijados ambos subconjuntos, la regla de la cadena determina unívocamente el diferencial restringido. No existe un segundo operador de orden primero distinto que conserve simultáneamente linealidad, localidad y compatibilidad con el jacobiano estructural general.
 
 El determinante de $J_{SV}$ mide, por tanto, la invertibilidad local exacta de la transferencia entre excitación factual y observables del régimen. Su papel como criterio de frontera se articula en el apartado siguiente.
 
@@ -592,7 +592,7 @@ $$
 
 es exacta.
 
-*Demostración.* Si $\det(J_{SV})=0$, la aplicación $\Psi_{SV}^{\mathrm{reg}}$ pierde invertibilidad local y, por definición del dominio tratado, se activa la frontera factual. Recíprocamente, si la frontera factual está activa, el régimen ha perdido invertibilidad local; por tanto, el determinante del jacobiano de régimen se anula. Ambas implicaciones coinciden exactamente con la definición operatoria adoptada para frontera factual en este documento. $\blacksquare$
+*Demostración.* Si $\det(J_{SV})=0$, la aplicación $\Psi_{SV}^{\mathrm{reg}}$ pierde invertibilidad local y, por definición del dominio tratado, se activa la frontera factual. Recíprocamente, si la frontera factual está activa, el régimen ha perdido invertibilidad local; por tanto, el determinante del jacobiano de régimen se anula. Ambas implicaciones coinciden exactamente con la definición operatoria adoptada para frontera factual en este documento.
 
 ### 11.4. Estatuto del criterio
 
@@ -656,7 +656,7 @@ $$
 \sum_{k=0}^{n-1} \mathrm{Div}_{SV}(C_k) \;=\; \varphi(S_0) - \varphi(S_n).
 $$
 
-Por otra parte, $\varphi(S_0) - \varphi(S_n) = -\sum_{k=0}^{n-1} \bigl(\varphi(S_{k+1}) - \varphi(S_k)\bigr) = -\sum_{k=0}^{n-1} m_k$, lo que cierra la identidad. $\blacksquare$
+Por otra parte, $\varphi(S_0) - \varphi(S_n) = -\sum_{k=0}^{n-1} \bigl(\varphi(S_{k+1}) - \varphi(S_k)\bigr) = -\sum_{k=0}^{n-1} m_k$, lo que cierra la identidad.
 
 Esta fórmula establece que la acumulación de la divergencia a lo largo de una trayectoria poligonal factual iguala la diferencia entre los valores del campo en el vértice inicial y final, con signo opuesto a la suma total de magnitudes de activación (Lloret Egea, 2026b, Parte V, §§14-15). Constituye la versión discreta del teorema de balance de frontera Gauss–SV cuando el dominio se reduce a una trayectoria poligonal unidimensional.
 
@@ -706,7 +706,7 @@ $$
 
 es la única factorización escalar local de orden algebraico irreductible compatible con el dominio electromagnético factual.
 
-*Demostración.* La condición de anulación en régimen regular obliga a una compuerta que sólo pueda activarse en el conjunto $\{\det(J_{SV})=0\}$. La dependencia exclusiva del criterio de frontera excluye cualquier activación por magnitudes ajenas al determinante. La compatibilidad con estabilidad y balance exige que el operador transporte simultáneamente la información de $\Lambda$ y de $B$. La invariancia de orientación global excluye términos vectoriales u orientados de forma espuria. Por último, el orden algebraico irreductible elimina productos de mayor grado y combinaciones redundantes. La única forma restante es la anunciada. $\blacksquare$
+*Demostración.* La condición de anulación en régimen regular obliga a una compuerta que sólo pueda activarse en el conjunto $\{\det(J_{SV})=0\}$. La dependencia exclusiva del criterio de frontera excluye cualquier activación por magnitudes ajenas al determinante. La compatibilidad con estabilidad y balance exige que el operador transporte simultáneamente la información de $\Lambda$ y de $B$. La invariancia de orientación global excluye términos vectoriales u orientados de forma espuria. Por último, el orden algebraico irreductible elimina productos de mayor grado y combinaciones redundantes. La única forma restante es la anunciada. 
 
 ### 13.3. Estatuto absoluto del operador
 
