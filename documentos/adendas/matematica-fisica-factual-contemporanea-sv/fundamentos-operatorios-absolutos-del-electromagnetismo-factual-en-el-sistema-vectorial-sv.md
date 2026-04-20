@@ -2,7 +2,10 @@
 ---
 # Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV
 
-**Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351  | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)| *IA eñ™ — La Biblia de la IA™* | ISSN 2695-6411 |Licencia CC BY-NC-ND 4.0 | Madrid, 20/04/2026 
+**© 2026. Todos los derechos reservados**. 
+**Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 20/04/2026.
+
+(**Advertencia**: La aplicación o derivación de esta obra en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de personas jurídicas o empresas, queda estrictamente sujeta al copyright del autor y a los términos de la licencia indicada; el uso comercial sin autorización expresa y por escrito queda prohibido y supeditado al licenciamiento permitido).
 
 ---
 
@@ -486,45 +489,33 @@ El jacobiano de clausura se define como el morfismo estructural que asocia a una
 
 ### 10.4. Transformadas de trayectoria
 
-Una transformada de trayectoria $\mathcal{T}_\Phi[q]$ asocia a una magnitud factual $q$ definida sobre una trayectoria poligonal factual una nueva magnitud factual, parametrizada por un índice auxiliar $\lambda$, mediante la expresión general
+Una transformada de trayectoria 𝒯<sub>Φ</sub>[q] asocia a una magnitud factual q definida sobre una trayectoria poligonal factual una nueva magnitud factual, parametrizada por un índice auxiliar λ, mediante la expresión general
 
-$$
-\mathcal{T}_\Phi[q](\lambda) \;:=\; \sum_{j=0}^{m}\, q_j\, \Phi_\lambda(\nu_j),
-$$
+> 𝒯<sub>Φ</sub>[q](λ) := Σ<sub>j=0</sub><sup>m</sup> q<sub>j</sub> Φ<sub>λ</sub>(ν<sub>j</sub>),
 
-donde $\Phi_\lambda$ es un núcleo admisible (Lloret Egea, 2026a, §XXIV.6.1). El corpus del SV establece cuatro familias canónicas de transformadas de trayectoria sobre trayectorias poligonales factuales, que se enuncian a continuación.
+donde Φ<sub>λ</sub> es un núcleo admisible (Lloret Egea, 2026a, §XXIV.6.1). El corpus del SV establece cuatro familias canónicas de transformadas de trayectoria sobre trayectorias poligonales factuales, que se enuncian a continuación.
 
 **Transformada de amortiguación.** Codifica el decaimiento geométrico a lo largo de la trayectoria:
 
-$$
-\mathcal{T}_\alpha[q] \;=\; \sum_j q_j\, \alpha^{\,j}, \qquad \alpha \in \mathbb{R}_+.
-$$
+> 𝒯<sub>α</sub>[q] = Σ<sub>j</sub> q<sub>j</sub> α<sup>j</sup>, α ∈ ℝ<sub>+</sub>.
 
-**Transformada de persistencia.** Registra la contribución de los sucesos cuya longitud factual iguala o supera un umbral $L$:
+**Transformada de persistencia.** Registra la contribución de los sucesos cuya longitud factual iguala o supera un umbral L:
 
-$$
-\mathcal{T}_{\text{pers}}[q](L) \;=\; \sum_j q_j\, \mathbb{1}_{\{\ell(\nu_j)\,\geq\, L\}}.
-$$
+> 𝒯<sub>pers</sub>[q](L) = Σ<sub>j</sub> q<sub>j</sub> 𝟙<sub>{ℓ(ν<sub>j</sub>) ≥ L}</sub>.
 
-**Transformada cíclica.** Asociada al análisis modal del SV sobre ciclos canónicos, donde $e^{\,SV}_\kappa$ denota el núcleo cíclico factual de frecuencia modal $\kappa$:
+**Transformada cíclica.** Asociada al análisis modal del SV sobre ciclos canónicos, donde e<sup>SV</sup><sub>κ</sub> denota el núcleo cíclico factual de frecuencia modal κ:
 
-$$
-\mathcal{T}_{\text{cyc}}[q](\kappa) \;=\; \sum_j q_j\, e^{\,SV}_\kappa(\nu_j).
-$$
+> 𝒯<sub>cyc</sub>[q](κ) = Σ<sub>j</sub> q<sub>j</sub> e<sup>SV</sup><sub>κ</sub>(ν<sub>j</sub>).
 
-**Transformada residual.** Extrae la componente residual estructural a lo largo de la trayectoria, donde $R(\nu_j)$ es el núcleo residual asociado al índice de suceso:
+**Transformada residual.** Extrae la componente residual estructural a lo largo de la trayectoria, donde R(ν<sub>j</sub>) es el núcleo residual asociado al índice de suceso:
 
-$$
-\mathcal{T}_{\text{res}}[q] \;=\; \sum_j q_j\, R(\nu_j).
-$$
+> 𝒯<sub>res</sub>[q] = Σ<sub>j</sub> q<sub>j</sub> R(ν<sub>j</sub>).
 
 Cada familia satisface las siguientes propiedades operatorias canónicas, que se establecen en la fuente citada: primero, **linealidad** respecto del argumento,
 
-$$
-\mathcal{T}[\lambda_1 q_1 + \lambda_2 q_2] \;=\; \lambda_1\, \mathcal{T}[q_1] + \lambda_2\, \mathcal{T}[q_2],
-$$
+> 𝒯[λ<sub>1</sub> q<sub>1</sub> + λ<sub>2</sub> q<sub>2</sub>] = λ<sub>1</sub> 𝒯[q<sub>1</sub>] + λ<sub>2</sub> 𝒯[q<sub>2</sub>],
 
-para toda combinación lineal factualmente admisible; segundo, **separabilidad**, según la cual la transformada de un producto factual se descompone por factores bajo condiciones estructurales explícitas; tercero, **invertibilidad factual**, que garantiza la existencia de una inversa $\mathcal{T}^{-1}$ sobre los dominios de reconstrucción admisibles; cuarto, **estabilidad reconstructiva**, que acota el error de reconstrucción al aplicar $\mathcal{T}^{-1} \circ \mathcal{T}$ dentro de la tolerancia factual propia del sistema; quinto, **teorema de reconstrucción**, que fija la condición suficiente para recuperar la magnitud original $q$ a partir de su transformada (Lloret Egea, 2026a, §§XXIV.6.3-XXIV.6.8). Las cuatro familias constituyen un cuerpo cerrado sobre el cual se apoyan todos los análisis espectrales y reconstructivos del SV.
+para toda combinación lineal factualmente admisible; segundo, **separabilidad**, según la cual la transformada de un producto factual se descompone por factores bajo condiciones estructurales explícitas; tercero, **invertibilidad factual**, que garantiza la existencia de una inversa 𝒯<sup>−1</sup> sobre los dominios de reconstrucción admisibles; cuarto, **estabilidad reconstructiva**, que acota el error de reconstrucción al aplicar 𝒯<sup>−1</sup> ∘ 𝒯 dentro de la tolerancia factual propia del sistema; quinto, **teorema de reconstrucción**, que fija la condición suficiente para recuperar la magnitud original q a partir de su transformada (Lloret Egea, 2026a, §§XXIV.6.3-XXIV.6.8). Las cuatro familias constituyen un cuerpo cerrado sobre el cual se apoyan todos los análisis espectrales y reconstructivos del SV.
 
 ### 10.5. Sensibilidad de régimen
 
