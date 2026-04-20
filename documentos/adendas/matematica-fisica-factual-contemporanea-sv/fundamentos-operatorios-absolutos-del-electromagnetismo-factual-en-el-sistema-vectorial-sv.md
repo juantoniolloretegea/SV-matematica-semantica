@@ -1,5 +1,9 @@
+
 ---
 # Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 20/04/2026
+
+(Advertencia: La aplicación de esta obra en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de personas jurídicas o empresas, queda estrictamente sujeta al copyright del autor y a los términos de la licencia indicada; el uso comercial sin autorización expresa y por escrito queda prohibido y supeditado al licenciamiento permitido).
 
 **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351  | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)| *IA eñ™ — La Biblia de la IA™* | ISSN 2695-6411 |Licencia CC BY-NC-ND 4.0 | Madrid, 20/04/2026 
 
@@ -101,7 +105,7 @@ $$
 \rho(0) = 1, \qquad \rho(1) = 2, \qquad \rho(U) = 3,
 $$
 
-que asigna un módulo factual distinto a cada uno de los tres estados ternarios (Lloret Egea, 2026a, Parte III; Lloret Egea, 2026b, Parte IV). La elección responde a la exigencia de que los tres estados sean mutuamente distinguibles bajo cualquier operador que se construya posteriormente.
+que asigna un módulo factual distinto a cada uno de los tres estados ternarios (Lloret Egea, 2026a, §XII; Lloret Egea, 2026d, §III). La elección responde a la exigencia de que los tres estados sean mutuamente distinguibles bajo cualquier operador que se construya posteriormente.
 
 ### 4.2. Polígono factual canónico
 
@@ -111,7 +115,7 @@ $$
 V_i(v) = \bigl(\,\rho(v_i)\cos\theta_i,\;\rho(v_i)\sin\theta_i\,\bigr), \qquad \theta_i = \frac{2\pi(i-1)}{9}, \qquad i = 1,\ldots,9.
 $$
 
-Los ángulos $\theta_i$ distribuyen uniformemente los vértices sobre el ciclo; los módulos $\rho(v_i)$ dependen del estado ternario $v_i$ asignado al vértice. El polígono resultante codifica, en una única estructura geométrica, la distribución factual de una célula canónica completa (Lloret Egea, 2026a, Parte III; Lloret Egea, 2026b, Parte IV).
+Los ángulos $\theta_i$ distribuyen uniformemente los vértices sobre el ciclo; los módulos $\rho(v_i)$ dependen del estado ternario $v_i$ asignado al vértice. El polígono resultante codifica, en una única estructura geométrica, la distribución factual de una célula canónica completa (Lloret Egea, 2026a, §XII; Lloret Egea, 2026d, §III).
 
 ### 4.3. Orientación, multiplicidad y peso factual
 
@@ -175,7 +179,11 @@ $$
 \mathfrak{D}_{\Gamma^{-1}} q(j) = -\,\frac{\omega(\nu_{j-1})}{\omega(\nu_j)}\,\mathfrak{D}_\Gamma q(j-1),
 $$
 
-y, en particular, si el peso factual es uniforme a lo largo de $\Gamma$, $\mathfrak{D}_{\Gamma^{-1}} q(j) = -\,\mathfrak{D}_\Gamma q(j-1)$.
+y, en particular, si el peso factual es uniforme a lo largo de $\Gamma$, se reduce a
+
+$$
+\mathfrak{D}_{\Gamma^{-1}} q(j) \;=\; -\,\mathfrak{D}_\Gamma q(j-1).
+$$
 
 ### 5.3. Derivada de trayectoria
 
@@ -275,7 +283,7 @@ $$
 \mathrm{Div}_{SV}(\mathcal{F}; C) = \Phi_{SV}(\mathcal{F}; C, F_C) - \mathcal{I}_{SV}(\mathcal{F}; C),
 $$
 
-donde $\mathcal{I}_{SV}$ designa el término factual interno de fuente, sumidero o residual estructural local. La divergencia factual mide, por tanto, el balance neto entre lo que atraviesa la frontera y lo que se conserva o disipa en el interior (Lloret Egea, 2026a, §XVIII.2).
+donde el término $\mathcal{I}_{SV}(\mathcal{F}; C)$ designa la componente factual interna de fuente, sumidero o residual estructural local. La divergencia factual mide, por tanto, el balance neto entre lo que atraviesa la frontera y lo que se conserva o disipa en el interior (Lloret Egea, 2026a, §XVIII.2).
 
 ### 7.2. Formulación completa
 
@@ -285,7 +293,7 @@ $$
 \mathrm{Div}_{SV}(\mathcal{F}; C)\, \omega(C) \;=\; \Phi_{SV}(\mathcal{F}; \partial C) \;-\; \mathcal{I}_{\text{res}}(\mathcal{F}; C),
 $$
 
-donde $\mathcal{I}_{\text{res}}$ designa el término factual interno de fuente, sumidero o residual estructural local. En el caso homogéneo, sin residual interior, la expresión se reduce a
+donde el término $\mathcal{I}_{\text{res}}(\mathcal{F}; C)$ designa la componente factual interna de fuente, sumidero o residual estructural local. En el caso homogéneo, sin residual interior, la expresión se reduce a
 
 $$
 \mathrm{Div}_{SV}(\mathcal{F}; C)\, \omega(C) \;=\; \Phi_{SV}(\mathcal{F}; \partial C).
@@ -335,7 +343,7 @@ $$
 \mathrm{Rot}_{SV}(\mathcal{F}; \Gamma^\circlearrowleft) = \mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F}),
 $$
 
-donde $\mathfrak{C}_{\Gamma^\circlearrowleft}$ designa el operador de circulación factual asociado al ciclo (Lloret Egea, 2026a, §XVIII.3).
+donde $\mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F})$ designa el operador de circulación factual asociado al ciclo (Lloret Egea, 2026a, §XVIII.3).
 
 ### 8.2. Formulación completa como circulación
 
@@ -367,7 +375,7 @@ $$
 
 donde $dS^{\,ij}$ designa el elemento factual orientado de superficie asociado al plano $(i,j)$.
 
-*Demostración.* Por la Propiedad 6.4.4 de cancelación de fronteras internas, aplicada ahora a las caras orientadas de una triangulación admisible $\Sigma = \bigsqcup_{\alpha} T_\alpha$ de la superficie, las contribuciones al sumatorio de circulación sobre los bordes de los triángulos adyacentes se cancelan mutuamente en los tramos interiores comunes y la suma global se reduce a la circulación sobre la frontera exterior $\partial\Sigma$. Para cada triángulo $T_\alpha$ con orientación coherente, la integral factual de la antisimetría de parciales $\Omega^{SV}_{ij}(\mathcal{F})$ sobre $T_\alpha$ iguala, por definición local, la circulación $\mathfrak{C}_{\partial T_\alpha}(\mathcal{F})$ sobre su frontera orientada (Lloret Egea, 2026a, §§XXIV.3.7, XXIV.5.4). Sumando sobre $\alpha$ y cancelando las contribuciones interiores se obtiene
+*Demostración.* Sea una triangulación admisible $\Sigma = \bigsqcup_{\alpha} T_\alpha$ de la superficie, con cada triángulo $T_\alpha$ orientado coherentemente con $\Sigma$. Por la Propiedad 6.4.4 de cancelación de fronteras internas, aplicada ahora a las caras orientadas de la triangulación, las contribuciones al sumatorio de circulación sobre los bordes de los triángulos adyacentes se cancelan mutuamente en los tramos interiores comunes, y la suma global se reduce a la circulación sobre la frontera exterior $\partial\Sigma$. Para cada triángulo $T_\alpha$, por definición local, la integral factual de la antisimetría de parciales sobre $T_\alpha$ iguala la circulación del campo sobre su frontera orientada (Lloret Egea, 2026a, §§XXIV.3.7, XXIV.5.4). Sumando sobre $\alpha$ y cancelando las contribuciones interiores se obtiene
 
 $$
 \iint^{SV}_{\Sigma}\, \Omega^{SV}_{ij}(\mathcal{F})\, dS^{\,ij} \;=\; \sum_\alpha \mathfrak{C}_{\partial T_\alpha}(\mathcal{F}) \;=\; \mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F}). \qquad \blacksquare
@@ -386,19 +394,19 @@ Esta expresión es la instancia polinomial directa de 8.2 cuando la circulación
 **Ejemplo 8.5.1.** Sea un ciclo cuadrilateral $C = (u_1, u_2, u_3, u_4, u_1)$ sobre el cual las magnitudes de enlace del campo eléctrico toman los valores
 
 $$
-\Gamma^E_{12} = 0.10, \quad \Gamma^E_{23} = 0.12, \quad \Gamma^E_{34} = 0.09, \quad \Gamma^E_{41} = -0.04,
+\Gamma^E_{12} = 0{,}10, \quad \Gamma^E_{23} = 0{,}12, \quad \Gamma^E_{34} = 0{,}09, \quad \Gamma^E_{41} = -0{,}04,
 $$
 
-y la medida factual del ciclo es $A_{SV}(C) = 0.30$. Entonces la circulación factual vale
+y la medida factual del ciclo es $A_{SV}(C) = 0{,}30$. Entonces la circulación factual vale
 
 $$
-\mathfrak{C}_{SV}(E;C) \;=\; 0.10 + 0.12 + 0.09 - 0.04 \;=\; 0.27,
+\mathfrak{C}_{SV}(E;C) \;=\; 0{,}10 + 0{,}12 + 0{,}09 - 0{,}04 \;=\; 0{,}27,
 $$
 
 y el rotor factual operatorio sobre el ciclo resulta
 
 $$
-\mathrm{Rot}_{SV}(E; C) \;=\; \frac{0.27}{0.30} \;=\; 0.90.
+\mathrm{Rot}_{SV}(E; C) \;=\; \frac{0{,}27}{0{,}30} \;=\; 0{,}90.
 $$
 
 Este valor caracteriza la intensidad de rotación factual del campo sobre el ciclo considerado, sin necesidad de invocar ninguna geometría auxiliar externa.
@@ -487,14 +495,39 @@ $$
 \mathcal{T}_\Phi[q](\lambda) \;:=\; \sum_{j=0}^{m}\, q_j\, \Phi_\lambda(\nu_j),
 $$
 
-donde $\Phi_\lambda$ es un núcleo admisible (Lloret Egea, 2026a, §XXIV.6.1). El corpus del SV establece cuatro familias canónicas de transformadas de trayectoria que, conjuntamente, agotan el espectro operatorio disponible sobre trayectorias poligonales factuales:
+donde $\Phi_\lambda$ es un núcleo admisible (Lloret Egea, 2026a, §XXIV.6.1). El corpus del SV establece cuatro familias canónicas de transformadas de trayectoria sobre trayectorias poligonales factuales, que se enuncian a continuación.
 
-- la **transformada de amortiguación** $\mathcal{T}_\alpha[q] = \sum_j q_j\, \alpha^{\,j}$, con $\alpha \in \mathbb{R}_+$, que codifica el decaimiento geométrico a lo largo de la trayectoria;
-- la **transformada de persistencia** $\mathcal{T}_{\text{pers}}[q](L) = \sum_j q_j\, \mathbb{1}_{\{\ell(\nu_j)\,\geq\, L\}}$, que registra la contribución de los sucesos cuya longitud factual iguala o supera un umbral $L$;
-- la **transformada cíclica** $\mathcal{T}_{\text{cyc}}[q](\kappa) = \sum_j q_j\, e^{\,SV}_\kappa(\nu_j)$, asociada al análisis modal del SV sobre ciclos canónicos, donde $e^{\,SV}_\kappa$ denota el núcleo cíclico factual de frecuencia modal $\kappa$;
-- la **transformada residual** $\mathcal{T}_{\text{res}}[q] = \sum_j q_j\, R(\nu_j)$, que extrae la componente residual estructural a lo largo de la trayectoria, donde $R(\nu_j)$ es el núcleo residual asociado al índice de suceso.
+**Transformada de amortiguación.** Codifica el decaimiento geométrico a lo largo de la trayectoria:
 
-Cada familia satisface las siguientes propiedades operatorias canónicas, que se establecen en la fuente citada: (i) **linealidad** respecto del argumento, $\mathcal{T}[\lambda_1 q_1 + \lambda_2 q_2] = \lambda_1 \mathcal{T}[q_1] + \lambda_2 \mathcal{T}[q_2]$ para toda combinación lineal factualmente admisible; (ii) **separabilidad**, según la cual la transformada de un producto factual se descompone por factores bajo condiciones estructurales explícitas; (iii) **invertibilidad factual**, que garantiza la existencia de una inversa $\mathcal{T}^{-1}$ sobre los dominios de reconstrucción admisibles; (iv) **estabilidad reconstructiva**, que acota el error de reconstrucción al aplicar $\mathcal{T}^{-1} \circ \mathcal{T}$ dentro de la tolerancia factual propia del sistema; (v) **teorema de reconstrucción**, que fija la condición suficiente para recuperar la magnitud original $q$ a partir de su transformada $\mathcal{T}[q]$ (Lloret Egea, 2026a, §§XXIV.6.3-XXIV.6.8). Las cuatro familias constituyen un cuerpo cerrado sobre el cual se apoyan todos los análisis espectrales y reconstructivos del SV.
+$$
+\mathcal{T}_\alpha[q] \;=\; \sum_j q_j\, \alpha^{\,j}, \qquad \alpha \in \mathbb{R}_+.
+$$
+
+**Transformada de persistencia.** Registra la contribución de los sucesos cuya longitud factual iguala o supera un umbral $L$:
+
+$$
+\mathcal{T}_{\text{pers}}[q](L) \;=\; \sum_j q_j\, \mathbb{1}_{\{\ell(\nu_j)\,\geq\, L\}}.
+$$
+
+**Transformada cíclica.** Asociada al análisis modal del SV sobre ciclos canónicos, donde $e^{\,SV}_\kappa$ denota el núcleo cíclico factual de frecuencia modal $\kappa$:
+
+$$
+\mathcal{T}_{\text{cyc}}[q](\kappa) \;=\; \sum_j q_j\, e^{\,SV}_\kappa(\nu_j).
+$$
+
+**Transformada residual.** Extrae la componente residual estructural a lo largo de la trayectoria, donde $R(\nu_j)$ es el núcleo residual asociado al índice de suceso:
+
+$$
+\mathcal{T}_{\text{res}}[q] \;=\; \sum_j q_j\, R(\nu_j).
+$$
+
+Cada familia satisface las siguientes propiedades operatorias canónicas, que se establecen en la fuente citada: primero, **linealidad** respecto del argumento,
+
+$$
+\mathcal{T}[\lambda_1 q_1 + \lambda_2 q_2] \;=\; \lambda_1\, \mathcal{T}[q_1] + \lambda_2\, \mathcal{T}[q_2],
+$$
+
+para toda combinación lineal factualmente admisible; segundo, **separabilidad**, según la cual la transformada de un producto factual se descompone por factores bajo condiciones estructurales explícitas; tercero, **invertibilidad factual**, que garantiza la existencia de una inversa $\mathcal{T}^{-1}$ sobre los dominios de reconstrucción admisibles; cuarto, **estabilidad reconstructiva**, que acota el error de reconstrucción al aplicar $\mathcal{T}^{-1} \circ \mathcal{T}$ dentro de la tolerancia factual propia del sistema; quinto, **teorema de reconstrucción**, que fija la condición suficiente para recuperar la magnitud original $q$ a partir de su transformada (Lloret Egea, 2026a, §§XXIV.6.3-XXIV.6.8). Las cuatro familias constituyen un cuerpo cerrado sobre el cual se apoyan todos los análisis espectrales y reconstructivos del SV.
 
 ### 10.5. Sensibilidad de régimen
 
@@ -676,7 +709,7 @@ $$
 \mathcal{R}^{f}_{SV} \;=\; \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B,
 $$
 
-donde $\mathbf{1}_{\{\det(J_{SV})=0\}}$ es la compuerta factual exacta de activación de frontera, $\Lambda$ es la estabilidad del régimen y $B$ es el balance factual asociado.
+donde el factor indicador $\mathbf{1}_{\{\det(J_{SV})=0\}}$ es la compuerta factual exacta de activación de frontera, $\Lambda$ es la estabilidad del régimen y $B$ es el balance factual asociado.
 
 **Teorema 13.2.1 (unicidad canónica del operador de reconfiguración).** Bajo las cinco condiciones anteriores, la forma
 
@@ -690,7 +723,7 @@ es la única factorización escalar local de orden algebraico irreductible compa
 
 ### 13.3. Estatuto absoluto del operador
 
-La forma anterior no es una realización conveniente ni un cierre auxiliar: es la clausura canónica del operador de reconfiguración factual en el dominio tratado por este documento. La compuerta exacta $\mathbf{1}_{\{\det(J_{SV})=0\}}$ recoge la activación de frontera fijada en 11.3, mientras que el producto $\Lambda B$ transporta, sin introducir ninguna magnitud ajena, la doble información de estabilidad y balance requerida para la reconfiguración del régimen. Queda así cerrada la forma absoluta
+La forma anterior no es una realización conveniente ni un cierre auxiliar: es la clausura canónica del operador de reconfiguración factual en el dominio tratado por este documento. La compuerta exacta que figura como factor indicador recoge la activación de frontera fijada en 11.3, mientras que el producto $\Lambda B$ transporta, sin introducir ninguna magnitud ajena, la doble información de estabilidad y balance requerida para la reconfiguración del régimen. Queda así cerrada la forma absoluta
 
 $$
 \mathcal{R}^{f}_{SV} \;=\; \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B.
@@ -720,8 +753,8 @@ $$
 
 La verificación visible queda en la tabla siguiente.
 
-| $k$ | $m_k$ | $\mathrm{Div}_{SV}(C_k)$ | $-m_k$ | Coincidencia |
-| --- | --- | --- | --- | --- |
+| k | m<sub>k</sub> | Div<sub>SV</sub>(C<sub>k</sub>) | −m<sub>k</sub> | Coincidencia |
+|---|---:|---:|---:|---|
 | 0 | 2 | -2 | -2 | Sí |
 | 1 | 3 | -3 | -3 | Sí |
 | 2 | 2 | -2 | -2 | Sí |
@@ -756,31 +789,31 @@ $$
 Se toma el ciclo factual cuadrilateral $C=(u_1,u_2,u_3,u_4,u_1)$ con magnitudes de enlace
 
 $$
-\Gamma^E_{12}=0.10,\quad \Gamma^E_{23}=0.12,\quad \Gamma^E_{34}=0.09,\quad \Gamma^E_{41}=-0.04,
+\Gamma^E_{12}=0{,}10,\quad \Gamma^E_{23}=0{,}12,\quad \Gamma^E_{34}=0{,}09,\quad \Gamma^E_{41}=-0{,}04,
 $$
 
 y medida factual del ciclo
 
 $$
-A_{SV}(C)=0.30.
+A_{SV}(C)=0{,}30.
 $$
 
 La circulación factual visible es
 
 $$
-\mathfrak{C}_{SV}(E;C)=0.10+0.12+0.09-0.04=0.27.
+\mathfrak{C}_{SV}(E;C)=0{,}10+0{,}12+0{,}09-0{,}04=0{,}27.
 $$
 
 El rotor operatorio queda entonces fijado por
 
 $$
-\mathrm{Rot}_{SV}(E;C)=\frac{0.27}{0.30}=0.90.
+\mathrm{Rot}_{SV}(E;C)=\frac{0{,}27}{0{,}30}=0{,}90.
 $$
 
-Si se integra la densidad rotacional constante $0.90$ sobre una superficie factual de medida $A_{SV}(C)=0.30$, se recupera exactamente la circulación del borde:
+Si se integra la densidad rotacional constante $0{,}90$ sobre una superficie factual de medida $A_{SV}(C)=0{,}30$, se recupera exactamente la circulación del borde:
 
 $$
-0.90\times 0.30 = 0.27 = \mathfrak{C}_{SV}(E;C).
+0{,}90\times 0{,}30 = 0{,}27 = \mathfrak{C}_{SV}(E;C).
 $$
 
 Esta igualdad hace visible la compatibilidad entre la forma operatoria del rotor y el enunciado Stokes–SV del §8.4.
@@ -790,7 +823,7 @@ Esta igualdad hace visible la compatibilidad entre la forma operatoria del rotor
 Se toma un dominio factual orientado $\Omega$ con módulos de borde
 
 $$
-M^E_{12}=0.20,\quad M^E_{23}=0.15,\quad M^E_{34}=0.18,\quad M^E_{41}=0.12,
+M^E_{12}=0{,}20,\quad M^E_{23}=0{,}15,\quad M^E_{34}=0{,}18,\quad M^E_{41}=0{,}12,
 $$
 
 y ángulos respecto de la normal saliente
@@ -802,35 +835,35 @@ $$
 Las contribuciones normales visibles son
 
 $$
-0.20\cos 0^\circ = 0.20,\qquad 0.15\cos 60^\circ = 0.075,
+0{,}20\cos 0^\circ = 0{,}20,\qquad 0{,}15\cos 60^\circ = 0{,}075,
 $$
 
 $$
-0.18\cos 120^\circ = -0.09,\qquad 0.12\cos 180^\circ = -0.12.
+0{,}18\cos 120^\circ = -0{,}09,\qquad 0{,}12\cos 180^\circ = -0{,}12.
 $$
 
 El flujo neto factual es
 
 $$
-\Phi_{SV}=0.20+0.075-0.09-0.12=0.065.
+\Phi_{SV}=0{,}20+0{,}075-0{,}09-0{,}12=0{,}065.
 $$
 
 Con medida factual interna del dominio
 
 $$
-V_{SV}(\Omega)=0.10,
+V_{SV}(\Omega)=0{,}10,
 $$
 
 la divergencia operatoria visible resulta
 
 $$
-\mathrm{Div}_{SV}(\Omega)=\frac{0.065}{0.10}=0.65.
+\mathrm{Div}_{SV}(\Omega)=\frac{0{,}065}{0{,}10}=0{,}65.
 $$
 
 La verificación visible del teorema de balance de frontera Gauss–SV queda entonces
 
 $$
-\iiint^{SV}_{\Omega}\mathrm{Div}_{SV}(\mathcal F)=0.65\cdot 0.10=0.065=\Phi_{SV},
+\iiint^{SV}_{\Omega}\mathrm{Div}_{SV}(\mathcal F)=0{,}65\cdot 0{,}10=0{,}065=\Phi_{SV},
 $$
 
 lo que exhibe sin salto alguno la compatibilidad entre divergencia operatoria, acumulación interior y flujo de frontera.
@@ -863,19 +896,19 @@ $$
 Si, además, se toma un estado factual con
 
 $$
-\Theta=0.30,\qquad \Lambda=\frac{1}{1+\Theta}=\frac{1}{1.30}=0.769230\ldots,
+\Theta=0{,}30,\qquad \Lambda=\frac{1}{1+\Theta}=\frac{1}{1{,}30}=0{,}769230\ldots,
 $$
 
 junto con un balance factual local
 
 $$
-B=0.13,
+B=0{,}13,
 $$
 
 el operador absoluto de reconfiguración factual vale
 
 $$
-\mathcal{R}^{f}_{SV}=\mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B=1\cdot 0.769230\ldots\cdot 0.13=0.10.
+\mathcal{R}^{f}_{SV}=\mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B=1\cdot 0{,}769230\ldots\cdot 0{,}13=0{,}10.
 $$
 
 Con ello queda exhibida la coherencia algebraica entre pérdida de invertibilidad, activación de frontera y valor efectivo del operador de reconfiguración factual.
@@ -883,15 +916,15 @@ Con ello queda exhibida la coherencia algebraica entre pérdida de invertibilida
 ### 14.6. Matriz total de consistencia visible
 
 | Banco de verificación | Operador / teorema | Entrada visible | Salida visible | Dictamen |
-| --- | --- | --- | --- | --- |
-| Trayectoria de diez celdas | Identidad diferencial-geométrica | $\vec m=(2,3,2,1,0,-1,-2,-3,-1,0)$ | $\mathrm{Div}_{SV}(C_k)=-m_k$ término a término | Pasa |
-| Trayectoria de diez celdas | Fórmula discreta Gauss–SV | $\sum m_k = 1$ | $\sum \mathrm{Div}_{SV}(C_k)=-1$ | Pasa |
-| Ciclo cuadrilateral | Rotor operatorio | $\mathfrak{C}_{SV}=0.27$, $A_{SV}=0.30$ | $\mathrm{Rot}_{SV}=0.90$ | Pasa |
-| Ciclo cuadrilateral | Compatibilidad Stokes–SV | $\mathrm{Rot}_{SV}=0.90$, $A_{SV}=0.30$ | $0.90\cdot0.30=0.27$ | Pasa |
-| Dominio orientado | Divergencia operatoria | Flujo neto $0.065$, $V_{SV}=0.10$ | $\mathrm{Div}_{SV}=0.65$ | Pasa |
-| Dominio orientado | Balance de frontera Gauss–SV | $\mathrm{Div}_{SV}=0.65$, $V_{SV}=0.10$ | $0.65\cdot0.10=0.065=\Phi_{SV}$ | Pasa |
-| Régimen local algebraico | Criterio absoluto de frontera | $\det(J_{SV})=0$ | $\partial\Omega$ activa | Pasa |
-| Régimen local algebraico | Operador de reconfiguración factual | $\Lambda=0.769230\ldots$, $B=0.13$ | $\mathcal{R}^{f}_{SV}=0.10$ | Pasa |
+|---|---|---|---|---|
+| Trayectoria de diez celdas | Identidad diferencial-geométrica | **m⃗** = (2, 3, 2, 1, 0, −1, −2, −3, −1, 0) | Div<sub>SV</sub>(C<sub>k</sub>) = −m<sub>k</sub> término a término | Pasa |
+| Trayectoria de diez celdas | Fórmula discreta Gauss–SV | Σ m<sub>k</sub> = 1 | Σ Div<sub>SV</sub>(C<sub>k</sub>) = −1 | Pasa |
+| Ciclo cuadrilateral | Rotor operatorio | 𝔠<sub>SV</sub> = 0,27; A<sub>SV</sub> = 0,30 | Rot<sub>SV</sub> = 0,90 | Pasa |
+| Ciclo cuadrilateral | Compatibilidad Stokes–SV | Rot<sub>SV</sub> = 0,90; A<sub>SV</sub> = 0,30 | 0,90 · 0,30 = 0,27 | Pasa |
+| Dominio orientado | Divergencia operatoria | Flujo neto 0,065; V<sub>SV</sub> = 0,10 | Div<sub>SV</sub> = 0,65 | Pasa |
+| Dominio orientado | Balance de frontera Gauss–SV | Div<sub>SV</sub> = 0,65; V<sub>SV</sub> = 0,10 | 0,65 · 0,10 = 0,065 = Φ<sub>SV</sub> | Pasa |
+| Régimen local algebraico | Criterio absoluto de frontera | det(J<sub>SV</sub>) = 0 | ∂Ω activa | Pasa |
+| Régimen local algebraico | Operador de reconfiguración factual | Λ = 0,769230…; B = 0,13 | 𝓡<sup>f</sup><sub>SV</sub> = 0,10 | Pasa |
 
 La célula $SV(3,9)$ y los bancos auxiliares adoptados en este apartado confirman, de forma visible y reproducible, la coherencia global del bloque operatorio desarrollado en los apartados 6 a 13.
 
@@ -911,50 +944,255 @@ La tabla 1 reúne, en un cuerpo único y de referencia inmediata, el conjunto ce
 
 ### Tabla 1. Operadores soberanos del Sistema Vectorial SV: fórmulas absolutas
 
-| Elemento | Fórmula absoluta en el SV | Localización |
-| --- | --- | --- |
-| Derivada de suceso | $\mathfrak{D}_\Gamma q(j) = \dfrac{q_{j+1} - q_j}{\omega(\nu_j)}$ | Lloret Egea (2026a, Parte IV, §2) |
-| Acumulación factual | $\mathcal{A}(q;\Omega) = \sum_{k:\,C_k\in\Omega}\, q(C_k)\,\omega(C_k)$ | Lloret Egea (2026a, Parte V, §1) |
-| Flujo factual | $\Phi_{SV}(\mathcal{F};B) = \sum_j \sigma_j\,\langle\mathcal{F}(B_j),\,n_{B_j}\rangle_{SV}\,\omega(B_j)$ | Lloret Egea (2026a, §XXIV.3.5) |
-| Divergencia factual (forma de balance) | $\mathrm{Div}_{SV}(\mathcal{F};C)\,\omega(C) = \Phi_{SV}(\mathcal{F};\partial C) - \mathcal{I}_{\text{res}}(\mathcal{F};C)$ | Lloret Egea (2026a, §XXIV.3.6) |
-| Divergencia factual (forma posicional) | $\mathrm{Div}_{SV}(\mathcal{F}) = \sum_{i=1}^{n}\partial_i^{SV} F^{\,i} - \mathcal{I}_{\text{res}}(\mathcal{F})$ | Lloret Egea (2026a, §XXIV.5.3) |
-| Circulación factual | $\mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F}) = \sum_j \varepsilon_j\,\mathcal{F}(\Gamma_j)\,\omega(\Gamma_j)$ | Lloret Egea (2026a, §XXIV.3.7) |
-| Rotor factual (forma posicional antisimétrica) | $\Omega^{SV}_{ij}(\mathcal{F}) = \partial_i^{SV} F^{\,j} - \partial_j^{SV} F^{\,i}$ | Lloret Egea (2026a, §XXIV.5.4) |
-| Integral factual de superficie | $\displaystyle\iint^{SV}_{\Sigma_{SV}}\!\mathcal{F} = \sum_j \sigma_j\,\mathcal{F}(B_j)\,\omega(B_j)$ | Lloret Egea (2026a, §XXIV.3.8) |
-| Integral factual de volumen | $\displaystyle\iiint^{SV}_{\mathcal{V}_{SV}}\!\mathcal{G} = \sum_k\, \mathcal{G}(C_k)\,\omega(C_k)$ | Lloret Egea (2026a, §XXIV.3.8) |
-| Teorema de balance Gauss–SV | $\displaystyle\iiint^{SV}_{\mathcal{V}_{SV}}\!\mathrm{Div}_{SV}(\mathcal{F}) = \iint^{SV}_{\partial\mathcal{V}_{SV}}\!\mathcal{F} - \iiint^{SV}_{\mathcal{V}_{SV}}\!\mathcal{I}_{\text{res}}(\mathcal{F})$ | Lloret Egea (2026a, §XXIV.3.10) |
-| Teorema Stokes–SV | $\displaystyle\mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F}) = \iint^{SV}_\Sigma\, \Omega^{SV}_{ij}(\mathcal{F})\, dS^{\,ij}$ | Lloret Egea (2026a, §§XXIV.3.7, XXIV.5.4) |
-| Jacobiano estructural paramétrico | $J^{SV}_x(q;\nu_j) = \bigl(\partial^{SV}_{x_b} q^{(a)}(\nu_j)\bigr)_{a,b}$ | Lloret Egea (2026a, §XXIV.5.1) |
-| Jacobiano posicional | $J^{SV}_{\text{pos}}(q;\nu_j) = \bigl(\partial^{SV}_i q^{(a)}(\nu_j)\bigr)_{a,i}$ | Lloret Egea (2026a, §XXIV.5.2) |
-| Jacobiano de clausura | $J^{SV}_{\text{clau}}$: morfismo estructural de cambio de clase de clausura local | Lloret Egea (2026a, §XXIV.5.5) |
-| Transformada de trayectoria (forma general) | $\mathcal{T}_\Phi[q](\lambda) = \sum_{j=0}^{m}\, q_j\,\Phi_\lambda(\nu_j)$ | Lloret Egea (2026a, §XXIV.6.1) |
-| Transformada de amortiguación | $\mathcal{T}_\alpha[q] = \sum_j q_j\,\alpha^{\,j}$, $\alpha \in \mathbb{R}_+$ | Lloret Egea (2026a, §XXIV.6.2) |
-| Transformada de persistencia | $\mathcal{T}_{\text{pers}}[q](L) = \sum_j q_j\,\mathbb{1}_{\{\ell(\nu_j)\,\geq\, L\}}$ | Lloret Egea (2026a, §XXIV.6.2) |
-| Transformada cíclica | $\mathcal{T}_{\text{cyc}}[q](\kappa) = \sum_j q_j\, e^{\,SV}_\kappa(\nu_j)$ | Lloret Egea (2026a, §XXIV.6.2) |
-| Transformada residual | $\mathcal{T}_{\text{res}}[q] = \sum_j q_j\, R(\nu_j)$ | Lloret Egea (2026a, §XXIV.6.2) |
-| Curvatura factual por holonomía | $\mathrm{Hol}_\gamma(q) = q_{\text{final}} / q_{\text{inicial}}$ sobre bucle $\gamma$ | Lloret Egea (2026a, §XXIV.11.2) |
-| Identidad diferencial-geométrica | $\mathrm{Div}_{SV}(C_k) = -\,m_k$, $k = 0,1,\ldots,n-1$ | Lloret Egea (2026b, Parte IV, §5) |
-| Fórmula discreta Gauss–SV | $\displaystyle\sum_{k=0}^{n-1}\mathrm{Div}_{SV}(C_k) = \varphi(S_0) - \varphi(S_n) = -\sum_{k=0}^{n-1} m_k$ | Lloret Egea (2026b, Parte V, §§14-15) |
+La tabla se presenta como ficha por operador: cada ficha contiene la fórmula en bloque display y la localización en el corpus del SV.
+
+**Derivada de suceso.**
+
+$$
+\mathfrak{D}_\Gamma q(j) \;=\; \dfrac{q_{j+1} - q_j}{\omega(\nu_j)}
+$$
+
+Localización: Lloret Egea (2026a, Parte IV, §2).
+
+**Acumulación factual.**
+
+$$
+\mathcal{A}(q;\Omega) \;=\; \sum_{k:\,C_k\in\Omega}\, q(C_k)\,\omega(C_k)
+$$
+
+Localización: Lloret Egea (2026a, Parte V, §1).
+
+**Flujo factual.**
+
+$$
+\Phi_{SV}(\mathcal{F};B) \;=\; \sum_j \sigma_j\,\langle\mathcal{F}(B_j),\,n_{B_j}\rangle_{SV}\,\omega(B_j)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.3.5).
+
+**Divergencia factual (forma de balance).**
+
+$$
+\mathrm{Div}_{SV}(\mathcal{F};C)\,\omega(C) \;=\; \Phi_{SV}(\mathcal{F};\partial C) - \mathcal{I}_{\text{res}}(\mathcal{F};C)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.3.6).
+
+**Divergencia factual (forma posicional).**
+
+$$
+\mathrm{Div}_{SV}(\mathcal{F}) \;=\; \sum_{i=1}^{n}\partial_i^{SV} F^{\,i} - \mathcal{I}_{\text{res}}(\mathcal{F})
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.5.3).
+
+**Circulación factual.**
+
+$$
+\mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F}) \;=\; \sum_j \varepsilon_j\,\mathcal{F}(\Gamma_j)\,\omega(\Gamma_j)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.3.7).
+
+**Rotor factual (forma posicional antisimétrica).**
+
+$$
+\Omega^{SV}_{ij}(\mathcal{F}) \;=\; \partial_i^{SV} F^{\,j} - \partial_j^{SV} F^{\,i}
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.5.4).
+
+**Integral factual de superficie.**
+
+$$
+\iint^{SV}_{\Sigma_{SV}}\!\mathcal{F} \;=\; \sum_j \sigma_j\,\mathcal{F}(B_j)\,\omega(B_j)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.3.8).
+
+**Integral factual de volumen.**
+
+$$
+\iiint^{SV}_{\mathcal{V}_{SV}}\!\mathcal{G} \;=\; \sum_k\, \mathcal{G}(C_k)\,\omega(C_k)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.3.8).
+
+**Teorema de balance Gauss–SV.**
+
+$$
+\iiint^{SV}_{\mathcal{V}_{SV}}\!\mathrm{Div}_{SV}(\mathcal{F}) \;=\; \iint^{SV}_{\partial\mathcal{V}_{SV}}\!\mathcal{F} - \iiint^{SV}_{\mathcal{V}_{SV}}\!\mathcal{I}_{\text{res}}(\mathcal{F})
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.3.10).
+
+**Teorema Stokes–SV.**
+
+$$
+\mathfrak{C}_{\Gamma^\circlearrowleft}(\mathcal{F}) \;=\; \iint^{SV}_\Sigma\, \Omega^{SV}_{ij}(\mathcal{F})\, dS^{\,ij}
+$$
+
+Localización: Lloret Egea (2026a, §§XXIV.3.7, XXIV.5.4).
+
+**Jacobiano estructural paramétrico.**
+
+$$
+J^{SV}_x(q;\nu_j) \;=\; \bigl(\partial^{SV}_{x_b} q^{(a)}(\nu_j)\bigr)_{a,b}
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.5.1).
+
+**Jacobiano posicional.**
+
+$$
+J^{SV}_{\text{pos}}(q;\nu_j) \;=\; \bigl(\partial^{SV}_i q^{(a)}(\nu_j)\bigr)_{a,i}
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.5.2).
+
+**Jacobiano de clausura.** Morfismo estructural $J^{SV}_{\text{clau}}$ de cambio de clase de clausura local. Localización: Lloret Egea (2026a, §XXIV.5.5).
+
+**Transformada de trayectoria (forma general).**
+
+$$
+\mathcal{T}_\Phi[q](\lambda) \;=\; \sum_{j=0}^{m}\, q_j\,\Phi_\lambda(\nu_j)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.6.1).
+
+**Transformada de amortiguación.**
+
+$$
+\mathcal{T}_\alpha[q] \;=\; \sum_j q_j\,\alpha^{\,j}, \qquad \alpha \in \mathbb{R}_+
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.6.2).
+
+**Transformada de persistencia.**
+
+$$
+\mathcal{T}_{\text{pers}}[q](L) \;=\; \sum_j q_j\,\mathbb{1}_{\{\ell(\nu_j)\,\geq\, L\}}
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.6.2).
+
+**Transformada cíclica.**
+
+$$
+\mathcal{T}_{\text{cyc}}[q](\kappa) \;=\; \sum_j q_j\, e^{\,SV}_\kappa(\nu_j)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.6.2).
+
+**Transformada residual.**
+
+$$
+\mathcal{T}_{\text{res}}[q] \;=\; \sum_j q_j\, R(\nu_j)
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.6.2).
+
+**Curvatura factual por holonomía.** Dado un bucle factual $\gamma$ y una magnitud factual $q$, la holonomía se define por
+
+$$
+\mathrm{Hol}_\gamma(q) \;=\; q_{\text{final}} / q_{\text{inicial}}
+$$
+
+Localización: Lloret Egea (2026a, §XXIV.11.2).
+
+**Identidad diferencial-geométrica.**
+
+$$
+\mathrm{Div}_{SV}(C_k) \;=\; -\,m_k, \qquad k = 0,1,\ldots,n-1
+$$
+
+Localización: Lloret Egea (2026b, Parte IV, §5).
+
+**Fórmula discreta Gauss–SV.**
+
+$$
+\sum_{k=0}^{n-1}\mathrm{Div}_{SV}(C_k) \;=\; \varphi(S_0) - \varphi(S_n) \;=\; -\sum_{k=0}^{n-1} m_k
+$$
+
+Localización: Lloret Egea (2026b, Parte V, §§14-15).
 
 ### Tabla 2. Concreciones operatorias sobre polígono canónico
 
-| Elemento | Fórmula operatoria sobre polígono | Condiciones de aplicación |
-| --- | --- | --- |
-| Flujo operatorio | $\Phi_{SV}(\mathcal{F};B) = \sum_j \sigma_j\, M_j \cos\alpha_j\,\omega(B_j)$ | Campo vectorial con normal unitaria saliente definida en cada tramo |
-| Rotor operatorio | $\mathrm{Rot}_{SV}(\mathcal{F};C) = \dfrac{1}{A_{SV}(C)}\sum_{(i\to j)\in C} M_{ij}\,\sin\alpha_{ij}$ | Ciclo realizado como polígono con enlaces orientados y medida factual $A_{SV}(C)$ definida |
-| Divergencia operatoria | $\mathrm{Div}_{SV}(\Omega) = \dfrac{1}{V_{SV}(\Omega)}\sum_{(i\to j)\in\partial\Omega} M_{ij}\,\cos\alpha_{ij}$ | Dominio con frontera orientada y medida factual interna $V_{SV}(\Omega)$ definida |
-| Jacobiano de sensibilidad de régimen | $J_{SV} = \dfrac{\partial(\Lambda,\,B,\,\Theta)}{\partial(M,\,\alpha,\,\partial\Omega)}$ | Régimen factual con variables $(\Lambda, B, \Theta)$ sensibles a $(M, \alpha, \partial\Omega)$ |
-| Criterio absoluto de frontera | $\det(J_{SV}) = 0 \Longleftrightarrow \partial\Omega$ activa | Aplicación exacta al dominio electromagnético factual |
-| Operador absoluto de reconfiguración | $\mathcal{R}^{f}_{SV}=\mathbf{1}_{\{\det(J_{SV})=0\}}\Lambda B$ | Régimen local con frontera factual activa |
+**Flujo operatorio.**
+
+$$
+\Phi_{SV}(\mathcal{F};B) \;=\; \sum_j \sigma_j\, M_j \cos\alpha_j\,\omega(B_j)
+$$
+
+Condiciones de aplicación: campo vectorial con normal unitaria saliente definida en cada tramo.
+
+**Rotor operatorio.**
+
+$$
+\mathrm{Rot}_{SV}(\mathcal{F};C) \;=\; \dfrac{1}{A_{SV}(C)}\sum_{(i\to j)\in C} M_{ij}\,\sin\alpha_{ij}
+$$
+
+Condiciones de aplicación: ciclo realizado como polígono con enlaces orientados y medida factual $A_{SV}(C)$ definida.
+
+**Divergencia operatoria.**
+
+$$
+\mathrm{Div}_{SV}(\Omega) \;=\; \dfrac{1}{V_{SV}(\Omega)}\sum_{(i\to j)\in\partial\Omega} M_{ij}\,\cos\alpha_{ij}
+$$
+
+Condiciones de aplicación: dominio con frontera orientada y medida factual interna $V_{SV}(\Omega)$ definida.
+
+**Jacobiano de sensibilidad de régimen.**
+
+$$
+J_{SV} \;=\; \dfrac{\partial(\Lambda,\,B,\,\Theta)}{\partial(M,\,\alpha,\,\partial\Omega)}
+$$
+
+Condiciones de aplicación: régimen factual con variables $(\Lambda, B, \Theta)$ sensibles a $(M, \alpha, \partial\Omega)$.
+
+**Criterio absoluto de frontera.**
+
+$$
+\det(J_{SV}) = 0 \;\Longleftrightarrow\; \partial\Omega \text{ activa}
+$$
+
+Condiciones de aplicación: aplicación exacta al dominio electromagnético factual.
+
+**Operador absoluto de reconfiguración.**
+
+$$
+\mathcal{R}^{f}_{SV} \;=\; \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\, B
+$$
+
+Condiciones de aplicación: régimen local con frontera factual activa.
 
 ### Tabla 3. Clausuras absolutas del núcleo sensible
 
-| Elemento | Forma absoluta | Estatuto |
-| --- | --- | --- |
-| Jacobiano de sensibilidad de régimen | $J_{SV} = \partial(\Lambda,\,B,\,\Theta)/\partial(M,\,\alpha,\,\partial\Omega)$ | Forma absoluta derivada desde el jacobiano soberano |
-| Criterio de frontera factual | $\det(J_{SV}) = 0 \Longleftrightarrow \partial\Omega$ activa | Criterio absoluto del dominio electromagnético factual |
-| Operador de reconfiguración factual | $\mathcal{R}^{f}_{SV}=\mathbf{1}_{\{\det(J_{SV})=0\}}\Lambda B$ | Forma absoluta canónica |
-| Exhaustividad del núcleo sensible del documento | El aparato operatorio diferencial, integral, jacobiano, de frontera y de reconfiguración queda cerrado en este documento | Cierre absoluto |
+**Jacobiano de sensibilidad de régimen.**
+
+$$
+J_{SV} \;=\; \partial(\Lambda,\,B,\,\Theta)\,/\,\partial(M,\,\alpha,\,\partial\Omega)
+$$
+
+Estatuto: forma absoluta derivada desde el jacobiano soberano.
+
+**Criterio de frontera factual.**
+
+$$
+\det(J_{SV}) = 0 \;\Longleftrightarrow\; \partial\Omega \text{ activa}
+$$
+
+Estatuto: criterio absoluto del dominio electromagnético factual.
+
+**Operador de reconfiguración factual.**
+
+$$
+\mathcal{R}^{f}_{SV} \;=\; \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\, B
+$$
+
+Estatuto: forma absoluta canónica.
+
+**Exhaustividad del núcleo sensible del documento.** El aparato operatorio diferencial, integral, jacobiano, de frontera y de reconfiguración queda cerrado en este documento. Estatuto: cierre absoluto.
 
 Las tablas 1, 2 y 3 agotan, en su conjunto, el cuerpo operatorio que el presente documento pone a disposición del dominio electromagnético factual del Sistema Vectorial SV. Todo desarrollo ulterior que requiera operadores diferenciales, integrales, de circulación o de sensibilidad puede apoyarse en las fórmulas consignadas en estas tablas sin introducir ningún elemento ajeno al sistema.
 
@@ -981,3 +1219,4 @@ Lloret Egea, J. A. (2026h). *Del contenido físico factual del suceso a las clas
 Lloret Egea, J. A. (2026i). *Del contenido físico factual del suceso a la entidad soberana del campo en el Sistema Vectorial SV: absorción basal exacta, unificación fuerte de gravitación, electricidad y magnetismo, y apertura a clases factuales emergentes*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. ISSN 2695-6411. https://www.itvia.online/pub/del-contenido-fisico-factual-del-suceso-a-la-entidad-soberana-del-campo-en-el-sistema-vectorial-sv-absorcion-basal-exacta-unificacion-fuerte-de-gravitacion-electricidad-y-magnetismo-y-apertura-a-clases-factuales-emergentes
 
 Lloret Egea, J. A. (2026j). *Del origen preternario del Sistema Vectorial SV a la entidad soberana del campo: derivación nativa de $\alpha_i$ y $\beta_i$, proyección ternaria inducida, absorción basal exacta, unificación fuerte de gravitación, electricidad y magnetismo, y apertura a clases factuales emergentes*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. ISSN 2695-6411. https://www.itvia.online/pub/ekd8x4l9
+
