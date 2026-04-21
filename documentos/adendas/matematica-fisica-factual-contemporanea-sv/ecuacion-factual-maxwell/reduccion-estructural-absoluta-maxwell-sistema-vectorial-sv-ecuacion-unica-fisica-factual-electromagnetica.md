@@ -1,9 +1,5 @@
 # Reducción estructural absoluta de Maxwell en el Sistema Vectorial SV y ecuación única de la física factual electromagnética — con desarrollo algebraico del operador maestro absoluto 𝔼_SV
 
-**© 2026. Todos los derechos reservados**.
-
-**Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, abril de 2026.
-
 ---
 
 ## Índice
