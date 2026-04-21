@@ -1,0 +1,365 @@
+{
+  "derechos_y_autoria": {
+    "copyright": "© 2026. Todos los derechos reservados.\n\nJuan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 20/04/2026 | Advertencia: Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido.\n\nWarning: This publication is protected by CEDRO. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author’s copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing."
+  },
+  "meta": {
+    "nombre": "SV(3,9) — recorrido visible de consistencia reforzado del bloque electromagnético factual",
+    "version": "2.0.0",
+    "tolerancia": 1e-09,
+    "ruta_canonica_relativa": "documentos/adendas/matematica-fisica-factual-contemporanea-sv/ecuacion-factual-maxwell",
+    "bancos_positivos_esperados": 21,
+    "casos_negativos_esperados": 15
+  },
+  "positive_results": [
+    {
+      "bank_id": "BANCO_01",
+      "description": "Gauss eléctrica factual (forma integral)",
+      "observed": 0.05000000000000002,
+      "expected": 0.05,
+      "passed": true,
+      "error_code": "MAXWELL001"
+    },
+    {
+      "bank_id": "BANCO_02",
+      "description": "Gauss magnética factual (forma integral)",
+      "observed": 0.0,
+      "expected": 0.0,
+      "passed": true,
+      "error_code": "MAXWELL002"
+    },
+    {
+      "bank_id": "BANCO_03",
+      "description": "Faraday factual (forma integral)",
+      "observed": 0.27,
+      "expected": 0.27,
+      "passed": true,
+      "error_code": "MAXWELL003"
+    },
+    {
+      "bank_id": "BANCO_04",
+      "description": "Ampère–Maxwell factual (forma integral)",
+      "observed": 0.39,
+      "expected": 0.39,
+      "passed": true,
+      "error_code": "MAXWELL004"
+    },
+    {
+      "bank_id": "BANCO_05",
+      "description": "Balance electromagnético factual",
+      "observed": 0.2,
+      "expected": 0.2,
+      "passed": true,
+      "error_code": "MAXWELL005"
+    },
+    {
+      "bank_id": "BANCO_06",
+      "description": "Conservación factual de la carga",
+      "observed": 0.0,
+      "expected": 0.0,
+      "passed": true,
+      "error_code": "MAXWELL006"
+    },
+    {
+      "bank_id": "BANCO_07",
+      "description": "Condición de contorno: componente normal de D",
+      "observed": 0.0,
+      "expected": 0.0,
+      "passed": true,
+      "error_code": "MAXWELL007"
+    },
+    {
+      "bank_id": "BANCO_08",
+      "description": "Condición de contorno: componente normal de B",
+      "observed": 0.0,
+      "expected": 0.0,
+      "passed": true,
+      "error_code": "MAXWELL008"
+    },
+    {
+      "bank_id": "BANCO_09",
+      "description": "Condición de contorno: componente tangencial de E",
+      "observed": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "expected": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passed": true,
+      "error_code": "MAXWELL016"
+    },
+    {
+      "bank_id": "BANCO_10",
+      "description": "Condición de contorno: componente tangencial de H",
+      "observed": [
+        0.0,
+        -0.040000000000000036,
+        0.0
+      ],
+      "expected": [
+        0.0,
+        -0.04,
+        0.0
+      ],
+      "passed": true,
+      "error_code": "MAXWELL017"
+    },
+    {
+      "bank_id": "BANCO_11",
+      "description": "Criterio absoluto de frontera factual: determinante del jacobiano",
+      "observed": 0.0,
+      "expected": 0.0,
+      "passed": true,
+      "error_code": "MAXWELL009"
+    },
+    {
+      "bank_id": "BANCO_12",
+      "description": "Criterio absoluto de frontera factual: activación de frontera",
+      "observed": true,
+      "expected": true,
+      "passed": true,
+      "error_code": "MAXWELL009"
+    },
+    {
+      "bank_id": "BANCO_13",
+      "description": "Operador exacto de reconfiguración factual",
+      "observed": 0.09999999999999999,
+      "expected": 0.1,
+      "passed": true,
+      "error_code": "MAXWELL010"
+    },
+    {
+      "bank_id": "BANCO_14",
+      "description": "Relación constitutiva eléctrica factual",
+      "observed": 3.0,
+      "expected": 3.0,
+      "passed": true,
+      "error_code": "MAXWELL011"
+    },
+    {
+      "bank_id": "BANCO_15",
+      "description": "Relación constitutiva magnética factual",
+      "observed": 0.4,
+      "expected": 0.4,
+      "passed": true,
+      "error_code": "MAXWELL011"
+    },
+    {
+      "bank_id": "BANCO_16",
+      "description": "Relación constitutiva de conducción factual",
+      "observed": 2.0999999999999996,
+      "expected": 2.1,
+      "passed": true,
+      "error_code": "MAXWELL011"
+    },
+    {
+      "bank_id": "BANCO_17",
+      "description": "Forma maestra operatoria factual",
+      "observed": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "expected": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passed": true,
+      "error_code": "MAXWELL013"
+    },
+    {
+      "bank_id": "BANCO_18",
+      "description": "Forma maestra integral factual",
+      "observed": [
+        1.3877787807814457e-17,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "expected": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "passed": true,
+      "error_code": "MAXWELL014"
+    },
+    {
+      "bank_id": "BANCO_19",
+      "description": "Ecuación única factual electromagnética",
+      "observed": {
+        "M": true,
+        "K": true,
+        "F": true
+      },
+      "expected": {
+        "M": true,
+        "K": true,
+        "F": true
+      },
+      "passed": true,
+      "error_code": "MAXWELL015"
+    },
+    {
+      "bank_id": "BANCO_20",
+      "description": "Cosido dimensional soberano",
+      "observed": {
+        "gauss_electrica": true,
+        "faraday": true,
+        "ampere_maxwell": true,
+        "balance": true,
+        "onda": true
+      },
+      "expected": {
+        "gauss_electrica": true,
+        "faraday": true,
+        "ampere_maxwell": true,
+        "balance": true,
+        "onda": true
+      },
+      "passed": true,
+      "error_code": "MAXWELL012"
+    },
+    {
+      "bank_id": "BANCO_21",
+      "description": "Identidad de onda factual",
+      "observed": 0.0,
+      "expected": 0.0,
+      "passed": true,
+      "error_code": "MAXWELL018"
+    }
+  ],
+  "negative_results": [
+    {
+      "id": "NEG_GAUSS_ELECTRICA",
+      "status": "caught",
+      "expected_error": "MAXWELL001",
+      "observed_error": "MAXWELL001",
+      "message": "Gauss eléctrica factual (forma integral)",
+      "matches": true
+    },
+    {
+      "id": "NEG_GAUSS_MAGNETICA",
+      "status": "caught",
+      "expected_error": "MAXWELL002",
+      "observed_error": "MAXWELL002",
+      "message": "Gauss magnética factual (forma integral)",
+      "matches": true
+    },
+    {
+      "id": "NEG_FARADAY",
+      "status": "caught",
+      "expected_error": "MAXWELL003",
+      "observed_error": "MAXWELL003",
+      "message": "Faraday factual (forma integral)",
+      "matches": true
+    },
+    {
+      "id": "NEG_AMPERE",
+      "status": "caught",
+      "expected_error": "MAXWELL004",
+      "observed_error": "MAXWELL004",
+      "message": "Ampère–Maxwell factual (forma integral)",
+      "matches": true
+    },
+    {
+      "id": "NEG_BALANCE",
+      "status": "caught",
+      "expected_error": "MAXWELL005",
+      "observed_error": "MAXWELL005",
+      "message": "Balance electromagnético factual",
+      "matches": true
+    },
+    {
+      "id": "NEG_CARGA",
+      "status": "caught",
+      "expected_error": "MAXWELL006",
+      "observed_error": "MAXWELL006",
+      "message": "Conservación factual de la carga",
+      "matches": true
+    },
+    {
+      "id": "NEG_CONTORNO_D",
+      "status": "caught",
+      "expected_error": "MAXWELL007",
+      "observed_error": "MAXWELL007",
+      "message": "Condición de contorno: componente normal de D",
+      "matches": true
+    },
+    {
+      "id": "NEG_CONTORNO_B",
+      "status": "caught",
+      "expected_error": "MAXWELL008",
+      "observed_error": "MAXWELL008",
+      "message": "Condición de contorno: componente normal de B",
+      "matches": true
+    },
+    {
+      "id": "NEG_CONTORNO_E",
+      "status": "caught",
+      "expected_error": "MAXWELL016",
+      "observed_error": "MAXWELL016",
+      "message": "Condición de contorno: componente tangencial de E",
+      "matches": true
+    },
+    {
+      "id": "NEG_CONTORNO_H",
+      "status": "caught",
+      "expected_error": "MAXWELL017",
+      "observed_error": "MAXWELL017",
+      "message": "Condición de contorno: componente tangencial de H",
+      "matches": true
+    },
+    {
+      "id": "NEG_FRONTERA",
+      "status": "caught",
+      "expected_error": "MAXWELL009",
+      "observed_error": "MAXWELL009",
+      "message": "Criterio absoluto de frontera factual: activación de frontera",
+      "matches": true
+    },
+    {
+      "id": "NEG_RECONFIGURACION",
+      "status": "caught",
+      "expected_error": "MAXWELL010",
+      "observed_error": "MAXWELL010",
+      "message": "Operador exacto de reconfiguración factual",
+      "matches": true
+    },
+    {
+      "id": "NEG_CONSTITUTIVA",
+      "status": "caught",
+      "expected_error": "MAXWELL011",
+      "observed_error": "MAXWELL011",
+      "message": "Relación constitutiva eléctrica factual",
+      "matches": true
+    },
+    {
+      "id": "NEG_METROLOGIA",
+      "status": "caught",
+      "expected_error": "MAXWELL012",
+      "observed_error": "MAXWELL012",
+      "message": "Cosido dimensional soberano",
+      "matches": true
+    },
+    {
+      "id": "NEG_ONDA",
+      "status": "caught",
+      "expected_error": "MAXWELL018",
+      "observed_error": "MAXWELL018",
+      "message": "Identidad de onda factual",
+      "matches": true
+    }
+  ],
+  "positive_passed": 21,
+  "positive_expected": 21,
+  "negative_caught": 15,
+  "negative_total": 15
+}

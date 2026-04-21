@@ -1,0 +1,150 @@
+{
+  "derechos_y_autoria": {
+    "copyright": "© 2026. Todos los derechos reservados.",
+    "autor": "Juan Antonio Lloret Egea",
+    "orcid": "0000-0002-6634-3351",
+    "institucion": "Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)",
+    "publicacion": "IA eñ™ — La Biblia de la IA™",
+    "issn": "2695-6411",
+    "licencia": "CC BY-NC-ND 4.0",
+    "lugar_fecha": "Madrid, 20/04/2026",
+    "advertencia_es": "Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 20/04/2026 | Advertencia: Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido.",
+    "warning_en": "Warning: This publication is protected by CEDRO. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author’s copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing."
+  },
+  "meta": {
+    "version": "2.0.0",
+    "descripcion": "Casos negativos obligatorios reforzados del bloque electromagnético factual",
+    "casos_esperados": 15
+  },
+  "cases": [
+    {
+      "id": "NEG_GAUSS_ELECTRICA",
+      "mutations": {
+        "gauss_electrica.rho": 0.04
+      },
+      "expected_error": "MAXWELL001"
+    },
+    {
+      "id": "NEG_GAUSS_MAGNETICA",
+      "mutations": {
+        "gauss_magnetica.boundary_B": [
+          0.18,
+          0.12,
+          -0.18,
+          -0.1
+        ]
+      },
+      "expected_error": "MAXWELL002"
+    },
+    {
+      "id": "NEG_FARADAY",
+      "mutations": {
+        "faraday.dnu_B": -0.8
+      },
+      "expected_error": "MAXWELL003"
+    },
+    {
+      "id": "NEG_AMPERE",
+      "mutations": {
+        "ampere_maxwell.J": 0.7
+      },
+      "expected_error": "MAXWELL004"
+    },
+    {
+      "id": "NEG_BALANCE",
+      "mutations": {
+        "balance.expected_EJ": 0.19
+      },
+      "expected_error": "MAXWELL005"
+    },
+    {
+      "id": "NEG_CARGA",
+      "mutations": {
+        "carga.div_J": 0.29
+      },
+      "expected_error": "MAXWELL006"
+    },
+    {
+      "id": "NEG_CONTORNO_D",
+      "mutations": {
+        "contorno_D.D2": [
+          0.21,
+          0.1,
+          0.05
+        ]
+      },
+      "expected_error": "MAXWELL007"
+    },
+    {
+      "id": "NEG_CONTORNO_B",
+      "mutations": {
+        "contorno_B.B2": [
+          0.17,
+          0.09,
+          0.07
+        ]
+      },
+      "expected_error": "MAXWELL008"
+    },
+    {
+      "id": "NEG_CONTORNO_E",
+      "mutations": {
+        "contorno_E.E2": [
+          0.2,
+          0.21,
+          0.4
+        ]
+      },
+      "expected_error": "MAXWELL016"
+    },
+    {
+      "id": "NEG_CONTORNO_H",
+      "mutations": {
+        "contorno_H.J_s": [
+          0.0,
+          -0.03,
+          0.0
+        ]
+      },
+      "expected_error": "MAXWELL017"
+    },
+    {
+      "id": "NEG_FRONTERA",
+      "mutations": {
+        "frontera.frontier_active": false
+      },
+      "expected_error": "MAXWELL009"
+    },
+    {
+      "id": "NEG_RECONFIGURACION",
+      "mutations": {
+        "reconfiguracion.expected_Rf": 0.11
+      },
+      "expected_error": "MAXWELL010"
+    },
+    {
+      "id": "NEG_CONSTITUTIVA",
+      "mutations": {
+        "constitutivas.D_const": 2.9
+      },
+      "expected_error": "MAXWELL011"
+    },
+    {
+      "id": "NEG_METROLOGIA",
+      "mutations": {
+        "metrologia.dimensions.J": {
+          "UFC": 1,
+          "UFE": -3
+        }
+      },
+      "expected_error": "MAXWELL012"
+    },
+    {
+      "id": "NEG_ONDA",
+      "mutations": {
+        "onda.eps_mu_d2nu2_E": 0.83
+      },
+      "expected_error": "MAXWELL018"
+    }
+  ]
+}
