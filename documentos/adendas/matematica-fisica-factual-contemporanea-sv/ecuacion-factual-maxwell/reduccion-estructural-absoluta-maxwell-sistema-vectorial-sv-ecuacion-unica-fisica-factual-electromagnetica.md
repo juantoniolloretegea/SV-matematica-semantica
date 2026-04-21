@@ -2891,7 +2891,11 @@ La relación de Comp<sup>poly</sup>_SV con la firma general Comp del corpus (com
 **Definición 14.19.5.** El **operador de conformación polimodal factual** U<sub>SV</sub> se define como la aplicación
 
 $$
-\mathfrak{U}_{SV}: \mathcal{M}^{\text{adm}}_{SV} \longrightarrow \mathcal{O}_{SV} \sqcup \{U\},
+\mathfrak{U}_{SV}[q,\Omega] \;:=\;
+\begin{cases}
+\mathrm{Comp}^{\mathrm{poly}}_{SV}\!\bigl(\mathbb{M}_{SV},\mathbb{K}_{SV};\,q,\Omega\bigr), & \text{si } \mathfrak{C}_{SV}(q,\Omega)=1,\\
+U, & \text{si } \mathfrak{C}_{SV}(q,\Omega)=0.
+\end{cases}
 $$
 
 $$
