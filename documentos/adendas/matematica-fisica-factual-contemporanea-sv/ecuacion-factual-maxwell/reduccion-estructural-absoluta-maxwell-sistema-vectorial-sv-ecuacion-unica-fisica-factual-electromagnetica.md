@@ -243,11 +243,11 @@ $$
 \boxed{\;\mathcal{R}^{f}_{SV} \;=\; \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}},\;}
 $$
 
-comparece en el conjunto electromagnético factual del SV como respuesta estructural interna a la activación de frontera detectada por el criterio anterior. Su estatuto es absoluto: bajo las cinco condiciones de anulación en régimen regular, dependencia exclusiva del criterio de frontera, compatibilidad con estabilidad y balance, invariancia de orientación global y orden algebraico irreductible, el operador $\mathcal{R}^{f}_{SV}$ es la única factorización escalar local compatible con el dominio electromagnético factual (Lloret Egea, 2026k, teorema 13.2.1). El criterio absoluto de frontera factual se establece en §14.2 del anexo. El operador exacto de reconfiguración factual $\mathcal{R}^{f}_{SV}$ se fija en §14.3 del anexo. 
+comparece en el conjunto electromagnético factual del SV como respuesta estructural interna a la activación de frontera detectada por el criterio anterior. Su estatuto es absoluto: bajo las cinco condiciones de anulación en régimen regular, dependencia exclusiva del criterio de frontera, compatibilidad con estabilidad y balance, invariancia de orientación global y orden algebraico irreductible, el operador $`\mathcal{R}^{f}_{SV}`$ es la única factorización escalar local compatible con el dominio electromagnético factual (Lloret Egea, 2026k, teorema 13.2.1). El criterio absoluto de frontera factual se establece en §14.2 del anexo. El operador exacto de reconfiguración factual $`\mathcal{R}^{f}_{SV}`$ se fija en §14.3 del anexo. 
 
-**Teorema 3.10.1 (respuesta interna del conjunto electromagnético factual en frontera activa).** Sobre cualquier punto del dominio electromagnético factual donde $\det(J_{SV}) = 0$, el conjunto Maxwell factual de primer orden admite respuesta interna única, dada por el valor local del operador exacto de reconfiguración factual $\mathcal{R}^{f}_{SV}$.
+**Teorema 3.10.1 (respuesta interna del conjunto electromagnético factual en frontera activa).** Sobre cualquier punto del dominio electromagnético factual donde $`\det(J_{SV}) = 0`$, el conjunto Maxwell factual de primer orden admite respuesta interna única, dada por el valor local del operador exacto de reconfiguración factual $`\mathcal{R}^{f}_{SV}`$.
 
-*Demostración.* Por el criterio absoluto del apartado precedente, la anulación del determinante del jacobiano factual de sensibilidad de régimen es condición necesaria y suficiente de frontera factual activa. Por el teorema de unicidad canónica del operador de reconfiguración (Lloret Egea, 2026k, teorema 13.2.1), la única factorización escalar local de orden algebraico irreductible compatible con el dominio electromagnético factual en tal punto es $\mathcal{R}^{f}_{SV} = \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}}$. Por tanto, la respuesta interna del conjunto electromagnético factual en ese punto es única y coincide con el valor local del operador enunciado. Q.E.D.
+*Demostración.* Por el criterio absoluto del apartado precedente, la anulación del determinante del jacobiano factual de sensibilidad de régimen es condición necesaria y suficiente de frontera factual activa. Por el teorema de unicidad canónica del operador de reconfiguración (Lloret Egea, 2026k, teorema 13.2.1), la única factorización escalar local de orden algebraico irreductible compatible con el dominio electromagnético factual en tal punto es $`\mathcal{R}^{f}_{SV} = \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}}`$. Por tanto, la respuesta interna del conjunto electromagnético factual en ese punto es única y coincide con el valor local del operador enunciado. Q.E.D.
 
 ### 3.11. Teorema de consistencia con el cuerpo operatorio absoluto
 
@@ -728,15 +728,15 @@ $$
 
 localiza exactamente el lugar geométrico-factual sobre el cual las condiciones de contorno son operativas. La activación de frontera detectada por la anulación del determinante del jacobiano factual de sensibilidad de régimen coincide, punto a punto, con el lugar de aplicabilidad de las cuatro condiciones interfaciales. Fuera de la frontera activa no hay, dentro del conjunto electromagnético factual, interfase a la que referir las componentes saliente y entrante de los campos; sobre la frontera activa, las cuatro condiciones se aplican de modo exhaustivo.
 
-La articulación produce, además, la continuidad local de la respuesta interna del régimen: sobre cada punto donde se activa la frontera, el operador exacto de reconfiguración $\mathcal{R}^{f}_{SV} = \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}}$ toma su valor local determinado por la estabilidad y el balance factual del régimen, conforme al teorema 3.10.1. Este valor local suministra la respuesta absoluta del conjunto a la transición entre regímenes contiguos, sin introducir ningún operador auxiliar.
+La articulación produce, además, la continuidad local de la respuesta interna del régimen: sobre cada punto donde se activa la frontera, el operador exacto de reconfiguración $`\mathcal{R}^{f}_{SV} = \mathbf{1}_{\{\det(J_{SV})=0\}}\,\Lambda\,B_{\text{reg}}`$ toma su valor local determinado por la estabilidad y el balance factual del régimen, conforme al teorema 3.10.1. Este valor local suministra la respuesta absoluta del conjunto a la transición entre regímenes contiguos, sin introducir ningún operador auxiliar.
 
 La componente $\mathbb{F}_{SV}$ del operador maestro absoluto, bicondicional bajo clausura admisible, se establece en §14.11 del anexo.
 
 ### 7.8. Teorema interfacial factual general
 
-**Teorema 7.8.1 (articulación absoluta de las condiciones de contorno).** Sobre cualquier interfase factual admisible $\partial\Omega$ de dos medios electromagnéticos factuales del SV, las cuatro condiciones de contorno factuales de los apartados 7.2 a 7.5 se verifican simultáneamente, son activas si y sólo si $\det(J_{SV}) = 0$ en la interfase, y determinan, en conjunción con el operador de reconfiguración $\mathcal{R}^{f}_{SV}$, la respuesta completa del régimen electromagnético factual al cruce interfacial.
+**Teorema 7.8.1 (articulación absoluta de las condiciones de contorno).** Sobre cualquier interfase factual admisible $\partial\Omega$ de dos medios electromagnéticos factuales del SV, las cuatro condiciones de contorno factuales de los apartados 7.2 a 7.5 se verifican simultáneamente, son activas si y sólo si $`\det(J_{SV}) = 0`$ en la interfase, y determinan, en conjunción con el operador de reconfiguración $`\mathcal{R}^{f}_{SV}`$, la respuesta completa del régimen electromagnético factual al cruce interfacial.
 
-*Demostración.* Las cuatro condiciones interfaciales se derivan, sin hipótesis adicional, de las formas integrales de las cuatro ecuaciones del conjunto factual (apartado 6) aplicadas a volúmenes factuales infinitesimales y ciclos factuales infinitesimales a caballo de la interfase. Esta derivación se realiza por el teorema absoluto Gauss–SV (§3.4) y el teorema de Stokes–SV (§3.3), y es simultánea para las cuatro componentes normales y tangenciales. La activación de la interfase es equivalente a $\det(J_{SV}) = 0$ por el criterio absoluto de frontera fijado en el apartado 3.10, que opera como condición necesaria y suficiente. La respuesta interna del conjunto es, por el teorema 3.10.1, única y igual al valor local de $\mathcal{R}^{f}_{SV}$. Así, las cuatro condiciones, el criterio absoluto de frontera y el operador de reconfiguración quedan articulados sobre la misma interfase en una estructura absoluta conjunta. Q.E.D.
+*Demostración.* Las cuatro condiciones interfaciales se derivan, sin hipótesis adicional, de las formas integrales de las cuatro ecuaciones del conjunto factual (apartado 6) aplicadas a volúmenes factuales infinitesimales y ciclos factuales infinitesimales a caballo de la interfase. Esta derivación se realiza por el teorema absoluto Gauss–SV (§3.4) y el teorema de Stokes–SV (§3.3), y es simultánea para las cuatro componentes normales y tangenciales. La activación de la interfase es equivalente a $`\det(J_{SV}) = 0`$ por el criterio absoluto de frontera fijado en el apartado 3.10, que opera como condición necesaria y suficiente. La respuesta interna del conjunto es, por el teorema 3.10.1, única y igual al valor local de $`\mathcal{R}^{f}_{SV}`$. Así, las cuatro condiciones, el criterio absoluto de frontera y el operador de reconfiguración quedan articulados sobre la misma interfase en una estructura absoluta conjunta. Q.E.D.
 
 El enunciado anterior fija, con rango absoluto, el contenido de la componente $\mathbb{F}_{SV}(J_{SV}) = 0$ de la ecuación única $\mathbb{E}_{SV} = 0$ del apartado 3.12. Bajo la articulación absoluta establecida, el criterio absoluto de frontera y el operador de reconfiguración operan conjuntamente como núcleo sensible del régimen interfacial, y su anulación simultánea con las componentes $\mathbb{M}_{SV}$ y $\mathbb{K}_{SV}$ agota la reducción estructural absoluta del conjunto electromagnético factual del SV.
 
@@ -1139,7 +1139,7 @@ J_{SV} \;=\; \begin{pmatrix}
 \end{pmatrix}.
 $$
 
-Entonces $\det(J_{SV}) = 0$, y, por el criterio absoluto de frontera del apartado 3.10, la frontera factual queda activada:
+Entonces $`\det(J_{SV}) = 0`$, y, por el criterio absoluto de frontera del apartado 3.10, la frontera factual queda activada:
 
 $$
 \det(J_{SV}) = 0 \;\Longleftrightarrow\; \partial\Omega \text{ activa}.
@@ -1410,7 +1410,7 @@ donde $\partial^{SV}_{\theta_b}$ es la derivación factual respecto de la compon
 
 ### 14.1.2. Determinante factual de sensibilidad
 
-Cuando $k = m$, el determinante $\det(J_{SV})$ define el **índice escalar de sensibilidad factual** del régimen. La anulación $\det(J_{SV}) = 0$ caracteriza regímenes con pérdida local de rango, equivalentes a configuraciones donde el parámetro admisible deja de generar variación independiente sobre la magnitud factual.
+Cuando $k = m$, el determinante $\det(J_{SV})$ define el **índice escalar de sensibilidad factual** del régimen. La anulación $`\det(J_{SV}) = 0`$ caracteriza regímenes con pérdida local de rango, equivalentes a configuraciones donde el parámetro admisible deja de generar variación independiente sobre la magnitud factual.
 
 ### 14.1.3. Transformación bajo cambio factual admisible
 
@@ -1426,7 +1426,7 @@ $$
 
 ### 14.1.4. Régimen regular y régimen singular
 
-Se define como **régimen factual regular** el subdominio de $\Theta_{SV}$ donde $\det(J_{SV}) \neq 0$, y como **régimen factual singular** el subconjunto donde $\det(J_{SV}) = 0$. En régimen regular, toda magnitud factual admite reconstrucción local a partir de $k$ derivaciones factuales independientes; en régimen singular, la reconstrucción exige activación del criterio absoluto de frontera del §14.2.
+Se define como **régimen factual regular** el subdominio de $\Theta_{SV}$ donde $\det(J_{SV}) \neq 0$, y como **régimen factual singular** el subconjunto donde $`\det(J_{SV}) = 0`$. En régimen regular, toda magnitud factual admite reconstrucción local a partir de $k$ derivaciones factuales independientes; en régimen singular, la reconstrucción exige activación del criterio absoluto de frontera del §14.2.
 
 ### 14.1.5. Verificación visible sobre configuración admisible
 
@@ -1462,7 +1462,7 @@ $$
 
 *con $\Theta^{\text{reg}}_{SV} = \{\theta \in \Theta_{SV} \,|\, \det(J_{SV}(\theta)) \neq 0\}$ y $\Theta^{\partial}_{SV} = \{\theta \in \Theta_{SV} \,|\, \det(J_{SV}(\theta)) = 0\}$.*
 
-*Demostración.* La descomposición es consecuencia directa del principio del tercio excluso aplicado al predicado $\det(J_{SV}) = 0$ sobre el dominio admisible. Q.E.D.
+*Demostración.* La descomposición es consecuencia directa del principio del tercio excluso aplicado al predicado $`\det(J_{SV}) = 0`$ sobre el dominio admisible. Q.E.D.
 
 ### 14.2.3. Indicador absoluto de frontera
 
@@ -1998,9 +1998,9 @@ Por ortotropía factual local, $\partial^{SV}_i\,\partial^{SV}_j = \partial^{SV}
 
 ### 14.8.6. Identificación geométrica del criterio absoluto de frontera
 
-**Teorema 14.8.6.** *La activación del criterio absoluto de frontera $\det(J_{SV}) = 0$ coincide con la activación del cambio de carta factual entre celdas del mosaico $SV(3,9)$.*
+**Teorema 14.8.6.** *La activación del criterio absoluto de frontera $`\det(J_{SV}) = 0`$ coincide con la activación del cambio de carta factual entre celdas del mosaico $SV(3,9)$.*
 
-*Demostración.* Sobre interfaz $\partial C_{k,l}$ con bases posicionales distintas, la coherencia geométrica del mosaico exige absorción del cambio de base mediante $\Lambda^{(k,l)}$ (§14.3.2), operación que activa $\mathcal{R}^f_{SV}$ cuando el determinante del jacobiano factual de sensibilidad se anula. Fuera de las interfaces, las bases son localmente coincidentes y $\det(J_{SV}) \neq 0$; en las interfaces con cambio de base factual no trivial, $\det(J_{SV}) = 0$. La correspondencia es biyectiva. Q.E.D.
+*Demostración.* Sobre interfaz $\partial C_{k,l}$ con bases posicionales distintas, la coherencia geométrica del mosaico exige absorción del cambio de base mediante $\Lambda^{(k,l)}$ (§14.3.2), operación que activa $\mathcal{R}^f_{SV}$ cuando el determinante del jacobiano factual de sensibilidad se anula. Fuera de las interfaces, las bases son localmente coincidentes y $\det(J_{SV}) \neq 0$; en las interfaces con cambio de base factual no trivial, $`\det(J_{SV}) = 0`$. La correspondencia es biyectiva. Q.E.D.
 
 ### 14.8.7. Verificación visible del balance de Leibniz factual
 
@@ -2264,9 +2264,9 @@ $$
 \mathbb{F}_{SV}(q) \;=\; 0 \quad\Longleftrightarrow\quad \text{compatibilidad interfacial factual local absoluta.}
 $$
 
-*Demostración (implicación directa).* Supóngase $\mathbb{F}_{SV}(q) = 0$. Por la Definición 14.11.1, $\mathbb{F}_{SV}(q) = 0$ admite dos casos disjuntos: (i) $\det(J_{SV}) \neq 0$, caso en el cual el indicador anula y la condición se satisface sobre régimen regular trivialmente; (ii) $\det(J_{SV}) = 0$, caso en el cual $B_{\partial\Omega}^{SV}(q) = \mathcal{R}^f_{SV}(q)$, es decir, la contribución de borde del balance factual se reabsorbe exactamente en la reconfiguración absoluta. En ambos casos, la compatibilidad interfacial factual local absoluta queda garantizada.
+*Demostración (implicación directa).* Supóngase $\mathbb{F}_{SV}(q) = 0$. Por la Definición 14.11.1, $\mathbb{F}_{SV}(q) = 0$ admite dos casos disjuntos: (i) $\det(J_{SV}) \neq 0$, caso en el cual el indicador anula y la condición se satisface sobre régimen regular trivialmente; (ii) $`\det(J_{SV}) = 0`$, caso en el cual $B_{\partial\Omega}^{SV}(q) = \mathcal{R}^f_{SV}(q)$, es decir, la contribución de borde del balance factual se reabsorbe exactamente en la reconfiguración absoluta. En ambos casos, la compatibilidad interfacial factual local absoluta queda garantizada.
 
-*Demostración (implicación recíproca).* Supóngase compatibilidad interfacial factual local absoluta. Bajo clausura admisible $\mathsf{Cl}_{SV}$ y por la caracterización geométrica del Teorema 14.8.6, la compatibilidad interfacial coincide con la ausencia de residual de balance sobre $\partial\Omega$: en régimen regular ($\det(J_{SV}) \neq 0$), el indicador absoluto anula y $\mathbb{F}_{SV}(q) = 0 \cdot [\cdots] = 0$; en régimen de frontera activa ($\det(J_{SV}) = 0$), la compatibilidad exige $B_{\partial\Omega}^{SV}(q) = \mathcal{R}^f_{SV}(q)$, por lo que $\mathbb{F}_{SV}(q) = 1 \cdot 0 = 0$. En ambos casos, $\mathbb{F}_{SV}(q) = 0$. Q.E.D.
+*Demostración (implicación recíproca).* Supóngase compatibilidad interfacial factual local absoluta. Bajo clausura admisible $\mathsf{Cl}_{SV}$ y por la caracterización geométrica del Teorema 14.8.6, la compatibilidad interfacial coincide con la ausencia de residual de balance sobre $\partial\Omega$: en régimen regular ($\det(J_{SV}) \neq 0$), el indicador absoluto anula y $\mathbb{F}_{SV}(q) = 0 \cdot [\cdots] = 0$; en régimen de frontera activa ($`\det(J_{SV}) = 0`$), la compatibilidad exige $B_{\partial\Omega}^{SV}(q) = \mathcal{R}^f_{SV}(q)$, por lo que $\mathbb{F}_{SV}(q) = 1 \cdot 0 = 0$. En ambos casos, $\mathbb{F}_{SV}(q) = 0$. Q.E.D.
 
 ### 14.11.5. Consecuencia de equivalencia con la tercera componente de $\mathbb{E}_{SV}$
 
@@ -2278,7 +2278,7 @@ $$
 
 **Régimen regular interior.** Dominio admisible $\Omega$ con $\det(J_{SV}) = 1$ constante. Magnitud $q = x_1^2 + x_2^2$. El indicador anula y $\mathbb{F}_{SV}(q) = 0$. Compatibilidad interfacial trivialmente satisfecha.
 
-**Frontera activa con balance compatible.** Interfaz $\partial C_{1,2}$ con $\det(J_{SV}) = 0$. Evaluación: $B_{\partial\Omega}^{SV}(q) = 7{,}2$, $\mathcal{R}^f_{SV}(q) = 7{,}2$.
+**Frontera activa con balance compatible.** Interfaz $\partial C_{1,2}$ con $`\det(J_{SV}) = 0`$. Evaluación: $B_{\partial\Omega}^{SV}(q) = 7{,}2$, $\mathcal{R}^f_{SV}(q) = 7{,}2$.
 
 $$
 \mathbb{F}_{SV}(q) = 1 \cdot (7{,}2 - 7{,}2) = 0.
@@ -2837,7 +2837,7 @@ con criterio de paso algebraicamente cerrado. Las cuatro compuertas canónicas s
 
 - $\mathfrak{c}_{\text{sep}}(q, \Omega) = 1$ si y solo si $(q, \Omega)$ satisface las hipótesis (S1) y (S2) del régimen separable (§14.10); $0$ en otro caso.
 
-- $\mathfrak{c}_{\partial\Omega}(q, \Omega) = 1$ si y solo si $\det(J_{SV}) = 0$ sobre $\partial\Omega$, es decir, si la frontera factual está activa (§14.2); $0$ en otro caso.
+- $\mathfrak{c}_{\partial\Omega}(q, \Omega) = 1$ si y solo si $`\det(J_{SV}) = 0`$ sobre $\partial\Omega$, es decir, si la frontera factual está activa (§14.2); $0$ en otro caso.
 
 - $\mathfrak{c}_{\Lambda}(q, \Omega) = 1$ si y solo si el factor de cambio factual $\Lambda^{(k,l)}$ entre celdas admisibles es consistente con la orientación factual del mosaico (§14.3); $0$ en otro caso.
 
@@ -2939,7 +2939,7 @@ Evaluación de compuertas: $\mathfrak{c}_{\text{sep}} = 1$ (régimen separable),
 
 Por la Definición 14.19.5 con $\mathfrak{C}_{SV} = 0$: $\mathfrak{U}_{SV}[q, \Omega] = U$ sobre el interior. Correcto operativamente: la configuración no fuerza composición polimodal sobre régimen regular sin frontera activa y preserva la indeterminación honesta del SV en la salida del operador.
 
-**Configuración admisible con frontera activa.** Sobre interfaz $\partial C_{1,2}$ con $\det(J_{SV}) = 0$. Evaluación: $\mathfrak{c}_{\text{sep}} = 1$, $\mathfrak{c}_{\partial\Omega} = 1$, $\mathfrak{c}_{\Lambda} = 1$, $\mathfrak{c}_{R} = 1$ (balance $B_{\partial\Omega}^{SV} = \mathcal{R}^f_{SV} = 7{,}2$). Compuerta global $\mathfrak{C}_{SV} = 1$.
+**Configuración admisible con frontera activa.** Sobre interfaz $\partial C_{1,2}$ con $`\det(J_{SV}) = 0`$. Evaluación: $\mathfrak{c}_{\text{sep}} = 1$, $\mathfrak{c}_{\partial\Omega} = 1$, $\mathfrak{c}_{\Lambda} = 1$, $\mathfrak{c}_{R} = 1$ (balance $B_{\partial\Omega}^{SV} = \mathcal{R}^f_{SV} = 7{,}2$). Compuerta global $\mathfrak{C}_{SV} = 1$.
 
 Por la Definición 14.19.5 con $\mathfrak{C}_{SV} = 1$: $\mathfrak{U}_{SV}[q, \Omega] = \operatorname{Comp}^{\mathrm{poly}}_{SV}(\mathbb{M}_{SV}, \mathbb{K}_{SV}; q, \Omega)$, composición activa de las componentes de primer orden y de clausura. Correcto operativamente: el operador orquesta la composición polimodal cuando las cuatro compuertas canónicas coinciden.
 
