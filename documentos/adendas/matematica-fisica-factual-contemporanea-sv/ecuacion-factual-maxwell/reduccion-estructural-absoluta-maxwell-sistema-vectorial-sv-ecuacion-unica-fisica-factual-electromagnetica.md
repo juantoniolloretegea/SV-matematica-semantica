@@ -2739,32 +2739,6 @@ $$
 *Demostración.* Por los Teoremas 14.17.2 a 14.17.7, cada componente factual se traduce unívocamente a su contraparte clásica. La reconstrucción es completa porque las componentes factuales agotan el contenido del conjunto clásico, según el Teorema 14.16.2. La reconstrucción es reversible porque 𝒟<sub>SV</sub> y 𝒟<sub>SV</sub>^-1 son mutuamente inversas. Q.E.D.
 
 ---
-## Aplicaciones
-
-## §14.18. Aplicación de geometrización factual γ_SV
-
-### 14.18.1. Precedencia y estatuto
-
-La aplicación γ<sub>SV</sub> no funda el dominio canónico absoluto del aparato, sino que transporta representaciones admisibles hacia Ξ<sub>SV</sub> preservando la estructura de los operadores ya fijados. El estatuto operatorio del dominio Ξ<sub>SV</sub> se consigna en el §3.2 del documento de fundamentos operatorios (Lloret Egea, 2026k, §3.2) como eslabón de la cadena fundacional Ω<sub>pre</sub> → K<sub>3</sub>^n xrightarrowε Ξ<sub>SV</sub> → Σ<sub>conc</sub> → Σ<sub>canal</sub> → m<sub>0</sub>, χ_α, U. La presente sección formaliza algebraicamente la aplicación ε de esa cadena, bajo la denominación γ<sub>SV</sub> para evitar colisión tipográfica con el operador constitutivo eléctrico ε<sub>SV</sub> y con el tensor factual antisimétrico ε<sup>SV</sup>_ijk.
-
-### 14.18.2. Definición
-
-**Definición 14.18.1.** La **aplicación de geometrización factual** γ<sub>SV</sub> es la aplicación
-
-$$
-\gamma_{SV}: K_3^n \longrightarrow \Xi_{SV}
-$$
-
-que lleva cada estado ternario admisible de la célula canónica auxiliar K<sub>3</sub>^n = 0, 1, U^n al punto correspondiente del dominio canónico geometrizado Ξ<sub>SV</sub>, preservando la codificación visible absoluta ρ(0) = 1, ρ(1) = 2, ρ(U) = 3 del §4.1 del cuerpo.
-
-### 14.18.3. Axiomas operativos
-
-La aplicación γ<sub>SV</sub> satisface:
-
-- (G1) *Totalidad absoluta:* γ<sub>SV</sub> está definida sobre todo K<sub>3</sub>^n.
-- (G2) *Preservación de la codificación visible:* para cada estado ternario s ∈ 0, 1, U, γ<sub>SV</sub>(s) preserva el módulo factual ρ(s).
-- (G3) *Compatibilidad con refinamiento factual:* γ<sub>SV</sub> es estable bajo la subdivisión admisible del mosaico.
-- (G4) *Unicidad de realización admisible:* para cada estado ternario s ∈ K<sub>3</sub>^n, la realización γ<sub>SV</sub>(s) ∈ Ξ<sub>SV</sub> es única dentro de la clase de aplicaciones admisibles que cumplen (G1), (G2) y (G3).
 - 
 ## §14.19. Operador de conformación polimodal factual U_SV
 
