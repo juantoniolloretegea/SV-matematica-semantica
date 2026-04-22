@@ -2708,38 +2708,6 @@ Tres intentos, tres rupturas categoriales. La irreducibilidad algebraica del Teo
 
 *Demostración.* Por traducción análoga e identificación de la corriente total J<sub>cond</sub> + J<sub>ext</sub> con J<sub>f</sub>. Q.E.D.
 
-### 14.17.6. Reconstrucción de constitutivas
-
-**Teorema 14.17.6.** *Las tres constitutivas factuales D = ε<sub>SV</sub> E, B = μ<sub>SV</sub> H, J<sub>cond</sub> = σ<sub>SV</sub> E se reconstruyen como D = ε E, B = μ H, J<sub>c</sub> = σ E.*
-
-*Demostración.* Por traducción directa, preservando la autoadjunción del Teorema 14.8.2 que se corresponde con la simetría clásica. Q.E.D.
-
-### 14.17.7. Reconstrucción de contorno clásico
-
-**Teorema 14.17.7.** *La componente factual 𝔽<sub>SV</sub> = 0 se reconstruye bajo 𝒟<sub>SV</sub>^-1 como las condiciones clásicas*
-
-$$
-\mathbf{n} \times (\mathbf{E}_2 - \mathbf{E}_1) = \mathbf{0}, \qquad \mathbf{n} \times (\mathbf{H}_2 - \mathbf{H}_1) = \mathbf{K}_f,
-$$
-
-$$
-\mathbf{n} \cdot (\mathbf{D}_2 - \mathbf{D}_1) = \sigma_f, \qquad \mathbf{n} \cdot (\mathbf{B}_2 - \mathbf{B}_1) = 0.
-$$
-
-*Demostración.* Por traducción del producto tangencial factual del §14.5.3 y del balance de frontera factual a sus contrapartes clásicas, preservando el criterio de anulación 𝔽<sub>SV</sub>(q) = 0 como conjunción de las cuatro condiciones clásicas. Q.E.D.
-
-### 14.17.8. Teorema de reconstrucción completa
-
-**Teorema 14.17.8.** *𝒟<sub>SV</sub>^-1 aplicado componente a componente al operador maestro absoluto 𝔼<sub>SV</sub> = 0 reconstruye íntegramente el conjunto clásico:*
-
-- *cuatro ecuaciones de primer orden (Gauss eléctrica, Gauss magnética, Faraday, Ampère-Maxwell);*
-- *tres relaciones constitutivas (ε, μ, σ);*
-- *cuatro condiciones de contorno clásicas en interfaz.*
-
-*Demostración.* Por los Teoremas 14.17.2 a 14.17.7, cada componente factual se traduce unívocamente a su contraparte clásica. La reconstrucción es completa porque las componentes factuales agotan el contenido del conjunto clásico, según el Teorema 14.16.2. La reconstrucción es reversible porque 𝒟<sub>SV</sub> y 𝒟<sub>SV</sub>^-1 son mutuamente inversas. Q.E.D.
-
----
-- 
 ## §14.19. Operador de conformación polimodal factual U_SV
 
 ### 14.19.1. Estatuto categorial
