@@ -2708,8 +2708,6 @@ Tres intentos, tres rupturas categoriales. La irreducibilidad algebraica del Teo
 
 *Demostración.* Por traducción análoga e identificación de la corriente total J<sub>cond</sub> + J<sub>ext</sub> con J<sub>f</sub>. Q.E.D.
 
-## §14.19. Operador de conformación polimodal factual U_SV
-
 ### 14.19.1. Estatuto categorial
 
 El operador $`\mathfrak{U}_{SV}`$ conforma la articulación polimodal de los operadores absolutos del anexo sobre régimen admisible general. Su función es soportar la composición controlada de los operadores $`J_{SV}`$, $`\mathcal{R}^{f}_{SV}`$, $`\partial^{SV}_{i}`$, $`\partial^{SV,(k)}_{\nu}`$, $`\mathrm{Div}_{SV}`$, $`\mathrm{Rot}_{SV}`$, $`\times_{SV}`$, $`\langle\cdot,\cdot\rangle_{SV}`$, $`\nabla_{SV}`$ y las componentes del operador maestro $`\mathbb{M}_{SV}`$, $`\mathbb{K}_{SV}`$, $`\mathbb{F}_{SV}`$, sobre configuraciones admisibles fijadas por compuertas factuales tipadas.
