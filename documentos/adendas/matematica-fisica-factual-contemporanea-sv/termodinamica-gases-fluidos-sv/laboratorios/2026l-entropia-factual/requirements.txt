@@ -1,0 +1,2 @@
+# Este directorio usa únicamente la biblioteca estándar de Python 3.8+.
+# No requiere instalación de paquetes externos.
