@@ -2708,9 +2708,17 @@ Tres intentos, tres rupturas categoriales. La irreducibilidad algebraica del Teo
 
 *Demostración.* Por traducción análoga e identificación de la corriente total J<sub>cond</sub> + J<sub>ext</sub> con J<sub>f</sub>. Q.E.D.
 
+<!-- INICIO AUTÓNOMO DE §14.19 -->
+<a id="sv-14-19-inicio-autonomo"></a>
+
+---
+
+## §14.19. Operador de conformación polimodal factual U_SV
+
 ### 14.19.1. Estatuto categorial
 
-El operador $`\mathfrak{U}_{SV}`$ conforma la articulación polimodal de los operadores absolutos del anexo sobre régimen admisible general. Su función es soportar la composición controlada de los operadores $`J_{SV}`$, $`\mathcal{R}^{f}_{SV}`$, $`\partial^{SV}_{i}`$, $`\partial^{SV,(k)}_{\nu}`$, $`\mathrm{Div}_{SV}`$, $`\mathrm{Rot}_{SV}`$, $`\times_{SV}`$, $`\langle\cdot,\cdot\rangle_{SV}`$, $`\nabla_{SV}`$ y las componentes del operador maestro $`\mathbb{M}_{SV}`$, $`\mathbb{K}_{SV}`$, $`\mathbb{F}_{SV}`$, sobre configuraciones admisibles fijadas por compuertas factuales tipadas.
+El operador U_SV conforma la articulación polimodal de los operadores absolutos del anexo sobre régimen admisible general. Su función es soportar la composición controlada de los operadores J_SV, R^f_SV, ∂^SV_i, ∂^SV,(k)_ν, Div_SV, Rot_SV, ×_SV, ⟨·,·⟩_SV, ∇_SV y las componentes del operador maestro M_SV, K_SV, F_SV, sobre configuraciones admisibles fijadas por compuertas factuales tipadas.
+
 ### 14.19.2. Clase admisible de configuraciones
 
 **Definición 14.19.1.** La clase admisible de configuraciones factuales $`\mathcal{M}^{\mathrm{adm}}_{SV}`$ es el conjunto de pares $`(q,\Omega)`$ con $`q`$ magnitud factual admisible sobre $`\Omega \subseteq \Xi_{SV}`$, compatibles con las prohibiciones constitutivas, el cosido metrológico absoluto y la clausura factual $`\mathsf{Cl}_{SV}`$ del §14.11.3.
@@ -2744,10 +2752,6 @@ c_{\mathrm{sep}}(q,\Omega)\cdot c_{\partial\Omega}(q,\Omega)\cdot c_{\Lambda}(q,
 $$
 
 El producto en $`\{0,1\}`$ coincide con la conjunción absoluta: $`\mathfrak{C}_{SV}=1`$ si y solo si las cuatro compuertas canónicas evalúan simultáneamente a $`1`$.
-
-<!-- BREAK DE RENDER -->
-
----
 
 ### 14.19.5. Núcleo compositivo Comp^poly_SV
 
