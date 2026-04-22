@@ -2819,6 +2819,7 @@ $$
 La evaluación por la forma del §14.7 sobre los tres puntos de Ξ<sub>SV</sub> imagen de los tres estados produce el valor idéntico 37. Definición 14.18.1 y Teorema 14.18.4 mutuamente consistentes.
 
 ---
+---
 
 ## §14.19. Operador de conformación polimodal factual U_SV
 
