@@ -2765,35 +2765,7 @@ La aplicación γ<sub>SV</sub> satisface:
 - (G2) *Preservación de la codificación visible:* para cada estado ternario s ∈ 0, 1, U, γ<sub>SV</sub>(s) preserva el módulo factual ρ(s).
 - (G3) *Compatibilidad con refinamiento factual:* γ<sub>SV</sub> es estable bajo la subdivisión admisible del mosaico.
 - (G4) *Unicidad de realización admisible:* para cada estado ternario s ∈ K<sub>3</sub>^n, la realización γ<sub>SV</sub>(s) ∈ Ξ<sub>SV</sub> es única dentro de la clase de aplicaciones admisibles que cumplen (G1), (G2) y (G3).
-
-### 14.18.4. Consistencia con el aparato operatorio
-
-**Teorema 14.18.2 (consistencia con operadores absolutos).** *Los operadores absolutos ∂_ν<sup>SV</sup>, ∂<sup>SV</sup>_i, Div<sub>SV</sub>, Rot<sub>SV</sub>, ε<sub>SV</sub>, μ<sub>SV</sub>, σ<sub>SV</sub> definidos sobre Ξ<sub>SV</sub> admiten pullback bien definido a través de γ<sub>SV</sub> a operadores correspondientes sobre K<sub>3</sub>^n, compatibles con la estructura ternaria absoluta.*
-
-*Demostración.* Por (G1) y (G4), la composición γ<sub>SV</sub>^* L := L ∘ γ<sub>SV</sub> está bien definida y es única para cada operador L sobre Ξ<sub>SV</sub>. Por (G2) y (G3), el pullback preserva la codificación visible del §4.1 y el refinamiento factual. La linealidad factual se transporta por linealidad de la composición. Q.E.D.
-
-**Teorema 14.18.3 (consistencia con régimen separable).** *Las hipótesis (S1) y (S2) del régimen separable (§14.10) son invariantes bajo γ<sub>SV</sub>: si una configuración sobre Ξ<sub>SV</sub> las satisface, la configuración correspondiente bajo γ<sub>SV</sub>^-1 hereda las mismas propiedades estructurales.*
-
-*Demostración.* (S1) exige independencia posicional del peso ω(ν<sub>j</sub>). Por (G2), γ<sub>SV</sub> no introduce dependencia posicional adicional; la independencia se preserva. (S2) exige estabilidad de la base admisible y la métrica; por (G3) y (G4), γ<sub>SV</sub> transporta bases admisibles sin alteración de la estructura métrica heredada del cosido metrológico del §5.6 del cuerpo. Q.E.D.
-
-### 14.18.5. Consistencia del bracket factual bajo γ_SV
-
-**Teorema 14.18.4.** *El bracket factual absoluto ⟨·,·⟩<sub>SV</sub> del §14.7 admite formulación equivalente por composición con γ<sub>SV</sub>: para todo par de campos admisibles F, G: Ξ<sub>SV</sub> → R<sup>3</sup>,*
-
-$$
-\langle F, G\rangle_{SV} \;=\; \sum_{s \in K_3^n}\,\rho(s)\cdot (F \circ \gamma_{SV})(s)\cdot (G \circ \gamma_{SV})(s),
-$$
-
-*con la suma absoluta extendida sobre el mosaico ternario y el producto punto aplicado componente a componente sobre R<sup>3</sup>.*
-
-*Demostración.* Por (G1), (F ∘ γ<sub>SV</sub>): K<sub>3</sub>^n → R<sup>3</sup> está bien definida. Bilinealidad, simetría y no-negatividad se preservan trivialmente por composición dado que la estructura bilineal reside en R<sup>3</sup>. La no-degeneración se preserva por (G4): si γ<sub>SV</sub>(s) ≠ 0 para todo s no nulo, entonces (F ∘ γ<sub>SV</sub>)(s) = 0 para todo s implica F = 0 factualmente. Q.E.D.
-
-### 14.18.6. Cláusula de precedencia
-
-El Teorema 14.18.4 expresa el bracket ⟨·,·⟩<sub>SV</sub> mediante la composición con γ<sub>SV</sub>. Esta expresión es **reformulación equivalente**, no fundación del bracket. El bracket queda fijado absolutamente en §14.7 sobre la clase admisible de campos; γ<sub>SV</sub> transporta representaciones sin alterar el estatuto operatorio de Ξ<sub>SV</sub> ni el de los operadores absolutos que sobre él actúan. Ningún corolario del presente §14.18 deriva estatuto ontológico del dominio a partir de γ<sub>SV</sub>.
-
----
-
+- 
 ## §14.19. Operador de conformación polimodal factual U_SV
 
 ### 14.19.1. Estatuto categorial
