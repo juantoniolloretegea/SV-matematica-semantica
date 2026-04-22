@@ -2828,53 +2828,38 @@ El operador U<sub>SV</sub> conforma la articulación polimodal de los operadores
 
 ### 14.19.2. Clase admisible de configuraciones
 
-**Definición 14.19.1.** La **clase admisible de configuraciones factuales** ℳ<sup>adm</sup>_SV es el conjunto de pares (q, Ω) con q magnitud factual admisible sobre Ω subseteq Ξ<sub>SV</sub>, compatibles con las prohibiciones constitutivas, el cosido metrológico absoluto y la clausura factual mathsfCl_SV del §14.11.3.
+**Definición 14.19.1.** La clase admisible de configuraciones factuales $`\mathcal{M}^{\mathrm{adm}}_{SV}`$ es el conjunto de pares $`(q,\Omega)`$ con $`q`$ magnitud factual admisible sobre $`\Omega \subseteq \Xi_{SV}`$, compatibles con las prohibiciones constitutivas, el cosido metrológico absoluto y la clausura factual $`\mathsf{Cl}_{SV}`$ del §14.11.3.
 
 ### 14.19.3. Tipado canónico de compuertas
 
-**Definición 14.19.2.** Las **compuertas factuales canónicas** son aplicaciones
+**Definición 14.19.2.** Las compuertas factuales canónicas son aplicaciones
 
 $$
-\mathfrak{c}_* : \mathcal{M}^{\text{adm}}_{SV} \longrightarrow \{0, 1\},
+c_{\ast}:\mathcal{M}^{\mathrm{adm}}_{SV}\longrightarrow \{0,1\},
 $$
 
 con criterio de paso algebraicamente cerrado. Las cuatro compuertas canónicas se fijan así:
 
-- c<sub>sep</sub>(q, Ω) = 1 si y solo si (q, Ω) satisface las hipótesis (S1) y (S2) del régimen separable (§14.10); 0 en otro caso.
+- $`c_{\mathrm{sep}}(q,\Omega)=1`$ si y solo si $`(q,\Omega)`$ satisface las hipótesis $`(\mathrm{S}1)`$ y $`(\mathrm{S}2)`$ del régimen separable (§14.10); $`0`$ en otro caso.
 
-- c<sub>∂Ω</sub>(q, Ω) = 1 si y solo si det(J<sub>SV</sub>) = 0 sobre ∂Ω, es decir, si la frontera factual está activa (§14.2); 0 en otro caso.
+- $`c_{\partial\Omega}(q,\Omega)=1`$ si y solo si $`\det(J_{SV})=0`$ sobre $`\partial\Omega`$, es decir, si la frontera factual está activa (§14.2); $`0`$ en otro caso.
 
-- c<sub>Λ</sub>(q, Ω) = 1 si y solo si el factor de cambio factual Λ<sup>(k,l)</sup> entre celdas admisibles es consistente con la orientación factual del mosaico (§14.3); 0 en otro caso.
+- $`c_{\Lambda}(q,\Omega)=1`$ si y solo si el factor de cambio factual $`\Lambda^{(k,l)}`$ entre celdas admisibles es consistente con la orientación factual del mosaico (§14.3); $`0`$ en otro caso.
 
-- c<sub>R</sub>(q, Ω) = 1 si y solo si el operador exacto de reconfiguración 𝓡<sup>f</sup><sub>SV</sub> opera con balance compatible sobre (q, Ω) en el sentido del §14.3; 0 en otro caso.
+- $`c_{R}(q,\Omega)=1`$ si y solo si el operador exacto de reconfiguración $`\mathcal{R}^{f}_{SV}`$ opera con balance compatible sobre $`(q,\Omega)`$ en el sentido del §14.3; $`0`$ en otro caso.
 
 ### 14.19.4. Compuerta global
 
-**Definición 14.19.3.** La **compuerta global absoluta** C<sub>SV</sub>: ℳ<sup>adm</sup>_SV → 0, 1 se define como conjunción absoluta de las cuatro compuertas canónicas:
+**Definición 14.19.3.** La compuerta global absoluta $`\mathfrak{C}_{SV}`$: $`\mathcal{M}^{\mathrm{adm}}_{SV} \to \{0,1\}`$ se define como conjunción absoluta de las cuatro compuertas canónicas:
 
 $$
-\mathfrak{C}_{SV}(q, \Omega) \;:=\; \mathfrak{c}_{\text{sep}}(q, \Omega) \cdot \mathfrak{c}_{\partial\Omega}(q, \Omega) \cdot \mathfrak{c}_{\Lambda}(q, \Omega) \cdot \mathfrak{c}_{R}(q, \Omega).
+\mathfrak{C}_{SV}(q,\Omega)
+\;:=\;
+c_{\mathrm{sep}}(q,\Omega)\cdot c_{\partial\Omega}(q,\Omega)\cdot c_{\Lambda}(q,\Omega)\cdot c_{R}(q,\Omega).
 $$
 
-El producto en 0,1 coincide con la conjunción absoluta: C<sub>SV</sub> = 1 si y solo si las cuatro compuertas canónicas evalúan simultáneamente a 1.
+El producto en $`\{0,1\}`$ coincide con la conjunción absoluta: $`\mathfrak{C}_{SV}=1`$ si y solo si las cuatro compuertas canónicas evalúan simultáneamente a $`1`$.
 
-### 14.19.5. Núcleo compositivo Comp^poly_SV
-
-**Definición 14.19.4.** Sea `O_SV` la colección de operadores absolutos del anexo enumerados en §14.19.1. El núcleo compositivo polimodal factual `Comp^poly_SV` es la operación
-
-`Comp^poly_SV : O_SV × O_SV × M^adm_SV -> O_SV`
-
-que, a cada par ordenado `(L1, L2)` de operadores absolutos y cada configuración admisible `(q, Ω)`, asigna el operador compuesto `Comp^poly_SV(L1, L2; q, Ω)` perteneciente a `O_SV`, definido por las cuatro condiciones siguientes:
-
-- **Dominio preciso.** El dominio de la composición es la intersección de los dominios admisibles de `L1` y `L2`, restringida a `(q, Ω)`.
-
-- **Regla de composición.** Si las compuertas canónicas involucradas evalúan a `1` sobre `(q, Ω)`, la composición se reduce a la composición funcional estándar `L1 ∘ L2`. Si alguna compuerta canónica relevante evalúa a `0`, la composición se modula por el operador de reconfiguración factual `R^f_SV` aplicado en el punto de ruptura.
-
-- **Asociatividad condicional.** La composición `Comp^poly_SV` es asociativa sobre el subdominio donde `C_SV(q, Ω) = 1`. Fuera de ese subdominio, la asociatividad queda controlada por la fórmula de reordenación de la jerarquía reconfigurativa del apartado §14.19.7.
-
-- **Equivalencia de salida.** Dos composiciones `Comp^poly_SV(L1, L2; q, Ω)` y `Comp^poly_SV(L1', L2'; q, Ω)` son equivalentes si y solo si producen la misma salida funcional sobre cada elemento admisible de la intersección de sus dominios, módulo aplicación de `R^f_SV` en las interfaces factuales activas.
-
-La relación de `Comp^poly_SV` con la firma general `Comp` del corpus, entendida como composición genérica de operadores sobre `Ξ_SV`, es la siguiente: `Comp^poly_SV` es la restricción especializada de `Comp` al subdominio admisible `M^adm_SV` bajo control de las compuertas canónicas.
 ### 14.19.5. Núcleo compositivo Comp^poly_SV
 
 **Definición 14.19.4.** Sea $`\mathcal{O}_{SV}`$ la colección de operadores absolutos del anexo enumerados en §14.19.1. El núcleo compositivo polimodal factual $`\mathrm{Comp}^{\mathrm{poly}}_{SV}`$ es la operación
@@ -2896,7 +2881,7 @@ que, a cada par ordenado $`(L_1, L_2)`$ de operadores absolutos y cada configura
 
 - **Equivalencia de salida.** Dos composiciones $`\mathrm{Comp}^{\mathrm{poly}}_{SV}(L_1, L_2; q, \Omega)`$ y $`\mathrm{Comp}^{\mathrm{poly}}_{SV}(L'_1, L'_2; q, \Omega)`$ son equivalentes si y solo si producen la misma salida funcional sobre cada elemento admisible de la intersección de sus dominios, módulo aplicación de $`\mathcal{R}^{f}_{SV}`$ en las interfaces factuales activas.
 
-La relación de $`\mathrm{Comp}^{\mathrm{poly}}_{SV}`$ con la firma general $`\mathrm{Comp}`$ del corpus, entendida como composición genérica de operadores sobre $`\Xi_{SV}`$, es la siguiente: $`\mathrm{Comp}^{\mathrm{poly}}_{SV}`$ es la restricción especializada de $`\mathrm{Comp}`$ al subdominio admisible $`\mathcal{M}^{\mathrm{adm}}_{SV}`$ bajo control de las compuertas canónicas.
+La relación de Comp^poly_SV con la firma general Comp del corpus, entendida como composición genérica de operadores sobre Ξ_SV, es la siguiente: Comp^poly_SV es la restricción especializada de Comp al subdominio admisible M^adm_SV bajo control de las compuertas canónicas.
 
 ### 14.19.6. Definición operativa de U_SV
 
@@ -2941,20 +2926,8 @@ donde $`\mathbb{M}_{SV}`$ es la componente absoluta de las ecuaciones de primer 
 
 **Teorema 14.19.8 (existencia tipada de $`\mathfrak{U}_{SV}`$).** Para toda configuración $`(q,\Omega)`$ perteneciente a $`\mathcal{M}^{\mathrm{adm}}_{SV}`$, la salida $`\mathfrak{U}_{SV}[q,\Omega]`$ está bien definida, es única y pertenece a la unión tipada $`\mathcal{O}_{SV} \cup \{U\}`$.
 
-*Demostración.* Por definición, la compuerta global absoluta $`\mathfrak{C}_{SV}(q,\Omega)`$ sólo puede tomar los valores $`0`$ o $`1`$. Si $`\mathfrak{C}_{SV}(q,\Omega)=1`$, la salida es
+*Demostración.* Por definición, la compuerta global absoluta $`\mathfrak{C}_{SV}(q,\Omega)`$ sólo puede tomar los valores $`0`$ o $`1`$. Si $`\mathfrak{C}_{SV}(q,\Omega)=1`$, la salida es $`\mathrm{Comp}^{\mathrm{poly}}_{SV}(\mathbb{M}_{SV}, \mathbb{K}_{SV}; q,\Omega)`$ y pertenece a $`\mathcal{O}_{SV}`$. Si $`\mathfrak{C}_{SV}(q,\Omega)=0`$, la salida es $`U`$ y pertenece a $`\{U\}`$. La unicidad se sigue de la unicidad del valor de $`\mathfrak{C}_{SV}(q,\Omega)`$ y de la determinación unívoca de cada una de las dos ramas. Q.E.D.
 
-$$
-\mathfrak{U}_{SV}[q,\Omega] \;:=\;
-\mathrm{Comp}^{\mathrm{poly}}_{SV}\bigl(\mathbb{M}_{SV},\mathbb{K}_{SV};\,q,\Omega\bigr),
-$$
-
-y pertenece a $`\mathcal{O}_{SV}`$. Si $`\mathfrak{C}_{SV}(q,\Omega)=0`$, la salida es
-
-$$
-\mathfrak{U}_{SV}[q,\Omega] \;:=\; U,
-$$
-
-y pertenece a $`\{U\}`$. La unicidad se sigue de la unicidad del valor de $`\mathfrak{C}_{SV}(q,\Omega)`$ y de la determinación unívoca de cada una de las dos ramas. Q.E.D.
 
 
 ### 14.19.9. Teorema de no identidad de suceso
