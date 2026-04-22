@@ -2792,33 +2792,6 @@ $$
 
 El Teorema 14.18.4 expresa el bracket ⟨·,·⟩<sub>SV</sub> mediante la composición con γ<sub>SV</sub>. Esta expresión es **reformulación equivalente**, no fundación del bracket. El bracket queda fijado absolutamente en §14.7 sobre la clase admisible de campos; γ<sub>SV</sub> transporta representaciones sin alterar el estatuto operatorio de Ξ<sub>SV</sub> ni el de los operadores absolutos que sobre él actúan. Ningún corolario del presente §14.18 deriva estatuto ontológico del dominio a partir de γ<sub>SV</sub>.
 
-### 14.18.7. Verificación visible de la geometrización
-
-Sobre la célula canónica SV(3,9) con estados ternarios s<sub>1</sub> = (0, 1, U), s<sub>2</sub> = (1, 1, 0), s<sub>3</sub> = (U, 0, 1), y base ortonormal admisible e<sup>SV</sup>_i_i=1^3 del dominio canónico geometrizado Ξ<sub>SV</sub>.
-
-**Aplicación sobre estados ternarios.** Por (G2) y la codificación visible ρ(0) = 1, ρ(1) = 2, ρ(U) = 3:
-
-$$
-\gamma_{SV}(s_1) = (1, 2, 3), \quad \gamma_{SV}(s_2) = (2, 2, 1), \quad \gamma_{SV}(s_3) = (3, 1, 2).
-$$
-
-**Campo factual admisible.** F: Ξ<sub>SV</sub> → R<sup>3</sup>, F(x) = (x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>).
-
-**Pullback.**
-
-$$
-(F \circ \gamma_{SV})(s_1) = (1, 2, 3), \quad (F \circ \gamma_{SV})(s_2) = (2, 2, 1), \quad (F \circ \gamma_{SV})(s_3) = (3, 1, 2).
-$$
-
-**Bracket factual por la forma del Teorema 14.18.4.** Con pesos unitarios sobre los tres estados considerados:
-
-$$
-\langle F, F\rangle_{SV} = (1 + 4 + 9) + (4 + 4 + 1) + (9 + 1 + 4) = 14 + 9 + 14 = 37.
-$$
-
-La evaluación por la forma del §14.7 sobre los tres puntos de Ξ<sub>SV</sub> imagen de los tres estados produce el valor idéntico 37. Definición 14.18.1 y Teorema 14.18.4 mutuamente consistentes.
-
----
 ---
 
 ## §14.19. Operador de conformación polimodal factual U_SV
