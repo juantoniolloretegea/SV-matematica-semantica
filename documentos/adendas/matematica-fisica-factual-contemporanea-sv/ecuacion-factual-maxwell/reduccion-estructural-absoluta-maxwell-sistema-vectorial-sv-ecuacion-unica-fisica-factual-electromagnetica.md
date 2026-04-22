@@ -2824,8 +2824,7 @@ La evaluación por la forma del §14.7 sobre los tres puntos de Ξ<sub>SV</sub> 
 
 ### 14.19.1. Estatuto categorial
 
-El operador U<sub>SV</sub> conforma la articulación polimodal de los operadores absolutos del anexo sobre régimen admisible general. Su función es soportar la composición controlada de los operadores J<sub>SV</sub>, 𝓡<sup>f</sup><sub>SV</sub>, ∂<sup>SV</sup>_i, ∂_ν<sup>SV(k)</sup>, Div<sub>SV</sub>, Rot<sub>SV</sub>, ×_SV, ⟨·,·⟩<sub>SV</sub>, ∇<sup>SV</sup> y las componentes del operador maestro 𝕄<sub>SV</sub>, 𝕂<sub>SV</sub>, 𝔽<sub>SV</sub>, sobre configuraciones admisibles fijadas por compuertas factuales tipadas.
-
+El operador $`\mathfrak{U}_{SV}`$ conforma la articulación polimodal de los operadores absolutos del anexo sobre régimen admisible general. Su función es soportar la composición controlada de los operadores $`J_{SV}`$, $`\mathcal{R}^{f}_{SV}`$, $`\partial^{SV}_{i}`$, $`\partial^{SV,(k)}_{\nu}`$, $`\mathrm{Div}_{SV}`$, $`\mathrm{Rot}_{SV}`$, $`\times_{SV}`$, $`\langle\cdot,\cdot\rangle_{SV}`$, $`\nabla_{SV}`$ y las componentes del operador maestro $`\mathbb{M}_{SV}`$, $`\mathbb{K}_{SV}`$, $`\mathbb{F}_{SV}`$, sobre configuraciones admisibles fijadas por compuertas factuales tipadas.
 ### 14.19.2. Clase admisible de configuraciones
 
 **Definición 14.19.1.** La clase admisible de configuraciones factuales $`\mathcal{M}^{\mathrm{adm}}_{SV}`$ es el conjunto de pares $`(q,\Omega)`$ con $`q`$ magnitud factual admisible sobre $`\Omega \subseteq \Xi_{SV}`$, compatibles con las prohibiciones constitutivas, el cosido metrológico absoluto y la clausura factual $`\mathsf{Cl}_{SV}`$ del §14.11.3.
