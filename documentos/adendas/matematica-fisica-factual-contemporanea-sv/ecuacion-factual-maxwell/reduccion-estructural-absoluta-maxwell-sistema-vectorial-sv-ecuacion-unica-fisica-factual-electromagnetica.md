@@ -2875,8 +2875,6 @@ que, a cada par ordenado `(L1, L2)` de operadores absolutos y cada configuració
 - **Equivalencia de salida.** Dos composiciones `Comp^poly_SV(L1, L2; q, Ω)` y `Comp^poly_SV(L1', L2'; q, Ω)` son equivalentes si y solo si producen la misma salida funcional sobre cada elemento admisible de la intersección de sus dominios, módulo aplicación de `R^f_SV` en las interfaces factuales activas.
 
 La relación de `Comp^poly_SV` con la firma general `Comp` del corpus, entendida como composición genérica de operadores sobre `Ξ_SV`, es la siguiente: `Comp^poly_SV` es la restricción especializada de `Comp` al subdominio admisible `M^adm_SV` bajo control de las compuertas canónicas.
-
-### 14.19.6. Definición operativa de U_SV
 ### 14.19.5. Núcleo compositivo Comp^poly_SV
 
 **Definición 14.19.4.** Sea $`\mathcal{O}_{SV}`$ la colección de operadores absolutos del anexo enumerados en §14.19.1. El núcleo compositivo polimodal factual $`\mathrm{Comp}^{\mathrm{poly}}_{SV}`$ es la operación
