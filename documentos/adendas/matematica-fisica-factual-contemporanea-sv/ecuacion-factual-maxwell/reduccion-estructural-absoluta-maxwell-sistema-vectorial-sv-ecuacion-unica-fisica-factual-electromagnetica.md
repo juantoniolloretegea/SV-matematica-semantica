@@ -2745,6 +2745,10 @@ $$
 
 El producto en $`\{0,1\}`$ coincide con la conjunción absoluta: $`\mathfrak{C}_{SV}=1`$ si y solo si las cuatro compuertas canónicas evalúan simultáneamente a $`1`$.
 
+<!-- BREAK DE RENDER -->
+
+---
+
 ### 14.19.5. Núcleo compositivo Comp^poly_SV
 
 **Definición 14.19.4.** Sea $`\mathcal{O}_{SV}`$ la colección de operadores absolutos del anexo enumerados en §14.19.1. El núcleo compositivo polimodal factual $`\mathrm{Comp}^{\mathrm{poly}}_{SV}`$ es la operación
@@ -2812,8 +2816,6 @@ donde $`\mathbb{M}_{SV}`$ es la componente absoluta de las ecuaciones de primer 
 **Teorema 14.19.8 (existencia tipada de $`\mathfrak{U}_{SV}`$).** Para toda configuración $`(q,\Omega)`$ perteneciente a $`\mathcal{M}^{\mathrm{adm}}_{SV}`$, la salida $`\mathfrak{U}_{SV}[q,\Omega]`$ está bien definida, es única y pertenece a la unión tipada $`\mathcal{O}_{SV} \cup \{U\}`$.
 
 *Demostración.* Por definición, la compuerta global absoluta $`\mathfrak{C}_{SV}(q,\Omega)`$ sólo puede tomar los valores $`0`$ o $`1`$. Si $`\mathfrak{C}_{SV}(q,\Omega)=1`$, la salida es $`\mathrm{Comp}^{\mathrm{poly}}_{SV}(\mathbb{M}_{SV}, \mathbb{K}_{SV}; q,\Omega)`$ y pertenece a $`\mathcal{O}_{SV}`$. Si $`\mathfrak{C}_{SV}(q,\Omega)=0`$, la salida es $`U`$ y pertenece a $`\{U\}`$. La unicidad se sigue de la unicidad del valor de $`\mathfrak{C}_{SV}(q,\Omega)`$ y de la determinación unívoca de cada una de las dos ramas. Q.E.D.
-
-
 
 ### 14.19.9. Teorema de no identidad de suceso
 
