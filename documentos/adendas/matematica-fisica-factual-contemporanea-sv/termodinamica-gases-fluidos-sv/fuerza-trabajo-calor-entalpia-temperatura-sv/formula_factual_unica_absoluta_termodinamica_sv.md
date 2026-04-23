@@ -1,4 +1,4 @@
-# Fórmula factual única absoluta del dominio termodinámico en el Sistema Vectorial SV: tres formas equivalentes y únicas — explícita, implícita, paramétrica — sobre el fibrado soberano Ω<sub>SV</sub>, con vector normal 𝖦<sub>SV</sub> y vector director **u**<sub>SV</sub>
+#Fuerza, trabajo, calor, entalpía, temperatura, principios y fundamentos de la termodinámica y la correlación entre ellos en el SV
 
 **© 2026. Todos los derechos reservados.** | **DOI** [por asignar] | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 23/04/2026 |
 
