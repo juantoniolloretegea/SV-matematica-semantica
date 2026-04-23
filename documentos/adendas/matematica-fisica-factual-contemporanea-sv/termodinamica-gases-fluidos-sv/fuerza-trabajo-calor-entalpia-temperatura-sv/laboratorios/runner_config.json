@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "descripcion": "Configuración del runner: orden declarado de los 12 laboratorios. Política estricta: sin pases silenciosos, sin catch genérico, exit(1) al primer fallo.",
+  "orden_laboratorios": [
+    {"id": "lab_01", "archivo": "lab_01_balance_canonico.py",       "teorema": "8.1",  "tema": "Balance canónico 𝔇𝒜 = 𝒲+𝒬+𝒰"},
+    {"id": "lab_02", "archivo": "lab_02_irreversibilidad.py",       "teorema": "8.2",  "tema": "Irreversibilidad factual 𝔇𝓗 ≥ 0"},
+    {"id": "lab_03", "archivo": "lab_03_tres_formas_cruzadas.py",   "teorema": "15.5", "tema": "Equivalencia de las tres formas (90/90 coincidencias)"},
+    {"id": "lab_04", "archivo": "lab_04_vector_director.py",        "teorema": "15.4", "tema": "Vector director y ortogonalidad u⃗·𝖦 = 0"},
+    {"id": "lab_05", "archivo": "lab_05_identidad_termometrica.py", "teorema": "10.4", "tema": "Identidad termométrica Θ·𝔇𝓗 = 𝔇𝒬"},
+    {"id": "lab_06", "archivo": "lab_06_absorcion_limite_clasica.py","teorema": "§10",  "tema": "Absorción del límite clásico (dU = δW+δQ)"},
+    {"id": "lab_07", "archivo": "lab_07_fuerza_helmholtz_factual.py","teorema": "§6.5", "tema": "Fuerza canónica −∇φ + ⋆d𝒜^vec + 𝒥·ê"},
+    {"id": "lab_08", "archivo": "lab_08_unicidad_generador.py",     "teorema": "5.1.b","tema": "Unicidad del generador 𝖦_SV"},
+    {"id": "lab_09", "archivo": "lab_09_exhaustividad_tres_clases.py","teorema": "15.8","tema": "Exhaustividad de las tres clases estructurales"},
+    {"id": "lab_10", "archivo": "lab_10_consistencia_dimensional.py","teorema": "§9",  "tema": "Consistencia dimensional con pilar metrológico"},
+    {"id": "lab_11", "archivo": "lab_11_celula_canonica_sv3_9.py",  "teorema": "11.1", "tema": "Consistencia sobre célula canónica SV(3, 9)"},
+    {"id": "lab_12", "archivo": "lab_12_adversarial_rivales.py",    "teorema": "16.3", "tema": "Exclusividad frente a 6 clases de rivales"}
+  ],
+  "tolerancia_numerica": 1e-9,
+  "semilla_determinista": 33,
+  "politica": {
+    "fail_fast": true,
+    "pases_silenciosos_prohibidos": true,
+    "catch_generico_prohibido": true,
+    "exit_0_solo_si_todo_pasa": true,
+    "verificar_unicidad_de_codigos_al_arrancar": true
+  }
+}
