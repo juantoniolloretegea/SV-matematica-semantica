@@ -1,6 +1,6 @@
 # Entropía factual e irreversibilidad estructural en el Sistema Vectorial SV: dispersión preternaria, ley de transporte por la cadena fundacional y conservación asimétrica del contenido factual
 
-**© 2026. Todos los derechos reservados.** | **DOI:** | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 22/04/2026 |
+**© 2026. Todos los derechos reservados.** | [ **DOI** 10.17613/vh6ak-6em43](https://doi.org/10.17613/vh6ak-6em43) | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 22/04/2026 |
 
 **Advertencia**: Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido.
 
