@@ -6,10 +6,10 @@ Colección de documentos del Sistema Vectorial SV dedicada al estudio de proceso
 
 ### 2026l — Entropía factual e irreversibilidad estructural en el Sistema Vectorial SV
 
-- **Documento:** [`documentos/2026l-entropia-factual/2026l-entropia-factual-sv.md`](./documentos/2026l-entropia-factual/2026l-entropia-factual-sv.md)
+- **Documento:** [`entropia-factual-irreversibilidad-estructural-sv.md`](./entropia-factual-irreversibilidad-estructural-sv.md)
 - **Portada:** [`imagenes/Portada.png`](./imagenes/Portada.png)
-- **Laboratorios reproducibles:** [`laboratorios/2026l-entropia-factual/`](./laboratorios/2026l-entropia-factual/)
-- **Catálogo de errores corregidos:** [`laboratorios/2026l-entropia-factual/CATALOGO_ERRORES.md`](./laboratorios/2026l-entropia-factual/CATALOGO_ERRORES.md)
+- **Laboratorios reproducibles:** [`laboratorios/`](./laboratorios/)
+- **Catálogo de errores corregidos:** [`laboratorios/CATALOGO_ERRORES.md`](./laboratorios/CATALOGO_ERRORES.md)
 
 Fija la **entropía factual** H<sub>SV</sub>, magnitud estructural de dispersión factual que acompaña a toda trayectoria admisible del SV y se transporta por la cadena fundacional completa del corpus. Se demuestran los teoremas de **irreversibilidad estructural** (Teorema 8.2) y de **conservación asimétrica del contenido factual** (Teorema 9.3) sin recurso a tiempo soberano, probabilidad fundante ni estadística como criterio de verdad.
 
@@ -18,7 +18,7 @@ El documento ha pasado por ocho rondas adversariales iterativas con 37 grietas d
 ## Cómo usar los laboratorios
 
 ```bash
-cd laboratorios/2026l-entropia-factual
+cd laboratorios
 python3 run_all.py
 ```
 

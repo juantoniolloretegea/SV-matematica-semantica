@@ -975,7 +975,7 @@ H_{SV}(\Gamma, 4) = H_{fin}(\Gamma, 4) = 16{,}8 + 0 + 0 + 0 = 16{,}8.
 
 **Dictamen factual.** 𝔗<sub>SV</sub>(Γ, 4) = m<sub>0</sub>. La trayectoria alcanza cierre basal determinado; los residuales son bajos y no contribuyen al dictamen. Verificación de monotonía: H<sub>SV</sub>(Γ, 3) = 13,1, Δ[3, 4] = 3,7 > 0. Teorema 8.2 verificado.
 
-*Laboratorio reproducible: [`lab_ejemplo_A_cierre_determinado.py`](../../laboratorios/2026l-entropia-factual/lab_ejemplo_A_cierre_determinado.py).*
+*Laboratorio reproducible: [`lab_ejemplo_A_cierre_determinado.py`](./laboratorios/lab_ejemplo_A_cierre_determinado.py).*
 
 ### 17.2. Ejemplo B — Trayectoria con residual en U (dictamen U)
 
@@ -1018,7 +1018,7 @@ H_{SV}(\Gamma, 5) = H_{fin}(\Gamma, 5) = 14{,}5 + 0 + 0 + 0{,}5 = 15{,}0.
 
 **Dictamen factual.** 𝔗<sub>SV</sub>(Γ, 5) = U. La posición ξ<sub>2</sub> clausura a U por insuficiencia de base compatible; la contribución δ<sub>U</sub> = 0,5 captura la persistencia estructural del residual. Verificación de monotonía: H<sub>SV</sub>(Γ, 3) = 10,3, Δ[3, 5] = 4,7 > 0. Teorema 8.2 verificado.
 
-*Laboratorio reproducible: [`lab_ejemplo_B_residual_en_U.py`](../../laboratorios/2026l-entropia-factual/lab_ejemplo_B_residual_en_U.py).*
+*Laboratorio reproducible: [`lab_ejemplo_B_residual_en_U.py`](./laboratorios/lab_ejemplo_B_residual_en_U.py).*
 
 ### 17.3. Ejemplo C — Trayectoria con clase emergente (dictamen χ<sub>α</sub>)
 
@@ -1061,7 +1061,7 @@ H_{SV}(\Gamma, 5) = H_{fin}(\Gamma, 5) = 14{,}4 + 0 + 0{,}6 + 0 = 15{,}0.
 
 **Dictamen factual.** 𝔗<sub>SV</sub>(Γ, 5) = χ<sub>α</sub>. La activación de clase emergente en n = 5 aporta contribución δ<sub>χ</sub> = 0,6 al dictamen. La contribución proviene del régimen de transmutación factual (𝔠<sup>adm</sup><sub>trans</sub>), cumpliendo (C1)-(C4) de la Definición 7.1. Verificación de monotonía: H<sub>SV</sub>(Γ, 4) = 13,0 (sin clase emergente activa), Δ[4, 5] = 2,0 > 0. Teorema 8.2 verificado.
 
-*Laboratorio reproducible: [`lab_ejemplo_C_clase_emergente.py`](../../laboratorios/2026l-entropia-factual/lab_ejemplo_C_clase_emergente.py).*
+*Laboratorio reproducible: [`lab_ejemplo_C_clase_emergente.py`](./laboratorios/lab_ejemplo_C_clase_emergente.py).*
 
 ### 17.4. Síntesis comparativa
 
@@ -1081,21 +1081,21 @@ Los tres ejemplos verifican el Teorema 8.2 sobre sus respectivos tramos de monot
 
 El documento se acompaña de una infraestructura Python autocontenida que verifica numéricamente todos los cálculos declarados en los §4.4, §11 y §17, y ejecuta la suite completa de teoremas de monotonía sobre trayectorias generadas sistemáticamente. La infraestructura usa únicamente la biblioteca estándar de Python 3.8+ y no requiere dependencias externas.
 
-**Ubicación en el repositorio.** La carpeta [`laboratorios/2026l-entropia-factual/`](../../laboratorios/2026l-entropia-factual/) contiene:
+**Ubicación en el repositorio.** La carpeta [`laboratorios/`](./laboratorios/) contiene:
 
 | Archivo | Contenido |
 |---------|-----------|
-| [`sv_core.py`](../../laboratorios/2026l-entropia-factual/sv_core.py) | Primitivas SV: V<sub>i</sub>, A<sub>i</sub>, H<sub>pre</sub>, H<sub>K<sub>3</sub></sub>, H<sub>Ξ</sub>, H<sub>Σ<sub>c</sub></sub>, H<sub>Σ<sub>k</sub></sub>, H<sub>fin</sub>, H<sub>SV</sub>, Π<sup>H</sup><sub>3</sub> |
-| [`lab_04_4_verificacion_preternaria.py`](../../laboratorios/2026l-entropia-factual/lab_04_4_verificacion_preternaria.py) | Verifica §4.4: H<sub>pre</sub>(Γ, 3) = 10,2 sobre 3 posiciones |
-| [`lab_11_recorrido_consistencia.py`](../../laboratorios/2026l-entropia-factual/lab_11_recorrido_consistencia.py) | Verifica §11: caso patrón de 5 posiciones, n = 6, con 14 assertions numéricas |
-| [`lab_11_10_violacion_simulada.py`](../../laboratorios/2026l-entropia-factual/lab_11_10_violacion_simulada.py) | Verifica §11.10: decremento por reescritura retroactiva δ<sub>3</sub>(2) = 0,2 → 0,1 |
-| [`lab_ejemplo_A_cierre_determinado.py`](../../laboratorios/2026l-entropia-factual/lab_ejemplo_A_cierre_determinado.py) | Ejemplo A §17.1: dictamen m<sub>0</sub> |
-| [`lab_ejemplo_B_residual_en_U.py`](../../laboratorios/2026l-entropia-factual/lab_ejemplo_B_residual_en_U.py) | Ejemplo B §17.2: dictamen U |
-| [`lab_ejemplo_C_clase_emergente.py`](../../laboratorios/2026l-entropia-factual/lab_ejemplo_C_clase_emergente.py) | Ejemplo C §17.3: dictamen χ<sub>α</sub> |
-| [`tests/test_monotonia.py`](../../laboratorios/2026l-entropia-factual/tests/test_monotonia.py) | Suite de 13 tests de Teoremas 4.5, 5.4, 6.3, 7.5, 8.2 y Proposición 4.7 |
-| [`run_all.py`](../../laboratorios/2026l-entropia-factual/run_all.py) | Ejecuta todos los laboratorios y tests en orden |
-| [`README.md`](../../laboratorios/2026l-entropia-factual/README.md) | Guía de uso y descripción de cada laboratorio |
-| [`CATALOGO_ERRORES.md`](../../laboratorios/2026l-entropia-factual/CATALOGO_ERRORES.md) | Grietas detectadas y corregidas en siete rondas adversariales |
+| [`sv_core.py`](./laboratorios/sv_core.py) | Primitivas SV: V<sub>i</sub>, A<sub>i</sub>, H<sub>pre</sub>, H<sub>K<sub>3</sub></sub>, H<sub>Ξ</sub>, H<sub>Σ<sub>c</sub></sub>, H<sub>Σ<sub>k</sub></sub>, H<sub>fin</sub>, H<sub>SV</sub>, Π<sup>H</sup><sub>3</sub> |
+| [`lab_04_4_verificacion_preternaria.py`](./laboratorios/lab_04_4_verificacion_preternaria.py) | Verifica §4.4: H<sub>pre</sub>(Γ, 3) = 10,2 sobre 3 posiciones |
+| [`lab_11_recorrido_consistencia.py`](./laboratorios/lab_11_recorrido_consistencia.py) | Verifica §11: caso patrón de 5 posiciones, n = 6, con 14 assertions numéricas |
+| [`lab_11_10_violacion_simulada.py`](./laboratorios/lab_11_10_violacion_simulada.py) | Verifica §11.10: decremento por reescritura retroactiva δ<sub>3</sub>(2) = 0,2 → 0,1 |
+| [`lab_ejemplo_A_cierre_determinado.py`](./laboratorios/lab_ejemplo_A_cierre_determinado.py) | Ejemplo A §17.1: dictamen m<sub>0</sub> |
+| [`lab_ejemplo_B_residual_en_U.py`](./laboratorios/lab_ejemplo_B_residual_en_U.py) | Ejemplo B §17.2: dictamen U |
+| [`lab_ejemplo_C_clase_emergente.py`](./laboratorios/lab_ejemplo_C_clase_emergente.py) | Ejemplo C §17.3: dictamen χ<sub>α</sub> |
+| [`tests/test_monotonia.py`](./laboratorios/tests/test_monotonia.py) | Suite de 13 tests de Teoremas 4.5, 5.4, 6.3, 7.5, 8.2 y Proposición 4.7 |
+| [`run_all.py`](./laboratorios/run_all.py) | Ejecuta todos los laboratorios y tests en orden |
+| [`README.md`](./laboratorios/README.md) | Guía de uso y descripción de cada laboratorio |
+| [`CATALOGO_ERRORES.md`](./laboratorios/CATALOGO_ERRORES.md) | Grietas detectadas y corregidas en siete rondas adversariales |
 
 **Uso.**
 
@@ -1118,7 +1118,7 @@ python3 tests/test_monotonia.py
 - §11.10: V<sub>3</sub>(δ, 3) = 0,4 → V<sub>3</sub><sup>viol</sup>(δ, 3) = 0,2 por reescritura retroactiva.
 - §17.1-§17.3: tres ejemplos de principio a fin con sus dictámenes factuales y verificación de monotonía.
 
-**Proceso constructivo del rigor.** El catálogo [`CATALOGO_ERRORES.md`](../../laboratorios/2026l-entropia-factual/CATALOGO_ERRORES.md) documenta las 28 grietas detectadas en siete rondas adversariales aplicadas al documento, desde las grietas iniciales del dictamen integral (A-M) hasta las grietas de coherencia de criterios (KK, LL, MM, NN) de la sexta ronda. Este catálogo tiene valor epistemológico propio: registra el proceso de construcción del rigor estructural y sirve de referencia metodológica para auditorías del corpus SV.
+**Proceso constructivo del rigor.** El catálogo [`CATALOGO_ERRORES.md`](./laboratorios/CATALOGO_ERRORES.md) documenta las 28 grietas detectadas en siete rondas adversariales aplicadas al documento, desde las grietas iniciales del dictamen integral (A-M) hasta las grietas de coherencia de criterios (KK, LL, MM, NN) de la sexta ronda. Este catálogo tiene valor epistemológico propio: registra el proceso de construcción del rigor estructural y sirve de referencia metodológica para auditorías del corpus SV.
 
 ---
 

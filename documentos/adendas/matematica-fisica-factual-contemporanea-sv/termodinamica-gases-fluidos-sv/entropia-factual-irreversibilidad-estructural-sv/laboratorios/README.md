@@ -16,7 +16,7 @@ Sistema Vectorial SV"** (Lloret Egea, 2026l).
 ## Estructura
 
 ```
-2026l-entropia-factual/
+laboratorios/
 ├── README.md                               — este archivo
 ├── CATALOGO_ERRORES.md                     — grietas detectadas y corregidas
 ├── sv_core.py                              — primitivas SV compartidas
@@ -139,7 +139,7 @@ Todos los laboratorios operan bajo las prohibiciones constitutivas del SV:
 
 ## Enlaces al documento
 
-- Documento principal: `../2026l-entropia-factual-sv.md` (en el mismo repositorio).
+- Documento principal: `../entropia-factual-irreversibilidad-estructural-sv.md` (en el mismo repositorio).
 - Cuerpo Maxwell + anexo (documento base): Lloret Egea (2026k).
 - Origen preternario: Lloret Egea (2026j).
 
