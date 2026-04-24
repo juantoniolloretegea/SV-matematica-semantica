@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "fuente": "Lloret Egea (2026). Teoría general factual de la luz en el Sistema Vectorial SV, §18 y §19.",
+  "descripcion": "Tres casos canónicos de fibra luminosa factual para verificación sobre célula SV(3, N) con N ∈ {4, 6, 9}. Convención: chi ∈ {0, 1, 2} con 2 ≡ U. El canal W agrupa las posiciones con chi=0 y cuenta activaciones efectivas; el canal Q agrupa chi=1; el canal U agrupa chi=2 (indeterminación honesta post-activación).",
+  "casos": [
+    {
+      "nombre": "A — Fibra luminosa simétrica SV(3,4)",
+      "comentario": "Fibra con activaciones balanceadas por las tres coordenadas preternarias. Sirve como benchmark mínimo admisible para banco B-LUZ-04 (cuanto h_SV).",
+      "alfa_beta": [
+        [[0.1,0.5],[0.3,0.7],[0.2,0.6],[0.4,0.8]],
+        [[0.2,0.5],[0.4,0.6],[0.3,0.7],[0.1,0.5]],
+        [[0.0,0.4],[0.2,0.7],[0.1,0.4],[0.3,0.5]]
+      ],
+      "chi":       [[0,1,2,0],[1,2,0,1],[2,0,1,0]],
+      "delta_eps": [1.0, 1.0, 1.0],
+      "B":         [0.0, 0.5, 1.0, 1.5],
+      "H":         [0.0, 0.30, 0.55, 0.75],
+      "phi":       [0.5, 0.8, 1.1, 1.3],
+      "A_vec":     [0.2, 0.5, 0.9, 1.2],
+      "J_jac":     [0.3, 0.4, 0.5, 0.6],
+      "e_hat":     [1.0, 1.0, 1.0, 1.0],
+      "n0": 0
+    },
+    {
+      "nombre": "B — Fibra luminosa asimétrica SV(3,6)",
+      "comentario": "Fibra con distribución rotante canal W→Q→U por coordenada. Usada en L-LUZ-11 (ecuación única) y L-LUZ-17 (consistencia SV(3,9) reducida a n=6).",
+      "alfa_beta": [
+        [[0.0,0.3],[0.1,0.6],[0.2,0.8],[0.4,0.9],[0.3,0.7],[0.5,0.9]],
+        [[0.1,0.4],[0.3,0.5],[0.4,0.7],[0.2,0.8],[0.5,0.9],[0.3,0.6]],
+        [[0.2,0.5],[0.4,0.6],[0.1,0.3],[0.5,0.8],[0.2,0.6],[0.4,0.8]]
+      ],
+      "chi":       [[0,0,1,2,1,0],[2,1,0,0,2,1],[1,2,0,1,0,2]],
+      "delta_eps": [1.0, 1.0, 1.0, 1.0, 1.0],
+      "B":         [0.1, 0.4, 0.9, 1.6, 2.5, 3.2],
+      "H":         [0.0, 0.25, 0.50, 0.70, 0.95, 1.15],
+      "phi":       [0.1, 0.4, 0.7, 1.1, 1.4, 1.7],
+      "A_vec":     [0.3, 0.7, 1.0, 1.3, 1.8, 2.1],
+      "J_jac":     [0.2, 0.3, 0.4, 0.5, 0.6, 0.7],
+      "e_hat":     [1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+      "n0": 0
+    },
+    {
+      "nombre": "C — Fibra luminosa canónica SV(3,9)",
+      "comentario": "Célula canónica completa del §18 con rotación sistemática por coordenada. Caso base para L-LUZ-17 (recorrido SV(3,9)) y para verificación dimensional de las 26 magnitudes canónicas.",
+      "alfa_beta": [
+        [[0.00,0.20],[0.10,0.30],[0.20,0.50],[0.30,0.70],[0.40,0.80],[0.50,0.90],[0.35,0.75],[0.25,0.65],[0.15,0.55]],
+        [[0.10,0.50],[0.20,0.40],[0.30,0.80],[0.10,0.50],[0.40,0.70],[0.20,0.60],[0.55,0.85],[0.15,0.45],[0.35,0.75]],
+        [[0.30,0.60],[0.10,0.50],[0.40,0.70],[0.20,0.60],[0.30,0.80],[0.50,0.90],[0.25,0.65],[0.45,0.85],[0.15,0.55]]
+      ],
+      "chi":       [[0,1,2,0,1,2,0,1,2],[1,2,0,1,2,0,1,2,0],[2,0,1,2,0,1,2,0,1]],
+      "delta_eps": [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+      "B":         [0.0, 0.2, 0.5, 0.9, 1.4, 2.0, 2.7, 3.5, 4.4],
+      "H":         [0.0, 0.20, 0.42, 0.65, 0.90, 1.15, 1.42, 1.70, 1.98],
+      "phi":       [0.2, 0.5, 0.9, 1.2, 1.6, 2.0, 2.4, 2.8, 3.2],
+      "A_vec":     [0.1, 0.4, 0.7, 1.1, 1.5, 1.9, 2.3, 2.7, 3.1],
+      "J_jac":     [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+      "e_hat":     [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
+      "n0": 0
+    }
+  ]
+}
