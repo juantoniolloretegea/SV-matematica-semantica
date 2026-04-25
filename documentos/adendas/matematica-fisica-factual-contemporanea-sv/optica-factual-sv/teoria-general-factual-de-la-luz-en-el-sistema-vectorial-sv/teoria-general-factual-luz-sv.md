@@ -4,7 +4,7 @@
 
 ---
 
-# Teoría general factual de la luz en el Sistema Vectorial SV: vacío factual preternario, energía como variación estructural, cuanto factual de transporte, gravedad como deformación de umbrales, ecuación única, apertura al régimen unificado del campo y apertura del programa de sucesos generadores y de los protocampos unificados
+# Teoría general factual de la luz en el Sistema Vectorial SV
 
 ---
 
