@@ -1,13 +1,6 @@
 # Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV
 
-**Autor**: Juan Antonio Lloret Egea
-**ORCID**: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)
-**Institución**: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)
-**Publicación**: IA eñ™ — La Biblia de la IA™
-**ISSN**: 2695-6411
-**Licencia**: CC BY-NC-ND 4.0
-**Lugar y fecha**: Madrid, 26/04/2026
-
+© 2026. Todos los derechos reservados. |DOI: 10.17613/177nb-v2465 | Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 26/04/2026 |
 ---
 
 ## Hito canónico de la publicación
@@ -25,7 +18,12 @@ teoria-general-sucesos-generadores-y-protocampos-unificados/
 ├── README.md                                                       (este archivo)
 ├── teoria-general-sucesos-generadores-protocampos-unificados-sv.md (documento doctrinal V.1)
 ├── imagenes/
-│   └── Portada_Formula_Absoluta_SV_V14_CIERRE.png                  (portada canónica)
+│   └── Portada_Formula_Absoluta_SV.png                             (portada canónica)
+├── PDF/
+│   ├── README.md                                                   (documentación de la versión firmada)
+│   ├── Hash SHA-256.md                                             (hashes canónicos para verificación)
+│   ├── General theory ... Sistema Vectorial SV.pdf                 (PDF firmado triplemente con FNMT)
+│   └── General theory ... Sistema Vectorial SV.pdf.ots             (prueba OpenTimestamps → blockchain Bitcoin)
 └── laboratorios/
     ├── README.md
     ├── sv_core.py                                                  (núcleo computacional canónico)
@@ -85,6 +83,73 @@ El sv_core.py contiene el núcleo computacional canónico del aparato y es invoc
 
 ---
 
+## Depósitos canónicos y verificación
+
+La versión PDF firmada de la publicación V.1 dispone de **cinco capas probatorias independientes**, ancladas a cinco infraestructuras distintas (Internet Archive, FNMT-RCM, OpenTimestamps/Bitcoin, GitHub/Git, Knowledge Commons/HCommons), que blindan la autoría, la integridad y la fecha cierta del documento.
+
+### Hashes SHA-256 canónicos
+
+| Fichero | SHA-256 |
+|---|---|
+| `General theory ... Sistema Vectorial SV.pdf` | `c89a07102648ce2b3da7a39158db6845e5312f465faa7a321ccc75bbc8606912` |
+| `General theory ... Sistema Vectorial SV.pdf.ots` | `c94e063cf8539d9e0fd9103e2735ad33c659f88c356efa517b216d2cb5c3818a` |
+
+### Capas probatorias
+
+#### Capa 0 — Wayback Machine / Internet Archive
+
+Cuatro snapshots públicos del corpus archivados antes de la firma del PDF:
+
+| Snapshot | Recurso archivado | Fecha (UTC) |
+|---|---|---|
+| [`web/20260427101149`](https://web.archive.org/web/20260427101149/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/teoria-general-sucesos-generadores-protocampos-unificados-sv.md) | Documento canónico íntegro (`.md`) | 27/04/2026 10:11:49 |
+| [`web/20260426220748`](https://web.archive.org/web/20260426220748/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios) | Carpeta de Laboratorios canónicos | 26/04/2026 22:07:48 |
+| [`web/20260426220045`](https://web.archive.org/web/20260426220045/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados) | Carpeta del conjunto canónico | 26/04/2026 22:00:45 |
+| [`web/20260427101536`](https://web.archive.org/web/20260427101536/https://github.com/juantoniolloretegea) | Repositorio del autor | 27/04/2026 10:15:36 |
+
+#### Capa 1 — Firma digital criptográfica (FNMT-RCM)
+
+PDF triplemente firmado con el certificado oficial del autor emitido por la **FNMT-RCM** (Fábrica Nacional de Moneda y Timbre — Real Casa de la Moneda), Autoridad de Certificación cualificada española bajo Reglamento eIDAS UE 910/2014.
+
+- **Titular del certificado**: LLORET EGEA JUAN ANTONIO — IDCES-52813010L
+- **Emisor**: AC FNMT Usuarios
+- **Vigencia**: 08/08/2025 → 08/08/2029
+- **Firmas**: 3 (CMS clásico × 2 desde Word, PAdES-BES × 1 desde Autofirma 1.9)
+
+Cualquier modificación posterior del fichero rompe la cadena de firmas y se detecta automáticamente al validarlo en cualquier visor compatible con PAdES.
+
+#### Capa 2 — OpenTimestamps → blockchain Bitcoin
+
+El SHA-256 del PDF fue registrado en el calendario público de [OpenTimestamps](https://opentimestamps.org) el **27 de abril de 2026 a las ~17:49 UTC**. El hash queda anclado en blockchain Bitcoin de forma permanente, descentralizada y verificable por cualquier tercero independientemente de cualquier autoridad. El fichero `.ots` adjunto al PDF firmado es la prueba criptográfica de esta marca temporal.
+
+#### Capa 3 — Commit Git público (GitHub)
+
+La sede canónica del repositorio en GitHub registra los commits del depósito como evidencia inmutable adicional, con timestamps del servidor de GitHub e historial verificable a través de [https://github.com/juantoniolloretegea/SV-matematica-semantica](https://github.com/juantoniolloretegea/SV-matematica-semantica).
+
+#### Capa 4 — DOI académico canónico (Knowledge Commons / HCommons)
+
+Depósito en [Knowledge Commons Works](https://works.hcommons.org/records/177nb-v2465) con DOI canónico **[10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465)**, plataforma académica abierta soportada por la National Science Foundation (Grant OAC-2226271) y operada bajo InvenioRDM con la Michigan State University y National Endowment for the Humanities. Verificación SHA-256: el PDF servido por HCommons coincide bit a bit con el original, confirmando que el repositorio no altera el documento.
+
+#### Capa 5 — Réplica canónica en Zenodo (CERN / OpenAIRE)
+
+Depósito espejo en [Zenodo (CERN Data Centre)](https://zenodo.org/records/19828640) bajo el mismo DOI canónico **[10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465)**. La réplica está indexada en OpenAIRE y sostiene la disponibilidad pública del documento bajo la infraestructura del CERN, en filosofía editorial de "un objeto canónico = un DOI canónico, sedes múltiples".
+
+### Tabla resumen de depósitos
+
+| Repositorio | Estado | DOI / URL |
+|---|---|---|
+| **GitHub** (sede canónica) | ✓ Depositado | [github.com/.../PDF/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/PDF) |
+| **Wayback Machine / Internet Archive** | ✓ Cuatro snapshots (Capa 0) | [archive.org](https://archive.org) |
+| **OpenTimestamps / Bitcoin blockchain** | ✓ Anclado (Capa 2) | — |
+| **HCommons** (Knowledge Commons Works) | ✓ Depositado (Capa 4) | [10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465) |
+| **Zenodo** (CERN / OpenAIRE) | ✓ Depositado (Capa 5) | [zenodo.org/records/19828640](https://zenodo.org/records/19828640) |
+| engrXiv | *Pendiente* | — |
+| ResearchGate | *Pendiente* | — |
+
+Para verificación detallada de firmas y timestamps, consultar `PDF/README.md` (documentación específica de la versión firmada).
+
+---
+
 ## Cómo leer la publicación
 
 1. **Lectura inicial**: comenzar por la portada y el §0bis (hito canónico de unificación GEM). El §0bis fija el alcance estructural de la publicación y declara la posición canónica del Sistema Vectorial SV respecto a los programas históricos de unificación.
@@ -95,11 +160,13 @@ El sv_core.py contiene el núcleo computacional canónico del aparato y es invoc
 
 4. **Verificación computacional**: ejecutar los cinco laboratorios desde la carpeta `laboratorios/` para verificar numéricamente los teoremas centrales.
 
+5. **Verificación de autoría e integridad**: consultar `PDF/README.md` para procedimientos detallados de verificación de hashes SHA-256, firmas digitales FNMT, sello OpenTimestamps y snapshots de Wayback Machine.
+
 ---
 
 ## Cita recomendada
 
-Lloret Egea, J. A. (2026). *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA). IA eñ™ — La Biblia de la IA™. ISSN 2695-6411.
+Lloret Egea, J. A. (2026). *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA). IA eñ™ — La Biblia de la IA™. ISSN 2695-6411. DOI: [10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465).
 
 ---
 
@@ -109,4 +176,4 @@ Esta publicación está protegida por **CEDRO** y su aplicación en el campo de 
 
 ---
 
-© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea  |  ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)  |  IA eñ™ — La Biblia de la IA™  |  ISSN 2695-6411  |  Licencia CC BY-NC-ND 4.0  |  Madrid, 26/04/2026
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea  |  ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)  |  DOI: [10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465)  |  IA eñ™ — La Biblia de la IA™  |  ISSN 2695-6411  |  Licencia CC BY-NC-ND 4.0  |  Madrid, 26/04/2026
