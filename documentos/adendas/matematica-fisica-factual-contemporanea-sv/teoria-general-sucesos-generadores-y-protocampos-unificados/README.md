@@ -1,51 +1,112 @@
 # Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV
 
-© 2026. Todos los derechos reservados. | DOI: [pendiente] | Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 26/04/2026 |
+**Autor**: Juan Antonio Lloret Egea
+**ORCID**: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)
+**Institución**: Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)
+**Publicación**: IA eñ™ — La Biblia de la IA™
+**ISSN**: 2695-6411
+**Licencia**: CC BY-NC-ND 4.0
+**Lugar y fecha**: Madrid, 26/04/2026
 
 ---
 
-## Estructura canónica de la publicación
+## Hito canónico de la publicación
 
-| Pieza | Descripción canónica |
+La presente publicación cierra canónicamente la **unificación de los campos eléctrico, magnético y gravitatorio** bajo una única operatoria absoluta común del Sistema Vectorial SV, articulada por la fórmula maestra 𝔉_SV y por el operador maestro unificado **U**ᵘⁿⁱᶠ_SV. Los tres campos comparecen como sumandos canónicos coexistentes simultáneamente sobre el dominio preternario Ω_pre, con compatibilidad mutua y no-colapso canónicamente verificados.
+
+La unificación es estructural, no aproximada ni asintótica: los tres campos quedan integrados bajo la misma forma operatoria absoluta sin parámetros de ajuste, sin acoplamientos perturbativos y sin escala de ruptura. El Sistema Vectorial SV constituye, hasta donde alcanza el corpus, el primer cierre operatorio absoluto del programa GEM (gravedad-electromagnetismo) bajo aparato canónicamente cerrado.
+
+---
+
+## Contenido de la publicación
+
+```
+teoria-general-sucesos-generadores-y-protocampos-unificados/
+├── README.md                                                       (este archivo)
+├── teoria-general-sucesos-generadores-protocampos-unificados-sv.md (documento doctrinal V.1)
+├── imagenes/
+│   └── Portada_Formula_Absoluta_SV_V14_CIERRE.png                  (portada canónica)
+└── laboratorios/
+    ├── README.md
+    ├── sv_core.py                                                  (núcleo computacional canónico)
+    ├── lab_01_banco_numerico.py                                    (verifica Teorema §17.1)
+    ├── lab_02_falsacion_canonica.py                                (verifica Teorema §C.1)
+    ├── lab_03_absorciones_canonicas.py                             (verifica Teorema §E.1)
+    ├── lab_04_morfismo_dictamen.py                                 (verifica Teorema §K.1 + Corolario §K.1.bis)
+    └── lab_05_configuracion_propia.py                              (interfaz canónica para terceros)
+```
+
+---
+
+## Estructura doctrinal del documento
+
+| Apartado | Contenido |
 |---|---|
-| [`teoria-general-sucesos-generadores-protocampos-unificados-sv.md`](./teoria-general-sucesos-generadores-protocampos-unificados-sv.md) | Documento doctrinal principal V.1 |
-| [`imagenes/`](./imagenes/) | Portada canónica de la publicación |
-| [`laboratorios/`](./laboratorios/) | Cinco laboratorios canónicos en Python que verifican computacionalmente los teoremas del documento |
+| **Cabecera** | Título, portada canónica clicable, §0bis (hito canónico de unificación GEM con sus subsecciones), bloque copyright, advertencia CEDRO bilingüe |
+| **Fórmula absoluta** | Forma canónica única (Definición §K.7) y formas canónicas equivalentes (§K.9) |
+| **Estatuto canónico** | Construcción doctrinal de dos niveles articulados |
+| **Prohibiciones constitutivas** | P.1 a P.6 |
+| **Postulados del programa** | G.1 a G.3 |
+| **Alcance canónico** | Marco operatorio del Sistema Vectorial SV |
+| **§1** | Quince visiones canónicas V.1–V.15 sobre ε₀ |
+| **§2** | Teorema de unicidad estructural condicionada del tránsito ε₀–F₀–U |
+| **§3** | F₀: preformalidad mínima de distinguibilidad |
+| **§4** | Cadena fundacional canónica del tránsito F₀ ⊢ Def_SV(ε₀) → protocampos |
+| **§5** | Dominio preternario Ω_pre y par polar (α, β) |
+| **§6** | Sucesos generadores interiores como operadores sobre el protocampo |
+| **§7** | Compuerta de ternarización Π₃ᴴ y emergencia ternaria |
+| **§8** | Catálogo canónico de campos factuales del Sistema Vectorial SV |
+| **§9** | Cinco campos canonizados adicionales por algoritmo A1–A5 |
+| **§10** | Cardinalidad canónica del catálogo de campos factuales (incluye §10.6: calibración ternaria y denominación canónica en castellano) |
+| **§11** | Operador maestro unificado **U**ᵘⁿⁱᶠ_SV |
+| **§12** | Conjunto canónico de identidades intersectoriales {𝒮_k} |
+| **§13** | Cuatro formas canónicas equivalentes del subaparato sobre sectores e identidades |
+| **§14** | Propiedades algebraicas canónicas de **U**ᵘⁿⁱᶠ_SV |
+| **§15** | Unicidad representacional, irreducibilidad estructural y no-composibilidad operatoria |
+| **§17** | Banco numérico canónico de diez supuestos verificables |
+| **§§ A–K** | Anexos canónicos del aparato operatorio absoluto |
+| **§22** | Bibliografía APA7 |
 
 ---
 
-## Contenido canónico del documento
+## Verificación numérica y falsabilidad
 
-El documento construye la **fórmula maestra unificada del Sistema Vectorial SV**, denotada 𝔉_SV, y la fija canónicamente como pieza algebraica única que articula los siete sectores primarios coexistentes (eléctrico, magnético, gravitatorio bisectorial, TPA, convergencia ternaria, espectral, topológico), las siete identidades intersectoriales {𝒮_k}, y el morfismo dictamen ternario G**_SV : T_SV → K_3 mediante la compuerta canónica de buena definición Δ_SV.
+El documento incorpora cinco laboratorios canónicos en Python que verifican computacionalmente los teoremas centrales del aparato:
 
-La fórmula canónica del Sistema Vectorial SV queda fijada en la Definición §K.7 del documento como:
+| Laboratorio | Teorema verificado | Resultado |
+|---|---|---|
+| `lab_01_banco_numerico.py` | Teorema §17.1 | 10/10 supuestos pasan |
+| `lab_02_falsacion_canonica.py` | Teorema §C.1 (falsabilidad bajo seis criterios) | 6/6 controles pasan |
+| `lab_03_absorciones_canonicas.py` | Teorema §E.1 (110 absorciones canónicas) | 110/110 celdas pasan |
+| `lab_04_morfismo_dictamen.py` | Teorema §K.1 + Corolario §K.1.bis (morfismo dictamen ternario) | Verificación completa |
+| `lab_05_configuracion_propia.py` | Interfaz canónica para configuraciones aportadas por terceros | Acceso abierto al banco |
 
-```
-𝔉_SV(Φ¹,…,Φ⁷; {𝒮_k}; G**_SV) := ⊕_{j=1}^{7} 𝓤⁽ʲ⁾_SV(Φʲ) ⊕ ⊕_{k=1}^{7} 𝒮_k ⊕ Δ_SV(G**_SV) = 0
-```
-
-donde ⊕ es el operador concatenador canónico (conjunción lógica factual) heredado del Glosario tipográfico canónico de Lloret Egea (2026 — luz factual).
-
----
-
-## Verificación computacional canónica
-
-Los cinco laboratorios canónicos en la carpeta [`laboratorios/`](./laboratorios/) verifican ejecutivamente los teoremas demostrados en el documento. Cada laboratorio es script Python autocontenido, ejecutable con Python ≥ 3.8 sin dependencias externas, trazable sección a sección al cuerpo doctrinal:
-
-- **[Laboratorio 01](./laboratorios/lab_01_banco_numerico.py)** verifica el Teorema §17.1 sobre los diez supuestos del banco con residuos del orden de la precisión de máquina.
-- **[Laboratorio 02](./laboratorios/lab_02_falsacion_canonica.py)** verifica el Teorema §C.1 ejecutando los seis criterios F1–F6 con sus controles C1–C6.
-- **[Laboratorio 03](./laboratorios/lab_03_absorciones_canonicas.py)** verifica el Teorema §E.1 sobre las 110 celdas de la verificación cruzada de absorciones.
-- **[Laboratorio 04](./laboratorios/lab_04_morfismo_dictamen.py)** verifica el Teorema §K.1 y el Corolario §K.1.bis sobre el morfismo dictamen G**_SV.
-- **[Laboratorio 05](./laboratorios/lab_05_configuracion_propia.py)** aplica canónicamente la fórmula 𝔉_SV a configuraciones declaradas por el usuario.
-
-El núcleo computacional canónico [`sv_core.py`](./laboratorios/sv_core.py) implementa los siete operadores sectoriales, las siete identidades intersectoriales, el operador concatenador ⊕ con cláusulas C.1 y C.2, la reconstrucción Rec, la admisibilidad Adm, el morfismo dictamen G**_SV = Adm ∘ Rec, la compuerta Δ_SV y la fórmula maestra 𝔉_SV.
-
-Detalles de ejecución y mapa de verificación canónica en [`laboratorios/README.md`](./laboratorios/README.md).
+El sv_core.py contiene el núcleo computacional canónico del aparato y es invocado por los cinco laboratorios.
 
 ---
 
-## Licencia y advertencia
+## Cómo leer la publicación
 
-**Advertencia.** Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra sólo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y estrictamente supeditado al licenciamiento permitido.
+1. **Lectura inicial**: comenzar por la portada y el §0bis (hito canónico de unificación GEM). El §0bis fija el alcance estructural de la publicación y declara la posición canónica del Sistema Vectorial SV respecto a los programas históricos de unificación.
 
-**Warning.** This publication is protected by CEDRO. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
+2. **Lectura doctrinal**: continuar por la fórmula absoluta, las prohibiciones constitutivas P.1–P.6, los postulados G.1–G.3 y el alcance canónico. A partir de ahí, el cuerpo doctrinal se desarrolla en orden secuencial desde §1 hasta §17.
+
+3. **Lectura del aparato operatorio**: los anexos §§ A–K cierran el aparato canónico absoluto. La calibración ternaria del catálogo y las denominaciones canónicas en castellano están en §10.6.
+
+4. **Verificación computacional**: ejecutar los cinco laboratorios desde la carpeta `laboratorios/` para verificar numéricamente los teoremas centrales.
+
+---
+
+## Cita recomendada
+
+Lloret Egea, J. A. (2026). *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA). IA eñ™ — La Biblia de la IA™. ISSN 2695-6411.
+
+---
+
+## Aviso CEDRO
+
+Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra sólo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y estrictamente supeditado al licenciamiento permitido.
+
+---
+
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea  |  ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)  |  IA eñ™ — La Biblia de la IA™  |  ISSN 2695-6411  |  Licencia CC BY-NC-ND 4.0  |  Madrid, 26/04/2026
