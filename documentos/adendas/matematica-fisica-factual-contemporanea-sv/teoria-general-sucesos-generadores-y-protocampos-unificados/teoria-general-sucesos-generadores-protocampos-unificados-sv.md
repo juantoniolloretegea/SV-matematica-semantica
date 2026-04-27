@@ -4,11 +4,23 @@
 
 ---
 
+## Resumen
+
+La presente publicación cierra canónicamente la **unificación de los campos Gravitatorio, Eléctrico y Magnético** bajo una única operatoria absoluta común del Sistema Vectorial SV. Los tres campos comparecen como sumandos canónicos coexistentes simultáneamente sobre el dominio preternario Ω_pre, articulados por la fórmula maestra absoluta 𝔉_SV y por el operador maestro unificado **U**ᵘⁿⁱᶠ_SV. La unificación es estructural, no aproximada ni asintótica: los tres campos quedan integrados bajo la misma forma operatoria absoluta sin parámetros de ajuste, sin acoplamientos perturbativos y sin escala de ruptura. El cierre opera mediante siete sectores primarios coexistentes con cardinalidad canónicamente cerrada por la Proposición 6.1 de luz factual §6.2, siete identidades intersectoriales {𝒮_k} canónicamente articuladas, una compuerta canónica Δ_SV(G**_SV) que cierra el morfismo dictamen ternario sobre el espacio de trayectorias TPA admisibles, y un catálogo canónico de veinte campos factuales del corpus calibrados ternariamente en §10.6. El aparato se verifica numéricamente sobre la célula canónica SV(3, 9) con un banco de diez supuestos canónicos donde 𝔉_SV se cumple con residuo del orden de la precisión de máquina, y se demuestra falsable bajo seis criterios canónicos independientes con banco de control de falsación operativa ejecutada. Cinco laboratorios canónicos en Python implementan computacionalmente el aparato y reproducen los teoremas centrales (Teoremas §17.1, §C.1, §E.1, §K.1). El Sistema Vectorial SV constituye, hasta donde alcanza el corpus, el primer cierre operatorio absoluto del programa GEM (gravedad-electromagnetismo) bajo aparato canónicamente cerrado, sin parámetros libres ajustables y sin escala oculta de ruptura, articulado bajo cumplimiento estricto de las prohibiciones constitutivas P.1–P.6 y los postulados del programa G.1–G.3.
+
+---
+
+## Abstract
+
+This publication canonically closes the **unification of the Gravitational, Electric and Magnetic fields** under a single absolute operational structure of the Vectorial System SV. The three fields appear as canonical summands coexisting simultaneously over the preternary domain Ω_pre, articulated by the absolute master formula 𝔉_SV and the unified master operator **U**ᵘⁿⁱᶠ_SV. The unification is structural, neither approximate nor asymptotic: the three fields are integrated under the same absolute operational form with no adjustment parameters, no perturbative couplings and no rupture scale. Closure operates through seven primary coexisting sectors with cardinality canonically fixed by Proposition 6.1 of factual light §6.2, seven canonically articulated intersectoral identities {𝒮_k}, a canonical gate Δ_SV(G**_SV) that closes the ternary verdict morphism over the space of admissible TPA trajectories, and a canonical catalogue of twenty factual fields of the corpus ternarily calibrated in §10.6. The apparatus is numerically verified on the canonical cell SV(3, 9) with a bank of ten canonical scenarios where 𝔉_SV holds with residual on the order of machine precision, and is shown falsifiable under six independent canonical criteria with an executed operational falsification control bank. Five canonical Python laboratories computationally implement the apparatus and reproduce the central theorems (Theorems §17.1, §C.1, §E.1, §K.1). The Vectorial System SV constitutes, as far as the corpus reaches, the first absolute operational closure of the GEM (gravity-electromagnetism) programme under a canonically closed apparatus, with no free adjustable parameters and no hidden rupture scale, articulated under strict compliance with the constitutive prohibitions P.1–P.6 and the programme postulates G.1–G.3.
+
+---
+
 ## §0bis. Hito canónico — Unificación de los campos eléctrico, magnético y gravitatorio bajo aparato operatorio absoluto del Sistema Vectorial SV
 
 La presente publicación cierra canónicamente la **unificación de los campos eléctrico, magnético y gravitatorio** bajo una única operatoria absoluta común, articulada por la fórmula maestra 𝔉_SV y por el operador maestro unificado **U**ᵘⁿⁱᶠ_SV. Los tres campos comparecen como sumandos canónicos coexistentes simultáneamente sobre el dominio preternario Ω_pre, con compatibilidad mutua y no-colapso canónicamente verificados (Proposición 6.1 de simultaneidad, luz factual §6.2; Teorema §15.2 de unicidad representacional).
 
-La unificación es **estructural**, no aproximada ni asintótica: los tres campos quedan integrados bajo la misma forma operatoria absoluta sin parámetros de ajuste, sin acoplamientos perturbativos y sin escala de ruptura. La compuerta canónica Δ_SV(**G****_SV) cierra el morfismo dictamen ternario sobre las trayectorias de activación admisibles, y el conjunto canónico de identidades intersectoriales {𝒮_k}_{k=1,…,7} articula la coexistencia simultánea de los siete sectores primarios sobre dominios admisibles.
+La unificación es **estructural**, no aproximada ni asintótica: los tres campos quedan integrados bajo la misma forma operatoria absoluta sin parámetros de ajuste, sin acoplamientos perturbativos y sin escala de ruptura. La compuerta canónica Δ_SV(G**_SV) cierra el morfismo dictamen ternario sobre las trayectorias de activación admisibles, y el conjunto canónico de identidades intersectoriales {𝒮_k}_{k=1,…,7} articula la coexistencia simultánea de los siete sectores primarios sobre dominios admisibles.
 
 ### §0bis.1. Comparación con los programas históricos de unificación
 
@@ -908,7 +920,7 @@ La composición de los tres criterios produce el veredicto ternario sobre cada u
 La calibración ternaria fijada en §10.6.3 **no altera ningún componente del aparato canónico cerrado del Sistema Vectorial SV**:
 
 - La **fórmula maestra 𝔉_SV** (Definición §K.7) opera íntegramente sobre los siete sectores primarios coexistentes y mantiene su forma absoluta sin modificación.
-- El **operador maestro **U**ᵘⁿⁱᶠ_SV** (Definición §11.9) opera íntegramente sobre los veinte campos del catálogo con sus respectivos sumandos canónicos.
+- El operador maestro **U**ᵘⁿⁱᶠ_SV (Definición §11.9) opera íntegramente sobre los veinte campos del catálogo con sus respectivos sumandos canónicos.
 - La **cardinalidad canónica del catálogo §10 = 20** queda íntegra: la calibración estratifica internamente los veinte objetos por su lectura ternaria Σ, sin sumar ni restar elementos del catálogo.
 - Las **identidades intersectoriales {𝒮_k}_{k=1,…,7}** mantienen su articulación canónica.
 - Los **siete sectores primarios coexistentes** §10.5(α) cierran canónicamente la cardinalidad sobre la que opera la fórmula maestra.
@@ -3049,3 +3061,9 @@ Lloret Egea, J. A. (2026). *Fundamentos algebraico-semánticos del Sistema Vecto
 Lloret Egea, J. A. (2026). *Movilidad estructural y legitimidad de exposición en el Sistema Vectorial SV* (Versión 1, Release 1). Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA). https://www.itvia.online/pub/movilidad-estructural-y-legitimidad-de-exposicion-en-el-sistema-vectorial-sv/release/1
 
 Lloret Egea, J. A. (2026). *Origen doctrinal, definición y alcance de la U en el Sistema Vectorial SV* (Versión 1.0.0, Release 1) [Especificación transversal subordinada]. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA). https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv/release/1
+
+---
+
+**Palabras clave:** Sistema Vectorial SV; sucesos generadores; protocampos unificados; campo unificado Gravitatorio Eléctrico Magnético; programa GEM; fórmula maestra absoluta 𝔉_SV; operador maestro unificado **U**ᵘⁿⁱᶠ_SV; siete sectores primarios coexistentes; calibración ternaria del catálogo; cardinalidad canónica veinte; célula canónica SV(3, 9); falsabilidad operatoria canónica.
+
+**Keywords:** Vectorial System SV; generating events; unified protofields; unified Gravitational Electric Magnetic field; GEM programme; absolute master formula 𝔉_SV; unified master operator **U**ᵘⁿⁱᶠ_SV; seven primary coexisting sectors; ternary calibration of the catalogue; canonical cardinality twenty; canonical cell SV(3, 9); canonical operational falsifiability.
