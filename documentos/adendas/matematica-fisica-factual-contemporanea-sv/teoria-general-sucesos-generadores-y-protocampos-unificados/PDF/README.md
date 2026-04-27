@@ -1,4 +1,4 @@
-# PDF firmado — Versión canónica V.1
+# PDF firmado — Versión canónica V.1 
 
 Esta carpeta contiene la **versión PDF firmada y verificable** de la publicación canónica:
 
@@ -53,7 +53,11 @@ c94e063cf8539d9e0fd9103e2735ad33c659f88c356efa517b216d2cb5c3818a
 
 ## Pruebas de autenticidad
 
+<<<<<<< HEAD
 El documento V.1 dispone de **cinco capas probatorias independientes**, ancladas a cinco infraestructuras distintas (Internet Archive, FNMT-RCM, OpenTimestamps/Bitcoin, GitHub/Git, Knowledge Commons/HCommons):
+=======
+El documento V.1 dispone de **cuatro capas probatorias independientes**, ancladas a cuatro infraestructuras distintas (Internet Archive, FNMT-RCM, OpenTimestamps/Bitcoin, GitHub/Git):
+>>>>>>> 94f2b75c845c8753b0c70e6179e369ce30188762
 
 ### Capa 0 — Archivado público anterior a la firma (Wayback Machine / Internet Archive)
 
@@ -106,12 +110,15 @@ Esta capa, combinada con la Capa 0, demuestra que el documento **existía con es
 ### Capa 3 — Commit Git público (GitHub)
 
 El commit Git con el que se depositó esta versión canónica genera un hash de commit propio (`58cec49`) y un timestamp del servidor de GitHub, ambos inmutables y públicamente verificables. Constituye una prueba adicional de fecha cierta independiente de las anteriores, soportada por la infraestructura de Git y por GitHub.
+<<<<<<< HEAD
 
 ### Capa 4 — DOI académico canónico (Knowledge Commons / HCommons)
 
 La publicación está depositada en [Knowledge Commons Works](https://works.hcommons.org/records/177nb-v2465) con DOI canónico **[10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465)**. HCommons es una plataforma académica abierta soportada por la National Science Foundation (Grant OAC-2226271) y operada bajo la infraestructura InvenioRDM con la Michigan State University y National Endowment for the Humanities.
 
 El depósito incluye los cuatro ficheros canónicos (PDF firmado, prueba OpenTimestamps, Hash SHA-256.md, README.md) y se ha verificado que el SHA-256 del PDF servido por HCommons coincide bit a bit con el original, confirmando que el repositorio no altera el documento.
+=======
+>>>>>>> 94f2b75c845c8753b0c70e6179e369ce30188762
 
 ---
 
@@ -187,7 +194,11 @@ In the event of any discrepancy, ambiguity or interpretive divergence between th
 | **GitHub** (esta sede canónica del PDF) | ✓ Depositado | — |
 | **Wayback Machine / Internet Archive** | ✓ Cuatro snapshots (Capa 0) | — |
 | **OpenTimestamps / Bitcoin blockchain** | ✓ Anclado (Capa 2) | — |
+<<<<<<< HEAD
 | **HCommons** ([works.hcommons.org](https://works.hcommons.org/records/177nb-v2465)) | ✓ Depositado (Capa 4) | [10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465) |
+=======
+| HCommons (works.hcommons.org) | *Pendiente de depósito* | *Pendiente* |
+>>>>>>> 94f2b75c845c8753b0c70e6179e369ce30188762
 | Zenodo | *Pendiente* | *Pendiente* |
 | engrXiv | *Pendiente* | *Pendiente* |
 | ResearchGate | *Pendiente* | — |
