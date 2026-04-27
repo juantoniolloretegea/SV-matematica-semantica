@@ -1,6 +1,6 @@
 # Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV
 ---
-© 2026. Todos los derechos reservados. |DOI: 10.17613/177nb-v2465 | Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 26/04/2026 |
+<sub>© 2026. Todos los derechos reservados. | **DOI**: [10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465) | Autor: Juan Antonio Lloret Egea | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 26/04/2026 |</sub>
 ---
 
 ## Hito canónico de la publicación
