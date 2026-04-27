@@ -1,8 +1,8 @@
-# PDF firmado — Versión canónica V14
+# PDF firmado — Versión canónica V.1
 
 Esta carpeta contiene la **versión PDF firmada y verificable** de la publicación canónica:
 
-> *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV* (V14)
+> *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV* (V.1)
 
 junto con la prueba criptográfica de fecha cierta (OpenTimestamps → blockchain Bitcoin) y los hashes canónicos.
 
@@ -20,7 +20,7 @@ junto con la prueba criptográfica de fecha cierta (OpenTimestamps → blockchai
 | **ISSN** | 2695-6411 |
 | **Licencia** | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | **Fecha canónica** | 26 de abril de 2026 (Madrid) |
-| **Versión** | V14 (versión canónica definitiva) |
+| **Versión** | V.1 (versión canónica publicada) |
 
 ---
 
@@ -53,7 +53,20 @@ c94e063cf8539d9e0fd9103e2735ad33c659f88c356efa517b216d2cb5c3818a
 
 ## Pruebas de autenticidad
 
-### 1. Firma digital criptográfica
+El documento V.1 dispone de **cuatro capas probatorias independientes**, ancladas a cuatro infraestructuras distintas (Internet Archive, FNMT-RCM, OpenTimestamps/Bitcoin, GitHub/Git):
+
+### Capa 0 — Archivado público anterior a la firma (Wayback Machine / Internet Archive)
+
+Cuatro snapshots del corpus archivados públicamente en [Internet Archive](https://archive.org) **antes** de la firma del PDF. Demuestran que el contenido canónico existía y era accesible públicamente con anterioridad a cualquier acto de firma. Los snapshots de Wayback Machine tienen valor probatorio reconocido en jurisdicciones nacionales e internacionales para acreditación de fecha cierta de contenido digital.
+
+| Snapshot | Recurso archivado | Fecha (UTC) |
+|---|---|---|
+| `web/20260427101149` | [Documento canónico íntegro (`.md`)](https://web.archive.org/web/20260427101149/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/teoria-general-sucesos-generadores-protocampos-unificados-sv.md) | 27/04/2026 10:11:49 |
+| `web/20260426220748` | [Carpeta de Laboratorios canónicos](https://web.archive.org/web/20260426220748/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios) | 26/04/2026 22:07:48 |
+| `web/20260426220045` | [Carpeta del conjunto canónico](https://web.archive.org/web/20260426220045/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados) | 26/04/2026 22:00:45 |
+| `web/20260427101536` | [Repositorio del autor](https://web.archive.org/web/20260427101536/https://github.com/juantoniolloretegea) | 27/04/2026 10:15:36 |
+
+### Capa 1 — Firma digital criptográfica (FNMT-RCM)
 
 El PDF está **triplemente firmado** con el certificado oficial del autor emitido por la **FNMT-RCM** (Fábrica Nacional de Moneda y Timbre — Real Casa de la Moneda), Autoridad de Certificación cualificada española bajo Reglamento eIDAS UE 910/2014.
 
@@ -84,11 +97,15 @@ AC RAIZ FNMT-RCM (raíz cualificada eIDAS, vigente hasta 2030-01-01)
 
 Cualquier modificación posterior del fichero rompe la cadena de firmas y se detecta automáticamente al validarlo en cualquier visor compatible con PAdES (Adobe Acrobat Reader, Foxit, etc.).
 
-### 2. Sello de tiempo en blockchain (OpenTimestamps)
+### Capa 2 — Sello de tiempo en blockchain (OpenTimestamps → Bitcoin)
 
 El fichero `.pdf.ots` contiene la prueba criptográfica de que el SHA-256 del PDF fue registrado en el calendario público de OpenTimestamps el **27 de abril de 2026 a las ~17:49 UTC** (~19:49 hora de Madrid). El hash queda anclado en blockchain Bitcoin de forma permanente, descentralizada y verificable por cualquier tercero independientemente de cualquier autoridad.
 
-Esto demuestra que el documento **existía con este SHA-256 exacto antes de cualquier depósito posterior** en repositorios académicos (HCommons, Zenodo, engrXiv, ResearchGate, etc.).
+Esta capa, combinada con la Capa 0, demuestra que el documento **existía con este SHA-256 exacto antes de cualquier depósito posterior** en repositorios académicos (HCommons, Zenodo, engrXiv, ResearchGate, etc.).
+
+### Capa 3 — Commit Git público (GitHub)
+
+El commit Git con el que se depositó esta versión canónica genera un hash de commit propio (`58cec49`) y un timestamp del servidor de GitHub, ambos inmutables y públicamente verificables. Constituye una prueba adicional de fecha cierta independiente de las anteriores, soportada por la infraestructura de Git y por GitHub.
 
 ---
 
@@ -135,6 +152,10 @@ ots verify "General theory ... .pdf.ots"
 
 > **Nota**: la confirmación definitiva en blockchain Bitcoin tarda entre 3 y 6 horas tras el sellado inicial. Una vez confirmada, la prueba es verificable indefinidamente y resistente a cualquier manipulación.
 
+### Verificar los snapshots de Wayback Machine
+
+Acceder a cualquiera de las cuatro URLs `web.archive.org/web/<timestamp>/...` listadas en la Capa 0. Internet Archive mostrará el snapshot correspondiente con su fecha de captura como texto fijo en la cabecera. Los snapshots no son alterables a posteriori por terceros.
+
 ---
 
 ## Cláusula de prevalencia / Prevalence clause
@@ -157,11 +178,13 @@ In the event of any discrepancy, ambiguity or interpretive divergence between th
 
 | Repositorio | Estado | DOI |
 |---|---|---|
+| **GitHub** (esta sede canónica del PDF) | ✓ Depositado | — |
+| **Wayback Machine / Internet Archive** | ✓ Cuatro snapshots (Capa 0) | — |
+| **OpenTimestamps / Bitcoin blockchain** | ✓ Anclado (Capa 2) | — |
 | HCommons (works.hcommons.org) | *Pendiente de depósito* | *Pendiente* |
 | Zenodo | *Pendiente* | *Pendiente* |
 | engrXiv | *Pendiente* | *Pendiente* |
 | ResearchGate | *Pendiente* | — |
-| GitHub (esta sede canónica del PDF) | ✓ Depositado | — |
 
 ---
 
