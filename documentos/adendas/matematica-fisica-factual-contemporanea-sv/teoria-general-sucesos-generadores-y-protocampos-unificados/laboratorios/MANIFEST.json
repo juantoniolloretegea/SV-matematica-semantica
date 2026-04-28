@@ -1,0 +1,75 @@
+{
+  "package_title": "Laboratorios canónicos de la Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV",
+  "package_version": "1.0.0",
+  "publication_date": "2026-04-26",
+  "author": "Juan Antonio Lloret Egea",
+  "orcid": "https://orcid.org/0000-0002-6634-3351",
+  "laboratory_doi": "https://doi.org/10.5281/zenodo.19863166",
+  "main_publication_doi": "https://doi.org/10.17613/177nb-v2465",
+  "github_repository_url": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios",
+  "license": "CC BY-NC-ND 4.0",
+  "python_requirement": ">=3.8",
+  "external_dependencies": [],
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 1697,
+      "sha256": "ad367d97423e5fe18f4d50f0afa03320fdc5dc60bac7a3cbf08581561a3f9720"
+    },
+    {
+      "path": "EXECUTION_REPORT.txt",
+      "bytes": 38082,
+      "sha256": "ef4137dc1efdb9f7396bb7069db72e11558a1398223dd4647f42b01c8cc2ba62"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 2093,
+      "sha256": "ec92e5fdf5991e55486c032e0dd01c0fcf8c1dae1f2a76931e94f44158f53218"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7032,
+      "sha256": "0c15cf0b5d42bdea29367e3145849180acb8fa607efe1fa930f5b6296c511c50"
+    },
+    {
+      "path": "ZENODO_UPLOAD_FIELDS.md",
+      "bytes": 2118,
+      "sha256": "3678258ff9b697fc1516061816757930878ca2af7469e8b8dfa9521c6033a6f1"
+    },
+    {
+      "path": "lab_01_banco_numerico.py",
+      "bytes": 12010,
+      "sha256": "e1f75aebbdaa426cd9a9c5a7a5121a365d9c14bb58ca926646f7ec90355ff28e"
+    },
+    {
+      "path": "lab_02_falsacion_canonica.py",
+      "bytes": 11909,
+      "sha256": "29d7f0cb13f4c38bca8c9aff2ed75dfe330ccc7db8fe7f7ed58ea391345a0b70"
+    },
+    {
+      "path": "lab_03_absorciones_canonicas.py",
+      "bytes": 6600,
+      "sha256": "fcc19e6816ffdc421f924ffd56f0417ce2cdd391985272c3b817ce567149ffb4"
+    },
+    {
+      "path": "lab_04_morfismo_dictamen.py",
+      "bytes": 9102,
+      "sha256": "d7a72d33a8dea8e8d5c129d0eeaf0751d201affacb4759f52968488020a50f34"
+    },
+    {
+      "path": "lab_05_configuracion_propia.py",
+      "bytes": 9437,
+      "sha256": "5e0acd49f7326616c42eb352ef12ed8c9287eeeaebb0395d25ff5604be50c25d"
+    },
+    {
+      "path": "run_all.py",
+      "bytes": 1673,
+      "sha256": "0d5a709735dc981f1db94199e7bc9c7b92828ec58b6b0c051176538b4a5f127a"
+    },
+    {
+      "path": "sv_core.py",
+      "bytes": 25265,
+      "sha256": "bc24578a2df514a8f53d6996f32c283e8f9c6bad1e43f886b9b2e088c52dbbd5"
+    }
+  ]
+}

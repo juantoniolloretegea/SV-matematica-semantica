@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software laboratory package, please cite it using the metadata below."
+title: "Laboratorios canónicos de la Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV"
+type: software
+authors:
+  - family-names: "Lloret Egea"
+    given-names: "Juan Antonio"
+    orcid: "https://orcid.org/0000-0002-6634-3351"
+version: "1.0.0"
+doi: "10.5281/zenodo.19863166"
+date-released: "2026-04-26"
+url: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios"
+repository-code: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios"
+license: "CC-BY-NC-ND-4.0"
+abstract: >-
+  Paquete reproducible de cinco laboratorios Python asociado a la publicación
+  General theory of generating events and unified protofields in the Sistema
+  Vectorial SV. El paquete verifica el banco numérico de diez supuestos, la
+  falsabilidad canónica, las absorciones canónicas, el morfismo dictamen
+  ternario y una configuración propia.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19863166"
+references:
+  - type: article
+    title: "General theory of generating events and unified protofields in the Sistema Vectorial SV"
+    authors:
+      - family-names: "Lloret Egea"
+        given-names: "Juan Antonio"
+        orcid: "https://orcid.org/0000-0002-6634-3351"
+    doi: "10.17613/177nb-v2465"
+    date-released: "2026-04-26"

@@ -4,13 +4,33 @@ Este directorio contiene los **cinco laboratorios canónicos** que verifican com
 
 Los cinco laboratorios son **scripts Python autocontenidos** y **trazables sección a sección** al documento canónico V.1. Cada uno verifica un teorema canónico específico mediante ejecución reproducible.
 
+
+---
+
+## Identificación del depósito reproducible
+
+- **Título del laboratorio:** Laboratorios canónicos de la Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV
+- **DOI del laboratorio reproducible:** https://doi.org/10.5281/zenodo.19863166
+- **DOI de la publicación principal:** https://doi.org/10.17613/177nb-v2465
+- **Relación documental:** este paquete es material computacional suplementario de la publicación principal en Commons/KCWorks.
+- **Repositorio vivo en GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios
+- **Versión del paquete:** V.1 / 1.0.0
+- **Fecha:** 2026-04-26
+
+
 ---
 
 ## Estructura del directorio
 
 ```
-laboratorios/
-├── README.md                            (este archivo)
+laboratorios_sucesos_generadores_protocampos_sv_v1/
+├── README.md                            Este archivo
+├── CITATION.cff                         Metadatos de citación del laboratorio
+├── LICENSE.txt                          Licencia y advertencia jurídica
+├── MANIFEST.json                        Manifiesto técnico del paquete
+├── SHA256SUMS.txt                       Hashes SHA-256 de integridad
+├── ZENODO_UPLOAD_FIELDS.md              Campos recomendados para Zenodo
+├── run_all.py                           Ejecución secuencial de los cinco laboratorios
 ├── sv_core.py                           Núcleo computacional canónico del SV
 ├── lab_01_banco_numerico.py             Banco numérico de los diez supuestos §17
 ├── lab_02_falsacion_canonica.py         Banco de falsación operativa F1–F6 §C
@@ -40,6 +60,9 @@ python3 lab_02_falsacion_canonica.py
 python3 lab_03_absorciones_canonicas.py
 python3 lab_04_morfismo_dictamen.py
 python3 lab_05_configuracion_propia.py
+
+# Ejecución completa secuencial
+python3 run_all.py
 ```
 
 ---
@@ -109,7 +132,8 @@ ITVIA — Instituto Tecnológico Virtual de la Inteligencia Artificial para el E
 IA eñ™ — La Biblia de la IA™
 ISSN 2695-6411
 Licencia CC BY-NC-ND 4.0
-DOI: [pendiente de asignación]
+DOI del laboratorio: https://doi.org/10.5281/zenodo.19863166
+DOI de la publicación principal: https://doi.org/10.17613/177nb-v2465
 Madrid, 26/04/2026
 
 **Advertencia.** Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada.

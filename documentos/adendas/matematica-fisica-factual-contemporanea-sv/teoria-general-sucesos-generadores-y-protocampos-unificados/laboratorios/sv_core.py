@@ -18,7 +18,7 @@ Trazabilidad canónica:
 Cada función referencia explícitamente la sección de V14 que la sostiene.
 
 ----------------------------------------------------------------------
-© 2026. Todos los derechos reservados. | DOI: [pendiente] |
+© 2026. Todos los derechos reservados. | DOI: https://doi.org/10.5281/zenodo.19863166 |
 Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 |
 Instituto Tecnológico Virtual de la Inteligencia Artificial para el
 Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 |
@@ -647,7 +647,7 @@ CABECERA_CANONICA = """
                   unificados en el Sistema Vectorial SV
    © 2026 Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351
    ITVIA | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411
-   Licencia CC BY-NC-ND 4.0 | DOI: [pendiente] | Madrid, 26/04/2026
+   Licencia CC BY-NC-ND 4.0 | DOI: https://doi.org/10.5281/zenodo.19863166 | Madrid, 26/04/2026
 ═══════════════════════════════════════════════════════════════════════
 """
 

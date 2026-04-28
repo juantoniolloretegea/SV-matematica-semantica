@@ -1,0 +1,20 @@
+Licencia y advertencia jurídica
+================================
+
+Paquete: Laboratorios canónicos de la Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV
+Autor: Juan Antonio Lloret Egea
+ORCID: 0000-0002-6634-3351
+DOI del laboratorio: https://doi.org/10.5281/zenodo.19863166
+DOI de la publicación principal: https://doi.org/10.17613/177nb-v2465
+Repositorio vivo: https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/laboratorios
+
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea.
+Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA).
+IA eñ™ — La Biblia de la IA™. ISSN 2695-6411.
+
+Licencia declarada: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+URL de licencia: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Advertencia: este paquete laboratorial y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada. La reproducción, distribución, comunicación pública o transformación de esta obra sólo puede realizarse con la autorización de sus titulares, salvo excepción prevista por la ley. Cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido.
+
+Warning: this laboratory package is protected by copyright. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated. Any reproduction, distribution, public communication, or transformation requires authorization from the rightsholder, except as provided by law. Any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
