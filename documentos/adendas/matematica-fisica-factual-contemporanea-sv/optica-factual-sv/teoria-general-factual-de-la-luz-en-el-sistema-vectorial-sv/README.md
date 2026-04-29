@@ -22,6 +22,16 @@ algoritmo canónico de búsqueda A1–A5.
 | [`imagenes/`](imagenes/) | Figuras asociadas al documento; incluye la portada editorial definitiva [`imagenes/portada.png`](imagenes/portada.png). |
 | [`VERIFICACION_LABORATORIOS_2026-04-24.md`](VERIFICACION_LABORATORIOS_2026-04-24.md) | Informe local de verificación de los 22 laboratorios. |
 
+## Depósito reproducible preservado
+
+Los laboratorios de esta carpeta están preservados en Zenodo como suplemento computacional reproducible de la publicación principal.
+
+DOI de versión:
+https://doi.org/10.5281/zenodo.19892662
+
+DOI conceptual:
+https://doi.org/10.5281/zenodo.19892661
+
 ## Cómo reproducir las verificaciones
 
 Las verificaciones numéricas y estructurales declaradas en §18, §19 y §20
