@@ -1,0 +1,97 @@
+{
+  "schema": "maxwell-sv-error-catalog-v1",
+  "title": "Catálogo de errores de los laboratorios Maxwell-SV",
+  "publication": "Absolute structural reduction of Maxwell in the Sistema Vectorial SV and single equation of factual electromagnetic physics",
+  "publication_doi": "10.17613/kep1t-57539",
+  "version": "v1.0.0",
+  "date": "2026-04-29",
+  "codes": {
+    "MAXWELL001": {
+      "description": "Fallo en Gauss eléctrica factual."
+    },
+    "MAXWELL002": {
+      "description": "Fallo en Gauss magnética factual."
+    },
+    "MAXWELL003": {
+      "description": "Fallo en Faraday factual."
+    },
+    "MAXWELL004": {
+      "description": "Fallo en Ampère–Maxwell factual."
+    },
+    "MAXWELL005": {
+      "description": "Fallo en el balance electromagnético factual."
+    },
+    "MAXWELL006": {
+      "description": "Fallo en conservación factual de la carga."
+    },
+    "MAXWELL007": {
+      "description": "Fallo en condición de contorno normal de D."
+    },
+    "MAXWELL008": {
+      "description": "Fallo en condición de contorno normal de B."
+    },
+    "MAXWELL009": {
+      "description": "Fallo en el criterio absoluto de frontera factual."
+    },
+    "MAXWELL010": {
+      "description": "Fallo en el operador exacto de reconfiguración factual."
+    },
+    "MAXWELL011": {
+      "description": "Fallo en una relación constitutiva factual."
+    },
+    "MAXWELL012": {
+      "description": "Fallo en cosido dimensional soberano."
+    },
+    "MAXWELL013": {
+      "description": "Fallo en la forma maestra operatoria factual."
+    },
+    "MAXWELL014": {
+      "description": "Fallo en la forma maestra integral factual."
+    },
+    "MAXWELL015": {
+      "description": "Fallo en la ecuación única factual electromagnética."
+    },
+    "MAXWELL016": {
+      "description": "Fallo en condición de contorno tangencial de E."
+    },
+    "MAXWELL017": {
+      "description": "Fallo en condición de contorno tangencial de H."
+    },
+    "MAXWELL018": {
+      "description": "Fallo en identidad de onda factual."
+    },
+    "MAXWELL900": {
+      "description": "Archivo de datos no encontrado."
+    },
+    "MAXWELL901": {
+      "description": "JSON de laboratorio no válido."
+    },
+    "MAXWELL920": {
+      "description": "Número de bancos positivos incoherente."
+    },
+    "MAXWELL921": {
+      "description": "Al menos un banco positivo no pasa."
+    },
+    "MAXWELL922": {
+      "description": "Ataques negativos ausentes o no detectados correctamente."
+    },
+    "MAXWELL930": {
+      "description": "Estructura de mapeo inválida o ausente."
+    },
+    "MAXWELL931": {
+      "description": "Valor numérico o dimensión inválidos."
+    },
+    "MAXWELL932": {
+      "description": "Vector o producto vectorial inválido."
+    },
+    "MAXWELL933": {
+      "description": "Matriz jacobiana 3x3 inválida."
+    },
+    "MAXWELL934": {
+      "description": "Valor booleano inválido."
+    },
+    "MAXWELL935": {
+      "description": "Mutación negativa o ruta de ataque inválida."
+    }
+  }
+}

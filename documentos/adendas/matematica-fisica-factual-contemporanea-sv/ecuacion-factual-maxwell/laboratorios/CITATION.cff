@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software laboratory package, please cite it using the metadata below."
+title: "Canonical laboratories of the Absolute Structural Reduction of Maxwell in the Sistema Vectorial SV"
+type: software
+authors:
+  - family-names: "Lloret Egea"
+    given-names: "Juan Antonio"
+    orcid: "https://orcid.org/0000-0002-6634-3351"
+version: "1.0.0"
+date-released: "2026-04-29"
+url: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/ecuacion-factual-maxwell/laboratorios"
+repository-code: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/ecuacion-factual-maxwell/laboratorios"
+doi: "10.5281/zenodo.19895446"
+license: "CC-BY-NC-ND-4.0"
+abstract: >
+  Reproducible Python laboratories associated with the publication
+  Absolute structural reduction of Maxwell in the Sistema Vectorial SV
+  and single equation of factual electromagnetic physics. The package
+  verifies twenty-one positive banks and fifteen negative falsification
+  cases for the factual electromagnetic block. The main documentary
+  Commons/KCWorks publication DOI is 10.17613/kep1t-57539.
+keywords:
+  - Sistema Vectorial SV
+  - factual Maxwell
+  - factual electromagnetism
+  - reproducible laboratories
+  - Python
+  - canonical falsifiability
+  - SV(3,9)

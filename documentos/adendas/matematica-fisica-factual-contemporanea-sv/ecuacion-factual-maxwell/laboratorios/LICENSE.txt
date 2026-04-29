@@ -1,0 +1,9 @@
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea.
+
+Licencia: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+Este paquete de laboratorios se distribuye como material computacional suplementario, preservado y citable, asociado a la publicación principal. No sustituye la publicación documental principal ni altera los términos de autoría, integridad, no transformación y no explotación comercial declarados por el autor.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+This laboratory package is distributed as preserved and citable supplementary computational material associated with the main documentary publication. It does not replace the main publication and does not alter the author’s terms regarding authorship, integrity, no derivatives and non-commercial use.

@@ -360,7 +360,7 @@ def verify_negative_cases(control_case: Dict[str, Any], negatives: Dict[str, Any
                 "message": exc.message,
                 "matches": exc.code == item["expected_error"],
             })
-        except Exception as exc:  # pragma: no cover - defensa extrema
+        except (TypeError, ValueError, KeyError, IndexError) as exc:  # defensa estructural no silenciosa
             out.append({
                 "id": item["id"],
                 "status": "crash",

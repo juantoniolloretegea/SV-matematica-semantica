@@ -1,0 +1,49 @@
+EXECUTION LOG — Maxwell-SV laboratories
+
+Command equivalent: python run_all.py
+Execution mode in packaging environment: direct module invocation.
+
+Positive banks passed: 21/21
+Negative cases caught: 15/15
+
+Positive banks:
+- BANCO_01: PASS — Gauss eléctrica factual (forma integral)
+- BANCO_02: PASS — Gauss magnética factual (forma integral)
+- BANCO_03: PASS — Faraday factual (forma integral)
+- BANCO_04: PASS — Ampère–Maxwell factual (forma integral)
+- BANCO_05: PASS — Balance electromagnético factual
+- BANCO_06: PASS — Conservación factual de la carga
+- BANCO_07: PASS — Condición de contorno: componente normal de D
+- BANCO_08: PASS — Condición de contorno: componente normal de B
+- BANCO_09: PASS — Condición de contorno: componente tangencial de E
+- BANCO_10: PASS — Condición de contorno: componente tangencial de H
+- BANCO_11: PASS — Criterio absoluto de frontera factual: determinante del jacobiano
+- BANCO_12: PASS — Criterio absoluto de frontera factual: activación de frontera
+- BANCO_13: PASS — Operador exacto de reconfiguración factual
+- BANCO_14: PASS — Relación constitutiva eléctrica factual
+- BANCO_15: PASS — Relación constitutiva magnética factual
+- BANCO_16: PASS — Relación constitutiva de conducción factual
+- BANCO_17: PASS — Forma maestra operatoria factual
+- BANCO_18: PASS — Forma maestra integral factual
+- BANCO_19: PASS — Ecuación única factual electromagnética
+- BANCO_20: PASS — Cosido dimensional soberano
+- BANCO_21: PASS — Identidad de onda factual
+
+Negative cases:
+- NEG_GAUSS_ELECTRICA: PASS — expected MAXWELL001, observed MAXWELL001
+- NEG_GAUSS_MAGNETICA: PASS — expected MAXWELL002, observed MAXWELL002
+- NEG_FARADAY: PASS — expected MAXWELL003, observed MAXWELL003
+- NEG_AMPERE: PASS — expected MAXWELL004, observed MAXWELL004
+- NEG_BALANCE: PASS — expected MAXWELL005, observed MAXWELL005
+- NEG_CARGA: PASS — expected MAXWELL006, observed MAXWELL006
+- NEG_CONTORNO_D: PASS — expected MAXWELL007, observed MAXWELL007
+- NEG_CONTORNO_B: PASS — expected MAXWELL008, observed MAXWELL008
+- NEG_CONTORNO_E: PASS — expected MAXWELL016, observed MAXWELL016
+- NEG_CONTORNO_H: PASS — expected MAXWELL017, observed MAXWELL017
+- NEG_FRONTERA: PASS — expected MAXWELL009, observed MAXWELL009
+- NEG_RECONFIGURACION: PASS — expected MAXWELL010, observed MAXWELL010
+- NEG_CONSTITUTIVA: PASS — expected MAXWELL011, observed MAXWELL011
+- NEG_METROLOGIA: PASS — expected MAXWELL012, observed MAXWELL012
+- NEG_ONDA: PASS — expected MAXWELL018, observed MAXWELL018
+
+Verdict: APTO.

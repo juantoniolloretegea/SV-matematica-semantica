@@ -1,0 +1,18 @@
+# Execution report — Maxwell-SV laboratories
+
+Date: 2026-04-29  
+Package version: v1.0.0  
+Publication DOI: 10.17613/kep1t-57539
+Zenodo version DOI: 10.5281/zenodo.19895446
+Zenodo concept DOI: 10.5281/zenodo.19895445
+
+## Result
+
+- Positive verification banks: 21/21 PASSED.
+- Negative falsification cases: 15/15 DETECTED WITH EXPECTED CODES.
+- Python syntax check: PASSED.
+- Silent pass control: PASSED.
+
+## Verdict
+
+APTO for AutoFirma, OpenTimestamps, Zenodo and GitHub integration.

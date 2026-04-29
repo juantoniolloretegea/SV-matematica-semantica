@@ -1,0 +1,116 @@
+{
+  "schema": "maxwell-sv-laboratory-package-v1",
+  "title": "Canonical laboratories of the Absolute Structural Reduction of Maxwell in the Sistema Vectorial SV",
+  "canonical_folder_name": "laboratorios",
+  "version": "v1.0.0",
+  "date": "2026-04-29",
+  "main_publication": {
+    "title": "Absolute structural reduction of Maxwell in the Sistema Vectorial SV and single equation of factual electromagnetic physics",
+    "commons_doi": "10.17613/kep1t-57539",
+    "collection_doi": "10.17613/r4dwa-d9b30"
+  },
+  "execution": {
+    "positive_banks_passed": 21,
+    "positive_banks_expected": 21,
+    "negative_cases_caught": 15,
+    "negative_cases_total": 15
+  },
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 1423,
+      "sha256": "9cc052b3bcd82357a89cf741d72caa267899905810705290d8fc7823d28f2851"
+    },
+    {
+      "path": "EXECUTION_LOG_FULL.txt",
+      "size_bytes": 2600,
+      "sha256": "a395ba7997e2ef8505b551ea5df69aa4e43f710a3cc7814ad60fd73313bbeb0e"
+    },
+    {
+      "path": "EXECUTION_REPORT.txt",
+      "size_bytes": 486,
+      "sha256": "593380a95f0a9e7755fecb8d635d4c6dfd6e2849682979134c5fd3dd5693fa1b"
+    },
+    {
+      "path": "LICENSE.txt",
+      "size_bytes": 898,
+      "sha256": "837cc83eb302217f7dfa124416d3ec1c8287ab0f6f28386e25b91ce621210357"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3733,
+      "sha256": "b6f536783bcd2c38b708e5eeb63275269e5eb7b69b4d6fcbcc58ca76172c396e"
+    },
+    {
+      "path": "ZENODO_UPLOAD_FIELDS.md",
+      "size_bytes": 2367,
+      "sha256": "9b60ec2ce77bafd1e3e3664dbcd74082f3340817ebcfb85f0d19857546b4fbf6"
+    },
+    {
+      "path": "catalogo_errores.json",
+      "size_bytes": 3024,
+      "sha256": "49db9ecb89143425e8f7471f23ed532ac90c9cdc47a2c285d4512586054ec7c2"
+    },
+    {
+      "path": "datos/caso_control_svtresnueve.json",
+      "size_bytes": 6218,
+      "sha256": "446686f537c77ebb7e3a4190e8b8ecf43a8f51c3c70c5219967de659fd33b794"
+    },
+    {
+      "path": "datos/casos_negativos.json",
+      "size_bytes": 4524,
+      "sha256": "d8f5641a0333958f0bff39bb9d06066f65f1be58e597acbe4f756e532146d16f"
+    },
+    {
+      "path": "modulo/__init__.py",
+      "size_bytes": 1409,
+      "sha256": "d7588e7919387adea81bbb292abbc9a6144fca796d0c5637d800290f7893ec5b"
+    },
+    {
+      "path": "modulo/verificador_maxwell_sv.py",
+      "size_bytes": 28574,
+      "sha256": "9436d0edf8cc4a58122a4f46c0c40c84029398127454b19c0ba94993d74aeb4c"
+    },
+    {
+      "path": "resultados/runner_maestro.json",
+      "size_bytes": 10710,
+      "sha256": "297862b2f6435a911116be1720516b5f43709d5780dcaecd2be490758f3d6ee8"
+    },
+    {
+      "path": "resultados/runner_maestro.py.stdout.txt",
+      "size_bytes": 1515,
+      "sha256": "9432048fb69efe1e54ddbd69407307f96f47fdd8ed089876654919224549058c"
+    },
+    {
+      "path": "resultados/runner_maestro_resumen.md",
+      "size_bytes": 4730,
+      "sha256": "150e26a8b9a446b680b99019c1a5af0e3e468c405531c63ffa1cf0c66e2cd0f5"
+    },
+    {
+      "path": "resultados/runner_rapido.json",
+      "size_bytes": 4015,
+      "sha256": "123dd53fb56718c2a32fa9777911c95c2411c6cf4758276e910266009508269a"
+    },
+    {
+      "path": "resultados/runner_rapido.py.stdout.txt",
+      "size_bytes": 1479,
+      "sha256": "8cc53194f5e67f9fd4e0d454e4f85d6e57e268c6285673279d67e553b8ef64c6"
+    },
+    {
+      "path": "run_all.py",
+      "size_bytes": 1349,
+      "sha256": "8665849d12af700da803cbc0c7d8e1902b311033b61db27a5704c70e5b6b248b"
+    },
+    {
+      "path": "runner.py",
+      "size_bytes": 1355,
+      "sha256": "6a027f80b6962d8d65ce3238d94c45827d6f3484792b764a429b5d38dafd96af"
+    }
+  ],
+  "zenodo": {
+    "version_doi": "10.5281/zenodo.19895446",
+    "concept_doi": "10.5281/zenodo.19895445",
+    "record_url": "https://zenodo.org/records/19895446"
+  },
+  "manifest_note": "Hashes cover package files excluding MANIFEST.json and SHA256SUMS.txt, which are generated from the final file set for GitHub integration."
+}
