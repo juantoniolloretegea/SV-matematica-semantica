@@ -64,5 +64,19 @@ dentro del 5% respecto al valor heredado clásico.
 
 ## Referencias
 
-Lloret Egea, Juan Antonio (2026). _Teoría general factual de la luz en el
-Sistema Vectorial SV_. ISSN 2695-6411. DOI por asignar.
+Lloret Egea, Juan Antonio (2026). _Teoría general factual de la luz en el Sistema Vectorial SV_. ISSN 2695-6411.
+
+Publicación principal en Commons/KCWorks:
+https://works.hcommons.org/records/1z7c0-mqb40
+
+DOI de la publicación principal:
+https://doi.org/10.17613/1z7c0-mqb40
+
+Depósito Zenodo de los laboratorios reproducibles:
+https://doi.org/10.5281/zenodo.19892662
+
+DOI conceptual de todas las versiones de los laboratorios:
+https://doi.org/10.5281/zenodo.19892661
+
+Colección canónica:
+https://doi.org/10.17613/r4dwa-d9b30
