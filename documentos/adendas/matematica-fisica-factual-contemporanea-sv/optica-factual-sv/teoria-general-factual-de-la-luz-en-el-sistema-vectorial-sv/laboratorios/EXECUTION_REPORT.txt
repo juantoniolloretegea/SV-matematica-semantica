@@ -1,0 +1,27 @@
+EXECUTION REPORT — Laboratorios de la Teoría general factual de la luz en el Sistema Vectorial SV
+
+Fecha de verificación: 2026-04-29
+Documento asociado: General factual theory of light in the Sistema Vectorial SV
+DOI documental Commons/KCWorks: 10.17613/1z7c0-mqb40
+Colección Commons/KCWorks: Contemporary Factual Mathematics and Physics of the SV
+DOI canónico de colección: 10.17613/r4dwa-d9b30
+Sede material canónica en GitHub:
+https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/optica-factual-sv/teoria-general-factual-de-la-luz-en-el-sistema-vectorial-sv
+
+Verificación material realizada:
+- ZIP de entrada inspeccionado: laboratorios_luz.zip
+- Número de archivos Python: 24
+- Laboratorios declarados en runner_config.json: 22
+- Catálogo canónico de errores: 182 códigos LUZ únicos
+- JSON validados: catalogo_errores.json, runner_config.json, datos/casos_canonicos.json
+- Compilación Python: sin errores de sintaxis
+- Búsqueda de except genérico: sin coincidencias prohibidas
+- Ejecución material: 22/22 laboratorios PASADO
+- Semilla determinista declarada: 33
+- Tolerancia numérica declarada: 1e-9
+
+Nota de ejecución:
+En este entorno se ha ejecutado materialmente la batería completa mediante un harness in-process para evitar interferencias de cierre de intérprete/subprocess observadas en el contenedor. Los módulos originales, el runner.py estricto y la configuración original se conservan sin eliminar. Se añade run_all.py como ejecutor directo complementario para reproducibilidad local simple.
+
+Resultado:
+APTO PARA DEPÓSITO ZENODO Y PARA INSERCIÓN EN GITHUB, condicionado únicamente a que el usuario firme externamente el ZIP con AutoFirma y genere la prueba OpenTimestamps sobre el ZIP final firmado o sobre el ZIP final, según su flujo de preservación.

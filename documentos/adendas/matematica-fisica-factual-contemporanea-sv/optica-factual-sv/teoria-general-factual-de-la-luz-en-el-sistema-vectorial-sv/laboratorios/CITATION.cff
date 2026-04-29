@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this laboratory package, please cite it using the metadata below."
+title: "Laboratorios de la Teoría general factual de la luz en el Sistema Vectorial SV"
+type: software
+authors:
+  - family-names: "Lloret Egea"
+    given-names: "Juan Antonio"
+    orcid: "https://orcid.org/0000-0002-6634-3351"
+version: "1.0.0"
+date-released: "2026-04-29"
+repository-code: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/optica-factual-sv/teoria-general-factual-de-la-luz-en-el-sistema-vectorial-sv/laboratorios"
+url: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/optica-factual-sv/teoria-general-factual-de-la-luz-en-el-sistema-vectorial-sv"
+doi: "10.17613/1z7c0-mqb40"
+abstract: |
+  Paquete reproducible de veintidós laboratorios Python asociado a la publicación
+  "General factual theory of light in the Sistema Vectorial SV". Los laboratorios
+  verifican el vacío factual preternario, la activación Π3H, la energía factual,
+  el cuanto de transporte hSV, la ruptura de conservación por el suceso cero,
+  los siete campos factuales, las quince proyecciones, el algoritmo A1-A5,
+  la ecuación luminosa única, las propiedades algebraicas de LSV, la reducción
+  Maxwell, la emergencia de Planck, la disolución de la dualidad, la falsación
+  por seis criterios, la célula SV(3,9), los bancos visibles, el transductor NLP,
+  coherencia/polarización/correlación, transmutación y antesala del régimen unificado.
+keywords:
+  - Sistema Vectorial SV
+  - factual light
+  - reproducible laboratories
+  - factual mathematics
+  - factual physics
+  - canonical cell SV(3,9)
+  - Python
+license: "CC-BY-NC-ND-4.0"

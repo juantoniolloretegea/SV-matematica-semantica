@@ -1,0 +1,200 @@
+{
+  "package": "laboratorios_teoria_general_factual_luz_sv_v1",
+  "version": "1.0.0",
+  "created_utc": "2026-04-29T00:00:00Z",
+  "associated_publication": {
+    "title": "General factual theory of light in the Sistema Vectorial SV",
+    "doi": "10.17613/1z7c0-mqb40",
+    "canonical_github_source": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/optica-factual-sv/teoria-general-factual-de-la-luz-en-el-sistema-vectorial-sv"
+  },
+  "collection": {
+    "title": "Contemporary Factual Mathematics and Physics of the SV",
+    "canonical_doi": "10.17613/r4dwa-d9b30"
+  },
+  "verification": {
+    "python_files": 24,
+    "declared_laboratories": 22,
+    "error_codes": 182,
+    "py_compile_errors": [],
+    "json_errors": [],
+    "generic_except_hits": [],
+    "execution_result": "22/22 PASADO"
+  },
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 1819,
+      "sha256": "48b4bfa9bc323b2ebd2c01168bf16bd63e4ef85321ea61934539148f3b6bdd81"
+    },
+    {
+      "path": "EXECUTION_LOG_FULL.txt",
+      "size_bytes": 20103,
+      "sha256": "b4426b126419fed4484c2f1c22d2d6b9bd9ebe02fa9dd55bafabd8bd444a9f03"
+    },
+    {
+      "path": "EXECUTION_REPORT.txt",
+      "size_bytes": 1880,
+      "sha256": "83b1b70764a654a6b34e8a7e5fba4b0998dfd1d948ffb18729dba6004c9c1931"
+    },
+    {
+      "path": "GITHUB_README_FRAGMENT.md",
+      "size_bytes": 1260,
+      "sha256": "cd69dd6f0a6c232ed1231cc28da049fa87b0c633d82d3f1e3a3c71a3e61f6314"
+    },
+    {
+      "path": "LICENSE.txt",
+      "size_bytes": 546,
+      "sha256": "7176a637bb5b7214dc9f2b42343785130141f201330c2c734cda7c8d8a84d625"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 10385,
+      "sha256": "b164caaae6f1b712f3f9d2ae94c6087b83c4e551fcb3a3e90de965e76d51514e"
+    },
+    {
+      "path": "ZENODO_UPLOAD_FIELDS.md",
+      "size_bytes": 2645,
+      "sha256": "03ab8df9ce389abc028bae0d258f092024fa56e3accfb8d95923050296064cf1"
+    },
+    {
+      "path": "catalogo_errores.json",
+      "size_bytes": 21709,
+      "sha256": "2a7c9689bc24fab3cd42577ebd99fb09d08296330933712f1c3a3283517e9ecb"
+    },
+    {
+      "path": "datos/casos_canonicos.json",
+      "size_bytes": 3427,
+      "sha256": "e416ecdda175662e8aabb5dac8d5b0f448f30fb78973c26030ac918dc43d2489"
+    },
+    {
+      "path": "lab_01_vacio_factual.py",
+      "size_bytes": 8326,
+      "sha256": "158d5771f22f245dbea364d171473ec53da83de31b0d7587b9b5d48d80bac44f"
+    },
+    {
+      "path": "lab_02_activacion_pi3h.py",
+      "size_bytes": 8806,
+      "sha256": "780c9b608eb4b921575e490000c425c6dc286400830d35876c891d84503694c4"
+    },
+    {
+      "path": "lab_03_energia_cuanto.py",
+      "size_bytes": 6809,
+      "sha256": "913e79c5945c887e6589af14839201d88207ee9dd6011119d91c2f616d27522c"
+    },
+    {
+      "path": "lab_04_ruptura_epsilon_cero.py",
+      "size_bytes": 8869,
+      "sha256": "f283d94e8e48a63815011c7d2b1324e691a47bcaa12ea572cbed00efebca622a"
+    },
+    {
+      "path": "lab_05_materia_tpa.py",
+      "size_bytes": 6521,
+      "sha256": "6918dd29e758d0cc1c6fc9ebbdafb660d9aa8cbd9d4c32022f6eb024a95b3193"
+    },
+    {
+      "path": "lab_06_gravedad_factor_phi.py",
+      "size_bytes": 6477,
+      "sha256": "30a5ebbb3635ed9f1564b405de5af55ccdcb83fae38a46564e97bbdb4d0fbc92"
+    },
+    {
+      "path": "lab_07_siete_campos.py",
+      "size_bytes": 7073,
+      "sha256": "afb7120d842aae5e80b8ca0d93bfcdacbb686499c588ac34b197f79a7f673eb9"
+    },
+    {
+      "path": "lab_08_quince_proyecciones.py",
+      "size_bytes": 7812,
+      "sha256": "1b3b9604fe227f54e2e7e60bfe71712658a9eedef14de40540fdf4b616dfd14e"
+    },
+    {
+      "path": "lab_09_algoritmo_a1_a5.py",
+      "size_bytes": 9211,
+      "sha256": "cab75b97be316c17b4767e9449a767350b2e0352999cfc268d639872611d160c"
+    },
+    {
+      "path": "lab_10_cuarenta_y_cuatro_operadores.py",
+      "size_bytes": 9774,
+      "sha256": "3751aee2e621fcbed23250c21c8604368c0c7e64a7430ae52adbe4db8ed8299f"
+    },
+    {
+      "path": "lab_11_ecuacion_unica.py",
+      "size_bytes": 7509,
+      "sha256": "591b108e6b72b42f2c4aeef4c2bcd8402e72e68df0746329be3fd7b0245ab111"
+    },
+    {
+      "path": "lab_12_propiedades_algebraicas.py",
+      "size_bytes": 9540,
+      "sha256": "0b9a2fd7581dd3316dcd8b6b000a65970c5797da3155c00c567c4fcd6aaabb1c"
+    },
+    {
+      "path": "lab_13_reduccion_maxwell.py",
+      "size_bytes": 5406,
+      "sha256": "d0f0571f21b1eab85c86e3b175c5e0b5b9c36cbc8922606f262d9b599b4814d8"
+    },
+    {
+      "path": "lab_14_emergencia_planck.py",
+      "size_bytes": 6576,
+      "sha256": "586c0b7f425f3bb45668945cf06f6f14bdd2947031726839021de00c943e9f08"
+    },
+    {
+      "path": "lab_15_disolucion_dualidad.py",
+      "size_bytes": 7643,
+      "sha256": "a139e4974966a955a3ed7e367689e8e0edd5be23a36faa11dd61343a7caaa1f5"
+    },
+    {
+      "path": "lab_16_falsacion_seis_criterios.py",
+      "size_bytes": 11431,
+      "sha256": "497641ec9035cddbd5fdc3f038120fe8a6c664cd12a52e9f3e2f98c9f0696ccc"
+    },
+    {
+      "path": "lab_17_celula_sv3_9.py",
+      "size_bytes": 6628,
+      "sha256": "669eec7e90e466fa46f5d23409f878acef00aae73d05a6ca6fc29d2a298ad25b"
+    },
+    {
+      "path": "lab_18_diecisiete_bancos.py",
+      "size_bytes": 9619,
+      "sha256": "e1ccb96568d22286267fe2f4d287bfed41d66d28f3ba78148c5c5b128dfcd6cb"
+    },
+    {
+      "path": "lab_19_transductor_nlp.py",
+      "size_bytes": 8116,
+      "sha256": "ba42adf86f0ce323dcb1bef11c2b3dcb6c640b5bea4e49133b69f51e59cf8e39"
+    },
+    {
+      "path": "lab_20_coherencia_polarizacion_correlacion.py",
+      "size_bytes": 9237,
+      "sha256": "4432b0f057e718b9b70a298ce013c33e16abd1def6bc51ca589ce6c39e2e4ee2"
+    },
+    {
+      "path": "lab_21_transmutacion_clases.py",
+      "size_bytes": 8706,
+      "sha256": "8c66b9f45cbd78d6374fc67e8d6e6be9585a039e9e2c21230781764362e31cb3"
+    },
+    {
+      "path": "lab_22_antesala_unificado.py",
+      "size_bytes": 9397,
+      "sha256": "52eec7dd8e15c1ad370b06f9cb78b92a993acb3ad728d08c42a745086d4498ad"
+    },
+    {
+      "path": "run_all.py",
+      "size_bytes": 2356,
+      "sha256": "2433079be76f4313896e595225b516419322cae588c65b5c83bce3d1937ec295"
+    },
+    {
+      "path": "runner.py",
+      "size_bytes": 9897,
+      "sha256": "6873ed8abaabc683799c145205f6784d30629dac3773c83d8d3e968772a6fb1a"
+    },
+    {
+      "path": "runner_config.json",
+      "size_bytes": 4328,
+      "sha256": "38dce2400ee320c10a2aac3f91d0a73f41834bd18ff025b33cb0b13dcfbfe1b0"
+    },
+    {
+      "path": "sv_core.py",
+      "size_bytes": 31051,
+      "sha256": "8f3ebbdff7913b4213c6ce2d5da34b920b39123a59fbce0a1e0675d52b1d9228"
+    }
+  ]
+}

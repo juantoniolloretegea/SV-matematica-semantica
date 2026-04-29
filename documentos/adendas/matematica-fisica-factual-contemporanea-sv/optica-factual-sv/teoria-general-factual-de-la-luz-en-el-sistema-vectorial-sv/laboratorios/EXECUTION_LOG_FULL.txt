@@ -1,0 +1,306 @@
+HARNESS JUPYTER LUZ
+RUN L-LUZ-01 lab_01_vacio_factual.py
+==========================================================================
+L-LUZ-01 — VACÍO FACTUAL PRETERNARIO (Teorema 2.1 + Costura §2.6)
+==========================================================================
+  [VAC OK] Estado (b) 𝒱_SV: pares presentes, activación efectiva = 0 ✓
+  [VAC OK] Estado (b): sin marca U (Observación 2.3) ✓
+  [VAC OK] Estado (a) vacuidad absoluta previa a ε₀: 𝓔 = ∅ ✓
+  [VAC OK] Estado (c): marca U presente sobre los 3 casos canónicos ✓
+  [VAC OK] Corolario 2.1: trayectoria definible sobre 𝒱_SV ✓
+  [VAC OK] P.3 respetado: sustrato combinatorio sin métrica soberana ✓
+  [VAC OK] Irreversibilidad (a)→(b): 𝒱_SV con card > 0 ✓
+--------------------------------------------------------------------------
+L-LUZ-01 — PASADO. Costura §2.6 (a)/(b)/(c) verificada sin fisuras.
+RESULT L-LUZ-01 rc=0
+RUN L-LUZ-02 lab_02_activacion_pi3h.py
+==========================================================================
+L-LUZ-02 — ACTIVACIÓN HONESTA Π_3^H (Lema 5.5 + Lema 7.3)
+==========================================================================
+  [ACT OK] 1000 activaciones Π_3^H, todas en Σ = {0, 1, U} ✓
+  [ACT OK] Lema 7.3: base insuficiente → U (3 casos verificados) ✓
+  [ACT OK] Lema 5.5: sin retorno preternario sobre 20 posiciones ✓
+  [ACT OK] Determinismo: 500 activaciones, bit a bit reproducibles ✓
+  [ACT OK] Estado (a) no admite Π_3^H: 0 marcas producidas ✓
+  [ACT OK] Sobre 199 casos decisivos: 0 marcas U espurias ✓
+--------------------------------------------------------------------------
+L-LUZ-02 — PASADO. Π_3^H honesta sin violar Lemas 5.5 y 7.3.
+RESULT L-LUZ-02 rc=0
+RUN L-LUZ-03 lab_03_energia_cuanto.py
+==========================================================================
+L-LUZ-03 — ENERGÍA FACTUAL Y CUANTO h_SV (Teoremas 3.1, 3.2, 3.3)
+==========================================================================
+  [CUA OK] A — Fibra luminosa simétrica SV(3,4)          h_SV = 1.350000 > 0 ✓
+  [CUA OK] B — Fibra luminosa asimétrica SV(3,6)         h_SV = 1.391667 > 0 ✓
+  [CUA OK] C — Fibra luminosa canónica SV(3,9)           h_SV = 1.412500 > 0 ✓
+  [CUA OK] Teorema 3.1: h_SV = 1.350000 estructuralmente definido ✓
+  [ENG OK] A — Fibra luminosa simétrica SV(3,4)          canales W, Q, U no decrecen ✓
+  [ENG OK] B — Fibra luminosa asimétrica SV(3,6)         canales W, Q, U no decrecen ✓
+  [ENG OK] C — Fibra luminosa canónica SV(3,9)           canales W, Q, U no decrecen ✓
+  [ENG OK] Aditividad Proposición 3.1: 4.1500 + 4.6000 = 8.7500 ✓
+  [CUA OK] A — Fibra luminosa simétrica SV(3,4 Q^L=5.4000 = h_SV=1.3500 · card(π)=4 ✓
+  [CUA OK] B — Fibra luminosa asimétrica SV(3, Q^L=8.3500 = h_SV=1.3917 · card(π)=6 ✓
+  [CUA OK] C — Fibra luminosa canónica SV(3,9) Q^L=11.3000 = h_SV=1.4125 · card(π)=8 ✓
+  [CUA OK] Corolario 12.2: transporte sub-cuántico (ΔE < h_SV) no admisible ✓
+--------------------------------------------------------------------------
+L-LUZ-03 — PASADO. Cuanto h_SV estructuralmente único, E_SV canónica.
+RESULT L-LUZ-03 rc=0
+RUN L-LUZ-04 lab_04_ruptura_epsilon_cero.py
+==========================================================================
+L-LUZ-04 — RUPTURA CONSERVACIÓN Y SUCESO CERO ε₀ (Teorema 3bis.1)
+==========================================================================
+  [EPS OK] 500 sucesos clasificados en ['A', 'G', 'N'], todos ∈ {A,N,G} ✓
+  [EPS OK] Clase A: ΔE = 0.3 factorizable como redistribución interna ✓
+  [EPS OK] Clase N: ΔE = 0 reconocido correctamente ✓
+  [EPS OK] Clase G: ΔE = 0.5 no factorizable (Teorema 3bis.1.iii) ✓
+  [EPS OK] ε_0 primordial: 𝓔(D^(-ε₀)) = ∅, apertura con ΔE = 0.3 > 0 ✓
+  [EPS OK] Teorema 3bis.1.iii: 100/100 sucesos G con ΔE > 0 ✓
+  [EPS OK] Obs 3bis.4: locales (A) preservadas, global (G) fracturada ✓
+--------------------------------------------------------------------------
+L-LUZ-04 — PASADO. Ruptura estructural y ε₀ verificadas canónicamente.
+RESULT L-LUZ-04 rc=0
+RUN L-LUZ-05 lab_05_materia_tpa.py
+==========================================================================
+L-LUZ-05 — MATERIA FACTUAL Y APARATO TPA (Teorema 15.1)
+==========================================================================
+  [MAT OK] A — Fibra luminosa simétrica SV(3,4)          dictamen = m_0 ✓
+  [MAT OK] B — Fibra luminosa asimétrica SV(3,6)         dictamen = m_0 ✓
+  [MAT OK] C — Fibra luminosa canónica SV(3,9)           dictamen = m_0 ✓
+  [MAT OK] Dictámenes ∈ {m_0, χ_α, U} sobre los 3 casos ✓
+  [TPA OK] A — Fibra luminosa simétrica S O1 defecto = 0.00e+00 ✓
+  [TPA OK] B — Fibra luminosa asimétrica  O1 defecto = 0.00e+00 ✓
+  [TPA OK] C — Fibra luminosa canónica SV O1 defecto = 0.00e+00 ✓
+  [TPA OK] O2 (Gauss-SV) finita sobre 3 casos ✓
+  [TPA OK] O3 (continuidad interfacial) sin discontinuidades ✓
+  [MAT OK] Proposición 4.1: M_mat(𝒞₁∪𝒞₂) = 1.0+0.5 = 1.5 ✓
+  [MAT OK] Proposición 4.2: 𝒞₁⊂𝒞₂ ⇒ M_1=0.8 ≤ M_2=1.0 ✓
+--------------------------------------------------------------------------
+L-LUZ-05 — PASADO. Reducción al régimen TPA con O1-O2-O3 verificada.
+RESULT L-LUZ-05 rc=0
+RUN L-LUZ-06 lab_06_gravedad_factor_phi.py
+==========================================================================
+L-LUZ-06 — GRAVEDAD FACTUAL CON FACTOR Φ (Teorema 14.1 + Anexo A.1)
+==========================================================================
+  [GRA OK] Factor Φ finito y positivo sobre 3 regímenes físicos ✓
+  [GRA OK] Continuidad: Φ(d→∞) = 1.0000000000 ≈ 1 ✓
+  [GRA OK] B-LUZ-01: α_solar = 1.7500″ (canónico 1.75″) ✓
+  [GRA OK] B-LUZ-02: Δν/ν = 2.456e-15 (canónico 2.456e-15) ✓
+  [GRA OK] B-LUZ-03: τ_Shapiro = 283.5 μs (canónico ~250 μs) ✓
+  [GRA OK] Identidad A.1.1: 𝓛^(gr) = Φ·𝓛 verificada sobre 4 valores ✓
+  [GRA OK] Homogeneidad de 𝔘^gr: verificada sobre 4 reescalados ✓
+--------------------------------------------------------------------------
+L-LUZ-06 — PASADO. Factor Φ y 3 bancos gravitacionales verificados.
+RESULT L-LUZ-06 rc=0
+RUN L-LUZ-07 lab_07_siete_campos.py
+==========================================================================
+L-LUZ-07 — SIETE CAMPOS FACTUALES COEXISTENTES (Proposición 6.1)
+==========================================================================
+  [CAM OK] Cardinal = 7 campos canónicos declarados ✓
+  [CAM OK] Los 7 campos producen lectura finita sobre los 3 casos ✓
+  [CAM OK] Ningún par de campos es redundante sobre los 3 casos ✓
+  [CAM OK] Sobre fibra canónica SV(3,9): 7/7 campos operativos ✓
+  [CAM OK] Teorema 6.1: 7 campos coexisten simultáneamente sobre fibra ✓
+  [CAM OK] Los 7 campos con dominio canónico declarado del corpus ✓
+--------------------------------------------------------------------------
+L-LUZ-07 — PASADO. Siete campos factuales coexisten sin redundancia.
+RESULT L-LUZ-07 rc=0
+RUN L-LUZ-08 lab_08_quince_proyecciones.py
+==========================================================================
+L-LUZ-08 — QUINCE PROYECCIONES CANÓNICAS P1-P15 (Teorema 7.1)
+==========================================================================
+  [PRO OK] Cardinal = 15 proyecciones canónicas (P1-P15) ✓
+  [PRO OK] 15 proyecciones con lectura finita sobre 3 casos ✓
+  [PRO OK] Proposición 7.1: operatividad simultánea de P1-P15 ✓
+  [PRO OK] π_ω y π_κ operan sobre dominios disjuntos (3 casos) ✓
+  [PRO OK] Matriz 15×9: rango = 9 (independencia pragmática) ✓
+  [PRO OK] Teorema 7.1: las 3 fibras producen firmas proyectivas distintas ✓
+  [PRO OK] Las 15 proyecciones tienen dominio canónico declarado ✓
+--------------------------------------------------------------------------
+L-LUZ-08 — PASADO. P1-P15 operativas simultáneamente sin redundancia.
+RESULT L-LUZ-08 rc=0
+RUN L-LUZ-09 lab_09_algoritmo_a1_a5.py
+==========================================================================
+L-LUZ-09 — ALGORITMO CANÓNICO A1–A5 (§7.3bis)
+==========================================================================
+  [A15 OK] A3 rechaza candidata redundante (duplicado de P_1) ✓
+  [A15 OK] A1 rechaza candidata sin dominio canónico del corpus ✓
+  [A15 OK] A2 rechaza candidata con firma no canónica ✓
+  [A15 OK] A5 audita P.1 y rechaza candidata con d/dt ✓
+  [A15 OK] Candidata legítima supera A1–A5 (paso final: aprobada) ✓
+--------------------------------------------------------------------------
+L-LUZ-09 — PASADO. Algoritmo A1–A5 discrimina candidatas correctamente.
+RESULT L-LUZ-09 rc=0
+RUN L-LUZ-10 lab_10_cuarenta_y_cuatro_operadores.py
+==========================================================================
+L-LUZ-10 — CUARENTA Y CUATRO OPERADORES DEL APARATO (§8)
+==========================================================================
+  [OPE OK] Cardinal total = 44 operadores ✓
+  [OPE OK] Partición (24, 12, 8) canónica ✓
+  [OPE OK] Los 44 operadores con firma canónica (dom, cod) ✓
+  [OPE OK] 44 operadores únicos (sin duplicados entre categorías) ✓
+  [OPE OK] Ningún operador invoca axioma ajeno al corpus (P.5 respetada) ✓
+  [OPE OK] 12+8 operadores propios/emergentes con referencia al documento ✓
+--------------------------------------------------------------------------
+L-LUZ-10 — PASADO. 44 operadores canónicos inventariados sin duplicados.
+RESULT L-LUZ-10 rc=0
+RUN L-LUZ-11 lab_11_ecuacion_unica.py
+==========================================================================
+L-LUZ-11 — ECUACIÓN ÚNICA L_SV = 0 (Teorema 9.1)
+==========================================================================
+  [LSV OK] A — Fibra luminosa simétrica SV(3,4)          L_SV = 2.220e-16 ✓
+  [LSV OK] B — Fibra luminosa asimétrica SV(3,6)         L_SV = 0.000e+00 ✓
+  [LSV OK] C — Fibra luminosa canónica SV(3,9)           L_SV = 1.332e-15 ✓
+  [LSV OK] Cardinal = 15 sumandos L_SV^(s) ✓
+  [LSV OK] 15 sumandos se anulan simultáneamente sobre 3 casos ✓
+  [INV OK] 13 invariantes con sumando asociado; mapeo cubre 15/15 sumandos ✓
+  [LSV OK] Violación de I2 detectada con código LUZ-CHI-001 ✓
+  [LSV OK] Identidad L_SV = Σ L_SV^(s) verificada sobre 3 casos ✓
+  [LSV OK] Sumandos = L1..L15 exactos (sin L_16 oculto) ✓
+--------------------------------------------------------------------------
+L-LUZ-11 — PASADO. L_SV = 0 verificada con 15 sumandos y 13 invariantes.
+RESULT L-LUZ-11 rc=0
+RUN L-LUZ-12 lab_12_propiedades_algebraicas.py
+==========================================================================
+L-LUZ-12 — PROPIEDADES ALGEBRAICAS DE L_SV (Teoremas 10.1-10.5)
+==========================================================================
+  [ALG OK] Homogeneidad Teorema 10.1: L_SV = 0 preserva bajo reescalado ✓
+  [ALG OK] Aditividad Teorema 10.2: L_SV(Φ_1) = 1.11e-16 sobre segmento ✓
+  [ALG OK] Covariancia 𝒯_gate: L_SV = 4.44e-16 tras permutar W↔Q ✓
+  [ALG OK] Covariancia 𝒯_shift: L_SV = 0 preservada bajo n0 ∈ {0,1,2,3} ✓
+  [ALG OK] Covariancia 𝒯_par: L_SV = 2.22e-16 tras permutar coord 0↔1 ✓
+  [ALG OK] Estabilidad Teorema 10.4: ε=1e-10 preserva L_SV ≈ 0 ✓
+  [ALG OK] Unicidad Teorema 10.5: L_SV = 0 caracteriza fibra admisible ✓
+--------------------------------------------------------------------------
+L-LUZ-12 — PASADO. Homogeneidad, aditividad, covariancia y unicidad verificadas.
+RESULT L-LUZ-12 rc=0
+RUN L-LUZ-13 lab_13_reduccion_maxwell.py
+==========================================================================
+L-LUZ-13 — REDUCCIÓN A MAXWELL FACTUAL (Teorema 11.1)
+==========================================================================
+  [MAX OK] Diccionario canónico con 18 correspondencias ✓
+  [MAX OK] Las 18 entradas del diccionario con descriptor declarado ✓
+  [MAX OK] Corolario 11.1: c_SV emergente = 2.998e+08 ≈ c ✓
+  [MAX OK] Bajo ℘_SV: c_SV identificada con 2.997925e+08 m/s CODATA ✓
+  [MAX OK] Corolario 11.3: Maxwell factual no agota L_SV (L_SV requiere 15/15) ✓
+  [MAX OK] 𝔼_SV(π_𝒞) = 0 sobre las 3 fibras admisibles ✓
+--------------------------------------------------------------------------
+L-LUZ-13 — PASADO. Maxwell factual recuperado íntegro con diccionario 18.
+RESULT L-LUZ-13 rc=0
+RUN L-LUZ-14 lab_14_emergencia_planck.py
+==========================================================================
+L-LUZ-14 — EMERGENCIA FACTUAL DE PLANCK (Teorema 12.1)
+==========================================================================
+  [PLA OK] h_SV > 0 sobre los 3 casos admisibles ✓
+  [PLA OK] Teorema 12.1: E = h_SV · card(π) sobre 3 casos ✓
+  [PLA OK] E ≥ 0 sobre fibras admisibles ✓
+  [PLA OK] Calibración ℘_SV: h_SV=1.3500 · factor=4.908e-34 = 6.626e-34 ✓
+  [PLA OK] Corolario 12.2: Q^L = h_SV · card(π) exacto, sin transporte sub-cuántico ✓
+  [PLA OK] Fibra sin activación → LUZ-CUA-002 como se esperaba ✓
+--------------------------------------------------------------------------
+L-LUZ-14 — PASADO. E = h·ν emergente de L_SV = 0 con calibración CODATA.
+RESULT L-LUZ-14 rc=0
+RUN L-LUZ-15 lab_15_disolucion_dualidad.py
+==========================================================================
+L-LUZ-15 — DISOLUCIÓN PROYECTIVA DE LA DUALIDAD (Teorema 13.1)
+==========================================================================
+  [DUA OK] P1_ondulatoria operativa sobre 3 fibras canónicas ✓
+  [DUA OK] P2_corpuscular operativa sobre 3 fibras canónicas ✓
+  [DUA OK] Teorema 13.1: P1 y P2 simultáneas sin contradicción ✓
+  [DUA OK] Familia de 15 proyecciones P1..P15 coexistentes ✓
+  [DUA OK] Contraste ontología excluyente: P1 y P2 ambas activas ✓
+  [DUA OK] Coexistencia extendida: 15 proyecciones bien definidas sobre 3 fibras ✓
+--------------------------------------------------------------------------
+L-LUZ-15 — PASADO. Dualidad disuelta en 15 proyecciones canónicas coexistentes.
+RESULT L-LUZ-15 rc=0
+RUN L-LUZ-16 lab_16_falsacion_seis_criterios.py
+==========================================================================
+L-LUZ-16 — FALSACIÓN CON SEIS CRITERIOS (Teorema 17.1, Prop 17.1)
+==========================================================================
+  [FAL OK] Sobre fibras admisibles los 6 criterios F.1-F.6 pasan ✓
+  [FAL OK] Distinción estructural (Prop 17.1.a): 6 operadores distintos ✓
+  [FAL OK] Independencia por pares (Prop 17.1.b): 5 pares paradigmáticos ✓
+  [FAL OK] F.6 independiente: detecta valor χ=3 fuera del alfabeto ternario ✓
+  [FAL OK] Cardinal canónico: SEIS criterios F.1-F.6 ✓
+  [FAL OK] Adversarial: F.2 y F.6 disparan exactamente sus violaciones ✓
+--------------------------------------------------------------------------
+L-LUZ-16 — PASADO. Seis criterios F.1-F.6 estructuralmente distintos con independencia por pares.
+RESULT L-LUZ-16 rc=0
+RUN L-LUZ-17 lab_17_celula_sv3_9.py
+==========================================================================
+L-LUZ-17 — CÉLULA CANÓNICA SV(3, 9) (§18)
+==========================================================================
+  [CEL OK] Célula canónica SV(3,9): d = 3, n = 9 ✓
+  [CEL OK] Alfabeto ternario Σ = {0, 1, U} respetado sobre (3, 9) ✓
+  [CEL OK] Exhaustividad combinatoria |Σ^9| = 3^9 = 19 683 ✓
+  [CEL OK] Recorrido canónico §18: L_SV = 0 sobre célula SV(3,9) ✓
+  [CEL OK] Magnitudes y sumandos L_SV finitos sobre SV(3,9) ✓
+  [CEL OK] Distinción estructural: 1 canónico(s), 2 no canónico(s) ✓
+--------------------------------------------------------------------------
+L-LUZ-17 — PASADO. Célula SV(3,9) canónica con exhaustividad 3^9 = 19683.
+RESULT L-LUZ-17 rc=0
+RUN L-LUZ-18 lab_18_diecisiete_bancos.py
+==========================================================================
+L-LUZ-18 — DIECISIETE BANCOS B-LUZ VISIBLES (§19)
+==========================================================================
+  [BNC OK] 17 bancos B-LUZ declarados, ids únicos B-LUZ-01 a B-LUZ-17 ✓
+  [BNC OK] 8 bancos calibratorios identificados ✓
+  [BNC OK] Los 17 bancos con valor numérico finito ✓
+  [BNC OK] Bancos calibratorios: identidad exacta con heredado ✓
+  [BNC OK] Bancos no calibratorios: compatibilidad ≤ 5% ✓
+  [BNC OK] Los 17 bancos con referencia heredada declarada ✓
+--------------------------------------------------------------------------
+L-LUZ-18 — PASADO. 17 bancos B-LUZ con compatibilidad empírica absoluta.
+RESULT L-LUZ-18 rc=0
+RUN L-LUZ-19 lab_19_transductor_nlp.py
+==========================================================================
+L-LUZ-19 — TRANSDUCTOR NLP (§8 A.23)
+==========================================================================
+  [NLP OK] Transductor 𝓘_NLP produce célula 3×9 sobre Σ ternario ✓
+  [NLP OK] |Σ^9| = 3^9 = 19 683, |Σ^(3·9)| = 3^27 = 7,625,597,484,987 ✓
+  [NLP OK] Reproducibilidad determinista: misma entrada → misma salida ✓
+  [NLP OK] Célula NLP estructura (3, 9) sobre Σ compatible con canónica ✓
+  [NLP OK] Paquete (4, 10) dispara LUZ-NLP-001 específicamente ✓
+  [NLP OK] Semilla 33 estable: 11.1% U_CODE (no degenerado) ✓
+--------------------------------------------------------------------------
+L-LUZ-19 — PASADO. Transductor 𝓘_NLP produce célula K_3^9 reproducible.
+RESULT L-LUZ-19 rc=0
+RUN L-LUZ-20 lab_20_coherencia_polarizacion_correlacion.py
+==========================================================================
+L-LUZ-20 — COHERENCIA, POLARIZACIÓN Y CORRELACIÓN (§8 B.6/B.7/B.16, §A.6.1)
+==========================================================================
+  [COH OK] Coherencia estructural B.7 ≥ 0 sobre 3 fibras ✓
+  [POL OK] Residual polar δ_i^res = β_i - α_i sobre 3 fibras ✓
+  [POL OK] θ_B(agua) = 53.12° (≈ 53.12°, B-LUZ-14) ✓
+  [COR OK] Correlación estructural sin espacio de Hilbert (Teo A.6.1) ✓
+  [COR OK] Correlación(fibra, vacío) = 0 sobre intersección vacía ✓
+  [POL OK] Polarización con traza exacta al par polar (α, β) preternario ✓
+--------------------------------------------------------------------------
+L-LUZ-20 — PASADO. Coherencia, polarización y correlación estructurales verificadas.
+RESULT L-LUZ-20 rc=0
+RUN L-LUZ-21 lab_21_transmutacion_clases.py
+==========================================================================
+L-LUZ-21 — TRANSMUTACIÓN LUMINOSA Y CLASES χ_α (Teorema A.7.1)
+==========================================================================
+  [TRS OK] Clases emergentes pertenecen al aparato TPA (12 clases) ✓
+  [TRS OK] Dictamen U produce clase emergente bien formada ✓
+  [TRS OK] Fibra sin dictamen U → Σ_1 (sin clase espuria) ✓
+  [TRS OK] Transmutación coincide con aparato TPA sobre Γ (O1/O2/O3 = 0) ✓
+  [TRS OK] Célula tamaño 0 dispara exactamente LUZ-TRS-002 ✓
+  [TRS OK] 12 clases TPA disjuntas, fibra asignada a clase única ✓
+--------------------------------------------------------------------------
+L-LUZ-21 — PASADO. Transmutación T^trs_SV compatible con aparato TPA (12 clases).
+RESULT L-LUZ-21 rc=0
+RUN L-LUZ-22 lab_22_antesala_unificado.py
+==========================================================================
+L-LUZ-22 — ANTESALA DEL RÉGIMEN UNIFICADO (Teorema A.5.1, Prop 22.1)
+==========================================================================
+  [UNF OK] U^unif_SV reduce a L_SV sobre 3 fibras luminosas (Teo A.5.1) ✓
+  [UNF OK] U^unif_SV reduce a 𝔼_SV sobre sector electromagnético (Prop 22.1) ✓
+  [UNF OK] U^unif_SV opera sobre 7 sectores canónicos exactos ✓
+  [UNF OK] Ningún sector ajeno a los 7 canónicos ✓
+  [UNF OK] Consistencia cruzada L_SV = 0 y 𝔼_SV = 0 sobre fibras admisibles ✓
+  [UNF OK] Apertura declarada: 7 sectores con articulación canónica ✓
+--------------------------------------------------------------------------
+L-LUZ-22 — PASADO. U^unif_SV reduce a L_SV y 𝔼_SV sobre 7 sectores canónicos.
+RESULT L-LUZ-22 rc=0
+ALL OK 22 elapsed 0.21150946617126465

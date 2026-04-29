@@ -1,3 +1,39 @@
+# Laboratorios — Teoría general factual de la luz en el Sistema Vectorial SV
+
+**Versión del paquete:** v1.0.0  
+**Documento asociado:** *General factual theory of light in the Sistema Vectorial SV*  
+**DOI documental Commons/KCWorks:** https://doi.org/10.17613/1z7c0-mqb40  
+**Colección:** Contemporary Factual Mathematics and Physics of the SV  
+**DOI canónico de colección:** https://doi.org/10.17613/r4dwa-d9b30  
+**Sede material canónica:**  
+https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/optica-factual-sv/teoria-general-factual-de-la-luz-en-el-sistema-vectorial-sv
+
+Este directorio contiene veintidós laboratorios Python reproducibles, núcleo computacional, catálogo de errores, casos canónicos, runner estricto y ejecutor directo complementario. El paquete se prepara para depósito técnico en Zenodo, firma con AutoFirma, prueba OpenTimestamps e inserción en GitHub.
+
+## Ejecución recomendada
+
+```bash
+python runner.py
+```
+
+Ejecución directa complementaria:
+
+```bash
+python run_all.py
+```
+
+## Estado material de esta versión
+
+- 22/22 laboratorios ejecutados materialmente con resultado PASADO.
+- 182 códigos `LUZ-` únicos en el catálogo canónico.
+- Sin errores de sintaxis.
+- Sin `except:` genérico ni `except Exception` detectado.
+- JSON de configuración, catálogo y casos canónicos validados.
+- Hashes SHA-256 incluidos.
+- Informe de ejecución incluido en `EXECUTION_REPORT.txt`.
+
+---
+
 # Laboratorios — Régimen luminoso factual SV
 
 Contrapartida ejecutable del documento
