@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software laboratory package, please cite it using the metadata below."
+title: "Canonical laboratories of Factual Entropy and Structural Irreversibility in the Sistema Vectorial SV"
+type: software
+authors:
+  - family-names: "Lloret Egea"
+    given-names: "Juan Antonio"
+    orcid: "https://orcid.org/0000-0002-6634-3351"
+version: "1.0.0"
+date-released: "2026-04-29"
+url: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/entropia-factual-irreversibilidad-estructural-sv/laboratorios"
+repository-code: "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/entropia-factual-irreversibilidad-estructural-sv/laboratorios"
+doi: "10.5281/zenodo.19897700"
+license: "CC-BY-NC-ND-4.0"
+abstract: >
+  Reproducible Python laboratories associated with the publication
+  Factual entropy and structural irreversibility in the Sistema Vectorial SV:
+  pre-ternary dispersion, transport law along the foundational chain and
+  asymmetric conservation of factual content. The package verifies the
+  pre-ternary dispersion, factual entropy monotonicity, consistency walk,
+  simulated retroactive violation and three canonical dictum examples.
+  The main documentary Commons/KCWorks publication DOI is 10.17613/vh6ak-6em43.
+keywords:
+  - Sistema Vectorial SV
+  - factual entropy
+  - structural irreversibility
+  - pre-ternary dispersion
+  - Python laboratories
+  - reproducible laboratories
+  - factual mathematics
+  - factual physics

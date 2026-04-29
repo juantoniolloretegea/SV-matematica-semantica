@@ -1,0 +1,330 @@
+╔════════════════════════════════════════════════════════════════════╗
+║        Entropía factual SV — suite completa de laboratorios        ║
+╚════════════════════════════════════════════════════════════════════╝
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO lab_04_4_verificacion_preternaria.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+LAB §4.4 — Verificación visible de H_pre sobre 3 posiciones
+══════════════════════════════════════════════════════════════════════
+
+Tabla δ_i(k):
+  k | δ_1   | δ_2   | δ_3
+  0 | +0.0  | -0.6  | +0.4
+  1 | +0.0  | -0.6  | +0.3
+  2 | -0.4  | -0.7  | +0.3
+  3 | -0.8  | -0.6  | +0.2
+
+Cálculo V_i(δ, 3):
+  V_1(δ, 3) = 0.8
+  V_2(δ, 3) = 0.2
+  V_3(δ, 3) = 0.2
+  V_Γ(B, 3) = 1.2
+
+Cálculo A_i(3) con a_i(k) = 1 uniforme en el tramo preternario:
+  A_1(3) = 3.0
+  A_2(3) = 3.0
+  A_3(3) = 3.0
+  A_Γ(3) = 9.0
+
+H_pre(Γ, 3) = A_Γ(3) + V_Γ(B, 3) = 9.0 + 1.2 = 10.2
+
+✓ Verificación OK: H_pre(Γ, 3) = 10.2 coincide con §4.4 del documento.
+
+Contraste sin oscilación: V_Γ = 0.0, H_pre = 9.0
+Diferencia por oscilación: 1.2 unidades factuales.
+✓ OK: lab_04_4_verificacion_preternaria.py
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO lab_11_recorrido_consistencia.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+LAB §11 — Recorrido de consistencia sobre SV(3,9), 5 posiciones
+══════════════════════════════════════════════════════════════════════
+
+Pasos de activación:
+  k_1* = 6
+  k_2* = 5
+  k_3* = 6
+  k_4* = 4
+  k_5* = ∞
+
+Proyección Π_3^H en el paso de cruce (con θ_U = 0.4):
+  ξ_1: δ=-0.6 → v_1 = 0
+  ξ_2: δ=-0.7 → v_2 = 0
+  ξ_3: δ=+0.3 → v_3 = U
+  ξ_4: δ=+0.5 → v_4 = 1
+
+──────────────────────────────────────────────────────────────────────
+Evaluación n = 5
+──────────────────────────────────────────────────────────────────────
+  A_Γ(5)    = 24.5   (esperado: 24.5)
+  V_Γ(B, 5) = 2.7   (esperado: 2.7)
+
+[n=5] H_pre     =   27.20
+[n=5] H_Xi      =   30.90
+[n=5] H_Sigma_c =   31.70
+[n=5] H_Sigma_k =   33.40
+[n=5] H_fin     =   33.40
+[n=5] H_SV      =   33.40
+
+──────────────────────────────────────────────────────────────────────
+Evaluación n = 6
+──────────────────────────────────────────────────────────────────────
+  A_Γ(6)    = 28.0   (esperado: 28.0)
+  V_Γ(B, 6) = 3.0   (esperado: 3.0)
+
+[n=6] H_pre     =   31.00
+[n=6] H_Xi      =   35.30
+[n=6] H_Sigma_c =   36.30
+[n=6] H_Sigma_k =   38.30
+[n=6] H_fin     =   38.60
+[n=6] H_SV      =   38.60
+
+──────────────────────────────────────────────────────────────────────
+Verificación Teorema 8.2 (monotonía)
+──────────────────────────────────────────────────────────────────────
+  H_SV(6) - H_SV(5) = 38.6 - 33.4 = 5.20
+  ✓ Δ = 5.20 > 0 — Teorema 8.2 verificado sobre [5, 6].
+
+──────────────────────────────────────────────────────────────────────
+Assertions contra valores declarados en el documento
+──────────────────────────────────────────────────────────────────────
+  ✓ A_Gamma(6) = 28.0 (esperado: 28.0)
+  ✓ V_Gamma(6) = 3.0 (esperado: 3.0)
+  ✓ H_pre(6) = 31.0 (esperado: 31.0)
+  ✓ H_Xi(6) = 35.3 (esperado: 35.3)
+  ✓ H_Sigma_c(6) = 36.3 (esperado: 36.3)
+  ✓ H_Sigma_k(6) = 38.3 (esperado: 38.3)
+  ✓ H_SV(6) = 38.6 (esperado: 38.6)
+  ✓ A_Gamma(5) = 24.5 (esperado: 24.5)
+  ✓ V_Gamma(5) = 2.7 (esperado: 2.7)
+  ✓ H_pre(5) = 27.2 (esperado: 27.2)
+  ✓ H_Xi(5) = 30.9 (esperado: 30.9)
+  ✓ H_Sigma_c(5) = 31.7 (esperado: 31.7)
+  ✓ H_Sigma_k(5) = 33.4 (esperado: 33.4)
+  ✓ H_SV(5) = 33.4 (esperado: 33.4)
+
+══════════════════════════════════════════════════════════════════════
+Todos los valores del caso patrón §11 verificados.
+══════════════════════════════════════════════════════════════════════
+✓ OK: lab_11_recorrido_consistencia.py
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO lab_11_10_violacion_simulada.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+LAB §11.10 — Violación simulada por reescritura retroactiva
+══════════════════════════════════════════════════════════════════════
+
+Trayectoria original: δ_3 = [0.1, 0.0, 0.2, 0.1]
+V_3(δ, 3) = |0.0-0.1| + |0.2-0.0| + |0.1-0.2|
+         = 0.1 + 0.2 + 0.1 = 0.4
+
+Violación: δ_3(2) = 0.2 → 0.1 (aplanamiento retroactivo)
+δ_3_viol = [0.1, 0.0, 0.1, 0.1]
+V_3_viol(δ, 3) = |0.0-0.1| + |0.1-0.0| + |0.1-0.1|
+              = 0.1 + 0.1 + 0.0 = 0.2
+
+Decremento de V_3: 0.4 - 0.2 = 0.2
+Por la Definición 4.2, H_pre(Γ, 3) decrece en 0.2 unidades.
+Por el Teorema 8.2 y transporte estratificado, H_SV también decrece.
+
+✓ Violación confirmada: V_3_viol(0.2) < V_3(0.4)
+✓ Violación directa del Teorema 4.5 (monotonía preternaria).
+✓ Reescritura retroactiva excluida por Proposición 4.7.
+
+══════════════════════════════════════════════════════════════════════
+Consecuencia operativa:
+  La disciplina append-only, junto con la honestidad coordenada,
+  excluye toda operación que modifique sesgos polares declarados
+  sin aportar nueva base compatible. El aparato entrópico es
+  estructuralmente protegido contra reescritura retroactiva.
+══════════════════════════════════════════════════════════════════════
+✓ OK: lab_11_10_violacion_simulada.py
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO lab_ejemplo_A_cierre_determinado.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+EJEMPLO A — Cierre determinado {m_0}
+══════════════════════════════════════════════════════════════════════
+
+--- Configuración ---
+  3 posiciones, Δε = 1, θ_0 = θ_1 = 0.3, θ_U = 0.4
+  Pasos de activación: k_1* = 3, k_2* = k_3* = 4
+
+--- Tabla δ_i(k) ---
+  k |    δ_1 |    δ_2 |    δ_3
+  0 |   +0.1 |   +0.2 |   +0.0
+  1 |   -0.1 |   +0.3 |   -0.1
+  2 |   -0.3 |   +0.4 |   -0.2
+  3 |   -0.5 |   +0.5 |   -0.3
+  4 |      — |   +0.6 |   -0.4
+
+--- Proyección Π_3^H en el paso de cruce ---
+  ξ_1: δ_1(k_1*) = -0.5 → v_1 = 0
+  ξ_2: δ_2(k_2*) = +0.6 → v_2 = 1
+  ξ_3: δ_3(k_3*) = -0.4 → v_3 = 0
+
+--- Evaluación n = 4 ---
+  A_Γ(4) = 11.5
+  V_Γ(B, 4) = 1.4
+  H_pre(4) = 12.9
+
+[n=4] H_pre     =   12.90
+[n=4] H_Xi      =   15.20
+[n=4] H_Sigma_c =   15.70
+[n=4] H_Sigma_k =   16.80
+[n=4] H_fin     =   16.80
+[n=4] H_SV      =   16.80
+
+--- Verificación monotonía [3, 4] ---
+  H_SV(3) = 13.1
+  H_SV(4) = 16.8
+  Δ = 3.70 > 0  ✓
+
+--- Dictamen factual ---
+  𝔗_SV(Γ, 4) = m_0
+  La trayectoria alcanza cierre basal determinado en n = 4.
+  Los residuales estructurales son bajos y no contribuyen al dictamen.
+  H_SV queda en nivel bajo-medio: 16.8 unidades factuales.
+
+══════════════════════════════════════════════════════════════════════
+✓ OK: lab_ejemplo_A_cierre_determinado.py
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO lab_ejemplo_B_residual_en_U.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+EJEMPLO B — Residual en U {U}
+══════════════════════════════════════════════════════════════════════
+
+--- Configuración ---
+  2 posiciones, Δε = 1, θ_U = 0.4
+  Pasos de activación: k_1* = 3, k_2* = 5
+
+--- Tabla δ_i(k) ---
+  k |    δ_1 |    δ_2
+  0 |   +0.0 |   +0.2
+  1 |   -0.1 |   +0.3
+  2 |   -0.2 |   +0.1
+  3 |   -0.4 |   +0.2
+  4 |      — |   +0.2
+  5 |      — |   +0.3
+
+--- Proyección Π_3^H en el paso de cruce ---
+  ξ_1: δ_1(3) = -0.4, base suficiente → v_1 = 0
+  ξ_2: δ_2(5) = +0.3, |δ| = 0.3 < θ_U = 0.4
+       base insuficiente → v_2 = U
+
+--- Evaluación n = 5 ---
+  A_Γ(5) = 8.5
+  V_Γ(B, 5) = 0.9
+  H_pre(5) = 9.4
+
+[n=5] H_pre     =    9.40
+[n=5] H_Xi      =   12.40
+[n=5] H_Sigma_c =   13.10
+[n=5] H_Sigma_k =   14.50
+[n=5] H_fin     =   15.00
+[n=5] H_SV      =   15.00
+
+--- Verificación monotonía [3, 5] ---
+  H_SV(3) = 10.3
+  H_SV(5) = 15.0
+  Δ = 4.70 > 0  ✓
+
+--- Dictamen factual ---
+  𝔗_SV(Γ, 5) = U
+  La posición ξ_2 clausura a U por insuficiencia de base compatible.
+  δ_U(Γ, 5) = 0.5 contribuye al dictamen final.
+  H_SV registra residual estructural persistente: 15.0 unidades.
+
+══════════════════════════════════════════════════════════════════════
+✓ OK: lab_ejemplo_B_residual_en_U.py
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO lab_ejemplo_C_clase_emergente.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+EJEMPLO C — Clase emergente {χ_α}
+══════════════════════════════════════════════════════════════════════
+
+--- Configuración ---
+  2 posiciones con cruce determinado en pasos consecutivos.
+  En n = 5 se admite activación de clase emergente χ_α
+  (criterio G(χ_α) = 1, Lloret Egea 2026j §13).
+  Pasos de activación: k_1* = 3, k_2* = 4
+
+--- Tabla δ_i(k) ---
+  k |    δ_1 |    δ_2
+  0 |   +0.1 |   -0.1
+  1 |   +0.2 |   -0.2
+  2 |   +0.3 |   -0.3
+  3 |   +0.5 |   -0.4
+  4 |      — |   -0.5
+  5 |      — |      —
+  5 | activación de clase emergente χ_α (G(χ_α) = 1)
+
+--- Proyección Π_3^H en el paso de cruce ---
+  ξ_1: δ_1(k_1*) = +0.5 → v_1 = 1
+  ξ_2: δ_2(k_2*) = -0.5 → v_2 = 0
+
+--- Evaluación n = 5 (con clase emergente admitida) ---
+  A_Γ(5) = 8.0
+  V_Γ(B, 5) = 0.8
+  H_pre(5) = 8.8
+
+[n=5] H_pre     =    8.80
+[n=5] H_Xi      =   11.80
+[n=5] H_Sigma_c =   12.70
+[n=5] H_Sigma_k =   14.40
+[n=5] H_fin     =   15.00
+[n=5] H_SV      =   15.00
+
+--- Verificación monotonía [4, 5] ---
+  H_SV(4) = 13.0   (sin clase emergente)
+  H_SV(5) = 15.0   (con δ_χ_α = 0.6)
+  Δ = 2.00 > 0  ✓
+
+--- Dictamen factual ---
+  𝔗_SV(Γ, 5) = χ_α
+  En n = 5 se admite activación de clase emergente bajo G(χ_α) = 1.
+  La contribución transmutativa δ_χ_α = 0.6 acumula en H_SV,
+  compatible con el régimen de transmutación factual de 𝔠^adm_trans.
+  H_SV = 15.0 unidades factuales.
+
+══════════════════════════════════════════════════════════════════════
+✓ OK: lab_ejemplo_C_clase_emergente.py
+
+██████████████████████████████████████████████████████████████████████
+EJECUTANDO tests/test_monotonia.py
+██████████████████████████████████████████████████████████████████████
+══════════════════════════════════════════════════════════════════════
+Ejecutando 13 tests...
+══════════════════════════════════════════════════════════════════════
+  ✓ test_H_pre_no_decreciente_tramo_preternario
+  ✓ test_H_pre_no_decreciente_post_cruce
+  ✓ test_H_K3_no_decreciente
+  ✓ test_H_K3_transicion_virtual_no_contribuye
+  ✓ test_H_K3_cota_2_por_posicion
+  ✓ test_H_Xi_suma_monotonia
+  ✓ test_cadena_completa_caso_patron
+  ✓ test_monotonia_tramo_5_6
+  ✓ test_violacion_aplanamiento_decrementa_V
+  ✓ test_ejemplo_A_cierre
+  ✓ test_ejemplo_B_residual_U
+  ✓ test_ejemplo_C_emergente
+  ✓ test_monotonia_serie_completa: H_pre monótono
+══════════════════════════════════════════════════════════════════════
+✓ 13 tests OK.
+✓ OK: tests/test_monotonia.py
+
+══════════════════════════════════════════════════════════════════════
+RESUMEN
+══════════════════════════════════════════════════════════════════════
+✓ 6/6 laboratorios visibles ejecutados sin errores.
+✓ 13/13 tests de monotonía ejecutados sin errores.
+✓ 19/19 verificaciones operativas superadas.

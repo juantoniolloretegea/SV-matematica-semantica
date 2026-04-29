@@ -1,0 +1,34 @@
+EXECUTION_REPORT — Laboratorios de entropía factual SV
+
+Fecha de generación: 2026-04-29
+Paquete: laboratorios_entropia_factual_sv_v1
+Publicación asociada: Factual entropy and structural irreversibility in the Sistema Vectorial SV: pre-ternary dispersion, transport law along the foundational chain and asymmetric conservation of factual content
+DOI Commons/KCWorks de la publicación principal: 10.17613/vh6ak-6em43
+DOI de colección canónica: 10.17613/r4dwa-d9b30
+Fuente material canónica en GitHub:
+https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/entropia-factual-irreversibilidad-estructural-sv
+
+Resultado material de ejecución:
+- Laboratorios visibles ejecutados: 6/6 PASADO.
+- Tests de monotonía ejecutados: 13/13 PASADO.
+- Verificaciones operativas totales: 19/19 PASADO.
+- Sintaxis Python: verificada.
+- Dependencias externas: ninguna; biblioteca estándar de Python 3.8+.
+- __pycache__ y bytecode: excluidos del paquete final.
+
+Unidades ejecutadas:
+1. lab_04_4_verificacion_preternaria.py
+2. lab_11_recorrido_consistencia.py
+3. lab_11_10_violacion_simulada.py
+4. lab_ejemplo_A_cierre_determinado.py
+5. lab_ejemplo_B_residual_en_U.py
+6. lab_ejemplo_C_clase_emergente.py
+7. tests/test_monotonia.py
+
+Dictamen:
+APTO para AutoFirma, OpenTimestamps, Zenodo y posterior integración GitHub, manteniendo como carpeta raíz canónica `laboratorios/`.
+
+Depósito Zenodo publicado:
+DOI Zenodo de versión: 10.5281/zenodo.19897700
+DOI Zenodo conceptual: 10.5281/zenodo.19897699
+Registro Zenodo: https://zenodo.org/records/19897700

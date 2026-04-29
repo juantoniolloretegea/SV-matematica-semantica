@@ -1,0 +1,127 @@
+{
+  "schema": "sv-laboratory-manifest-v1",
+  "package": "laboratorios_entropia_factual_sv_v1",
+  "canonical_root": "laboratorios",
+  "title": "Laboratorios canónicos de entropía factual e irreversibilidad estructural en el Sistema Vectorial SV",
+  "associated_publication": "Factual entropy and structural irreversibility in the Sistema Vectorial SV: pre-ternary dispersion, transport law along the foundational chain and asymmetric conservation of factual content",
+  "associated_publication_doi": "10.17613/vh6ak-6em43",
+  "canonical_collection_doi": "10.17613/r4dwa-d9b30",
+  "github_canonical_source": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/entropia-factual-irreversibilidad-estructural-sv",
+  "version": "v1.0.0",
+  "date": "2026-04-29",
+  "author": "Juan Antonio Lloret Egea",
+  "orcid": "0000-0002-6634-3351",
+  "execution_summary": {
+    "visible_laboratories_passed": "6/6",
+    "monotonicity_tests_passed": "13/13",
+    "operational_verifications_passed": "19/19",
+    "python_syntax": "passed",
+    "external_dependencies": "none"
+  },
+  "files": [
+    {
+      "path": "CATALOGO_ERRORES.md",
+      "size_bytes": 19739,
+      "sha256": "14e062ae0088d8b4099c6a37c7bd5166889edf02625003eb6c06afbab792f0e1"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 1687,
+      "sha256": "d18034e96beee7fe160993beedfb16f5a56481d0fdc286a8821637089b4fa066"
+    },
+    {
+      "path": "EXECUTION_LOG_FULL.txt",
+      "size_bytes": 18355,
+      "sha256": "787659935130fa853c2f840cde32df2b04d34d76e190c186640d0e4fcf5e5c01"
+    },
+    {
+      "path": "EXECUTION_REPORT.txt",
+      "size_bytes": 1654,
+      "sha256": "3a606f589307bb05e2897a8551e845507e33661f09e44e2ba363127f0841f076"
+    },
+    {
+      "path": "GITHUB_README_FRAGMENT.md",
+      "size_bytes": 550,
+      "sha256": "8f3f64f47cb68086fba49417d5e230b80d11f1e53edf9168b7169eb586872632"
+    },
+    {
+      "path": "LICENSE.txt",
+      "size_bytes": 450,
+      "sha256": "9c9faf528c5369d87efa93693346a7bfd1c9d57425a3daae72f05842c59b2aea"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3710,
+      "sha256": "6e4b047b45de8bef0e0581646357b7692ac8a64377e54b2ac0309d94ebac8f03"
+    },
+    {
+      "path": "ZENODO_UPLOAD_FIELDS.md",
+      "size_bytes": 3860,
+      "sha256": "9ca60f21cd43863c906e7f47a7f0ed739f3b5990e1b1c3d55076c54571c9c2b9"
+    },
+    {
+      "path": "catalogo_errores.json",
+      "size_bytes": 4303,
+      "sha256": "3b46a48f8e3a240a2f9289df6882313c3615081fd383f39f58c24938595e80d0"
+    },
+    {
+      "path": "lab_04_4_verificacion_preternaria.py",
+      "size_bytes": 2116,
+      "sha256": "49a01a1a0ae204122e8d40abce0b992315c1039869c1c519778660137baeac20"
+    },
+    {
+      "path": "lab_11_10_violacion_simulada.py",
+      "size_bytes": 2451,
+      "sha256": "7712d7a37caa17196825c4d449a7570c2976f23c80e8af075938794f502629b6"
+    },
+    {
+      "path": "lab_11_recorrido_consistencia.py",
+      "size_bytes": 5264,
+      "sha256": "2cf1a66eb41613cc144cd3ec53fbb83a688ef8d7486b591d759faa013faadecf"
+    },
+    {
+      "path": "lab_ejemplo_A_cierre_determinado.py",
+      "size_bytes": 3505,
+      "sha256": "b8cf57a22bb1807c428178b5b94ff18938ff5ad3127ce54fd9fdedb1e7628589"
+    },
+    {
+      "path": "lab_ejemplo_B_residual_en_U.py",
+      "size_bytes": 3463,
+      "sha256": "64a16bd068a53e766747507b4db96ed4cd846b850eaebf85d295712e2f16b247"
+    },
+    {
+      "path": "lab_ejemplo_C_clase_emergente.py",
+      "size_bytes": 3668,
+      "sha256": "48298839b5cc248a093a5255596b12854331de0d838b4a7db6056589314e16d8"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 123,
+      "sha256": "b887364a27e47d3f2ad86a9a9771cfc2a7d646d706ae7ee27b40efe51b706a0b"
+    },
+    {
+      "path": "run_all.py",
+      "size_bytes": 2802,
+      "sha256": "3c910f6629c3fb88c376260bb83a78229c8fa99b9a651cffe2e3c6bba1fbf7de"
+    },
+    {
+      "path": "runner.py",
+      "size_bytes": 2801,
+      "sha256": "4b3e2d82aadeed44daeed0b84492acf672c076fab8ac8a7df022970b01188bd8"
+    },
+    {
+      "path": "sv_core.py",
+      "size_bytes": 11579,
+      "sha256": "05d38bd15bd2f9921bcbe7ed1ea7cc4fffcaa1bf401515b245129726cfbd952d"
+    },
+    {
+      "path": "tests/test_monotonia.py",
+      "size_bytes": 8408,
+      "sha256": "dbad1cc1956c8347cf2673a1735db842274120296850e354aaaadb12daabc222"
+    }
+  ],
+  "zenodo_version_doi": "10.5281/zenodo.19897700",
+  "zenodo_concept_doi": "10.5281/zenodo.19897699",
+  "zenodo_record_url": "https://zenodo.org/records/19897700",
+  "manifest_self_hash_policy": "MANIFEST.json is excluded from its own file hash list to avoid recursive self-reference."
+}

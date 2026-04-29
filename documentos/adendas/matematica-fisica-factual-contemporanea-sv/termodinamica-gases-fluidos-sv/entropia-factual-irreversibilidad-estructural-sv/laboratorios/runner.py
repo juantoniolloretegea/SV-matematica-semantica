@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-run_all.py — Ejecución reproducible de los laboratorios de entropía factual SV.
+runner.py — Ejecución reproducible de los laboratorios de entropía factual SV.
 
 Ejecuta los seis laboratorios visibles y la suite de trece tests de monotonía
 sin pases silenciosos. La ejecución termina con código 0 sólo si todas las

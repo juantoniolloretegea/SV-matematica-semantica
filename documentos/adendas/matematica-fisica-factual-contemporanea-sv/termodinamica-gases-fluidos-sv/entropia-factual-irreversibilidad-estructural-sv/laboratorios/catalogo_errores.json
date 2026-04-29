@@ -1,0 +1,140 @@
+{
+  "schema": "entropia-sv-error-catalog-v1",
+  "title": "Catálogo de errores de los laboratorios de entropía factual SV",
+  "publication": "Factual entropy and structural irreversibility in the Sistema Vectorial SV: pre-ternary dispersion, transport law along the foundational chain and asymmetric conservation of factual content",
+  "publication_doi": "10.17613/vh6ak-6em43",
+  "version": "v1.0.0",
+  "date": "2026-04-29",
+  "source_md": "CATALOGO_ERRORES.md",
+  "detected_entries_count": 32,
+  "codes": {
+    "ENTROPIA-001": {
+      "source_id": "A",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-002": {
+      "source_id": "B",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-003": {
+      "source_id": "C",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-004": {
+      "source_id": "D",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-005": {
+      "source_id": "E",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-006": {
+      "source_id": "F",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-007": {
+      "source_id": "G",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-008": {
+      "source_id": "H",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-009": {
+      "source_id": "I",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-010": {
+      "source_id": "J",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-011": {
+      "source_id": "K",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-012": {
+      "source_id": "L",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-013": {
+      "source_id": "M",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-014": {
+      "source_id": "N",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-015": {
+      "source_id": "O",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-016": {
+      "source_id": "R",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-017": {
+      "source_id": "T",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-018": {
+      "source_id": "U",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-019": {
+      "source_id": "X",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-020": {
+      "source_id": "AA",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-021": {
+      "source_id": "BB",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-022": {
+      "source_id": "CC",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-023": {
+      "source_id": "DD",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-024": {
+      "source_id": "EE",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-025": {
+      "source_id": "FF",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-026": {
+      "source_id": "GG",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-027": {
+      "source_id": "HH",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-028": {
+      "source_id": "II",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-029": {
+      "source_id": "KK",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-030": {
+      "source_id": "LL",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-031": {
+      "source_id": "MM",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    },
+    "ENTROPIA-032": {
+      "source_id": "NN",
+      "description": "Entrada procedente de CATALOGO_ERRORES.md"
+    }
+  }
+}

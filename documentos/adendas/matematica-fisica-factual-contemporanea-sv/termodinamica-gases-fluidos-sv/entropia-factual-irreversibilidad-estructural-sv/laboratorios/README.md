@@ -1,151 +1,87 @@
-# Laboratorios reproducibles — 2026l Entropía factual SV
+# Laboratorios canónicos de entropía factual e irreversibilidad estructural en el Sistema Vectorial SV
 
-Infraestructura laboratorial autocontenida en Python estándar para verificar numéricamente
-todos los cálculos del documento **"Entropía factual e irreversibilidad estructural en el
-Sistema Vectorial SV"** (Lloret Egea, 2026l).
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea  
+ORCID: 0000-0002-6634-3351  
+Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)  
+IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411  
+Licencia CC BY-NC-ND 4.0 | Madrid, 23/04/2026
 
----
+## Publicación principal
 
-## Requisitos
+**Factual entropy and structural irreversibility in the Sistema Vectorial SV: pre-ternary dispersion, transport law along the foundational chain and asymmetric conservation of factual content**
 
-- Python 3.8 o superior.
-- Sin dependencias externas (todo Python estándar).
+DOI Commons/KCWorks de la publicación principal:  
+https://doi.org/10.17613/vh6ak-6em43
 
----
+Colección canónica:  
+https://doi.org/10.17613/r4dwa-d9b30
+
+Fuente material canónica en GitHub:  
+https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/entropia-factual-irreversibilidad-estructural-sv
+
+## Objeto del paquete
+
+Este paquete conserva los laboratorios reproducibles asociados a la publicación sobre entropía factual e irreversibilidad estructural en el Sistema Vectorial SV. Los laboratorios implementan, en forma ejecutable, el cálculo de la dispersión preternaria, el transporte por la cadena fundacional, la monotonía de la entropía factual, la violación retroactiva simulada y tres ejemplos canónicos de dictamen.
 
 ## Estructura
 
-```
-laboratorios/
-├── README.md                               — este archivo
-├── CATALOGO_ERRORES.md                     — grietas detectadas y corregidas
-├── sv_core.py                              — primitivas SV compartidas
-├── run_all.py                              — ejecuta todos los laboratorios
-├── lab_04_4_verificacion_preternaria.py   — verifica §4.4 (3 posiciones, n=3)
-├── lab_11_recorrido_consistencia.py        — caso patrón §11 (5 posiciones, n=6)
-├── lab_11_10_violacion_simulada.py         — contraste §11.10 retroactivo
-├── lab_ejemplo_A_cierre_determinado.py    — ejemplo A: dictamen m_0
-├── lab_ejemplo_B_residual_en_U.py          — ejemplo B: dictamen U
-├── lab_ejemplo_C_clase_emergente.py        — ejemplo C: dictamen χ_α
-├── requirements.txt                        — vacío (solo stdlib)
-└── tests/
-    └── test_monotonia.py                   — suite de tests de teoremas
-```
+| Elemento | Descripción |
+|---|---|
+| `sv_core.py` | Primitivas compartidas de dispersión preternaria, transporte estratificado y entropía factual SV. |
+| `lab_04_4_verificacion_preternaria.py` | Verificación numérica de H_pre sobre tres posiciones. |
+| `lab_11_recorrido_consistencia.py` | Recorrido de consistencia sobre SV(3,9). |
+| `lab_11_10_violacion_simulada.py` | Contraste adversarial de reescritura retroactiva. |
+| `lab_ejemplo_A_cierre_determinado.py` | Ejemplo A: cierre determinado. |
+| `lab_ejemplo_B_residual_en_U.py` | Ejemplo B: residual en U. |
+| `lab_ejemplo_C_clase_emergente.py` | Ejemplo C: clase emergente. |
+| `tests/test_monotonia.py` | Suite de trece tests de monotonía y consistencia. |
+| `run_all.py` | Ejecutor reproducible principal. |
+| `runner.py` | Ejecutor equivalente para uso directo. |
+| `CATALOGO_ERRORES.md` | Catálogo doctrinal de grietas detectadas y corregidas. |
+| `catalogo_errores.json` | Catálogo JSON derivado para trazabilidad computacional. |
+| `MANIFEST.json` | Manifiesto material del paquete. |
+| `SHA256SUMS.txt` | Huellas SHA-256 de todos los archivos. |
+| `EXECUTION_REPORT.txt` | Informe breve de ejecución. |
+| `EXECUTION_LOG_FULL.txt` | Registro completo de ejecución. |
+| `CITATION.cff` | Metadatos de citación. |
+| `ZENODO_UPLOAD_FIELDS.md` | Campos recomendados para depósito Zenodo. |
 
----
+## Cómo reproducir
 
-## Uso rápido
-
-Ejecutar un laboratorio concreto:
-
-```bash
-python3 lab_11_recorrido_consistencia.py
-```
-
-Ejecutar todos los laboratorios y tests en una sola pasada:
+Desde esta carpeta:
 
 ```bash
-python3 run_all.py
+python run_all.py
 ```
 
-Ejecutar solo los tests:
+o bien:
 
 ```bash
-python3 tests/test_monotonia.py
+python runner.py
 ```
 
----
+## Resultado verificado
 
-## Qué verifica cada laboratorio
+- Laboratorios visibles superados: 6/6.
+- Tests de monotonía superados: 13/13.
+- Verificaciones operativas totales: 19/19.
+- Sintaxis Python verificada.
+- Sin dependencias externas; sólo biblioteca estándar Python 3.8+.
+- Paquete sin `__pycache__` ni bytecode.
 
-### `lab_04_4_verificacion_preternaria.py`
+## Depósito reproducible preservado
 
-Verifica **§4.4** del documento:
+Los laboratorios de esta carpeta están preservados en Zenodo como suplemento computacional reproducible de la publicación principal.
 
-- Tabla de sesgos polares δ_i(k) sobre 3 posiciones en el tramo preternario.
-- Cálculo de V_i(δ, 3), A_i(3), H_pre(Γ, 3) = 10.2.
-- Contraste con trayectoria sin oscilación: H_pre^sin-osc = 9.0.
-- Diferencia por oscilación: 1.2 unidades factuales.
+DOI de versión:
+https://doi.org/10.5281/zenodo.19897700
 
-### `lab_11_recorrido_consistencia.py`
+DOI conceptual de todas las versiones:
+https://doi.org/10.5281/zenodo.19897699
 
-Verifica **§11** (caso patrón) completo:
-
-- Configuración SV(3,9) con 5 posiciones, tramo [0, 6].
-- Proyección Π_3^H en cada cruce.
-- 14 assertions contra valores declarados: A_Γ(6) = 28, H_pre(6) = 31,0,
-  H_Ξ(6) = 35,3, H_Σc(6) = 36,3, H_Σk(6) = 38,3, H_SV(6) = 38,6
-  y los correspondientes para n = 5.
-- Teorema 8.2 (monotonía): H_SV(6) − H_SV(5) = 5,2 > 0.
-
-### `lab_11_10_violacion_simulada.py`
-
-Verifica **§11.10**:
-
-- Reescritura retroactiva δ_3(2) = 0.2 → 0.1 sin base compatible.
-- Decremento estricto: V_3(orig) = 0.4 → V_3(viol) = 0.2.
-- Confirmación de violación del Teorema 4.5 y exclusión por Proposición 4.7.
-
-### `lab_ejemplo_A_cierre_determinado.py`
-
-Ejemplo de principio a fin con dictamen **𝔗_SV(Γ) = m_0**:
-
-- 3 posiciones con cruces determinados |δ| ≥ θ_0, θ_1.
-- Resultado: H_SV(Γ, 4) = 16.8, monotonía Δ[3, 4] = 3.7 > 0.
-
-### `lab_ejemplo_B_residual_en_U.py`
-
-Ejemplo de principio a fin con dictamen **𝔗_SV(Γ) = U**:
-
-- 2 posiciones: ξ_1 con cierre determinado, ξ_2 con |δ| < θ_U y base insuficiente.
-- δ_U(Γ, 5) = 0.5 contribuye al dictamen final.
-- Resultado: H_SV(Γ, 5) = 15.0, monotonía Δ[3, 5] = 4.7 > 0.
-
-### `lab_ejemplo_C_clase_emergente.py`
-
-Ejemplo de principio a fin con dictamen **𝔗_SV(Γ) = χ_α**:
-
-- 2 posiciones con cruces determinados.
-- Activación de clase emergente en n = 5 bajo criterio G(χ_α) = 1.
-- δ_χ(Γ, 5) = 0.6 aporta contribución transmutativa.
-- Resultado: H_SV(Γ, 5) = 15.0, monotonía Δ[4, 5] = 2.0 > 0.
-
-### `tests/test_monotonia.py`
-
-Suite de 13 tests unitarios que verifican:
-
-- Teorema 4.5 (monotonía H_pre en tramo preternario y post-cruce).
-- Teorema 5.4 (monotonía H_K3; transiciones virtuales; cota por posición).
-- Teorema 6.3 (monotonía H_Ξ).
-- Teorema 8.2 (monotonía H_SV) sobre caso patrón y ejemplos A, B, C.
-- Proposición 4.7 (decremento bajo reescritura retroactiva).
-- Todos los valores numéricos declarados en §11 del documento.
-
----
-
-## Principio metodológico
-
-Todos los laboratorios operan bajo las prohibiciones constitutivas del SV:
-
-1. No se introduce tiempo soberano ni se invoca ordenamiento temporal externo.
-2. No se usa probabilidad fundante ni estadística como criterio de verdad.
-3. No se emplean coordenadas externas al SV.
-4. Todas las magnitudes se derivan exclusivamente de acumulaciones
-   append-only y variaciones totales del sesgo polar preternario.
-5. La monotonía emerge como propiedad estructural del sistema, no como
-   consecuencia de principio físico externo.
-
----
-
-## Enlaces al documento
-
-- Documento principal: `../entropia-factual-irreversibilidad-estructural-sv.md` (en el mismo repositorio).
-- Cuerpo Maxwell + anexo (documento base): Lloret Egea (2026k).
-- Origen preternario: Lloret Egea (2026j).
-
----
+Registro Zenodo:
+https://zenodo.org/records/19897700
 
 ## Licencia
 
-**© 2026 Juan Antonio Lloret Egea** — ORCID 0000-0002-6634-3351 — ITVIA — ISSN 2695-6411 —
-Licencia **CC BY-NC-ND 4.0**. Publicación protegida por **CEDRO**.
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
