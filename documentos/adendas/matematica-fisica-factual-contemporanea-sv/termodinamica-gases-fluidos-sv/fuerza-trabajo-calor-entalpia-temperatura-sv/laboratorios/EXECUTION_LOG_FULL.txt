@@ -1,0 +1,301 @@
+===== lab_01_balance_canonico.py =====
+======================================================================
+LAB 01 — BALANCE CANÓNICO (Teorema 8.1)
+======================================================================
+  [BAL OK] A — Célula simétrica SV(3,4): residuo máx = 0.00e+00
+  [BAL-003 OK] A — Célula simétrica SV(3,4): cuarto término rechazado correctamente.
+  [BAL OK] B — Célula asimétrica SV(3,5): residuo máx = 4.44e-16
+  [BAL-003 OK] B — Célula asimétrica SV(3,5): cuarto término rechazado correctamente.
+  [BAL OK] C — Célula densa heterogénea SV(3,6): residuo máx = 1.78e-15
+  [BAL-003 OK] C — Célula densa heterogénea SV(3,6): cuarto término rechazado correctamente.
+  [BAL-004 OK] A — Célula simétrica SV(3,4) [adiabático]: 𝔇𝒜 = 𝒲 + 𝒰 verificado.
+  [BAL-005 OK] A — Célula simétrica SV(3,4) [clausura total]: 𝔇𝒜 = 𝒲 + 𝒬 verificado.
+  [BAL-004 OK] B — Célula asimétrica SV(3,5) [adiabático]: 𝔇𝒜 = 𝒲 + 𝒰 verificado.
+  [BAL-005 OK] B — Célula asimétrica SV(3,5) [clausura total]: 𝔇𝒜 = 𝒲 + 𝒬 verificado.
+  [BAL-004 OK] C — Célula densa heterogénea SV(3,6) [adiabático]: 𝔇𝒜 = 𝒲 + 𝒰 verificado.
+  [BAL-005 OK] C — Célula densa heterogénea SV(3,6) [clausura total]: 𝔇𝒜 = 𝒲 + 𝒬 verificado.
+----------------------------------------------------------------------
+LAB 01 — PASADO sin grietas. Teorema 8.1 verificado sobre 3 casos × 3 regímenes.
+
+
+===== lab_02_irreversibilidad.py =====
+======================================================================
+LAB 02 — IRREVERSIBILIDAD FACTUAL (Teorema 8.2)
+======================================================================
+  [IRR OK] A — Célula simétrica SV(3,4): min 𝔇𝓗 = 2.000e-01 ≥ 0;  min 𝓗 = 0.000e+00 ≥ 0
+  [IRR OK] B — Célula asimétrica SV(3,5): min 𝔇𝓗 = 2.000e-01 ≥ 0;  min 𝓗 = 0.000e+00 ≥ 0
+  [IRR OK] C — Célula densa heterogénea SV(3,6): min 𝔇𝓗 = 2.000e-01 ≥ 0;  min 𝓗 = 0.000e+00 ≥ 0
+  [IRR-002 OK] A — Célula simétrica SV(3,4): decremento artificial rechazado correctamente.
+  [IRR-002 OK] B — Célula asimétrica SV(3,5): decremento artificial rechazado correctamente.
+  [IRR-002 OK] C — Célula densa heterogénea SV(3,6): decremento artificial rechazado correctamente.
+  [append-only OK] A — Célula simétrica SV(3,4): 𝒜 no decrece y 𝓗 no decrece.
+  [append-only OK] B — Célula asimétrica SV(3,5): 𝒜 no decrece y 𝓗 no decrece.
+  [append-only OK] C — Célula densa heterogénea SV(3,6): 𝒜 no decrece y 𝓗 no decrece.
+----------------------------------------------------------------------
+LAB 02 — PASADO. Teorema 8.2 verificado; contraste adversarial discrimina IRR-002.
+
+
+===== lab_03_tres_formas_cruzadas.py =====
+======================================================================
+LAB 03 — TRES FORMAS CRUZADAS (Teorema 15.5)
+======================================================================
+
+  → Caso A — Célula simétrica SV(3,4), n0=0, n=2
+    [W OK] A^W(2) exp/imp/par = +2.9000/+2.9000/+2.9000
+    [Q OK] A^Q(2) exp/imp/par = +0.7000/+0.7000/+0.7000
+    [U OK] A^U(2) exp/imp/par = +0.6000/+0.6000/+0.6000
+    [A OK] A(2) exp/imp/par = +4.2000/+4.2000/+4.2000
+    [L OK] Λ(2) exp/imp/par = +5.2000/+5.2000/+5.2000
+    [F OK] 𝓕(2) exp/imp/par = +0.8000/+0.8000/+0.8000
+    [W OK] 𝒲(1) exp/imp/par = +1.4500/+1.4500/+1.4500
+    [Q OK] 𝒬(1) exp/imp/par = +0.3500/+0.3500/+0.3500
+    [U OK] 𝒰(1) exp/imp/par = +0.3000/+0.3000/+0.3000
+    [T OK] Θ(1) exp/imp/par = +1.4000/+1.4000/+1.4000
+
+  → Caso B — Célula asimétrica SV(3,5), n0=0, n=2
+    [W OK] A^W(2) exp/imp/par = +3.9000/+3.9000/+3.9000
+    [Q OK] A^Q(2) exp/imp/par = +0.6500/+0.6500/+0.6500
+    [U OK] A^U(2) exp/imp/par = +0.3500/+0.3500/+0.3500
+    [A OK] A(2) exp/imp/par = +4.9000/+4.9000/+4.9000
+    [L OK] Λ(2) exp/imp/par = +5.8000/+5.8000/+5.8000
+    [F OK] 𝓕(2) exp/imp/par = +1.0000/+1.0000/+1.0000
+    [W OK] 𝒲(1) exp/imp/par = +2.5000/+2.5000/+2.5000
+    [Q OK] 𝒬(1) exp/imp/par = +0.4000/+0.4000/+0.4000
+    [U OK] 𝒰(1) exp/imp/par = +0.1000/+0.1000/+0.1000
+    [T OK] Θ(1) exp/imp/par = +1.6000/+1.6000/+1.6000
+
+  → Caso C — Célula densa heterogénea SV(3,6), n0=0, n=2
+    [W OK] A^W(2) exp/imp/par = +2.7500/+2.7500/+2.7500
+    [Q OK] A^Q(2) exp/imp/par = +0.5500/+0.5500/+0.5500
+    [U OK] A^U(2) exp/imp/par = +0.5000/+0.5000/+0.5000
+    [A OK] A(2) exp/imp/par = +3.8000/+3.8000/+3.8000
+    [L OK] Λ(2) exp/imp/par = +4.3000/+4.3000/+4.3000
+    [F OK] 𝓕(2) exp/imp/par = +0.2000/+0.2000/+0.2000
+    [W OK] 𝒲(1) exp/imp/par = +1.4500/+1.4500/+1.4500
+    [Q OK] 𝒬(1) exp/imp/par = +0.2500/+0.2500/+0.2500
+    [U OK] 𝒰(1) exp/imp/par = +0.2500/+0.2500/+0.2500
+    [T OK] Θ(1) exp/imp/par = +1.1364/+1.1364/+1.1364
+
+  Total coincidencias verificadas: 90/90
+----------------------------------------------------------------------
+LAB 03 — PASADO. 90/90 coincidencias por tres caminos algebraicos distintos.
+
+
+===== lab_04_vector_director.py =====
+======================================================================
+LAB 04 — VECTOR DIRECTOR Y ORTOGONALIDAD CANÓNICA (§15.4)
+======================================================================
+  [GEN OK] 𝖦_SV = (+1, 0, 0, 0, 0, -1, -1, -1) verificado exactamente.
+  [ORT-001 OK] A — Célula simétrica SV(3,4): max|u⃗·𝖦| = 2.78e-16
+  [ORT-004 OK] A — Célula simétrica SV(3,4): u_A = u_W+u_Q+u_U verificado.
+  [contraste OK] A — Célula simétrica SV(3,4): director espúreo produce u·G = 0.100 ≠ 0 ✓
+  [ORT-001 OK] B — Célula asimétrica SV(3,5): max|u⃗·𝖦| = 1.11e-16
+  [ORT-004 OK] B — Célula asimétrica SV(3,5): u_A = u_W+u_Q+u_U verificado.
+  [contraste OK] B — Célula asimétrica SV(3,5): director espúreo produce u·G = 0.100 ≠ 0 ✓
+  [ORT-001 OK] C — Célula densa heterogénea SV(3,6): max|u⃗·𝖦| = 2.22e-16
+  [ORT-004 OK] C — Célula densa heterogénea SV(3,6): u_A = u_W+u_Q+u_U verificado.
+  [contraste OK] C — Célula densa heterogénea SV(3,6): director espúreo produce u·G = 0.100 ≠ 0 ✓
+----------------------------------------------------------------------
+LAB 04 — PASADO. Vector director ortogonal al normal en todos los pasos.
+
+
+===== lab_05_identidad_termometrica.py =====
+======================================================================
+LAB 05 — IDENTIDAD TERMOMÉTRICA Θ·𝔇𝓗 = 𝔇𝒬 (§10.4)
+======================================================================
+  [T-003 OK] A — Célula simétrica SV(3,4): Θ·𝔇𝓗 = 𝔇𝒬 con residuo 5.55e-17 sobre 3 pasos térmicos
+  [P5-001 OK] A — Célula simétrica SV(3,4): rival con k_B falla por factor 7.24e+22
+  [T-003 OK] B — Célula asimétrica SV(3,5): Θ·𝔇𝓗 = 𝔇𝒬 con residuo 0.00e+00 sobre 4 pasos térmicos
+  [P5-001 OK] B — Célula asimétrica SV(3,5): rival con k_B falla por factor 7.24e+22
+  [T-003 OK] C — Célula densa heterogénea SV(3,6): Θ·𝔇𝓗 = 𝔇𝒬 con residuo 0.00e+00 sobre 5 pasos térmicos
+  [P5-001 OK] C — Célula densa heterogénea SV(3,6): rival con k_B falla por factor 7.24e+22
+----------------------------------------------------------------------
+LAB 05 — PASADO. Identidad verificada; rival con k_B descartada dimensionalmente.
+
+
+===== lab_06_absorcion_limite_clasica.py =====
+======================================================================
+LAB 06 — ABSORCIÓN LÍMITE CLÁSICA (§10)
+======================================================================
+  [1er ppio OK] A — Célula simétrica SV(3,4) [clausura→clásico]: 𝔇𝒜 = 𝒲+𝒬 residuo 4.44e-16  ←→  dU = δW+δQ
+  [Gibbs OK] A — Célula simétrica SV(3,4) [clausura→clásico]: Θ·𝔇𝓗 = 𝔇𝒬 residuo 5.55e-17  ←→  T·dS = δQ
+  [U≡0 OK] A — Célula simétrica SV(3,4) [clausura→clásico]: canal U totalmente vacío.
+  [1er ppio OK] B — Célula asimétrica SV(3,5) [clausura→clásico]: 𝔇𝒜 = 𝒲+𝒬 residuo 8.88e-16  ←→  dU = δW+δQ
+  [Gibbs OK] B — Célula asimétrica SV(3,5) [clausura→clásico]: Θ·𝔇𝓗 = 𝔇𝒬 residuo 0.00e+00  ←→  T·dS = δQ
+  [U≡0 OK] B — Célula asimétrica SV(3,5) [clausura→clásico]: canal U totalmente vacío.
+  [1er ppio OK] C — Célula densa heterogénea SV(3,6) [clausura→clásico]: 𝔇𝒜 = 𝒲+𝒬 residuo 1.33e-15  ←→  dU = δW+δQ
+  [Gibbs OK] C — Célula densa heterogénea SV(3,6) [clausura→clásico]: Θ·𝔇𝓗 = 𝔇𝒬 residuo 0.00e+00  ←→  T·dS = δQ
+  [U≡0 OK] C — Célula densa heterogénea SV(3,6) [clausura→clásico]: canal U totalmente vacío.
+----------------------------------------------------------------------
+LAB 06 — PASADO. Primer principio y Gibbs recuperados en régimen clausura.
+
+
+===== lab_07_fuerza_helmholtz_factual.py =====
+======================================================================
+LAB 07 — FUERZA FACTUAL CANÓNICA (§6.5)
+======================================================================
+  [F composicion OK] A — Célula simétrica SV(3,4):
+      −∇φ promedio = -0.2667
+      ⋆d𝒜  promedio = +0.3333
+      𝒥·ê  promedio = +0.4000
+      𝓕 escalar promedio = +0.4667
+  [F composicion OK] B — Célula asimétrica SV(3,5):
+      −∇φ promedio = -0.3250
+      ⋆d𝒜  promedio = +0.3750
+      𝒥·ê  promedio = +0.3500
+      𝓕 escalar promedio = +0.4000
+  [F composicion OK] C — Célula densa heterogénea SV(3,6):
+      −∇φ promedio = -0.3600
+      ⋆d𝒜  promedio = +0.3600
+      𝒥·ê  promedio = +0.3000
+      𝓕 escalar promedio = +0.3000
+  [F-007 OK] A — Célula simétrica SV(3,4): 𝓕 canónica ≠ puro gradiente (Teorema 8.7 confirmado)
+  [F-007 OK] B — Célula asimétrica SV(3,5): 𝓕 canónica ≠ puro gradiente (Teorema 8.7 confirmado)
+  [F-007 OK] C — Célula densa heterogénea SV(3,6): 𝓕 canónica ≠ puro gradiente (Teorema 8.7 confirmado)
+  [F-001 OK] A — Célula simétrica SV(3,4): 𝓕 canónica ≠ (𝒲/Δε) por max diff = 1.700
+  [F-001 OK] B — Célula asimétrica SV(3,5): 𝓕 canónica ≠ (𝒲/Δε) por max diff = 1.800
+  [F-001 OK] C — Célula densa heterogénea SV(3,6): 𝓕 canónica ≠ (𝒲/Δε) por max diff = 1.350
+----------------------------------------------------------------------
+LAB 07 — PASADO. Las tres contribuciones canónicas activas; rivales descartadas.
+
+
+===== lab_08_unicidad_generador.py =====
+======================================================================
+LAB 08 — UNICIDAD DEL GENERADOR 𝖦_SV (Lema 5.1.b)
+======================================================================
+  [Canon OK] A — Célula simétrica SV(3,4): max |u·𝖦| = 4.44e-16
+  [Canon OK] B — Célula asimétrica SV(3,5): max |u·𝖦| = 0.00e+00
+  [Canon OK] C — Célula densa heterogénea SV(3,6): max |u·𝖦| = 2.22e-16
+  [GEN-003 OK] A — Célula simétrica SV(3,4): g_A=2 produce residuo 3.050 ≠ 0 (normalización canónica única)
+  [GEN-003 OK] B — Célula asimétrica SV(3,5): g_A=2 produce residuo 3.000 ≠ 0 (normalización canónica única)
+  [GEN-003 OK] C — Célula densa heterogénea SV(3,6): g_A=2 produce residuo 2.200 ≠ 0 (normalización canónica única)
+  [GEN-002 OK] A — Célula simétrica SV(3,4): g_J=0.5 sobre director perturbado → residuo 5.000e-02 ≠ 0
+  [GEN-002 OK] B — Célula asimétrica SV(3,5): g_J=0.5 sobre director perturbado → residuo 5.000e-02 ≠ 0
+  [GEN-002 OK] C — Célula densa heterogénea SV(3,6): g_J=0.5 sobre director perturbado → residuo 5.000e-02 ≠ 0
+  [GEN-004 OK] A — Célula simétrica SV(3,4): g_W=-0.5 produce residuo 1.250 ≠ 0
+  [GEN-004 OK] B — Célula asimétrica SV(3,5): g_W=-0.5 produce residuo 1.250 ≠ 0
+  [GEN-004 OK] C — Célula densa heterogénea SV(3,6): g_W=-0.5 produce residuo 0.725 ≠ 0
+  [Unicidad OK] Datos apilados de 3 casos (12 filas):
+      Núcleo 1D verificado, dirección = (+1, 0, -1, -1, -1)
+      Valor singular más pequeño: 4.677e-16
+      Rango efectivo: 4/5
+----------------------------------------------------------------------
+LAB 08 — PASADO. 𝖦_SV único por Lema 5.1.b; alternativas descartadas.
+
+
+===== lab_09_exhaustividad_tres_clases.py =====
+======================================================================
+LAB 09 — EXHAUSTIVIDAD DE LAS TRES CLASES (Teorema 15.8)
+======================================================================
+
+Revisión de candidatas a cuarta forma estructural:
+----------------------------------------------------------------------
+  [EXH reducida] 'forma integral: ∫ 𝔇_Γ Ω dν' → clase paramétrica
+      razón: La integral factual sobre trayectoria es suma iterada telescópica de 𝔇_Γ Ω desde punto base; idéntica a Definición 15.4.c.
+  [EXH reducida] 'forma matricial sobre kernel del covector' → clase implícita
+      razón: Caracterizar ker(𝖦_SV) como hiperplano es la ecuación 𝔇Ω·𝖦 = 0 reescrita en álgebra lineal.
+  [EXH reducida] 'forma por proyecciones múltiples (descomposición en 6 fórmulas)' → clase explícita
+      razón: La descomposición en 6 fórmulas de §15.2 es la forma explícita canónica.
+  [EXH reducida] 'forma dual con covector variable' → clase implícita
+      razón: Por Lema 5.1.b el covector canónico es único; fijarlo reduce a forma implícita.
+  [EXH descartada] 'forma variacional δS[Ω] = 0 con S funcional' → NO reducible (clase V, fuera de C1-C7)
+      razón: Requiere postular funcional externo; rompe C1 (no escalar nula lineal) y C4 (no lineal en 𝔇Ω). Descartada por §16.3 Teorema de exclusividad.
+  [EXH reducida] 'forma por autovalores del director' → clase paramétrica
+      razón: Análisis espectral de u⃗_SV sobre la base {π_W, π_Q, π_U}; reducción al desarrollo telescópico.
+  [EXH descartada] 'forma con derivada temporal d/dt' → NO reducible (viola P.1)
+      razón: Tiempo soberano prohibido por P.1 del §2.1. Descartada preliminar.
+
+Verificación de coherencia de las tres clases canónicas:
+----------------------------------------------------------------------
+  [3 clases OK] Las tres formas calculan A^W coherentemente en A, B, C.
+
+Contraste con cuarta clase sintética:
+----------------------------------------------------------------------
+  [Cuarta clase sintética OK] (A^W)² - A^W = -0.1275 ≠ 0 (no reducible a balance lineal; rechazada)
+----------------------------------------------------------------------
+LAB 09 — PASADO. 7 candidatas revisadas, ninguna es cuarta clase canónica.
+
+
+===== lab_10_consistencia_dimensional.py =====
+======================================================================
+LAB 10 — CONSISTENCIA DIMENSIONAL CON PILAR METROLÓGICO SV (§9)
+======================================================================
+  [Tabla OK] 16 magnitudes con dimensión declarada en pilar UFE/UFM/UFC/UFT/UFCE/UE_MFC
+  [DIM OK] Θ·𝔇𝓗 = 𝔇𝒬: [UFT]·[UFE/UFT] = [UFE] verificado numéricamente (4.5 UFE)
+  [P5-001 OK] Rival con k_B tiene dimensión distinta. Ratio canónica/rival = 7.24e+22
+  [DIM OK] A — Célula simétrica SV(3,4): magnitudes finitas, no negativas, Θ ≥ 0 en régimen térmico.
+  [DIM OK] B — Célula asimétrica SV(3,5): magnitudes finitas, no negativas, Θ ≥ 0 en régimen térmico.
+  [DIM OK] C — Célula densa heterogénea SV(3,6): magnitudes finitas, no negativas, Θ ≥ 0 en régimen térmico.
+----------------------------------------------------------------------
+LAB 10 — PASADO. Dimensiones consistentes, rival con k_B descartada.
+
+
+===== lab_11_celula_canonica_sv3_9.py =====
+======================================================================
+LAB 11 — CÉLULA CANÓNICA SV(3, 9) (Teorema 11.1)
+======================================================================
+  [CEL estructura OK] SV(3, 9) con d=3, N=9, partición ternaria simétrica (9 por canal).
+  [CEL balance OK] Residuo máx en 8 pasos = 1.78e-15
+      A^W(9) = 2.9630
+      A^Q(9) = 2.7693
+      A^U(9) = 2.9434
+      𝒜(9)   = 16.6757
+  [CEL irrev OK] 𝔇𝓗 ≥ 0 en los 8 pasos (min = 0.2500)
+  [CEL identidad Θ OK] Θ·𝔇𝓗 = 𝔇𝒬 en 8 pasos térmicos; residuo 0.00e+00
+  [CEL ortogonalidad OK] max|u⃗·𝖦| = 2.22e-16 sobre los 8 pasos
+  [Contraste OK] SV(3, 7) no cumple conteo canónico 3 por canal; condición CEL-001 identifica la diferencia estructural.
+----------------------------------------------------------------------
+LAB 11 — PASADO. SV(3, 9) consistente por tres vías (balance, irrev, Θ).
+
+
+===== lab_12_adversarial_rivales.py =====
+======================================================================
+LAB 12 — ADVERSARIAL FRENTE A 6 CLASES DE RIVALES (Teorema 16.3)
+======================================================================
+
+Criterios C1-C7 evaluados sobre cada rival:
+  C1 — escalar nula de primer orden
+  C2 — lineal en componentes del fibrado
+  C3 — covector constante único
+  C4 — sin operadores ajenos al corpus
+  C5 — consistente con pilar metrológico
+  C6 — exhaustivo sobre las tres clases
+  C7 — absorbe el límite clásico sin extras
+
+  [✗] R1 — suma de cuadrados: 2/7 criterios superados
+      FALLA C1: No es ecuación de primer orden en 𝔇Ω: introduce cuadrados.
+      FALLA C2: No es lineal: (𝒲+𝒬+𝒰)² ≠ 𝒲² + 𝒬² + 𝒰² en general.
+      FALLA C5: La dimensión de 𝒲² es UFE², no UFE; rompe pilar metrológico.
+      FALLA C6: No se reduce a ninguna de las tres formas canónicas.
+      FALLA C7: No absorbe dU = δW + δQ (reduce a cuadrados).
+  [✗] R2 — sistema separado: 4/7 criterios superados
+      FALLA C1: No hay ecuación única sino tres ecuaciones desacopladas.
+      FALLA C3: Tres covectores independientes, no único; Lema 5.1.b violado.
+      FALLA C6: No exhaustiva: rompe la clase implícita única.
+  [✗] R3 — Lagrangiana δL = 0: 2/7 criterios superados
+      FALLA C1: Es ecuación de Euler-Lagrange de segundo orden, no escalar nula de primer orden.
+      FALLA C2: Puede ser no lineal según el Lagrangiano postulado.
+      FALLA C3: No hay covector constante único; depende del L elegido.
+      FALLA C4: Requiere postular funcional L externo al corpus.
+      FALLA C6: No se reduce a las tres formas canónicas.
+  [✗] R4 — Hamiltoniana: 3/7 criterios superados
+      FALLA C1: Son dos ecuaciones de Hamilton, no ecuación escalar nula única.
+      FALLA C3: Hamiltoniano requiere coordenadas canónicas (q, p); Lema 5.1.b incompatible.
+      FALLA C4: Postula coordenadas externas (q, p) ajenas al corpus factual.
+      FALLA C6: Ruptura de la clase implícita única.
+  [✗] R5 — Legendre parcial: 4/7 criterios superados
+      FALLA C3: La transformación parcial introduce ambigüedad en el covector.
+      FALLA C4: La transformada de Legendre clásica no está en el corpus factual SV.
+      FALLA C6: No exhaustiva; rompe clase paramétrica.
+  [✗] R6 — dU = δW+δQ con k_B: 3/7 criterios superados
+      FALLA C4: Introduce k_B (constante ajena al corpus SV); viola P.5.
+      FALLA C5: Dimensión [k_B·𝒲] = J²/K, no UFE; rompe pilar metrológico.
+      FALLA C6: Falta canal U (no-clausura) obligatorio del SV; no exhaustiva.
+      FALLA C7: Ya es límite clásico puro; no absorbe SV sino al contrario.
+
+  Verificación adicional numérica de rivales clave:
+  [R1 numérico OK] 𝒲²+𝒬²+𝒰² ≠ (𝔇𝒜)² discrimina R1 numéricamente.
+  [R6 numérico OK] k_B rompe dimensionalidad por factor ≈ 10^22 en los 3 casos.
+----------------------------------------------------------------------
+LAB 12 — PASADO. Ningún rival supera 7/7 criterios; Teorema 16.3 confirmado.
+

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this laboratory package, please cite it using the metadata below."
+title: "Canonical laboratories of Force, Work, Heat, Enthalpy, Temperature and Thermodynamics in the Sistema Vectorial SV"
+type: software
+authors:
+  - family-names: "Lloret Egea"
+    given-names: "Juan Antonio"
+    orcid: "https://orcid.org/0000-0002-6634-3351"
+version: "v1.0.0"
+date-released: "2026-04-30"
+doi: "10.5281/zenodo.19900023"
+abstract: >
+  Reproducible Python laboratory package associated with the publication
+  "Force, Work, Heat, Enthalpy, Temperature, Principles and Foundations of
+  Thermodynamics, and the Correlation Among Them in the SV". The laboratories
+  verify canonical balance, factual irreversibility, three crossed algebraic
+  forms, director vector, thermometric identity, classical-limit absorption,
+  factual force, uniqueness of the generator, exhaustiveness of structural
+  classes, dimensional consistency, canonical cell SV(3,9), and adversarial
+  exclusion of rival formulations.
+keywords:
+  - Sistema Vectorial SV
+  - factual thermodynamics
+  - force
+  - work
+  - heat
+  - enthalpy
+  - temperature
+  - reproducible laboratories
+  - Python
+license: "CC-BY-NC-ND-4.0"

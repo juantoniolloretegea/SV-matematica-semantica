@@ -1,0 +1,145 @@
+{
+  "schema": "laboratorios-termodinamica-sv-manifest-v1-github",
+  "title": "Canonical laboratories of Force, Work, Heat, Enthalpy, Temperature and Thermodynamics in the Sistema Vectorial SV",
+  "publication": "Force, Work, Heat, Enthalpy, Temperature, Principles and Foundations of Thermodynamics, and the Correlation Among Them in the SV",
+  "publication_doi": "10.17613/ptw68-d1r57",
+  "collection_doi": "10.17613/r4dwa-d9b30",
+  "version": "v1.0.0",
+  "date": "2026-04-30",
+  "root_folder": "laboratorios",
+  "execution_summary": {
+    "labs_declared": 12,
+    "labs_present": 12,
+    "labs_passed": 12,
+    "catalog_error_codes": 120,
+    "syntax_ok": true,
+    "json_ok": true,
+    "bare_except_count": 0,
+    "except_exception_count": 0
+  },
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 1211,
+      "sha256": "047b32705a7007ad5f5a4fc2c3864a5529e4923bc47d345eabd35cf361948dbd"
+    },
+    {
+      "path": "EXECUTION_LOG_FULL.txt",
+      "size_bytes": 19713,
+      "sha256": "3580ba27e0dc925f584af99830079629feefca61a4a740c07b4eb9ac5beca4dc"
+    },
+    {
+      "path": "EXECUTION_REPORT.txt",
+      "size_bytes": 2219,
+      "sha256": "52369c4e767c2e3a8bc44a70424e4c4dde1c2c0e9135e3842d879dc1ce5f76de"
+    },
+    {
+      "path": "LICENSE.txt",
+      "size_bytes": 409,
+      "sha256": "855b7c947816302db952b1abb78cd83d0f85b0a50e172adde16c99aa94883ae6"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3954,
+      "sha256": "50ac23b62d5df9221581b47b71e05181c0ac6bcd465e4d3763932b837947dbb0"
+    },
+    {
+      "path": "catalogo_errores.json",
+      "size_bytes": 11519,
+      "sha256": "99d4234b35f09db12d1f5a9eb0bf22d746df29c758fd6e6d8f7e51378a97a606"
+    },
+    {
+      "path": "datos/casos_canonicos.json",
+      "size_bytes": 2594,
+      "sha256": "1b8e5fcbec184e386c2fe3be8578482442c1e3885127968a390296172128a0e6"
+    },
+    {
+      "path": "lab_01_balance_canonico.py",
+      "size_bytes": 5934,
+      "sha256": "def47420795af2d5d3baf7c9b9473cfef09c7318eac133db1ed27af64f8e6eb9"
+    },
+    {
+      "path": "lab_02_irreversibilidad.py",
+      "size_bytes": 4425,
+      "sha256": "29e4982cf2906cd01c0319cf7dcd19fae82c66a79166d24996bf235416b8362a"
+    },
+    {
+      "path": "lab_03_tres_formas_cruzadas.py",
+      "size_bytes": 4968,
+      "sha256": "9483da2f0451fe19ea1eda86c6b377a55aedf8bc5d5b9fa1c9d6a31ceaf93d57"
+    },
+    {
+      "path": "lab_04_vector_director.py",
+      "size_bytes": 5576,
+      "sha256": "33546902cac54ac7e6f72cda16dafd3f9957da0f77f1f74942c4452ab07fb454"
+    },
+    {
+      "path": "lab_05_identidad_termometrica.py",
+      "size_bytes": 4107,
+      "sha256": "7bfd35b496c6be93a5c39ac79e3072057f051d3888a4c435d98b0e0f18b4756c"
+    },
+    {
+      "path": "lab_06_absorcion_limite_clasica.py",
+      "size_bytes": 3945,
+      "sha256": "888ccd422510c7ca51b1ebcb906d903a2ddbcab2005c0863d5a74117fca2d85a"
+    },
+    {
+      "path": "lab_07_fuerza_helmholtz_factual.py",
+      "size_bytes": 5400,
+      "sha256": "4ddd51a25521091babf8c5be04c234c2b92816f6513c2d88e2ac8edcc60d4e8d"
+    },
+    {
+      "path": "lab_08_unicidad_generador.py",
+      "size_bytes": 8049,
+      "sha256": "e96c91fc2968b9112deb13435d16ce2739d0aa0b4299b96c8a2450d63bb100dc"
+    },
+    {
+      "path": "lab_09_exhaustividad_tres_clases.py",
+      "size_bytes": 6602,
+      "sha256": "a6295d11c2c19f664519398629bef9350a9304fe4e5546de958b45d9f9e8b610"
+    },
+    {
+      "path": "lab_10_consistencia_dimensional.py",
+      "size_bytes": 5235,
+      "sha256": "e1c756b240acabc434ae0764a7ac88bec976e4e143e80090909f2009e47de1ad"
+    },
+    {
+      "path": "lab_11_celula_canonica_sv3_9.py",
+      "size_bytes": 8679,
+      "sha256": "abc571e8e97d4e6681360969c4933f430098e48811d2e88cd7e9dbb98f4a73d8"
+    },
+    {
+      "path": "lab_12_adversarial_rivales.py",
+      "size_bytes": 9267,
+      "sha256": "fd8e95a06bf68906792f116335a8c0ef075ce6dc65e9a999dff4e6a340dc4e2d"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 6,
+      "sha256": "e09f656c130b9c08b2c5ab7187c891295e449ed77febea2a6ceee9cc98ccb0fc"
+    },
+    {
+      "path": "run_all.py",
+      "size_bytes": 350,
+      "sha256": "20b01778731ddcc9ea506efdd9f3f7e9200e9ef01621721d0539a9cd64046376"
+    },
+    {
+      "path": "runner.py",
+      "size_bytes": 6769,
+      "sha256": "c9f99f7176e4fde0f8c1724bbeb2b0c61d921a4bb57938dddd53d3e021312add"
+    },
+    {
+      "path": "runner_config.json",
+      "size_bytes": 2248,
+      "sha256": "f2eb9601c0872dff9f97adccb2e3eb84fec1097b8a7165cb6f58f11a92a9f554"
+    },
+    {
+      "path": "sv_core.py",
+      "size_bytes": 18375,
+      "sha256": "f1d57bc38179ef91fdf72f961717296524b3278ab28eeeefad51e6e98af0be04"
+    }
+  ],
+  "laboratory_zenodo_doi": "10.5281/zenodo.19900023",
+  "laboratory_zenodo_concept_doi": "10.5281/zenodo.19900022",
+  "canonical_github_url": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/fuerza-trabajo-calor-entalpia-temperatura-sv/laboratorios"
+}

@@ -1,0 +1,6 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea.
+
+Este paquete conserva laboratorios reproducibles asociados al Sistema Vectorial SV.
+La redistribución, reutilización y comunicación del material quedan sometidas a la licencia indicada y a las restricciones documentales declaradas por el autor.
