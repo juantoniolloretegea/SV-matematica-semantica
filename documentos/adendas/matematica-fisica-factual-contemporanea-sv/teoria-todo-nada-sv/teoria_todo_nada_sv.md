@@ -424,7 +424,7 @@ Este apartado define todos los objetos que la cadena ascendente del Sistema Vect
 
 ### 2.0. Identificación canónica de la ecuación rectora — 𝓔<sup>★</sup><sub>TODO,SV</sub> ≡ 𝔘<sup>unif</sup><sub>SV</sub>
 
-**Decisión de la esta publicación.** La ley rectora de la Teoría del TODO y de la NADA en el Sistema Vectorial SV se denota indistintamente por dos nombres complementarios:
+**Decisión.** La ley rectora de la Teoría del TODO y de la NADA en el Sistema Vectorial SV se denota indistintamente por dos nombres complementarios:
 
 ```math
 \boxed{ \;\mathcal{E}^{\star}_{TODO,\,SV}(\Gamma_{U};\,\tau) \;\equiv\; \mathfrak{U}^{\mathrm{unif}}_{SV}\bigl(\Phi^{1},\ldots,\Phi^{7};\,\{\mathcal{S}_{k}\}_{k=1,\ldots,7}\bigr) \;=\; 0.\; }
