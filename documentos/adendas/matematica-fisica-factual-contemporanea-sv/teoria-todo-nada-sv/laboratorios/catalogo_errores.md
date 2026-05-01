@@ -7,6 +7,9 @@
 **Licencia:** CC BY-NC-ND 4.0 — Protegida por [CEDRO](https://www.cedro.org/english?lng=en)
 **© 2026 Juan Antonio Lloret Egea. Todos los derechos reservados.**
 
+**Depósito Zenodo:** DOI [10.5281/zenodo.19954405](https://doi.org/10.5281/zenodo.19954405) — Registro [https://zenodo.org/records/19954405](https://zenodo.org/records/19954405)
+**Integridad:** SHA-256 `86cd1cdb1a2783aaf063914d83fae38495684e94d88b9c6bc049081311dfe8fc` (firma `.csig` + sello `.ots`)
+
 ---
 
 ## Cláusula de subordinación

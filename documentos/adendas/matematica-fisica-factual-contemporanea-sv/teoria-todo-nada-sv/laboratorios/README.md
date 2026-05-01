@@ -9,6 +9,41 @@
 
 ---
 
+## Depósito canónico en Zenodo
+
+El presente conjunto laboratorial se publica en Zenodo (CERN Data Centre & InvenioRDM) como software canónico bajo el DOI [`10.5281/zenodo.19954405`](https://doi.org/10.5281/zenodo.19954405).
+
+| Campo | Valor |
+|---|---|
+| **DOI** | [10.5281/zenodo.19954405](https://doi.org/10.5281/zenodo.19954405) |
+| **Registro Zenodo** | [https://zenodo.org/records/19954405](https://zenodo.org/records/19954405) |
+| **Versión** | v1 — 1 de mayo de 2026 |
+| **Fichero canónico** | `laboratorios.zip` |
+| **SHA-256** | `86cd1cdb1a2783aaf063914d83fae38495684e94d88b9c6bc049081311dfe8fc` |
+| **Firma digital** | `laboratorios.zip_signed.csig` (DER PKCS#7 Signed Data — firma desprendida del autor) |
+| **Sello temporal** | `laboratorios.zip.ots` (OpenTimestamps anclado en la blockchain de Bitcoin) |
+
+La integridad y autenticidad del depósito quedan garantizadas por la conjunción de los tres ficheros publicados conjuntamente en Zenodo. Cualquier modificación del fichero `laboratorios.zip` invalidaría tanto la firma digital como el sello temporal.
+
+**Verificación criptográfica por terceros:**
+
+```bash
+# Verificación SHA-256
+sha256sum laboratorios.zip
+# Debe producir: 86cd1cdb1a2783aaf063914d83fae38495684e94d88b9c6bc049081311dfe8fc
+
+# Verificación de la firma digital con OpenSSL
+openssl smime -verify -binary -inform DER \
+    -in laboratorios.zip_signed.csig \
+    -content laboratorios.zip \
+    -noverify -out /dev/null
+
+# Verificación del sello temporal con cliente OpenTimestamps
+ots verify laboratorios.zip.ots --file laboratorios.zip
+```
+
+---
+
 ## Cláusula de subordinación
 
 El conjunto laboratorial está **subordinado** al documento canónico fijado. Su función exclusiva es **verificar y cotejar** por cómputo determinista los enunciados del documento canónico. No introduce contenido doctrinal nuevo, no extiende, no reescribe y no propone. Si un laboratorio detectara un fallo de cotejo o un error material, lo reporta sin tocar el documento canónico.
@@ -126,3 +161,11 @@ Este conjunto laboratorial es vinculante exclusivamente cuando está vinculado a
 ## Cláusula de prevalencia
 
 En caso de discrepancia, divergencia, errata, omisión o cualquier incoherencia entre el conjunto laboratorial y el cuerpo del documento canónico, **prevalece el cuerpo del documento canónico**. Los laboratorios son subordinados al texto canónico, no al revés.
+
+## Citación canónica
+
+> Lloret Egea, J. A. (2026). *Canonical laboratories of Theory of Everything and Nothing (ToEN) within the Vectorial System SV*. Zenodo. [https://doi.org/10.5281/zenodo.19954405](https://doi.org/10.5281/zenodo.19954405)
+
+## Aclaración sobre la versión publicada en GitHub
+
+La versión publicada en este repositorio GitHub mantiene los mismos quince laboratorios canónicos depositados en Zenodo, con referencias bibliográficas explícitas al DOI canónico. La versión criptográficamente firmada y sellada es la disponible en Zenodo bajo el DOI [10.5281/zenodo.19954405](https://doi.org/10.5281/zenodo.19954405). Para verificación de integridad y autenticidad por terceros, descárguese el paquete `laboratorios.zip` con sus dos ficheros adjuntos `laboratorios.zip_signed.csig` y `laboratorios.zip.ots` directamente desde el registro Zenodo.
