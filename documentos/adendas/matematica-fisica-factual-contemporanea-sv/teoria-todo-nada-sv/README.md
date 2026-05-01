@@ -12,7 +12,7 @@
 
 ## Documento canónico
 
-📄 [**teoria_todo_nada_sv.md**](./teoria_todo_nada_sv.md)
+[**teoria_todo_nada_sv.md**](./teoria_todo_nada_sv.md)
 
 Refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K₃ⁿ, frontera común (μ, λ) = (0, 0) y verificador ternario fuerte 𝓝★_SV. La doctrina articula el TODO operatorio y la NADA admisible bajo una sola ecuación rectora canónica:
 

@@ -23,11 +23,11 @@
 
 ---
 
-**© 2026. Todos los derechos reservados.** | [**DOI**: el asignado sobre la colección: [«Contemporary Factual Mathematics and Physics of the SV»](https://works.hcommons.org/collections/matematica-fisica-factual-contemporanea-sv/records?q=&l=list&p=1&s=10&sort=newest)| **Juan Antonio Lloret Egea** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 30/04/2026 |
+**© 2026. Todos los derechos reservados.** | [**DOI**: el asignado sobre la colección: [«Contemporary Factual Mathematics and Physics of the SV»](https://works.hcommons.org/collections/matematica-fisica-factual-contemporanea-sv/records?q=&l=list&p=1&s=10&sort=newest)| **Juan Antonio Lloret Egea** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 01/05/2026 |
 
-**Advertencia**: Esta publicación está protegida por **[CEDRO](https://www.cedro.org/english?lng=en)** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido.
+**Advertencia**: Esta publicación está protegida por **[CEDRO](https://www.cedro.org/english?lng=en)** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido. | [**Registro histórico**](https://web.archive.org/save/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv ) | [**URL canónica**:](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md)
 
-**Warning**: This publication is protected by **[CEDRO](https://www.cedro.org/english?lng=en)**. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
+**Warning**: This publication is protected by **[CEDRO](https://www.cedro.org/english?lng=en)**. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing. | [**Historical Record**](https://web.archive.org/save/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv ) |  [**Canonical URL**:](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md)
 
 ---
 
@@ -424,7 +424,7 @@ Este apartado define todos los objetos que la cadena ascendente del Sistema Vect
 
 ### 2.0. Identificación canónica de la ecuación rectora — 𝓔<sup>★</sup><sub>TODO,SV</sub> ≡ 𝔘<sup>unif</sup><sub>SV</sub>
 
-**Decisión de la esta publicación.** La ley rectora de la Teoría del TODO y de la NADA en el Sistema Vectorial SV se denota indistintamente por dos nombres complementarios:
+**Decisión.** La ley rectora de la Teoría del TODO y de la NADA en el Sistema Vectorial SV se denota indistintamente por dos nombres complementarios:
 
 ```math
 \boxed{ \;\mathcal{E}^{\star}_{TODO,\,SV}(\Gamma_{U};\,\tau) \;\equiv\; \mathfrak{U}^{\mathrm{unif}}_{SV}\bigl(\Phi^{1},\ldots,\Phi^{7};\,\{\mathcal{S}_{k}\}_{k=1,\ldots,7}\bigr) \;=\; 0.\; }
@@ -467,7 +467,7 @@ Esto significa que la **célula canónica del SV** es la pareja (n, b) con la re
 | **SV(9, 3)** | Doc. teoría rigurosa del suceso admisible (Lloret Egea, 2026, §5.1); doc. fundamentos algebraico-semánticos (§3.1) | (n = 9, b = 3): nueve parámetros, alfabeto ternario |
 | **SV(3, 9)** | Doc. teoría general de sucesos generadores y protocampos unificados (Lloret Egea, 2026, §17) | (b = 3, n = 9): alfabeto ternario, nueve parámetros |
 
-**Estatuto canónico de la diferencia.** Las dos notaciones son **variaciones circunstanciales del mismo objeto canónico**. Designan la misma célula 𝒮<sub>9</sub> = {0, 1, U}<sup>9</sup> bajo dos órdenes notacionales distintos: el primero antepone n y postpone b; el segundo antepone b y postpone n. El orden notacional no altera la cardinalidad 3⁹ = 19 683, no altera la estructura algebraico-semántica, no altera la representación polar visible y no altera ninguna fórmula absoluta del corpus.
+**Estatuto de la diferencia.** Las dos notaciones son **variaciones circunstanciales del mismo objeto canónico**. Designan la misma célula 𝒮<sub>9</sub> = {0, 1, U}<sup>9</sup> bajo dos órdenes notacionales distintos: el primero antepone n y postpone b; el segundo antepone b y postpone n. El orden notacional no altera la cardinalidad 3⁹ = 19 683, no altera la estructura algebraico-semántica, no altera la representación polar visible y no altera ninguna fórmula absoluta del corpus.
 
 **Convención adoptada en la esta publicación.** Por consistencia con el documento canónico de fundamentos algebraico-semánticos —que es el documento ontológico primario del SV—, la publicación utiliza la notación **SV(9, 3)**. Las apariciones de SV(3, 9) en el corpus se leen, sin alteración alguna, como referencias a la misma célula 𝒮<sub>9</sub>.
 
@@ -1031,7 +1031,7 @@ y por tanto Δ<sup>Φ</sup><sub>q</sub> = 0.
 \sum_{k=l_{q}}^{r_{q}-1} \bigl(\, \Phi(S_{k+1}) \,-\, \Phi(S_{k}) \,\bigr) \;=\; \Phi(S_{r_{q}}) \,-\, \Phi(S_{l_{q}}),
 ```
 
-por suma telescópica. Por monotonía, este valor es no negativo y coincide con D<sup>SV</sup><sub>Φ</sub>(Γ<sub>q</sub>) = \| Φ(S<sub>r<sub>q</sub></sub>) − Φ(S<sub>l<sub>q</sub></sub>) \|. Entonces la diferencia entre las dos magnitudes es 0 y ζ<sub>SV</sub>(0) = 0. ∎
+por suma telescópica. Por monotonía, este valor es no negativo y coincide con D<sup>SV</sup><sub>Φ</sub>(Γ<sub>q</sub>) = \| Φ(S<sub>r<sub>q</sub></sub>) − Φ(S<sub>l<sub>q</sub></sub>) \|. Entonces la diferencia entre las dos magnitudes es 0 y ζ<sub>SV</sub>(0) = 0. Q.E.D.
 
 **Corolario T1.1.** El recíproco no se cumple en general: existen cadenas no monótonas que también satisfacen Δ<sup>Φ</sup><sub>q</sub> = 0 (por compensación de signos), pero el contraejemplo del apartado 8.4 muestra que la coherencia telescópica falla genéricamente para observables no monótonos sobre trayectorias con ida y vuelta.
 
@@ -1777,7 +1777,7 @@ Análoga estructural a la forma paramétrica x = x<sub>0</sub> + t · v<sub>x</s
 \mathcal{N}^{\star}_{SV}(x_{1}, \ldots, x_{m}) \;=\; \begin{cases} 0, & \text{si } x_{j} = 0 \;\;\forall\, j, \\ 1, & \text{si } \exists\, j \;:\; x_{j} = 1, \\ U, & \text{si } \neg\,\exists\, j \;:\; x_{j} = 1 \;\wedge\; \exists\, j \;:\; x_{j} = U. \end{cases}
 ```
 
-Las cinco formas F1-F5 son **distintas presentaciones del mismo conjunto de argumentos canónicos**: F2 los enumera, F3 los reagrupa por sectores operatorios y por identidades intersectoriales, F4 los conjuga uno a uno, F5 los recorre por barrido del parámetro de ciclo q. F1 es la nominación compacta del cierre. Por unicidad de la regla del verificador y por exhaustividad de los componentes en cada forma, el veredicto producido es idéntico sobre toda inscripción factual válida. ∎
+Las cinco formas F1-F5 son **distintas presentaciones del mismo conjunto de argumentos canónicos**: F2 los enumera, F3 los reagrupa por sectores operatorios y por identidades intersectoriales, F4 los conjuga uno a uno, F5 los recorre por barrido del parámetro de ciclo q. F1 es la nominación compacta del cierre. Por unicidad de la regla del verificador y por exhaustividad de los componentes en cada forma, el veredicto producido es idéntico sobre toda inscripción factual válida. Q.E.D.
 
 #### 17.6.3. Demostración numérica sobre tres escenarios canónicos
 
@@ -2915,11 +2915,11 @@ La verificación numérica componente a componente sobre los diez supuestos del 
 
 (c) Si 𝓔<sub>D</sub> es una ley admisible adicional incluida en 𝓛<sup>adm</sup><sub>SV</sub>(τ) por refinamiento del estado corpus τ, su admisibilidad exige que admita proyección Π<sub>D</sub> con verificación por δ<sub>SV</sub>; por la Definición §K.7 del corpus de teoría general de sucesos generadores y protocampos unificados (compatibilidad G<sup>★★</sup><sub>SV</sub> ↔ 𝔘<sup>unif</sup><sub>SV</sub>), tal verificación produce 0 cuando 𝔘<sup>unif</sup><sub>SV</sub> = 0 sobre la trayectoria.
 
-La conjunción de (a), (b) y (c) cubre exhaustivamente 𝓛<sup>adm</sup><sub>SV</sub>(τ). Q.E.D. ∎
+La conjunción de (a), (b) y (c) cubre exhaustivamente 𝓛<sup>adm</sup><sub>SV</sub>(τ). Q.E.D.
 
 **Corolario T8.1 (preservación recíproca).** Si toda ley admisible 𝓔<sub>D</sub> ∈ 𝓛<sup>adm</sup><sub>SV</sub>(τ) verifica 𝓔<sub>D</sub>(Π<sub>D</sub>(Γ<sub>U</sub>)) = 0 exactamente, entonces 𝓔<sup>★</sup><sub>TODO,SV</sub>(Γ<sub>U</sub>; τ) = 0.
 
-*Demostración del corolario.* Por el Teorema T7, los siete operadores sectoriales y las siete identidades intersectoriales coinciden con las absorciones canónicas. Si las once absorciones del §18.7 producen valor 0, entonces los siete sectores y las siete identidades del operador maestro producen valor 0 simultáneamente. Por la cláusula C.2 del operador ⊕, esto equivale a 𝔘<sup>unif</sup><sub>SV</sub> = 0 = 𝓔<sup>★</sup><sub>TODO,SV</sub>. ∎
+*Demostración del corolario.* Por el Teorema T7, los siete operadores sectoriales y las siete identidades intersectoriales coinciden con las absorciones canónicas. Si las once absorciones del §18.7 producen valor 0, entonces los siete sectores y las siete identidades del operador maestro producen valor 0 simultáneamente. Por la cláusula C.2 del operador ⊕, esto equivale a 𝔘<sup>unif</sup><sub>SV</sub> = 0 = 𝓔<sup>★</sup><sub>TODO,SV</sub>. Q.E.D.
 
 ### 23.3. Teorema T9 — Cumplimiento canónico de las prohibiciones P.1-P.6
 
