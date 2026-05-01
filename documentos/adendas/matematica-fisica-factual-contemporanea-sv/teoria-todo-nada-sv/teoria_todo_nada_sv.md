@@ -467,7 +467,7 @@ Esto significa que la **célula canónica del SV** es la pareja (n, b) con la re
 | **SV(9, 3)** | Doc. teoría rigurosa del suceso admisible (Lloret Egea, 2026, §5.1); doc. fundamentos algebraico-semánticos (§3.1) | (n = 9, b = 3): nueve parámetros, alfabeto ternario |
 | **SV(3, 9)** | Doc. teoría general de sucesos generadores y protocampos unificados (Lloret Egea, 2026, §17) | (b = 3, n = 9): alfabeto ternario, nueve parámetros |
 
-**Estatuto canónico de la diferencia.** Las dos notaciones son **variaciones circunstanciales del mismo objeto canónico**. Designan la misma célula 𝒮<sub>9</sub> = {0, 1, U}<sup>9</sup> bajo dos órdenes notacionales distintos: el primero antepone n y postpone b; el segundo antepone b y postpone n. El orden notacional no altera la cardinalidad 3⁹ = 19 683, no altera la estructura algebraico-semántica, no altera la representación polar visible y no altera ninguna fórmula absoluta del corpus.
+**Estatuto de la diferencia.** Las dos notaciones son **variaciones circunstanciales del mismo objeto canónico**. Designan la misma célula 𝒮<sub>9</sub> = {0, 1, U}<sup>9</sup> bajo dos órdenes notacionales distintos: el primero antepone n y postpone b; el segundo antepone b y postpone n. El orden notacional no altera la cardinalidad 3⁹ = 19 683, no altera la estructura algebraico-semántica, no altera la representación polar visible y no altera ninguna fórmula absoluta del corpus.
 
 **Convención adoptada en la esta publicación.** Por consistencia con el documento canónico de fundamentos algebraico-semánticos —que es el documento ontológico primario del SV—, la publicación utiliza la notación **SV(9, 3)**. Las apariciones de SV(3, 9) en el corpus se leen, sin alteración alguna, como referencias a la misma célula 𝒮<sub>9</sub>.
 
