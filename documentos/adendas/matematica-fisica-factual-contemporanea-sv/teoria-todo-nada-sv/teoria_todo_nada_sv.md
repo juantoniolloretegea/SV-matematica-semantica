@@ -1031,7 +1031,7 @@ y por tanto Δ<sup>Φ</sup><sub>q</sub> = 0.
 \sum_{k=l_{q}}^{r_{q}-1} \bigl(\, \Phi(S_{k+1}) \,-\, \Phi(S_{k}) \,\bigr) \;=\; \Phi(S_{r_{q}}) \,-\, \Phi(S_{l_{q}}),
 ```
 
-por suma telescópica. Por monotonía, este valor es no negativo y coincide con D<sup>SV</sup><sub>Φ</sub>(Γ<sub>q</sub>) = \| Φ(S<sub>r<sub>q</sub></sub>) − Φ(S<sub>l<sub>q</sub></sub>) \|. Entonces la diferencia entre las dos magnitudes es 0 y ζ<sub>SV</sub>(0) = 0. ∎
+por suma telescópica. Por monotonía, este valor es no negativo y coincide con D<sup>SV</sup><sub>Φ</sub>(Γ<sub>q</sub>) = \| Φ(S<sub>r<sub>q</sub></sub>) − Φ(S<sub>l<sub>q</sub></sub>) \|. Entonces la diferencia entre las dos magnitudes es 0 y ζ<sub>SV</sub>(0) = 0. Q.E.D.
 
 **Corolario T1.1.** El recíproco no se cumple en general: existen cadenas no monótonas que también satisfacen Δ<sup>Φ</sup><sub>q</sub> = 0 (por compensación de signos), pero el contraejemplo del apartado 8.4 muestra que la coherencia telescópica falla genéricamente para observables no monótonos sobre trayectorias con ida y vuelta.
 
@@ -1777,7 +1777,7 @@ Análoga estructural a la forma paramétrica x = x<sub>0</sub> + t · v<sub>x</s
 \mathcal{N}^{\star}_{SV}(x_{1}, \ldots, x_{m}) \;=\; \begin{cases} 0, & \text{si } x_{j} = 0 \;\;\forall\, j, \\ 1, & \text{si } \exists\, j \;:\; x_{j} = 1, \\ U, & \text{si } \neg\,\exists\, j \;:\; x_{j} = 1 \;\wedge\; \exists\, j \;:\; x_{j} = U. \end{cases}
 ```
 
-Las cinco formas F1-F5 son **distintas presentaciones del mismo conjunto de argumentos canónicos**: F2 los enumera, F3 los reagrupa por sectores operatorios y por identidades intersectoriales, F4 los conjuga uno a uno, F5 los recorre por barrido del parámetro de ciclo q. F1 es la nominación compacta del cierre. Por unicidad de la regla del verificador y por exhaustividad de los componentes en cada forma, el veredicto producido es idéntico sobre toda inscripción factual válida. ∎
+Las cinco formas F1-F5 son **distintas presentaciones del mismo conjunto de argumentos canónicos**: F2 los enumera, F3 los reagrupa por sectores operatorios y por identidades intersectoriales, F4 los conjuga uno a uno, F5 los recorre por barrido del parámetro de ciclo q. F1 es la nominación compacta del cierre. Por unicidad de la regla del verificador y por exhaustividad de los componentes en cada forma, el veredicto producido es idéntico sobre toda inscripción factual válida. Q.E.D.
 
 #### 17.6.3. Demostración numérica sobre tres escenarios canónicos
 
@@ -2915,11 +2915,11 @@ La verificación numérica componente a componente sobre los diez supuestos del 
 
 (c) Si 𝓔<sub>D</sub> es una ley admisible adicional incluida en 𝓛<sup>adm</sup><sub>SV</sub>(τ) por refinamiento del estado corpus τ, su admisibilidad exige que admita proyección Π<sub>D</sub> con verificación por δ<sub>SV</sub>; por la Definición §K.7 del corpus de teoría general de sucesos generadores y protocampos unificados (compatibilidad G<sup>★★</sup><sub>SV</sub> ↔ 𝔘<sup>unif</sup><sub>SV</sub>), tal verificación produce 0 cuando 𝔘<sup>unif</sup><sub>SV</sub> = 0 sobre la trayectoria.
 
-La conjunción de (a), (b) y (c) cubre exhaustivamente 𝓛<sup>adm</sup><sub>SV</sub>(τ). Q.E.D. ∎
+La conjunción de (a), (b) y (c) cubre exhaustivamente 𝓛<sup>adm</sup><sub>SV</sub>(τ). Q.E.D.
 
 **Corolario T8.1 (preservación recíproca).** Si toda ley admisible 𝓔<sub>D</sub> ∈ 𝓛<sup>adm</sup><sub>SV</sub>(τ) verifica 𝓔<sub>D</sub>(Π<sub>D</sub>(Γ<sub>U</sub>)) = 0 exactamente, entonces 𝓔<sup>★</sup><sub>TODO,SV</sub>(Γ<sub>U</sub>; τ) = 0.
 
-*Demostración del corolario.* Por el Teorema T7, los siete operadores sectoriales y las siete identidades intersectoriales coinciden con las absorciones canónicas. Si las once absorciones del §18.7 producen valor 0, entonces los siete sectores y las siete identidades del operador maestro producen valor 0 simultáneamente. Por la cláusula C.2 del operador ⊕, esto equivale a 𝔘<sup>unif</sup><sub>SV</sub> = 0 = 𝓔<sup>★</sup><sub>TODO,SV</sub>. ∎
+*Demostración del corolario.* Por el Teorema T7, los siete operadores sectoriales y las siete identidades intersectoriales coinciden con las absorciones canónicas. Si las once absorciones del §18.7 producen valor 0, entonces los siete sectores y las siete identidades del operador maestro producen valor 0 simultáneamente. Por la cláusula C.2 del operador ⊕, esto equivale a 𝔘<sup>unif</sup><sub>SV</sub> = 0 = 𝓔<sup>★</sup><sub>TODO,SV</sub>. Q.E.D.
 
 ### 23.3. Teorema T9 — Cumplimiento canónico de las prohibiciones P.1-P.6
 
