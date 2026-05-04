@@ -64,7 +64,7 @@ El PDF del manuscrito ha sido firmado digitalmente por el autor con su certifica
 | **Sello temporal** | `PDF/De Bell a Tsirelson sin formalismo de Hilbert.pdf.ots` (OpenTimestamps anclado en Bitcoin) |
 | **Firmante** | Juan Antonio Lloret Egea — certificado FNMT-RCM (España) bajo eIDAS |
 | **Fecha de redacción** | 02/05/2026 |
-| **DOI doctrinal** | [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) (Knowledge Commons) |
+| **DOI doctrinal** |[10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) (Knowledge Commons) |
 
 **Verificación por terceros:**
 
