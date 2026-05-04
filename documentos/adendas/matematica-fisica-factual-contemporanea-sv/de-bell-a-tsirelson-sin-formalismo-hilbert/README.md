@@ -14,7 +14,7 @@
 **Institución:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)
 **Editor:** IA eñ™ — La Biblia de la IA™
 **ISSN:** 2695-6411
-**DOI del manuscrito:** [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66)
+**DOI del manuscrito:** [10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45)
 **Licencia:** CC BY-NC-ND 4.0 — Protegida por [CEDRO](https://www.cedro.org/english?lng=en)
 **Madrid, 02/05/2026**
 
@@ -35,7 +35,7 @@ El núcleo técnico es el **Teorema de unicidad del coseno factual acoplado** (T
 
 Esta publicación articula tres fuentes canónicas verificables, mutuamente referenciadas:
 
-1. **Documento doctrinal (Knowledge Commons).** DOI [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) — fuente autoritativa del manuscrito firmado, dentro de la colección [*Contemporary Factual Mathematics and Physics of the SV*](https://works.hcommons.org/collections/matematica-fisica-factual-contemporanea-sv/).
+1. **Documento doctrinal (Knowledge Commons).** DOI [10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45) — fuente autoritativa del manuscrito firmado, dentro de la colección [*Contemporary Factual Mathematics and Physics of the SV*](https://works.hcommons.org/collections/matematica-fisica-factual-contemporanea-sv/).
 2. **Repositorio vivo (este GitHub).** Texto en Markdown editable, materiales gráficos, PDF firmado con sello temporal y conjunto laboratorial espejado bit-a-bit con Zenodo.
 3. **Conjunto laboratorial reproducible (Zenodo).** DOI [10.5281/zenodo.20020201](https://doi.org/10.5281/zenodo.20020201) — software canónico independientemente versionable y citable.
 
@@ -64,7 +64,7 @@ El PDF del manuscrito ha sido firmado digitalmente por el autor con su certifica
 | **Sello temporal** | `PDF/De Bell a Tsirelson sin formalismo de Hilbert.pdf.ots` (OpenTimestamps anclado en Bitcoin) |
 | **Firmante** | Juan Antonio Lloret Egea — certificado FNMT-RCM (España) bajo eIDAS |
 | **Fecha de redacción** | 02/05/2026 |
-| **DOI doctrinal** | [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) (Knowledge Commons) |
+| **DOI doctrinal** | [10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45) (Knowledge Commons) |
 
 **Verificación por terceros:**
 
@@ -121,7 +121,7 @@ En caso de discrepancia entre las distintas representaciones del documento (PDF 
 
 ## Citación recomendada
 
-Lloret Egea, J. A. (2026). *De Bell a Tsirelson sin formalismo de Hilbert: aparato determinista no local del Sistema Vectorial SV con alfabeto ternario, unicidad del correlador angular factual acoplado y derivación estructural de la cota cuántica*. ITVIA, IA eñ™ — La Biblia de la IA™. ISSN 2695-6411. DOI: [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66).
+Lloret Egea, J. A. (2026). *De Bell a Tsirelson sin formalismo de Hilbert: aparato determinista no local del Sistema Vectorial SV con alfabeto ternario, unicidad del correlador angular factual acoplado y derivación estructural de la cota cuántica*. ITVIA, IA eñ™ — La Biblia de la IA™. ISSN 2695-6411. DOI: [10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45).
 
 Para el conjunto laboratorial subordinado, citar adicionalmente:
 
