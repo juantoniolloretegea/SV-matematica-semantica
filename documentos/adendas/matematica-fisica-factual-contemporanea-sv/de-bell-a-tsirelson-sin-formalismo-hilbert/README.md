@@ -35,7 +35,7 @@ El núcleo técnico es el **Teorema de unicidad del coseno factual acoplado** (T
 
 Esta publicación articula tres fuentes canónicas verificables, mutuamente referenciadas:
 
-1. **Documento doctrinal (Knowledge Commons).** DOI [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) — fuente autoritativa del manuscrito firmado, dentro de la colección [*Contemporary Factual Mathematics and Physics of the SV*](https://works.hcommons.org/collections/matematica-fisica-factual-contemporanea-sv/).
+1. **Documento doctrinal (Knowledge Commons).**DOI** [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) — fuente autoritativa del manuscrito firmado, dentro de la colección [*Contemporary Factual Mathematics and Physics of the SV*](https://works.hcommons.org/collections/matematica-fisica-factual-contemporanea-sv/).
 2. **Repositorio vivo (este GitHub).** Texto en Markdown editable, materiales gráficos, PDF firmado con sello temporal y conjunto laboratorial espejado bit-a-bit con Zenodo.
 3. **Conjunto laboratorial reproducible (Zenodo).** DOI [10.5281/zenodo.20020201](https://doi.org/10.5281/zenodo.20020201) — software canónico independientemente versionable y citable.
 
