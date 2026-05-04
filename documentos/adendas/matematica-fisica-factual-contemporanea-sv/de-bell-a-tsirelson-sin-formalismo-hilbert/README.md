@@ -14,7 +14,7 @@
 **Institución:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)
 **Editor:** IA eñ™ — La Biblia de la IA™
 **ISSN:** 2695-6411
-**DOI** de la publicación: [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66)
+**DOI** de la publicación: [10.17613/1666c-c5g66](https://works.hcommons.org/records/1666c-c5g66)
 **Licencia:** CC BY-NC-ND 4.0 — Protegida por [CEDRO](https://www.cedro.org/english?lng=en)
 **Madrid, 02/05/2026**
 
