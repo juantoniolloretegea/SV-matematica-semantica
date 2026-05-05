@@ -37,7 +37,7 @@ La publicación demuestra explícitamente, mediante reducción formal con teorem
 
 3. **Operador de traducción bidireccional 𝓣** con asimetría estructural identificada: identidad estricta del régimen geométrico al binario, identidad módulo proyección del binario al geométrico.
 
-4. **Recuperación de la regla de Born como ley operativa derivada** sin axioma probabilístico fundante. La frecuencia relativa observada bajo proyección al alfabeto binario y agregación finita se obtiene estructuralmente del correlador único C<sub>SV</sub>(δ) = −cos δ y coincide cuantitativamente con cos²(δ/2).
+4. **Regla de Born como ley operativa derivada** sin axioma probabilístico fundante. La frecuencia relativa observada bajo proyección al alfabeto binario y agregación finita se obtiene estructuralmente del correlador único C<sub>SV</sub>(δ) = −cos δ y coincide cuantitativamente con cos²(δ/2).
 
 5. **Falsabilidad popperiana estructural** establecida mediante tres criterios operativos contrastables experimentalmente.
 
