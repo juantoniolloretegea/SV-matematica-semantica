@@ -1233,13 +1233,13 @@ La conclusión, sostenida formalmente por los Teoremas 5.5.2.1 (con desarrollo a
 
 El anexo evalúa programas laterales mediante el vector de incidencia 𝓘<sub>inc</sub>(𝓣)=(ε<sub>𝓕</sub>,ε<sub>𝕴</sub>,ε<sub>𝔠</sub>,ε<sub>TODO</sub>). Cada programa se examina por operador principal, mapa de reducción, ejemplo numérico cuando procede, teorema local y dictamen. El resultado admitido es triple: subordinada, subordinable por tipado, o sin legitimidad estructural suficiente como objeción.
 
-### 14.2. Índice propio del anexo
+### 14.2. Índice del anexo
 
-14.1. Resumen del anexo. 
-14.2. Índice propio. 
-14.3. Criterio de incidencia. 
-14.4-14.17. Programas laterales. 
-14.18. Tabla final. 
+14.1. Resumen del anexo.
+14.2. Índice propio.
+14.3. Criterio de incidencia.
+14.4-14.17. Programas laterales.
+14.18. Tabla final.
 14.19. Teorema final del anexo.
 
 ### 14.3. Criterio de incidencia
