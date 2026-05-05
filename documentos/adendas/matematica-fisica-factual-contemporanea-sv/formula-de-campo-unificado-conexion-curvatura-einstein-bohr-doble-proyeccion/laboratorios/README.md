@@ -2,6 +2,7 @@
 
 <p align="center"><img src="../imagenes/Portada.png" alt="Portada — Fórmula de Campo Unificado 𝓕_𝓐 = d𝓐 + 𝓐 ∧ 𝓐 con 𝓐 = ω ⊕ A" width="900"></p>
 
+**Copyright**: © 2026.Todos los derechos reservados. Juan Antonio Lloret Egea
 **Autor:** Juan Antonio Lloret Egea
 **ORCID:** 0000-0002-6634-3351
 **Sello editorial:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)
