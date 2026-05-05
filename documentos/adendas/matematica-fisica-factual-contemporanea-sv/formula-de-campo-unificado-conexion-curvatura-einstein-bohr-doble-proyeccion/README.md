@@ -10,8 +10,8 @@
 
 **Warning.** This publication is protected by **CEDRO**. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
 
-**Nota**: para acceder a los hipervínculos DOI, por motivos de funcionalidad, copie del hipervínculo la url y péguela en el navegador.
-**Note**: for the DOI hyperlinks to resolve correctly, copy the URL from each link and paste it into the browser address bar.
+**Nota**: para acceder a los hipervínculos DOI, por motivos de funcionalidad, copie del hipervínculo la url y péguela en el navegador.  
+**Note**: for the DOI hyperlinks to resolve correctly, copy the URL from each link and paste it into the browser address bar.  
 
 ---
 
