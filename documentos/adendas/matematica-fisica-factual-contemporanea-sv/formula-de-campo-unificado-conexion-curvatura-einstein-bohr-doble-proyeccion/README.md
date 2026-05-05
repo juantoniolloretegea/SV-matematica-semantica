@@ -69,7 +69,7 @@ Resultado esperado: `verdict: PASS` con 68 verificaciones superadas y verificaci
 
 ## Bibliografía SV asociada (DOIs verificados)
 
-- **Bell-Tsirelson sin formalismo de Hilbert** — DOI [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) /br 
+- **Bell-Tsirelson sin formalismo de Hilbert** — DOI [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) <br> 
 - **Teoría del TODO y de la NADA** — DOI [10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45)
 - **Sucesos generadores y protocampos unificados** — DOI [10.17613/177nb-v2465](https://doi.org/10.17613/177nb-v2465)
 - **Reducción Maxwell SV** — DOI [10.17613/kep1t-57539](https://doi.org/10.17613/kep1t-57539)
