@@ -57,7 +57,7 @@ Resultado esperado: `verdict: PASS` con 68 verificaciones superadas y verificaci
 | DOI de la publicación | [10.17613/gxfv3-qjj64](https://doi.org/10.17613/gxfv3-qjj64) |
 | DOI del laboratorio reproducible (Zenodo) | [10.5281/zenodo.20041095](https://doi.org/10.5281/zenodo.20041095) |
 | PDF firmado y sello temporal | [PDF/](./PDF/) |
-| Internet Archive | [Internet Archive](https://web.archive.org/save/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/formula-de-campo-unificado-conexion-curvatura-einstein-bohr-doble-proyeccion/PDF) |
+| Internet Archive | [Internet Archive](https://web.archive.org/web/20260505113915/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/formula-de-campo-unificado-conexion-curvatura-einstein-bohr-doble-proyeccion) |
 
 **Firma del PDF:** PAdES-BES con DNIe (firma electrónica cualificada bajo eIDAS).
 **Sello temporal:** OpenTimestamps `.ots`, anclado en blockchain Bitcoin.
