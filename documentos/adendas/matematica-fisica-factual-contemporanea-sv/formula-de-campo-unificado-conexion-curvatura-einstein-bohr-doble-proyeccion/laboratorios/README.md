@@ -13,8 +13,10 @@
 **Lugar y fecha:** Madrid, 05/05/2026
 
 ---
-
-# Laboratorio de la publicación restaurada
+**Nota**: para acceder a los hipervínculos DOI, por motivos de funcionalidad, copie del hipervínculo la url y péguela en el navegador.  
+**Note**: for the DOI hyperlinks to resolve correctly, copy the URL from each link and paste it into the browser address bar.  
+---
+# Laboratorio de la publicación
 
 Ejecutar:
 
