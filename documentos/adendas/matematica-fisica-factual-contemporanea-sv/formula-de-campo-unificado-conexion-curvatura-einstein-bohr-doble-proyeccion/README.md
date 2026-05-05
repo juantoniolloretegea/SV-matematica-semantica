@@ -4,7 +4,7 @@
 
 ---
 
-**© 2026. Todos los derechos reservados.** | **DOI** [pendiente de asignación] | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 05/05/2026 |
+**© 2026. Todos los derechos reservados.** | **DOI** [10.17613/gxfv3-qjj64](https://doi.org/10.17613/gxfv3-qjj64) | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 05/05/2026 |
 
 **Advertencia.** Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
 
@@ -19,8 +19,8 @@
 | `formula-de-campo-unificado-conexion-curvatura-einstein-bohr-doble-proyeccion.md` | Manuscrito principal (1.292 líneas, 40 teoremas, 47 demostraciones, 20 tablas, anexo de 15 programas laterales). |
 | `laboratorios/runner.py` | Runner Python con 68 verificaciones operativas (PUB-01 a PUB-68). |
 | `laboratorios/README.md` | Documentación del laboratorio reproducible. |
-| `PDF/` | PDF firmado eIDAS / Stamp & Verify (aportado por el autor). |
-| `imagenes/` | Portada y recursos visuales complementarios (aportado por el autor). |
+| `PDF/` | PDF firmado con PAdES-BES y DNIe + sello temporal OpenTimestamps `.ots`. |
+| `imagenes/` | Portada y recursos visuales complementarios. |
 
 ---
 
@@ -47,6 +47,20 @@ python3 laboratorios/runner.py
 ```
 
 Resultado esperado: `verdict: PASS` con 68 verificaciones superadas y verificación numérica del banco completo.
+
+---
+
+## Identificadores canónicos
+
+| Recurso | Enlace |
+|---|---|
+| DOI de la publicación | [10.17613/gxfv3-qjj64](https://doi.org/10.17613/gxfv3-qjj64) |
+| DOI del laboratorio reproducible (Zenodo) | [10.5281/zenodo.20041095](https://doi.org/10.5281/zenodo.20041095) |
+| PDF firmado y sello temporal | [PDF/](./PDF/) |
+| Internet Archive | [Internet Archive](https://web.archive.org/save/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/formula-de-campo-unificado-conexion-curvatura-einstein-bohr-doble-proyeccion/PDF) |
+
+**Firma del PDF:** PAdES-BES con DNIe (firma electrónica cualificada bajo eIDAS).
+**Sello temporal:** OpenTimestamps `.ots`, anclado en blockchain Bitcoin.
 
 ---
 
