@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # © 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 06/05/2026
-# DOI de los laboratorios: PENDIENTE-DE-ASIGNACIÓN.
+# DOI del laboratorio canónico: 10.5281/zenodo.20058612.
 
 from pathlib import Path
 import subprocess
