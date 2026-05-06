@@ -1,0 +1,13 @@
+id,tipo,Z,esperado,funcion_estres
+H,elemento,1,ELEMENTO_ADMISIBLE,"mínimo conocido, no mínimo universal"
+O,elemento,8,ELEMENTO_ADMISIBLE,soporte de agua y atmósfera
+Fe,elemento,26,ELEMENTO_ADMISIBLE,persistencia material y nuclear
+U,elemento,92,ELEMENTO_ADMISIBLE,residual nuclear elevado pero clase conocida
+Og,elemento,118,ELEMENTO_ADMISIBLE,extremo superior conocido
+E119,candidato,119,U,no clausura estructural
+H2O,molecula,0,MOLECULA_ADMISIBLE,agua como composición H-H-O
+CO2,molecula,0,MOLECULA_ADMISIBLE,molécula atmosférica de carbono y oxígeno
+CH4,molecula,0,MOLECULA_ADMISIBLE,molécula energética y atmosférica
+O3,molecula,0,MOLECULA_ADMISIBLE,"ozono, frontera reactiva"
+ATM_TIERRA,atmosfera,0,ATMOSFERA_ADMISIBLE,atmósfera terrestre retenida
+ATM_NO_RETENIDA,atmosfera,0,NO_ADMISIBLE,fallo por retención insuficiente

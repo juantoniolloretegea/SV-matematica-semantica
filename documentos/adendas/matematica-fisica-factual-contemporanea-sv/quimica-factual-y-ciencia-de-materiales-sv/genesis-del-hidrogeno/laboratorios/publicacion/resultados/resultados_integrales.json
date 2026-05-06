@@ -1,0 +1,685 @@
+{
+  "elementos_regenerados": "118/118",
+  "banco_demostrativo": "12/12",
+  "pases_silenciosos": 0,
+  "cierre_favorable_por_ausencia_de_prueba": 0,
+  "estado": "APTO",
+  "elementos": [
+    {
+      "Z": 1,
+      "symbol": "H",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 2,
+      "symbol": "He",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 3,
+      "symbol": "Li",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 4,
+      "symbol": "Be",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 5,
+      "symbol": "B",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 6,
+      "symbol": "C",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 7,
+      "symbol": "N",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 8,
+      "symbol": "O",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 9,
+      "symbol": "F",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 10,
+      "symbol": "Ne",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 11,
+      "symbol": "Na",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 12,
+      "symbol": "Mg",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 13,
+      "symbol": "Al",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 14,
+      "symbol": "Si",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 15,
+      "symbol": "P",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 16,
+      "symbol": "S",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 17,
+      "symbol": "Cl",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 18,
+      "symbol": "Ar",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 19,
+      "symbol": "K",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 20,
+      "symbol": "Ca",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 21,
+      "symbol": "Sc",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 22,
+      "symbol": "Ti",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 23,
+      "symbol": "V",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 24,
+      "symbol": "Cr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 25,
+      "symbol": "Mn",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 26,
+      "symbol": "Fe",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 27,
+      "symbol": "Co",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 28,
+      "symbol": "Ni",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 29,
+      "symbol": "Cu",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 30,
+      "symbol": "Zn",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 31,
+      "symbol": "Ga",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 32,
+      "symbol": "Ge",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 33,
+      "symbol": "As",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 34,
+      "symbol": "Se",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 35,
+      "symbol": "Br",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 36,
+      "symbol": "Kr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 37,
+      "symbol": "Rb",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 38,
+      "symbol": "Sr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 39,
+      "symbol": "Y",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 40,
+      "symbol": "Zr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 41,
+      "symbol": "Nb",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 42,
+      "symbol": "Mo",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 43,
+      "symbol": "Tc",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 44,
+      "symbol": "Ru",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 45,
+      "symbol": "Rh",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 46,
+      "symbol": "Pd",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 47,
+      "symbol": "Ag",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 48,
+      "symbol": "Cd",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 49,
+      "symbol": "In",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 50,
+      "symbol": "Sn",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 51,
+      "symbol": "Sb",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 52,
+      "symbol": "Te",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 53,
+      "symbol": "I",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 54,
+      "symbol": "Xe",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 55,
+      "symbol": "Cs",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 56,
+      "symbol": "Ba",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 57,
+      "symbol": "La",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 58,
+      "symbol": "Ce",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 59,
+      "symbol": "Pr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 60,
+      "symbol": "Nd",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 61,
+      "symbol": "Pm",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 62,
+      "symbol": "Sm",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 63,
+      "symbol": "Eu",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 64,
+      "symbol": "Gd",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 65,
+      "symbol": "Tb",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 66,
+      "symbol": "Dy",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 67,
+      "symbol": "Ho",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 68,
+      "symbol": "Er",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 69,
+      "symbol": "Tm",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 70,
+      "symbol": "Yb",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 71,
+      "symbol": "Lu",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 72,
+      "symbol": "Hf",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 73,
+      "symbol": "Ta",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 74,
+      "symbol": "W",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 75,
+      "symbol": "Re",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 76,
+      "symbol": "Os",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 77,
+      "symbol": "Ir",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 78,
+      "symbol": "Pt",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 79,
+      "symbol": "Au",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 80,
+      "symbol": "Hg",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 81,
+      "symbol": "Tl",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 82,
+      "symbol": "Pb",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 83,
+      "symbol": "Bi",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 84,
+      "symbol": "Po",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 85,
+      "symbol": "At",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 86,
+      "symbol": "Rn",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 87,
+      "symbol": "Fr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 88,
+      "symbol": "Ra",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 89,
+      "symbol": "Ac",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 90,
+      "symbol": "Th",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 91,
+      "symbol": "Pa",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 92,
+      "symbol": "U",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 93,
+      "symbol": "Np",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 94,
+      "symbol": "Pu",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 95,
+      "symbol": "Am",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 96,
+      "symbol": "Cm",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 97,
+      "symbol": "Bk",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 98,
+      "symbol": "Cf",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 99,
+      "symbol": "Es",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 100,
+      "symbol": "Fm",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 101,
+      "symbol": "Md",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 102,
+      "symbol": "No",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 103,
+      "symbol": "Lr",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 104,
+      "symbol": "Rf",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 105,
+      "symbol": "Db",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 106,
+      "symbol": "Sg",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 107,
+      "symbol": "Bh",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 108,
+      "symbol": "Hs",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 109,
+      "symbol": "Mt",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 110,
+      "symbol": "Ds",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 111,
+      "symbol": "Rg",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 112,
+      "symbol": "Cn",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 113,
+      "symbol": "Nh",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 114,
+      "symbol": "Fl",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 115,
+      "symbol": "Mc",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 116,
+      "symbol": "Lv",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 117,
+      "symbol": "Ts",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    },
+    {
+      "Z": 118,
+      "symbol": "Og",
+      "dictamen": "ELEMENTO_ADMISIBLE"
+    }
+  ],
+  "banco": [
+    {
+      "id": "H",
+      "tipo": "elemento",
+      "esperado": "ELEMENTO_ADMISIBLE",
+      "dictamen": "ELEMENTO_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "O",
+      "tipo": "elemento",
+      "esperado": "ELEMENTO_ADMISIBLE",
+      "dictamen": "ELEMENTO_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "Fe",
+      "tipo": "elemento",
+      "esperado": "ELEMENTO_ADMISIBLE",
+      "dictamen": "ELEMENTO_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "U",
+      "tipo": "elemento",
+      "esperado": "ELEMENTO_ADMISIBLE",
+      "dictamen": "ELEMENTO_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "Og",
+      "tipo": "elemento",
+      "esperado": "ELEMENTO_ADMISIBLE",
+      "dictamen": "ELEMENTO_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "E119",
+      "tipo": "candidato",
+      "esperado": "U",
+      "dictamen": "U",
+      "ok": true
+    },
+    {
+      "id": "H2O",
+      "tipo": "molecula",
+      "esperado": "MOLECULA_ADMISIBLE",
+      "dictamen": "MOLECULA_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "CO2",
+      "tipo": "molecula",
+      "esperado": "MOLECULA_ADMISIBLE",
+      "dictamen": "MOLECULA_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "CH4",
+      "tipo": "molecula",
+      "esperado": "MOLECULA_ADMISIBLE",
+      "dictamen": "MOLECULA_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "O3",
+      "tipo": "molecula",
+      "esperado": "MOLECULA_ADMISIBLE",
+      "dictamen": "MOLECULA_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "ATM_TIERRA",
+      "tipo": "atmosfera",
+      "esperado": "ATMOSFERA_ADMISIBLE",
+      "dictamen": "ATMOSFERA_ADMISIBLE",
+      "ok": true
+    },
+    {
+      "id": "ATM_NO_RETENIDA",
+      "tipo": "atmosfera",
+      "esperado": "NO_ADMISIBLE",
+      "dictamen": "NO_ADMISIBLE",
+      "ok": true
+    }
+  ]
+}

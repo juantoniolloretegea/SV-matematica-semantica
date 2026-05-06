@@ -1,0 +1,77 @@
+{
+  "scope": "Propiedades estructurales SV calculadas para 118 candidatos de duplicación periódica",
+  "warning": "No son mediciones empíricas. Son magnitudes internas SV calculadas.",
+  "formulas": {
+    "Z_SV": "118+k",
+    "A_SV": "294+3k+floor(k/2)",
+    "Periodo_SV": "8+floor((k-1)/18)",
+    "Grupo_SV": "1+((k-1) mod 18)"
+  },
+  "rows": 118,
+  "tables": [
+    {
+      "title": "Tabla 1 — Identidad tabular y masa estructural",
+      "columns": [
+        "Nº",
+        "Nombre SV",
+        "Z_SV",
+        "Masa atómica SV (u)",
+        "Configuración electrónica estructural",
+        "Periodo",
+        "Grupo",
+        "Estado STP SV",
+        "Peso por mol SV (g/mol)",
+        "Densidad SV (g/cm³)"
+      ],
+      "rows": 118
+    },
+    {
+      "title": "Tabla 2 — Propiedades electrónicas, atómicas y de transporte",
+      "columns": [
+        "Nº",
+        "Nombre SV",
+        "Conductividad eléctrica SV (MS/m)",
+        "Electronegatividad SV",
+        "Energía ionización SV (kJ/mol)",
+        "Radio atómico SV (pm)",
+        "Afinidad electrónica SV (eV)",
+        "Carácter metálico SV (%)",
+        "Conductividad térmica SV (W/m·K)",
+        "Permeabilidad SV (μr)"
+      ],
+      "rows": 118
+    },
+    {
+      "title": "Tabla 3 — Propiedades mecánicas, químicas y térmicas",
+      "columns": [
+        "Nº",
+        "Nombre SV",
+        "Dureza SV (Mohs)",
+        "Resistencia física SV (MPa)",
+        "Coef. rozamiento SV",
+        "Flexibilidad SV (0-1)",
+        "Maleabilidad SV (0-1)",
+        "Resistencia oxidación SV (0-100)",
+        "Resistencia corrosión SV (0-100)",
+        "Resistencia térmica hasta cambio (°C)"
+      ],
+      "rows": 118
+    },
+    {
+      "title": "Tabla 4 — Volumen, estabilidad, radiactividad, isótopos y usos",
+      "columns": [
+        "Nº",
+        "Nombre SV",
+        "Volumen atómico SV (Å³)",
+        "Intervalo térmico estable SV (°C)",
+        "Nivel radiactivo SV (0-100)",
+        "Nº isótopos SV",
+        "Función estructural SV",
+        "Aplicación científica SV",
+        "Aplicación aeroespacial/cosmológica SV",
+        "Aplicación médica SV"
+      ],
+      "rows": 118
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+# © 2026 Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA | IA eñ™ La Biblia de la IA™ | ISSN 2695-6411 | CC BY-NC-ND 4.0 | Madrid 06/05/2026
+# Advertencia: datos estructurales SV — no son mediciones empíricas. Uso comercial prohibido sin autorización. CEDRO.
+Nº,Nombre SV,Volumen atómico SV (Å³),Intervalo térmico estable SV (°C),Nivel radiactivo SV (0-100),Nº isótopos SV,Función estructural SV,Aplicación científica SV,Aplicación aeroespacial/cosmológica SV,Aplicación médica SV
+1,SV-Alfa,96.97,-273 a 680,45.0,6,apertura alcalina de persistencia superperiódica del periodo 8,electrónica extrema,estructura densa,implante estructural SV
+2,SV-Beta,90.78,-273 a 710,45.5,8,cierre s de confinamiento basal del periodo 8,electrónica extrema,estructura densa,implante estructural SV
+3,SV-Gamma,84.85,-273 a 740,46.0,8,apertura de subbloque extendido del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+4,SV-Delta,79.19,-273 a 770,46.4,9,segundo anclaje de frontera extendida del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+5,SV-Epsilon,73.79,-273 a 800,46.9,10,crecimiento de confinamiento lateral del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+6,SV-Zeta,68.64,-273 a 830,47.4,5,consolidación intermedia de frontera del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+7,SV-Eta,63.74,-273 a 860,47.9,6,semilleno estructural primario del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+8,SV-Theta,59.07,-273 a 890,48.4,8,isla local de estabilidad relativa del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+9,SV-Iota,54.64,-273 a 920,48.8,8,transición posisla de identidad del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+10,SV-Kappa,50.44,-273 a 950,49.3,9,persistencia tardía de subbloque del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+11,SV-Lambda,46.45,-273 a 980,49.8,10,frontera metálica tardía del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+12,SV-Mu,42.68,-273 a 1010,50.3,5,cierre medio de subbloque del periodo 8,aleaciones SV,estructura densa,implante estructural SV
+13,SV-Nu,39.13,-273 a 1040,50.8,6,transición covalente pesada del periodo 8,material funcional pesado,blindaje/radiación,teragnóstico pesado
+14,SV-Xi,35.77,-273 a 1070,51.2,7,estabilización tetravalente estructural del periodo 8,material funcional pesado,blindaje/radiación,teragnóstico pesado
+15,SV-Omicron,32.61,-273 a 1100,51.7,8,frontera pnictógena ampliada del periodo 8,material funcional pesado,blindaje/radiación,teragnóstico pesado
+16,SV-Pi,29.65,-273 a 1130,52.2,9,cierre calcógeno estructural del periodo 8,material funcional pesado,blindaje/radiación,teragnóstico pesado
+17,SV-Rho,26.87,-273 a 120,52.7,10,clase halógena superpesada del periodo 8,química reactiva extrema,blindaje/radiación,teragnóstico pesado
+18,SV-Sigma,24.27,-273 a -190,53.2,6,cierre noble superpesado del periodo 8,trazador inerte denso,blindaje/radiación,teragnóstico pesado
+19,SV-Tau,109.74,-273 a 720,54.3,7,apertura alcalina de persistencia superperiódica del periodo 9,electrónica extrema,estructura densa,implante estructural SV
+20,SV-Upsilon,103.01,-273 a 750,54.8,9,cierre s de confinamiento basal del periodo 9,electrónica extrema,estructura densa,implante estructural SV
+21,SV-Phi,96.56,-273 a 780,55.3,9,apertura de subbloque extendido del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+22,SV-Chi,90.38,-273 a 810,55.8,10,segundo anclaje de frontera extendida del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+23,SV-Psi,84.48,-273 a 840,56.3,11,crecimiento de confinamiento lateral del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+24,SV-Omega,78.84,-273 a 870,56.7,6,consolidación intermedia de frontera del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+25,SV-II-Alfa,73.45,-273 a 900,57.2,7,semilleno estructural primario del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+26,SV-II-Beta,68.32,-273 a 930,57.7,9,isla local de estabilidad relativa del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+27,SV-II-Gamma,63.43,-273 a 960,58.2,9,transición posisla de identidad del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+28,SV-II-Delta,58.78,-273 a 990,58.7,10,persistencia tardía de subbloque del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+29,SV-II-Epsilon,54.36,-273 a 1020,59.1,11,frontera metálica tardía del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+30,SV-II-Zeta,50.17,-273 a 1050,59.6,6,cierre medio de subbloque del periodo 9,aleaciones SV,estructura densa,implante estructural SV
+31,SV-II-Eta,46.2,-273 a 1080,60.1,7,transición covalente pesada del periodo 9,material funcional pesado,blindaje/radiación,teragnóstico pesado
+32,SV-II-Theta,42.45,-273 a 1110,60.6,8,estabilización tetravalente estructural del periodo 9,material funcional pesado,blindaje/radiación,teragnóstico pesado
+33,SV-II-Iota,38.9,-273 a 1140,61.1,9,frontera pnictógena ampliada del periodo 9,material funcional pesado,blindaje/radiación,teragnóstico pesado
+34,SV-II-Kappa,35.56,-273 a 1170,61.5,10,cierre calcógeno estructural del periodo 9,material funcional pesado,blindaje/radiación,teragnóstico pesado
+35,SV-II-Lambda,32.42,-273 a 135,62.0,11,clase halógena superpesada del periodo 9,química reactiva extrema,blindaje/radiación,teragnóstico pesado
+36,SV-II-Mu,29.46,-273 a -185,62.5,7,cierre noble superpesado del periodo 9,trazador inerte denso,blindaje/radiación,teragnóstico pesado
+37,SV-II-Nu,123.58,-273 a 760,63.7,8,apertura alcalina de persistencia superperiódica del periodo 10,electrónica extrema,estructura densa,implante estructural SV
+38,SV-II-Xi,116.29,-273 a 790,64.2,10,cierre s de confinamiento basal del periodo 10,electrónica extrema,estructura densa,implante estructural SV
+39,SV-II-Omicron,109.3,-273 a 820,64.6,10,apertura de subbloque extendido del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+40,SV-II-Pi,102.58,-273 a 850,65.1,11,segundo anclaje de frontera extendida del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+41,SV-II-Rho,96.15,-273 a 880,65.6,12,crecimiento de confinamiento lateral del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+42,SV-II-Sigma,90.0,-273 a 910,66.1,7,consolidación intermedia de frontera del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+43,SV-II-Tau,84.11,-273 a 940,66.6,8,semilleno estructural primario del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+44,SV-II-Upsilon,78.48,-273 a 970,67.0,10,isla local de estabilidad relativa del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+45,SV-II-Phi,73.11,-273 a 1000,67.5,10,transición posisla de identidad del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+46,SV-II-Chi,68.0,-273 a 1030,68.0,11,persistencia tardía de subbloque del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+47,SV-II-Psi,63.12,-273 a 1060,68.5,12,frontera metálica tardía del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+48,SV-II-Omega,58.49,-273 a 1090,69.0,7,cierre medio de subbloque del periodo 10,aleaciones SV,estructura densa,implante estructural SV
+49,SV-III-Alfa,54.08,-273 a 1120,69.4,8,transición covalente pesada del periodo 10,material funcional pesado,blindaje/radiación,teragnóstico pesado
+50,SV-III-Beta,49.91,-273 a 1150,69.9,9,estabilización tetravalente estructural del periodo 10,material funcional pesado,blindaje/radiación,teragnóstico pesado
+51,SV-III-Gamma,45.95,-273 a 1180,70.4,10,frontera pnictógena ampliada del periodo 10,material funcional pesado,blindaje/radiación,teragnóstico pesado
+52,SV-III-Delta,42.21,-273 a 1210,70.9,11,cierre calcógeno estructural del periodo 10,material funcional pesado,blindaje/radiación,teragnóstico pesado
+53,SV-III-Epsilon,38.68,-273 a 150,71.4,12,clase halógena superpesada del periodo 10,química reactiva extrema,blindaje/radiación,teragnóstico pesado
+54,SV-III-Zeta,35.35,-273 a -180,71.8,8,cierre noble superpesado del periodo 10,trazador inerte denso,blindaje/radiación,teragnóstico pesado
+55,SV-III-Eta,138.55,-273 a 800,73.0,9,apertura alcalina de persistencia superperiódica del periodo 11,electrónica extrema,estructura densa,implante estructural SV
+56,SV-III-Theta,130.68,-273 a 830,73.5,11,cierre s de confinamiento basal del periodo 11,electrónica extrema,estructura densa,implante estructural SV
+57,SV-III-Iota,123.11,-273 a 860,74.0,11,apertura de subbloque extendido del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+58,SV-III-Kappa,115.83,-273 a 890,74.5,12,segundo anclaje de frontera extendida del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+59,SV-III-Lambda,108.85,-273 a 920,74.9,13,crecimiento de confinamiento lateral del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+60,SV-III-Mu,102.16,-273 a 950,75.4,8,consolidación intermedia de frontera del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+61,SV-III-Nu,95.75,-273 a 980,75.9,9,semilleno estructural primario del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+62,SV-III-Xi,89.61,-273 a 1010,76.4,11,isla local de estabilidad relativa del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+63,SV-III-Omicron,83.74,-273 a 1040,76.9,11,transición posisla de identidad del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+64,SV-III-Pi,78.13,-273 a 1070,77.3,12,persistencia tardía de subbloque del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+65,SV-III-Rho,72.78,-273 a 1100,77.8,13,frontera metálica tardía del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+66,SV-III-Sigma,67.67,-273 a 1130,78.3,8,cierre medio de subbloque del periodo 11,aleaciones SV,estructura densa,implante estructural SV
+67,SV-III-Tau,62.82,-273 a 1160,78.8,9,transición covalente pesada del periodo 11,material funcional pesado,blindaje/radiación,teragnóstico pesado
+68,SV-III-Upsilon,58.2,-273 a 1190,79.3,10,estabilización tetravalente estructural del periodo 11,material funcional pesado,blindaje/radiación,teragnóstico pesado
+69,SV-III-Phi,53.81,-273 a 1220,79.7,11,frontera pnictógena ampliada del periodo 11,material funcional pesado,blindaje/radiación,teragnóstico pesado
+70,SV-III-Chi,49.65,-273 a 1250,80.2,12,cierre calcógeno estructural del periodo 11,material funcional pesado,blindaje/radiación,radiotrazador SV
+71,SV-III-Psi,45.71,-273 a 165,80.7,13,clase halógena superpesada del periodo 11,química reactiva extrema,blindaje/radiación,radiotrazador SV
+72,SV-III-Omega,41.98,-273 a -175,81.2,9,cierre noble superpesado del periodo 11,trazador inerte denso,blindaje/radiación,radiotrazador SV
+73,SV-IV-Alfa,154.68,-273 a 840,82.4,10,apertura alcalina de persistencia superperiódica del periodo 12,electrónica extrema,estructura densa,radiotrazador SV
+74,SV-IV-Beta,146.2,-273 a 870,82.8,12,cierre s de confinamiento basal del periodo 12,electrónica extrema,estructura densa,radiotrazador SV
+75,SV-IV-Gamma,138.03,-273 a 900,83.3,12,apertura de subbloque extendido del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+76,SV-IV-Delta,130.18,-273 a 930,83.8,13,segundo anclaje de frontera extendida del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+77,SV-IV-Epsilon,122.63,-273 a 960,84.3,14,crecimiento de confinamiento lateral del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+78,SV-IV-Zeta,115.37,-273 a 990,84.8,9,consolidación intermedia de frontera del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+79,SV-IV-Eta,108.41,-273 a 1020,85.2,10,semilleno estructural primario del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+80,SV-IV-Theta,101.74,-273 a 1050,85.7,12,isla local de estabilidad relativa del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+81,SV-IV-Iota,95.34,-273 a 1080,86.2,12,transición posisla de identidad del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+82,SV-IV-Kappa,89.22,-273 a 1110,86.7,13,persistencia tardía de subbloque del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+83,SV-IV-Lambda,83.37,-273 a 1140,87.2,14,frontera metálica tardía del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+84,SV-IV-Mu,77.78,-273 a 1170,87.6,9,cierre medio de subbloque del periodo 12,aleaciones SV,estructura densa,radiotrazador SV
+85,SV-IV-Nu,72.44,-273 a 1200,88.1,10,transición covalente pesada del periodo 12,material funcional pesado,blindaje/radiación,radiotrazador SV
+86,SV-IV-Xi,67.35,-273 a 1230,88.6,11,estabilización tetravalente estructural del periodo 12,material funcional pesado,blindaje/radiación,radiotrazador SV
+87,SV-IV-Omicron,62.51,-273 a 1260,89.1,12,frontera pnictógena ampliada del periodo 12,material funcional pesado,blindaje/radiación,radiotrazador SV
+88,SV-IV-Pi,57.91,-273 a 1290,89.6,13,cierre calcógeno estructural del periodo 12,material funcional pesado,blindaje/radiación,radiotrazador SV
+89,SV-IV-Rho,53.53,-273 a 180,90.0,14,clase halógena superpesada del periodo 12,química reactiva extrema,blindaje/radiación,radiotrazador SV
+90,SV-IV-Sigma,49.39,-273 a -170,90.5,10,cierre noble superpesado del periodo 12,trazador inerte denso,blindaje/radiación,radiotrazador SV
+91,SV-IV-Tau,172.01,-273 a 880,91.7,11,apertura alcalina de persistencia superperiódica del periodo 13,electrónica extrema,estructura densa,radiotrazador SV
+92,SV-IV-Upsilon,162.9,-273 a 910,92.2,13,cierre s de confinamiento basal del periodo 13,electrónica extrema,estructura densa,radiotrazador SV
+93,SV-IV-Phi,154.12,-273 a 940,92.7,13,apertura de subbloque extendido del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+94,SV-IV-Chi,145.66,-273 a 970,93.1,14,segundo anclaje de frontera extendida del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+95,SV-IV-Psi,137.52,-273 a 1000,93.6,15,crecimiento de confinamiento lateral del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+96,SV-IV-Omega,129.68,-273 a 1030,94.1,10,consolidación intermedia de frontera del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+97,SV-V-Alfa,122.15,-273 a 1060,94.6,11,semilleno estructural primario del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+98,SV-V-Beta,114.92,-273 a 1090,95.1,13,isla local de estabilidad relativa del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+99,SV-V-Gamma,107.97,-273 a 1120,95.5,13,transición posisla de identidad del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+100,SV-V-Delta,101.32,-273 a 1150,96.0,14,persistencia tardía de subbloque del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+101,SV-V-Epsilon,94.94,-273 a 1180,96.5,15,frontera metálica tardía del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+102,SV-V-Zeta,88.84,-273 a 1210,97.0,10,cierre medio de subbloque del periodo 13,aleaciones SV,estructura densa,radiotrazador SV
+103,SV-V-Eta,83.0,-273 a 1240,97.5,11,transición covalente pesada del periodo 13,material funcional pesado,blindaje/radiación,radiotrazador SV
+104,SV-V-Theta,77.42,-273 a 1270,97.9,12,estabilización tetravalente estructural del periodo 13,material funcional pesado,blindaje/radiación,radiotrazador SV
+105,SV-V-Iota,72.1,-273 a 1300,98.4,13,frontera pnictógena ampliada del periodo 13,material funcional pesado,blindaje/radiación,radiotrazador SV
+106,SV-V-Kappa,67.03,-273 a 1330,98.9,14,cierre calcógeno estructural del periodo 13,material funcional pesado,blindaje/radiación,radiotrazador SV
+107,SV-V-Lambda,62.21,-273 a 195,99.4,15,clase halógena superpesada del periodo 13,química reactiva extrema,blindaje/radiación,radiotrazador SV
+108,SV-V-Mu,57.62,-273 a -165,99.9,11,cierre noble superpesado del periodo 13,trazador inerte denso,blindaje/radiación,radiotrazador SV
+109,SV-V-Nu,190.59,-273 a 920,100.0,12,apertura alcalina de persistencia superperiódica del periodo 14,electrónica extrema,estructura densa,radiotrazador SV
+110,SV-V-Xi,180.83,-273 a 950,100.0,14,cierre s de confinamiento basal del periodo 14,electrónica extrema,estructura densa,radiotrazador SV
+111,SV-V-Omicron,171.41,-273 a 980,100.0,14,apertura de subbloque extendido del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+112,SV-V-Pi,162.32,-273 a 1010,100.0,15,segundo anclaje de frontera extendida del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+113,SV-V-Rho,153.56,-273 a 1040,100.0,16,crecimiento de confinamiento lateral del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+114,SV-V-Sigma,145.12,-273 a 1070,100.0,11,consolidación intermedia de frontera del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+115,SV-V-Tau,137.0,-273 a 1100,100.0,12,semilleno estructural primario del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+116,SV-V-Upsilon,129.19,-273 a 1130,100.0,14,isla local de estabilidad relativa del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+117,SV-V-Phi,121.67,-273 a 1160,100.0,14,transición posisla de identidad del periodo 14,aleaciones SV,estructura densa,radiotrazador SV
+118,SV-V-Chi,114.46,-273 a 1190,100.0,15,persistencia tardía de subbloque del periodo 14,aleaciones SV,estructura densa,radiotrazador SV

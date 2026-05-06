@@ -1,0 +1,121 @@
+# © 2026 Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA | IA eñ™ La Biblia de la IA™ | ISSN 2695-6411 | CC BY-NC-ND 4.0 | Madrid 06/05/2026
+# Advertencia: datos estructurales SV — no son mediciones empíricas. Uso comercial prohibido sin autorización. CEDRO.
+Nº,Nombre SV,Z_SV,Masa atómica SV (u),Configuración electrónica estructural,Periodo,Grupo,Estado STP SV,Peso por mol SV (g/mol),Densidad SV (g/cm³)
+1,SV-Alfa,119,297,[Og] 8s¹,8,1,sólido metálico,297,15.65
+2,SV-Beta,120,301,[Og] 8s²,8,2,sólido metálico,301,15.96
+3,SV-Gamma,121,304,[Og] 8s² 5g¹,8,3,sólido metálico,304,16.26
+4,SV-Delta,122,308,[Og] 8s² 5g²,8,4,sólido metálico,308,16.57
+5,SV-Epsilon,123,311,[Og] 8s² 5g³,8,5,sólido metálico,311,16.87
+6,SV-Zeta,124,315,[Og] 8s² 5g⁴,8,6,sólido metálico,315,17.17
+7,SV-Eta,125,318,[Og] 8s² 5g⁵,8,7,sólido metálico,318,17.48
+8,SV-Theta,126,322,[Og] 8s² 5g⁶,8,8,sólido metálico,322,17.79
+9,SV-Iota,127,325,[Og] 8s² 5g⁷,8,9,sólido metálico,325,18.09
+10,SV-Kappa,128,329,[Og] 8s² 5g⁸,8,10,sólido metálico,329,18.39
+11,SV-Lambda,129,332,[Og] 8s² 5g⁹,8,11,sólido metálico,332,18.7
+12,SV-Mu,130,336,[Og] 8s² 5g¹⁰,8,12,sólido metálico,336,19.0
+13,SV-Nu,131,339,[Og] 8s² 5g¹¹,8,13,sólido semimetálico,339,19.31
+14,SV-Xi,132,343,[Og] 8s² 5g¹²,8,14,sólido semimetálico,343,19.62
+15,SV-Omicron,133,346,[Og] 8s² 5g¹³,8,15,sólido semimetálico,346,19.92
+16,SV-Pi,134,350,[Og] 8s² 5g¹⁴,8,16,sólido semimetálico,350,20.22
+17,SV-Rho,135,353,[Og] 8s² 5g¹⁴ 6f¹,8,17,gas reactivo pesado,353,15.98
+18,SV-Sigma,136,357,[Og] 8s² 5g¹⁴ 6f²,8,18,gas noble denso,357,16.13
+19,SV-Tau,137,360,[Og] 9s¹,9,1,sólido metálico,360,18.44
+20,SV-Upsilon,138,364,[Og] 9s²,9,2,sólido metálico,364,18.75
+21,SV-Phi,139,367,[Og] 9s² 6f¹,9,3,sólido metálico,367,19.05
+22,SV-Chi,140,371,[Og] 9s² 6f²,9,4,sólido metálico,371,19.36
+23,SV-Psi,141,374,[Og] 9s² 6f³,9,5,sólido metálico,374,19.66
+24,SV-Omega,142,378,[Og] 9s² 6f⁴,9,6,sólido metálico,378,19.96
+25,SV-II-Alfa,143,381,[Og] 9s² 6f⁵,9,7,sólido metálico,381,20.27
+26,SV-II-Beta,144,385,[Og] 9s² 6f⁶,9,8,sólido metálico,385,20.57
+27,SV-II-Gamma,145,388,[Og] 9s² 6f⁷,9,9,sólido metálico,388,20.88
+28,SV-II-Delta,146,392,[Og] 9s² 6f⁸,9,10,sólido metálico,392,21.18
+29,SV-II-Epsilon,147,395,[Og] 9s² 6f⁹,9,11,sólido metálico,395,21.49
+30,SV-II-Zeta,148,399,[Og] 9s² 6f¹⁰,9,12,sólido metálico,399,21.8
+31,SV-II-Eta,149,402,[Og] 9s² 6f¹¹,9,13,sólido semimetálico,402,22.1
+32,SV-II-Theta,150,406,[Og] 9s² 6f¹²,9,14,sólido semimetálico,406,22.41
+33,SV-II-Iota,151,409,[Og] 9s² 6f¹³,9,15,sólido semimetálico,409,22.71
+34,SV-II-Kappa,152,413,[Og] 9s² 6f¹⁴,9,16,sólido semimetálico,413,23.02
+35,SV-II-Lambda,153,416,[Og] 9s² 6f¹⁴ 7h¹,9,17,gas reactivo pesado,416,18.77
+36,SV-II-Mu,154,420,[Og] 9s² 6f¹⁴ 7h²,9,18,gas noble denso,420,18.93
+37,SV-II-Nu,155,423,[Og] 10s¹,10,1,sólido metálico,423,21.23
+38,SV-II-Xi,156,427,[Og] 10s²,10,2,sólido metálico,427,21.54
+39,SV-II-Omicron,157,430,[Og] 10s² 7h¹,10,3,sólido metálico,430,21.84
+40,SV-II-Pi,158,434,[Og] 10s² 7h²,10,4,sólido metálico,434,22.15
+41,SV-II-Rho,159,437,[Og] 10s² 7h³,10,5,sólido metálico,437,22.45
+42,SV-II-Sigma,160,441,[Og] 10s² 7h⁴,10,6,sólido metálico,441,22.75
+43,SV-II-Tau,161,444,[Og] 10s² 7h⁵,10,7,sólido metálico,444,23.06
+44,SV-II-Upsilon,162,448,[Og] 10s² 7h⁶,10,8,sólido metálico,448,23.36
+45,SV-II-Phi,163,451,[Og] 10s² 7h⁷,10,9,sólido metálico,451,23.67
+46,SV-II-Chi,164,455,[Og] 10s² 7h⁸,10,10,sólido metálico,455,23.98
+47,SV-II-Psi,165,458,[Og] 10s² 7h⁹,10,11,sólido metálico,458,24.28
+48,SV-II-Omega,166,462,[Og] 10s² 7h¹⁰,10,12,sólido metálico,462,24.59
+49,SV-III-Alfa,167,465,[Og] 10s² 7h¹¹,10,13,sólido semimetálico,465,24.89
+50,SV-III-Beta,168,469,[Og] 10s² 7h¹²,10,14,sólido semimetálico,469,25.2
+51,SV-III-Gamma,169,472,[Og] 10s² 7h¹³,10,15,sólido semimetálico,472,25.5
+52,SV-III-Delta,170,476,[Og] 10s² 7h¹⁴,10,16,sólido semimetálico,476,25.8
+53,SV-III-Epsilon,171,479,[Og] 10s² 7h¹⁴ 8i¹,10,17,gas reactivo pesado,479,21.56
+54,SV-III-Zeta,172,483,[Og] 10s² 7h¹⁴ 8i²,10,18,gas noble denso,483,21.71
+55,SV-III-Eta,173,486,[Og] 11s¹,11,1,sólido metálico,486,24.02
+56,SV-III-Theta,174,490,[Og] 11s²,11,2,sólido metálico,490,24.32
+57,SV-III-Iota,175,493,[Og] 11s² 8i¹,11,3,sólido metálico,493,24.63
+58,SV-III-Kappa,176,497,[Og] 11s² 8i²,11,4,sólido metálico,497,24.94
+59,SV-III-Lambda,177,500,[Og] 11s² 8i³,11,5,sólido metálico,500,25.24
+60,SV-III-Mu,178,504,[Og] 11s² 8i⁴,11,6,sólido metálico,504,25.54
+61,SV-III-Nu,179,507,[Og] 11s² 8i⁵,11,7,sólido metálico,507,25.85
+62,SV-III-Xi,180,511,[Og] 11s² 8i⁶,11,8,sólido metálico,511,26.15
+63,SV-III-Omicron,181,514,[Og] 11s² 8i⁷,11,9,sólido metálico,514,26.46
+64,SV-III-Pi,182,518,[Og] 11s² 8i⁸,11,10,sólido metálico,518,26.77
+65,SV-III-Rho,183,521,[Og] 11s² 8i⁹,11,11,sólido metálico,521,27.07
+66,SV-III-Sigma,184,525,[Og] 11s² 8i¹⁰,11,12,sólido metálico,525,27.38
+67,SV-III-Tau,185,528,[Og] 11s² 8i¹¹,11,13,sólido semimetálico,528,27.68
+68,SV-III-Upsilon,186,532,[Og] 11s² 8i¹²,11,14,sólido semimetálico,532,27.98
+69,SV-III-Phi,187,535,[Og] 11s² 8i¹³,11,15,sólido semimetálico,535,28.29
+70,SV-III-Chi,188,539,[Og] 11s² 8i¹⁴,11,16,sólido semimetálico,539,28.59
+71,SV-III-Psi,189,542,[Og] 11s² 8i¹⁴ 9k¹,11,17,gas reactivo pesado,542,24.35
+72,SV-III-Omega,190,546,[Og] 11s² 8i¹⁴ 9k²,11,18,gas noble denso,546,24.51
+73,SV-IV-Alfa,191,549,[Og] 12s¹,12,1,sólido metálico,549,26.81
+74,SV-IV-Beta,192,553,[Og] 12s²,12,2,sólido metálico,553,27.11
+75,SV-IV-Gamma,193,556,[Og] 12s² 9k¹,12,3,sólido metálico,556,27.42
+76,SV-IV-Delta,194,560,[Og] 12s² 9k²,12,4,sólido metálico,560,27.73
+77,SV-IV-Epsilon,195,563,[Og] 12s² 9k³,12,5,sólido metálico,563,28.03
+78,SV-IV-Zeta,196,567,[Og] 12s² 9k⁴,12,6,sólido metálico,567,28.34
+79,SV-IV-Eta,197,570,[Og] 12s² 9k⁵,12,7,sólido metálico,570,28.64
+80,SV-IV-Theta,198,574,[Og] 12s² 9k⁶,12,8,sólido metálico,574,28.94
+81,SV-IV-Iota,199,577,[Og] 12s² 9k⁷,12,9,sólido metálico,577,29.25
+82,SV-IV-Kappa,200,581,[Og] 12s² 9k⁸,12,10,sólido metálico,581,29.55
+83,SV-IV-Lambda,201,584,[Og] 12s² 9k⁹,12,11,sólido metálico,584,29.86
+84,SV-IV-Mu,202,588,[Og] 12s² 9k¹⁰,12,12,sólido metálico,588,30.17
+85,SV-IV-Nu,203,591,[Og] 12s² 9k¹¹,12,13,sólido semimetálico,591,30.47
+86,SV-IV-Xi,204,595,[Og] 12s² 9k¹²,12,14,sólido semimetálico,595,30.78
+87,SV-IV-Omicron,205,598,[Og] 12s² 9k¹³,12,15,sólido semimetálico,598,31.08
+88,SV-IV-Pi,206,602,[Og] 12s² 9k¹⁴,12,16,sólido semimetálico,602,31.38
+89,SV-IV-Rho,207,605,[Og] 12s² 9k¹⁴ 10l¹,12,17,gas reactivo pesado,605,27.14
+90,SV-IV-Sigma,208,609,[Og] 12s² 9k¹⁴ 10l²,12,18,gas noble denso,609,27.3
+91,SV-IV-Tau,209,612,[Og] 13s¹,13,1,sólido metálico,612,29.6
+92,SV-IV-Upsilon,210,616,[Og] 13s²,13,2,sólido metálico,616,29.91
+93,SV-IV-Phi,211,619,[Og] 13s² 10l¹,13,3,sólido metálico,619,30.21
+94,SV-IV-Chi,212,623,[Og] 13s² 10l²,13,4,sólido metálico,623,30.52
+95,SV-IV-Psi,213,626,[Og] 13s² 10l³,13,5,sólido metálico,626,30.82
+96,SV-IV-Omega,214,630,[Og] 13s² 10l⁴,13,6,sólido metálico,630,31.12
+97,SV-V-Alfa,215,633,[Og] 13s² 10l⁵,13,7,sólido metálico,633,31.43
+98,SV-V-Beta,216,637,[Og] 13s² 10l⁶,13,8,sólido metálico,637,31.73
+99,SV-V-Gamma,217,640,[Og] 13s² 10l⁷,13,9,sólido metálico,640,32.04
+100,SV-V-Delta,218,644,[Og] 13s² 10l⁸,13,10,sólido metálico,644,32.34
+101,SV-V-Epsilon,219,647,[Og] 13s² 10l⁹,13,11,sólido metálico,647,32.65
+102,SV-V-Zeta,220,651,[Og] 13s² 10l¹⁰,13,12,sólido metálico,651,32.95
+103,SV-V-Eta,221,654,[Og] 13s² 10l¹¹,13,13,sólido semimetálico,654,33.26
+104,SV-V-Theta,222,658,[Og] 13s² 10l¹²,13,14,sólido semimetálico,658,33.56
+105,SV-V-Iota,223,661,[Og] 13s² 10l¹³,13,15,sólido semimetálico,661,33.87
+106,SV-V-Kappa,224,665,[Og] 13s² 10l¹⁴,13,16,sólido semimetálico,665,34.17
+107,SV-V-Lambda,225,668,[Og] 13s² 10l¹⁴ 11m¹,13,17,gas reactivo pesado,668,29.93
+108,SV-V-Mu,226,672,[Og] 13s² 10l¹⁴ 11m²,13,18,gas noble denso,672,30.09
+109,SV-V-Nu,227,675,[Og] 14s¹,14,1,sólido metálico,675,32.39
+110,SV-V-Xi,228,679,[Og] 14s²,14,2,sólido metálico,679,32.69
+111,SV-V-Omicron,229,682,[Og] 14s² 11m¹,14,3,sólido metálico,682,33.0
+112,SV-V-Pi,230,686,[Og] 14s² 11m²,14,4,sólido metálico,686,33.3
+113,SV-V-Rho,231,689,[Og] 14s² 11m³,14,5,sólido metálico,689,33.61
+114,SV-V-Sigma,232,693,[Og] 14s² 11m⁴,14,6,sólido metálico,693,33.91
+115,SV-V-Tau,233,696,[Og] 14s² 11m⁵,14,7,sólido metálico,696,34.22
+116,SV-V-Upsilon,234,700,[Og] 14s² 11m⁶,14,8,sólido metálico,700,34.53
+117,SV-V-Phi,235,703,[Og] 14s² 11m⁷,14,9,sólido metálico,703,34.83
+118,SV-V-Chi,236,707,[Og] 14s² 11m⁸,14,10,sólido metálico,707,35.14
