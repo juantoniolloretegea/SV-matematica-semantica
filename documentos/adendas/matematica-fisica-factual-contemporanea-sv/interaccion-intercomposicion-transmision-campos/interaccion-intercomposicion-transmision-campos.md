@@ -2,7 +2,6 @@
 
 ![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](imagenes/Portada.png)
 
----
 
 ---
 
