@@ -1,6 +1,6 @@
-·##*Génesis del hidrógeno y teoría de la persistencia energética estructural**
+# *Génesis del hidrógeno y teoría de la persistencia energética estructural**
 
-#**Masa, frontera, residual e identidad física bajo compatibilidad operatoria universal**
+**Masa, frontera, residual e identidad física bajo compatibilidad operatoria universal**
 
 ![Portada](imagenes/Portada.png)
 
