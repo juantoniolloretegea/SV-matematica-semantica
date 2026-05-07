@@ -3,7 +3,8 @@
 ![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](imagenes/Portada.png)
 
 
----
+---<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/623bd9be-c63e-438c-9b18-4185bb574d61" />
+
 
 **Autor / Author:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
@@ -995,7 +996,7 @@ El presente desarrollo del Sistema Vectorial SV sobre la transmisión factual en
 Shannon murió en 2001 con la enfermedad de Alzheimer en estado avanzado, sin alcanzar a ver gran parte del florecimiento que su obra hizo posible. La grandeza silenciosa con la que trabajó, su modestia ante una obra que reordenó la civilización y la honestidad científica con la que se mantuvo apartado del protagonismo son modelo que esta investigación quiere honrar.
 
 — Juan Antonio Lloret Egea
-   Madrid, mayo de 2026
+   Madrid,  7 de mayo de 2026
 
 ---
 
