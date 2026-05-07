@@ -982,11 +982,9 @@ La violación de cualquiera de las cinco reglas es síntoma directo de los códi
 
 ---
 
-![Claude Elwood Shannon (1916–2001)](imagenes/shannon.jpg)
-
-*Claude Elwood Shannon (1916–2001).*
-*Imagen: Tekniska Museet of Sweden, Item 43069, via Flickr, CC BY 2.0*
-*([https://creativecommons.org/licenses/by/2.0](https://creativecommons.org/licenses/by/2.0)), via Wikimedia Commons.*
+| Imagen | Atribución |
+|---|---|
+| <img src="imagenes/shannon.jpg" alt="Claude Elwood Shannon (1916–2001)" width="180"> | **Claude Elwood Shannon (1916–2001).**<br>Imagen: Tekniska Museet of Sweden, Item 43069, via Flickr, CC BY 2.0, via Wikimedia Commons.<br>Licencia: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0). |
 
 Esta investigación reconoce y agradece a **Claude Elwood Shannon** (Petoskey, Michigan, 30 de abril de 1916 — Medford, Massachusetts, 24 de febrero de 2001).
 
