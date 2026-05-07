@@ -1,5 +1,9 @@
 # Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV: operadores `𝓘_SV` y `𝓣_SV`, distancia factual fibrosa, célula `SV(36,6)` y articulación serial con el corpus
 
+![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](imagenes/Portada.png)
+
+---
+
 ---
 
 **Autor / Author:** Juan Antonio Lloret Egea  
