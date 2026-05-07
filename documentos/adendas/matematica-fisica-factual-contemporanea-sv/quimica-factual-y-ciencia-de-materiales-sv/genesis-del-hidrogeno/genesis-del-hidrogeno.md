@@ -1,6 +1,6 @@
-**Génesis del hidrógeno y teoría de la persistencia energética estructural**
+·##*Génesis del hidrógeno y teoría de la persistencia energética estructural**
 
-**Masa, frontera, residual e identidad física bajo compatibilidad operatoria universal**
+#**Masa, frontera, residual e identidad física bajo compatibilidad operatoria universal**
 
 ![Portada](imagenes/Portada.png)
 
@@ -18,6 +18,8 @@ Esta formulación introduce un marco operatorio de clasificación y análisis de
 
 La teoría no pretende sustituir los formalismos físicos contemporáneos, sino introducir un aparato transversal de compatibilidad estructural aplicable a múltiples dominios: plasma, estabilidad atómica, transición térmica, combustión, persistencia nuclear y regímenes macroscópicos de confinamiento energético. La construcción se extiende explícitamente a la tabla periódica estructural, a la formación molecular y a la composición atmosférica, integradas como dominios de persistencia derivada. Toda formulación queda subordinada a un criterio universal explícito de legitimidad operatoria, residual estructural y falsación.
 
+**Palabras clave**: Sistema Vectorial SV; física factual; matemática factual; química factual; hidrógeno; génesis factual del hidrógeno; tabla periódica estructural; extensión periódica estructural; candidatos SV-118; persistencia estructural; persistencia energética; frontera factual; frontera estructural; residual estructural; identidad compatible; redistribución energética; estabilidad atómica; régimen preatómico; régimen plasmático; formación molecular; formación atmosférica; química estructural; elementos químicos; ciencia de materiales; compatibilidad operatoria; criterio universal de compatibilidad; falsación estructural; laboratorio reproducible; termodinámica fuera del equilibrio; transición atómica; masa estructural; fuerza estructural; calor estructural; clasificación periódica
+
 **Abstract**
 
 Contemporary physics describes with extraordinary precision multiple regimes of interaction, stability, and energetic transformation. However, these regimes remain distributed across formally heterogeneous domains: quantum stability of matter, non-equilibrium thermodynamics, plasma physics, decoherence, structural emergence, gravitational confinement, nuclear stability, or atom–dispersion transitions. This work argues that such fragmentation conceals a transversal physical problem still insufficiently formulated: the absence of a universal criterion for compatible structural persistence.
@@ -25,6 +27,8 @@ Contemporary physics describes with extraordinary precision multiple regimes of 
 This formulation introduces an operational framework for classifying and analysing energetic persistence, grounded on five fundamental magnitudes: factual boundary, structural confinement, energetic redistribution, residual structure, and compatible persistent identity. From these elements, a minimal energetic persistence equation is constructed in order to model the conditions under which an energetic configuration can preserve identity against structural dispersion. The atom is reinterpreted not as a primary ontological entity, but as the first known discrete regime of stable energetic persistence. Likewise, mass is reformulated as effective structural persistence rather than merely inertial magnitude.
 
 The theory does not aim to replace contemporary physical formalisms, but rather to introduce a transversal framework of structural compatibility applicable across multiple domains: plasma physics, atomic stability, thermal transitions, combustion, nuclear persistence, and macroscopic energetic confinement regimes. The construction extends explicitly to the structural periodic table, to molecular formation, and to atmospheric composition, integrated as domains of derived persistence. Every formulation is further subordinated to an explicit universal criterion of operational legitimacy, structural residuality, and falsifiability.
+
+**Keywords**: Vectorial System SV; factual physics; factual mathematics; factual chemistry; hydrogen; factual genesis of hydrogen; structural periodic table; structural periodic extension; SV-118 candidates; structural persistence; energetic persistence; factual boundary; structural boundary; structural residual; compatible identity; energetic redistribution; atomic stability; preatomic regime; plasma regime; molecular formation; atmospheric formation; structural chemistry; chemical elements; materials science; operational compatibility; universal compatibility criterion; structural falsifiability; reproducible laboratory; non-equilibrium thermodynamics; atomic transition; structural mass; structural force; structural heat; periodic classification
 
 ---
 
