@@ -2256,7 +2256,7 @@ Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson.
 
 Lakatos, I. (1978). *The methodology of scientific research programmes*. Cambridge University Press.
 
-## 19.6. Corpus interno del Sistema Vectorial SV
+## **19.6. Corpus interno del Sistema Vectorial SV**
 
 Lloret Egea, J. A. (2026). *Génesis del hidrógeno y teoría de la persistencia energética estructural*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA). | [**Url**: **Génesis del hidrógeno y teoría de la persistencia energética estructural**](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/genesis-del-hidrogeno/genesis-del-hidrogeno.md)
 
@@ -2266,7 +2266,7 @@ Lloret Egea, J. A. (2026). *Teoría del TODO y de la NADA en el Sistema Vectoria
 
 Lloret Egea, J. A. (2026). *Fórmula factual única y absoluta. Termodinámica factual del Sistema Vectorial SV*. ITVIA. | [**Url**: Fuerza, trabajo, calor, entalpía, temperatura, principios y fundamentos de la termodinámica y la correlación entre ellos en el SV](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/termodinamica-gases-fluidos-sv/fuerza-trabajo-calor-entalpia-temperatura-sv/formula_factual_unica_absoluta_termodinamica_sv.md)
 
-Lloret Egea, J. A. (2026). *Fórmula de campo unificado — Conexión, curvatura, Einstein-Bohr y doble proyección en el Sistema Vectorial SV*. ITVIA.
+Lloret Egea, J. A. (2026). *Fórmula de campo unificado — Conexión, curvatura, Einstein-Bohr y doble proyección en el Sistema Vectorial SV*. ITVIA. | [**Url**; Fórmula de Campo Unificado 𝓕𝓐 = d𝓐 + 𝓐 ∧ 𝓐 con 𝓐 = ω ⊕ A](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/formula-de-campo-unificado-conexion-curvatura-einstein-bohr-doble-proyeccion/formula-de-campo-unificado-conexion-curvatura-einstein-bohr-doble-proyeccion.md)
 
 ## 19.7. Resultado bibliográfico
 
