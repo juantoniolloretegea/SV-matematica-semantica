@@ -2271,3 +2271,15 @@ Lloret Egea, J. A. (2026). *Fórmula de campo unificado — Conexión, curvatura
 ## 19.7. Resultado bibliográfico
 
 Las referencias externas cumplen una función estructural doble: delimitar el estado del arte de la extensión periódica convencional (Fricke, Pyykkö, Oganessian) y confirmar la ausencia de precedente bibliográfico para los 325 nuevos elementos SV (Z_SV = 237–561). Las referencias internas fijan la compatibilidad operatoria de la generación con el aparato del corpus. Ninguna referencia externa actúa como autoridad fundante del catálogo; el aparato generativo es enteramente interno al corpus SV.
+
+**DOI publicación:** [10.17613/8ryyb-g9h48](https://doi.org/10.17613/8ryyb-g9h48) — Humanities Commons (HCOMMONS)  
+**DOI laboratorio:** [10.5281/zenodo.20084771](https://doi.org/10.5281/zenodo.20084771) — Zenodo
+
+**Integridad criptográfica:**  
+| Archivo | Tipo | Descripción |
+|---|---|---|
+| `Preliminary_Analysis_[...].pdf` | Publicación | Documento firmado digitalmente |
+| `Preliminary_Analysis_[...].pdf.ots` | Sellado de tiempo | OpenTimestamps — blockchain |
+| `laboratorios.zip` | Laboratorio | Archivo verificable reproducible |
+| `laboratorios.zip.csig` | Firma criptográfica | Autoría e integridad del laboratorio |
+| `laboratorios.zip.ots` | Sellado de tiempo | OpenTimestamps — blockchain |
