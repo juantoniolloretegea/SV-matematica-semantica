@@ -2294,4 +2294,4 @@ Las referencias externas cumplen una función estructural doble: delimitar el es
 | `laboratorios.zip` | Laboratorio | Archivo verificable reproducible |
 | `laboratorios.zip.csig` | Firma criptográfica | Autoría e integridad del laboratorio |
 | `laboratorios.zip.ots` | Sellado de tiempo | OpenTimestamps — blockchain |
-| `Registro histórico` |[**Internet Archive**](https://web.archive.org/web/20260508111639/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/elementos-materiales-nueva-generacion.md)|
+| `Registro histórico` | [Internet Archive](https://web.archive.org/web/20260508111639/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/elementos-materiales-nueva-generacion.md) | Preservación web permanente — Wayback Machine |
