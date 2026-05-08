@@ -1,6 +1,6 @@
 # Laboratorios — Elementos químicos del Sistema Vectorial SV (SV-443)
 
-[![Tabla periódica estructural SV — análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación (k=119–443, índices SV 1–325)](imagenes/Tabla%20periodica.svg)](imagenes/Tabla%20periodica.svg)
+[![Tabla periódica estructural SV — análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación (k=119–443, índices SV 1–325)](../imagenes/Tabla%20periodica.svg)](../imagenes/Tabla%20periodica.svg)
 
 ---
 
