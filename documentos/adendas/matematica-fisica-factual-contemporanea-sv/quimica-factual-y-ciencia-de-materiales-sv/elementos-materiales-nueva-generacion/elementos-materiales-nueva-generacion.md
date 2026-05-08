@@ -12,7 +12,7 @@
 
 > **Registro criptográfico de integridad.** Cada uno de los ficheros anteriores cuenta con su prueba [OpenTimestamps](https://opentimestamps.org/) (`.ots`) y, según el formato, con firma electrónica avanzada adjunta — XAdES (`.xsig`) para el SVG y CAdES (`.csig`) para el PNG —, depositadas en la subcarpeta [`imagenes/registros-criptograficos/`](imagenes/registros-criptograficos/). Estas pruebas permiten verificar de forma independiente la autoría y el momento de publicación de cada fichero descargable.
 
-
+---
 ## Tabla periódica de los 325 elementos nuevos del SV: familias tipológicas, generación prequímica, criterios de transición y propiedades estructurales
 
 **© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/) | **DOI**[10.17613/8ryyb-g9h48](https://doi.org/10.17613/8ryyb-g9h48) ORCID: 0000-0002-6634-3351 | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | **Licencia CC BY-NC-ND 4.0** | Madrid, 08/05/2026 | [**Repositorio doctrinal**](https://juantoniolloretegea.github.io/SV-matematica-semantica/)
