@@ -2258,7 +2258,7 @@ Lakatos, I. (1978). *The methodology of scientific research programmes*. Cambrid
 
 ## 19.6. Corpus interno del Sistema Vectorial SV
 
-Lloret Egea, J. A. (2026). *Génesis del hidrógeno y teoría de la persistencia energética estructural*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA).
+Lloret Egea, J. A. (2026). *Génesis del hidrógeno y teoría de la persistencia energética estructural*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA). [**url**:](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/genesis-del-hidrogeno/genesis-del-hidrogeno.md)
 
 Lloret Egea, J. A. (2026). *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV*. ITVIA.
 
