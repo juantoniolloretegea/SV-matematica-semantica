@@ -2262,7 +2262,7 @@ Lloret Egea, J. A. (2026). *Génesis del hidrógeno y teoría de la persistencia
 
 Lloret Egea, J. A. (2026). *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV*. ITVIA. |[**Url**: Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-general-sucesos-generadores-y-protocampos-unificados/teoria-general-sucesos-generadores-protocampos-unificados-sv.md) 
 
-Lloret Egea, J. A. (2026). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. ITVIA.
+Lloret Egea, J. A. (2026). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. ITVIA. | [**Url**:  Teoría del TODO y de la NADA en el Sistema Vectorial SV — refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K3n, frontera común (μ, λ) = (0, 0) y verificador ternario fuerte](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md)
 
 Lloret Egea, J. A. (2026). *Fórmula factual única y absoluta. Termodinámica factual del Sistema Vectorial SV*. ITVIA.
 
