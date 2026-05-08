@@ -3,7 +3,7 @@
 [![Portada — Tabla periódica estructural SV (elementos k=119–443, índices SV 1–325)](imagenes/portada_elementos_sv_443.svg)](imagenes/portada_elementos_sv_443.svg)
 
 
-## Catálogo completo de los 325 elementos nuevos del SV: familias tipológicas, generación prequímica, criterios de transición y propiedades estructurales
+## Tabla periódica de los 325 elementos nuevos del SV: familias tipológicas, generación prequímica, criterios de transición y propiedades estructurales
 
 **© 2026. Todos los derechos reservados.** | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 08/05/2026 |
 
