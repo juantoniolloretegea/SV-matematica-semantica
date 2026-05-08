@@ -1,6 +1,16 @@
 # Análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación para usos médicos y científicos
 
 [![Portada — Tabla periódica estructural SV (elementos k=119–443, índices SV 1–325)](imagenes/portada_elementos_sv_443.svg)](imagenes/portada_elementos_sv_443.svg)
+**Figura.** Análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación para usos médicos y científicos. Tabla periódica estructural SV, índices 1–325 (SV4-Psi → SV18-Lambda), correspondiente a los elementos k = 119…443 del catálogo SV-443.
+
+| Formato | Descarga directa |
+|---|---|
+| SVG vectorial (figura web, escalable sin pérdida) | [`Tabla periodica.svg`](imagenes/Tabla%20periodica.svg?raw=1) |
+| PNG (rasterizado, alta resolución) | [`Tabla periodica SV.png`](imagenes/Tabla%20periodica%20SV.png?raw=1) |
+| PDF A3 horizontal — versión vectorial (texto vivo, ligera) | [`tabla_sv_A3_horizontal_vectorial.pdf`](imagenes/tabla_sv_A3_horizontal_vectorial.pdf?raw=1) |
+| PDF A3 horizontal — versión maquetada (lista para imprenta) | [`tabla_sv_A3_horizontal_maquetada.pdf`](imagenes/tabla_sv_A3_horizontal_maquetada.pdf?raw=1) |
+
+> **Registro criptográfico de integridad.** Cada uno de los ficheros anteriores cuenta con su prueba [OpenTimestamps](https://opentimestamps.org/) (`.ots`) y, según el formato, con firma electrónica avanzada adjunta — XAdES (`.xsig`) para el SVG y CAdES (`.csig`) para el PNG —, depositadas en la subcarpeta [`imagenes/registros-criptograficos/`](imagenes/registros-criptograficos/). Estas pruebas permiten verificar de forma independiente la autoría y el momento de publicación de cada fichero descargable.
 
 
 ## Tabla periódica de los 325 elementos nuevos del SV: familias tipológicas, generación prequímica, criterios de transición y propiedades estructurales
