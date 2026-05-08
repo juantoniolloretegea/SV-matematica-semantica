@@ -17,7 +17,7 @@
 
 Esta carpeta conserva la publicación **Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV** como versión de maduración pública en GitHub. En esta etapa no se asigna DOI. El registro histórico externo se realizará mediante Internet Archive / Wayback Machine.
 
-**Registro histórico en Internet Archive / Wayback Machine:** PENDIENTE-DE-REGISTRO.
+**Registro histórico en Internet Archive / Wayback Machine:** [registro histórico de maduración pública](https://web.archive.org/web/20260507111108/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos).
 
 ## Estructura
 

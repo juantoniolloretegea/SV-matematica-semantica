@@ -1,6 +1,10 @@
 # Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV: operadores `𝓘_SV` y `𝓣_SV`, distancia factual fibrosa, célula `SV(36,6)` y articulación serial con el corpus
 
----
+![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](imagenes/Portada.png)
+
+
+---<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/623bd9be-c63e-438c-9b18-4185bb574d61" />
+
 
 **Autor / Author:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
@@ -977,13 +981,9 @@ La violación de cualquiera de las cinco reglas es síntoma directo de los códi
 
 ---
 
----
-
-![Claude Elwood Shannon (1916–2001)](imagenes/shannon.jpg)
-
-*Claude Elwood Shannon (1916–2001).*
-*Imagen: Tekniska Museet of Sweden, Item 43069, via Flickr, CC BY 2.0*
-*([https://creativecommons.org/licenses/by/2.0](https://creativecommons.org/licenses/by/2.0)), via Wikimedia Commons.*
+| Imagen | Atribución |
+|---|---|
+| <img src="imagenes/shannon.jpg" alt="Claude Elwood Shannon (1916–2001)" width="180"> | **Claude Elwood Shannon (1916–2001).**<br>Imagen: Tekniska Museet of Sweden, Item 43069, via Flickr, CC BY 2.0, via Wikimedia Commons.<br>Licencia: [Creative Commons Attribution 2.0](https://creativecommons.org/licenses/by/2.0). |
 
 Esta investigación reconoce y agradece a **Claude Elwood Shannon** (Petoskey, Michigan, 30 de abril de 1916 — Medford, Massachusetts, 24 de febrero de 2001).
 
@@ -996,7 +996,7 @@ El presente desarrollo del Sistema Vectorial SV sobre la transmisión factual en
 Shannon murió en 2001 con la enfermedad de Alzheimer en estado avanzado, sin alcanzar a ver gran parte del florecimiento que su obra hizo posible. La grandeza silenciosa con la que trabajó, su modestia ante una obra que reordenó la civilización y la honestidad científica con la que se mantuvo apartado del protagonismo son modelo que esta investigación quiere honrar.
 
 — Juan Antonio Lloret Egea
-   Madrid, mayo de 2026
+   Madrid,  7 de mayo de 2026
 
 ---
 
