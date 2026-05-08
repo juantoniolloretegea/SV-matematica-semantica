@@ -2095,25 +2095,25 @@ La cuarta tabla reúne ocho parámetros de volumen, estabilidad radiológica y a
 
 **Teorema 12.1.** Sobre la célula SV(3,9), las doce familias tipológicas generan exactamente 720 configuraciones prequímicas candidatas. De estas, 675 satisfacen las condiciones (I)–(VI).
 
-**Verificación por definición.** La combinatoria 5 × 3 × 2 × 2 = 60 por familia y 12 × 60 = 720 en total se sigue de los parámetros fijados. El número 675 resulta de la aplicación de (I)–(VI) con exclusión de los 45 candidatos de Σ₉ que violan (II). □
+**Verificación por definición.** La combinatoria 5 × 3 × 2 × 2 = 60 por familia y 12 × 60 = 720 en total se sigue de los parámetros fijados. El número 675 resulta de la aplicación de (I)–(VI) con exclusión de los 45 candidatos de Σ₉ que violan (II). quod erat demonstrandum
 
 ## 12.2. Teorema del cardinal del catálogo químico SV
 
 **Teorema 12.2.** Del conjunto de 675 configuraciones prequímicas admisibles, el subconjunto que satisface (Q.1)–(Q.5) tiene cardinal 443.
 
-**Demostración.** Los criterios Q.1 (cierre posicional), Q.2 (acoplamiento pleno) y Q.3 (densidad máxima) actúan como filtros de cierre. Σ₉ queda completamente excluida por imposibilidad de satisfacer Q.1 bajo oscilación persistente. Σ₂ y Σ₅ satisfacen los cinco criterios en todas sus configuraciones (60/60 y 60/60). Las familias con patrones mixtos satisfacen los criterios en proporciones variables. La suma de los cardinales es 443. □
+**Demostración.** Los criterios Q.1 (cierre posicional), Q.2 (acoplamiento pleno) y Q.3 (densidad máxima) actúan como filtros de cierre. Σ₉ queda completamente excluida por imposibilidad de satisfacer Q.1 bajo oscilación persistente. Σ₂ y Σ₅ satisfacen los cinco criterios en todas sus configuraciones (60/60 y 60/60). Las familias con patrones mixtos satisfacen los criterios en proporciones variables. La suma de los cardinales es 443. quod erat demonstrandum.
 
 ## 12.3. Teorema del hidrógeno como primer elemento
 
 **Teorema 12.3.** El elemento k = 1 es SV-Hidrógeno (Z_SV = 119, A_SV = 297 u, periodo 8, grupo 1), pertenece a Σ₁ y satisface Q.1–Q.5 con valores extremales.
 
-**Verificación por definición.** Z_SV(1) = 119, A_SV(1) = 297, Periodo(1) = 8, Grupo(1) = 1 se siguen de las fórmulas. Los valores extremales corresponden a la configuración φ(S₀) = 1, φ(S_n) = 0, χ_c = 1 de Σ₁ convergente pura. □
+**Verificación por definición.** Z_SV(1) = 119, A_SV(1) = 297, Periodo(1) = 8, Grupo(1) = 1 se siguen de las fórmulas. Los valores extremales corresponden a la configuración φ(S₀) = 1, φ(S_n) = 0, χ_c = 1 de Σ₁ convergente pura. quod erat demonstrandum
 
 ## 12.4. Teorema del subdominio periódico
 
 **Teorema 12.4.** La tabla periódica reconocida (118 elementos) es un subdominio propio del catálogo SV-443.
 
-**Demostración.** Por construcción, los primeros 118 índices se corresponden con los elementos reconocidos en los términos del corpus SV-118. La inclusión es propia porque 118 < 443. □
+**Demostración.** Por construcción, los primeros 118 índices se corresponden con los elementos reconocidos en los términos del corpus SV-118. La inclusión es propia porque 118 < 443. quod erat demonstrandum
 
 ---
 
