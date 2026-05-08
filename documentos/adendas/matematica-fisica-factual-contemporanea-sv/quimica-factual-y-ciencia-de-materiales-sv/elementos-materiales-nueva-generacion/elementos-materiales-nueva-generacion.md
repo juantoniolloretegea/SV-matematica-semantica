@@ -10,7 +10,7 @@
 | PNG (rasterizado, alta resolución) | [`Tabla periodica SV.png`](imagenes/Tabla%20periodica%20SV.png?raw=1) |
 | PDF A3 horizontal — versión vectorial (texto vivo, ligera) | [`tabla_sv_A3_horizontal_vectorial.pdf`](imagenes/tabla_sv_A3_horizontal_vectorial.pdf?raw=1) |
 | PDF A3 horizontal — versión maquetada (lista para imprenta) | [`tabla_sv_A3_horizontal_maquetada.pdf`](imagenes/tabla_sv_A3_horizontal_maquetada.pdf?raw=1) |
-
+---
 > **Registro criptográfico de integridad.** Cada uno de los ficheros anteriores cuenta con su prueba [OpenTimestamps](https://opentimestamps.org/) (`.ots`) y, según el formato, con firma electrónica avanzada adjunta — XAdES (`.xsig`) para el SVG y CAdES (`.csig`) para el PNG —, depositadas en la subcarpeta [`imagenes/registros-criptograficos/`](imagenes/registros-criptograficos/). Estas pruebas permiten verificar de forma independiente la autoría y el momento de publicación de cada fichero descargable.
 
 ---
