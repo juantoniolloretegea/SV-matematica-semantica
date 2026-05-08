@@ -1,0 +1,13 @@
+{
+  "csv_verificado": "elementos_sv_443.csv",
+  "fecha_verificacion": "2026-05-08",
+  "elementos_esperados": 443,
+  "columnas_esperadas": 33,
+  "errores_totales": 0,
+  "errores_formula": 0,
+  "errores_rango": 0,
+  "errores_texto": 0,
+  "errores_otros": 0,
+  "estado": "APTO",
+  "elementos_verificados": "443/443"
+}
