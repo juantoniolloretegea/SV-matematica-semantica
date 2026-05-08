@@ -5,7 +5,7 @@
 
 ## Tabla periódica de los 325 elementos nuevos del SV: familias tipológicas, generación prequímica, criterios de transición y propiedades estructurales
 
-**© 2026. Todos los derechos reservados.** | **Juan Antonio Lloret Egea** | **DOI**[10.17613/8ryyb-g9h48](https://doi.org/10.17613/8ryyb-g9h48) ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 08/05/2026 |
+**© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/) | **DOI**[10.17613/8ryyb-g9h48](https://doi.org/10.17613/8ryyb-g9h48) ORCID: 0000-0002-6634-3351 | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | **Licencia CC BY-NC-ND 4.0** | Madrid, 08/05/2026 |
 
 **Advertencia.** Esta publicación está protegida por [**CEDRO**](https://www.cedro.org/english?lng=en) y su aplicación en el campo de la Física y la Química, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
 
