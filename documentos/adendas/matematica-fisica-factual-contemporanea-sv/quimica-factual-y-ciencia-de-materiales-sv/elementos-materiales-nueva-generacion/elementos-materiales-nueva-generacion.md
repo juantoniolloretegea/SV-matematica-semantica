@@ -1,6 +1,7 @@
 # Análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación para usos médicos y científicos
 
 [![Tabla periódica estructural SV — análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación (k=119–443, índices SV 1–325)](imagenes/Tabla%20periodica.svg)](imagenes/Tabla%20periodica.svg)
+---
 **Tabla periódica estructural SV, índices 1–325 (SV4-Psi → SV18-Lambda), correspondiente a los elementos k = 119…443 del catálogo SV-443**
 
 | Formato | Descarga directa |
