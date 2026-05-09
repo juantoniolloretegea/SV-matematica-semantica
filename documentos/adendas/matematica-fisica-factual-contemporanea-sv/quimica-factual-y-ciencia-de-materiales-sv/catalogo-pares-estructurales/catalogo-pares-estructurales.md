@@ -73,10 +73,10 @@ El corpus SV está articulado en una cadena ascendente de trece niveles (Lloret 
 | Ecuación factual Maxwell | DOI [10.17613/kep1t-57539](https://doi.org/10.17613/kep1t-57539) | Referencia doctrinal para §3.12 |
 | Fórmula de Campo Unificado | DOI [10.17613/gxfv3-qjj64](https://doi.org/10.17613/gxfv3-qjj64) | Referencia para la distinción técnica de §3.12 |
 | De Bell a Tsirelson | DOI [10.17613/1666c-c5g66](https://doi.org/10.17613/1666c-c5g66) | Marco de co-clausura ternaria y distinción técnica de inconmensurabilidad (§3.12) |
-| Teoría del TODO y de la NADA | ITVIA/GitHub | Marco de cierre del corpus; fundamento del §1.5 |
+| Teoría del TODO y de la NADA | DOI [10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45)| Marco de cierre del corpus; fundamento del §1.5 |
 | Entropía factual e irreversibilidad estructural | DOI [10.17613/vh6ak-6em43](https://doi.org/10.17613/vh6ak-6em43) | Fundamento termodinámico de los estados estables (§1.9) |
 | Fórmula termodinámica factual única | DOI [10.17613/ptw68-d1r57](https://doi.org/10.17613/ptw68-d1r57) | Ecuación de equilibrio E^thermo_SV = 0 (§1.9) |
-| Interacción, intercomposición y transmisión de campos | GitHub (corpus SV) | Operador 𝓘_SV, distancia factual fibrosa d^SV_Φ, compuerta Σ=1 (§1.10) |
+| Interacción, intercomposición y transmisión de campos | [GitHub](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/interaccion-intercomposicion-transmision-campos.md) | Operador 𝓘_SV, distancia factual fibrosa d^SV_Φ, compuerta Σ=1 (§1.10) |
 
 ## §1.4. Prohibiciones constitutivas adicionales
 
