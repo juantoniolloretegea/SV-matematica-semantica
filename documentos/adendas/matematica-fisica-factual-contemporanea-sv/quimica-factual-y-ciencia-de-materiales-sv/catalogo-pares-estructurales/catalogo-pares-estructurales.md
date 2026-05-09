@@ -424,7 +424,9 @@ Una nota sobre la simetría: el operador 𝓘_SV opera sobre pares ordenados —
 
 ---
 
-# §2. Marco de dominio — Tabla Global y espacio de pares Ω₄₄₃
+### §2. Marco de dominio — Tabla Global y espacio de pares Ω₄₄₃
+
+![Tabla Global SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_global_sv.svg)
 
 ## §2.1. La Tabla Global como fuente única de propiedades de par
 
