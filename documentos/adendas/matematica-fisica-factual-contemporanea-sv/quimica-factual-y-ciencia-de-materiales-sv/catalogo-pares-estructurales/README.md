@@ -55,10 +55,10 @@ catalogo-pares-estructurales/
 
 ## Tablas estructurales SV
 
-| Tabla | SVG | PNG |
+| Tabla | SVG | OTROS |
 |---|---|---|
 | Tabla Cero SV (118 elementos base) | [tabla_cero_sv.svg](imagenes/tabla_cero_sv.svg) | [tabla_cero_sv.png](imagenes/tabla_cero_sv.png) |
-| Tabla Global SV (443 elementos) | [tabla_global_sv.svg](imagenes/tabla_global_sv.svg) | [tabla_global_sv.png](imagenes/tabla_global_sv.png) |
+| Tabla Global SV (443 elementos) | [tabla_global_sv.svg](imagenes/tabla_global_sv.svg) | [tabla_global_sv_vectorial.pdf](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_global_sv_vectorial.pdf) |
 
 ## Laboratorio reproducible
 
