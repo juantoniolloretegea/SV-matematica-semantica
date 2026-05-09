@@ -72,33 +72,19 @@ PYTHONPATH=src python3 runner.py
 
 ## Publicación base
 
-**Catálogo SV-443:** [DOI 10.17613/8ryyb-g9h48](https://doi.org/10.17613/8ryyb-g9h48)
+**Catálogo SV-443:** Pendiente
 
 ---
 
 ## Identificación DOI
 
 - DOI de la publicación: **pendiente de asignación (HCOMMONS)**
-- DOI del laboratorio canónico: [10.5281/zenodo.20084771](https://doi.org/10.5281/zenodo.20084771)
+- DOI del laboratorio canónico: Pendiente
 
 ## Registro criptográfico de referencia
 
 | Fichero | Función | SHA-256 |
 |---|---|---|
-| `catalogo-pares-estructurales.pdf` | PDF firmado de la publicación | PENDIENTE-DE-FIRMA |
-| `catalogo-pares-estructurales.pdf.ots` | Sello OpenTimestamps del PDF | PENDIENTE-DE-REGISTRO |
-| `Commons-DOI.pdf` | Registro de DOI en Commons | PENDIENTE-DE-ASIGNACIÓN |
-| `Zenodo.zip` | Conjunto de depósito del laboratorio | PENDIENTE-DE-DEPÓSITO |
-| `laboratorios.zip` | ZIP canónico de laboratorios | PENDIENTE |
-| `laboratorios.zip.ots` | Sello OpenTimestamps del ZIP | PENDIENTE |
-| `Portada.png` | Imagen de portada | `73236be6022a25a9b1df2355446b62173bcfa1437085b6c44f24f0219cdbc471` |
-| `tabla_cero_sv.svg` | Tabla Cero SV (vectorial) | `0d90292a45ce76b5633332cc4cf686c50a7f1185e1dbd52f156ef8bafab06c92` |
-| `tabla_cero_sv.png` | Tabla Cero SV (PNG 2×) | `bc2da5b63e984cac6f3d0201f9e5324aa18d732825402c84c7c71c5ca21e9372` |
-| `tabla_global_sv.svg` | Tabla Global SV (vectorial) | `27005bc5c627dc5e3a1442f44b0873432311d929f5cdba40926143737277c127` |
-| `tabla_global_sv.png` | Tabla Global SV (PNG 2×) | `f2e8e2f21284e37c92fc9994747dc81adc8c89bfe5db709a2e58b72843741d41` |
-| `runner.py` | Laboratorio — punto de entrada | `91db9575ef9de5e7e0ff29bfa16988b345f5c58c5de13e37bff952c828158f4e` |
-| `sv_cps.py` | Laboratorio — módulo central | `25768d48be98b21c5220c65ff12e0393bcec189a9c579a31d5c9e3631f9b96b9` |
-| `catalogo_pares_sv443.csv` | CPS-SV completo (97.903 pares) | `6e52e949ba8547b7b389ad3145e2e2c5d360c10be20d8991285c1faf95bb580d` |
-| `tabla_global_sv443.csv` | Tabla Global (443 elementos) | `7957aadfd4a4e83fc079870ed49d3aae48cf5a65bed9e3747c088a19eb83aaa4` |
+Pendiente
 
 © 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | CC BY-NC-ND 4.0 | Madrid, 09/05/2026
