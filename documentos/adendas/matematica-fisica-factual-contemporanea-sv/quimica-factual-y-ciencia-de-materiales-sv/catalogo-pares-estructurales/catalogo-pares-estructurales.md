@@ -1408,7 +1408,7 @@ El §7 de esta publicación queda reservado para la integración del CPS-SV con 
 
 ## §8.0. Principio de trazabilidad
 
-El CPS-SV es reproducible en su totalidad: cualquier receptor puede re-ejecutar el laboratorio sobre la Tabla Global del catálogo SV-443 y obtener exactamente los mismos 97.903 dictámenes. No existe ningún paso no determinista, ningún parámetro oculto ni ninguna dependencia externa. La reproducibilidad es condición necesaria de la falsabilidad establecida en §6.
+El CPS-SV es reproducible en su totalidad: cualquier receptor puede re-ejecutar el laboratorio sobre la Tabla Global del catálogo SV-443 y obtener exactamente los mismos 97.903 dictámenes. No existe ningún paso no determinista, ningún parámetro oculto ni ninguna dependencia externa. La reproducibilidad es condición necesaria de la falsabilidad establecida en §6. [Laboratorios](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios)
 
 ---
 
@@ -1498,7 +1498,7 @@ El runner no avanza a la fase siguiente si la anterior produjo errores.
 
 El archivo `catalogo_pares_sv443.csv`<a href="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv">
 CSV
-</a> (*Para descargar Ctrl+S en la vista raw*) tiene una fila de cabecera y 97.903 filas de datos:
+</a> (*Para descargar Ctrl+S en la vista raw* o en [laboratorios/datos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv)) tiene una fila de cabecera y 97.903 filas de datos:
 
 | Columna | Tipo | Descripción |
 |---|---|---|
