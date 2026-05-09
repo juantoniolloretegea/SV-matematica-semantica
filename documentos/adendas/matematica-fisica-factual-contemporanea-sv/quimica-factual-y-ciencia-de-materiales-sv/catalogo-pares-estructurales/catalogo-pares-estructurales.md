@@ -481,7 +481,7 @@ La tabla periódica convencional no cumple esta propiedad: ninguno de los 118 no
 
 ## §3.0. Posición en el corpus y delimitación previa
 
-Los cinco criterios de admisibilidad de enlace estructural SV (B.1–B.5) se derivan exclusivamente de las magnitudes tabuladas en la Tabla Global del catálogo SV-443 (``+[*Análisis preliminar de elementos, materiales y aleaciones*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/elementos-materiales-nueva-generacion.md), DOI: 10.17613/8ryyb-g9h48): electronegatividad estructural EN_SV, radio atómico estructural r_SV, energía de ionización estructural IP_SV, afinidad electrónica estructural EA_SV y carácter metálico estructural M_SV.
+Los cinco criterios de admisibilidad de enlace estructural SV (B.1–B.5) se derivan exclusivamente de las magnitudes tabuladas en la Tabla Global del catálogo SV-443 ([*Análisis preliminar de elementos, materiales y aleaciones*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/elementos-materiales-nueva-generacion.md), DOI: 10.17613/8ryyb-g9h48): electronegatividad estructural EN_SV, radio atómico estructural r_SV, energía de ionización estructural IP_SV, afinidad electrónica estructural EA_SV y carácter metálico estructural M_SV.
 
 Las prohibiciones constitutivas P.1–P.6 del corpus quedan heredadas sin modificación. Se añaden tres prohibiciones específicas de este desarrollo:
 
