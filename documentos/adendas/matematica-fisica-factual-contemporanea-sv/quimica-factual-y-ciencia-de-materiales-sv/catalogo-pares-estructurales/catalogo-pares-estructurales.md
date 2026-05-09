@@ -51,8 +51,6 @@ This work establishes the five SV structural bonding admissibility criteria (B.1
 - §8. Laboratorio reproducible
 ---
 
----
-
 # §1. Posición en el corpus y alcance
 
 El presente trabajo requiere, para su plena autocontención doctrinal, un marco que amplíe la *Teoría del TODO y de la NADA* del corpus SV (Lloret Egea, 2026f) más allá de su formulación binaria. En su versión binaria, la teoría establece la coexistencia de los polos 1 (Todo) y 0 (Nada) con gradiente nulo: suma nula, entropía nula, potencial nulo — matemáticamente exacta en ese nivel. Sin embargo, la existencia de pares estructurales realizados, aleaciones y moléculas — entidades que son imperfecciones estabilizadas en un punto de equilibrio de potencial distinto de cero — exige la ampliación al aparato ternario completo (1, U, 0). Este trabajo propone, como fundamento doctrinal de su propio aparato, la **Teoría del TODO y de la NADA y de la Imperfección**: la ampliación ternaria del marco binario. Esta propuesta escala hacia los niveles doctrinales superiores del corpus no como corrección exógena, sino como exigencia de autocontención: sin ella, el aparato de esta publicación no puede justificar sus propios criterios de admisibilidad. La Teoría del TODO y de la NADA y de la Imperfección queda aquí anunciada; su desarrollo completo pertenece a la capa doctrinal superior. Lo que esta publicación establece, en el §1.5, es únicamente el fragmento que necesita para sostenerse: el Teorema de la zona de realización ternaria U.
@@ -234,11 +232,6 @@ En los tres casos, la estructura lógica es idéntica: Ω_pre como dominio de po
 
 ---
 
-
----
-
----
-
 ## §1.6. Teorema de predominancia del régimen de imperfección y cascada de dominancias del CPS-SV
 
 ### §1.6.1. Axiomas del dominio de dominancias
@@ -411,8 +404,6 @@ La suma IP_suma(A,B) = IP_SV(A) + IP_SV(B) es la energía de persistencia estruc
 
 **Corolario termodinámico:** Los tres regímenes APTO y el régimen NO-APTO son las únicas clases posibles de resultado termodinámico para un protopar Π(A,B) en el aparato SV, correspondientes a: equilibrio próximo a 1 (APTO-M), equilibrio intermedio (APTO-C), equilibrio próximo al límite Nada (APTO-I), y absorción por Nada sin equilibrio alcanzable (NO-APTO). El CPS-SV cataloga cuál de los cuatro resultados le corresponde a cada uno de los 97.903 protopares de Ω₄₄₃.
 
-
-
 ---
 
 ## §1.10. El par estructural en su contexto de campo: circunstancias y operador de interacción
@@ -430,8 +421,6 @@ Un par estructural (A,B) del CPS-SV no existe en un vacío estructural. Cada ele
 Esta caracterización revela la dimensión que el análisis puramente interno de los pares no puede ver: un par APTO no existe aislado, sino dentro de un entorno de campos que lo rodea y cuyas interacciones actúan simultáneamente sobre él. Las propiedades del par realizado — y, por extensión, las de la aleación que ese par funda — dependen no solo de los parámetros estructurales internos (los que el CPS-SV cataloga) sino del contexto de campo en que el par se inscribe. El aparato de interacción, intercomposición y transmisión factual entre campos del corpus SV (Lloret Egea, 2026k) es el marco que aborda esa dimensión externa y que proporciona el nivel de análisis subsiguiente al catálogo.
 
 Una nota sobre la simetría: el operador 𝓘_SV opera sobre pares ordenados — el orden de los argumentos importa estructuralmente (Teorema 4 de Lloret Egea, 2026k). El CPS-SV, en cambio, trabaja con pares no ordenados C(443,2) = 97.903: determina la admisibilidad estructural simétrica, no la dirección de la interacción. Esta es la distinción entre el primer orden (admisibilidad de campo: ¿puede formarse el par?) y el orden completo (dirección de la interacción: ¿cómo opera 𝓘_SV sobre él?). El primero es el objeto de esta publicación; el segundo pertenece al aparato de Lloret Egea (2026k).
-
-
 
 ---
 
@@ -740,7 +729,6 @@ función D(A,B):
 
 (†) Divergencia con el régimen convencional — ver §3.12.
 
-
 ---
 
 ## §3.11. Cuatro ejemplos trabajados de extremo a extremo
@@ -857,8 +845,6 @@ Interpretación: el par supera la barrera energética (B.4 ✓) y presenta ident
 
 ---
 
----
-
 ## §3.12. Distinción técnica explícita — Inconmensurabilidad de los dictámenes
 
 Los dictámenes APTO-M, APTO-C, APTO-I del aparato SV no son equivalentes a los regímenes metálico, covalente e iónico de la química cuántica convencional. La diferencia no es terminológica sino estructural, y se explica por tres razones:
@@ -884,9 +870,6 @@ Esta distinción es análoga a la establecida en §5.6 de la *Fórmula de Campo 
 | B.3 | M_joint | ≥ 40,0% | 15 puntos por debajo del mínimo exacto del conjunto metálico de referencia (Cu-Zn: 55,4%) |
 | B.4 | IP_suma | ≤ 1800 kJ/mol | Cota fija por encima del máximo exacto del conjunto de referencia (NaCl: 1658 kJ/mol) |
 | B.5 | pertenencia a Ω_443 | — | Automático; heredado del catálogo |
-
----
-
 
 ---
 
@@ -944,8 +927,6 @@ La aplicación de D(A,B) a los 97.903 pares produce el siguiente desglose exacto
 
 ---
 
-
----
 
 ## §4.3. Desglose exacto por subdominio
 
@@ -1109,9 +1090,6 @@ El CPS-SV es el primer catálogo de pares estructurales de extensión periódica
 **Tercera.** Establece el dictamen NO-APTO para el 46,7% del dominio, lo que convierte al CPS-SV en un filtro operatorio: no todo par de candidatos es admisible estructuralmente, y el aparato lo determina con criterio explícito y reproducible.
 
 **Cuarta.** Es reproducible: el laboratorio del §8 reejecutado sobre el CSV de la Tabla Global produce exactamente el mismo CPS-SV. Ningún paso del cálculo depende de datos externos ni de parámetros no fijados en §3.
-
----
-
 
 ---
 
@@ -1279,9 +1257,6 @@ Esta ausencia es estructuralmente significativa: Σ₉ es la única familia cuyo
 
 ---
 
-
----
-
 # §6. Criterios de falsación del Catálogo de Pares Estructurales SV
 
 ---
@@ -1413,9 +1388,6 @@ Con el fin de evitar testigos falsadores espurios, se enuncian explícitamente l
 | Par noble×noble recibe dictamen ≠ NO-APTO | F.4 | **No activo** (Proposición 6.1) | — |
 | Número de pares marginales B.2 ≠ 9.858 | F.4 | **No activo** (Proposición 6.2) | — |
 | Pares con IP_suma=1800 y dictamen ≠ {APTO,NO-APTO por B.2/B.3} | F.4 | **No activo** | — |
-
----
-
 
 ---
 
@@ -1605,17 +1577,7 @@ Tiempo (Python 3):  < 1 segundo
 
 ---
 
-
----
-
----
-
 *
-
----
-
-
----
 
 ## §8.8. Inventario del laboratorio reproducible
 
