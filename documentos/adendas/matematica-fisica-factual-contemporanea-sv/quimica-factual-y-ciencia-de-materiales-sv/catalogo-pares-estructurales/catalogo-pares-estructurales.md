@@ -57,7 +57,7 @@ El presente trabajo requiere, para su plena autocontención doctrinal, un marco 
 
 ## §1.1. Continuidad con el catálogo SV-443
 
-Esta publicación es la continuación directa del *Análisis preliminar de elementos, materiales y aleaciones de nueva generación en el Sistema Vectorial SV* (Lloret Egea, 2026d, DOI: 10.17613/8ryyb-g9h48), en adelante **catálogo SV-443**. Su objeto es extender el catálogo desde la caracterización de elementos individuales hacia la caracterización de pares estructurales: dada la Tabla Global del catálogo SV-443, qué pares de elementos son estructuralmente admisibles como enlace o aleación bajo el aparato del Sistema Vectorial SV.
+Esta publicación es la continuación directa del [*Análisis preliminar de elementos, materiales y aleaciones de nueva generación en el Sistema Vectorial SV*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/elementos-materiales-nueva-generacion.md) (Lloret Egea, 2026d, DOI: 10.17613/8ryyb-g9h48), en adelante **catálogo SV-443**. Su objeto es extender el catálogo desde la caracterización de elementos individuales hacia la caracterización de pares estructurales: dada la Tabla Global del catálogo SV-443, qué pares de elementos son estructuralmente admisibles como enlace o aleación bajo el aparato del Sistema Vectorial SV.
 
 ## §1.2. Posición en la cadena ascendente del corpus
 
