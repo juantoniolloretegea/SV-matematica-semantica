@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?><AFIRMA Id="AFIRMA-Root-60f857c3-7e1a-4039-b45a-89268ba5c7ba"><CONTENT Id="CONTENT-c6c422a0-95a6-40a2-91cf-d4b31ceeed98" MimeType="text/xml"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1028 754">
+  <rect fill="#F4F7FA" height="754" width="1028"/>
+  <rect fill="#8B5A00" height="66" width="1028" x="0" y="0"/>
+  <text fill="white" font-family="Georgia,serif" font-size="15" font-weight="bold" letter-spacing="1" text-anchor="middle" x="514" y="22">Tabla Cero SV</text>
+  <text fill="#FFFAF0" font-family="Arial,sans-serif" font-size="8" text-anchor="middle" x="514" y="38">Sistema Vectorial SV · 118 elementos base · grupos A–R · numeración 01–0118 · nomenclatura SV-Alfa → SV-V-Chi</text>
+  <text fill="#FFF5E0" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="514" y="51">Dominio Ω₁₁₈ · Familias Σ₁ y Σ₂ del catálogo CPS-SV · Cada elemento: número con cero inicial · nombre SV · EN_SV · M_SV%</text>
+  
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="69" y="100">A</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="123" y="100">B</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="177" y="100">C</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="231" y="100">D</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="285" y="100">E</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="339" y="100">F</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="393" y="100">G</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="447" y="100">H</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="501" y="100">I</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="555" y="100">J</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="609" y="100">K</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="663" y="100">L</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="717" y="100">M</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="771" y="100">N</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="825" y="100">O</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="879" y="100">P</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="933" y="100">Q</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle" x="987" y="100">R</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="138">1</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="190">2</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="242">3</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="294">4</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="346">5</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="398">6</text>
+  <text fill="#5A7090" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="33" y="450">7</text>
+  <line stroke="#BBCCDD" stroke-dasharray="3,3" stroke-width="0.6" x1="150" x2="959" y1="485" y2="485"/>
+  <text fill="#6680A0" font-family="Arial,sans-serif" font-size="9" text-anchor="end" x="34" y="524">*</text>
+  <text fill="#6680A0" font-family="Arial,sans-serif" font-size="9" text-anchor="end" x="34" y="578">**</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="88.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="118">01</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="137">SV-Alfa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="153">EN 0.55</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="153">M 100%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="88.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="118">02</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="137">SV-Beta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="153">EN 0.69</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="153">M 100%</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="170">03</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="189">SV-Gamma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="205">EN 0.82</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="205">M 98%</text>
+  <rect fill="#F8DCE4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="96.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="100" y="170">04</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="123" y="189">SV-Delta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="100" y="205">EN 0.96</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="146" y="205">M 94%</text>
+  <rect fill="#D2C8E8" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="170">05</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="189">SV-Epsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="205">EN 1.09</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="205">M 89%</text>
+  <rect fill="#DDD4EC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="170">06</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="189">SV-Zeta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="205">EN 1.23</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="205">M 84%</text>
+  <rect fill="#C0E4C0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="170">07</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="189">SV-Eta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="205">EN 1.36</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="205">M 79%</text>
+  <rect fill="#F0F0B4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="170">08</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="189">SV-Theta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="205">EN 1.50</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="205">M 74%</text>
+  <rect fill="#F8D8A0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="170">09</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="189">SV-Iota</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="205">EN 1.63</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="205">M 70%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="140.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="170">010</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="189">SV-Kappa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="205">EN 1.77</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="205">M 65%</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="222">011</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="241">SV-Lambda</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="257">EN 1.90</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="257">M 60%</text>
+  <rect fill="#F8DCE4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="96.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="100" y="222">012</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="123" y="241">SV-Mu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="100" y="257">EN 2.04</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="146" y="257">M 55%</text>
+  <rect fill="#D2C8E8" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="222">013</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="241">SV-Nu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="257">EN 2.17</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="257">M 50%</text>
+  <rect fill="#DDD4EC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="222">014</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="241">SV-Xi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="257">EN 2.31</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="257">M 46%</text>
+  <rect fill="#C0E4C0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="222">015</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="241">SV-Omicron</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="257">EN 2.44</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="257">M 41%</text>
+  <rect fill="#F0F0B4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="222">016</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="241">SV-Pi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="257">EN 2.58</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="257">M 36%</text>
+  <rect fill="#F8D8A0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="222">017</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="241">SV-Rho</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="257">EN 2.71</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="257">M 10%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="192.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="222">018</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="241">SV-Sigma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="257">EN 0.00</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="257">M 2%</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="274">019</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="293">SV-Tau</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="309">EN 0.53</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="309">M 100%</text>
+  <rect fill="#F8DCE4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="96.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="100" y="274">020</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="123" y="293">SV-Upsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="100" y="309">EN 0.66</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="146" y="309">M 100%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="150.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="154" y="274">021</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="177" y="293">SV-Phi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="154" y="309">EN 0.80</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="200" y="309">M 96%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="204.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="208" y="274">022</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="231" y="293">SV-Chi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="208" y="309">EN 0.93</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="254" y="309">M 91%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="258.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="262" y="274">023</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="285" y="293">SV-Psi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="262" y="309">EN 1.07</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="308" y="309">M 87%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="312.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="316" y="274">024</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="339" y="293">SV-Omega</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="316" y="309">EN 1.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="362" y="309">M 82%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="366.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="370" y="274">025</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="393" y="293">SV-II-Alfa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="370" y="309">EN 1.34</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="416" y="309">M 77%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="420.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="424" y="274">026</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="447" y="293">SV-II-Beta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="424" y="309">EN 1.47</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="470" y="309">M 72%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="474.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="478" y="274">027</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="501" y="293">SV-II-Gamma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="478" y="309">EN 1.61</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="524" y="309">M 67%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="528.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="532" y="274">028</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="555" y="293">SV-II-Delta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="532" y="309">EN 1.74</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="578" y="309">M 63%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="582.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="586" y="274">029</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="609" y="293">SV-II-Epsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="586" y="309">EN 1.88</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="632" y="309">M 58%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="636.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="640" y="274">030</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="663" y="293">SV-II-Zeta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="640" y="309">EN 2.01</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="686" y="309">M 53%</text>
+  <rect fill="#D2C8E8" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="274">031</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="293">SV-II-Eta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="309">EN 2.15</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="309">M 48%</text>
+  <rect fill="#DDD4EC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="274">032</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="293">SV-II-Theta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="309">EN 2.28</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="309">M 43%</text>
+  <rect fill="#C0E4C0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="274">033</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="293">SV-II-Iota</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="309">EN 2.42</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="309">M 39%</text>
+  <rect fill="#F0F0B4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="274">034</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="293">SV-II-Kappa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="309">EN 2.55</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="309">M 34%</text>
+  <rect fill="#F8D8A0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="274">035</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="293">SV-II-Lambda</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="309">EN 2.69</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="309">M 10%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="244.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="274">036</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="293">SV-II-Mu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="309">EN 0.00</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="309">M 2%</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="326">037</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="345">SV-II-Nu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="361">EN 0.50</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="361">M 100%</text>
+  <rect fill="#F8DCE4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="96.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="100" y="326">038</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="123" y="345">SV-II-Xi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="100" y="361">EN 0.64</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="146" y="361">M 99%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="150.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="154" y="326">039</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="177" y="345">SV-II-Omicron</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="154" y="361">EN 0.77</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="200" y="361">M 94%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="204.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="208" y="326">040</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="231" y="345">SV-II-Pi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="208" y="361">EN 0.91</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="254" y="361">M 89%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="258.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="262" y="326">041</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="285" y="345">SV-II-Rho</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="262" y="361">EN 1.04</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="308" y="361">M 84%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="312.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="316" y="326">042</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="339" y="345">SV-II-Sigma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="316" y="361">EN 1.18</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="362" y="361">M 80%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="366.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="370" y="326">043</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="393" y="345">SV-II-Tau</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="370" y="361">EN 1.31</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="416" y="361">M 75%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="420.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="424" y="326">044</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="447" y="345">SV-II-Upsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="424" y="361">EN 1.45</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="470" y="361">M 70%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="474.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="478" y="326">045</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="501" y="345">SV-II-Phi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="478" y="361">EN 1.58</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="524" y="361">M 65%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="528.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="532" y="326">046</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="555" y="345">SV-II-Chi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="532" y="361">EN 1.72</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="578" y="361">M 60%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="582.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="586" y="326">047</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="609" y="345">SV-II-Psi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="586" y="361">EN 1.85</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="632" y="361">M 56%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="636.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="640" y="326">048</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="663" y="345">SV-II-Omega</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="640" y="361">EN 1.99</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="686" y="361">M 51%</text>
+  <rect fill="#D2C8E8" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="326">049</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="345">SV-III-Alfa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="361">EN 2.12</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="361">M 46%</text>
+  <rect fill="#DDD4EC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="326">050</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="345">SV-III-Beta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="361">EN 2.26</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="361">M 41%</text>
+  <rect fill="#C0E4C0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="326">051</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="345">SV-III-Gamma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="361">EN 2.39</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="361">M 36%</text>
+  <rect fill="#F0F0B4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="326">052</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="345">SV-III-Delta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="361">EN 2.53</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="361">M 32%</text>
+  <rect fill="#F8D8A0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="326">053</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="345">SV-III-Epsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="361">EN 2.66</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="361">M 10%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="296.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="326">054</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="345">SV-III-Zeta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="361">EN 0.00</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="361">M 2%</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="378">055</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="397">SV-III-Eta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="413">EN 0.48</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="413">M 100%</text>
+  <rect fill="#F8DCE4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="96.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="100" y="378">056</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="123" y="397">SV-III-Theta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="100" y="413">EN 0.61</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="146" y="413">M 97%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="150.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="154" y="504">057</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="177" y="523">SV-III-Iota</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="154" y="539">EN 0.75</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="200" y="539">M 92%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="204.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="208" y="504">058</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="231" y="523">SV-III-Kappa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="208" y="539">EN 0.88</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="254" y="539">M 87%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="258.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="262" y="504">059</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="285" y="523">SV-III-Lambda</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="262" y="539">EN 1.02</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="308" y="539">M 82%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="312.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="316" y="504">060</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="339" y="523">SV-III-Mu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="316" y="539">EN 1.15</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="362" y="539">M 77%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="366.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="370" y="504">061</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="393" y="523">SV-III-Nu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="370" y="539">EN 1.29</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="416" y="539">M 73%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="420.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="424" y="504">062</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="447" y="523">SV-III-Xi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="424" y="539">EN 1.42</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="470" y="539">M 68%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="474.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="478" y="504">063</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="501" y="523">SV-III-Omicron</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="478" y="539">EN 1.56</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="524" y="539">M 63%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="528.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="532" y="504">064</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="555" y="523">SV-III-Pi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="532" y="539">EN 1.69</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="578" y="539">M 58%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="582.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="586" y="504">065</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="609" y="523">SV-III-Rho</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="586" y="539">EN 1.83</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="632" y="539">M 53%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="636.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="640" y="504">066</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="663" y="523">SV-III-Sigma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="640" y="539">EN 1.96</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="686" y="539">M 49%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="504">067</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="523">SV-III-Tau</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="539">EN 2.09</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="539">M 44%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="504">068</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="523">SV-III-Upsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="539">EN 2.23</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="539">M 39%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="504">069</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="523">SV-III-Phi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="539">EN 2.37</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="539">M 34%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="504">070</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="523">SV-III-Chi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="539">EN 2.50</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="539">M 29%</text>
+  <rect fill="#E4CCF0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="474.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="504">071</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="523">SV-III-Psi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="539">EN 2.63</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="539">M 10%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="204.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="208" y="378">072</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="231" y="397">SV-III-Omega</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="208" y="413">EN 0.00</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="254" y="413">M 2%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="258.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="262" y="378">073</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="285" y="397">SV-IV-Alfa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="262" y="413">EN 0.45</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="308" y="413">M 99%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="312.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="316" y="378">074</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="339" y="397">SV-IV-Beta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="316" y="413">EN 0.59</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="362" y="413">M 94%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="366.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="370" y="378">075</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="393" y="397">SV-IV-Gamma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="370" y="413">EN 0.72</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="416" y="413">M 90%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="420.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="424" y="378">076</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="447" y="397">SV-IV-Delta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="424" y="413">EN 0.86</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="470" y="413">M 85%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="474.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="478" y="378">077</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="501" y="397">SV-IV-Epsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="478" y="413">EN 0.99</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="524" y="413">M 80%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="528.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="532" y="378">078</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="555" y="397">SV-IV-Zeta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="532" y="413">EN 1.12</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="578" y="413">M 75%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="582.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="586" y="378">079</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="609" y="397">SV-IV-Eta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="586" y="413">EN 1.26</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="632" y="413">M 70%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="636.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="640" y="378">080</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="663" y="397">SV-IV-Theta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="640" y="413">EN 1.40</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="686" y="413">M 66%</text>
+  <rect fill="#D2C8E8" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="378">081</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="397">SV-IV-Iota</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="413">EN 1.53</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="413">M 61%</text>
+  <rect fill="#DDD4EC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="378">082</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="397">SV-IV-Kappa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="413">EN 1.67</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="413">M 56%</text>
+  <rect fill="#C0E4C0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="378">083</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="397">SV-IV-Lambda</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="413">EN 1.80</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="413">M 51%</text>
+  <rect fill="#F0F0B4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="378">084</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="397">SV-IV-Mu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="413">EN 1.94</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="413">M 46%</text>
+  <rect fill="#F8D8A0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="378">085</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="397">SV-IV-Nu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="413">EN 2.07</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="413">M 42%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="348.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="378">086</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="397">SV-IV-Xi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="413">EN 2.21</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="413">M 37%</text>
+  <rect fill="#F2C6D0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="42.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="46" y="430">087</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="69" y="449">SV-IV-Omicron</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="46" y="465">EN 2.34</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="92" y="465">M 32%</text>
+  <rect fill="#F8DCE4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="96.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="100" y="430">088</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="123" y="449">SV-IV-Pi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="100" y="465">EN 2.48</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="146" y="465">M 27%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="150.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="154" y="558">089</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="177" y="577">SV-IV-Rho</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="154" y="593">EN 2.61</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="200" y="593">M 10%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="204.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="208" y="558">090</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="231" y="577">SV-IV-Sigma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="208" y="593">EN 0.00</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="254" y="593">M 2%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="258.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="262" y="558">091</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="285" y="577">SV-IV-Tau</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="262" y="593">EN 0.43</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="308" y="593">M 97%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="312.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="316" y="558">092</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="339" y="577">SV-IV-Upsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="316" y="593">EN 0.56</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="362" y="593">M 92%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="366.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="370" y="558">093</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="393" y="577">SV-IV-Phi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="370" y="593">EN 0.70</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="416" y="593">M 87%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="420.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="424" y="558">094</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="447" y="577">SV-IV-Chi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="424" y="593">EN 0.83</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="470" y="593">M 83%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="474.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="478" y="558">095</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="501" y="577">SV-IV-Psi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="478" y="593">EN 0.97</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="524" y="593">M 78%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="528.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="532" y="558">096</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="555" y="577">SV-IV-Omega</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="532" y="593">EN 1.10</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="578" y="593">M 73%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="582.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="586" y="558">097</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="609" y="577">SV-V-Alfa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="586" y="593">EN 1.24</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="632" y="593">M 68%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="636.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="640" y="558">098</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="663" y="577">SV-V-Beta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="640" y="593">EN 1.37</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="686" y="593">M 63%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="558">099</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="577">SV-V-Gamma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="593">EN 1.51</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="593">M 59%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="558">0100</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="577">SV-V-Delta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="593">EN 1.64</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="593">M 54%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="558">0101</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="577">SV-V-Epsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="593">EN 1.78</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="593">M 49%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="558">0102</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="577">SV-V-Zeta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="593">EN 1.91</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="593">M 44%</text>
+  <rect fill="#F0C8DC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="528.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="558">0103</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="577">SV-V-Eta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="593">EN 2.04</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="593">M 39%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="204.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="208" y="430">0104</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="231" y="449">SV-V-Theta</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="208" y="465">EN 2.18</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="254" y="465">M 35%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="258.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="262" y="430">0105</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="285" y="449">SV-V-Iota</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="262" y="465">EN 2.32</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="308" y="465">M 30%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="312.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="316" y="430">0106</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="339" y="449">SV-V-Kappa</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="316" y="465">EN 2.45</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="362" y="465">M 25%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="366.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="370" y="430">0107</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="393" y="449">SV-V-Lambda</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="370" y="465">EN 2.58</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="416" y="465">M 10%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="420.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="424" y="430">0108</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="447" y="449">SV-V-Mu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="424" y="465">EN 0.00</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="470" y="465">M 2%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="474.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="478" y="430">0109</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="501" y="449">SV-V-Nu</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="478" y="465">EN 0.40</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="524" y="465">M 95%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="528.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="532" y="430">0110</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="555" y="449">SV-V-Xi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="532" y="465">EN 0.54</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="578" y="465">M 90%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="582.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="586" y="430">0111</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="609" y="449">SV-V-Omicron</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="586" y="465">EN 0.67</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="632" y="465">M 85%</text>
+  <rect fill="#B0D8EE" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="636.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="640" y="430">0112</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="663" y="449">SV-V-Pi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="640" y="465">EN 0.81</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="686" y="465">M 80%</text>
+  <rect fill="#D2C8E8" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="690.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="694" y="430">0113</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="717" y="449">SV-V-Rho</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="694" y="465">EN 0.94</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="740" y="465">M 76%</text>
+  <rect fill="#DDD4EC" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="744.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="748" y="430">0114</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="771" y="449">SV-V-Sigma</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="748" y="465">EN 1.08</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="794" y="465">M 71%</text>
+  <rect fill="#C0E4C0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="798.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="802" y="430">0115</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="825" y="449">SV-V-Tau</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="802" y="465">EN 1.21</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="848" y="465">M 66%</text>
+  <rect fill="#F0F0B4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="852.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="856" y="430">0116</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="879" y="449">SV-V-Upsilon</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="856" y="465">EN 1.35</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="902" y="465">M 61%</text>
+  <rect fill="#F8D8A0" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="906.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="910" y="430">0117</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="933" y="449">SV-V-Phi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="910" y="465">EN 1.48</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="956" y="465">M 56%</text>
+  <rect fill="#CCE4F4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="960.5" y="400.5"/>
+  <text fill="#446680" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="964" y="430">0118</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="987" y="449">SV-V-Chi</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" x="964" y="465">EN 1.62</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.8" text-anchor="end" x="1010" y="465">M 52%</text>
+  <rect fill="#C8D8E4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="150.5" y="348.5"/>
+  <text fill="#445566" font-family="Arial,sans-serif" font-size="10" text-anchor="middle" x="177" y="398">*</text>
+  <rect fill="#C8D8E4" height="50" rx="2.5" stroke="#8899AA" stroke-width="0.5" width="52" x="150.5" y="400.5"/>
+  <text fill="#445566" font-family="Arial,sans-serif" font-size="10" text-anchor="middle" x="177" y="450">**</text>
+  <rect fill="white" height="92" rx="4" stroke="#8899AA" stroke-width="0.5" width="972" x="42" y="648"/>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" x="50" y="665">Categorías de grupos estructurales SV (Tabla Cero · Grupos A–R)</text>
+  <rect fill="#F2C6D0" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="50" y="678"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="65" y="687">Grupo A (G1) · Metales alcalinos</text>
+  <rect fill="#F8DCE4" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="240" y="678"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="255" y="687">Grupo B (G2) · Alcalinotérreos</text>
+  <rect fill="#B0D8EE" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="430" y="678"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="445" y="687">Grupos C–L (G3-12) · Transición</text>
+  <rect fill="#D2C8E8" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="620" y="678"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="635" y="687">Grupos M–N (G13-14) · Post-transición</text>
+  <rect fill="#C0E4C0" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="810" y="678"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="825" y="687">Grupo O (G15) · Semimetales</text>
+  <rect fill="#F0F0B4" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="50" y="704"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="65" y="713">Grupo P (G16) · No metales</text>
+  <rect fill="#F8D8A0" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="240" y="704"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="255" y="713">Grupo Q (G17) · Halógenos</text>
+  <rect fill="#CCE4F4" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="430" y="704"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="445" y="713">Grupo R (G18) · Gases nobles</text>
+  <rect fill="#E4CCF0" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="620" y="704"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="635" y="713">*  Lantánidos · período 6 · bloque f</text>
+  <rect fill="#F0C8DC" height="10" rx="2" stroke="#8899AA" stroke-width="0.4" width="12" x="810" y="704"/>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" x="825" y="713">** Actínidos  · período 7 · bloque f</text>
+  <text fill="#333333" font-family="Arial,sans-serif" font-size="6" text-anchor="middle" x="514" y="733">© 2026 Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351 · ITVIA · IA eñ™ — La Biblia de la IA™ · ISSN 2695-6411 · CC BY-NC-ND 4.0 · Madrid, 09/05/2026</text>
+</svg></CONTENT><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-Signature"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="Reference-56d60ce8-a5e5-4b80-aec6-5fd8c320efab" URI="#CONTENT-c6c422a0-95a6-40a2-91cf-d4b31ceeed98"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>dpZZ1JXvcr+cHLXRlyB7/kfgw3wTMKihqfusUcou22QdRFEQmD2ArT08yJSbIPOrNG4sX9/8ndcN7fVdszSG6g==</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>vrvqaqqz5ibFU57NXQ+YHXQdPGXxU6jMFei39GHaOgLVd09756A1Yz3TkJqpMouw+0EccUYff8v3YX6LqbBlEg==</ds:DigestValue></ds:Reference><ds:Reference URI="#Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-KeyInfo"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>qT5JOyhqKPtFZMkWx3gGya0kiOwpjOqNDIZB9kWsGzLDtArN1mFfYcnsB01zDzd9/vvdqunjv/smjGHBt87OPg==</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-SignatureValue">aCNQL2VQKWbMWFSXUiIXD22iDGhAn24qn/MILW7xWt9YK7976+2A1yQ7raPs3vDGviPBNLB2ykTcUKNEeSqKewzjy16X3P+dtH+F8PvkQPVgK1qEE+HayZegoNZwivh/XrLNyiYIgBkmHAc3kx4F1XawJY/r2CnSrMjpneH7GAdlbzfPHci+9ny9uE6Bo0+OOnn5F+jY7/bzt0jwEAYaz+gdGJjVp7dl+7a/zbfBFamEcuiFht07ikgc3djch7AXDxnl0B9vsRoUZBBy6Y/dmIs9osjhh+Rb2KwcfIn0jSpRx/nTO7eDrQ4QOS0ClKlZ+TmTIbLcQsukuS9kvBKqCg==</ds:SignatureValue><ds:KeyInfo Id="Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-KeyInfo"><ds:X509Data><ds:X509Certificate>MIIHnzCCBoegAwIBAgIQU+UmM/dSEsZolZ6hbnsGBjANBgkqhkiG9w0BAQsFADBLMQswCQYDVQQGEwJFUzERMA8GA1UECgwIRk5NVC1SQ00xDjAMBgNVBAsMBUNlcmVzMRkwFwYDVQQDDBBBQyBGTk1UIFVzdWFyaW9zMB4XDTI1MDgwODA2NTIxN1oXDTI5MDgwODA2NTIxN1owgYMxCzAJBgNVBAYTAkVTMRgwFgYDVQQFEw9JRENFUy01MjgxMzAxMEwxFTATBgNVBCoMDEpVQU4gQU5UT05JTzEUMBIGA1UEBAwLTExPUkVUIEVHRUExLTArBgNVBAMMJExMT1JFVCBFR0VBIEpVQU4gQU5UT05JTyAtIDUyODEzMDEwTDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALd7xcqK1vPzaIwDxjZzCGyn9JqsY/yoOU0fGXdms4uE3fBGPoVZwghrBNFT/Gqnk9B59oJmpiddvGALVIQRYlUvAonFSccg63+3O0L7UlrDf5Y9ORICjBFnVWBQ4ccBGo/BJjLR0Q/RByNq1OOnuj0aV1jDiJGka9Fpg9aatVmGw82LeMDiqmvClx+KrtqMEP3h1/suT7kCEZHcr9LciUtDonYcIWl6r27UvgIuG8sMW70hWcvfpUBsJyRkeio+W+T7+Uea2yGssAB8Rp4XLxHdsrYJpt6/jG8SGXUXE8AA4/GglMNhgj8W8vlqS8elWKFf9O3kzt8a2GGQMOslW9sCAwEAAaOCBEQwggRAMHAGA1UdEQRpMGekZTBjMRgwFgYJKwYBBAGsZgEEDAk1MjgxMzAxMEwxEzARBgkrBgEEAaxmAQMMBEVHRUExFTATBgkrBgEEAaxmAQIMBkxMT1JFVDEbMBkGCSsGAQQBrGYBAQwMSlVBTiBBTlRPTklPMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgXgMCoGA1UdJQQjMCEGCCsGAQUFBwMCBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwHQYDVR0OBBYEFAQmZ3EterhNHk8NdebmOhrdvvmlMB8GA1UdIwQYMBaAFLHUT8QjefpEBQnG6znP6DWwuCBkMIGCBggrBgEFBQcBAQR2MHQwPQYIKwYBBQUHMAGGMWh0dHA6Ly9vY3NwdXN1LmNlcnQuZm5tdC5lcy9vY3NwdXN1L09jc3BSZXNwb25kZXIwMwYIKwYBBQUHMAKGJ2h0dHA6Ly93d3cuY2VydC5mbm10LmVzL2NlcnRzL0FDVVNVLmNydDCCARUGA1UdIASCAQwwggEIMIH6BgorBgEEAaxmAwoBMIHrMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3LmNlcnQuZm5tdC5lcy9kcGNzLzCBvQYIKwYBBQUHAgIwgbAMga1DZXJ0aWZpY2FkbyBjdWFsaWZpY2FkbyBkZSBmaXJtYSBlbGVjdHLDs25pY2EuIFN1amV0byBhIGxhcyBjb25kaWNpb25lcyBkZSB1c28gZXhwdWVzdGFzIGVuIGxhIERQQyBkZSBsYSBGTk1ULVJDTSBjb24gTklGOiBRMjgyNjAwNC1KIChDL0pvcmdlIEp1YW4gMTA2LTI4MDA5LU1hZHJpZC1Fc3Bhw7FhKTAJBgcEAIvsQAEAMIG6BggrBgEFBQcBAwSBrTCBqjAIBgYEAI5GAQEwCwYGBACORgEDAgEPMBMGBgQAjkYBBjAJBgcEAI5GAQYBMHwGBgQAjkYBBTByMDcWMWh0dHBzOi8vd3d3LmNlcnQuZm5tdC5lcy9wZHMvUERTQUNVc3Vhcmlvc19lcy5wZGYTAmVzMDcWMWh0dHBzOi8vd3d3LmNlcnQuZm5tdC5lcy9wZHMvUERTQUNVc3Vhcmlvc19lbi5wZGYTAmVuMIHmBgNVHR8Egd4wgdswgdiggdWggdKGgZ9sZGFwOi8vbGRhcHVzdS5jZXJ0LmZubXQuZXMvY249Q1JMVTMzMTIsY249QUMlMjBGTk1UJTIwVXN1YXJpb3Msb3U9Q0VSRVMsbz1GTk1ULVJDTSxjPUVTP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q7YmluYXJ5P2Jhc2U/b2JqZWN0Y2xhc3M9Y1JMRGlzdHJpYnV0aW9uUG9pbnSGLmh0dHA6Ly93d3cuY2VydC5mbm10LmVzL2NybHNhY3VzdS9DUkxVMzMxMi5jcmwwDQYJKoZIhvcNAQELBQADggEBABDHx/v8cZ+29ozZQRQ5wRNgq5sIzvsNnOe4muNu7seC9Jp+GRTySVOzNj1kl+ALB63kUFeCwD1E/wkW2SfrEauXFPHQne3hkh04Ugo5pkccO2ouKyBXKk8PMign+lMEgFdSHNgu+CPdVFGHDleDyLCen6aHsUWX75tTvuvY8hs9TuH8F4KN366PmPsKsDSeY/fkGrT38m2snmLCopzU2RSZSTI+FldHfwtHky3btsM3AjqTbjDEMhVbLFQIgP87m15VCtpeEgPPfs++XlmnESEq0OG4rodxdesKIuxiCngpOrUJmolMkqsXGzuyrDmwVjywRJjcq7bo+0kP8rduYfs=</ds:X509Certificate><ds:X509Certificate>MIIG2jCCBMKgAwIBAgIQRV864VwhzbpUT4KqR1Hr2zANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJFUzERMA8GA1UECgwIRk5NVC1SQ00xGTAXBgNVBAsMEEFDIFJBSVogRk5NVC1SQ00wHhcNMTQxMDI4MTE0ODU4WhcNMjkxMDI4MTE0ODU4WjBLMQswCQYDVQQGEwJFUzERMA8GA1UECgwIRk5NVC1SQ00xDjAMBgNVBAsMBUNlcmVzMRkwFwYDVQQDDBBBQyBGTk1UIFVzdWFyaW9zMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSAEJi37LWkwy9mTf6XlrtRwcu+UvkVr5Y+yC/m6M4Ylr4bxwNjbtj++8b6JBab9wyHhktVSIBa+diYhfsHsWVWgkOlSzNIPqTPKOmjYtL3UJuoW3AbpDNZJEVFgEolkCg51wXKMjO7O5CfJwIA3iV2fbeeR4YAOms/1mqm0LSkrWiwwlYF9Vn8aqr/eAnT/d8KdYC5Z/9Mc1azWHWN7zJ6MTduZ9PcVjMm70iviHaohgEUu979by23acx69q7qLPjHkYoGhf2ft1tQqYmjs9icgwPhrzLyy1zzXYy0HoeFns4bi2N+MBTmpf/i8HZOK6By3MS2UlCsjXhHhzamwRwIDAQABo4ICyDCCAsQwEgYDVR0TAQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFLHUT8QjefpEBQnG6znP6DWwuCBkMIGYBggrBgEFBQcBAQSBizCBiDBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bmbm10cmNtY2EuY2VydC5mbm10LmVzL29jc3Bmbm10cmNtY2EvT2NzcFJlc3BvbmRlcjA7BggrBgEFBQcwAoYvaHR0cDovL3d3dy5jZXJ0LmZubXQuZXMvY2VydHMvQUNSQUlaRk5NVFJDTS5jcnQwHwYDVR0jBBgwFoAU933F/cTomht3ZKf1HaDMv4dgmm0wgesGA1UdIASB4zCB4DCB3QYEVR0gADCB1DApBggrBgEFBQcCARYdaHR0cDovL3d3dy5jZXJ0LmZubXQuZXMvZHBjcy8wgaYGCCsGAQUFBwICMIGZDIGWU3VqZXRvIGEgbGFzIGNvbmRpY2lvbmVzIGRlIHVzbyBleHB1ZXN0YXMgZW4gbGEgRGVjbGFyYWNpw7NuIGRlIFByw6FjdGljYXMgZGUgQ2VydGlmaWNhY2nDs24gZGUgbGEgRk5NVC1SQ00gKCBDLyBKb3JnZSBKdWFuLCAxMDYtMjgwMDktTWFkcmlkLUVzcGHDsWEpMIHUBgNVHR8EgcwwgckwgcaggcOggcCGgZBsZGFwOi8vbGRhcGZubXQuY2VydC5mbm10LmVzL0NOPUNSTCxPVT1BQyUyMFJBSVolMjBGTk1ULVJDTSxPPUZOTVQtUkNNLEM9RVM/YXV0aG9yaXR5UmV2b2NhdGlvbkxpc3Q7YmluYXJ5P2Jhc2U/b2JqZWN0Y2xhc3M9Y1JMRGlzdHJpYnV0aW9uUG9pbnSGK2h0dHA6Ly93d3cuY2VydC5mbm10LmVzL2NybHMvQVJMRk5NVFJDTS5jcmwwDQYJKoZIhvcNAQELBQADggIBAIw9KLTgfg3zblzaXHc9gGQeTukSuMnmsv8rgKB4PYRMLGWLL9zxYyvn3VJB26/8FwuMmoTyCdRdVqKe+YJmwIVenF7qg+d8Ro5+X+Zj7ati70ZOJ2GVgb1NAj2pNA+Z+eZrVpUDn31L+3ziThLvpAtEtTx6ATFbJmEgkpR1AnbWzvuswwUIMUBspR02niCIzqCJVm2u2Uy9kHw+diBJRuwVYppBZavgn7ECNO+vKeIAKZme+WMd0ZQThkDRYIxFFwYhWFoc1TE+Lf0nVbEa5j/v6oVcauP+2dyLjH/rTdVhh4LnI/DKPGKHduQ8qXuhbxgbIiu8jBT/0n3dWQPFB3ou9+sHllT9uSUVGrtK+KyjgGLH5oe8i4GObH7GJUthkUwEYzGijg/WmKvm+jg0gnlWT7HiU0K4fEWldIBl9nNah12ySPVN63q/8kCXS3JR8cM82ZeszLVntPs64itV2WKrkrNA+Ltu4Z/UTY4luH+IRevo9reT6790MQvYrCwjSsuND4fXI86/mGESGvhbwECmphe8L/jV0uZ01yI5mmghedBr5WqKv64EmIXNFVZ23+mh8RFCgqPZsatVaVoBQq1FevOhPMjEvxiMgzPXve2A3gSmng/UKDcKGzFbyL+veSZhdP854mPk3IPECYZENqAYWXjBltm8UDRmUBt1wpgR</ds:X509Certificate><ds:X509Certificate>MIIFgzCCA2ugAwIBAgIPXZONMGc2yAYdGsdUhGkHMA0GCSqGSIb3DQEBCwUAMDsxCzAJBgNVBAYTAkVTMREwDwYDVQQKDAhGTk1ULVJDTTEZMBcGA1UECwwQQUMgUkFJWiBGTk1ULVJDTTAeFw0wODEwMjkxNTU5NTZaFw0zMDAxMDEwMDAwMDBaMDsxCzAJBgNVBAYTAkVTMREwDwYDVQQKDAhGTk1ULVJDTTEZMBcGA1UECwwQQUMgUkFJWiBGTk1ULVJDTTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALpxgHpMhm5/yBNtwMZ9HACXjywMI7sQmkCpGreHiPibVmr75nuOi5KOpyVdWRHbNi63URcfqQgfBBckWKo3Shjf5TnUV/3XwSyRAZHiItQDwFj8d0fsjz50Q7qsNI1NOHZnjrDIbzAzWHFctPVrbtQBULgTfmxKo0nRIBnuvMApGGWn3v7v3QqQIecaZ5JCEJhfTzC8PhxFtBDXaEAUwED653cXeuYLj2VbPNmaUtu1vZ5Gzz3rkQUCwJaydkxNEJY7kvqcfw+Z374jNUUeAlz+taibmSXaXvMiwzn15Cou08YfxGyqxRxqAQVKL9LFwag0Jl1mpdICIfkYtwb1TplvqKtMUejPUBjFd8g5CSxJkjKZqLsXF3mwWsXmo8RZZUc1g16p6DULmbvkzSDGm0oGObVo/CK67lWMK07q87Hj/LaZmtVC+nFNCM+HHmpxffnTtOmlcYF7wk5HlqX2doWjKI/pgG6BU6VtX7hI+cL5NqYuSf+4lsKMB7ObiFj86xsc3i1w4peSMKGJ47xVqCfWS+2QrYv6YyVZLag13cqXM7zlzced0ezvXg5KkAYmY6252TUtB7p2ZSysV4999AeU14ECll2jB0nVetBX+RvnU0Z1qrB5QstocQjpYL05ac70r8NWQMetUqIJ5G+GR4of6ygnXYMgrwTJbFaai0b1AgMBAAGjgYMwgYAwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFPd9xf3E6Jobd2Sn9R2gzL+HYJptMD4GA1UdIAQ3MDUwMwYEVR0gADArMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3LmNlcnQuZm5tdC5lcy9kcGNzLzANBgkqhkiG9w0BAQsFAAOCAgEAB5BK3/MjTvDDnFFlm5wioooMhfNzKWtN/gHiqQxjAb8EZ6WdmF/9ARP67Jpi6Yb+tmLSbkyU+8B1RXxlDPiyN8+sD8+Nb/kZ94/sHvJwnvDKuO+3/3Y3dlv2bojzr2IyIpMNOmqOFGYMLVN0V2Ue1bLdI4E7pWYjJ2cJj+F3qkPNZVEI7VFY/uY5+ctHhKQV8Xa7pO6kO8Rf77IzlhEYt8llvhjho6Tc+hj507wTmzl6NLrTQfv6MooqtyuGC2mDOL7Nii4LcK2NJpLuHvUBKwrZ1pebbuCoGRw6IYsMHkCtA+fdZn71uSANA+iW+YJF1DngoABd15jmfZ5nc8OaKveri6E6FO80vFIOiZiaBECEHX5FaZNXzuvO+FB8TxxuBEOb+dY7Ixjp6o7RTUaN8Tvkasq6+yO3m/qZASlaWFot4/nUbQ4mrcFuNLwy+AwF+mWj2zs3gyLp1txyM/1d8iC9djwj2ij3+RvrWWTV3F9yfiD8zYm1kGdNYno/Tq0dwzn+evQoFt9B9kiABdcPUXmsEKvU7ANm5mqwujGSQkBqvjrTcuFqN1W8rB2Vt2lh8kORdOag0wokRqEIr9baRRmW1FMdW4R58MD3R++Lj8UGrp1MYp3/RgT408m2ECVAdf4WqslKYIYvuu8wd+RU4riEmViAqhOLUTpPSPaLtrM=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>t3vFyorW8/NojAPGNnMIbKf0mqxj/Kg5TR8Zd2azi4Td8EY+hVnCCGsE0VP8aqeT0Hn2gmamJ128YAtUhBFiVS8CicVJxyDrf7c7QvtSWsN/lj05EgKMEWdVYFDhxwEaj8EmMtHRD9EHI2rU46e6PRpXWMOIkaRr0WmD1pq1WYbDzYt4wOKqa8KXH4qu2owQ/eHX+y5PuQIRkdyv0tyJS0OidhwhaXqvbtS+Ai4bywxbvSFZy9+lQGwnJGR6Kj5b5Pv5R5rbIaywAHxGnhcvEd2ytgmm3r+MbxIZdRcTwADj8aCUw2GCPxby+WpLx6VYoV/07eTO3xrYYZAw6yVb2w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-QualifyingProperties" Target="#Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-Signature" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><xades:SignedProperties Id="Signature-feaa41dc-baf7-4029-9378-c5d7ae480953-SignedProperties"><xades:SignedSignatureProperties><xades:SigningTime>2026-05-09T22:27:06+02:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>1/zbmuoTW9/+95wFfrvIQjS5KT3a6tdu+fHrevAQuOQbUJDwvWC+4L/XASm8KedAPEBmhYXGZgYMGMD1MtKuGg==</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AC FNMT Usuarios,OU=Ceres,O=FNMT-RCM,C=ES</ds:X509IssuerName><ds:X509SerialNumber>111515734479495737974575550712057103878</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-56d60ce8-a5e5-4b80-aec6-5fd8c320efab"><xades:Description/><xades:ObjectIdentifier><xades:Identifier Qualifier="OIDAsURN">urn:oid:1.2.840.10003.5.109.10</xades:Identifier><xades:Description/></xades:ObjectIdentifier><xades:MimeType>text/xml</xades:MimeType><xades:Encoding/></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></AFIRMA>

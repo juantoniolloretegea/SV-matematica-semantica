@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 675">
+  <rect width="980" height="620" fill="#F4F7FA"/>
+  <rect x="0" y="0" width="980" height="66" fill="#1A2A1A"/>
+  <text x="490" y="21" font-family="Georgia,serif" font-size="14.5" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.5">Tabla Global SV — Tabla Cero + Tabla 1</text>
+  <text x="490" y="36" font-family="Arial,sans-serif" font-size="8" fill="#E8F8E8" text-anchor="middle">Sistema Vectorial SV · 443 elementos · 12 familias tipológicas Σ₁–Σ₁₂ · Tabla Cero k 01–0118 · Tabla 1 k 119–443</text>
+  <text x="490" y="50" font-family="Arial,sans-serif" font-size="7.5" fill="#D8F0D8" text-anchor="middle">Dominio operativo Ω₄₄₃ del Catálogo de Pares Estructurales SV (CPS-SV) · 97.903 pares no ordenados</text>
+  <text x="490" y="62" font-family="Arial,sans-serif" font-size="6.2" fill="#E8F8E8" text-anchor="middle">Tabla Global SV · CPS-SV · 443 elementos · 97.903 pares no ordenados</text>
+  <!-- LEFT PANEL: Tabla Cero — amber/warm -->
+  <rect x="16" y="151" width="250" height="28" fill="#8B5A00" rx="4"/>
+  <text x="141" y="163" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">Tabla Cero SV</text>
+  <text x="141" y="175" font-family="Arial,sans-serif" font-size="8.5" fill="#FFFAF0" text-anchor="middle">Ω₁₁₈ · 118 elementos · k 01–0118</text>
+  <!-- Tabla Cero description -->
+  <rect x="16" y="185" width="250" height="72" fill="#FFF8EC" stroke="#C8A060" stroke-width="0.8" rx="3"/>
+  <text x="141" y="199" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#5A3800" text-anchor="middle">Qué es la Tabla Cero</text>
+  <text x="24" y="212" font-family="Arial,sans-serif" font-size="7" fill="#3A2800">Los 118 elementos base del corpus SV. Dos</text>
+  <text x="24" y="223" font-family="Arial,sans-serif" font-size="7" fill="#3A2800">familias: Σ₁ (convergente pura, k 01–058) y</text>
+  <text x="24" y="234" font-family="Arial,sans-serif" font-size="7" fill="#3A2800">Σ₂ (exploratoria pura, k 059–0118). Perfil</text>
+  <text x="24" y="245" font-family="Arial,sans-serif" font-size="7" fill="#3A2800">φ(k) = (EN_SV, r_SV, IP_SV, M_SV).</text>
+  <text x="24" y="254" font-family="Arial,sans-serif" font-size="7" font-style="italic" fill="#8B5A00">Estatuto V · contrastable experimentalmente</text>
+  <!-- Column headers Tabla Cero -->
+  <rect x="16" y="259" width="250" height="14" fill="#E8D0A0"/>
+  <text x="50" y="269" font-family="Arial,sans-serif" font-size="6.5" font-weight="bold" fill="#5A3800">Familia / Morfología</text>
+  <text x="198" y="269" font-family="Arial,sans-serif" font-size="5.8" font-weight="bold" fill="#5A3800" text-anchor="end">n · k</text>
+  <text x="212" y="269" font-family="Arial,sans-serif" font-size="5.8" font-weight="bold" fill="#5A3800" text-anchor="start">EN_SV</text>
+  <text x="260" y="269" font-family="Arial,sans-serif" font-size="5.8" font-weight="bold" fill="#5A3800" text-anchor="end">M%</text>
+  <!-- Σ₁ -->
+  <rect x="16" y="273" width="250" height="30" fill="#FFFFFF"/>
+  <line x1="16" y1="303" x2="266" y2="303" stroke="#D4B880" stroke-width="0.3"/>
+  <rect x="17" y="276" width="24" height="24" fill="#C5D8EE" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="29" y="292" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#1A3060" text-anchor="middle">Σ₁</text>
+  <text x="48" y="285" font-family="Arial,sans-serif" font-size="6.3" fill="#1A2A3A">Convergente pura   −−−…</text>
+  <text x="198" y="291" font-family="Arial,sans-serif" font-size="5.7" fill="#334455" text-anchor="end">58 · 01–058</text>
+  <text x="212" y="291" font-family="Arial,sans-serif" font-size="5.7" fill="#334455" text-anchor="start">0.00–2.71</text>
+  <text x="260" y="291" font-family="Arial,sans-serif" font-size="5.7" fill="#334455" text-anchor="end">2–100</text>
+  <!-- Σ₂ -->
+  <rect x="16" y="303" width="250" height="30" fill="#F5F0E8"/>
+  <line x1="16" y1="333" x2="266" y2="333" stroke="#D4B880" stroke-width="0.3"/>
+  <rect x="17" y="306" width="24" height="24" fill="#B8E4C4" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="29" y="322" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#1A4A2A" text-anchor="middle">Σ₂</text>
+  <text x="48" y="318" font-family="Arial,sans-serif" font-size="6.3" fill="#1A2A3A">Exploratoria pura   +++…</text>
+  <text x="198" y="322" font-family="Arial,sans-serif" font-size="5.7" fill="#334455" text-anchor="end">60 · 059–0118</text>
+  <text x="212" y="322" font-family="Arial,sans-serif" font-size="5.7" fill="#334455" text-anchor="start">0.00–2.63</text>
+  <text x="260" y="322" font-family="Arial,sans-serif" font-size="5.7" fill="#334455" text-anchor="end">2–99</text>
+  <!-- Total Tabla Cero -->
+  <rect x="16" y="333" width="250" height="14" fill="#E8D0A0"/>
+  <text x="52" y="343" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#5A3800">Total: 118 elementos</text>
+  <!-- Tabla Global description -->
+  <rect x="16" y="353" width="250" height="88" fill="#F0F5F0" stroke="#8899CC" stroke-width="0.8" rx="3"/>
+  <text x="141" y="367" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#1A2A1A" text-anchor="middle">Qué es la Tabla Global</text>
+  <text x="24" y="379" font-family="Arial,sans-serif" font-size="7" fill="#1F3050">Ω₄₄₃ = Tabla Cero ∪ Tabla 1 · 443 elementos.</text>
+  <text x="24" y="390" font-family="Arial,sans-serif" font-size="7" fill="#1F3050">Dominio operativo del CPS-SV. Cada par no</text>
+  <text x="24" y="401" font-family="Arial,sans-serif" font-size="7" fill="#1F3050">ordenado {A,B} ⊂ Ω₄₄₃ es un protopar Π(A,B)</text>
+  <text x="24" y="412" font-family="Arial,sans-serif" font-size="7" fill="#1F3050">sobre el que opera U_SV → D(A,B).</text>
+  <text x="24" y="423" font-family="Arial,sans-serif" font-size="7" fill="#1F3050">|Ω_proto| = C(443,2) = 97.903 protopares.</text>
+  <text x="24" y="434" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">Celda: EN_SV · M_SV% por elemento</text>
+  <!-- CPS-SV results -->
+  <rect x="16" y="447" width="250" height="96" fill="#F0F4EE" stroke="#5A8050" stroke-width="0.8" rx="3"/>
+  <text x="141" y="461" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#1A4020" text-anchor="middle">Resultado CPS-SV sobre Ω₄₄₃</text>
+  <text x="24" y="475" font-family="Arial,sans-serif" font-size="7" fill="#1A2A1A">APTO-M  (metálico)       9.515   9,7%</text>
+  <text x="24" y="487" font-family="Arial,sans-serif" font-size="7" fill="#1A2A1A">APTO-C  (covalente)    37.580  38,4%</text>
+  <text x="24" y="499" font-family="Arial,sans-serif" font-size="7" fill="#1A2A1A">APTO-I   (iónico)           5.075    5,2%</text>
+  <text x="24" y="511" font-family="Arial,sans-serif" font-size="7" fill="#1A2A1A">NO-APTO  (absorbido)   45.733  46,7%</text>
+  <line x1="24" y1="517" x2="258" y2="517" stroke="#5A8050" stroke-width="0.5"/>
+  <text x="24" y="528" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#1A4020">APTO total: 52.170 pares (53,3%)</text>
+  
+  <!-- RIGHT PANEL: Tabla 1 -->
+  <rect x="274" y="151" width="690" height="28" fill="#1A5030" rx="4"/>
+  <text x="619" y="163" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">Tabla 1 SV</text>
+  <text x="619" y="175" font-family="Arial,sans-serif" font-size="8.5" fill="#EEFFF5" text-anchor="middle">Ω_ext · 325 candidatos estructurales · k 119–443 · Estatuto U</text>
+  <rect x="274" y="185" width="690" height="15" fill="#E8EDE8"/>
+  <text x="308" y="196" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">Familia / Descripción morfológica</text>
+  <text x="730" y="196" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">Derivadas</text>
+  <text x="784" y="196" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">n</text>
+  <text x="814" y="196" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">k inicio–fin</text>
+  <text x="878" y="196" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">EN_SV</text>
+  <text x="924" y="196" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="#1A2A1A">M_SV %</text>
+  <!-- Σ₃ -->
+  <rect x="274" y="200" width="690" height="33" fill="#FFFFFF"/>
+  <line x1="274" y1="233" x2="964" y2="233" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="204" width="26" height="25" fill="#F2DFB8" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="221" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#4A3010" text-anchor="middle">Σ₃</text>
+  <text x="308" y="220" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Bimodal apertura–cierre</text>
+  <text x="754" y="221" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#4A3010" text-anchor="middle">+−…</text>
+  <text x="796" y="221" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">37</text>
+  <text x="843" y="221" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">119–155</text>
+  <text x="898" y="221" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="221" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₄ -->
+  <rect x="274" y="233" width="690" height="33" fill="#F2F6FC"/>
+  <line x1="274" y1="266" x2="964" y2="266" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="237" width="26" height="25" fill="#ECD8B8" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="254" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#3A2800" text-anchor="middle">Σ₄</text>
+  <text x="308" y="253" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Bimodal cierre–apertura</text>
+  <text x="754" y="254" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#3A2800" text-anchor="middle">−+…</text>
+  <text x="796" y="254" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">37</text>
+  <text x="843" y="254" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">156–192</text>
+  <text x="898" y="254" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="254" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₅ -->
+  <rect x="274" y="266" width="690" height="33" fill="#FFFFFF"/>
+  <line x1="274" y1="299" x2="964" y2="299" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="270" width="26" height="25" fill="#D8ECC4" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="287" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#1E3E10" text-anchor="middle">Σ₅</text>
+  <text x="308" y="286" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Meseta integral · nodo universal APTO-M</text>
+  <text x="754" y="287" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#1E3E10" text-anchor="middle">000…</text>
+  <text x="796" y="287" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">60</text>
+  <text x="843" y="287" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">193–252</text>
+  <text x="898" y="287" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="287" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₆ -->
+  <rect x="274" y="299" width="690" height="33" fill="#F2F6FC"/>
+  <line x1="274" y1="332" x2="964" y2="332" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="303" width="26" height="25" fill="#D8C8EC" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="320" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#2A1A4A" text-anchor="middle">Σ₆</text>
+  <text x="308" y="319" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Convergente c/meseta</text>
+  <text x="754" y="320" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#2A1A4A" text-anchor="middle">−00…</text>
+  <text x="796" y="320" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">42</text>
+  <text x="843" y="320" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">253–294</text>
+  <text x="898" y="320" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="320" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₇ -->
+  <rect x="274" y="332" width="690" height="33" fill="#FFFFFF"/>
+  <line x1="274" y1="365" x2="964" y2="365" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="336" width="26" height="25" fill="#ECC8D8" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="353" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#3A1020" text-anchor="middle">Σ₇</text>
+  <text x="308" y="352" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Exploratoria c/meseta</text>
+  <text x="754" y="353" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#3A1020" text-anchor="middle">+00…</text>
+  <text x="796" y="353" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">42</text>
+  <text x="843" y="353" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">295–336</text>
+  <text x="898" y="353" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="353" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₈ -->
+  <rect x="274" y="365" width="690" height="33" fill="#F2F6FC"/>
+  <line x1="274" y1="398" x2="964" y2="398" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="369" width="26" height="25" fill="#F0E0C0" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="386" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#3A2808" text-anchor="middle">Σ₈</text>
+  <text x="308" y="385" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Exploratoria c/saturación</text>
+  <text x="754" y="386" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#3A2808" text-anchor="middle">++−…</text>
+  <text x="796" y="386" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">31</text>
+  <text x="843" y="386" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">337–367</text>
+  <text x="898" y="386" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="386" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₉ excluida -->
+  <rect x="274" y="398" width="690" height="33" fill="#F6F6F6"/>
+  <line x1="274" y1="431" x2="964" y2="431" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="402" width="26" height="25" fill="#E4E8EC" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="419" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#7A8898" text-anchor="middle">Σ₉</text>
+  <text x="308" y="418" font-family="Arial,sans-serif" font-size="7.5" fill="#889">Multimodal compleja · excluida (Q.1 irreparable)</text>
+  <text x="754" y="419" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#7A8898" text-anchor="middle">+−+−</text>
+  <text x="796" y="419" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#999" text-anchor="middle">—</text>
+  <text x="843" y="419" font-family="Arial,sans-serif" font-size="7.5" fill="#999" text-anchor="middle">—</text>
+  <text x="898" y="419" font-family="Arial,sans-serif" font-size="7" fill="#999" text-anchor="middle">—</text>
+  <text x="943" y="419" font-family="Arial,sans-serif" font-size="7" fill="#999" text-anchor="middle">—</text>
+  <!-- Σ₁₀ -->
+  <rect x="274" y="431" width="690" height="33" fill="#FFFFFF"/>
+  <line x1="274" y1="464" x2="964" y2="464" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="435" width="26" height="25" fill="#C8E4F0" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="452" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#0A2840" text-anchor="middle">Σ₁₀</text>
+  <text x="308" y="451" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Umbral tardío</text>
+  <text x="754" y="452" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#0A2840" text-anchor="middle">+++0</text>
+  <text x="796" y="452" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">34</text>
+  <text x="843" y="452" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">368–401</text>
+  <text x="898" y="452" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="452" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₁₁ -->
+  <rect x="274" y="464" width="690" height="33" fill="#F2F6FC"/>
+  <line x1="274" y1="497" x2="964" y2="497" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="468" width="26" height="25" fill="#F0C8E4" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="485" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#3A0828" text-anchor="middle">Σ₁₁</text>
+  <text x="308" y="484" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Convergencia tardía</text>
+  <text x="754" y="485" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#3A0828" text-anchor="middle">−−−0</text>
+  <text x="796" y="485" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">34</text>
+  <text x="843" y="485" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">402–435</text>
+  <text x="898" y="485" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.00–2.20</text>
+  <text x="943" y="485" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">15–100</text>
+  <!-- Σ₁₂ -->
+  <rect x="274" y="497" width="690" height="33" fill="#FFFFFF"/>
+  <line x1="274" y1="530" x2="964" y2="530" stroke="#CDD8E4" stroke-width="0.3"/>
+  <rect x="275" y="501" width="26" height="25" fill="#E4F0C8" stroke="#8899AA" stroke-width="0.5" rx="3"/>
+  <text x="289" y="518" font-family="Georgia,serif" font-size="11" font-weight="bold" fill="#204000" text-anchor="middle">Σ₁₂</text>
+  <text x="308" y="517" font-family="Arial,sans-serif" font-size="7.5" fill="#1A2A3A">Bimodal c/saturación</text>
+  <text x="754" y="518" font-family="Courier,monospace" font-size="10" font-weight="bold" fill="#204000" text-anchor="middle">+−00</text>
+  <text x="796" y="518" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#1A2A3A" text-anchor="middle">8</text>
+  <text x="843" y="518" font-family="Arial,sans-serif" font-size="7.5" fill="#334455" text-anchor="middle">436–443</text>
+  <text x="898" y="518" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">0.80–1.50</text>
+  <text x="943" y="518" font-family="Arial,sans-serif" font-size="7" fill="#334455" text-anchor="middle">33–72</text>
+  <!-- Total Tabla 1 -->
+  <rect x="274" y="530" width="690" height="16" fill="#C8E0D0"/>
+  <text x="310" y="541" font-family="Arial,sans-serif" font-size="8" font-weight="bold" fill="#1A4020">Total: 325 elementos · estatuto U (en espera de contraste experimental)</text>
+  <!-- Divider -->
+  <line x1="269" y1="151" x2="269" y2="550" stroke="#8899AA" stroke-width="0.8" stroke-dasharray="4,3"/>
+  <!-- Footer -->
+  <rect x="0" y="655" width="980" height="20" fill="#E8EEF6"/>
+  <line x1="0" y1="655" x2="980" y2="655" stroke="#C0CDD8" stroke-width="0.5"/>
+  <text x="490" y="668" font-family="Arial,sans-serif" font-size="6" fill="#778899" text-anchor="middle">© 2026 Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351 · ITVIA · IA eñ™ — La Biblia de la IA™ · ISSN 2695-6411 · CC BY-NC-ND 4.0 · Madrid, 09/05/2026</text>
+</svg>

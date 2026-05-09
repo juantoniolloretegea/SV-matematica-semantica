@@ -1,0 +1,33 @@
+{
+  "corpus": "Sistema Vectorial SV",
+  "publicacion": "Catálogo de Pares Estructurales SV (CPS-SV)",
+  "fecha_verificacion": "09/05/2026",
+  "tabla_global_entrada": "tabla_global_sv443.csv",
+  "elementos_cargados": 443,
+  "pares_enumerados": 97903,
+  "recuento_exacto": {
+    "APTO-M": 9515,
+    "APTO-C": 37580,
+    "APTO-I": 5075,
+    "NO-APTO": 45733
+  },
+  "apto_total": 52170,
+  "umbrales": {
+    "Lambda_M_B1": 0.5,
+    "Lambda_C_B1": 1.5,
+    "Lambda_rho_B2": 1.4,
+    "Lambda_Mj_B3": 40.0,
+    "Lambda_IP_B4_kJmol": 1800.0
+  },
+  "invariantes_verificados": {
+    "nobles_x_nobles_NO_APTO": true,
+    "marginales_B2": 9858,
+    "Fe_Cr_APTO_M": true,
+    "Cu_Zn_APTO_M": true,
+    "KCl_APTO_I": true,
+    "Ar_Kr_NO_APTO": true
+  },
+  "errores_totales": 0,
+  "estado": "APTO",
+  "dictamen": "CPS-SV generado y verificado: 97903 pares, todos los invariantes del §6.4 verificados."
+}

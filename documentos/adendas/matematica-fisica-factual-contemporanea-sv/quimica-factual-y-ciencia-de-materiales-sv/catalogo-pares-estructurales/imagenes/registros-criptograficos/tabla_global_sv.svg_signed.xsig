@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><AFIRMA Id="AFIRMA-Root-8af2624f-b03b-4d73-8b43-45b51254133d"><CONTENT Id="CONTENT-85657a48-f1e6-4ac0-a8a3-78b8a4d6593c" MimeType="text/xml"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 675">
+  <rect fill="#F4F7FA" height="620" width="980"/>
+  <rect fill="#1A2A1A" height="66" width="980" x="0" y="0"/>
+  <text fill="white" font-family="Georgia,serif" font-size="14.5" font-weight="bold" letter-spacing="0.5" text-anchor="middle" x="490" y="21">Tabla Global SV — Tabla Cero + Tabla 1</text>
+  <text fill="#E8F8E8" font-family="Arial,sans-serif" font-size="8" text-anchor="middle" x="490" y="36">Sistema Vectorial SV · 443 elementos · 12 familias tipológicas Σ₁–Σ₁₂ · Tabla Cero k 01–0118 · Tabla 1 k 119–443</text>
+  <text fill="#D8F0D8" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="490" y="50">Dominio operativo Ω₄₄₃ del Catálogo de Pares Estructurales SV (CPS-SV) · 97.903 pares no ordenados</text>
+  <text fill="#E8F8E8" font-family="Arial,sans-serif" font-size="6.2" text-anchor="middle" x="490" y="62">Tabla Global SV · CPS-SV · 443 elementos · 97.903 pares no ordenados</text>
+  <!-- LEFT PANEL: Tabla Cero — amber/warm -->
+  <rect fill="#8B5A00" height="28" rx="4" width="250" x="16" y="151"/>
+  <text fill="white" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="141" y="163">Tabla Cero SV</text>
+  <text fill="#FFFAF0" font-family="Arial,sans-serif" font-size="8.5" text-anchor="middle" x="141" y="175">Ω₁₁₈ · 118 elementos · k 01–0118</text>
+  <!-- Tabla Cero description -->
+  <rect fill="#FFF8EC" height="72" rx="3" stroke="#C8A060" stroke-width="0.8" width="250" x="16" y="185"/>
+  <text fill="#5A3800" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="141" y="199">Qué es la Tabla Cero</text>
+  <text fill="#3A2800" font-family="Arial,sans-serif" font-size="7" x="24" y="212">Los 118 elementos base del corpus SV. Dos</text>
+  <text fill="#3A2800" font-family="Arial,sans-serif" font-size="7" x="24" y="223">familias: Σ₁ (convergente pura, k 01–058) y</text>
+  <text fill="#3A2800" font-family="Arial,sans-serif" font-size="7" x="24" y="234">Σ₂ (exploratoria pura, k 059–0118). Perfil</text>
+  <text fill="#3A2800" font-family="Arial,sans-serif" font-size="7" x="24" y="245">φ(k) = (EN_SV, r_SV, IP_SV, M_SV).</text>
+  <text fill="#8B5A00" font-family="Arial,sans-serif" font-size="7" font-style="italic" x="24" y="254">Estatuto V · contrastable experimentalmente</text>
+  <!-- Column headers Tabla Cero -->
+  <rect fill="#E8D0A0" height="14" width="250" x="16" y="259"/>
+  <text fill="#5A3800" font-family="Arial,sans-serif" font-size="6.5" font-weight="bold" x="50" y="269">Familia / Morfología</text>
+  <text fill="#5A3800" font-family="Arial,sans-serif" font-size="5.8" font-weight="bold" text-anchor="end" x="198" y="269">n · k</text>
+  <text fill="#5A3800" font-family="Arial,sans-serif" font-size="5.8" font-weight="bold" text-anchor="start" x="212" y="269">EN_SV</text>
+  <text fill="#5A3800" font-family="Arial,sans-serif" font-size="5.8" font-weight="bold" text-anchor="end" x="260" y="269">M%</text>
+  <!-- Σ₁ -->
+  <rect fill="#FFFFFF" height="30" width="250" x="16" y="273"/>
+  <line stroke="#D4B880" stroke-width="0.3" x1="16" x2="266" y1="303" y2="303"/>
+  <rect fill="#C5D8EE" height="24" rx="3" stroke="#8899AA" stroke-width="0.5" width="24" x="17" y="276"/>
+  <text fill="#1A3060" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="29" y="292">Σ₁</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="6.3" x="48" y="285">Convergente pura   −−−…</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.7" text-anchor="end" x="198" y="291">58 · 01–058</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.7" text-anchor="start" x="212" y="291">0.00–2.71</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.7" text-anchor="end" x="260" y="291">2–100</text>
+  <!-- Σ₂ -->
+  <rect fill="#F5F0E8" height="30" width="250" x="16" y="303"/>
+  <line stroke="#D4B880" stroke-width="0.3" x1="16" x2="266" y1="333" y2="333"/>
+  <rect fill="#B8E4C4" height="24" rx="3" stroke="#8899AA" stroke-width="0.5" width="24" x="17" y="306"/>
+  <text fill="#1A4A2A" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="29" y="322">Σ₂</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="6.3" x="48" y="318">Exploratoria pura   +++…</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.7" text-anchor="end" x="198" y="322">60 · 059–0118</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.7" text-anchor="start" x="212" y="322">0.00–2.63</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="5.7" text-anchor="end" x="260" y="322">2–99</text>
+  <!-- Total Tabla Cero -->
+  <rect fill="#E8D0A0" height="14" width="250" x="16" y="333"/>
+  <text fill="#5A3800" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" x="52" y="343">Total: 118 elementos</text>
+  <!-- Tabla Global description -->
+  <rect fill="#F0F5F0" height="88" rx="3" stroke="#8899CC" stroke-width="0.8" width="250" x="16" y="353"/>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="141" y="367">Qué es la Tabla Global</text>
+  <text fill="#1F3050" font-family="Arial,sans-serif" font-size="7" x="24" y="379">Ω₄₄₃ = Tabla Cero ∪ Tabla 1 · 443 elementos.</text>
+  <text fill="#1F3050" font-family="Arial,sans-serif" font-size="7" x="24" y="390">Dominio operativo del CPS-SV. Cada par no</text>
+  <text fill="#1F3050" font-family="Arial,sans-serif" font-size="7" x="24" y="401">ordenado {A,B} ⊂ Ω₄₄₃ es un protopar Π(A,B)</text>
+  <text fill="#1F3050" font-family="Arial,sans-serif" font-size="7" x="24" y="412">sobre el que opera U_SV → D(A,B).</text>
+  <text fill="#1F3050" font-family="Arial,sans-serif" font-size="7" x="24" y="423">|Ω_proto| = C(443,2) = 97.903 protopares.</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="24" y="434">Celda: EN_SV · M_SV% por elemento</text>
+  <!-- CPS-SV results -->
+  <rect fill="#F0F4EE" height="96" rx="3" stroke="#5A8050" stroke-width="0.8" width="250" x="16" y="447"/>
+  <text fill="#1A4020" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" text-anchor="middle" x="141" y="461">Resultado CPS-SV sobre Ω₄₄₃</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" x="24" y="475">APTO-M  (metálico)       9.515   9,7%</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" x="24" y="487">APTO-C  (covalente)    37.580  38,4%</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" x="24" y="499">APTO-I   (iónico)           5.075    5,2%</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" x="24" y="511">NO-APTO  (absorbido)   45.733  46,7%</text>
+  <line stroke="#5A8050" stroke-width="0.5" x1="24" x2="258" y1="517" y2="517"/>
+  <text fill="#1A4020" font-family="Arial,sans-serif" font-size="7.5" font-weight="bold" x="24" y="528">APTO total: 52.170 pares (53,3%)</text>
+  
+  <!-- RIGHT PANEL: Tabla 1 -->
+  <rect fill="#1A5030" height="28" rx="4" width="690" x="274" y="151"/>
+  <text fill="white" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="619" y="163">Tabla 1 SV</text>
+  <text fill="#EEFFF5" font-family="Arial,sans-serif" font-size="8.5" text-anchor="middle" x="619" y="175">Ω_ext · 325 candidatos estructurales · k 119–443 · Estatuto U</text>
+  <rect fill="#E8EDE8" height="15" width="690" x="274" y="185"/>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="308" y="196">Familia / Descripción morfológica</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="730" y="196">Derivadas</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="784" y="196">n</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="814" y="196">k inicio–fin</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="878" y="196">EN_SV</text>
+  <text fill="#1A2A1A" font-family="Arial,sans-serif" font-size="7" font-weight="bold" x="924" y="196">M_SV %</text>
+  <!-- Σ₃ -->
+  <rect fill="#FFFFFF" height="33" width="690" x="274" y="200"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="233" y2="233"/>
+  <rect fill="#F2DFB8" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="204"/>
+  <text fill="#4A3010" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="221">Σ₃</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="220">Bimodal apertura–cierre</text>
+  <text fill="#4A3010" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="221">+−…</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="221">37</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="221">119–155</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="221">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="221">15–100</text>
+  <!-- Σ₄ -->
+  <rect fill="#F2F6FC" height="33" width="690" x="274" y="233"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="266" y2="266"/>
+  <rect fill="#ECD8B8" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="237"/>
+  <text fill="#3A2800" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="254">Σ₄</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="253">Bimodal cierre–apertura</text>
+  <text fill="#3A2800" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="254">−+…</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="254">37</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="254">156–192</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="254">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="254">15–100</text>
+  <!-- Σ₅ -->
+  <rect fill="#FFFFFF" height="33" width="690" x="274" y="266"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="299" y2="299"/>
+  <rect fill="#D8ECC4" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="270"/>
+  <text fill="#1E3E10" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="287">Σ₅</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="286">Meseta integral · nodo universal APTO-M</text>
+  <text fill="#1E3E10" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="287">000…</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="287">60</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="287">193–252</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="287">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="287">15–100</text>
+  <!-- Σ₆ -->
+  <rect fill="#F2F6FC" height="33" width="690" x="274" y="299"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="332" y2="332"/>
+  <rect fill="#D8C8EC" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="303"/>
+  <text fill="#2A1A4A" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="320">Σ₆</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="319">Convergente c/meseta</text>
+  <text fill="#2A1A4A" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="320">−00…</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="320">42</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="320">253–294</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="320">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="320">15–100</text>
+  <!-- Σ₇ -->
+  <rect fill="#FFFFFF" height="33" width="690" x="274" y="332"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="365" y2="365"/>
+  <rect fill="#ECC8D8" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="336"/>
+  <text fill="#3A1020" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="353">Σ₇</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="352">Exploratoria c/meseta</text>
+  <text fill="#3A1020" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="353">+00…</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="353">42</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="353">295–336</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="353">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="353">15–100</text>
+  <!-- Σ₈ -->
+  <rect fill="#F2F6FC" height="33" width="690" x="274" y="365"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="398" y2="398"/>
+  <rect fill="#F0E0C0" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="369"/>
+  <text fill="#3A2808" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="386">Σ₈</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="385">Exploratoria c/saturación</text>
+  <text fill="#3A2808" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="386">++−…</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="386">31</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="386">337–367</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="386">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="386">15–100</text>
+  <!-- Σ₉ excluida -->
+  <rect fill="#F6F6F6" height="33" width="690" x="274" y="398"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="431" y2="431"/>
+  <rect fill="#E4E8EC" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="402"/>
+  <text fill="#7A8898" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="419">Σ₉</text>
+  <text fill="#889" font-family="Arial,sans-serif" font-size="7.5" x="308" y="418">Multimodal compleja · excluida (Q.1 irreparable)</text>
+  <text fill="#7A8898" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="419">+−+−</text>
+  <text fill="#999" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="419">—</text>
+  <text fill="#999" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="419">—</text>
+  <text fill="#999" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="419">—</text>
+  <text fill="#999" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="419">—</text>
+  <!-- Σ₁₀ -->
+  <rect fill="#FFFFFF" height="33" width="690" x="274" y="431"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="464" y2="464"/>
+  <rect fill="#C8E4F0" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="435"/>
+  <text fill="#0A2840" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="452">Σ₁₀</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="451">Umbral tardío</text>
+  <text fill="#0A2840" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="452">+++0</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="452">34</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="452">368–401</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="452">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="452">15–100</text>
+  <!-- Σ₁₁ -->
+  <rect fill="#F2F6FC" height="33" width="690" x="274" y="464"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="497" y2="497"/>
+  <rect fill="#F0C8E4" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="468"/>
+  <text fill="#3A0828" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="485">Σ₁₁</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="484">Convergencia tardía</text>
+  <text fill="#3A0828" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="485">−−−0</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="485">34</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="485">402–435</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="485">0.00–2.20</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="485">15–100</text>
+  <!-- Σ₁₂ -->
+  <rect fill="#FFFFFF" height="33" width="690" x="274" y="497"/>
+  <line stroke="#CDD8E4" stroke-width="0.3" x1="274" x2="964" y1="530" y2="530"/>
+  <rect fill="#E4F0C8" height="25" rx="3" stroke="#8899AA" stroke-width="0.5" width="26" x="275" y="501"/>
+  <text fill="#204000" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" x="289" y="518">Σ₁₂</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="7.5" x="308" y="517">Bimodal c/saturación</text>
+  <text fill="#204000" font-family="Courier,monospace" font-size="10" font-weight="bold" text-anchor="middle" x="754" y="518">+−00</text>
+  <text fill="#1A2A3A" font-family="Arial,sans-serif" font-size="9" font-weight="bold" text-anchor="middle" x="796" y="518">8</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7.5" text-anchor="middle" x="843" y="518">436–443</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="898" y="518">0.80–1.50</text>
+  <text fill="#334455" font-family="Arial,sans-serif" font-size="7" text-anchor="middle" x="943" y="518">33–72</text>
+  <!-- Total Tabla 1 -->
+  <rect fill="#C8E0D0" height="16" width="690" x="274" y="530"/>
+  <text fill="#1A4020" font-family="Arial,sans-serif" font-size="8" font-weight="bold" x="310" y="541">Total: 325 elementos · estatuto U (en espera de contraste experimental)</text>
+  <!-- Divider -->
+  <line stroke="#8899AA" stroke-dasharray="4,3" stroke-width="0.8" x1="269" x2="269" y1="151" y2="550"/>
+  <!-- Footer -->
+  <rect fill="#E8EEF6" height="20" width="980" x="0" y="655"/>
+  <line stroke="#C0CDD8" stroke-width="0.5" x1="0" x2="980" y1="655" y2="655"/>
+  <text fill="#778899" font-family="Arial,sans-serif" font-size="6" text-anchor="middle" x="490" y="668">© 2026 Juan Antonio Lloret Egea · ORCID 0000-0002-6634-3351 · ITVIA · IA eñ™ — La Biblia de la IA™ · ISSN 2695-6411 · CC BY-NC-ND 4.0 · Madrid, 09/05/2026</text>
+</svg></CONTENT><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-Signature"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="Reference-a72ef1cb-82c5-4d13-a1fb-cbc8a8e8a280" URI="#CONTENT-85657a48-f1e6-4ac0-a8a3-78b8a4d6593c"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>lDZrq7A2BiXApHSdbo7HaqNhbXLd1AqApadJzedz0f9c5bhJY3gvZtGDJRY7QpkdDOBK2Qg4H9fnUnAZf2RkpA==</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>SaHDZfDQJwUymjKFBSSc/AMjpNTP9rlc9DXg8l+UG4vXn84inlVmD8wE5svYJWn6NumQH2HA9Aq12qlOtIPUcg==</ds:DigestValue></ds:Reference><ds:Reference URI="#Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-KeyInfo"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>x6i1s2K6BL454qBZl1qinkyWmbnTtuOgERs5m1MsKGqcwdP2oNLPf9/aY+LabohLB3z407jkX7uxFmOnypVozQ==</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-SignatureValue">mlpvbbOK2Luz7C3XKIoVCi0hGbAH1rJO4a82OyLA9XpoCZ24oZV//BMoqJqcL9ZK547sooa5PcpFEaECla7op7XwcrOFiXbUsaczJA6eSi6FjkPHqUfsoefD1bXV/krg1T2na8GiBAQtWJLLRgN1kUrtkKRy5MeYzfV9bvDWFzp6LSzfs/9ZembCbYW9ayTyAS6AG5h234oYGMwiEVe+K1/4bkCWoucYtpJ42n2QsiNLiWT90lNHBMVAaa0umPQg43gA/3gPfZF7lpXRlWqi9EDpH9uVzLOiSUOeRPTG/MzJLYaYgRue4Q0WIF/CcaBZLq4Cbw3eDsgSuOU7xPIwAQ==</ds:SignatureValue><ds:KeyInfo Id="Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-KeyInfo"><ds:X509Data><ds:X509Certificate>MIIHnzCCBoegAwIBAgIQU+UmM/dSEsZolZ6hbnsGBjANBgkqhkiG9w0BAQsFADBLMQswCQYDVQQGEwJFUzERMA8GA1UECgwIRk5NVC1SQ00xDjAMBgNVBAsMBUNlcmVzMRkwFwYDVQQDDBBBQyBGTk1UIFVzdWFyaW9zMB4XDTI1MDgwODA2NTIxN1oXDTI5MDgwODA2NTIxN1owgYMxCzAJBgNVBAYTAkVTMRgwFgYDVQQFEw9JRENFUy01MjgxMzAxMEwxFTATBgNVBCoMDEpVQU4gQU5UT05JTzEUMBIGA1UEBAwLTExPUkVUIEVHRUExLTArBgNVBAMMJExMT1JFVCBFR0VBIEpVQU4gQU5UT05JTyAtIDUyODEzMDEwTDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALd7xcqK1vPzaIwDxjZzCGyn9JqsY/yoOU0fGXdms4uE3fBGPoVZwghrBNFT/Gqnk9B59oJmpiddvGALVIQRYlUvAonFSccg63+3O0L7UlrDf5Y9ORICjBFnVWBQ4ccBGo/BJjLR0Q/RByNq1OOnuj0aV1jDiJGka9Fpg9aatVmGw82LeMDiqmvClx+KrtqMEP3h1/suT7kCEZHcr9LciUtDonYcIWl6r27UvgIuG8sMW70hWcvfpUBsJyRkeio+W+T7+Uea2yGssAB8Rp4XLxHdsrYJpt6/jG8SGXUXE8AA4/GglMNhgj8W8vlqS8elWKFf9O3kzt8a2GGQMOslW9sCAwEAAaOCBEQwggRAMHAGA1UdEQRpMGekZTBjMRgwFgYJKwYBBAGsZgEEDAk1MjgxMzAxMEwxEzARBgkrBgEEAaxmAQMMBEVHRUExFTATBgkrBgEEAaxmAQIMBkxMT1JFVDEbMBkGCSsGAQQBrGYBAQwMSlVBTiBBTlRPTklPMAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgXgMCoGA1UdJQQjMCEGCCsGAQUFBwMCBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwHQYDVR0OBBYEFAQmZ3EterhNHk8NdebmOhrdvvmlMB8GA1UdIwQYMBaAFLHUT8QjefpEBQnG6znP6DWwuCBkMIGCBggrBgEFBQcBAQR2MHQwPQYIKwYBBQUHMAGGMWh0dHA6Ly9vY3NwdXN1LmNlcnQuZm5tdC5lcy9vY3NwdXN1L09jc3BSZXNwb25kZXIwMwYIKwYBBQUHMAKGJ2h0dHA6Ly93d3cuY2VydC5mbm10LmVzL2NlcnRzL0FDVVNVLmNydDCCARUGA1UdIASCAQwwggEIMIH6BgorBgEEAaxmAwoBMIHrMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3LmNlcnQuZm5tdC5lcy9kcGNzLzCBvQYIKwYBBQUHAgIwgbAMga1DZXJ0aWZpY2FkbyBjdWFsaWZpY2FkbyBkZSBmaXJtYSBlbGVjdHLDs25pY2EuIFN1amV0byBhIGxhcyBjb25kaWNpb25lcyBkZSB1c28gZXhwdWVzdGFzIGVuIGxhIERQQyBkZSBsYSBGTk1ULVJDTSBjb24gTklGOiBRMjgyNjAwNC1KIChDL0pvcmdlIEp1YW4gMTA2LTI4MDA5LU1hZHJpZC1Fc3Bhw7FhKTAJBgcEAIvsQAEAMIG6BggrBgEFBQcBAwSBrTCBqjAIBgYEAI5GAQEwCwYGBACORgEDAgEPMBMGBgQAjkYBBjAJBgcEAI5GAQYBMHwGBgQAjkYBBTByMDcWMWh0dHBzOi8vd3d3LmNlcnQuZm5tdC5lcy9wZHMvUERTQUNVc3Vhcmlvc19lcy5wZGYTAmVzMDcWMWh0dHBzOi8vd3d3LmNlcnQuZm5tdC5lcy9wZHMvUERTQUNVc3Vhcmlvc19lbi5wZGYTAmVuMIHmBgNVHR8Egd4wgdswgdiggdWggdKGgZ9sZGFwOi8vbGRhcHVzdS5jZXJ0LmZubXQuZXMvY249Q1JMVTMzMTIsY249QUMlMjBGTk1UJTIwVXN1YXJpb3Msb3U9Q0VSRVMsbz1GTk1ULVJDTSxjPUVTP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q7YmluYXJ5P2Jhc2U/b2JqZWN0Y2xhc3M9Y1JMRGlzdHJpYnV0aW9uUG9pbnSGLmh0dHA6Ly93d3cuY2VydC5mbm10LmVzL2NybHNhY3VzdS9DUkxVMzMxMi5jcmwwDQYJKoZIhvcNAQELBQADggEBABDHx/v8cZ+29ozZQRQ5wRNgq5sIzvsNnOe4muNu7seC9Jp+GRTySVOzNj1kl+ALB63kUFeCwD1E/wkW2SfrEauXFPHQne3hkh04Ugo5pkccO2ouKyBXKk8PMign+lMEgFdSHNgu+CPdVFGHDleDyLCen6aHsUWX75tTvuvY8hs9TuH8F4KN366PmPsKsDSeY/fkGrT38m2snmLCopzU2RSZSTI+FldHfwtHky3btsM3AjqTbjDEMhVbLFQIgP87m15VCtpeEgPPfs++XlmnESEq0OG4rodxdesKIuxiCngpOrUJmolMkqsXGzuyrDmwVjywRJjcq7bo+0kP8rduYfs=</ds:X509Certificate><ds:X509Certificate>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</ds:X509Certificate><ds:X509Certificate>MIIFgzCCA2ugAwIBAgIPXZONMGc2yAYdGsdUhGkHMA0GCSqGSIb3DQEBCwUAMDsxCzAJBgNVBAYTAkVTMREwDwYDVQQKDAhGTk1ULVJDTTEZMBcGA1UECwwQQUMgUkFJWiBGTk1ULVJDTTAeFw0wODEwMjkxNTU5NTZaFw0zMDAxMDEwMDAwMDBaMDsxCzAJBgNVBAYTAkVTMREwDwYDVQQKDAhGTk1ULVJDTTEZMBcGA1UECwwQQUMgUkFJWiBGTk1ULVJDTTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALpxgHpMhm5/yBNtwMZ9HACXjywMI7sQmkCpGreHiPibVmr75nuOi5KOpyVdWRHbNi63URcfqQgfBBckWKo3Shjf5TnUV/3XwSyRAZHiItQDwFj8d0fsjz50Q7qsNI1NOHZnjrDIbzAzWHFctPVrbtQBULgTfmxKo0nRIBnuvMApGGWn3v7v3QqQIecaZ5JCEJhfTzC8PhxFtBDXaEAUwED653cXeuYLj2VbPNmaUtu1vZ5Gzz3rkQUCwJaydkxNEJY7kvqcfw+Z374jNUUeAlz+taibmSXaXvMiwzn15Cou08YfxGyqxRxqAQVKL9LFwag0Jl1mpdICIfkYtwb1TplvqKtMUejPUBjFd8g5CSxJkjKZqLsXF3mwWsXmo8RZZUc1g16p6DULmbvkzSDGm0oGObVo/CK67lWMK07q87Hj/LaZmtVC+nFNCM+HHmpxffnTtOmlcYF7wk5HlqX2doWjKI/pgG6BU6VtX7hI+cL5NqYuSf+4lsKMB7ObiFj86xsc3i1w4peSMKGJ47xVqCfWS+2QrYv6YyVZLag13cqXM7zlzced0ezvXg5KkAYmY6252TUtB7p2ZSysV4999AeU14ECll2jB0nVetBX+RvnU0Z1qrB5QstocQjpYL05ac70r8NWQMetUqIJ5G+GR4of6ygnXYMgrwTJbFaai0b1AgMBAAGjgYMwgYAwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFPd9xf3E6Jobd2Sn9R2gzL+HYJptMD4GA1UdIAQ3MDUwMwYEVR0gADArMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3LmNlcnQuZm5tdC5lcy9kcGNzLzANBgkqhkiG9w0BAQsFAAOCAgEAB5BK3/MjTvDDnFFlm5wioooMhfNzKWtN/gHiqQxjAb8EZ6WdmF/9ARP67Jpi6Yb+tmLSbkyU+8B1RXxlDPiyN8+sD8+Nb/kZ94/sHvJwnvDKuO+3/3Y3dlv2bojzr2IyIpMNOmqOFGYMLVN0V2Ue1bLdI4E7pWYjJ2cJj+F3qkPNZVEI7VFY/uY5+ctHhKQV8Xa7pO6kO8Rf77IzlhEYt8llvhjho6Tc+hj507wTmzl6NLrTQfv6MooqtyuGC2mDOL7Nii4LcK2NJpLuHvUBKwrZ1pebbuCoGRw6IYsMHkCtA+fdZn71uSANA+iW+YJF1DngoABd15jmfZ5nc8OaKveri6E6FO80vFIOiZiaBECEHX5FaZNXzuvO+FB8TxxuBEOb+dY7Ixjp6o7RTUaN8Tvkasq6+yO3m/qZASlaWFot4/nUbQ4mrcFuNLwy+AwF+mWj2zs3gyLp1txyM/1d8iC9djwj2ij3+RvrWWTV3F9yfiD8zYm1kGdNYno/Tq0dwzn+evQoFt9B9kiABdcPUXmsEKvU7ANm5mqwujGSQkBqvjrTcuFqN1W8rB2Vt2lh8kORdOag0wokRqEIr9baRRmW1FMdW4R58MD3R++Lj8UGrp1MYp3/RgT408m2ECVAdf4WqslKYIYvuu8wd+RU4riEmViAqhOLUTpPSPaLtrM=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>t3vFyorW8/NojAPGNnMIbKf0mqxj/Kg5TR8Zd2azi4Td8EY+hVnCCGsE0VP8aqeT0Hn2gmamJ128YAtUhBFiVS8CicVJxyDrf7c7QvtSWsN/lj05EgKMEWdVYFDhxwEaj8EmMtHRD9EHI2rU46e6PRpXWMOIkaRr0WmD1pq1WYbDzYt4wOKqa8KXH4qu2owQ/eHX+y5PuQIRkdyv0tyJS0OidhwhaXqvbtS+Ai4bywxbvSFZy9+lQGwnJGR6Kj5b5Pv5R5rbIaywAHxGnhcvEd2ytgmm3r+MbxIZdRcTwADj8aCUw2GCPxby+WpLx6VYoV/07eTO3xrYYZAw6yVb2w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-QualifyingProperties" Target="#Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-Signature" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><xades:SignedProperties Id="Signature-a6624a4a-8126-4841-a58f-bbed6398acf3-SignedProperties"><xades:SignedSignatureProperties><xades:SigningTime>2026-05-09T22:28:53+02:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><ds:DigestValue>1/zbmuoTW9/+95wFfrvIQjS5KT3a6tdu+fHrevAQuOQbUJDwvWC+4L/XASm8KedAPEBmhYXGZgYMGMD1MtKuGg==</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AC FNMT Usuarios,OU=Ceres,O=FNMT-RCM,C=ES</ds:X509IssuerName><ds:X509SerialNumber>111515734479495737974575550712057103878</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-a72ef1cb-82c5-4d13-a1fb-cbc8a8e8a280"><xades:Description/><xades:ObjectIdentifier><xades:Identifier Qualifier="OIDAsURN">urn:oid:1.2.840.10003.5.109.10</xades:Identifier><xades:Description/></xades:ObjectIdentifier><xades:MimeType>text/xml</xades:MimeType><xades:Encoding/></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></AFIRMA>
