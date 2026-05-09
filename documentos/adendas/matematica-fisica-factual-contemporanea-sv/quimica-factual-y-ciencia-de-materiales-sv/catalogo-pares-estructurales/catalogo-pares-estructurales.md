@@ -1479,11 +1479,7 @@ El código de salida del proceso es `0` (APTO) o `1` (FALLO).
 El módulo `sv_cps.cargar_tabla2()` [CSV](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/tabla_global_sv443.csv), verifica la presencia de las cuatro columnas requeridas (`EN_SV`, `IP_SV`, `r_SV`, `M_SV`), comprueba que el recuento sea exactamente 443 elementos, y valida los rangos admisibles de cada propiedad por elemento. Cualquier anomalía emite un código de error específico (§8.5) y detiene el proceso.
 
 **Fase 2 — Enumeración del dominio completo.**
-`sv_cps.enumerar_cps()` aplica `dictamen(ka, kb, datos)` a los C(443,2) = 97.903 pares no ordenados <a href="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv">
-CSV
-</a> (*Para descargar Ctrl+S en la vista raw*)
- —
- de Ω₄₄₃. La función `dictamen()` implementa la jerarquía B.4 → B.1 → B.2 → B.3 → B.5 del §3.9. Cada par produce una tupla de nueve campos.
+`sv_cps.enumerar_cps()` aplica `dictamen(ka, kb, datos)` a los C(443,2) = 97.903 pares no ordenados de Ω₄₄₃. La función `dictamen()` implementa la jerarquía B.4 → B.1 → B.2 → B.3 → B.5 del §3.9. Cada par produce una tupla de nueve campos.
 
 **Fase 3 — Verificación de invariantes (§6.4).**
 `sv_cps.verificar_invariantes()` comprueba:
@@ -1500,8 +1496,10 @@ El runner no avanza a la fase siguiente si la anterior produjo errores.
 
 ## §8.4. Estructura del CSV de salida
 
-El archivo `catalogo_pares_sv443.csv` tiene una fila de cabecera y 97.903 filas de datos:
-
+El archivo `catalogo_pares_sv443.csv`<a href="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv">
+CSV
+</a> (*Para descargar Ctrl+S en la vista raw*) tiene una fila de cabecera y 97.903 filas de datos:
+ —
 | Columna | Tipo | Descripción |
 |---|---|---|
 | `k_A` | entero | Índice del elemento A en Ω₄₄₃ (siempre k_A < k_B) |
