@@ -1625,7 +1625,7 @@ Lloret Egea, J. A. (2026d). *Análisis preliminar de elementos, materiales y ale
 
 Lloret Egea, J. A. (2026e). *Génesis del hidrógeno y teoría de la persistencia energética estructural en el Sistema Vectorial SV*. ITVIA — IA eñ™. https://doi.org/10.17613/qq4q9-sd847
 
-Lloret Egea, J. A. (2026f). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. ITVIA — IA eñ™. https://github.com/juantoniolloretegea/SV-matematica-semantica
+Lloret Egea, J. A. (2026f). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. ITVIA — IA eñ™. https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md
 
 Lloret Egea, J. A. (2026g). *Teoría general de sucesos generadores y de los protocampos unificados en el Sistema Vectorial SV*. ITVIA — IA eñ™.
 
