@@ -96,7 +96,7 @@ Las prohibiciones P.1–P.6 del catálogo SV-443 quedan heredadas sin modificaci
 
 ## §1.5.1. Fundamento: la terna (1, U, 0) y el principio de tránsito
 
-El Sistema Vectorial SV opera sobre el alfabeto ternario canónico {0, 1, U}. En términos de la *Teoría del TODO y de la NADA* del corpus (Lloret Egea, 2026f), los tres valores tienen estatuto asimétrico:
+El Sistema Vectorial SV opera sobre el alfabeto ternario canónico [{0, 1, U}](https://www.itvia.online/pub/origen-doctrinal-definicion-y-alcance-de-la-u-en-el-sistema-vectorial-sv/release/1?readingCollection=4ebab177). En términos de la *Teoría del TODO y de la NADA* del corpus (Lloret Egea, 2026f), los tres valores tienen estatuto asimétrico:
 
 - **1 (Todo)**: el estado de completitud estructural absoluta. En el polo 1, la configuración es plenamente cerrada, sin gradiente, sin tránsito. El par de máxima similitud estructural (ΔEN_SV = 0, ρ_SV = 1) tiende al polo 1.
 
