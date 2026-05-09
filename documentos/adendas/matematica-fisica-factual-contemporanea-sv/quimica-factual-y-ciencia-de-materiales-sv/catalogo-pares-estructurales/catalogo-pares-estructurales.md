@@ -1600,7 +1600,7 @@ Los archivos del laboratorio están disponibles en el repositorio canónico:
 | `catalogo_pares_sv443.csv` | [`laboratorios/datos/catalogo_pares_sv443.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv) | CPS-SV completo. 97.903 filas de datos. Dictamen, ΔEN_SV, ρ_SV, M_joint, IP_suma por par. |
 | `verificacion_cps_sv.json` | [`laboratorios/resultados/verificacion_cps_sv.json`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/resultados/verificacion_cps_sv.json) | Resultado canónico de la verificación: recuentos exactos, invariantes PASS, tiempo de cómputo. |
 
-**Depósito Zenodo del laboratorio:** DOI [10.5281/zenodo.20084771](https://doi.org/10.5281/zenodo.20084771)
+**Depósito Zenodo del laboratorio:** DOI : Pendiente
 
 
 ## Referencias
