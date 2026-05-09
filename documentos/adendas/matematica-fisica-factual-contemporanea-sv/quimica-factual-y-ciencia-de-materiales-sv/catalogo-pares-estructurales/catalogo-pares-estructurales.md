@@ -1481,11 +1481,9 @@ El módulo `sv_cps.cargar_tabla2()` [CSV](https://github.com/juantoniolloretegea
 **Fase 2 — Enumeración del dominio completo.**
 `sv_cps.enumerar_cps()` aplica `dictamen(ka, kb, datos)` a los C(443,2) = 97.903 pares no ordenados <a href="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv">
 leer el CSV
-</a>
+</a> **Para descargar Ctrl+S**
  —
-<a href="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv" download>
-Descargar catálogo CPS-SV (CSV)
-</a>  de Ω₄₄₃. La función `dictamen()` implementa la jerarquía B.4 → B.1 → B.2 → B.3 → B.5 del §3.9. Cada par produce una tupla de nueve campos.
+ de Ω₄₄₃. La función `dictamen()` implementa la jerarquía B.4 → B.1 → B.2 → B.3 → B.5 del §3.9. Cada par produce una tupla de nueve campos.
 
 **Fase 3 — Verificación de invariantes (§6.4).**
 `sv_cps.verificar_invariantes()` comprueba:
