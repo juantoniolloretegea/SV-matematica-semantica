@@ -1476,7 +1476,7 @@ El código de salida del proceso es `0` (APTO) o `1` (FALLO).
 ## §8.3. Las cuatro fases del runner
 
 **Fase 1 — Carga y validación de la Tabla Global.**
-El módulo `sv_cps.cargar_tabla2()` lee el CSV, verifica la presencia de las cuatro columnas requeridas (`EN_SV`, `IP_SV`, `r_SV`, `M_SV`), comprueba que el recuento sea exactamente 443 elementos, y valida los rangos admisibles de cada propiedad por elemento. Cualquier anomalía emite un código de error específico (§8.5) y detiene el proceso.
+El módulo `sv_cps.cargar_tabla2()` [lee el CSV](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/tabla_global_sv443.csv), verifica la presencia de las cuatro columnas requeridas (`EN_SV`, `IP_SV`, `r_SV`, `M_SV`), comprueba que el recuento sea exactamente 443 elementos, y valida los rangos admisibles de cada propiedad por elemento. Cualquier anomalía emite un código de error específico (§8.5) y detiene el proceso.
 
 **Fase 2 — Enumeración del dominio completo.**
 `sv_cps.enumerar_cps()` aplica `dictamen(ka, kb, datos)` a los C(443,2) = 97.903 pares no ordenados de Ω₄₄₃. La función `dictamen()` implementa la jerarquía B.4 → B.1 → B.2 → B.3 → B.5 del §3.9. Cada par produce una tupla de nueve campos.
