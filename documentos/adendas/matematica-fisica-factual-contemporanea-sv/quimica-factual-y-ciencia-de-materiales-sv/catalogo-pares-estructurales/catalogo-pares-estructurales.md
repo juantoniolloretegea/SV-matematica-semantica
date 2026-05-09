@@ -426,8 +426,6 @@ Una nota sobre la simetría: el operador 𝓘_SV opera sobre pares ordenados —
 
 ### §2. Marco de dominio — Tabla Global y espacio de pares Ω₄₄₃
 
-![Tabla Global SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_global_sv.svg)
-
 ## §2.1. La Tabla Global como fuente única de propiedades de par
 
 El CPS-SV opera sobre cuatro magnitudes de la Tabla Global del catálogo SV-443:
@@ -465,6 +463,7 @@ Tabla 1 designa Ω_ext = {k = 119,...,443}: los 325 candidatos del dominio exten
 ![Tabla 1 SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/imagenes/Tabla%20periodica.svg)
 
 Tabla Global designa Ω₄₄₃ = Ω₁₁₈ ∪ Ω_ext. Su uso en esta publicación responde a una necesidad operativa: el CPS-SV abarca los 97.903 pares de Ω₄₄₃, incluyendo los pares cruzados S₂ en que un elemento pertenece a la Tabla Cero y el otro a la Tabla 1.
+![Tabla Global SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_global_sv.svg)
 
 ## §2.4. Principio de nomenclatura secuencial autoincremental
 
