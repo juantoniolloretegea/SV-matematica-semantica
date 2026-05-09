@@ -68,7 +68,7 @@ cd laboratorios
 PYTHONPATH=src python3 runner.py
 ```
 
-**Depósito Zenodo:** [10.5281/zenodo.20084771](https://doi.org/10.5281/zenodo.20084771)
+**Depósito Zenodo:** Pendiente
 
 ## Publicación base
 
