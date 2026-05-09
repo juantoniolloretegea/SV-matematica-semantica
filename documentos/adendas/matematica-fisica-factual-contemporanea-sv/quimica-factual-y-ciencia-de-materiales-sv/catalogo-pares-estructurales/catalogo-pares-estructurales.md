@@ -68,7 +68,7 @@ El corpus SV está articulado en una cadena ascendente de trece niveles (Lloret 
 | Publicación | DOI | Relación con este trabajo |
 |---|---|---|
 | Génesis del hidrógeno | DOI [10.17613/qq4q9-sd847](https://doi.org/10.17613/qq4q9-sd847) | Establece Ω₁₁₈ y la secuencia Ω_pre → Ω_H; fuente de la Tabla Cero |
-| Catálogo SV-443 | DOI 10.17613/8ryyb-g9h48 | Provee la Tabla Global; define Ω₄₄₃ |
+| Catálogo SV-443 | [DOI 10.17613/8ryyb-g9h48](https://works.hcommons.org/records/8ryyb-g9h48) | Provee la Tabla Global; define Ω₄₄₃ |
 | Teoría general de sucesos generadores | ITVIA/HCOMMONS | Establece Ω_pre y los protocampos; fundamento del §1.5 |
 | Ecuación factual Maxwell | DOI [10.17613/kep1t-57539](https://doi.org/10.17613/kep1t-57539) | Referencia doctrinal para §3.12 |
 | Fórmula de Campo Unificado | DOI [10.17613/gxfv3-qjj64](https://doi.org/10.17613/gxfv3-qjj64) | Referencia para la distinción técnica de §3.12 |
