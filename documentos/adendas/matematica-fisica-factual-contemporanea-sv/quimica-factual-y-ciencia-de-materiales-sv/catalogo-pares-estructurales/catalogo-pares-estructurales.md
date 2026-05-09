@@ -220,7 +220,7 @@ En todos los casos, U_SV(A,B) ∈ {APTO-M, APTO-C, APTO-I}. **Q.E.D.**
 
 ## §1.5.6. Conexión con la publicación futura de moléculas
 
-El Teorema 1.5.1 establece el fundamento para la secuencia de publicaciones del corpus en química factual SV:
+El Teorema 1.5.1 establece el fundamento para la secuencia de publicaciones del corpus en [química factual SV](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv):
 
 1. **Génesis del hidrógeno** (Lloret Egea, 2026e): la ecuación rectora opera la secuencia Pre → Proto → Ternario para **elementos individuales**. La cadena de admisibilidad individual produce Ω₄₄₃.
 
