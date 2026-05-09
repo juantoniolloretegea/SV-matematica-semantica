@@ -454,15 +454,15 @@ El espacio de pares no ordenados de Ω₄₄₃ es:
 
 ## §2.3. Marco semántico: Tabla Cero, Tabla 1 y Tabla Global
 
-Tabla Cero designa Ω₁₁₈ = {k = 1,...,118}. Para los pares de este dominio, la comunidad científica dispone de décadas de estudios de compatibilidad de aleación y enlace químico (Hume-Rothery, Pauling y cálculos computacionales de química cuántica relativista). El Sistema Vectorial SV aporta una lectura estructural derivada de sus propios criterios B.1–B.5, inconmensurable con los marcos cuánticos convencionales y complementaria a ellos.
+**Tabla Cero** designa Ω₁₁₈ = {k = 1,...,118}. Para los pares de este dominio, la comunidad científica dispone de décadas de estudios de compatibilidad de aleación y enlace químico (Hume-Rothery, Pauling y cálculos computacionales de química cuántica relativista). El Sistema Vectorial SV aporta una lectura estructural derivada de sus propios criterios B.1–B.5, inconmensurable con los marcos cuánticos convencionales y complementaria a ellos.
 
 ![Tabla Cero SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_cero_sv.svg)
 
-Tabla 1 designa Ω_ext = {k = 119,...,443}: los 325 candidatos del dominio extendido generados por las familias tipológicas Σ₁–Σ₁₂. Para estos candidatos no existe literatura experimental ni teórica convencional. La Tabla 1 es el dominio de aportación original del corpus SV.
+**Tabla 1** designa Ω_ext = {k = 119,...,443}: los 325 candidatos del dominio extendido generados por las familias tipológicas Σ₁–Σ₁₂. Para estos candidatos no existe literatura experimental ni teórica convencional. La Tabla 1 es el dominio de aportación original del corpus SV.
 
 ![Tabla 1 SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/imagenes/Tabla%20periodica.svg)
 
-Tabla Global designa Ω₄₄₃ = Ω₁₁₈ ∪ Ω_ext. Su uso en esta publicación responde a una necesidad operativa: el CPS-SV abarca los 97.903 pares de Ω₄₄₃, incluyendo los pares cruzados S₂ en que un elemento pertenece a la Tabla Cero y el otro a la Tabla 1.
+**Tabla Global** designa Ω₄₄₃ = Ω₁₁₈ ∪ Ω_ext. Su uso en esta publicación responde a una necesidad operativa: el CPS-SV abarca los 97.903 pares de Ω₄₄₃, incluyendo los pares cruzados S₂ en que un elemento pertenece a la Tabla Cero y el otro a la Tabla 1.
 ![Tabla Global SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_global_sv.svg)
 
 ## §2.4. Principio de nomenclatura secuencial autoincremental
