@@ -113,7 +113,7 @@ La tensión entre los polos 1 y 0, gobernada por la ecuación rectora 𝓔★_TO
 En el dominio de pares estructurales SV, La ecuación rectora 𝓔★_TODO,SV = 0 opera la siguiente secuencia de tres niveles:
 
 **Nivel preternario (Pre):**
-Cada elemento k ∈ Ω₄₄₃ existe en el dominio preternario Ω_pre como configuración energética con persistencia parcial. La génesis del hidrógeno del corpus (Lloret Egea, 2026e) establece que Ω_pre es el dominio de configuraciones preatómicas que aún no han alcanzado la cadena completa de admisibilidad individual:
+Cada elemento k ∈ Ω₄₄₃ existe en el dominio preternario Ω_pre como configuración energética con persistencia parcial. [La génesis del hidrógeno](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/genesis-del-hidrogeno/genesis-del-hidrogeno.md) del corpus (Lloret Egea, 2026e) establece que Ω_pre es el dominio de configuraciones preatómicas que aún no han alcanzado la cadena completa de admisibilidad individual:
 
 persistencia → frontera → residual → identidad → descendencia protocampal → no artificio → 𝓔★_TODO,SV(Γ_U) = 0.
 
