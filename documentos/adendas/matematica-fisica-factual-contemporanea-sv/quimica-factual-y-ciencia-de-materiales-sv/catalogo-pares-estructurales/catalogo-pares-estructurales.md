@@ -1499,7 +1499,7 @@ El runner no avanza a la fase siguiente si la anterior produjo errores.
 El archivo `catalogo_pares_sv443.csv`<a href="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/laboratorios/datos/catalogo_pares_sv443.csv">
 CSV
 </a> (*Para descargar Ctrl+S en la vista raw*) tiene una fila de cabecera y 97.903 filas de datos:
- —
+
 | Columna | Tipo | Descripción |
 |---|---|---|
 | `k_A` | entero | Índice del elemento A en Ω₄₄₃ (siempre k_A < k_B) |
