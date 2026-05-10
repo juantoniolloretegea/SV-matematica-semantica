@@ -441,7 +441,8 @@ Estas magnitudes son derivadas de las compuertas de persistencia y de la ecuaci�
 
 ## §2.2. El dominio Ω₄₄₃ y sus subdominios
 
-El dominio Ω₄₄₃ = {1, 2,…, 443} es el conjunto de índices del catálogo SV-443 (Lloret Egea, 2026d), cuyos 443 candidatos estructurales fueron generados por la fórmula de la publicación precedente: *Análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación para usos médicos y científicos* (Lloret Egea, 2026e). El alcance declarado en esa publicación — usos médicos y científicos — define el marco de aplicación del CPS-SV y es compatible con la totalidad de los 443 elementos del dominio. > **La misma fórmula, aplicada para k = 119 hasta k = M sin introducir criterios nuevos, puede generar Ω_M con M > 443 si el corpus así lo requiere.**
+El dominio Ω₄₄₃ = {1, 2,…, 443} es el conjunto de índices del catálogo SV-443 (Lloret Egea, 2026d), cuyos 443 candidatos estructurales fueron generados por la fórmula de la publicación precedente: *Análisis preliminar de elementos químicos, materiales y aleaciones de nueva generación para usos médicos y científicos* (Lloret Egea, 2026e). El alcance declarado en esa publicación — usos médicos y científicos — define el marco de aplicación del CPS-SV y es compatible con la totalidad de los 443 elementos del dominio. 
+> **La misma fórmula, aplicada para k = 119 hasta k = M sin introducir criterios nuevos, puede generar Ω_M con M > 443 si el corpus así lo requiere.**
 
 El dominio Ω₄₄₃ se particiona en:
 
