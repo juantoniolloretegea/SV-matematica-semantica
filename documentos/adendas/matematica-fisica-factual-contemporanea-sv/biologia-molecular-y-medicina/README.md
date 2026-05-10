@@ -35,7 +35,7 @@ Esta colección ocupa la posición inmediatamente superior al *Catálogo de Pare
 | Génesis del hidrógeno | Elemento individual — Tabla Cero y Tabla 1 | [10.17613/qq4q9-sd847](https://doi.org/10.17613/qq4q9-sd847) |
 | Catálogo SV-443 | Tabla Global — 443 candidatos estructurales | [10.17613/8ryyb-g9h48](https://doi.org/10.17613/8ryyb-g9h48) |
 | Catálogo de Pares Estructurales SV | Par estructural binario — 97.903 pares | pendiente |
-| **Esta colección** | **Molécula → Macromolécula → Célula → Medicina** | — |
+| **Esta colección** | **Molécula → Macromolécula → Membrana/Interfaz → Célula → Medicina** | — |
 
 La cadena es estrictamente acumulativa: cada nivel presupone el anterior como dominio de operación. Las magnitudes estructurales `EN_SV`, `IP_SV`, `r_SV`, `M_SV` y la función de dictamen `D(A,B)` establecidas en los niveles inferiores son los primitivos sobre los que opera el aparato de esta colección.
 
@@ -126,12 +126,15 @@ Una desviación estructural —desplazamiento sistemático de la distribución h
 
 | Directorio | Título | Estado |
 |---|---|---|
-| `moleculas-estructurales/` | Enlace molecular dirigido y compatibilidad estructural n-cuerpo | Pendiente |
-| `macromoleculas-estructurales/` | Compatibilidad estructural de proteínas y ácidos nucleicos | Pendiente |
-| `celula-viva-estructural/` | La célula viva como sistema de pares estructurales | Pendiente |
-| `genetica-factual/` | Genética factual: pares de bases, mutaciones y cascada de dominancias | Pendiente |
-| `inmunologia-estructural/` | Inmunología estructural: reconocimiento y compatibilidad de pares | Pendiente |
-| `oncologia-estructural/` | Oncología estructural: firma de compatibilidad en células cancerosas | Pendiente |
+| `moleculas-estructurales/` | Moléculas estructurales: enlace dirigido y compatibilidad n-cuerpo | Pendiente |
+| `macromoleculas-estructurales/` | Macromoléculas estructurales: proteínas, ácidos nucleicos y firma de cadena | Pendiente |
+| `membranas-interfaces-celulares/` | Membranas e interfaces celulares: frontera, reconocimiento y compatibilidad estructural | Pendiente |
+| `celula-viva-estructural/` | La célula viva como sistema de pares estructurales, interfaces y dominancias activas | Pendiente |
+| `genetica-factual/` | Genética factual: pares de bases, expresión, mutación y cascada de dominancias | Pendiente |
+| `inmunologia-estructural/` | Inmunología estructural: reconocimiento antígeno–receptor y compatibilidad de pares | Pendiente |
+| `oncologia-estructural/` | Oncología estructural: desviación de compatibilidad y firma celular tumoral | Pendiente |
+
+La secuencia conserva el ascenso estructural declarado por la colección: molécula dirigida, macromolécula, membrana/interfaz, célula viva y aplicaciones médicas derivadas.
 
 Cada publicación es autónoma, reproducible mediante laboratorio ejecutable, y se somete a los criterios de falsación propios del Sistema Vectorial SV.
 
