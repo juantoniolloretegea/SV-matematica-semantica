@@ -11,7 +11,7 @@
 ---
 ## Descripción de la colección
 
-Esta colección extiende el análisis de compatibilidad estructural del par elemental — establecido en el *Catálogo de Pares Estructurales SV (CPS-SV)* — hacia los objetos de la biología molecular y la medicina. Cubre, en orden ascendente de complejidad estructural, las moléculas dirigidas, las macromoléculas (proteínas y ácidos nucleicos), las membranas e interfaces celulares, la célula viva como sistema de pares estructurales en interacción, y las aplicaciones médicas derivadas: genética, inmunología y oncología.
+Esta colección extiende el análisis de compatibilidad estructural del par elemental — establecido en el [*Catálogo de Pares Estructurales SV (CPS-SV)*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md)  — hacia los objetos de la biología molecular y la medicina. Cubre, en orden ascendente de complejidad estructural, las moléculas dirigidas, las macromoléculas (proteínas y ácidos nucleicos), las membranas e interfaces celulares, la célula viva como sistema de pares estructurales en interacción, y las aplicaciones médicas derivadas: genética, inmunología y oncología.
 
 El aparato opera en la capa estructural anterior a la cuantización dinámica, incommensurable con la biología molecular convencional y complementaria a ella. El objetivo es una descripción determinista de la compatibilidad estructural en sistemas vivos, con aplicación directa a la comprensión del cáncer y los mecanismos inmunológicos.
 
