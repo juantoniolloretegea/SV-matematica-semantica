@@ -4,9 +4,9 @@
 
 **© 2026. Todos los derechos reservados.** | **Juan Antonio Lloret Egea** | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 05/05/2026 |
 
-**Advertencia.** Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
+**Advertencia.** Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, la biología molecular y la medicina, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
 
-**Warning.** This publication is protected by **CEDRO**. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
+**Warning.** This publication is protected by **CEDRO**. Its application in the fields of Physics, molecular biology and medicine, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
 
 ---
 
@@ -116,7 +116,7 @@ Estas magnitudes de cadena son los primitivos del nivel macromolecular, análogo
 
 ### Firma estructural celular y desviación oncológica
 
-La célula viva se caracteriza, en el aparato de esta colección, por la distribución de dictámenes de sus pares moleculares estructuralmente activos. Una célula sana opera con mayoría de dictámenes en APTO-C en APTO-C —imperfección sostenida, coherente con el Principio de predominancia—.
+La célula viva se caracteriza, en el aparato de esta colección, por la distribución de dictámenes de sus pares moleculares estructuralmente activos. Una célula sana opera con mayoría de dictámenes en APTO-C —imperfección sostenida, coherente con el Principio de predominancia—.
 
 Una desviación estructural —desplazamiento sistemático de la distribución hacia APTO-M, rigidez, o hacia NO-APTO, colapso— constituye la **firma oncológica estructural**: el indicador determinista de alteración de la cascada de dominancias en el sistema celular.
 
