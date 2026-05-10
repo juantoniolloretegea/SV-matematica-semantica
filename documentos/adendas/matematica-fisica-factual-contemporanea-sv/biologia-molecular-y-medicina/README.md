@@ -8,6 +8,8 @@
 
 **Warning.** This publication is protected by **CEDRO**. Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
 
+---
+
 Title: Molecular Biology and Medicine: from the Structural Pair to the Living Cell
 
 Abstract: This collection extends the structural compatibility analysis of the elementary pair — established in the Structural Pairs Catalogue SV (CPS-SV) — to the objects of molecular biology and medicine. It covers, in ascending order of structural complexity, directed molecules, macromolecules (proteins and nucleic acids), cell membranes and interfaces, the living cell as a system of interacting structural pairs, and the derived medical applications: genetics, immunology, and oncology. The apparatus operates in the structural layer prior to dynamic quantization, incommensurable with conventional molecular biology and complementary to it. The mathematical framework extends the binary dictamen function D(A,B) to the ordered n-body domain, introducing the dominance directrix vector as the structural axis of the molecule and chain-level magnitudes for macromolecules. The governing principle — that the zone of sustained imperfection, where neither structural pole achieves complete dominance, constitutes the regime of greatest cardinality in all structural realizations — provides the doctrinal foundation for the collection: what exists as a living system is precisely what no structural pole has been able to claim completely. Life is sustained imperfection; disease is the displacement from that zone. The objective is a deterministic description of structural compatibility in living systems, with direct application to the understanding of cancer and immunological mechanisms.
@@ -15,12 +17,12 @@ Abstract: This collection extends the structural compatibility analysis of the e
 ---
 
 ## Descripción de la colección
----
-## Descripción de la colección
 
-Esta colección extiende el análisis de compatibilidad estructural del par elemental — establecido en el [*Catálogo de Pares Estructurales SV (CPS-SV)*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md)  — hacia los objetos de la biología molecular y la medicina. Cubre, en orden ascendente de complejidad estructural, las moléculas dirigidas, las macromoléculas (proteínas y ácidos nucleicos), las membranas e interfaces celulares, la célula viva como sistema de pares estructurales en interacción, y las aplicaciones médicas derivadas: genética, inmunología y oncología. Por lo tanto, la colección es una derivada intencionada de la colección [Matemática y Fisica Factual Contemporánea]( https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv).
+Esta colección extiende el análisis de compatibilidad estructural del par elemental — establecido en el [*Catálogo de Pares Estructurales SV (CPS-SV)*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md) — hacia los objetos de la biología molecular y la medicina. Cubre, en orden ascendente de complejidad estructural, las moléculas dirigidas, las macromoléculas —proteínas y ácidos nucleicos—, las membranas e interfaces celulares, la célula viva como sistema de pares estructurales en interacción, y las aplicaciones médicas derivadas: genética, inmunología y oncología.
 
-El aparato opera en la capa estructural anterior a la cuantización dinámica, incommensurable con la biología molecular convencional y complementaria a ella. El objetivo es una descripción determinista de la compatibilidad estructural en sistemas vivos, con aplicación directa a la comprensión del cáncer y los mecanismos inmunológicos.
+Por lo tanto, la colección es una derivada intencionada de la colección [Matemática y Física Factual Contemporánea](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv).
+
+El aparato opera en la capa estructural anterior a la cuantización dinámica, inconmensurable con la biología molecular convencional y complementaria a ella. El objetivo es una descripción determinista de la compatibilidad estructural en sistemas vivos, con aplicación directa a la comprensión del cáncer y los mecanismos inmunológicos.
 
 ---
 
@@ -35,19 +37,19 @@ Esta colección ocupa la posición inmediatamente superior al *Catálogo de Pare
 | Catálogo de Pares Estructurales SV | Par estructural binario — 97.903 pares | pendiente |
 | **Esta colección** | **Molécula → Macromolécula → Célula → Medicina** | — |
 
-La cadena es estrictamente acumulativa: cada nivel presupone el anterior como dominio de operación. Las magnitudes estructurales EN_SV, IP_SV, r_SV, M_SV y la función de dictamen D(A,B) establecidas en los niveles inferiores son los primitivos sobre los que opera el aparato de esta colección.
+La cadena es estrictamente acumulativa: cada nivel presupone el anterior como dominio de operación. Las magnitudes estructurales `EN_SV`, `IP_SV`, `r_SV`, `M_SV` y la función de dictamen `D(A,B)` establecidas en los niveles inferiores son los primitivos sobre los que opera el aparato de esta colección.
 
 ---
 
 ## Marco doctrinal
 
-**Incommensurabilidad e independencia.** El aparato estructural del Sistema Vectorial SV opera en una capa anterior a la cuantización dinámica. Sus predicciones de compatibilidad estructural no compiten con los marcos de la biología molecular convencional (mecánica cuántica relativista, dinámica molecular, biología de sistemas) sino que los complementan desde una capa estructural distinta. Toda comparación con estructuras biológicas conocidas tiene función calibratoria y de contraste, no de equivalencia formal.
+**Inconmensurabilidad e independencia.** El aparato estructural del Sistema Vectorial SV opera en una capa anterior a la cuantización dinámica. Sus predicciones de compatibilidad estructural no compiten con los marcos de la biología molecular convencional —mecánica cuántica relativista, dinámica molecular, biología de sistemas—, sino que los complementan desde una capa estructural distinta. Toda comparación con estructuras biológicas conocidas tiene función calibratoria y de contraste, no de equivalencia formal.
 
 **Determinismo estructural.** Las funciones de dictamen de esta colección son totales y deterministas sobre sus dominios de definición. No se invoca probabilidad fundante, tiempo soberano ni formalismo de Hilbert en ningún punto del aparato. El resultado de evaluar una molécula, una macromolécula o un par de reconocimiento inmunológico bajo el aparato SV es un dictamen único, reproducible y falsable.
 
-**Dominio biológico.** El subdominio operativo de esta colección es Ω_bio ⊆ Ω₁₁₈: el conjunto de elementos de la Tabla Cero que participan en procesos biológicos documentados en organismos vivos. Este subdominio no excluye elementos terapéuticos (platino en quimioterapia, gadolinio en imagen médica) ni oligoelementos de función establecida. Los elementos del dominio extendido Ω_ext (k = 119–443) pueden aparecer en contextos prospectivos cuando su síntesis sea relevante para aplicaciones médicas futuras.
+**Dominio biológico.** El subdominio operativo de esta colección es Ω_bio ⊆ Ω₁₁₈: el conjunto de elementos de la Tabla Cero que participan en procesos biológicos documentados en organismos vivos. Este subdominio no excluye elementos terapéuticos —platino en quimioterapia, gadolinio en imagen médica— ni oligoelementos de función establecida. Los elementos del dominio extendido Ω_ext, con k = 119–443, pueden aparecer en contextos prospectivos cuando su síntesis sea relevante para aplicaciones médicas futuras.
 
-**Principio de predominancia y vida.** El Teorema de predominancia del régimen de imperfección (Teorema 1.6.1 del CPS-SV) establece que la zona de imperfección sostenida — donde ningún polo logra dominancia completa — es el régimen de mayor cardinalidad en toda realización estructural. Este principio, transferible a todo dominio que satisfaga la misma arquitectura de cascada (Corolario 1.6.4), constituye el fundamento doctrinal de la colección: lo que existe como sistema vivo es precisamente lo que ningún polo estructural ha podido reclamar completamente. La vida es imperfección sostenida; la enfermedad, el desplazamiento de esa zona.
+**Principio de predominancia y vida.** El Teorema de predominancia del régimen de imperfección —Teorema 1.6.1 del CPS-SV— establece que la zona de imperfección sostenida, donde ningún polo logra dominancia completa, es el régimen de mayor cardinalidad en toda realización estructural. Este principio, transferible a todo dominio que satisfaga la misma arquitectura de cascada —Corolario 1.6.4—, constituye el fundamento doctrinal de la colección: lo que existe como sistema vivo es precisamente lo que ningún polo estructural ha podido reclamar completamente. La vida es imperfección sostenida; la enfermedad, el desplazamiento de esa zona.
 
 ---
 
@@ -57,53 +59,66 @@ La cadena es estrictamente acumulativa: cada nivel presupone el anterior como do
 
 El Catálogo de Pares Estructurales SV define la función de dictamen binaria:
 
-```
-D : Ω_proto → {APTO-M, APTO-C, APTO-I, ∅}
-```
+$$
+D : \Omega_{\mathrm{proto}} \to \{APTO\text{-}M, APTO\text{-}C, APTO\text{-}I, \varnothing\}.
+$$
 
 Esta colección extiende el aparato al dominio n-cuerpo ordenado. Sea una molécula estructural SV la n-tupla ordenada:
 
-```
-Μ = (A₁, A₂, ..., Aₙ),   Aᵢ ∈ Ω₄₄₃,   n ≥ 2
-```
+$$
+M = (A_1, A_2, \ldots, A_n), \qquad A_i \in \Omega_{443}, \qquad n \geq 2.
+$$
 
-La función de dictamen molecular D_mol opera sobre los n−1 pares adyacentes de Μ:
+La función de dictamen molecular `D_mol` opera sobre los n−1 pares adyacentes de M:
 
-```
-D_mol(Μ) = (D(A₁,A₂), D(A₂,A₃), ..., D(Aₙ₋₁,Aₙ))
-```
+$$
+D_{\mathrm{mol}}(M) =
+(D(A_1,A_2), D(A_2,A_3), \ldots, D(A_{n-1},A_n)).
+$$
 
-produciendo una secuencia de dictámenes que constituye la **firma estructural** de la molécula.
+Esta secuencia de dictámenes constituye la **firma estructural** de la molécula.
 
 ### Eje vector directriz de dominancia
 
-A diferencia del par no ordenado {A,B} del CPS-SV, la molécula estructural SV es un objeto ordenado con dirección. El **eje vector directriz** de Μ es el vector de dominancias polares entre pares adyacentes:
+A diferencia del par no ordenado `{A,B}` del CPS-SV, la molécula estructural SV es un objeto ordenado con dirección. El **eje vector directriz** de M es el vector de dominancias polares entre pares adyacentes:
 
-```
-v⃗_dom(Μ) = (ΔEN_SV(A₁,A₂), ΔEN_SV(A₂,A₃), ..., ΔEN_SV(Aₙ₋₁,Aₙ))
-```
+$$
+\vec v_{\mathrm{dom}}(M) =
+(\Delta EN_{SV}(A_1,A_2), \Delta EN_{SV}(A_2,A_3), \ldots, \Delta EN_{SV}(A_{n-1},A_n)).
+$$
 
-La dirección de v⃗_dom determina el sentido de la transferencia de dominancia a lo largo de la cadena molecular. Una molécula con v⃗_dom uniforme (todas las componentes del mismo signo) tiene transferencia polar coherente. Una molécula con v⃗_dom alternante tiene zonas de inversión de dominancia — candidatas a sitios de actividad funcional.
+La dirección de `v_dom` determina el sentido de la transferencia de dominancia a lo largo de la cadena molecular. Una molécula con `v_dom` uniforme —todas las componentes del mismo signo— tiene transferencia polar coherente. Una molécula con `v_dom` alternante tiene zonas de inversión de dominancia, candidatas a sitios de actividad funcional.
 
 ### Cascada de dominancias molecular
 
-La cascada de dominancias del CPS-SV (Teorema 1.6.1) se extiende al nivel molecular: cada par adyacente (Aᵢ, Aᵢ₊₁) resuelve su dictamen D(Aᵢ,Aᵢ₊₁) ∈ {APTO-M, APTO-C, APTO-I, ∅}. La firma estructural de Μ es el vector de estos dictámenes. Una molécula es **estructuralmente realizada** si todos sus pares adyacentes son APTO (ninguno es ∅). El régimen dominante de la molécula es el dictamen de mayor frecuencia en su firma.
+La cascada de dominancias del CPS-SV —Teorema 1.6.1— se extiende al nivel molecular: cada par adyacente `(A_i,A_{i+1})` resuelve su dictamen `D(A_i,A_{i+1}) ∈ {APTO-M, APTO-C, APTO-I, ∅}`. La firma estructural de M es el vector de estos dictámenes. Una molécula es **estructuralmente realizada** si todos sus pares adyacentes son APTO —ninguno es ∅—. El régimen dominante de la molécula es el dictamen de mayor frecuencia en su firma.
 
 ### Dominio biológico y magnitudes derivadas de macromolécula
 
-Para las macromoléculas (proteínas de N residuos, cadenas de ácidos nucleicos de N bases), el aparato define magnitudes de cadena derivadas de las magnitudes de par:
+Para las macromoléculas —proteínas de N residuos, cadenas de ácidos nucleicos de N bases—, el aparato define magnitudes de cadena derivadas de las magnitudes de par:
 
-```
-ΔEN_cadena = (1/N−1) · Σᵢ ΔEN_SV(Aᵢ,Aᵢ₊₁)
-IP_cadena  = Σᵢ IP_SV(Aᵢ)
-ρ_cadena   = max{ρ_SV(Aᵢ,Aᵢ₊₁) : i = 1,...,N−1}
-```
+$$
+\Delta EN_{\mathrm{cadena}} =
+\frac{1}{N-1}\sum_i \Delta EN_{SV}(A_i,A_{i+1}).
+$$
+
+$$
+IP_{\mathrm{cadena}} =
+\sum_i IP_{SV}(A_i).
+$$
+
+$$
+\rho_{\mathrm{cadena}} =
+\max\{\rho_{SV}(A_i,A_{i+1}) : i = 1,\ldots,N-1\}.
+$$
 
 Estas magnitudes de cadena son los primitivos del nivel macromolecular, análogos a las magnitudes de par del CPS-SV.
 
 ### Firma estructural celular y desviación oncológica
 
-La célula viva se caracteriza, en el aparato de esta colección, por la distribución de dictámenes de sus pares moleculares estructuralmente activos. Una célula sana opera con distribución centrada en APTO-C (imperfección sostenida, coherente con el Principio de predominancia). Una desviación estructural — desplazamiento sistemático de la distribución hacia APTO-M (rigidez) o hacia NO-APTO (colapso) — constituye la **firma oncológica estructural**: el indicador determinista de alteración de la cascada de dominancias en el sistema celular.
+La célula viva se caracteriza, en el aparato de esta colección, por la distribución de dictámenes de sus pares moleculares estructuralmente activos. Una célula sana opera con distribución centrada en APTO-C —imperfección sostenida, coherente con el Principio de predominancia—.
+
+Una desviación estructural —desplazamiento sistemático de la distribución hacia APTO-M, rigidez, o hacia NO-APTO, colapso— constituye la **firma oncológica estructural**: el indicador determinista de alteración de la cascada de dominancias en el sistema celular.
 
 ---
 
@@ -124,9 +139,9 @@ Cada publicación es autónoma, reproducible mediante laboratorio ejecutable, y 
 
 ## Criterios de falsación de la colección
 
-**F.col.1 — Coherencia con el CPS-SV.** Toda molécula estructural SV cuya firma incluya un par (Aᵢ,Aᵢ₊₁) ∈ Ω₁₁₈ × Ω₁₁₈ debe tener un dictamen D(Aᵢ,Aᵢ₊₁) coherente con el CPS-SV. Una discrepancia falsaría la extensión n-cuerpo.
+**F.col.1 — Coherencia con el CPS-SV.** Toda molécula estructural SV cuya firma incluya un par `(A_i,A_{i+1}) ∈ Ω₁₁₈ × Ω₁₁₈` debe tener un dictamen `D(A_i,A_{i+1})` coherente con el CPS-SV. Una discrepancia falsaría la extensión n-cuerpo.
 
-**F.col.2 — Contraste biológico.** Las moléculas de Ω_bio con función biológica documentada y estructura experimental conocida (PDB, bases de datos de proteínas) deben producir firmas estructurales SV no vacías. Un conjunto de moléculas biológicamente activas con firma ∅ falsaría el dominio Ω_bio.
+**F.col.2 — Contraste biológico.** Las moléculas de Ω_bio con función biológica documentada y estructura experimental conocida —PDB, bases de datos de proteínas— deben producir firmas estructurales SV no vacías. Un conjunto de moléculas biológicamente activas con firma ∅ falsaría el dominio Ω_bio.
 
 **F.col.3 — Diferencial oncológico.** Si la distribución de dictámenes de pares moleculares en líneas celulares cancerosas documentadas no muestra diferencia estructural sistemática respecto a la distribución en células sanas equivalentes, la hipótesis de firma oncológica estructural queda falsada.
 
