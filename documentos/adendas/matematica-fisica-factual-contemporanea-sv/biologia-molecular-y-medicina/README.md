@@ -16,6 +16,12 @@
 
 ---
 
+## Estatuto de esta publicación
+
+Esta publicación tiene estatuto de marco de colección. No constituye todavía una teoría biomédica cerrada ni declara resultados clínicos, experimentales o terapéuticos. Su función es fijar el dominio, la secuencia de publicaciones, el aparato matemático inicial, los criterios de falsación y la posición de la colección dentro del corpus SV.
+
+---
+
 ## Descripción de la colección
 
 Esta colección extiende el análisis de compatibilidad estructural del par elemental — establecido en el [*Catálogo de Pares Estructurales SV (CPS-SV)*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md) — hacia los objetos de la biología molecular y la medicina. Cubre, en orden ascendente de complejidad estructural, las moléculas dirigidas, las macromoléculas —proteínas y ácidos nucleicos—, las membranas e interfaces celulares, la célula viva como sistema de pares estructurales en interacción, y las aplicaciones médicas derivadas: genética, inmunología y oncología.
