@@ -116,7 +116,7 @@ Estas magnitudes de cadena son los primitivos del nivel macromolecular, análogo
 
 ### Firma estructural celular y desviación oncológica
 
-La célula viva se caracteriza, en el aparato de esta colección, por la distribución de dictámenes de sus pares moleculares estructuralmente activos. Una célula sana opera con distribución centrada en APTO-C —imperfección sostenida, coherente con el Principio de predominancia—.
+La célula viva se caracteriza, en el aparato de esta colección, por la distribución de dictámenes de sus pares moleculares estructuralmente activos. Una célula sana opera con mayoría de dictámenes en APTO-C en APTO-C —imperfección sostenida, coherente con el Principio de predominancia—.
 
 Una desviación estructural —desplazamiento sistemático de la distribución hacia APTO-M, rigidez, o hacia NO-APTO, colapso— constituye la **firma oncológica estructural**: el indicador determinista de alteración de la cascada de dominancias en el sistema celular.
 
