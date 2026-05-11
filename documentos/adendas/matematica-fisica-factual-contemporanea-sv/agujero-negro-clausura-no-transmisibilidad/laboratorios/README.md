@@ -14,6 +14,11 @@ Estos laboratorios verifican el banco SV-BH9 de la publicación [El agujero negr
 
 No hay pases silenciosos: cada caso declara entrada, cálculo, resultado esperado, resultado obtenido y estado. Los errores adversariales esperados cuentan como APTO sólo si se detectan con el código previsto.
 
+
+## Registro vinculado
+
+Los laboratorios quedan vinculados al registro de preservación de la publicación principal. El registro histórico de la carpeta contenedora está disponible en [Internet Archive](https://web.archive.org/web/20260511122405/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad); el registro histórico del texto principal está disponible en [Internet Archive](https://web.archive.org/web/20260511122924/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad/agujero-negro-clausura-no-transmisibilidad.md); el detalle de firma, estampillado de tiempo y hashes se recoge en [../registros/README.md](../registros/README.md).
+
 ## Ejecución
 
 python runner.py
