@@ -27,3 +27,7 @@
 | BH-SRC-001 | 𝔅Hₛᵥ tratado como operador fuente | NO_APTO |
 
 Todo error adversarial incluido en el banco debe detectarse con el código previsto. Un error esperado no detectado equivale a NO_APTO.
+
+## Registro asociado
+
+Este catálogo queda vinculado al registro general de preservación de la publicación: [registros/README.md](../registros/README.md).
