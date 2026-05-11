@@ -6,6 +6,10 @@
 **Licencia:** CC BY-NC-ND 4.0  
 **Fecha:** Madrid, 10/05/2026
 
+## Registro asociado
+
+Este directorio queda vinculado al registro general de preservación de la publicación: [registros/README.md](../../registros/README.md). La carpeta contenedora dispone de [registro histórico en Internet Archive](https://web.archive.org/web/20260511122405/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad) y el texto principal dispone de [registro histórico en Internet Archive](https://web.archive.org/web/20260511122924/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad/agujero-negro-clausura-no-transmisibilidad.md).
+
 Banco principal: [sv_bh9_banco.json](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad/laboratorios/datos/sv_bh9_banco.json).
 
 Todos los casos contienen metadatos de autoría y se evalúan por `runner.py` sin pases silenciosos.
