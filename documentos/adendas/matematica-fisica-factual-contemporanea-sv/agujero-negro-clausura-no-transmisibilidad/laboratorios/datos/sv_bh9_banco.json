@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "autor": "Juan Antonio Lloret Egea",
+    "orcid": "0000-0002-6634-3351",
+    "derechos": "© 2026. Todos los derechos reservados.",
+    "licencia": "CC BY-NC-ND 4.0",
+    "fecha": "Madrid, 10/05/2026",
+    "publicacion": "El agujero negro como cierre interno sin resto exterior formulable"
+  },
+  "constants": {
+    "G": 6.6743e-11,
+    "c": 299792458.0,
+    "hbar": 1.054571817e-34,
+    "k_B": 1.380649e-23,
+    "M_solar": 1.98847e+30
+  },
+  "formula_equivalence": [
+    {
+      "case_id": "F-BH-OK-01",
+      "R": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": "BH_CERRADO"
+    },
+    {
+      "case_id": "F-BH-LUZ-01",
+      "R": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": "NO_APTO",
+      "expected_error": "BH-LUZ-002"
+    },
+    {
+      "case_id": "F-BH-TN-01",
+      "R": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "expected": "NO_APTO",
+      "expected_error": "BH-UPOST-001"
+    },
+    {
+      "case_id": "F-BH-ABS-01",
+      "R": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "expected": "NO_APTO",
+      "expected_error": "BH-ABS-001"
+    }
+  ],
+  "cells": [
+    {
+      "case_id": "C9-01",
+      "cell": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "expected": "NO_APTO"
+    },
+    {
+      "case_id": "C9-02",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "expected": "APTO"
+    },
+    {
+      "case_id": "C9-03",
+      "cell": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        "U",
+        "U",
+        0
+      ],
+      "expected": "U"
+    },
+    {
+      "case_id": "C9-04",
+      "cell": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        "U",
+        0
+      ],
+      "expected": "NO_APTO"
+    },
+    {
+      "case_id": "C36-01",
+      "counts": {
+        "n0": 8,
+        "n1": 28,
+        "nu": 0
+      },
+      "expected": "NO_APTO"
+    },
+    {
+      "case_id": "C36-02",
+      "counts": {
+        "n0": 9,
+        "n1": 27,
+        "nu": 0
+      },
+      "expected": "U"
+    },
+    {
+      "case_id": "C36-03",
+      "counts": {
+        "n0": 28,
+        "n1": 8,
+        "nu": 0
+      },
+      "expected": "APTO"
+    },
+    {
+      "case_id": "C36-04",
+      "counts": {
+        "n0": 7,
+        "n1": 28,
+        "nu": 1
+      },
+      "expected": "NO_APTO"
+    }
+  ],
+  "schwarzschild": [
+    {
+      "case_id": "SCH-01",
+      "q": 2.0,
+      "expected_horizon": false
+    },
+    {
+      "case_id": "SCH-02",
+      "q": 1.1,
+      "expected_horizon": false
+    },
+    {
+      "case_id": "SCH-03",
+      "q": 1.001,
+      "expected_horizon": false
+    },
+    {
+      "case_id": "SCH-04",
+      "q": 1.0,
+      "expected_horizon": true
+    },
+    {
+      "case_id": "SCH-05",
+      "q": 0.999,
+      "expected_horizon": true
+    },
+    {
+      "case_id": "SCH-06",
+      "q": 0.5,
+      "expected_horizon": true
+    },
+    {
+      "case_id": "SCH-07",
+      "q": 0.1,
+      "expected_horizon": true
+    }
+  ],
+  "masses": [
+    {
+      "case_id": "M1",
+      "solar_masses": 1.0
+    },
+    {
+      "case_id": "M10",
+      "solar_masses": 10.0
+    },
+    {
+      "case_id": "SGRA",
+      "solar_masses": 4297000.0
+    },
+    {
+      "case_id": "M87",
+      "solar_masses": 6500000000.0
+    }
+  ],
+  "kerr": [
+    {
+      "case_id": "KERR-01",
+      "chi": 0.0,
+      "expected_valid": true
+    },
+    {
+      "case_id": "KERR-02",
+      "chi": 0.5,
+      "expected_valid": true
+    },
+    {
+      "case_id": "KERR-03",
+      "chi": 0.9,
+      "expected_valid": true
+    },
+    {
+      "case_id": "KERR-04",
+      "chi": 0.999,
+      "expected_valid": true
+    },
+    {
+      "case_id": "KERR-05",
+      "chi": 1.0,
+      "expected_valid": true
+    },
+    {
+      "case_id": "KERR-06",
+      "chi": 1.1,
+      "expected_valid": false,
+      "expected_error": "BH-KERR-001"
+    }
+  ],
+  "singularity": [
+    {
+      "case_id": "K-01",
+      "q": 1.0,
+      "expected_foundation": false
+    },
+    {
+      "case_id": "K-02",
+      "q": 0.5,
+      "expected_foundation": false
+    },
+    {
+      "case_id": "K-03",
+      "q": 0.1,
+      "expected_foundation": false
+    },
+    {
+      "case_id": "K-04",
+      "q": 0.01,
+      "expected_foundation": false
+    },
+    {
+      "case_id": "K-05",
+      "q": 0.0,
+      "expected_error": "BH-SING-001"
+    }
+  ],
+  "absorption": [
+    {
+      "case_id": "ABS-01",
+      "model": "Schwarzschild",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": "ABSORBIDO"
+    },
+    {
+      "case_id": "ABS-02",
+      "model": "Kerr válido",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": "ABSORBIDO"
+    },
+    {
+      "case_id": "ABS-03",
+      "model": "singularidad primaria",
+      "cell": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "expected": "RECHAZADO",
+      "expected_error": "BH-SING-001"
+    },
+    {
+      "case_id": "ABS-04",
+      "model": "Bekenstein-Hawking",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "U",
+        "U"
+      ],
+      "expected": "ABSORBIDO"
+    },
+    {
+      "case_id": "ABS-05",
+      "model": "Radiación Hawking",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "U",
+        "U",
+        "U"
+      ],
+      "expected": "ABSORBIDO_PARCIALMENTE"
+    },
+    {
+      "case_id": "ABS-06",
+      "model": "Page curve e islas",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        "U",
+        "U",
+        "U",
+        "U",
+        "U"
+      ],
+      "expected": "ABSORBIDO_PARCIALMENTE"
+    },
+    {
+      "case_id": "ABS-07",
+      "model": "Fuzzball firewall",
+      "cell": [
+        0,
+        0,
+        0,
+        "U",
+        "U",
+        "U",
+        "U",
+        "U",
+        "U"
+      ],
+      "expected": "ABSORBIDO_PARCIALMENTE"
+    },
+    {
+      "case_id": "ABS-08",
+      "model": "Regular BH",
+      "cell": [
+        0,
+        0,
+        0,
+        0,
+        "U",
+        "U",
+        "U",
+        "U",
+        "U"
+      ],
+      "expected": "ABSORBIDO_PARCIALMENTE"
+    },
+    {
+      "case_id": "ABS-09",
+      "model": "objeto con salida luminosa apta",
+      "cell": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "expected": "RECHAZADO",
+      "expected_error": "BH-LUZ-002"
+    }
+  ],
+  "postfrontier": [
+    {
+      "case_id": "PF-01",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 0,
+      "declared": "M_N2-SV",
+      "expected": "APTO"
+    },
+    {
+      "case_id": "PF-02",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 0,
+      "declared": "U",
+      "expected": "NO_APTO",
+      "expected_error": "BH-UPOST-001"
+    },
+    {
+      "case_id": "PF-03",
+      "mu": 0,
+      "lambda": 1,
+      "verifier": 0,
+      "declared": "M_N2-SV",
+      "expected": "NO_APTO",
+      "expected_error": "BH-TN-002"
+    },
+    {
+      "case_id": "PF-04",
+      "mu": 1,
+      "lambda": 0,
+      "verifier": 0,
+      "declared": "M_N2-SV",
+      "expected": "NO_APTO",
+      "expected_error": "BH-TN-002"
+    },
+    {
+      "case_id": "PF-05",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 1,
+      "declared": "M_N2-SV",
+      "expected": "NO_APTO",
+      "expected_error": "BH-TN-002"
+    }
+  ],
+  "external_falsification": [
+    {
+      "case_id": "EXT-01",
+      "D_TE": "NO_APTO",
+      "D_L": "NO_APTO",
+      "D_INT": "SATURACION",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 0,
+      "expected": "BH_FISICO_EQ_BH_SV"
+    },
+    {
+      "case_id": "EXT-02",
+      "D_TE": "NO_APTO",
+      "D_L": "APTO",
+      "D_INT": "SATURACION",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 0,
+      "expected": "NO_APTO",
+      "expected_error": "BH-LUZ-002"
+    },
+    {
+      "case_id": "EXT-03",
+      "D_TE": "APTO",
+      "D_L": "NO_APTO",
+      "D_INT": "SATURACION",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 0,
+      "expected": "NO_APTO",
+      "expected_error": "BH-TE-001"
+    },
+    {
+      "case_id": "EXT-04",
+      "D_TE": "NO_APTO",
+      "D_L": "NO_APTO",
+      "D_INT": "U",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 0,
+      "expected": "NO_APTO",
+      "expected_error": "BH-INT-001"
+    },
+    {
+      "case_id": "EXT-05",
+      "D_TE": "NO_APTO",
+      "D_L": "NO_APTO",
+      "D_INT": "SATURACION",
+      "mu": 0,
+      "lambda": 0,
+      "verifier": 1,
+      "expected": "NO_APTO",
+      "expected_error": "BH-TN-002"
+    }
+  ]
+}

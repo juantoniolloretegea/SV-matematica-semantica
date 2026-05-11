@@ -1,0 +1,971 @@
+{
+  "metadata": {
+    "autor": "Juan Antonio Lloret Egea",
+    "orcid": "0000-0002-6634-3351",
+    "derechos": "© 2026. Todos los derechos reservados.",
+    "licencia": "CC BY-NC-ND 4.0",
+    "fecha": "Madrid, 10/05/2026",
+    "publicacion": "El agujero negro como cierre interno sin resto exterior formulable"
+  },
+  "summary": {
+    "metadata": {
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "derechos": "© 2026. Todos los derechos reservados.",
+      "licencia": "CC BY-NC-ND 4.0",
+      "fecha": "Madrid, 10/05/2026",
+      "publicacion": "El agujero negro como cierre interno sin resto exterior formulable"
+    },
+    "total_cases": 54,
+    "passed": 54,
+    "failed": 0,
+    "expected_errors_detected": 15,
+    "global_status": "APTO"
+  },
+  "results": [
+    {
+      "case_id": "F-BH-OK-01",
+      "block": "formas_equivalentes_BH",
+      "status": "PASS",
+      "expected": "BH_CERRADO",
+      "obtained": "BH_CERRADO",
+      "details": {
+        "explicit_all_zero": true,
+        "implicit_sum": 0,
+        "canonical_norm": 0,
+        "complement_product": 1,
+        "matrix_trace": 0,
+        "parametric_zero_count": 11,
+        "all_forms_equivalent": true,
+        "dictamen": "BH_CERRADO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "F-BH-LUZ-01",
+      "block": "formas_equivalentes_BH",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "explicit_all_zero": false,
+        "implicit_sum": 1,
+        "canonical_norm": 1,
+        "complement_product": 0,
+        "matrix_trace": 1,
+        "parametric_zero_count": 10,
+        "all_forms_equivalent": true,
+        "dictamen": "NO_APTO"
+      },
+      "error": "BH-LUZ-002"
+    },
+    {
+      "case_id": "F-BH-TN-01",
+      "block": "formas_equivalentes_BH",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "explicit_all_zero": false,
+        "implicit_sum": 1,
+        "canonical_norm": 1,
+        "complement_product": 0,
+        "matrix_trace": 1,
+        "parametric_zero_count": 10,
+        "all_forms_equivalent": true,
+        "dictamen": "NO_APTO"
+      },
+      "error": "BH-UPOST-001"
+    },
+    {
+      "case_id": "F-BH-ABS-01",
+      "block": "formas_equivalentes_BH",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "explicit_all_zero": false,
+        "implicit_sum": 1,
+        "canonical_norm": 1,
+        "complement_product": 0,
+        "matrix_trace": 1,
+        "parametric_zero_count": 10,
+        "all_forms_equivalent": true,
+        "dictamen": "NO_APTO"
+      },
+      "error": "BH-ABS-001"
+    },
+    {
+      "case_id": "C9-01",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 2,
+        "N1": 7,
+        "NU": 0,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C9-02",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "APTO",
+      "obtained": "APTO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 7,
+        "N1": 2,
+        "NU": 0,
+        "DΣ": "APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C9-03",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "U",
+      "obtained": "U",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 1,
+        "N1": 6,
+        "NU": 2,
+        "DΣ": "U"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C9-04",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 1,
+        "N1": 7,
+        "NU": 1,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C36-01",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "n": 36,
+        "T": 28,
+        "N0": 8,
+        "N1": 28,
+        "NU": 0,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C36-02",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "U",
+      "obtained": "U",
+      "details": {
+        "n": 36,
+        "T": 28,
+        "N0": 9,
+        "N1": 27,
+        "NU": 0,
+        "DΣ": "U"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C36-03",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "APTO",
+      "obtained": "APTO",
+      "details": {
+        "n": 36,
+        "T": 28,
+        "N0": 28,
+        "N1": 8,
+        "NU": 0,
+        "DΣ": "APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "C36-04",
+      "block": "DΣ_celular",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "n": 36,
+        "T": 28,
+        "N0": 7,
+        "N1": 28,
+        "NU": 1,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-01",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": false,
+      "obtained": false,
+      "details": {
+        "q": 2.0,
+        "v_escape_over_c": 0.7071067811865476,
+        "cell": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 7,
+        "N1": 2,
+        "NU": 0,
+        "DΣ": "APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-02",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": false,
+      "obtained": false,
+      "details": {
+        "q": 1.1,
+        "v_escape_over_c": 0.9534625892455924,
+        "cell": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 7,
+        "N1": 2,
+        "NU": 0,
+        "DΣ": "APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-03",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": false,
+      "obtained": false,
+      "details": {
+        "q": 1.001,
+        "v_escape_over_c": 0.9995003746877733,
+        "cell": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 7,
+        "N1": 2,
+        "NU": 0,
+        "DΣ": "APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-04",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "q": 1.0,
+        "v_escape_over_c": 1.0,
+        "cell": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 2,
+        "N1": 7,
+        "NU": 0,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-05",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "q": 0.999,
+        "v_escape_over_c": 1.0005003753127737,
+        "cell": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 1,
+        "N1": 8,
+        "NU": 0,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-06",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "q": 0.5,
+        "v_escape_over_c": 1.4142135623730951,
+        "cell": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 1,
+        "N1": 8,
+        "NU": 0,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "SCH-07",
+      "block": "Schwarzschild",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "q": 0.1,
+        "v_escape_over_c": 3.1622776601683795,
+        "cell": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "n": 9,
+        "T": 7,
+        "N0": 1,
+        "N1": 8,
+        "NU": 0,
+        "DΣ": "NO_APTO"
+      },
+      "error": null
+    },
+    {
+      "case_id": "M1",
+      "block": "termodinamica_BH",
+      "status": "PASS",
+      "expected": "C_TH=0;C_H=0",
+      "obtained": "C_TH=0;C_H=0",
+      "details": {
+        "mass_kg": 1.98847e+30,
+        "r_s_m": 2953.3393820668784,
+        "r_s_km": 2.9533393820668783,
+        "r_s_AU": 1.9741854401052504e-08,
+        "area_m2": 109606567.48978265,
+        "S_BH_over_kB": 1.0489548861789663e+77,
+        "T_H_K": 6.170073824811396e-08
+      },
+      "error": null
+    },
+    {
+      "case_id": "M10",
+      "block": "termodinamica_BH",
+      "status": "PASS",
+      "expected": "C_TH=0;C_H=0",
+      "obtained": "C_TH=0;C_H=0",
+      "details": {
+        "mass_kg": 1.98847e+31,
+        "r_s_m": 29533.393820668785,
+        "r_s_km": 29.533393820668785,
+        "r_s_AU": 1.9741854401052504e-07,
+        "area_m2": 10960656748.978264,
+        "S_BH_over_kB": 1.0489548861789662e+79,
+        "T_H_K": 6.170073824811395e-09
+      },
+      "error": null
+    },
+    {
+      "case_id": "SGRA",
+      "block": "termodinamica_BH",
+      "status": "PASS",
+      "expected": "C_TH=0;C_H=0",
+      "obtained": "C_TH=0;C_H=0",
+      "details": {
+        "mass_kg": 8.54445559e+36,
+        "r_s_m": 12690499324.741377,
+        "r_s_km": 12690499.324741377,
+        "r_s_AU": 0.08483074836132261,
+        "area_m2": 2.023798569903952e+21,
+        "S_BH_over_kB": 1.9368122249979643e+90,
+        "T_H_K": 1.435902682059901e-14
+      },
+      "error": null
+    },
+    {
+      "case_id": "M87",
+      "block": "termodinamica_BH",
+      "status": "PASS",
+      "expected": "C_TH=0;C_H=0",
+      "obtained": "C_TH=0;C_H=0",
+      "details": {
+        "mass_kg": 1.2925054999999999e+40,
+        "r_s_m": 19196705983434.707,
+        "r_s_km": 19196705983.434708,
+        "r_s_AU": 128.32205360684125,
+        "area_m2": 4.630877476443316e+27,
+        "S_BH_over_kB": 4.431834394106131e+96,
+        "T_H_K": 9.49242126894061e-18
+      },
+      "error": null
+    },
+    {
+      "case_id": "KERR-01",
+      "block": "Kerr",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "chi": 0.0,
+        "r_plus_over_rg": 2.0
+      },
+      "error": null
+    },
+    {
+      "case_id": "KERR-02",
+      "block": "Kerr",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "chi": 0.5,
+        "r_plus_over_rg": 1.8660254037844386
+      },
+      "error": null
+    },
+    {
+      "case_id": "KERR-03",
+      "block": "Kerr",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "chi": 0.9,
+        "r_plus_over_rg": 1.4358898943540672
+      },
+      "error": null
+    },
+    {
+      "case_id": "KERR-04",
+      "block": "Kerr",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "chi": 0.999,
+        "r_plus_over_rg": 1.044710177812216
+      },
+      "error": null
+    },
+    {
+      "case_id": "KERR-05",
+      "block": "Kerr",
+      "status": "PASS",
+      "expected": true,
+      "obtained": true,
+      "details": {
+        "chi": 1.0,
+        "r_plus_over_rg": 1.0
+      },
+      "error": null
+    },
+    {
+      "case_id": "KERR-06",
+      "block": "Kerr",
+      "status": "PASS",
+      "expected": false,
+      "obtained": false,
+      "details": {
+        "chi": 1.1,
+        "r_plus_over_rg": null
+      },
+      "error": "BH-KERR-001"
+    },
+    {
+      "case_id": "K-01",
+      "block": "singularidad_geometrica",
+      "status": "PASS",
+      "expected": "no_fundamento",
+      "obtained": "LIMITE_DE_PROYECCION",
+      "details": {
+        "q": 1.0,
+        "K_over_Kh": 1.0
+      },
+      "error": null
+    },
+    {
+      "case_id": "K-02",
+      "block": "singularidad_geometrica",
+      "status": "PASS",
+      "expected": "no_fundamento",
+      "obtained": "LIMITE_DE_PROYECCION",
+      "details": {
+        "q": 0.5,
+        "K_over_Kh": 64.0
+      },
+      "error": null
+    },
+    {
+      "case_id": "K-03",
+      "block": "singularidad_geometrica",
+      "status": "PASS",
+      "expected": "no_fundamento",
+      "obtained": "LIMITE_DE_PROYECCION",
+      "details": {
+        "q": 0.1,
+        "K_over_Kh": 1000000.0
+      },
+      "error": null
+    },
+    {
+      "case_id": "K-04",
+      "block": "singularidad_geometrica",
+      "status": "PASS",
+      "expected": "no_fundamento",
+      "obtained": "LIMITE_DE_PROYECCION",
+      "details": {
+        "q": 0.01,
+        "K_over_Kh": 1000000000000.0
+      },
+      "error": null
+    },
+    {
+      "case_id": "K-05",
+      "block": "singularidad_geometrica",
+      "status": "PASS",
+      "expected": "BH-SING-001",
+      "obtained": "NO_EVALUABLE_COMO_FUNDAMENTO",
+      "details": {
+        "q": 0.0,
+        "K_over_Kh": null
+      },
+      "error": "BH-SING-001"
+    },
+    {
+      "case_id": "ABS-01",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO",
+      "obtained": "ABSORBIDO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 9,
+        "N1": 0,
+        "NU": 0,
+        "DΣ": "APTO",
+        "modelo": "Schwarzschild",
+        "dictamen_absorcion": "ABSORBIDO",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-02",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO",
+      "obtained": "ABSORBIDO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 9,
+        "N1": 0,
+        "NU": 0,
+        "DΣ": "APTO",
+        "modelo": "Kerr válido",
+        "dictamen_absorcion": "ABSORBIDO",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-03",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "RECHAZADO",
+      "obtained": "RECHAZADO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 0,
+        "N1": 9,
+        "NU": 0,
+        "DΣ": "NO_APTO",
+        "modelo": "singularidad primaria",
+        "dictamen_absorcion": "RECHAZADO",
+        "error": "BH-SING-001"
+      },
+      "error": "BH-SING-001"
+    },
+    {
+      "case_id": "ABS-04",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO",
+      "obtained": "ABSORBIDO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 7,
+        "N1": 0,
+        "NU": 2,
+        "DΣ": "APTO",
+        "modelo": "Bekenstein-Hawking",
+        "dictamen_absorcion": "ABSORBIDO",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-05",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO_PARCIALMENTE",
+      "obtained": "ABSORBIDO_PARCIALMENTE",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 6,
+        "N1": 0,
+        "NU": 3,
+        "DΣ": "U",
+        "modelo": "Radiación Hawking",
+        "dictamen_absorcion": "ABSORBIDO_PARCIALMENTE",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-06",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO_PARCIALMENTE",
+      "obtained": "ABSORBIDO_PARCIALMENTE",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 4,
+        "N1": 0,
+        "NU": 5,
+        "DΣ": "U",
+        "modelo": "Page curve e islas",
+        "dictamen_absorcion": "ABSORBIDO_PARCIALMENTE",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-07",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO_PARCIALMENTE",
+      "obtained": "ABSORBIDO_PARCIALMENTE",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 3,
+        "N1": 0,
+        "NU": 6,
+        "DΣ": "U",
+        "modelo": "Fuzzball firewall",
+        "dictamen_absorcion": "ABSORBIDO_PARCIALMENTE",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-08",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "ABSORBIDO_PARCIALMENTE",
+      "obtained": "ABSORBIDO_PARCIALMENTE",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 4,
+        "N1": 0,
+        "NU": 5,
+        "DΣ": "U",
+        "modelo": "Regular BH",
+        "dictamen_absorcion": "ABSORBIDO_PARCIALMENTE",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "ABS-09",
+      "block": "absorcion_modelos",
+      "status": "PASS",
+      "expected": "RECHAZADO",
+      "obtained": "RECHAZADO",
+      "details": {
+        "n": 9,
+        "T": 7,
+        "N0": 2,
+        "N1": 7,
+        "NU": 0,
+        "DΣ": "NO_APTO",
+        "modelo": "objeto con salida luminosa apta",
+        "dictamen_absorcion": "RECHAZADO",
+        "error": "BH-LUZ-002"
+      },
+      "error": "BH-LUZ-002"
+    },
+    {
+      "case_id": "PF-01",
+      "block": "postfrontera_MN2",
+      "status": "PASS",
+      "expected": "APTO",
+      "obtained": "APTO",
+      "details": {
+        "dictamen": "APTO",
+        "postfrontera": "M_N2-SV",
+        "error": null
+      },
+      "error": null
+    },
+    {
+      "case_id": "PF-02",
+      "block": "postfrontera_MN2",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "dictamen": "NO_APTO",
+        "postfrontera": "U",
+        "error": "BH-UPOST-001"
+      },
+      "error": "BH-UPOST-001"
+    },
+    {
+      "case_id": "PF-03",
+      "block": "postfrontera_MN2",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "dictamen": "NO_APTO",
+        "postfrontera": "M_N2-SV",
+        "error": "BH-TN-002"
+      },
+      "error": "BH-TN-002"
+    },
+    {
+      "case_id": "PF-04",
+      "block": "postfrontera_MN2",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "dictamen": "NO_APTO",
+        "postfrontera": "M_N2-SV",
+        "error": "BH-TN-002"
+      },
+      "error": "BH-TN-002"
+    },
+    {
+      "case_id": "PF-05",
+      "block": "postfrontera_MN2",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "dictamen": "NO_APTO",
+        "postfrontera": "M_N2-SV",
+        "error": "BH-TN-002"
+      },
+      "error": "BH-TN-002"
+    },
+    {
+      "case_id": "PF-MN2-NE-U",
+      "block": "postfrontera_MN2",
+      "status": "PASS",
+      "expected": "M_N2-SV≠U",
+      "obtained": "M_N2-SV≠U",
+      "details": {
+        "type_check": true
+      },
+      "error": null
+    },
+    {
+      "case_id": "EXT-01",
+      "block": "falsacion_luminosa_externa",
+      "status": "PASS",
+      "expected": "BH_FISICO_EQ_BH_SV",
+      "obtained": "BH_FISICO_EQ_BH_SV",
+      "details": {
+        "case_id": "EXT-01",
+        "D_TE": "NO_APTO",
+        "D_L": "NO_APTO",
+        "D_INT": "SATURACION",
+        "mu": 0,
+        "lambda": 0,
+        "verifier": 0,
+        "expected": "BH_FISICO_EQ_BH_SV"
+      },
+      "error": null
+    },
+    {
+      "case_id": "EXT-02",
+      "block": "falsacion_luminosa_externa",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "case_id": "EXT-02",
+        "D_TE": "NO_APTO",
+        "D_L": "APTO",
+        "D_INT": "SATURACION",
+        "mu": 0,
+        "lambda": 0,
+        "verifier": 0,
+        "expected": "NO_APTO",
+        "expected_error": "BH-LUZ-002"
+      },
+      "error": "BH-LUZ-002"
+    },
+    {
+      "case_id": "EXT-03",
+      "block": "falsacion_luminosa_externa",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "case_id": "EXT-03",
+        "D_TE": "APTO",
+        "D_L": "NO_APTO",
+        "D_INT": "SATURACION",
+        "mu": 0,
+        "lambda": 0,
+        "verifier": 0,
+        "expected": "NO_APTO",
+        "expected_error": "BH-TE-001"
+      },
+      "error": "BH-TE-001"
+    },
+    {
+      "case_id": "EXT-04",
+      "block": "falsacion_luminosa_externa",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "case_id": "EXT-04",
+        "D_TE": "NO_APTO",
+        "D_L": "NO_APTO",
+        "D_INT": "U",
+        "mu": 0,
+        "lambda": 0,
+        "verifier": 0,
+        "expected": "NO_APTO",
+        "expected_error": "BH-INT-001"
+      },
+      "error": "BH-INT-001"
+    },
+    {
+      "case_id": "EXT-05",
+      "block": "falsacion_luminosa_externa",
+      "status": "PASS",
+      "expected": "NO_APTO",
+      "obtained": "NO_APTO",
+      "details": {
+        "case_id": "EXT-05",
+        "D_TE": "NO_APTO",
+        "D_L": "NO_APTO",
+        "D_INT": "SATURACION",
+        "mu": 0,
+        "lambda": 0,
+        "verifier": 1,
+        "expected": "NO_APTO",
+        "expected_error": "BH-TN-002"
+      },
+      "error": "BH-TN-002"
+    }
+  ]
+}
