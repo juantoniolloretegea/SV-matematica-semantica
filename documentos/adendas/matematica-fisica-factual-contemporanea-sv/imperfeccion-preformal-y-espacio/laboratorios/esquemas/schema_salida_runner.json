@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "schema_salida_runner",
+  "metadata": {
+    "autor": "Juan Antonio Lloret Egea",
+    "orcid": "0000-0002-6634-3351",
+    "copyright": "© 2026. Todos los derechos reservados.",
+    "licencia": "CC BY-NC-ND 4.0",
+    "publicacion": "Imperfección preformal y espacio: ε₋₀, primera distinguibilidad y dominio estructural completo de separación factual recorrible",
+    "repositorio": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio"
+  },
+  "type": "object",
+  "required": [
+    "resultado_global",
+    "total_casos",
+    "conteo_dictamenes",
+    "errores_detectados",
+    "hash_datos"
+  ]
+}

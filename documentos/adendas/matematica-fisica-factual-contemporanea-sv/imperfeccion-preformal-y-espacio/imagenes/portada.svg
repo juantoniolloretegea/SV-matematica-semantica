@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800"
+     preserveAspectRatio="xMidYMid meet">
+<defs>
+  <radialGradient id="glow" cx="50%" cy="42.5%" r="35%">
+    <stop offset="0%" stop-color="#2A0848" stop-opacity="0.30"/>
+    <stop offset="100%" stop-color="#0A0A14" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="800" fill="#0A0A14"/>
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="55" x2="1200" y2="55" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="110" x2="1200" y2="110" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="165" x2="1200" y2="165" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="220" x2="1200" y2="220" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="275" x2="1200" y2="275" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="330" x2="1200" y2="330" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="385" x2="1200" y2="385" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="440" x2="1200" y2="440" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="495" x2="1200" y2="495" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="550" x2="1200" y2="550" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="605" x2="1200" y2="605" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="660" x2="1200" y2="660" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="715" x2="1200" y2="715" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="770" x2="1200" y2="770" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="0" y1="0" x2="0" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="55" y1="0" x2="55" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="110" y1="0" x2="110" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="165" y1="0" x2="165" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="220" y1="0" x2="220" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="275" y1="0" x2="275" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="330" y1="0" x2="330" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="385" y1="0" x2="385" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="440" y1="0" x2="440" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="495" y1="0" x2="495" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="550" y1="0" x2="550" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="605" y1="0" x2="605" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="660" y1="0" x2="660" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="715" y1="0" x2="715" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="770" y1="0" x2="770" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="825" y1="0" x2="825" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="880" y1="0" x2="880" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="935" y1="0" x2="935" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="990" y1="0" x2="990" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="1045" y1="0" x2="1045" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="1100" y1="0" x2="1100" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<line x1="1155" y1="0" x2="1155" y2="800" stroke="#1A1A3A" stroke-width="0.5" opacity="0.15"/>
+<rect width="1200" height="800" fill="url(#glow)"/>
+<rect x="0" y="0" width="1200" height="78" fill="#0C0C1E"/>
+<text x="600" y="34" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="27" font-weight="normal" font-style="normal" fill="#F5F0E5" >Imperfección preformal y espacio: ε₋₀</text>
+<text x="600" y="62" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="18" font-weight="normal" font-style="normal" fill="#C8C4BA" >primera distinguibilidad y dominio estructural completo de separación factual recorrible</text>
+<rect x="0" y="78" width="1200" height="22" fill="#0C0C1E"/>
+<text x="600" y="93" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" fill="#D4A017" letter-spacing="3" >BORDE PREFORMAL NIVEL 13  ·  ESPACIO COMO DOMINIO ESTRUCTURAL  ·  BANCO ESP  ·  SISTEMA VECTORIAL SV</text>
+<rect x="18" y="108" width="372" height="252" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="3"/>
+<text x="30" y="130" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#D4A017" letter-spacing="2" >CADENA DE EMERGENCIA</text>
+<line x1="30" y1="135" x2="378" y2="135" stroke="#B8860B" stroke-width="1"/>
+<rect x="18" y="370" width="372" height="222" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="3"/>
+<text x="30" y="392" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#D4A017" letter-spacing="2" >PROHIBICIONES CONSTITUTIVAS</text>
+<line x1="30" y1="397" x2="378" y2="397" stroke="#B8860B" stroke-width="1"/>
+<rect x="400" y="298" width="400" height="292" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="3"/>
+<text x="412" y="320" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#D4A017" letter-spacing="2" >TESIS CENTRAL</text>
+<line x1="412" y1="325" x2="788" y2="325" stroke="#B8860B" stroke-width="1"/>
+<rect x="810" y="108" width="372" height="282" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="3"/>
+<text x="822" y="130" font-family="Verdana, Arial, sans-serif" font-size="8.5" fill="#D4A017"><tspan font-weight="bold">Xsv</tspan><tspan font-weight="normal">(M↔ε₋₀) · DICTAMENES</tspan></text>
+<line x1="822" y1="135" x2="1170" y2="135" stroke="#B8860B" stroke-width="1"/>
+<rect x="810" y="400" width="372" height="192" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="3"/>
+<text x="822" y="422" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#D4A017" letter-spacing="2" >DOMINIO DOCTRINAL · NIVEL 13</text>
+<line x1="822" y1="427" x2="1170" y2="427" stroke="#B8860B" stroke-width="1"/>
+<text x="30" y="148" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >recorrido</text>
+<text x="30" y="160" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >  =&gt;  separación</text>
+<text x="30" y="172" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >     =&gt;  distinguibilidad</text>
+<text x="30" y="184" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >        =&gt;  imperfección preformal mínima</text>
+<text x="30" y="196" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >           =&gt;  ε₋₀</text>
+<text x="30" y="208" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="30" y="220" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ε₋₀  →  ∂ε  →  D_sep  →  Ω_esp  →  física constituida</text>
+<text x="30" y="232" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="30" y="244" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ε₋₀  =  borde preformal · nivel 13</text>
+<text x="30" y="256" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >         anterior al dominio ya formulado</text>
+<text x="30" y="268" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="30" y="280" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ε₀   =  suceso cero · apertura formal</text>
+<text x="30" y="292" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >         en régimen ya formulado del corpus</text>
+<text x="30" y="304" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="30" y="316" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ε₋₀  ≠  ε₀   ·   diferencia de dominio, no contradicción</text>
+<text x="30" y="410" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Big Bang como origen de ε₋₀</text>
+<text x="30" y="422" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Vacío cuántico como NADA rectora</text>
+<text x="30" y="434" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Función de onda como fundamento preformal</text>
+<text x="30" y="446" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Métrica como geometría soberana</text>
+<text x="30" y="458" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  &quot;Nothing&quot; físico como NADA del cierre rector</text>
+<text x="30" y="470" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Pluralidad cosmológica = TODOS exteriores</text>
+<text x="30" y="482" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Materia oscura = agujero negro o vacío</text>
+<text x="30" y="494" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Energía oscura = materia oscura</text>
+<text x="30" y="506" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Tiempo soberano · probabilidad fundante</text>
+<text x="30" y="518" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#DC2840" >✗  Matemáticas fundando el universo</text>
+<text x="560" y="210"
+      font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="96" font-weight="bold" font-style="italic"
+      fill="#F0A500">ε</text>
+<text x="618" y="228"
+      font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="48" font-weight="bold"
+      fill="#F0A500">&#x208B;&#x2080;</text>
+<line x1="460" y1="238" x2="740" y2="238" stroke="#B8860B" stroke-width="1"/>
+<text x="600" y="258" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="18" font-weight="normal" font-style="normal" fill="#F0A500" >ε₋₀  →  ∂ε  →  D_sep  →  Ω_esp</text>
+<text x="600" y="280" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="15" font-weight="normal" font-style="normal" fill="#C8C4BA" >→  física constituida</text>
+<text x="600" y="342" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="12" font-weight="normal" font-style="normal" fill="#FFFFFF" >ESPACIO = dominio estructural completo</text>
+<text x="600" y="358" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="12" font-weight="normal" font-style="normal" fill="#FFFFFF" >de separación factual recorrible</text>
+<text x="412" y="375" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Ω_esp  ≠  contenedor absoluto</text>
+<text x="412" y="387" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Ω_esp  ≠  infinito fundante</text>
+<text x="412" y="399" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Ω_esp  ≠  geometría con rango fundante</text>
+<text x="412" y="411" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Ω_esp  ≠  suma de recorridos acumulados</text>
+<line x1="412" y1="426" x2="788" y2="426" stroke="#B8860B" stroke-width="1"/>
+<text x="412" y="438" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >El recorrido presupone el dominio.</text>
+<text x="412" y="450" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >La trayectoria no crea el espacio: lo utiliza.</text>
+<text x="412" y="462" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >La medición no crea la distancia: la evalúa.</text>
+<line x1="412" y1="474" x2="788" y2="474" stroke="#B8860B" stroke-width="1"/>
+<text x="412" y="486" text-anchor="start" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="10" font-weight="normal" font-style="italic" fill="#F0A500" >Las matemáticas codifican y decodifican</text>
+<text x="412" y="499" text-anchor="start" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="10" font-weight="normal" font-style="italic" fill="#F0A500" >el universo realizado.</text>
+<text x="412" y="512" text-anchor="start" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="10" font-weight="normal" font-style="italic" fill="#F0A500" >No lo fundan como instancia exterior.</text>
+<text x="412" y="525" text-anchor="start" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="10" font-weight="normal" font-style="italic" fill="#F0A500" >Comparecen después de ε₋₀.</text>
+<text x="822" y="148" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ΛCDM · observación cosmológica</text>
+<text x="1170" y="148" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#00C878" >ABSORBIDO</text>
+<text x="822" y="160" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Schwarzschild / Kerr</text>
+<text x="1170" y="160" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#00C878" >ABSORBIDO</text>
+<text x="822" y="172" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Evidencia EHT · LIGO/Virgo</text>
+<text x="1170" y="172" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#00C878" >ABSORBIDO</text>
+<text x="822" y="184" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Materia oscura observacional</text>
+<text x="1170" y="184" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#00C878" >ABSORBIDO</text>
+<text x="822" y="196" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Inflación como regularización</text>
+<text x="1170" y="196" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#E8A020" >ABSORBIDO PARC.</text>
+<text x="822" y="208" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Rebotes · modelos cíclicos</text>
+<text x="1170" y="208" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#E8A020" >ABSORBIDO PARC.</text>
+<text x="822" y="220" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Holografía · causal sets</text>
+<text x="1170" y="220" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#E8A020" >ABSORBIDO PARC.</text>
+<text x="822" y="232" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Energía oscura (régimen expansivo)</text>
+<text x="1170" y="232" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#E8A020" >ABSORBIDO PARC.</text>
+<text x="822" y="244" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >No-boundary Hartle–Hawking</text>
+<text x="1170" y="244" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#E8A020" >ABSORBIDO PARC.</text>
+<text x="822" y="256" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Big Bang como origen de ε₋₀</text>
+<text x="1170" y="256" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#DC2840" >RECHAZADO</text>
+<text x="822" y="268" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Vacío cuántico como NADA</text>
+<text x="1170" y="268" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#DC2840" >RECHAZADO</text>
+<text x="822" y="280" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >&quot;Nothing&quot; físico como fundamento</text>
+<text x="1170" y="280" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#DC2840" >RECHAZADO</text>
+<text x="822" y="292" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Multiverso como TODOS exteriores</text>
+<text x="1170" y="292" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#DC2840" >RECHAZADO</text>
+<text x="822" y="304" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Singularidad inicial como ε₋₀</text>
+<text x="1170" y="304" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" font-style="normal" fill="#DC2840" >RECHAZADO</text>
+<text x="822" y="440" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ε₋₀ = borde preformal de nivel 13</text>
+<text x="822" y="452" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >       anterior al dominio ya formulado</text>
+<text x="822" y="464" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="822" y="476" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Σ = {0, 1, U}   T(n) = ⌊7n/9⌋</text>
+<text x="822" y="488" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Cadena de prevalencia doctrinal SV</text>
+<text x="822" y="500" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="822" y="512" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Todo TODO es único · sin exterior al TODO</text>
+<text x="822" y="524" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >Pluralidad cosmológica ≠ TODOS exteriores</text>
+<text x="822" y="536" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >                       = dominios subordinados</text>
+<text x="822" y="548" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" ></text>
+<text x="822" y="560" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >ε₋₀ ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp</text>
+<text x="822" y="572" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="normal" font-style="normal" fill="#C8C4BA" >  [preformal] → [separación] → [espacio factual]</text>
+<rect x="0" y="600" width="1200" height="60" fill="#0C0C20"/>
+<line x1="0" y1="600" x2="1200" y2="600" stroke="#B8860B" stroke-width="1"/>
+<line x1="0" y1="660" x2="1200" y2="660" stroke="#B8860B" stroke-width="1"/>
+<text x="600" y="626" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="20" font-weight="normal" font-style="italic" fill="#FFFFFF" >ε₋₀  →  ∂ε  →  D_sep  →  Ω_esp  →  física constituida</text>
+<text x="600" y="650" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="13" font-weight="normal" font-style="normal" fill="#D4A017" >ESPACIO = separación factual recorrible  ·  Matemáticas: codifican y decodifican · no fundan</text>
+<rect x="18" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="26" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >ε₋₀</text>
+<text x="26" y="694" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >borde preformal · nivel 13</text>
+<text x="26" y="705" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >no-físico · no-geométrico</text>
+<text x="26" y="716" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >no-temporal · no-fórmula</text>
+<rect x="186" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="194" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >PRIMERA DISTINGUIBILIDAD</text>
+<text x="194" y="694" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >∂ε · apertura mínima</text>
+<text x="194" y="705" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >anterior al espacio físico</text>
+<text x="194" y="716" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >condición de posibilidad</text>
+<rect x="354" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="362" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >ESPACIO COMPLETO</text>
+<text x="362" y="694" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >Ω_esp · dominio dado</text>
+<text x="362" y="705" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >no creado por recorrido</text>
+<text x="362" y="716" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >no contenedor · no infinito</text>
+<rect x="522" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="530" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >TODO / NADA</text>
+<text x="530" y="694" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >(μ,λ)=(0,0) · cierre rector</text>
+<text x="530" y="705" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >unicidad del TODO</text>
+<text x="530" y="716" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >dominios: subordinados, no exteriores</text>
+<rect x="690" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="698" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >MATEMATICAS</text>
+<text x="698" y="694" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >codifican · decodifican</text>
+<text x="698" y="705" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >no fundan · no son ε₋₀</text>
+<text x="698" y="716" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >comparecen después</text>
+<rect x="858" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="866" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >ABSORCION / RECHAZO</text>
+<text x="866" y="694" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >Xsv · dictamen no verbal</text>
+<text x="866" y="705" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="7" font-weight="normal" font-style="normal" fill="#C8C4BA" >absorbido · parcial · rechazado</text>
+<rect x="1026" y="664" width="164" height="86" fill="#10102A" stroke="#B8860B" stroke-width="1" rx="2"/>
+<text x="1034" y="682" text-anchor="start" font-family="Verdana, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" fill="#D4A017" >Σ = {0, 1, U}</text>
+<circle cx="100" cy="740" r="4" fill="#F0A500"/>
+<line x1="250" y1="740" x2="266" y2="740" stroke="#D4A017" stroke-width="0.5"/>
+<circle cx="250" cy="740" r="3" fill="#D4A017"/>
+<circle cx="266" cy="740" r="3" fill="#D4A017"/>
+<line x1="430" y1="738" x2="422" y2="748" stroke="#B8860B" stroke-width="0.5"/>
+<line x1="422" y1="748" x2="438" y2="748" stroke="#B8860B" stroke-width="0.5"/>
+<line x1="438" y1="748" x2="430" y2="738" stroke="#B8860B" stroke-width="0.5"/>
+<circle cx="430" cy="738" r="3" fill="#B8860B"/>
+<circle cx="422" cy="748" r="3" fill="#B8860B"/>
+<circle cx="438" cy="748" r="3" fill="#B8860B"/>
+<circle cx="604" cy="742" r="7" fill="none" stroke="#D4A017" stroke-width="1"/>
+<text x="772" y="748" text-anchor="middle" font-family="'Cambria Math', Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="14" font-weight="normal" font-style="normal" fill="#D4A017" >⊂</text>
+<circle cx="908" cy="742" r="5" fill="#00C878"/>
+<circle cx="920" cy="742" r="5" fill="#E8A020"/>
+<circle cx="932" cy="742" r="5" fill="#DC2840"/>
+<circle cx="1075" cy="735" r="10" fill="#10102A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="1075" y="738" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#FFFFFF" >0</text>
+<circle cx="1101" cy="735" r="10" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="1101" y="738" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#0A0A14" >1</text>
+<circle cx="1127" cy="735" r="10" fill="#6B3FA0" stroke="#9B6FD0" stroke-width="1.5"/>
+<text x="1127" y="738" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#FFFFFF" >U</text>
+<rect x="0" y="750" width="1200" height="50" fill="#080812"/>
+<line x1="0" y1="750" x2="1200" y2="750" stroke="#2A2A3A" stroke-width="1"/>
+<text x="600" y="778" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#787068" >© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 12/05/2026</text>
+</svg>

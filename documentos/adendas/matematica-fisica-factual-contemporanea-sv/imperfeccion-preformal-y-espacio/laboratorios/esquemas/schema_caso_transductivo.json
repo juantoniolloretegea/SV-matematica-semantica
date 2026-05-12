@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "schema_caso_transductivo",
+  "metadata": {
+    "autor": "Juan Antonio Lloret Egea",
+    "orcid": "0000-0002-6634-3351",
+    "copyright": "© 2026. Todos los derechos reservados.",
+    "licencia": "CC BY-NC-ND 4.0",
+    "publicacion": "Imperfección preformal y espacio: ε₋₀, primera distinguibilidad y dominio estructural completo de separación factual recorrible",
+    "repositorio": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio"
+  },
+  "type": "object",
+  "required": [
+    "id_caso",
+    "familia",
+    "magnitud_fisica",
+    "unidad_sv",
+    "dominio_m",
+    "dominio_sv",
+    "proyeccion_sv",
+    "retorno_fisico",
+    "dictamen_esperado"
+  ],
+  "properties": {
+    "id_caso": {
+      "type": "string"
+    },
+    "familia": {
+      "type": "string"
+    },
+    "magnitud_fisica": {
+      "type": "string"
+    },
+    "unidad_si": {
+      "type": "string"
+    },
+    "unidad_sv": {
+      "type": "string"
+    },
+    "dominio_m": {
+      "type": "string"
+    },
+    "dominio_sv": {
+      "type": "string"
+    },
+    "proyeccion_sv": {
+      "type": "string"
+    },
+    "residual_fisico": {
+      "type": "string"
+    },
+    "retorno_fisico": {
+      "type": "string"
+    },
+    "dictamen_esperado": {
+      "type": "string"
+    },
+    "codigo_error_esperado": {
+      "type": "string"
+    },
+    "observacion": {
+      "type": "string"
+    },
+    "delta_domM": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_domSV": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_unidad_sv": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_proj": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_ret": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_inv": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_fund": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_mod": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "delta_sup": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    }
+  }
+}
