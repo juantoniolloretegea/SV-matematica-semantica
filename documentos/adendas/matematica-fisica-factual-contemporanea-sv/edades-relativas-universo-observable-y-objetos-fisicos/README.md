@@ -12,7 +12,6 @@ Repositorio canónico: https://github.com/juantoniolloretegea/SV-matematica-sema
 
 ![Portada de la publicación](imagenes/portada.png)
 
-Esta carpeta contiene el Markdown canónico para GitHub, los laboratorios reproducibles, los datos JSON de resultados, los registros de verificación, la portada final y las carpetas reservadas para PDF, imágenes y ZIP completo. La versión PubPub Release 1 actúa como sede DOI y de visualización; GitHub conserva la sede técnica canónica con laboratorios, datos, manifiestos y verificación material.
 
 Archivo principal: [edades-relativas-universo-observable-y-objetos-fisicos.md](edades-relativas-universo-observable-y-objetos-fisicos.md)
 
