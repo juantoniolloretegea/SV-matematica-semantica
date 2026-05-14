@@ -5,8 +5,6 @@ ORCID: 0000-0002-6634-3351
 © 2026. Todos los derechos reservados.  
 Licencia: CC BY-NC-ND 4.0  
 DOI PubPub: https://doi.org/10.21428/39829d0b.b56ed853  
-Release PubPub: https://www.itvia.online/pub/edades-relativas-del-universo-observable-y-de-sus-objetos-fisicos/release/1
-
 Publicación principal: [../edades-relativas-universo-observable-y-objetos-fisicos.md](../edades-relativas-universo-observable-y-objetos-fisicos.md)  
 Portada de referencia: [../imagenes/portada.png](../imagenes/portada.png)
 
