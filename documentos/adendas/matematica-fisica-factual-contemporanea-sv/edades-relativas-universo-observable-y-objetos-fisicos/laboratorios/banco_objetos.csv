@@ -1,0 +1,6 @@
+object_id,object_name,domain,current_aj,finish_aj,expected_status,autor,orcid,copyright,licencia
+SUN,Sol,Omega_sun_subset_Omega_obs,4570000000,10000000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+SOLAR_SYSTEM,Sistema Solar,Omega_solar_system_subset_Omega_obs,4568000000,10000000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+MILKY_WAY_ENV,Via Lactea entorno,Omega_milky_way_env_subset_Omega_obs,13600000000,27200000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+OBSERVABLE_RETURNED,Observable retornado,Omega_obs,13800000000,27600000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+ABSOLUTE_TOTALITY,Totalidad absoluta,T_absolute,NA,NA,NO_ADMISIBLE,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0

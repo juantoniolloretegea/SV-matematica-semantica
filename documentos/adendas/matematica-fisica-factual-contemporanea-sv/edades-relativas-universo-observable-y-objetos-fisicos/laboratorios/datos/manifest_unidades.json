@@ -1,0 +1,106 @@
+{
+  "autor": "Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.",
+  "fuente_csv": "manifest_unidades.csv",
+  "registros": [
+    {
+      "field": "julian_year_seconds",
+      "value": "31557600",
+      "unit": "s",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "uemfc_per_second",
+      "value": "9",
+      "unit": "UE_MFC/s",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "uemfc_per_julian_year",
+      "value": "284018400",
+      "unit": "UE_MFC/a_J",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "time_unit_fc",
+      "value": "a_J",
+      "unit": "año_juliano",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "time_unit_si",
+      "value": "s",
+      "unit": "segundo",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "time_unit_sv",
+      "value": "UE_MFC",
+      "unit": "unidad_elemental_medidor_factual_ciclo",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "rounding_allowed",
+      "value": "NO",
+      "unit": "boolean",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "float_allowed",
+      "value": "NO",
+      "unit": "boolean",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "silent_pass_allowed",
+      "value": "NO",
+      "unit": "boolean",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "field": "untabulated_output_allowed",
+      "value": "NO",
+      "unit": "boolean",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    }
+  ]
+}

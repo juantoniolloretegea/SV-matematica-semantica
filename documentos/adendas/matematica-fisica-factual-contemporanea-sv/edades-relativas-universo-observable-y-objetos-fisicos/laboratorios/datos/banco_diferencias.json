@@ -1,0 +1,90 @@
+{
+  "autor": "Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.",
+  "fuente_csv": "banco_diferencias.csv",
+  "registros": [
+    {
+      "difference_id": "DIF_01",
+      "left_object": "OBSERVABLE_RETURNED",
+      "right_object": "MILKY_WAY_ENV",
+      "difference_aj": "200000000",
+      "difference_uemfc": "56803680000000000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "difference_id": "DIF_02",
+      "left_object": "MILKY_WAY_ENV",
+      "right_object": "SUN",
+      "difference_aj": "9030000000",
+      "difference_uemfc": "2564686152000000000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "difference_id": "DIF_03",
+      "left_object": "OBSERVABLE_RETURNED",
+      "right_object": "SUN",
+      "difference_aj": "9230000000",
+      "difference_uemfc": "2621489832000000000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "difference_id": "DIF_04",
+      "left_object": "SUN",
+      "right_object": "SOLAR_SYSTEM",
+      "difference_aj": "2000000",
+      "difference_uemfc": "568036800000000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "difference_id": "DIF_05",
+      "left_object": "SOLAR_SYSTEM_REMAINING",
+      "right_object": "SUN_REMAINING",
+      "difference_aj": "2000000",
+      "difference_uemfc": "568036800000000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "difference_id": "DIF_06",
+      "left_object": "OBSERVABLE_RETURNED_FINISH",
+      "right_object": "MILKY_WAY_ENV_FINISH",
+      "difference_aj": "400000000",
+      "difference_uemfc": "113607360000000000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "difference_id": "DIF_07",
+      "left_object": "SUN_FINISH",
+      "right_object": "SOLAR_SYSTEM_FINISH",
+      "difference_aj": "0",
+      "difference_uemfc": "0",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.
+control_id,description,expected_status
+NEG-001,molecule_without_external_metric,U
+NEG-002,gene_variant_without_functional_return,U
+NEG-003,cell_without_boundary,NO_APTO
+NEG-004,regeneration_without_identity_preservation,NO_APTO
+NEG-005,organ_without_tissue_and_function,NO_APTO
+NEG-006,statistical_frequency_as_truth_without_residual,NO_APTO
+NEG-007,time_reversal_as_regeneration,NO_APTO
+NEG-008,protein_sequence_without_fold_or_interface_return,U

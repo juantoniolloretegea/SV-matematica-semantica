@@ -1,0 +1,66 @@
+{
+  "autor": "Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.",
+  "fuente_csv": "banco_objetos.csv",
+  "registros": [
+    {
+      "object_id": "SUN",
+      "object_name": "Sol",
+      "domain": "Omega_sun_subset_Omega_obs",
+      "current_aj": "4570000000",
+      "finish_aj": "10000000000",
+      "expected_status": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "SOLAR_SYSTEM",
+      "object_name": "Sistema Solar",
+      "domain": "Omega_solar_system_subset_Omega_obs",
+      "current_aj": "4568000000",
+      "finish_aj": "10000000000",
+      "expected_status": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "MILKY_WAY_ENV",
+      "object_name": "Via Lactea entorno",
+      "domain": "Omega_milky_way_env_subset_Omega_obs",
+      "current_aj": "13600000000",
+      "finish_aj": "27200000000",
+      "expected_status": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "OBSERVABLE_RETURNED",
+      "object_name": "Observable retornado",
+      "domain": "Omega_obs",
+      "current_aj": "13800000000",
+      "finish_aj": "27600000000",
+      "expected_status": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "ABSOLUTE_TOTALITY",
+      "object_name": "Totalidad absoluta",
+      "domain": "T_absolute",
+      "current_aj": "NA",
+      "finish_aj": "NA",
+      "expected_status": "NO_ADMISIBLE",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    }
+  ]
+}

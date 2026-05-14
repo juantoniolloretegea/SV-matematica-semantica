@@ -1,0 +1,5 @@
+fraction_id,object_id,current_aj,finish_aj,current_fraction,remaining_fraction,sum_fraction,dictamen,autor,orcid,copyright,licencia
+FR_SUN,SUN,4570000000,10000000000,457/1000,543/1000,1,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+FR_SOLAR_SYSTEM,SOLAR_SYSTEM,4568000000,10000000000,571/1250,679/1250,1,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+FR_MILKY_WAY_ENV,MILKY_WAY_ENV,13600000000,27200000000,1/2,1/2,1,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+FR_OBSERVABLE_RETURNED,OBSERVABLE_RETURNED,13800000000,27600000000,1/2,1/2,1,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0

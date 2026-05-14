@@ -1,0 +1,14 @@
+# Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.
+metric_id,domain,metric,value,unit,source,url,status
+BIO-MET-001,genome,estimated_human_genes,20000-25000,genes,NHGRI,https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics,OK
+BIO-MET-002,genome,human_chromosome_pairs,23,pairs,NHGRI,https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics,OK
+BIO-MET-003,genome,T2T_CHM13_sequence,3055000000,base_pairs,Nurk et al. 2022 Science,https://doi.org/10.1126/science.abj6987,OK
+BIO-MET-004,dna,B_DNA_turn,10.4,base_pairs_per_turn,Molecular Biology of the Cell,https://www.ncbi.nlm.nih.gov/books/NBK26821/,OK
+BIO-MET-005,protein,UniProt_human_proteome_entries,83526,entries,UniProt UP000005640,https://www.uniprot.org/proteomes/UP000005640,OK
+BIO-MET-006,protein,UniProt_human_gene_count,20659,genes,UniProt UP000005640,https://www.uniprot.org/proteomes/UP000005640,OK
+BIO-MET-007,protein_structure,AlphaFold_DB_predictions,>200000000,predicted_structures,AlphaFold DB,https://alphafold.ebi.ac.uk/,OK
+BIO-MET-008,protein_structure,RCSB_PDB_released_2026,253780,released_structures,RCSB PDB statistics,https://www.rcsb.org/stats/growth/growth-released-structures,OK
+BIO-MET-009,sequence_database,GenBank_release_271_bases,53900000000000,bases,NCBI Insights,https://ncbiinsights.ncbi.nlm.nih.gov/2026/04/27/genbank-release-271-0-is-available/,OK
+BIO-MET-010,sequence_database,GenBank_release_271_records,6270000000,records,NCBI Insights,https://ncbiinsights.ncbi.nlm.nih.gov/2026/04/27/genbank-release-271-0-is-available/,OK
+BIO-MET-011,cell_count,adult_male_cells,36000000000000,cells,Hatton et al. 2023 PNAS,https://doi.org/10.1073/pnas.2303077120,OK
+BIO-MET-012,cell_count,adult_female_cells,28000000000000,cells,Hatton et al. 2023 PNAS,https://doi.org/10.1073/pnas.2303077120,OK

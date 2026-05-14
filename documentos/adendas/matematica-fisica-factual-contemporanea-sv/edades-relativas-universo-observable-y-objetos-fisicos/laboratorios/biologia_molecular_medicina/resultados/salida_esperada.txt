@@ -1,0 +1,10 @@
+# Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.
+autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.
+laboratorio: Biologia molecular y medicina: del par estructural a la celula viva
+metricas_externas: 12
+formulas_centrales: 11
+controles_negativos: 8
+K_age: 284018400
+silent_passes: 0
+errors: []
+overall_status: APTO

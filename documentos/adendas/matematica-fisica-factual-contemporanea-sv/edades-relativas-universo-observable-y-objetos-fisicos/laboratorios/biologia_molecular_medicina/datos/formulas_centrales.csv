@@ -1,0 +1,13 @@
+# Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.
+formula_id,name,required,status
+BIO-01,cadena_formacion_biologica,YES,OK
+BIO-02,transductor_biologico,YES,OK
+BIO-03,cierre_biologico,YES,OK
+BIO-04,transductor_edad_biologica,YES,OK
+BIO-05,firma_molecular,YES,OK
+BIO-06,desplazamiento_genetico,YES,OK
+BIO-07,admisibilidad_proteica,YES,OK
+BIO-08,celula_viva,YES,OK
+BIO-09,patologia_desplazamiento,YES,OK
+BIO-10,regenerabilidad_append_only,YES,OK
+BIO-11,generacion_organica,YES,OK

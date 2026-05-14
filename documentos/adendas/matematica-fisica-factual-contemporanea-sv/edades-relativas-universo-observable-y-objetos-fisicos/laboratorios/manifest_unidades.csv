@@ -1,0 +1,11 @@
+field,value,unit,dictamen,autor,orcid,copyright,licencia
+julian_year_seconds,31557600,s,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+uemfc_per_second,9,UE_MFC/s,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+uemfc_per_julian_year,284018400,UE_MFC/a_J,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+time_unit_fc,a_J,año_juliano,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+time_unit_si,s,segundo,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+time_unit_sv,UE_MFC,unidad_elemental_medidor_factual_ciclo,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+rounding_allowed,NO,boolean,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+float_allowed,NO,boolean,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+silent_pass_allowed,NO,boolean,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+untabulated_output_allowed,NO,boolean,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0

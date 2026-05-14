@@ -1,0 +1,8 @@
+difference_id,left_object,right_object,difference_aj,difference_uemfc,dictamen,autor,orcid,copyright,licencia
+DIF_01,OBSERVABLE_RETURNED,MILKY_WAY_ENV,200000000,56803680000000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+DIF_02,MILKY_WAY_ENV,SUN,9030000000,2564686152000000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+DIF_03,OBSERVABLE_RETURNED,SUN,9230000000,2621489832000000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+DIF_04,SUN,SOLAR_SYSTEM,2000000,568036800000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+DIF_05,SOLAR_SYSTEM_REMAINING,SUN_REMAINING,2000000,568036800000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+DIF_06,OBSERVABLE_RETURNED_FINISH,MILKY_WAY_ENV_FINISH,400000000,113607360000000000,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+DIF_07,SUN_FINISH,SOLAR_SYSTEM_FINISH,0,0,0,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0

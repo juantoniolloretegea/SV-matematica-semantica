@@ -1,0 +1,70 @@
+{
+  "autor": "Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.",
+  "fuente_csv": "banco_valores.csv",
+  "registros": [
+    {
+      "object_id": "SUN",
+      "current_aj": "4570000000",
+      "current_uemfc": "1297964088000000000",
+      "finish_aj": "10000000000",
+      "finish_uemfc": "2840184000000000000",
+      "remaining_aj": "5430000000",
+      "remaining_uemfc": "1542219912000000000",
+      "current_fraction": "457/1000",
+      "remaining_fraction": "543/1000",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "SOLAR_SYSTEM",
+      "current_aj": "4568000000",
+      "current_uemfc": "1297396051200000000",
+      "finish_aj": "10000000000",
+      "finish_uemfc": "2840184000000000000",
+      "remaining_aj": "5432000000",
+      "remaining_uemfc": "1542787948800000000",
+      "current_fraction": "571/1250",
+      "remaining_fraction": "679/1250",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "MILKY_WAY_ENV",
+      "current_aj": "13600000000",
+      "current_uemfc": "3862650240000000000",
+      "finish_aj": "27200000000",
+      "finish_uemfc": "7725300480000000000",
+      "remaining_aj": "13600000000",
+      "remaining_uemfc": "3862650240000000000",
+      "current_fraction": "1/2",
+      "remaining_fraction": "1/2",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "object_id": "OBSERVABLE_RETURNED",
+      "current_aj": "13800000000",
+      "current_uemfc": "3919453920000000000",
+      "finish_aj": "27600000000",
+      "finish_uemfc": "7838907840000000000",
+      "remaining_aj": "13800000000",
+      "remaining_uemfc": "3919453920000000000",
+      "current_fraction": "1/2",
+      "remaining_fraction": "1/2",
+      "dictamen": "0",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    }
+  ]
+}

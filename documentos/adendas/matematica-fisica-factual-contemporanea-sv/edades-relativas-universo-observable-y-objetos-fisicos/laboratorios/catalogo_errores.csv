@@ -1,0 +1,21 @@
+error_code,error_name,description,expected_status,autor,orcid,copyright,licencia
+E-PLANO-01,edad_totalidad_absoluta,Edad atribuida a la totalidad absoluta,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-PLANO-02,confusion_dominio,Edad de un dominio atribuida a otro dominio,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-DOM-01,dominio_ausente,Edad sin dominio declarado,U,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-DOM-02,dominio_contradictorio,Dominio incompatible con el objeto,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-ID-01,identidad_ausente,Objeto o señal sin identidad física,U,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-FIN-01,fin_estructural_ausente,No puede calcularse restante ni fracción,U,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-UNIT-01,unidad_fisica_ausente,Falta unidad SI o física contemporánea,U,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-UNIT-02,unidad_sv_ausente,Falta unidad transductiva SV,U,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-TRANS-01,pendiente_transductiva_falsa,Coeficiente distinto de 284018400,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-TRANS-02,retorno_inverso_no_exacto,SV no retorna a años julianos sin resto,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-TRANS-03,segunda_formula_no_unica,Formula alternativa incompatible con retorno exacto,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-ARIT-01,restante_falso,R_i distinto de F_i menos A_i,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-ARIT-02,fin_anterior_actual,F_i menor que A_i,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-FRAC-01,fraccion_falsa,f_i mas rho_i distinto de uno,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-FRAC-02,fraccion_dominio_erroneo,Fraccion de un dominio aplicada a otro,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-LAB-01,salida_no_tabulada,Salida no declarada en banco,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-LAB-02,redondeo_no_autorizado,Uso de redondeo,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-LAB-03,coma_flotante_no_autorizada,Uso de coma flotante,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-LAB-04,control_negativo_omitido,Falta banco negativo,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0
+E-LAB-05,pase_silencioso,Fallo no comunicado,1,Juan Antonio Lloret Egea,0000-0002-6634-3351,© 2026. Todos los derechos reservados,CC BY-NC-ND 4.0

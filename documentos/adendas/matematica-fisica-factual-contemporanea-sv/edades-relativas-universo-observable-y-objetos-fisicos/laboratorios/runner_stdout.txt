@@ -1,0 +1,19 @@
+SV_RELATIVE_AGES_THEORY_LAB_RESULT
+author: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | © 2026
+units_manifest: OK
+canonical_formula: OK
+explicit_form: OK
+implicit_form: OK
+parametric_form: OK
+point_slope_form: OK
+positive_objects: 4/4
+remaining_segments: 4/4
+fractions: 4/4
+differences: 7/7
+inverse_returns: 12/12
+negative_controls: 15/15
+float_used: NO
+rounding_used: NO
+silent_passes: 0
+untabulated_outputs: 0
+overall_status: APTO

@@ -1,0 +1,206 @@
+{
+  "autor": "Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | © 2026. Todos los derechos reservados.",
+  "fuente_csv": "catalogo_errores.csv",
+  "registros": [
+    {
+      "error_code": "E-PLANO-01",
+      "error_name": "edad_totalidad_absoluta",
+      "description": "Edad atribuida a la totalidad absoluta",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-PLANO-02",
+      "error_name": "confusion_dominio",
+      "description": "Edad de un dominio atribuida a otro dominio",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-DOM-01",
+      "error_name": "dominio_ausente",
+      "description": "Edad sin dominio declarado",
+      "expected_status": "U",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-DOM-02",
+      "error_name": "dominio_contradictorio",
+      "description": "Dominio incompatible con el objeto",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-ID-01",
+      "error_name": "identidad_ausente",
+      "description": "Objeto o señal sin identidad física",
+      "expected_status": "U",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-FIN-01",
+      "error_name": "fin_estructural_ausente",
+      "description": "No puede calcularse restante ni fracción",
+      "expected_status": "U",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-UNIT-01",
+      "error_name": "unidad_fisica_ausente",
+      "description": "Falta unidad SI o física contemporánea",
+      "expected_status": "U",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-UNIT-02",
+      "error_name": "unidad_sv_ausente",
+      "description": "Falta unidad transductiva SV",
+      "expected_status": "U",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-TRANS-01",
+      "error_name": "pendiente_transductiva_falsa",
+      "description": "Coeficiente distinto de 284018400",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-TRANS-02",
+      "error_name": "retorno_inverso_no_exacto",
+      "description": "SV no retorna a años julianos sin resto",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-TRANS-03",
+      "error_name": "segunda_formula_no_unica",
+      "description": "Formula alternativa incompatible con retorno exacto",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-ARIT-01",
+      "error_name": "restante_falso",
+      "description": "R_i distinto de F_i menos A_i",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-ARIT-02",
+      "error_name": "fin_anterior_actual",
+      "description": "F_i menor que A_i",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-FRAC-01",
+      "error_name": "fraccion_falsa",
+      "description": "f_i mas rho_i distinto de uno",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-FRAC-02",
+      "error_name": "fraccion_dominio_erroneo",
+      "description": "Fraccion de un dominio aplicada a otro",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-LAB-01",
+      "error_name": "salida_no_tabulada",
+      "description": "Salida no declarada en banco",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-LAB-02",
+      "error_name": "redondeo_no_autorizado",
+      "description": "Uso de redondeo",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-LAB-03",
+      "error_name": "coma_flotante_no_autorizada",
+      "description": "Uso de coma flotante",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-LAB-04",
+      "error_name": "control_negativo_omitido",
+      "description": "Falta banco negativo",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    },
+    {
+      "error_code": "E-LAB-05",
+      "error_name": "pase_silencioso",
+      "description": "Fallo no comunicado",
+      "expected_status": "1",
+      "autor": "Juan Antonio Lloret Egea",
+      "orcid": "0000-0002-6634-3351",
+      "copyright": "© 2026. Todos los derechos reservados",
+      "licencia": "CC BY-NC-ND 4.0"
+    }
+  ]
+}
