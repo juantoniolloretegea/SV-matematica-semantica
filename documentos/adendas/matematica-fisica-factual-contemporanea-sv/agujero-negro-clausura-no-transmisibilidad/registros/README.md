@@ -135,6 +135,6 @@ La batería de pruebas Python devuelve:
 
 ## Interpretación del registro
 
-Este registro certifica la correspondencia material entre el paquete preservado, la prueba OpenTimestamps y la firma electrónica. Constituye prueba fehaciente de la autoría, los derechos de autor, así como de su licencia y advertencias de uso. Lo que obliga a terceros a respetar las restricciones de uso.
+Este registro documenta la correspondencia material entre el conjunto preservado, la prueba OpenTimestamps y la firma electrónica. Constituye un elemento probatorio técnico de integridad, fecha, vinculación material del lote, autoría declarada, licencia y advertencias de uso, y refuerza la posición del titular frente a usos no autorizados, apropiaciones indebidas, alteraciones, explotación comercial no permitida o reutilización incompatible con la licencia declarada.
 
 ---
