@@ -140,7 +140,3 @@ Este registro certifica la correspondencia material entre el paquete preservado,
 El uso correcto de los identificadores es el siguiente: el DOI PubPub/Crossref identifica la publicación editorial; el DOI de la colección **El Universo** identifica el contexto editorial de colección; el DOI Zenodo identifica el depósito de preservación; el DOI Zenodo de todas las versiones identifica la línea de versiones del registro técnico; GitHub conserva el corpus técnico vivo; Internet Archive conserva capturas históricas.
 
 ---
-
-## Advertencia de consistencia
-
-No debe modificarse este registro, el ZIP final, el `.ots`, el `.csig`, el Markdown principal, los README o los laboratorios sin actualizar de forma coherente todo el conjunto afectado. En particular, cualquier cambio dentro del ZIP final invalida la firma y la prueba OpenTimestamps previas y obliga a generar un nuevo paquete firmado y estampillado.
