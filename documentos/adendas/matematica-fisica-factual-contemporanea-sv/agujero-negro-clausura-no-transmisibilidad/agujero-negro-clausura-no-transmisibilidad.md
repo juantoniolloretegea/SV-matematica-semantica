@@ -4,9 +4,23 @@
 
 ## Teoría factual de equivalencia físico-factual, formas equivalentes, unicidad de fórmula, Teoría de la Imperfección, absorción numérica de modelos contemporáneos, clausura factual, retorno al Todo y cierre M_N2-SV
 
-**© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/) | [**DOI 10.5281/zenodo.20155687**](https://doi.org/10.5281/zenodo.20155687) | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | [**Licencia CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 10/05/2026 | [**Repositorio doctrinal**](https://juantoniolloretegea.github.io/SV-matematica-semantica/) | [**Repositorio canónico de la publicación**](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad)
+**© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/) | [**DOI editorial PubPub/Crossref 10.21428/39829d0b.b757ccc4**](https://doi.org/10.21428/39829d0b.b757ccc4) | [**Release editorial PubPub**](https://www.itvia.online/pub/el-agujero-negro-como-cierre-interno-sin-resto-exterior-formulable/release/1) | [**Colección El Universo**](https://www.itvia.online/el-universo) | [**DOI colección 10.21428/39829d0b.26484bfd**](https://doi.org/10.21428/39829d0b.26484bfd) | [**DOI Zenodo 10.5281/zenodo.20155687**](https://doi.org/10.5281/zenodo.20155687) | [**DOI Zenodo versiones 10.5281/zenodo.20155686**](https://doi.org/10.5281/zenodo.20155686) | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | [**Licencia CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 10/05/2026 | [**Repositorio doctrinal**](https://juantoniolloretegea.github.io/SV-matematica-semantica/) | [**Repositorio canónico de la publicación**](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad)
 
+<details>
+<summary><strong>Aviso legal, DOI, colección, preservación y registros</strong></summary>
 
+**Advertencia.** Esta publicación está protegida por [CEDRO](https://www.cedro.org/english?lng=en) y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
+
+**Warning.** This publication is protected by [CEDRO](https://www.cedro.org/english?lng=en). Its application in the field of Physics, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
+
+---
+## Registro editorial, colección y preservación técnica
+
+Esta publicación dispone de DOI editorial individual en PubPub/Crossref: [10.21428/39829d0b.b757ccc4](https://doi.org/10.21428/39829d0b.b757ccc4). Su release editorial público es [Release 1](https://www.itvia.online/pub/el-agujero-negro-como-cierre-interno-sin-resto-exterior-formulable/release/1). La publicación pertenece a la colección editorial [El Universo](https://www.itvia.online/el-universo), cuyo DOI de colección es [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd).
+
+El DOI Zenodo [10.5281/zenodo.20155687](https://doi.org/10.5281/zenodo.20155687) identifica el depósito técnico de preservación de esta versión, y el DOI [10.5281/zenodo.20155686](https://doi.org/10.5281/zenodo.20155686) identifica el conjunto de versiones del depósito Zenodo. GitHub conserva la sede canónica técnica del texto Markdown, laboratorios y estructura documental; PubPub conserva la sede editorial de lectura pública y DOI Crossref; Zenodo conserva el paquete técnico, los registros criptográficos, la firma, OpenTimestamps y la trazabilidad material.
+
+---
 ## Registro de preservación, firma y estampillado de tiempo
 
 Esta publicación queda asociada a un registro público de preservación y a un registro criptográfico de lote. La carpeta contenedora se conserva en [Internet Archive](https://web.archive.org/web/20260511122405/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad) y el texto principal se conserva en [Internet Archive](https://web.archive.org/web/20260511122924/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/agujero-negro-clausura-no-transmisibilidad/agujero-negro-clausura-no-transmisibilidad.md). El registro detallado de firma, estampillado de tiempo, hashes y enlaces canónicos figura en [registros/README.md](registros/README.md).
@@ -21,40 +35,51 @@ Este trabajo formula el agujero negro como régimen extremo del campo unificado 
 
 This paper formulates the black hole as an extreme regime of the factual unified field and proves, through formal apparatus, theorems, two-way physical-factual transduction and nontrivial numerical verification, its structural equivalence with the physical horizon object described by contemporary physics. The physical horizon object is characterized by an outward non-exit boundary, luminous non-transmission from the interior, conservation of external field effects, an interior inaccessible through an exterior channel, and a post-boundary closure with no externally formulable remainder. The theory does not reduce the black hole to an infinite singularity, substantial vacuum, escape probability, metric as ultimate foundation, or final non-closure. The governing result is the regime equation BHₛᵥ(Γᴮᴴ)=0, defined as the nullity of the defect vector Rᴮᴴ and as a simultaneous restriction of the [Theory of EVERYTHING and NOTHING](https://doi.org/10.17613/k3q1d-fjj45), the [master formula of the unified field](https://doi.org/10.17613/gxfv3-qjj64), [factual Maxwell](https://doi.org/10.17613/kep1t-57539), [unique factual thermodynamics](https://doi.org/10.17613/ptw68-d1r57), [factual entropy](https://doi.org/10.17613/vh6ak-6em43), [factual theory of light](https://doi.org/10.17613/1z7c0-mqb40), the [Bell–Tsirelson apparatus](https://doi.org/10.17613/1666c-c5g66), [factual interaction, intercomposition and transmission between fields](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/interaccion-intercomposicion-transmision-campos.md), and the numerical bank SV-BH9. The paper also places the black-hole regime within the Theory of EVERYTHING and NOTHING and of Imperfection: a ternary enlargement of the binary framework that preserves the governing boundary (μ,λ)=(0,0) while recognizing that physically realized structure is not inert perfect closure, but a domain of persistent configurations under sustained imperfection. In that framework, the black hole is not pure Nothing and not perfect Everything; it is an extreme regime of stabilized imperfection: external non-transmission, preserved but non-transmitting factual light, saturated interior and post-boundary M_N2-SV. The paper incorporates the contemporary physical state of the art on general relativity, Schwarzschild, Kerr, uniqueness and no-hair theorems, singularity, Bekenstein–Hawking thermodynamics, Hawking radiation, the information paradox, Page curve, islands, fuzzballs, firewalls, regular black holes, Event Horizon Telescope and LIGO/Virgo gravitational waves. Each approach is subjected to formal and numerical absorption. The central result is decisive: if Γᴮᴴ satisfies BHₛᵥ(Γᴮᴴ)=0, then the horizon is declared by a ternary cell of exterior non-transmission, the light fibre preserves its fifteen projections and receives a verdict of exterior non-transmission, the interior is in extreme factual saturation, and the post-boundary is declared as M_N2-SV, an internal closure with no externally formulable remainder. M_N2-SV is not U, is not a special case of U, and cannot be read as indeterminacy. Uniqueness is proved by necessity, sufficiency, strict non-redundancy and two-way translation BH_physical ⇔ BHₛᵥ. The theory also incorporates a general closure consequence: every realized factual instance that reaches final closure through internal exhaustion or an external agent returns to Everything as a closed factual trace, without becoming U, without reappearing as a copy, without rewriting its append-only chain, and without disappearing without trace. In this framework, the black hole also appears as a closable event and as an extreme regime capable of closing factual imperfections within its capture domain, while physical laws are successful insofar as they encode invariants of the factual mechanism through zero-residual transduction; mathematics does not govern the Universe from the outside, but encodes and decodes its functioning when the domain is correctly declared. The paper finally includes a three-scale reading for a ten-year-old child, an engineering undergraduate and a scientific reader, subordinated to the formula and without foundational time, velocity as primitive, external curvature as primary cause, probability, statistics or opaque inference.
 
+</details>
+
 ---
 
 # Índice
 
-0. Teoría del TODO y de la NADA y de la Imperfección
-0bis. Posición del agujero negro en la Teoría de la Imperfección y en el Universo Vivo
-0ter. Clausura absoluta de toda instancia factual, retorno al Todo y eficacia de las leyes físicas
-I. Estado del arte físico contemporáneo del agujero negro
-II. Matriz de absorción factual de los planteamientos contemporáneos
-III. Aparato formal autocontenido
-IV. Separación formal entre U y M_N2-SV
-V. Dominio, proyección, invariantes y residual del régimen BH
-VI. Ecuación factual del agujero negro
-VII. Formas equivalentes de la fórmula del agujero negro
-VIII. Unicidad de la fórmula del agujero negro
-IX. Equivalencia físico-factual del objeto agujero negro y transductor bidireccional ampliado
-X. Teoremas estructurales del régimen BH
-XI. Teoremas de absorción de la física contemporánea
-XII. Banco numérico SV-BH9, verificación de formas equivalentes, banco físico paralelo y bancos auxiliares
-XIII. Especificación laboratorial
-XIV. Catálogo de errores
-XV. Demostración final de absorción y rechazo bajo la fórmula absoluta
-XVI. Conclusiones
-XVII. Anexo de preguntas: verdades, no verdades y conclusiones sobre la naturaleza y matemática de un agujero negro
-XVIII. Laboratorios reproducibles SV-BH9
-Bibliografía física contemporánea
-Bibliografía del corpus
-Anexo I. Tres escalas de lectura formal del agujero negro
-Anexo II. Pseudocódigo textual del dictamen
-Anexo III. Glosario, notación y correspondencia físico-factual
-Anexo IV. Especificación ampliada de verificación reproducible
-Palabras clave y keywords
+<details>
+<summary><strong>Mostrar / ocultar índice de la publicación</strong></summary>
+
+- [0. Teoría del TODO y de la NADA y de la Imperfección](#sec-0)
+- [0bis. Posición del agujero negro en la Teoría de la Imperfección y en el Universo Vivo](#sec-0bis)
+- [0ter. Clausura absoluta de toda instancia factual, retorno al Todo y eficacia de las leyes físicas](#sec-0ter)
+- [I. Estado del arte físico contemporáneo del agujero negro](#sec-i)
+- [II. Matriz de absorción factual de los planteamientos contemporáneos](#sec-ii)
+- [III. Aparato formal autocontenido del SV](#sec-iii)
+- [IV. Separación formal entre U y M_N2-SV](#sec-iv)
+- [V. Dominio, proyección, invariantes y residual del régimen BH](#sec-v)
+- [VI. Ecuación factual del agujero negro](#sec-vi)
+- [VII. Formas equivalentes de la fórmula del agujero negro](#sec-vii)
+- [VIII. Unicidad de la fórmula del agujero negro](#sec-viii)
+- [IX. Equivalencia físico-factual del objeto agujero negro](#sec-ix)
+- [X. Teoremas estructurales del régimen BH](#sec-x)
+- [XI. Teoremas de absorción de la física contemporánea](#sec-xi)
+- [XII. Banco numérico SV-BH9 y verificación de formas equivalentes](#sec-xii)
+- [XIII. Especificación laboratorial](#sec-xiii)
+- [XIV. Catálogo de errores](#sec-xiv)
+- [XV. Demostración final de absorción y rechazo bajo la fórmula absoluta](#sec-xv)
+- [XVI. Conclusiones](#sec-xvi)
+- [XVII. Anexo de preguntas: verdades, no verdades y conclusiones sobre la naturaleza y matemática de un agujero negro](#sec-xvii)
+- [XVIII. Laboratorios reproducibles SV-BH9](#sec-xviii)
+- [Bibliografía física contemporánea](#sec-bibliografia-fisica-contemporanea)
+- [Bibliografía del corpus](#sec-bibliografia-corpus)
+- [Anexo I. Tres escalas de lectura formal del agujero negro: escala elemental, ingeniería y ciencia](#sec-anexo-i)
+- [Anexo II. Pseudocódigo textual del dictamen](#sec-anexo-ii)
+- [Anexo III. Glosario, notación y correspondencia físico-factual](#sec-anexo-iii)
+- [Anexo IV. Especificación ampliada de verificación reproducible](#sec-anexo-iv)
+- [Anexo V. Banco complementario de contraste físico-factual](#sec-anexo-v)
+- [Palabras clave](#sec-palabras-clave)
+- [Keywords](#sec-keywords)
+
+</details>
 
 ---
+
+<a id="sec-0"></a>
 
 # 0. Teoría del TODO y de la NADA y de la Imperfección
 
@@ -131,6 +156,8 @@ En un dominio SV con dictamen ternario DΣ y umbral T(n)=⌊7n/9⌋, los extremo
 
 Demostración. DΣ(v)=APTO exige N₀(v)≥T(n). DΣ(v)=NO_APTO exige N₁(v)≥T(n). Por incompatibilidad de doble mayoría, ambas regiones son disjuntas. Todo vector que no alcance ninguna mayoría cualificada queda fuera de los extremos. Esa región conserva U como no clausura suficiente y permite continuidad de evaluación estructural. Por tanto, el régimen intermedio es el dominio formal de imperfección activa. c.q.d.
 
+<a id="sec-0bis"></a>
+
 # 0bis. Posición del agujero negro en la Teoría de la Imperfección y en el Universo Vivo
 
 ## 0bis.1. El agujero negro como régimen extremo de imperfección sostenida
@@ -201,6 +228,8 @@ Demostración. La ecuación exige simultáneamente frontera de no transmisión, 
 
 ---
 
+
+<a id="sec-0ter"></a>
 
 # 0ter. Clausura absoluta de toda instancia factual, retorno al Todo y eficacia de las leyes físicas
 
@@ -392,6 +421,8 @@ Demostración. Si gobernaran desde fuera, serían exterior soberano al Todo. Si 
 
 ---
 
+<a id="sec-i"></a>
+
 # I. Estado del arte físico contemporáneo del agujero negro
 
 ## I.1. Horizonte, no escape y objeto físico de horizonte
@@ -432,6 +463,8 @@ La Event Horizon Telescope Collaboration obtuvo imágenes de escala de horizonte
 
 ---
 
+<a id="sec-ii"></a>
+
 # II. Matriz de absorción factual de los planteamientos contemporáneos
 
 | Planteamiento contemporáneo | Núcleo físico | Dictamen SV | Criterio formal |
@@ -457,6 +490,8 @@ La Event Horizon Telescope Collaboration obtuvo imágenes de escala de horizonte
 **Demostración.** Un planteamiento parcialmente absorbido puede aportar una corrección verdadera respecto de una proyección: Page curve e islas corrigen una región de información exterior; fuzzballs y firewalls señalan insuficiencias del interior clásico; agujeros negros regulares evitan singularidad. Su defecto no es falsedad global, sino insuficiencia de cierre respecto de BHₛᵥ. Por tanto, el dictamen parcial conserva su aporte y niega su suficiencia constitutiva. c.q.d.
 
 ---
+
+<a id="sec-iii"></a>
 
 # III. Aparato formal autocontenido del SV
 
@@ -519,6 +554,8 @@ C_TN=0 ⇔ μ=0 y λ=0 y 𝓝★ₛᵥ=0.
 
 ---
 
+<a id="sec-iv"></a>
+
 # IV. Separación formal entre U y M_N2-SV
 
 ## IV.1. Diferencia de tipo
@@ -545,6 +582,8 @@ Tipo(M_N2-SV)=modo rector de clausura interna.
 **Demostración.** Por Proposición III.3, U local no gobierna una mayoría fuerte. Si las tres células alcanzan APTO, C_TN=0. Por Teorema IV.2, Postᴮᴴ=M_N2-SV. c.q.d.
 
 ---
+
+<a id="sec-v"></a>
 
 # V. Dominio, proyección, invariantes y residual del régimen BH
 
@@ -586,6 +625,8 @@ R_X=1 significa defecto refutador.
 **Demostración.** La ecuación de régimen se define como anulación completa del vector Rᴮᴴ. Si algún componente vale 1, el vector no es nulo. Entonces BHₛᵥ(Γ)≠0. c.q.d.
 
 ---
+
+<a id="sec-vi"></a>
 
 # VI. Ecuación factual del agujero negro
 
@@ -630,6 +671,8 @@ C_ABS: todo planteamiento contemporáneo tratado queda absorbido, absorbido parc
 **Demostración.** BHₛᵥ no actúa sobre Γ para generar campo, fuerza, partícula, interacción o geometría. Se define como condición de anulación de Rᴮᴴ, cuyos componentes proceden de aparatos ya fijados por el corpus y de absorción formal de modelos físicos. Una ecuación de anulación de defectos no introduce fuente; declara régimen. c.q.d.
 
 ---
+
+<a id="sec-vii"></a>
 
 # VII. Formas equivalentes de la fórmula del agujero negro
 
@@ -831,6 +874,8 @@ La absorción parcial queda caracterizada por A_def(M)>0 con N₁ᴬ(M)<T(9) y s
 
 ---
 
+<a id="sec-viii"></a>
+
 # VIII. Unicidad de la fórmula del agujero negro
 
 ## VIII.1. Planteamiento de unicidad
@@ -892,6 +937,8 @@ Por doble implicación, F(Γ)=0 ⇔ BHₛᵥ(Γ)=0. Por Lema VIII.3, F es equiva
 **Demostración.** Por Lema VIII.1, eliminar cualquier condición produce una fórmula insuficiente. Por Lema VIII.2, añadir condiciones no derivadas produce fórmula impropia o falso negativo. Luego la fórmula contiene exactamente las condiciones necesarias, salvo reescrituras definicionales. c.q.d.
 
 ---
+
+<a id="sec-ix"></a>
 
 # IX. Equivalencia físico-factual del objeto agujero negro
 
@@ -1006,6 +1053,8 @@ Una lectura reductora consiste en tomar una proyección útil como si fuese la f
 
 ---
 
+<a id="sec-x"></a>
+
 # X. Teoremas estructurales del régimen BH
 
 **Teorema X.1. Horizonte por transmisión exterior.** En BHₛᵥ, el horizonte se declara si y sólo si DΣ(v_TE)=NO_APTO.
@@ -1050,6 +1099,8 @@ Una lectura reductora consiste en tomar una proyección útil como si fuese la f
 
 ---
 
+<a id="sec-xi"></a>
+
 # XI. Teoremas de absorción de la física contemporánea
 
 **Teorema XI.1. Absorción de la relatividad general.** La relatividad general queda absorbida como proyección métrica externa de BHₛᵥ.
@@ -1077,6 +1128,8 @@ Una lectura reductora consiste en tomar una proyección útil como si fuese la f
 **Demostración.** Page e islas tratan reconstrucción informacional; fuzzballs y firewalls tratan estructura de horizonte o microestados; agujeros negros regulares tratan evitación de singularidad. Ninguno proporciona simultáneamente C_TE, C_L, C_INT, C_EM, C_TH, C_H, C_TN, C_NOEXT y C_ABS. Por tanto, corrigen regiones, pero no sustituyen la fórmula completa. c.q.d.
 
 ---
+
+<a id="sec-xii"></a>
 
 # XII. Banco numérico SV-BH9 y verificación de formas equivalentes
 
@@ -1419,6 +1472,8 @@ Esta matriz cierra la exigencia de duplicación: cada dictamen fuerte tiene una 
 
 ---
 
+<a id="sec-xiii"></a>
+
 # XIII. Especificación laboratorial
 
 El laboratorio SV-BH9 contiene validadores de DΣ, T(n), v_TE, v_L, preservación de quince proyecciones de Φᴸₛᵥ, v_INT, v_μ, v_λ, v_𝓝★, Postᴮᴴ=M_N2-SV, M_N2-SV≠U, equivalencia BH_físico⇔BHₛᵥ, absorción de modelos contemporáneos, Schwarzschild, Kerr, termodinámica, singularidad como límite no fundante, unicidad de fórmula y catálogo de errores y banco físico paralelo.
@@ -1428,6 +1483,8 @@ APTO ⇔ Rᴮᴴ=(0,0,0,0,0,0,0,0,0,0,0) y el banco SV-BH9 no detecta error.
 NO_APTO si aparece cualquiera de estos hechos: Postᴮᴴ=U con μ=0, λ=0 y 𝓝★ₛᵥ=0; M_N2-SV tratado como U; salida luminosa apta; pérdida de proyecciones de luz; objeto físico de horizonte no traducido a BHₛᵥ; BHₛᵥ no traducido a objeto físico de horizonte; modelo contemporáneo sin clasificación; singularidad primaria; vacío sustancial; probabilidad, estadística, tiempo, minería de datos o inferencia opaca como fundamento; fórmula externa sin banco numérico; o fórmula alternativa no equivalente.
 
 ---
+
+<a id="sec-xiv"></a>
 
 # XIV. Catálogo de errores
 
@@ -1497,6 +1554,8 @@ El catálogo anterior se lee por familias. Cada familia contiene un tipo de fall
 | Información como postfrontera | “Page o islas resuelven todo” | resuelven subdominios; no declaran M_N2-SV |
 | U como detrás | “tras la frontera no se sabe” | si cierra TODO/NADA, Postᴮᴴ=M_N2-SV, no U |
 
+
+<a id="sec-xv"></a>
 
 # XV. Demostración final de absorción y rechazo bajo la fórmula absoluta
 
@@ -1600,6 +1659,8 @@ Demostración. Schwarzschild cierra frontera no rotante y queda absorbido. Kerr 
 
 ---
 
+<a id="sec-xvi"></a>
+
 # XVI. Conclusiones
 
 Primera. El agujero negro queda definido como régimen extremo del campo unificado factual y como representación estructural del objeto físico de horizonte.
@@ -1667,6 +1728,8 @@ Cierre final.
 Agujero negro en el Sistema Vectorial SV = objeto físico de horizonte representado por régimen extremo del campo unificado factual + imperfección cerrada en frontera de no transmisión exterior + no transmisión luminosa con luz factual preservada + interior saturado + postfrontera M_N2-SV + clausura de instancias factuales capturadas con retorno de su traza al Todo + exclusión de U, copia, reescritura, desaparición sin traza y egreso local + absorción numérica de los planteamientos contemporáneos de la física + unicidad de fórmula bajo dictamen formal.
 
 ---
+
+<a id="sec-xvii"></a>
 
 # XVII. Anexo de preguntas: verdades, no verdades y conclusiones sobre la naturaleza y matemática de un agujero negro
 
@@ -1965,6 +2028,8 @@ El agujero negro no expulsa cuerpos al exterior local ni abre un agujero de gusa
 
 ---
 
+<a id="sec-xviii"></a>
+
 # XVIII. Laboratorios reproducibles SV-BH9
 
 El directorio de laboratorios incorpora laboratorios reproducibles destinados a verificar, sin pases silenciosos, los dictámenes centrales de esta publicación: formas equivalentes de BHₛᵥ, célula canónica SV(3,9), granularidad ampliada SV(6,36), absorción numérica de Schwarzschild, Kerr, termodinámica Bekenstein–Hawking/Hawking, rechazo de singularidad geométrica como fundamento, clasificación de planteamientos contemporáneos, postfrontera M_N2-SV y falsación por salida luminosa exterior apta.
@@ -2063,6 +2128,8 @@ El resultado global APTO exige simultáneamente:
 
 Si cualquiera de esas condiciones falla, la salida global debe ser NO_APTO.
 
+<a id="sec-bibliografia-fisica-contemporanea"></a>
+
 # Bibliografía física contemporánea
 
 Abbott, B. P., Abbott, R., Abbott, T. D., Abernathy, M. R., Acernese, F., Ackley, K., Adams, C., Adams, T., Addesso, P., Adhikari, R. X., et al. (2016). Observation of gravitational waves from a binary black hole merger. *Physical Review Letters, 116*(6), 061102. DOI [https://doi.org/10.1103/PhysRevLett.116.061102](https://doi.org/10.1103/PhysRevLett.116.061102)
@@ -2125,6 +2192,8 @@ Wald, R. M. (1994). *Quantum field theory in curved spacetime and black hole the
 
 ---
 
+<a id="sec-bibliografia-corpus"></a>
+
 # Bibliografía del corpus
 
 Lloret Egea, J. A. (2026). [*Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador*](https://www.itvia.online/pub/nuevas-matematicas-del-sistema-vectorial-sv-y-fisica-factual-como-conjunto-iniciador/release/2). IA eñ™ — La Biblia de la IA™.
@@ -2150,6 +2219,8 @@ Lloret Egea, J. A. (2026). *Catálogo de Pares Estructurales SV (CPS-SV): enlace
 Lloret Egea, J. A. (2026). [*Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV*](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/interaccion-intercomposicion-transmision-campos.md). IA eñ™ — La Biblia de la IA™.
 
 ---
+
+<a id="sec-anexo-i"></a>
 
 # Anexo I. Tres escalas de lectura formal del agujero negro: escala elemental, ingeniería y ciencia
 
@@ -2325,6 +2396,8 @@ La conclusión no afirma que los científicos conserven continuidad corporal o p
 
 Las tres escalas conservan el mismo núcleo: BHₛᵥ(Γᴮᴴ)=0, Rᴮᴴ=0₁₁, no transmisión exterior, no transmisión luminosa, interior saturado, postfrontera M_N2-SV y absorción diferenciada de la física contemporánea. La escala elemental muestra el núcleo; la escala de ingeniería verifica requisitos; la escala científica contrasta magnitudes físicas y modelos contemporáneos. El caso G muestra la consecuencia formal sobre un contenido humano inscrito sin convertirla en escape local, copia, U ni túnel geométrico.
 
+<a id="sec-anexo-ii"></a>
+
 # Anexo II. Pseudocódigo textual del dictamen
 
 Entrada: Γ.
@@ -2342,6 +2415,8 @@ Paso 10. Declarar BHₛᵥ(Γᴮᴴ)=0 si Rᴮᴴ=(0,0,0,0,0,0,0,0,0,0,0).
 
 Salida final: BH_físico⇔BHₛᵥ, Postᴮᴴ=M_N2-SV y unicidad de BHₛᵥ.
 
+
+<a id="sec-anexo-iii"></a>
 
 # Anexo III. Glosario, notación y correspondencia físico-factual
 
@@ -2466,6 +2541,8 @@ Salida final: BH_físico⇔BHₛᵥ, Postᴮᴴ=M_N2-SV y unicidad de BHₛᵥ.
 | XII.15 | reconstrucción exterior no equivale a postfrontera |
 | XVII.3 | clausura factual del grupo científico |
 
+<a id="sec-anexo-iv"></a>
+
 # Anexo IV. Especificación ampliada de verificación reproducible
 
 ## IV.1. Estructura de carpetas
@@ -2532,6 +2609,8 @@ La salida APTO sólo puede emitirse si el runner ha ejecutado todas las familias
 ## IV.7. Cierre reproducible
 
 El cierre reproducible no depende de autoridad verbal. Depende de que el runner detecte los casos que debe detectar, acepte sólo los casos que debe aceptar y produzca salidas auditables. La publicación puede ser leída sin ejecutar el laboratorio, pero su pretensión de verificación numérica queda materialmente respaldada por la existencia del banco, el runner, la traza y el catálogo de errores.
+
+<a id="sec-anexo-v"></a>
 
 # Anexo V. Banco complementario de contraste físico-factual
 
@@ -2773,9 +2852,13 @@ El banco negativo impide que una fórmula parcial suplante a la fórmula complet
 Todo caso que aparezca en el texto como ejemplo físico debe tener una correspondencia en el banco, en el transductor o en el catálogo de errores. Todo caso que aparezca en el banco debe tener una lectura textual suficiente para que el lector sepa qué magnitud se evalúa y por qué no se convierte en fundamento único.
 
 
+<a id="sec-palabras-clave"></a>
+
 # Palabras clave
 
 Agujero negro; horizonte factual; no transmisibilidad; campo unificado; Teoría del TODO y de la NADA; M_N2-SV; unicidad de fórmula; banco SV-BH9; Event Horizon Telescope; LIGO; Schwarzschild; Kerr; Bekenstein–Hawking; radiación de Hawking; paradoja de la información; islas; luz factual; termodinámica factual; entropía factual; Maxwell factual; Sistema Vectorial SV; lectura científica graduada; lectura en tres escalas; clausura factual; retorno al Todo; traza factual; clausura factual y retorno al Todo; suceso generador; protocampo.
+
+<a id="sec-keywords"></a>
 
 # Keywords
 
