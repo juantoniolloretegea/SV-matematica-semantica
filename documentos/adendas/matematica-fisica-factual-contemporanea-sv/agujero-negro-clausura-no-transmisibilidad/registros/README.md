@@ -135,8 +135,6 @@ La batería de pruebas Python devuelve:
 
 ## Interpretación del registro
 
-Este registro certifica la correspondencia material entre el paquete preservado, la prueba OpenTimestamps y la firma electrónica. No certifica una autoridad externa sobre el contenido doctrinal de la publicación; documenta la integridad, trazabilidad y cierre material del lote técnico depositado.
-
-El uso correcto de los identificadores es el siguiente: el DOI PubPub/Crossref identifica la publicación editorial; el DOI de la colección **El Universo** identifica el contexto editorial de colección; el DOI Zenodo identifica el depósito de preservación; el DOI Zenodo de todas las versiones identifica la línea de versiones del registro técnico; GitHub conserva el corpus técnico vivo; Internet Archive conserva capturas históricas.
+Este registro certifica la correspondencia material entre el paquete preservado, la prueba OpenTimestamps y la firma electrónica. Constituye prueba fehaciente de la autoría, los derechos de autor, así como de su licencia y advertencias de uso. Lo que obliga a terceros a respetar las restricciones de uso.
 
 ---
