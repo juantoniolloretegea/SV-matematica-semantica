@@ -25,5 +25,3 @@ Desde la carpeta de la publicación:
 python laboratorios/runner.py
 python laboratorios/runner_diagnostico.py
 ```
-
-La ejecución es local, determinista, sin internet, sin aprendizaje, sin probabilidad y sin inferencia opaca. La salida global esperada es PASS para 11/11 bancos, 54/54 laboratorios y 48/48 errores detectados, con U conservada y cero pases silenciosos.
