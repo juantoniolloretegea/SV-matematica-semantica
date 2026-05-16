@@ -1,4 +1,8 @@
-Del protoindividuo a la relación, la norma y la sociedad constituida
+### Del protoindividuo a la relación, la norma y la sociedad constituida
+---
+© 2026. Todos los derechos reservados. Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 16/05/2026
+
+---
 Índice de trabajo
 
 Resumen
@@ -6,7 +10,7 @@ Abstract
 Advertencia de derechos, autoría y licencia
 Índice
 
-0. Planteamiento general
+0 Planteamiento general
 
 0.1. Problema rector
 0.2. Por qué no se parte de la sociedad como dato evidente
