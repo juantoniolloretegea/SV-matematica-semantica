@@ -1,5 +1,6 @@
 # Proyecciones biológicas de la fibra
 
+![Portada — Proyecciones biológicas de la fibra](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/proyecciones-biologicas-de-la-fibra/imagenes/portada.png?raw=1)
 **Teoría de la Creación de Observables del Universo, transducción metrológica, mutación, enfermedad, cáncer y clausura factual**
 
 **© 2026. Todos los derechos reservados.** Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN: 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 16/05/2026.
