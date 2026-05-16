@@ -34,7 +34,7 @@ El orden de publicaciones sigue una cadena ascendente. Cada entrega abre un tram
 
 </details>
 <details>
-<summary><strong> Publicación próxima </strong></summary>
+<summary><strong>Próxima publicación (pendiente)</strong></summary>
 
 [P01 · Del protoindividuo a la relación, la norma y la sociedad constituida](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/protocomunidades-protosemantica-y-orden-compartido/protoindividuo-relacion-norma-sociedad)
 
