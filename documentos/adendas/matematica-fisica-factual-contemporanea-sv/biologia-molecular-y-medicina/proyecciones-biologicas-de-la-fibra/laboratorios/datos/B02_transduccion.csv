@@ -1,0 +1,7 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B02,TR-01,biologia_molecular,secuencia_genica,posicion variante,nt/bp,conteo_discreto,X_GEN,secuencia_expresion,D_gen,unidad y primitivo conservados,1,Delta_tr_0,retorno a posicion y efecto,PASS,unidad ausente,PASS,E-13,sec-xvii-15,1
+B02,TR-02,oncologia,lesion_tumoral,diametro,mm,UFE,X_ONC,imagen_histologia,D_onc,retorno medible,1,Delta_tr_0,retorno a mm e identidad,PASS,masa=cancer,PASS,E-02,,1
+B02,TR-03,inmunologia,anticuerpo,titulo,UI/mL,UFCE/UFE3,X_IMM,antigeno_respuesta,D_imm,retorno funcional no automatico,1,Delta_tr_0,proteccion_o_U,PASS,anticuerpo=proteccion_absoluta,PASS,E-35,,1
+B02,TR-04,microbiologia,cultivo,crecimiento,UFC/mL,entidades/UFE3,X_BACT,muestra_contexto,D_bact,canal clinico requerido,1,Delta_tr_0,colonizacion_infeccion_U,PASS,cultivo=sepsis,PASS,E-04,,1
+B02,TR-05,neuroclinica,imagen cerebral,realce,mm,UFE,X_NEURO,imagen_histologia,D_neuro,imagen no sustituye identidad,U,Delta_id,sospecha_U,U,imagen=diagnostico,U,E-11,,1
+B02,TR-06,documental,informe,hash y metodo,hash/fecha,clase_documental,X_DOC,custodia,D_doc,documento apto,1,Delta_doc_0,prueba documentada,PASS,documento sin metodo,PASS,E-12,,1

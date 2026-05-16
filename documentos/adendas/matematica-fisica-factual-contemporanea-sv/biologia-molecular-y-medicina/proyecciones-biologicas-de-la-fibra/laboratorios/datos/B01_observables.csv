@@ -1,0 +1,15 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B01,B01-01,molecular,molecula_funcional,catalisis,clase_quimica,clase_tipada,X_BIO,reaccion_union,D_bio,frontera molecular declarada,1,Delta_mol_controlado,funcion_dano_o_U,PASS,molecula=vida,PASS,,sec-xvii-4,1
+B01,B01-02,molecular-registro,gen_secuencia,region de lectura,nt/bp,conteo_discreto,X_GEN,expresion_copia,D_gen,traza de secuencia,1,Delta_registro,funcion_silencio_U,PASS,secuencia=destino,PASS,,,1
+B01,B01-03,celular,celula_somatica,metabolismo_senal,celulas/mL,entidades/UFE3,X_BIO,metabolismo_senal_reparacion,D_cel,nivel celular conservado,1,Delta_cel,normal_alterada_patologica,PASS,mutacion=organismo_enfermo,PASS,,,1
+B01,B01-04,celular-sistemica,celula_inmune,receptor_antigeno,clase_receptor,clase_tipada,X_IMM,antigeno_citoquina,D_imm,funcion efectiva,1,Delta_imm,defensa_tolerancia_dano,PASS,marcador=funcion,PASS,,,1
+B01,B01-05,celular-tisular,celula_tumoral,clon_proliferacion,clase_histologica,clase_tipada,X_ONC,proliferacion_escape,D_onc,dominancia retornada,1,Delta_onc,dominancia_o_U,PASS,clon=cancer_sin_retorno,PASS,,,1
+B01,B01-06,tisular,tejido,arquitectura_matriz,clase_histologica,clase_tipada,X_BIO,interaccion_celular,D_tis,arquitectura conservada,1,Delta_tis,funcion_reparacion_lesion,PASS,celula_aislada=tejido,PASS,,,1
+B01,B01-07,organico,organo,funcion_integrada,unidad_funcional,clase_tipada,X_BIO,vascular_neural_mecanico,D_org,funcion organica,1,Delta_org,suficiencia_o_fallo,PASS,lesion_local=fallo_organico,PASS,,,1
+B01,B01-08,sistemico,organismo_humano,integracion_vital,clase_clinica,clase_tipada,X_HUM,integracion_vital,D_sist,retorno vital global,1,Delta_sist,vida_enfermedad_muerte,PASS,diagnostico=muerte,PASS,,,1
+B01,B01-09,replicativo_dependiente,virus,receptor_celula_huesped,nt/bp,conteo_discreto,X_VAR,receptor_entrada,D_virus,replicacion dependiente,1,Delta_var,replicacion_latencia_U,PASS,mutacion=agresividad,PASS,,,1
+B01,B01-10,procariota,bacteria,metabolismo_nicho,UFC/mL,entidades/UFE3,X_BACT,nicho_huesped,D_bact,retorno propio,1,Delta_bact,comensalismo_infeccion_U,PASS,presencia=patologia,PASS,,,1
+B01,B01-11,comunidad,microbiota,nicho_ecologico,abundancia_relativa,razon,X_MICRO,metabolitos_barrera,D_micro,contexto ecologico,1,Delta_micro,simbiosis_disbiosis_U,PASS,diferencia=disbiosis,PASS,,,1
+B01,B01-12,poblacion/linaje,especie,continuidad,rasgo/bp,clase_tipada,X_EVO,reproduccion_transmision,D_evo,linaje reconocible,1,Delta_evo,continuidad_extincion,PASS,parecido=misma_especie,PASS,,,1
+B01,B01-13,documental,documento_clinico,custodia_metodo,hash/fecha,clase_documental,X_DOC,lectura_custodia,D_doc,integridad formal,1,Delta_doc,prueba_apta_no_apta,PASS,papel=hecho,PASS,,,1
+B01,B01-14,sistemico-clausura,muerte_fisica,perdida_integracion,criterio_clinico,clase_tipada,X_VITAL,perdida_retorno,D_vital,retorno vital perdido,1,Delta_clausura,clausura_vital,PASS,muerte=causa,PASS,,,1

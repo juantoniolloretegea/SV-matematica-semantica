@@ -1,0 +1,17 @@
+id_ataque,id_caso,ataque,cierre_indebido,error,respuesta_obligatoria
+NEG-01,HCL-LIM-01,citopenia_mas_celulas_vellosas,HCLc_1,E-DX-05,rechazar
+NEG-02,HCL-LIM-01,CD11c_CD103_suficientes,HCLc_1,E-DX-06,rechazar
+NEG-03,HCL-LIM-01,ignorar_discordancia_molecular,HCLc_1,E-DX-07,rechazar
+NEG-04,HCL-LIM-02,morfologia_HCL_like_equivale_HCLc,HCLc_1,E-DX-05,rechazar
+NEG-05,HCL-LIM-03,U_molecular_equivale_HCLc,HCLc_1,E-DX-12,rechazar
+NEG-06,HCL-LIM-03,U_molecular_equivale_no_HCLc,HCLc_0,E-DX-11,rechazar
+NEG-07,CNS-LIM-01,realce_edema_equivale_tumor,tumor_maligno_1,E-DX-04,rechazar
+NEG-08,CNS-LIM-01,imagen_sustituye_histologia,tumor_maligno_1,E-DX-04,rechazar
+NEG-09,CNS-LIM-02,imagen_sin_tejido_equivale_malignidad,tumor_maligno_1,E-DX-04,rechazar
+NEG-10,CNS-LIM-02,U_por_falta_tejido_equivale_no_tumor,tumor_maligno_0,E-DX-11,rechazar
+NEG-11,CNS-LIM-03,lesion_grave_equivale_GBM,GBM_1,E-DX-04,rechazar
+NEG-12,ALL,muerte_hipotetica_confirma_etiqueta,causa_1,E-DX-06,rechazar
+NEG-13,ALL,caso_sin_metodo_pasa,apto,E-MAT-05,NO_APTO
+NEG-14,ALL,magnitud_sin_unidad_pasa,apto,E-MAT-06,NO_APTO
+NEG-15,ALL,salida_sin_retorno_pasa,PASS,E-MAT-10,FAIL
+NEG-16,ALL,diagnostico_alternativo_inventado,alternativa_1,E-DX-07,rechazar

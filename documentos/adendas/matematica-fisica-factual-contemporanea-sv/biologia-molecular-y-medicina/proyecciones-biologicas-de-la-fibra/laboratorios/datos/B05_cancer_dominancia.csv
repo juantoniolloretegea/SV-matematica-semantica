@@ -1,0 +1,9 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B05,CA-01,oncologia,masa radiologica,diametro,mm,UFE,X_ONC,imagen_histologia,D_onc,identidad tumoral falta,U,Delta_id,sospecha_U,U,masa=cancer,U,E-02,sec-xvii-18,1
+B05,CA-02,oncologia,marcador tumoral,concentracion,ng/mL,UFM/UFE3,X_ONC,biomarcador_contexto,D_onc,no cierra tumor,U,Delta_bio,U,U,marcador tumoral=cancer,U,E-10,,1
+B05,CA-03,oncologia,clon con invasión,histologia,clase_histologica,clase_tipada,X_ONC,proliferacion_invasion,D_onc,dominancia retornada,1,Delta_onc,cancer_tipado,PASS,tumor aislado del organismo,PASS,E-02,,1
+B05,CA-04,oncologia,tumor in situ,extension,clase_histologica,clase_tipada,X_ONC,local,D_onc,sin canal metastasico,0,Delta_ext,no_metastasis,PASS,in situ=metastasis,PASS,E-48,,1
+B05,CA-05,oncologia,respuesta terapéutica,reduccion,%,razon,X_ONC,tratamiento_respuesta,D_onc,unidad requerida,1,Delta_resp,respuesta_medida,PASS,respuesta sin unidad,PASS,E-14,,1
+B05,CA-06,oncologia,infiltrado inmune,celulas/mm2,celulas/mm2,entidades/UFE2,X_IMM,tumor_inmunidad,D_imm,infiltrado no control automático,U,Delta_imm,U,U,infiltrado inmune=control tumoral,U,E-34,,1
+B05,CA-07,oncologia,remision clinica,sin lesion visible,clase_imagen,clase_tipada,X_ONC,seguimiento,D_onc,no desaparicion absoluta,1,Delta_follow,remision con vigilancia,PASS,remision=desaparicion absoluta,PASS,E-23,,1
+B05,CA-08,oncologia,riesgo hereditario,variante germinal,clasificacion,clase_tipada,X_GEN,herencia_tumor,D_gen,riesgo no tumor existente,U,Delta_risk,U,U,variante germinal=cancer existente,U,E-36,,1

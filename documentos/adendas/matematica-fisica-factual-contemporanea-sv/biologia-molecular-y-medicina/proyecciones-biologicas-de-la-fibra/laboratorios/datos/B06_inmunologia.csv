@@ -1,0 +1,7 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B06,IMM-01,inmunologia,autoanticuerpo,titulo,UI/mL,UFCE/UFE3,X_IMM,antigeno_tejido,D_imm,diana y dano requeridos,U,Delta_imm,U,U,autoanticuerpo=autoinmunidad,U,E-05,sec-xvii-19,1
+B06,IMM-02,inmunologia,inflamacion aguda,PCR,mg/L,UFM/UFE3,X_IMM,respuesta_dano,D_imm,no patologia cronica sola,U,Delta_res,U,U,inflamacion=patologia cronica,U,E-32,,1
+B06,IMM-03,inmunologia,inmunoterapia,respuesta,%,razon,X_IMM,terapia_tumor,D_imm,beneficio y toxicidad separados,1,Delta_tx,respuesta_con_residual,PASS,inmunoterapia=beneficio puro,PASS,E-33,,1
+B06,IMM-04,inmunologia,infiltrado tumoral,densidad,celulas/mm2,entidades/UFE2,X_IMM,microambiente,D_imm,control no automático,U,Delta_micro,U,U,infiltrado=control,U,E-34,,1
+B06,IMM-05,inmunologia,anticuerpo protector,titulo,UI/mL,UFCE/UFE3,X_IMM,neutralizacion,D_imm,proteccion no absoluta,U,Delta_prot,U,U,anticuerpo=proteccion absoluta,U,E-35,,1
+B06,IMM-06,inmunologia,tolerancia,senal reguladora,clase_citoquina,clase_tipada,X_IMM,tolerancia,D_imm,canal inmunitario conservado,1,Delta_0,tolerancia,PASS,marcador=funcion,PASS,,,1

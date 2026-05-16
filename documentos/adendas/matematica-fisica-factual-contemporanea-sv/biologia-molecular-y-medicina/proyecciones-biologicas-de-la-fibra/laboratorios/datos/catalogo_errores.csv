@@ -1,0 +1,49 @@
+codigo,error,fallo_esperado,familia
+E-01,mutación=cáncer,FAIL,adversarial
+E-02,masa=cáncer,FAIL,adversarial
+E-03,fiebre=infección cerrada,FAIL,adversarial
+E-04,cultivo=sepsis sin canal clínico,FAIL,adversarial
+E-05,autoanticuerpo=autoinmunidad,FAIL,adversarial
+E-06,dolor sin marcador=no real,FAIL,adversarial
+E-07,muerte=causa previa,FAIL,adversarial
+E-08,VUS=patógena,FAIL,adversarial
+E-09,colonización=infección,FAIL,adversarial
+E-10,marcador tumoral=cáncer,FAIL,adversarial
+E-11,imagen sospechosa=diagnóstico,FAIL,adversarial
+E-12,documento sin método=prueba,FAIL,adversarial
+E-13,unidad externa ausente,FAIL,adversarial
+E-14,primitivo SV ausente,FAIL,adversarial
+E-15,transductor unidireccional presentado como completo,FAIL,adversarial
+E-16,U degradada a 0,FAIL,adversarial
+E-17,U degradada a 1,FAIL,adversarial
+E-18,muerte física tratada como retorno vital parcial,FAIL,adversarial
+E-19,cepa mutada=mayor agresividad,FAIL,adversarial
+E-20,gen de resistencia=infección,FAIL,adversarial
+E-21,canal confundido con diccionario,FAIL,adversarial
+E-22,diccionario sin canal tratado como interacción,FAIL,adversarial
+E-23,retorno ausente presentado como cierre,FAIL,adversarial
+E-24,célula confundida con organismo,FAIL,adversarial
+E-25,tejido reducido a suma de células,FAIL,adversarial
+E-26,órgano confundido con lesión local,FAIL,adversarial
+E-27,especie confundida con parecido morfológico,FAIL,adversarial
+E-28,reactivación parcial=identidad absoluta,FAIL,adversarial
+E-29,lesión=muerte física,FAIL,adversarial
+E-30,secuela=enfermedad activa,FAIL,adversarial
+E-31,reparación=curación absoluta,FAIL,adversarial
+E-32,inflamación=patología crónica,FAIL,adversarial
+E-33,inmunoterapia=beneficio puro,FAIL,adversarial
+E-34,infiltrado inmune=control tumoral,FAIL,adversarial
+E-35,anticuerpo=protección absoluta,FAIL,adversarial
+E-36,portador genético=enfermo,FAIL,adversarial
+E-37,muestra única=mosaicismo total,FAIL,adversarial
+E-38,artefacto de secuenciación=hecho,FAIL,adversarial
+E-39,co-presencia=canal,FAIL,adversarial
+E-40,contacto=diálogo estructural,FAIL,adversarial
+E-41,señal sin retorno=diagnóstico,FAIL,adversarial
+E-42,banco sin negativo=apto fuerte,FAIL,adversarial
+E-43,salida esperada ausente,FAIL,adversarial
+E-44,runner sin error explícito,FAIL,adversarial
+E-45,caso real extrapolado desde banco cerrado,FAIL,adversarial
+E-46,dato sensible sin custodia,FAIL,adversarial
+E-47,muerte física usada para borrar U causal,FAIL,adversarial
+E-48,fórmula aplicada fuera de dominio,FAIL,adversarial

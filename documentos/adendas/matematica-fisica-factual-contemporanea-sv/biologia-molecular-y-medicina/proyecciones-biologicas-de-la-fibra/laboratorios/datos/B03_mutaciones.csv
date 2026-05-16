@@ -1,0 +1,7 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B03,MUT-01,viral,sustitucion spike,cambio aa,aa,conteo_discreto,X_VAR,replicacion_huesped,D_var,viabilidad declarada,1,Delta_mut_controlado,variante viable no agresividad automatica,PASS,cepa mutada=mayor agresividad,PASS,E-19,sec-xvii-16,1
+B03,MUT-02,somatico,mutacion celular,VAF,%,razon,X_MUT,celula_tejido,D_mut,no cierra cancer sola,0,Delta_onc_sin_retorno,no_cancer_por_mutacion_sola,PASS,mutacion=cancer,PASS,E-01,,1
+B03,MUT-03,germinal,VUS,variante incierta,clasificacion_ACMG,clase_tipada,X_GEN,herencia_fenotipo,D_gen,U conservada,U,Delta_vus,U,U,VUS=patogena,U,E-08,,1
+B03,MUT-04,replicativo,alteracion letal,perdida replicacion,ensayo_funcional,clase_tipada,X_MUT,replicacion,D_mut,viabilidad falla,0,Delta_viab,no_viable,PASS,alteracion letal=variante persistente,PASS,E-19,,1
+B03,MUT-05,poblacional,variacion linaje,frecuencia auxiliar,%,razon_auxiliar,X_EVO,transmision,D_evo,frecuencia no funda verdad,1,Delta_evo,retorno diferencial,PASS,frecuencia=fundamento,PASS,E-48,,1
+B03,MUT-06,secuenciacion,artefacto,lectura baja calidad,Q-score,clase_metrologica,X_DOC,lectura_custodia,D_doc,traza insuficiente,0,Delta_doc,rechazo artefacto,PASS,artefacto=hecho,PASS,E-38,,1

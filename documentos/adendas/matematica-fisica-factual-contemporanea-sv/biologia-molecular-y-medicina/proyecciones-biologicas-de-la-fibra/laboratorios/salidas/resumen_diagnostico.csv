@@ -1,0 +1,12 @@
+metrica,valor
+total_casos,6
+pass_casos,6
+fail_casos,0
+total_negativos,16
+negativos_rechazados,16
+negativos_aceptados,0
+refutaciones_error0_acotado,4
+u_legitimos,2
+u_degradadas,0
+pases_silenciosos,0
+dictamen_global,PASS

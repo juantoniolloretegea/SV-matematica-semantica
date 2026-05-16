@@ -1,0 +1,49 @@
+codigo,error,fallo_esperado,detectado,dictamen
+E-01,mutación=cáncer,FAIL,true,PASS
+E-02,masa=cáncer,FAIL,true,PASS
+E-03,fiebre=infección cerrada,FAIL,true,PASS
+E-04,cultivo=sepsis sin canal clínico,FAIL,true,PASS
+E-05,autoanticuerpo=autoinmunidad,FAIL,true,PASS
+E-06,dolor sin marcador=no real,FAIL,true,PASS
+E-07,muerte=causa previa,FAIL,true,PASS
+E-08,VUS=patógena,FAIL,true,PASS
+E-09,colonización=infección,FAIL,true,PASS
+E-10,marcador tumoral=cáncer,FAIL,true,PASS
+E-11,imagen sospechosa=diagnóstico,FAIL,true,PASS
+E-12,documento sin método=prueba,FAIL,true,PASS
+E-13,unidad externa ausente,FAIL,true,PASS
+E-14,primitivo SV ausente,FAIL,true,PASS
+E-15,transductor unidireccional presentado como completo,FAIL,true,PASS
+E-16,U degradada a 0,FAIL,true,PASS
+E-17,U degradada a 1,FAIL,true,PASS
+E-18,muerte física tratada como retorno vital parcial,FAIL,true,PASS
+E-19,cepa mutada=mayor agresividad,FAIL,true,PASS
+E-20,gen de resistencia=infección,FAIL,true,PASS
+E-21,canal confundido con diccionario,FAIL,true,PASS
+E-22,diccionario sin canal tratado como interacción,FAIL,true,PASS
+E-23,retorno ausente presentado como cierre,FAIL,true,PASS
+E-24,célula confundida con organismo,FAIL,true,PASS
+E-25,tejido reducido a suma de células,FAIL,true,PASS
+E-26,órgano confundido con lesión local,FAIL,true,PASS
+E-27,especie confundida con parecido morfológico,FAIL,true,PASS
+E-28,reactivación parcial=identidad absoluta,FAIL,true,PASS
+E-29,lesión=muerte física,FAIL,true,PASS
+E-30,secuela=enfermedad activa,FAIL,true,PASS
+E-31,reparación=curación absoluta,FAIL,true,PASS
+E-32,inflamación=patología crónica,FAIL,true,PASS
+E-33,inmunoterapia=beneficio puro,FAIL,true,PASS
+E-34,infiltrado inmune=control tumoral,FAIL,true,PASS
+E-35,anticuerpo=protección absoluta,FAIL,true,PASS
+E-36,portador genético=enfermo,FAIL,true,PASS
+E-37,muestra única=mosaicismo total,FAIL,true,PASS
+E-38,artefacto de secuenciación=hecho,FAIL,true,PASS
+E-39,co-presencia=canal,FAIL,true,PASS
+E-40,contacto=diálogo estructural,FAIL,true,PASS
+E-41,señal sin retorno=diagnóstico,FAIL,true,PASS
+E-42,banco sin negativo=apto fuerte,FAIL,true,PASS
+E-43,salida esperada ausente,FAIL,true,PASS
+E-44,runner sin error explícito,FAIL,true,PASS
+E-45,caso real extrapolado desde banco cerrado,FAIL,true,PASS
+E-46,dato sensible sin custodia,FAIL,true,PASS
+E-47,muerte física usada para borrar U causal,FAIL,true,PASS
+E-48,fórmula aplicada fuera de dominio,FAIL,true,PASS

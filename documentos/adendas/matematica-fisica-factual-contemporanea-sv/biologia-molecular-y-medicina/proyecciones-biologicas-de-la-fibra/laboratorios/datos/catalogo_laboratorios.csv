@@ -1,0 +1,55 @@
+id_lab,familia,banco,pregunta,tipo_prueba,salida_esperada
+LAB-01,transduccion,B02,toda magnitud critica tiene unidad externa y primitivo SV,unit_primitive,PASS
+LAB-02,transduccion,B02/B01,la transduccion ciencia a SV conserva dominio,domain_conserved,PASS
+LAB-03,transduccion,B02,SV a ciencia devuelve explicacion interpretable,return_present,PASS
+LAB-04,transduccion,B02/B08,canal y diccionario son distintos del transductor,transductor_distinct,PASS
+LAB-05,transduccion,B02/B09,falla ante unidad ausente,detects_error_E13,PASS
+LAB-06,transduccion,B02/B10,conserva U si falta retorno,preserves_u,PASS
+LAB-07,mutacion,B03,mutaciones tienen dominio y traza,bank_integrity_B03,PASS
+LAB-08,mutacion,B03,viabilidad no equivale a beneficio,has_error_E19,PASS
+LAB-09,mutacion,B03/B05,mutacion no cierra cancer,has_error_E01,PASS
+LAB-10,mutacion,B03/B10,VUS permanece U,has_error_E08,PASS
+LAB-11,mutacion,B03,artefacto de secuenciacion cae,has_error_E38,PASS
+LAB-12,mutacion,B03/B09,negativos de mutacion caen,negative_family_mut,PASS
+LAB-13,enfermedad,B04,enfermedad exige dominio y retorno,bank_integrity_B04,PASS
+LAB-14,enfermedad,B04/B09,sintoma aislado no cierra enfermedad,has_error_E03,PASS
+LAB-15,enfermedad,B04/B09,biomarcador no diagnostica absoluto,has_error_E10,PASS
+LAB-16,enfermedad,B04/B09,infeccion requiere canal clinico,has_error_E04,PASS
+LAB-17,enfermedad,B04,reparacion conserva residual,has_error_E31,PASS
+LAB-18,enfermedad,B04/B09,negativos de enfermedad caen,negative_family_dis,PASS
+LAB-19,cancer,B05,cancer exige identidad y dominancia,bank_integrity_B05,PASS
+LAB-20,cancer,B05/B09,masa no cierra cancer,has_error_E02,PASS
+LAB-21,cancer,B05/B09,marcador tumoral no cierra cancer,has_error_E10,PASS
+LAB-22,cancer,B05,clon exige retorno histologico o clinico,onc_return,PASS
+LAB-23,cancer,B05,metastasis exige canal de extension,has_negative_text_metastasis,PASS
+LAB-24,cancer,B05,respuesta terapeutica exige unidad,unit_primitive_B05,PASS
+LAB-25,cancer,B05/B09,negativos oncologicos caen,negative_family_onc,PASS
+LAB-26,cancer,B05/B10,sospechas oncologicas U se conservan,u_in_B05,PASS
+LAB-27,inmunologia,B06,antigeno y diana no se confunden,bank_integrity_B06,PASS
+LAB-28,inmunologia,B06/B09,autoanticuerpo no cierra autoinmunidad,has_error_E05,PASS
+LAB-29,inmunologia,B06/B09,inflamacion no cierra cronificacion,has_error_E32,PASS
+LAB-30,inmunologia,B06/B09,inmunoterapia no es beneficio puro,has_error_E33,PASS
+LAB-31,inmunologia,B06/B09,infiltrado inmune no implica control tumoral,has_error_E34,PASS
+LAB-32,inmunologia,B06/B09,anticuerpo no implica proteccion absoluta,has_error_E35,PASS
+LAB-33,genetica,B07,variante con retorno y dominio,bank_integrity_B07,PASS
+LAB-34,genetica,B07/B09,VUS no se convierte en patogena,has_error_E08,PASS
+LAB-35,genetica,B07/B09,portador no equivale a enfermo,has_error_E36,PASS
+LAB-36,genetica,B07/B09,muestra unica no totaliza mosaicismo,has_error_E37,PASS
+LAB-37,genetica,B07/B09,artefacto no se convierte en hecho,has_error_E38,PASS
+LAB-38,genetica,B07,traza genetica requerida,trace_present_B07,PASS
+LAB-39,canal_semantica,B08,canal definido con retorno,bank_integrity_B08,PASS
+LAB-40,canal_semantica,B08/B09,canal no es transductor,has_error_E21,PASS
+LAB-41,canal_semantica,B08/B09,diccionario requiere canal,has_error_E22,PASS
+LAB-42,canal_semantica,B08/B09,contacto no equivale a dialogo,has_error_E40,PASS
+LAB-43,canal_semantica,B08/B09,senal sin retorno no diagnostica,has_error_E41,PASS
+LAB-44,canal_semantica,B08,casos interdominio conservan dominio externo,cross_domain,PASS
+LAB-45,canal_semantica,B08,dialogo estructural sin antropomorfismo,non_anthropomorphic,PASS
+LAB-46,negativos,B09,cierres por presencia rechazados,has_error_E09,PASS
+LAB-47,negativos,B09,cierres por apariencia rechazados,has_error_E11,PASS
+LAB-48,negativos,B09,cierres por marcador rechazados,has_error_E10,PASS
+LAB-49,negativos,B09/B11,muerte fisica no retrovalida diagnostico,has_error_E07,PASS
+LAB-50,negativos,B09/B10,U no se degrada,u_no_degradation,PASS
+LAB-51,runner,B01-B11,todos los bancos tienen campos obligatorios,all_banks_integrity,PASS
+LAB-52,runner,B02-B11,todo caso critico tiene unidad primitivo y retorno,all_critical_units,PASS
+LAB-53,runner,B09-B10,negativos y U se comportan como deben,negative_and_u,PASS
+LAB-54,runner,B01-B11,salida global coincide con SG-01 a SG-04,global_summary,PASS

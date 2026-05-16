@@ -1,0 +1,12 @@
+id_banco,fichero,filas,descripcion,anchor
+B01,B01_observables.csv,14,B01 observables,sec-xvii-4
+B02,B02_transduccion.csv,6,B02 transduccion,sec-xvii-5
+B03,B03_mutaciones.csv,6,B03 mutaciones,sec-xvii-6
+B04,B04_enfermedad_reparacion.csv,6,B04 enfermedad reparacion,sec-xvii-7
+B05,B05_cancer_dominancia.csv,8,B05 cancer dominancia,sec-xvii-8
+B06,B06_inmunologia.csv,6,B06 inmunologia,sec-xvii-9
+B07,B07_genetica.csv,6,B07 genetica,sec-xvii-10
+B08,B08_canal_semantica.csv,7,B08 canal semantica,sec-xvii-11
+B09,B09_negativos_adversariales.csv,48,B09 negativos adversariales,sec-xvii-12
+B10,B10_u_legitimos.csv,6,B10 u legitimos,sec-xvii-13
+B11,B11_muerte_clausura.csv,5,B11 muerte clausura,sec-xvii-14

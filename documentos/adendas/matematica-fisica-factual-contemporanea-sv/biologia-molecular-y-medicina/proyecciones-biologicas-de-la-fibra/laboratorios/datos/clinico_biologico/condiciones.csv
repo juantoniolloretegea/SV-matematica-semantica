@@ -1,0 +1,17 @@
+id_caso,id_condicion,tipo,estado,fuerza,retorno_local
+HCL-LIM-01,HCL_PATTERN_CLASSIC,necesaria,0,corte,patron_clasico_no_conservado
+HCL-LIM-01,HCL_MORPH_SUPPORT,apoyo,1,sospecha,morfologia_sugestiva_no_concluyente
+HCL-LIM-01,HCL_ALT_B_SPLENIC,diferencial,U,residual,diferencial_B_esplenico_abierto
+HCL-LIM-02,HCL_CLASSIC_CONSERVATION,necesaria,0,corte,entidad_clasica_no_conservada
+HCL-LIM-02,HCL_LIKE_SUPPORT,apoyo,1,sospecha,rasgos_HCL_like_no_cierran_HCLc
+HCL-LIM-02,HCL_ALT_B,diferencial,U,residual,alternativa_B_abierta
+HCL-LIM-03,HCL_CRITICAL_DATA,necesaria,U,retorno,falta_dato_critico
+HCL-LIM-03,HCL_PARTIAL_MARKERS,apoyo,1,sospecha,marcadores_parciales_no_cierran
+CNS-LIM-01,CNS_MALIGNANT_HISTOLOGY,necesaria,0,corte,histologia_tumoral_refutada
+CNS-LIM-01,CNS_IMAGE_SUPPORT,apoyo,1,sospecha,imagen_grave_no_identidad
+CNS-LIM-01,CNS_ALT_LESION,diferencial,U,residual,lesion_alternativa_abierta
+CNS-LIM-02,CNS_TISSUE_MOLECULAR,necesaria,U,retorno,falta_identidad_tisular_molecular
+CNS-LIM-02,CNS_IMAGE_SUPPORT,apoyo,1,sospecha,imagen_no_cierra_malignidad
+CNS-LIM-03,GBM_IDHWT_CRITERIA,necesaria,0,corte,criterios_GBM_no_satisfechos
+CNS-LIM-03,CNS_INFILTRATIVE_SUPPORT,apoyo,1,sospecha,lesion_infiltrativa_no_cierra_GBM
+CNS-LIM-03,CNS_ALT_ENTITY,diferencial,U,residual,alternativa_CNS_abierta

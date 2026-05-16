@@ -1,0 +1,23 @@
+codigo,clase,descripcion,accion
+E-MAT-01,material,id ausente o duplicado,FAIL
+E-MAT-02,material,dominio no permitido,NO_APTO
+E-MAT-03,material,transductor ausente o incompatible,NO_APTO
+E-MAT-04,material,muestra ausente,NO_APTO
+E-MAT-05,material,método ausente,NO_APTO
+E-MAT-06,material,unidad o clase crítica ausente,NO_APTO
+E-MAT-07,material,estado inválido,FAIL
+E-MAT-08,material,condición necesaria ausente,U/no evaluable
+E-MAT-09,material,salida esperada ausente,no ejecutable
+E-MAT-10,material,retorno médico ausente,FAIL
+E-MAT-11,material,límite ausente,FAIL
+E-MAT-15,material,salida obtenida no coincide con esperada,FAIL
+E-DX-01,diagnóstico,apoyo usado como condición necesaria,FAIL
+E-DX-02,diagnóstico,condición necesaria en 0 aceptada,FAIL
+E-DX-03,diagnóstico,condición U cerrada como diagnóstico,FAIL
+E-DX-04,diagnóstico,imagen sustituye histología o molecular,FAIL
+E-DX-05,diagnóstico,morfología sustituye patrón constitutivo,FAIL
+E-DX-06,diagnóstico,muerte física usada como causa,FAIL
+E-DX-07,diagnóstico,alternativa diagnóstica inventada,FAIL
+E-DX-11,diagnóstico,U convertida en 0,FAIL
+E-DX-12,diagnóstico,U convertida en 1,FAIL
+E-DX-13,diagnóstico,negativo adversarial aceptado,FAIL

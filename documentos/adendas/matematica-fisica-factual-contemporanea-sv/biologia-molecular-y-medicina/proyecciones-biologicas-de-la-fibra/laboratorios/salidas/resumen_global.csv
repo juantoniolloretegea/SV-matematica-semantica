@@ -1,0 +1,13 @@
+metrica,esperado,obtenido,dictamen
+Bancos definidos,11,11,PASS
+Bancos con campos obligatorios,11,11,PASS
+Laboratorios definidos,54,54,PASS
+Laboratorios PASS,54,54,PASS
+Errores catalogados,48,48,PASS
+Errores detectados,48,48,PASS
+Negativos rechazados,48,48,PASS
+U degradadas,0,0,PASS
+Pases silenciosos,0,0,PASS
+Transductores rotos,0,0,PASS
+Extrapolaciones clinicas no autorizadas,0,0,PASS
+Dictamen global,PASS,PASS,PASS

@@ -1,0 +1,6 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B11,VIT-01,sistemico,muerte_fisica,paro no revertido,criterio_clinico,clase_tipada,X_VITAL,perdida_integracion,D_vital,retorno vital global perdido,1,Delta_claus,clausura_vital,PASS,muerte=causa previa,PASS,E-07,sec-xvii-14,1
+B11,VIT-02,etiologia,causa no cerrada,muerte con masa,clase_clinica,clase_tipada,X_VITAL,canal_etiologico,D_vital,causa no deducible por muerte,U,Delta_causa,U,U,muerte borra U causal,U,E-47,,1
+B11,VIT-03,celular,muerte celular,apoptosis,clase_celular,clase_tipada,X_BIO,apoptosis_tejido,D_cel,no muerte organismo,1,Delta_cel,clausura_celular,PASS,lesion=muerte fisica,PASS,E-29,,1
+B11,VIT-04,organico,fallo organico,funcion,%,razon,X_BIO,funcion_organo,D_org,no causa unica sin canal,U,Delta_org,U,U,organo=muerte,U,,,1
+B11,VIT-05,documental,certificado causal,causa documentada,documento,clase_documental,X_DOC,custodia,D_doc,metodo y traza presentes,1,Delta_doc_0,documento_apto,PASS,documento sin metodo,PASS,E-12,,1

@@ -1,0 +1,8 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B08,SEM-01,semantica,canal virus-celula,receptor funcional,clase_receptor,clase_tipada,X_SEM,virus_celula,D_sem,canal establecido,1,Delta_0,presemantica_proto_semantica,PASS,co-presencia=canal,PASS,E-39,sec-xvii-21,1
+B08,SEM-02,semantica,contacto sin retorno,contacto,clase_relacion,clase_tipada,X_SEM,contacto,D_sem,dialogo no cerrado,0,Delta_ret,no_dialogo,PASS,contacto=dialogo estructural,PASS,E-40,,1
+B08,SEM-03,semantica,senal sin retorno,senal,clase_senal,clase_tipada,X_SEM,senal,D_sem,retorno falta,U,Delta_ret,U,U,senal sin retorno=diagnostico,U,E-41,,1
+B08,SEM-04,semantica,diccionario sin canal,tabla terminologica,clase_semantica,clase_tipada,X_SEM,ausente,D_sem,no interaccion,0,Delta_canal,rechazo,PASS,diccionario sin canal=interaccion,PASS,E-22,,1
+B08,SEM-05,semantica,canal y transductor,relacion A-B,clase_relacion,clase_tipada,X_SEM,canal_A_B,D_sem,transductor distinto de canal,1,Delta_0,distincion_preservada,PASS,canal=transductor,PASS,E-21,,1
+B08,SEM-06,semantica,dialogo no antropomorfico,respuesta celular,clase_respuesta,clase_tipada,X_SEM,senal_respuesta,D_sem,respuesta sin lenguaje humano,1,Delta_0,dialogo estructural,PASS,antropomorfismo,PASS,,,1
+B08,SEM-07,semantica,galaxia-agujero negro,acrecion,masa/energia,UFM,X_PHYS,gravedad_acrecion,D_phys,canal fisico,1,Delta_0,dialogo_fisico_no_humano,PASS,co-presencia=canal,PASS,,,1

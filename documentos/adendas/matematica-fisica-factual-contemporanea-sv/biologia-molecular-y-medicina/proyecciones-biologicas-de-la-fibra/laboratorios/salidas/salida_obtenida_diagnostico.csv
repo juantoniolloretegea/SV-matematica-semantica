@@ -1,0 +1,7 @@
+id_caso,salida_obtenida,error0_obtenido,motivo,dictamen,errores
+HCL-LIM-01,0+U,true,patron_clasico_no_conservado,PASS,
+HCL-LIM-02,0+U,true,entidad_clasica_no_conservada,PASS,
+HCL-LIM-03,U,false,falta_dato_critico,PASS,
+CNS-LIM-01,0+U,true,histologia_tumoral_refutada,PASS,
+CNS-LIM-02,U,false,falta_identidad_tisular_molecular,PASS,
+CNS-LIM-03,0+U,true,criterios_GBM_no_satisfechos,PASS,

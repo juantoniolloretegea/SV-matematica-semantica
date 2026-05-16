@@ -1,0 +1,7 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B04,DIS-01,clinico,fiebre,temperatura,K,UFT,X_DIS,respuesta_inmune,D_dis,no cierra infeccion sola,U,Delta_clin,U,U,fiebre=infeccion cerrada,U,E-03,sec-xvii-17,1
+B04,DIS-02,infeccioso,cultivo positivo,UFC,UFC/mL,entidades/UFE3,X_DIS,muestra_lesion_clinica,D_dis,canal clinico requerido,U,Delta_canal,colonizacion_o_U,U,cultivo=sepsis sin canal,U,E-04,,1
+B04,DIS-03,autoinmune,inflamacion,PCR,mg/L,UFM/UFE3,X_DIS,inmunidad_tejido,D_dis,diana requerida,U,Delta_imm,U,U,inflamacion=autoinmunidad,U,E-05,,1
+B04,DIS-04,dolor,dolor sin marcador,escala,0-10,escala_tipada,X_DIS,sintoma,D_dis,retorno no lesional,U,Delta_sem,U,U,dolor sin marcador=no real,U,E-06,,1
+B04,DIS-05,reparacion,cicatriz,tejido reparado,clase_histologica,clase_tipada,X_BIO,reparacion,D_tis,secuela no enfermedad activa,1,Delta_sec,secuela,PASS,secuela=enfermedad activa,PASS,E-30,,1
+B04,DIS-06,reparacion,mejoria parcial,funcion,%,razon,X_DIS,reparacion,D_dis,curacion no absoluta,1,Delta_residual,mejoria con residual,PASS,reparacion=curacion absoluta,PASS,E-31,,1

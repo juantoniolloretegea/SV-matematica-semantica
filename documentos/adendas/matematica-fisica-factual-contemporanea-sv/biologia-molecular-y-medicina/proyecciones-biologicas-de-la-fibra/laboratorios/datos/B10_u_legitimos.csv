@@ -1,0 +1,7 @@
+id_banco,id_caso,dominio,observable,senal,unidad_externa,primitivo_sv,transductor,canal,diccionario,condicion,estado_condicion,residual,retorno,salida_esperada,negativo_principal,estado_esperado,error_codigo,anchor,critico
+B10,U-01,genetica,VUS,variante incierta,ACMG,clase_tipada,X_GEN,gen_fenotipo,D_gen,dato insuficiente sin contradiccion,U,Delta_U,U,U,U degradada a 0,U,E-16,sec-xvii-13,1
+B10,U-02,neuroclinica,imagen sin tejido,realce,mm,UFE,X_NEURO,imagen_histologia,D_neuro,identidad tisular ausente,U,Delta_U,U,U,U degradada a 1,U,E-17,,1
+B10,U-03,inmunologia,autoanticuerpo aislado,titulo,UI/mL,UFCE/UFE3,X_IMM,antigeno_tejido,D_imm,dano no retornado,U,Delta_U,U,U,autoanticuerpo=autoinmunidad,U,E-05,,1
+B10,U-04,microbiologia,colonizacion posible,UFC,UFC/mL,entidades/UFE3,X_BACT,muestra_contexto,D_bact,lesion ausente,U,Delta_U,U,U,colonizacion=infeccion,U,E-09,,1
+B10,U-05,oncologia,sospecha por marcador,concentracion,ng/mL,UFM/UFE3,X_ONC,biomarcador_contexto,D_onc,identidad no cerrada,U,Delta_U,U,U,marcador=cancer,U,E-10,,1
+B10,U-06,semantica,senal sin retorno,senal,clase_senal,clase_tipada,X_SEM,senal,D_sem,retorno ausente,U,Delta_U,U,U,senal=diagnostico,U,E-41,,1
