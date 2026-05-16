@@ -34,7 +34,11 @@ El orden de publicaciones sigue una cadena ascendente. Cada entrega abre un tram
 
 <details open>
 
-[P01 · Del protoindividuo a la relación, la norma y la sociedad constituida](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/protocomunidades-protosemantica-y-orden-compartido/protoindividuo-relacion-norma-sociedad)
+</details>
+<details>
+<summary>
+
+[P01 · Del protoindividuo a la relación, la norma y la sociedad constituida](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/protocomunidades-protosemantica-y-orden-compartido/protoindividuo-relacion-norma-sociedad) </summary>
 
 **Introducción al problema y estado de la cuestión previo.**  
 Los estudios sobre origen de la sociedad, primeras agrupaciones humanas, parentesco, cooperación, violencia, transmisión cultural y norma trabajan con evidencias heterogéneas: restos materiales, entierros, útiles, huellas de cuidado, signos de violencia, distribución espacial, trazas de parentesco, prácticas repetidas y continuidad arqueológica. El problema no es sólo qué se encontró, sino qué puede afirmarse legítimamente a partir de ello: individuo, relación, vínculo, protofamilia, grupo, comunidad, norma o sociedad.
