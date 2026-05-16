@@ -32,8 +32,6 @@ La regla de lectura es estricta: una agrupación no se declara comunidad por nom
 
 El orden de publicaciones sigue una cadena ascendente. Cada entrega abre un tramo, declara sus instrumentos de lectura, fija sus errores de plano y prepara el retorno al dominio científico correspondiente. La primera publicación formula el arco general; las siguientes desarrollan los estratos principales sin convertir ninguna vía lateral en fundamento autónomo.
 
-<details open>  
-
 </details>
 <details>
 <summary><strong>P01 · Del protoindividuo a la relación, la norma y la sociedad constituida</strong></summary>
