@@ -2,7 +2,7 @@
 
 ---
 
-**© 2026. Todos los derechos reservados.** | **Juan Antonio Lloret Egea** | **DOI** [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db) ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 05/05/2026 |
+**© 2026. Todos los derechos reservados.** | **Juan Antonio Lloret Egea** | **DOI** [Pendiente] ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 05/05/2026 |
 
 **Advertencia.** Esta publicación está protegida por **CEDRO** y su aplicación en el campo de la Física, la biología molecular y la medicina, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
 
