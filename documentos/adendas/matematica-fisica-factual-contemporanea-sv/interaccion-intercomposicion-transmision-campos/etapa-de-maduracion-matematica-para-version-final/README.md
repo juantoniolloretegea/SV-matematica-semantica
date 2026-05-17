@@ -42,6 +42,7 @@ Los conceptos directores de esta etapa son:
 - agotamiento local del gradiente;
 - ciclo Todo-Nada como régimen de tránsito.
 
+---
 Registro histórico
 
 ---
