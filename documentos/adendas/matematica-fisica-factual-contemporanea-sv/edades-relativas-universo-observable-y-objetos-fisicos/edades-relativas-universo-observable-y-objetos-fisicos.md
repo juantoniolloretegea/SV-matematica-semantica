@@ -22,12 +22,12 @@
 
 <a id="sec-definicion-append-only"></a>
 
-**ÍNDICE** (pulse sobre el desplegable **Resumen** para EL índice detallado)
+**ÍNDICE** (pulse sobre **Resumen** para visualizar el **índice detallado**)
 
 <details>
 <summary><strong>Resumen</strong></summary>
 
-- [Resumen](#resumen)
+- [**Resumen**](#resumen)
 
 - [Definición operativa de append-only](#definición-operativa-de-append-only)
 
