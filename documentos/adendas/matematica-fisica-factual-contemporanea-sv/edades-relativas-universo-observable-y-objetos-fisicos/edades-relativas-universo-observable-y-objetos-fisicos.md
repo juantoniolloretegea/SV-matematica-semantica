@@ -23,12 +23,12 @@
 <a id="sec-definicion-append-only"></a>
 
 
-## Índice
+Índice
 
 <details>
 <summary><strong>Índice conciliado de la publicación</strong></summary>
 
-- [Resumen](resumen)
+- [Resumen](#resumen)
 
 - [Definición operativa de append-only](#definición-operativa-de-append-only)
 
