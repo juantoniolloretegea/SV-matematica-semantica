@@ -3,9 +3,6 @@
 ![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/imagenes/Portada.png)
 
 
----<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/623bd9be-c63e-438c-9b18-4185bb574d61" />
-
-
 **Autor / Author:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
 **Sello editorial / Editorial imprint:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)  
