@@ -12,8 +12,6 @@
 
 #### Registro histórico
 
-Esta versión se conserva como publicación de maduración pública del Sistema Vectorial SV. El registro histórico externo se realizará mediante Internet Archive / Wayback Machine.
-
 [Registro histórico en Internet Archive / Wayback Machine ](https://web.archive.org/web/20260517172424/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/interaccion-intercomposicion-transmision-campos.md)
 
 ---
