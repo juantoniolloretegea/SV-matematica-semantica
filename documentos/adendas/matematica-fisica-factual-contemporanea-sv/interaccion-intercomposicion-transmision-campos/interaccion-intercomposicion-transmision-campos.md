@@ -6,18 +6,9 @@
 ---
 
 
-**Autor / Author:** Juan Antonio Lloret Egea  
-**ORCID:** 0000-0002-6634-3351  
-**Sello editorial / Editorial imprint:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)  
-**Publicación / Publication:** IA eñ™ — La Biblia de la IA™  
-**ISSN:** 2695-6411  
-**DOI de la publicación / Publication DOI:** [10.21428/39829d0b.293e914a](https://doi.org/10.21428/39829d0b.293e914a)  
-**DOI de la colección / Collection DOI:** [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)  
-**Licencia / License:** CC BY-NC-ND 4.0  
-**Copyright:** © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados / All rights reserved.  
-**Lugar y fecha / Place and date:** Madrid, 7 de mayo de 2026  
-**Nota editorial sobre la fecha:** la portada gráfica conserva la fecha `06/04/2026` por error material de composición. La fecha editorial y bibliográfica de esta versión es `07/05/2026`; para efectos bibliográficos, editoriales y de DOI debe tomarse como referencia: Madrid, 7 de mayo de 2026.
-
+**Autor / Author:** Juan Antonio Lloret Egea | **ORCID:** 0000-0002-6634-3351 | **Sello editorial / Editorial imprint:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | **Publicación / Publication:** IA eñ™ — La Biblia de la IA™  | **ISSN:** 2695-6411 | **DOI de la publicación / Publication DOI:** [10.21428/39829d0b.293e914a](https://doi.org/10.21428/39829d0b.293e914a)   | **DOI de la colección / Collection DOI:** [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)  | **Licencia / License:** CC BY-NC-ND 4.0  | **Copyright:** © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados / All rights reserved. | **Lugar y fecha / Place and date:** Madrid, 7 de mayo de 2026 | 
+---
+*Nota editorial sobre la fecha:* la portada gráfica conserva la fecha `06/04/2026` por error material de composición. La fecha editorial y bibliográfica de esta versión es `07/05/2026`; para efectos bibliográficos, editoriales y de DOI debe tomarse como referencia: Madrid, 7 de mayo de 2026.
 
 ---
 
