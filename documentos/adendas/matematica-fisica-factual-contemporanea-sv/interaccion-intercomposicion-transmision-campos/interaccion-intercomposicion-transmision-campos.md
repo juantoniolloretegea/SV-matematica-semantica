@@ -23,9 +23,9 @@ Esta versión se conserva inicialmente en GitHub como publicación de maduració
 
 ---
 
-## Publicación hija vinculada
+## Publicación - anexo vinculada
 
-El presente documento queda vinculado a la publicación hija **“Distancia absoluta y relativa entre observables del Universo”**, que desarrollará como anexo técnico subordinado el problema de la distancia absoluta y relativa entre observables físicos del universo, con especial atención a galaxias, retornos luminosos, corrimiento al rojo, distancias cosmológicas, velocidad recesional, factor de escala, transducción SV ↔ física contemporánea, residual, bancos negativos y dictamen de absorción total, absorción parcial o rechazo.
+El presente documento queda vinculado a la publicación **“Distancia absoluta y relativa entre observables del Universo”**, que desarrollará como anexo técnico subordinado el problema de la distancia absoluta y relativa entre observables físicos del universo, con especial atención a galaxias, retornos luminosos, corrimiento al rojo, distancias cosmológicas, velocidad recesional, factor de escala, transducción SV ↔ física contemporánea, residual, bancos negativos y dictamen de absorción total, absorción parcial o rechazo.
 
 **Carpeta canónica de la publicación hija:** [distancia-absoluta-relativa-observables-universo](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo)
 
