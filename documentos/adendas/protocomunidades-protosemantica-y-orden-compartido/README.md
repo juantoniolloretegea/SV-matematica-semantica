@@ -32,11 +32,10 @@ La regla de lectura es estricta: una agrupación no se declara comunidad por nom
 
 El orden de publicaciones sigue una cadena ascendente. Cada entrega abre un tramo, declara sus instrumentos de lectura, fija sus errores de plano y prepara el retorno al dominio científico correspondiente. La primera publicación formula el arco general; las siguientes desarrollan los estratos principales sin convertir ninguna vía lateral en fundamento autónomo.
 
-</details>
-<details>
-<summary><strong>Próxima publicación</strong> (pendiente)</summary>
+<details open>
+<summary><strong>P01 · Del protoindividuo a la relación, la norma y la sociedad constituida</strong></summary>
 
-[P01 · Del protoindividuo a la relación, la norma y la sociedad constituida](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/protocomunidades-protosemantica-y-orden-compartido/protoindividuo-relacion-norma-sociedad)
+[Carpeta e índice de trabajo en GitHub](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/protocomunidades-protosemantica-y-orden-compartido/protoindividuo-relacion-norma-sociedad)
 
 **Introducción al problema y estado de la cuestión previo.**  
 Los estudios sobre origen de la sociedad, primeras agrupaciones humanas, parentesco, cooperación, violencia, transmisión cultural y norma trabajan con evidencias heterogéneas: restos materiales, entierros, útiles, huellas de cuidado, signos de violencia, distribución espacial, trazas de parentesco, prácticas repetidas y continuidad arqueológica. El problema no es sólo qué se encontró, sino qué puede afirmarse legítimamente a partir de ello: individuo, relación, vínculo, protofamilia, grupo, comunidad, norma o sociedad.
@@ -123,13 +122,13 @@ Esta entrega introduce la lectura pericial del orden compartido. Una muerte, una
 <summary><strong>P07 · Sacralidad, instancia rectora y sentido compartido</strong></summary>
 
 **Introducción al problema y estado de la cuestión previo.**  
-Las comunidades humanas han organizado de forma recurrente origen, muerte, prohibición, culpa, pertenencia, autoridad, rito, violencia, alianza y memoria mediante instancias superiores: Dios, dioses, ancestros, tótems, espíritus, destino, cielo, ley sagrada, mito rector u órdenes secularizados. El problema no es decidir por nombre si una tradición es verdadera o falsa, sino distinguir cuándo lo sagrado constituye orden compartido, cuándo legitima poder, cuándo estructura norma, cuándo conserva memoria y cuándo se transforma o se rechaza.
+Las comunidades humanas han organizado de forma recurrente origen, muerte, prohibición, culpa, pertenencia, autoridad, rito, violencia, alianza y memoria mediante instancias superiores: Dios, dioses, ancestros, tótems, espíritus, destino, cielo, ley sagrada, mito rector u órdenes secularizados. El problema no es decidir por nombre si una tradición es verdadera o falsa, sino distinguir cuándo lo sagrado constituye orden compartido, cuándo legitima poder, cuándo estructura norma, cuándo conserva memoria y cuándo se transforma o se rechaza. Esta publicación abrirá además una cuestión formal previa: cómo puede pensarse una instancia rectora como unidad distinguible sin convertir esa unidad en identidad plana ni en dogma impuesto.
 
 **Instrumentos de lectura.**  
-`X_sac`, transductor de sacralidad y legitimación; matriz rito/mito/prohibición/mandato/muerte/culpa/origen/autoridad; residual de legitimación; tabla sacralidad constitutiva/sacralidad instrumental/sustitución secular/U.
+`X_sac`, transductor de sacralidad y legitimación; matriz rito/mito/prohibición/mandato/muerte/culpa/origen/autoridad; residual de legitimación; tabla sacralidad constitutiva/sacralidad instrumental/sustitución secular/U; y operador de lectura de unidad distinguible: `UniversoTotalidad → ε−0 → ε0`.
 
 **Resumen rector.**  
-Esta publicación no demuestra ni niega a Dios. Estudia la función rectora de lo sagrado en la constitución del orden compartido. Distingue experiencia mística, institución religiosa, legitimación política, violencia sacralizada, moral comunitaria, ley sagrada, ateísmo, sustitución secular y U. Su objetivo es impedir que religión se reduzca a poder, que poder se confunda con sacralidad completa o que la negación de Dios se tome como desaparición del problema del origen, del límite y del sentido.
+Esta publicación no demuestra ni niega a Dios. Estudia la función rectora de lo sagrado en la constitución del orden compartido. Distingue experiencia mística, institución religiosa, legitimación política, violencia sacralizada, moral comunitaria, ley sagrada, ateísmo, sustitución secular y U. Su apertura doctrinal formula una triada funcional: UniversoTotalidad como abstracción rectora de contención absoluta; ε−0 como borde preformal de primera distinguibilidad; y ε0 como suceso cero del régimen formal de sucesos y observables. No son tres entidades separadas ni una identidad material indiferenciada: son una misma cadena rectora distinguida por función. El lector puede leer esta estructura desde su plano filosófico, religioso, agnóstico o secular; el texto no impone creencia, no refuta creencia y no convierte la analogía teológica en prueba.
 
 </details>
 
