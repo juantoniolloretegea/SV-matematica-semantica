@@ -22,7 +22,7 @@
 
 <a id="sec-definicion-append-only"></a>
 
-**Índice** (pulse sobre el desplegable Resumen para índice detallado)
+**ÍNDICE** (pulse sobre el desplegable **Resumen** para EL índice detallado)
 
 <details>
 <summary><strong>Resumen</strong></summary>
