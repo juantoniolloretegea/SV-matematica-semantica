@@ -1,10 +1,11 @@
-# Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV: operadores `𝓘_SV` y `𝓣_SV`, distancia factual fibrosa, célula `SV(36,6)` y articulación serial con el corpus
+# Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV: operadores `𝓘_SV` y `𝓣_SV`, distancia factual fibrosa, célula `SV(36,6)` y articulación serial con el corpus  
 
 ![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/imagenes/Portada.png)
 
 <br>
 ---
 <br>
+
 
 **Autor / Author:** Juan Antonio Lloret Egea | **ORCID:** 0000-0002-6634-3351 | **Sello editorial / Editorial imprint:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | **Publicación / Publication:** IA eñ™ — La Biblia de la IA™  | **ISSN:** 2695-6411 | **DOI de la publicación / Publication DOI:** [10.21428/39829d0b.293e914a](https://doi.org/10.21428/39829d0b.293e914a)   | **DOI de la colección / Collection DOI:** [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)  | **Licencia / License:** CC BY-NC-ND 4.0  | **Copyright:** © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados / All rights reserved. | **Lugar y fecha / Place and date:** Madrid, 7 de mayo de 2026 | 
 ---
