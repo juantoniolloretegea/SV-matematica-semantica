@@ -10,7 +10,7 @@
 
 ---
 
-## Registro histórico de maduración pública
+#### Registro histórico
 
 Esta versión se conserva como publicación de maduración pública del Sistema Vectorial SV. El registro histórico externo se realizará mediante Internet Archive / Wayback Machine.
 
