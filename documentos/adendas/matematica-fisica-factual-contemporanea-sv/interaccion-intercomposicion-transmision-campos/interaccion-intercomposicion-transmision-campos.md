@@ -3,21 +3,27 @@
 ![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/imagenes/Portada.png)
 
 
+---
+
+
 **Autor / Author:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
 **Sello editorial / Editorial imprint:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)  
 **Publicación / Publication:** IA eñ™ — La Biblia de la IA™  
 **ISSN:** 2695-6411  
+**DOI de la publicación / Publication DOI:** [10.21428/39829d0b.293e914a](https://doi.org/10.21428/39829d0b.293e914a)  
+**DOI de la colección / Collection DOI:** [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)  
 **Licencia / License:** CC BY-NC-ND 4.0  
 **Copyright:** © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados / All rights reserved.  
-**Lugar y fecha / Place and date:** Madrid, mayo de 2026
+**Lugar y fecha / Place and date:** Madrid, 7 de mayo de 2026  
+**Nota editorial sobre la fecha:** la portada gráfica conserva la fecha `06/04/2026` por error material de composición. La fecha editorial y bibliográfica de esta versión es `07/05/2026`; para efectos bibliográficos, editoriales y de DOI debe tomarse como referencia: Madrid, 7 de mayo de 2026.
 
 
 ---
 
 ## Registro histórico de maduración pública
 
-Esta versión se conserva inicialmente en GitHub como publicación de maduración pública del Sistema Vectorial SV. En esta etapa no se asigna DOI. El registro histórico externo se realizará mediante Internet Archive / Wayback Machine.
+Esta versión se conserva como publicación de maduración pública del Sistema Vectorial SV. El registro histórico externo se realizará mediante Internet Archive / Wayback Machine.
 
 **Registro histórico en Internet Archive / Wayback Machine:** PENDIENTE-DE-REGISTRO.
 
@@ -29,9 +35,9 @@ El documento articula la interacción, la intercomposición y la transmisión fa
 
 **Palabras clave:** Sistema Vectorial SV, interacción entre campos, intercomposición de campos, transmisión factual entre campos, operador canónico `𝓘_SV`, operador de transmisión `𝓣_SV`, compuerta `Σ = 1 / Σ = 0`, asimetría direccional, residual estructural, dictamen ternario, distancia factual fibrosa `d^{SV}_Φ`, célula `SV(36,6)`, definición operativa de campo, función ordinal de campo, Ciclo de Suceso, capacidad factual de transmisión, articulación serial, teoría matemática de la comunicación.
 
-## *Abstract*
+## Abstract (English)
 
-*This document articulates field interaction, field intercomposition, and factual field transmission within the Vectorial System SV as three distinct canonical operations subordinated to the foundational chain of events and protofields of the corpus, without importing the inherited notion of free mixture, default commutative symmetry, chronological space-time as substrate, or founding probability. Before any operator there comes the ternary admissibility gate `Σ = 1 / Σ = 0`, which separates objects of the factual catalogue with legitimate factual manifestation over `Ω_pre` or over the system's trajectory (admissible generating fields) from objects of the SV's auxiliary mathematical apparatus (tools, transforms, projections, diagnostics, measurements, or verifiers). The six metrological primitives `UE_MFC, UFE, UFM, UFC, UFT, UFCE` are explicitly excluded from the field domain by their `Σ = 0` reading; they only provide measurement, dimension, normalisation, and eventual external equivalence, never genesis or interaction. The operational determination of field is sustained over the cell `SV(36,6)` of six families of six structural parameters with directing axis P0 = factual fibrous distance `d^{SV}_Φ`. The canonical interaction operator `𝓘_SV` is defined over the ordered domain `Π_SV^{2,ord}` of ordered pairs of distinct admissible fields, evaluated on a factual trajectory `Γ` and a declared frontier `F`, with codomain in the space `Σ_compuerta,SV` of ternary verdict gates, proper structural residual, and preservation of `U` as honest non-closure. Intercomposition operates on local factual fibrous distance profiles of admissible fields, articulated by the magnitude `DistInter^{SV}_{a,b}(Γ)`. Eight central theorems are articulated on this framework: five theorems of the interaction and intercomposition core, and three theorems of factual transmission. Theorems 1 to 5 fix domain admissibility, exclusion of `Σ = 0` tools, subordination of metrology, directional asymmetry, and exclusion of higher-order operators without explicit construction. Theorems 6 to 8 fix operational subordination of transmission, preservation of `U`, and factual distortion of the channel. The serial articulation with the corpus is explicit: the chain subordinates the operation to the foundational plane without possibility of return through the back door. Field ordinal function, Cycle of Event, and subsequent mapping with factual Fourier are articulated as verifiable horizons after the operational closure of residual and verdict. On this framework an additional fifth layer of factual transmission of field states is articulated, through the operator `𝓣_SV : X_SV → X'_SV` operating on declared factual states `X_SV = (C_Φ^{36}, 𝔇_Φ, Γ, F, R, D)` with encoding, factual channel, decoding, compound structural residual, and ternary verdict, articulated with Shannon's mathematical theory of communication (1948) under strict frontier of operational subordination. The declared status of the document is a consolidated starting point for the subsequent serial development of the corpus, with computational verification through twenty-eight reproducible laboratories. The serial inscription of this document is the seventh absorption of the corpus, after the preceding `E_0 = m_0 c^2`, Maxwell, factual light, Bell-Tsirelson, all-nothing, and factual hydrogen.*
+This document articulates field interaction, field intercomposition, and factual field transmission within the Vectorial System SV as three distinct canonical operations subordinated to the foundational chain of events and protofields of the corpus, without importing the inherited notion of free mixture, default commutative symmetry, chronological space-time as substrate, or founding probability. Before any operator there comes the ternary admissibility gate `Σ = 1 / Σ = 0`, which separates objects of the factual catalogue with legitimate factual manifestation over `Ω_pre` or over the system's trajectory (admissible generating fields) from objects of the SV's auxiliary mathematical apparatus (tools, transforms, projections, diagnostics, measurements, or verifiers). The six metrological primitives `UE_MFC, UFE, UFM, UFC, UFT, UFCE` are explicitly excluded from the field domain by their `Σ = 0` reading; they only provide measurement, dimension, normalisation, and eventual external equivalence, never genesis or interaction. The operational determination of field is sustained over the cell `SV(36,6)` of six families of six structural parameters with directing axis P0 = factual fibrous distance `d^{SV}_Φ`. The canonical interaction operator `𝓘_SV` is defined over the ordered domain `Π_SV^{2,ord}` of ordered pairs of distinct admissible fields, evaluated on a factual trajectory `Γ` and a declared frontier `F`, with codomain in the space `Σ_compuerta,SV` of ternary verdict gates, proper structural residual, and preservation of `U` as honest non-closure. Intercomposition operates on local factual fibrous distance profiles of admissible fields, articulated by the magnitude `DistInter^{SV}_{a,b}(Γ)`. Eight central theorems are articulated on this framework: five theorems of the interaction and intercomposition core, and three theorems of factual transmission. Theorems 1 to 5 fix domain admissibility, exclusion of `Σ = 0` tools, subordination of metrology, directional asymmetry, and exclusion of higher-order operators without explicit construction. Theorems 6 to 8 fix operational subordination of transmission, preservation of `U`, and factual distortion of the channel. The serial articulation with the corpus is explicit: the chain subordinates the operation to the foundational plane without possibility of return through the back door. Field ordinal function, Cycle of Event, and subsequent mapping with factual Fourier are articulated as verifiable horizons after the operational closure of residual and verdict. On this framework an additional fifth layer of factual transmission of field states is articulated, through the operator `𝓣_SV : X_SV → X'_SV` operating on declared factual states `X_SV = (C_Φ^{36}, 𝔇_Φ, Γ, F, R, D)` with encoding, factual channel, decoding, compound structural residual, and ternary verdict, articulated with Shannon's mathematical theory of communication (1948) under strict frontier of operational subordination. The declared status of the document is a consolidated starting point for the subsequent serial development of the corpus, with computational verification through twenty-eight reproducible laboratories. The serial inscription of this document is the seventh absorption of the corpus, after the preceding `E_0 = m_0 c^2`, Maxwell, factual light, Bell-Tsirelson, all-nothing, and factual hydrogen.
 
 **Keywords:** Vectorial System SV, field interaction, field intercomposition, factual field transmission, canonical operator `𝓘_SV`, transmission operator `𝓣_SV`, gate `Σ = 1 / Σ = 0`, directional asymmetry, structural residual, ternary verdict, factual fibrous distance `d^{SV}_Φ`, cell `SV(36,6)`, operational definition of field, field ordinal function, Cycle of Event, factual transmission capacity, serial articulation, mathematical theory of communication.
 
@@ -380,6 +386,8 @@ La detección de asimetría en la sensibilidad es indicador operativo de la asim
 ## 7. Distancia factual fibrosa local y global aplicadas al campo
 
 La distancia factual fibrosa entre dos sucesos consecutivos `d^{SV}_Φ`, su versión global `D^{SV}_Φ(Γ)` y el defecto telescópico `Δ^Φ_q` quedan definidos canónicamente en los apartados A.1.2, A.1.3 y A.1.4 del Anexo A, heredados del apartado 2.8 de la Teoría del TODO y de la NADA en el Sistema Vectorial SV. El presente apartado articula su lectura operativa específica para el dominio de interacción e intercomposición de campos.
+
+**Precisión terminológica y notacional.** En este apartado, por economía de escritura, el símbolo `Φ` se usa como observable factual fibroso declarado del campo admitido considerado; cuando sea necesario evitar ambigüedad, puede leerse como `Φ_C`, observable asociado a un campo factual `C ∈ 𝓕_SV^1`. Por tanto, `d^{SV}_Φ`, `D^{SV}_Φ(Γ)` y `Δ^Φ_q` miden cambio factual del observable sobre una trayectoria, no distancia espacial, no tiempo, no duración y no métrica física ordinaria. Esta distancia factual fibrosa no debe confundirse con la distancia factual estructural `dist(Γ_0,𝒞)` o `dist(i,𝒞)` utilizada en el régimen luminoso-gravitacional para proximidad entre trayectoria, posición y región, ni con el desplazamiento defectivo `Δ_R(Γ;Γ_0)` propio del régimen de agujero negro. La primera mide variación de observable sobre trayectoria; la segunda mide proximidad estructural; la tercera mide desplazamiento en espacio de defecto de régimen.
 
 ### 7.1. Lectura operativa sobre el campo
 
@@ -1636,6 +1644,8 @@ A.9. Cinco prevenciones contra interpretación indebida.
 
 A.10. Posición de `d^{SV}_Φ` en la cadena ascendente del corpus.
 
+A.11. Distancia absoluta y relativa entre observables del Universo.
+
 ---
 
 ## A.1. Aparato heredado del apartado 2.8 de la Teoría del TODO y de la NADA
@@ -2050,11 +2060,24 @@ La articulación serial con el documento de interacción e intercomposición de 
 Las seis absorciones precedentes del corpus (E_0 = m_0 c^2, Maxwell electromagnético, luz factual, Bell-Tsirelson, teoría del TODO y de la NADA, hidrógeno factual) operan también sobre niveles específicos de la cadena ascendente. La séptima absorción del corpus, articulada por el cuerpo del documento principal del que este Anexo forma parte, opera sobre el dominio operativo de la composición de campos como operación canónica dirigida con dominio explícito, codominio explícito, regla de resolución visible, residual estructural y dictamen ternario, apoyada operativamente en el aparato del Anexo A.
 
 ---
-27. Anexo A — Ampliación de la propuesta canónica introducida en la Teoría del TODO y de la NADA en el Sistema Vectorial SV: distancia factual fibrosa d^{SV}_Φ, célula SV(36,6) y definición operativa de campo.
 
-## Publicación - anexo vinculada
+## A.11. Distancia absoluta y relativa entre observables del Universo
 
-El presente documento queda vinculado a la publicación **“Distancia absoluta y relativa entre observables del Universo”**, que desarrollará como anexo técnico subordinado el problema de la distancia absoluta y relativa entre observables físicos del universo, con especial atención a galaxias, retornos luminosos, corrimiento al rojo, distancias cosmológicas, velocidad recesional, factor de escala, transducción SV ↔ física contemporánea, residual, bancos negativos y dictamen de absorción total, absorción parcial o rechazo.
+### Publicación-anexo vinculada
 
-**Carpeta canónica de la publicación vinculada:** [distancia-absoluta-relativa-observables-universo](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo)
+Este documento queda vinculado a la publicación **“Distancia absoluta y relativa entre observables del Universo”**, que desarrollará como anexo técnico subordinado el problema de la distancia absoluta y relativa entre observables físicos del universo, con especial atención a galaxias, retornos luminosos, corrimiento al rojo, distancias cosmológicas, velocidad recesional, factor de escala, transducción SV ↔ física contemporánea, residual, bancos negativos y dictamen de absorción total, absorción parcial o rechazo.
+
+**Carpeta de la publicación vinculada:** [distancia-absoluta-relativa-observables-universo](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo)
+
 ---
+
+**Palabras clave:** Sistema Vectorial SV, interacción entre campos, intercomposición de campos, transmisión factual entre campos, operador canónico `𝓘_SV`, operador de transmisión `𝓣_SV`, compuerta `Σ = 1 / Σ = 0`, asimetría direccional, residual estructural, dictamen ternario, distancia factual fibrosa `d^{SV}_Φ`, célula `SV(36,6)`, definición operativa de campo, función ordinal de campo, Ciclo de Suceso, capacidad factual de transmisión, articulación serial, teoría matemática de la comunicación.
+
+**Keywords:** Vectorial System SV, field interaction, field intercomposition, factual field transmission, canonical operator `𝓘_SV`, transmission operator `𝓣_SV`, gate `Σ = 1 / Σ = 0`, directional asymmetry, structural residual, ternary verdict, factual fibrous distance `d^{SV}_Φ`, cell `SV(36,6)`, operational definition of field, field ordinal function, Cycle of Event, factual transmission capacity, serial articulation, mathematical theory of communication.
+
+---
+
+**Advertencia.** Esta publicación está protegida por [**CEDRO**](https://www.cedro.org/english?lng=en) y su aplicación en el campo de la Física y la Química, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
+
+**Warning.** This publication is protected by [**CEDRO**](https://www.cedro.org/english?lng=en). Its application in the field of Physics and Chemistry, as well as any form of exploitation, reproduction, or use by companies, is subject to the author’s copyright and to the terms of the stated licence; reproduction, distribution, public communication or transformation of this work may only be carried out with authorisation from the right holders, except where permitted by law, and any commercial use without express authorisation is prohibited and strictly subject to the permitted licensing.
+
