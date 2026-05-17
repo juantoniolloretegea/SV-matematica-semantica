@@ -2050,6 +2050,8 @@ La articulación serial con el documento de interacción e intercomposición de 
 Las seis absorciones precedentes del corpus (E_0 = m_0 c^2, Maxwell electromagnético, luz factual, Bell-Tsirelson, teoría del TODO y de la NADA, hidrógeno factual) operan también sobre niveles específicos de la cadena ascendente. La séptima absorción del corpus, articulada por el cuerpo del documento principal del que este Anexo forma parte, opera sobre el dominio operativo de la composición de campos como operación canónica dirigida con dominio explícito, codominio explícito, regla de resolución visible, residual estructural y dictamen ternario, apoyada operativamente en el aparato del Anexo A.
 
 ---
+27. Anexo A — Ampliación de la propuesta canónica introducida en la Teoría del TODO y de la NADA en el Sistema Vectorial SV: distancia factual fibrosa d^{SV}_Φ, célula SV(36,6) y definición operativa de campo.
+
 ## Publicación - anexo vinculada
 
 El presente documento queda vinculado a la publicación **“Distancia absoluta y relativa entre observables del Universo”**, que desarrollará como anexo técnico subordinado el problema de la distancia absoluta y relativa entre observables físicos del universo, con especial atención a galaxias, retornos luminosos, corrimiento al rojo, distancias cosmológicas, velocidad recesional, factor de escala, transducción SV ↔ física contemporánea, residual, bancos negativos y dictamen de absorción total, absorción parcial o rechazo.
