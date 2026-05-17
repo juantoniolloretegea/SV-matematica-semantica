@@ -23,7 +23,7 @@
 <a id="sec-definicion-append-only"></a>
 
 
-Índice
+##Índice
 
 <details>
 <summary><strong>Índice conciliado de la publicación</strong></summary>
@@ -380,7 +380,7 @@
 </details>
 
 </details>
-## Resumen
+Resumen
 
 La expresión «edad del Universo» es físicamente útil, pero conceptualmente imprecisa si no se distingue entre totalidad absoluta, universo observable y objetos físicos contenidos en dominios observables. Una edad física exige dominio declarado, frontera de formación, trayectoria o acumulación interna, magnitud de medida, criterio de contraste y retorno observacional. Por ello, la totalidad absoluta no puede recibir edad física en el mismo sentido que una galaxia, una estrella, una señal luminosa, una firma espectral o una estructura atómica persistente. No comparece como objeto dentro de un dominio mayor, no posee exterior físico de comparación y no admite trayectoria externa desde la cual medir su formación. El análisis sostiene que la pregunta rigurosa no es «cuál es la edad del Universo», sino cuál es la edad concreta del observable retornado con firma física persistente. El problema queda así desplazado desde una atribución absoluta a la totalidad hacia una familia de edades relativas de dominios internos: prehidrógeno, hidrógeno, estrellas, galaxias, señales luminosas, mapas profundos y retornos observacionales. La física contemporánea mide con gran potencia esos retornos mediante telescopios, espectros, mapas cósmicos, galaxias profundas, líneas de hidrógeno, radiación y modelos de distancia. La formulación reformula el plano de atribución de edad mediante transductores entre magnitudes físicas, unidades, dominios, residuales y retornos controlados. El resultado central distingue tres niveles. Primero: la totalidad absoluta no posee edad física admisible. Segundo: el universo observable es un dominio físico interno y sí admite edades relativas de sus contenidos. Tercero: la edad concreta del observable retornado con firma prehidrógeno/hidrógeno persistente queda fijada, bajo el contraste transductivo desarrollado, en 13.800.000.000 años julianos, equivalentes a 3.919.453.920.000.000.000 unidades elementales del medidor factual de ciclo. Esta cifra no se presenta como edad ontológica de la totalidad, sino como edad física concreta del observable retornado. El análisis parte de una primera línea de contención formal: no tiempo como fundamento, no probabilidad como criterio de verdad, no estadística como clausura, no inferencia opaca, no geometría con rango fundante y no cierre favorable por ausencia de refutación. Sobre esa contención se introduce la terna (0,1,U): (0) y (1) designan salidas polares de lectura formal, mientras que (U) conserva la no clausura honesta cuando el dominio, el residual o el retorno no permiten una decisión legítima. Esta terna no sustituye a las magnitudes físicas; disciplina su lectura. La física entra por sus unidades, métricas y observables. El cierre sólo se admite cuando dominio, codominio, invariantes, residual, matriz de contraste, retorno físico y laboratorio reproducible quedan declarados.
 
