@@ -28,7 +28,7 @@
 **Índice general de la publicación**
 
 - Definición operativa de append-only
-- 0. Problema físico real: la expresión «edad del Universo» es imprecisa
+- 0 Problema físico real: la expresión «edad del Universo» es imprecisa
 - I. Ubicación doctrinal de la fórmula canónica de edad en la cadena de fórmulas absolutas del SV
 - II. Estado del arte físico contemporáneo
 - III. Tabla de edades relativas
