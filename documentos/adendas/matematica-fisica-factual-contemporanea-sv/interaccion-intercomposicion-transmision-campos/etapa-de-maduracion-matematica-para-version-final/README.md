@@ -46,5 +46,5 @@ Los conceptos directores de esta etapa son:
 Registro histórico
 
 ---
-[Registro histórico en Internet Archive / Wayback Machine:](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/README.md )
+#### [Registro histórico en Internet Archive / Wayback Machine:](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/README.md )
 ---
