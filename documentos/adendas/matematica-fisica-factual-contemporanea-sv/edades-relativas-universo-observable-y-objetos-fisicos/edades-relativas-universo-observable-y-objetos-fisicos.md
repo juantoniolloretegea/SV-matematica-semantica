@@ -2,7 +2,7 @@
 
 ## Teoría de la edad de todos los objetos del Universo Observable · Biología molecular y medicina: del par estructural a la célula viva
 
-![Portada de la publicación](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/imagenes/portada.png)
+![Portada de la publicación](imagenes/portada.png)
 
 - Autor: [Juan Antonio Lloret Egea](https://www.linkedin.com/in/juanantoniolloretegea/)
 - ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)
@@ -11,7 +11,7 @@
 - Licencia: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 - Fecha: Madrid, 14/05/2026
 - DOI de la publicación PubPub: [10.21428/39829d0b.b56ed853](https://doi.org/10.21428/39829d0b.b56ed853)
-- Release PubPub: [Release 3](https://www.itvia.online/pub/edades-relativas-del-universo-observable-y-de-sus-objetos-fisicos/release/3)
+- Release PubPub: [Release 2](https://www.itvia.online/pub/edades-relativas-del-universo-observable-y-de-sus-objetos-fisicos/release/2)
 - Colección PubPub «El Universo»: [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)
 - URL de colección: [https://www.itvia.online/el-universo](https://www.itvia.online/el-universo)
 - Repositorio doctrinal: [SV-matematica-semantica](https://juantoniolloretegea.github.io/SV-matematica-semantica/)
@@ -25,27 +25,361 @@
 
 ## Índice
 
-**Índice general de la publicación**
+<details>
+<summary><strong>Índice conciliado de la publicación</strong></summary>
 
-- Definición operativa de append-only
-- 0 Problema físico real: la expresión «edad del Universo» es imprecisa
-- I. Ubicación doctrinal de la fórmula canónica de edad en la cadena de fórmulas absolutas del SV
-- II. Estado del arte físico contemporáneo
-- III. Tabla de edades relativas
-- IV. Transductores
-- V. Métricas
-- VI. Contraste físico y tablas de verificación
-- Anexo I. Teorema, demostración y cálculo exacto del ciclo observable y de sus objetos físicos
-- Anexo II. Contraste solar, elevación al universo observable y acotación de error cero
-- VII. Resultado
-- VIII. Conclusión
-- IX. Teoría de la edad de todos los objetos del Universo Observable
-- X. Síntesis final de cierre
-- XI. Anexo técnico reproducible: datos, laboratorios y trazabilidad
-- XII. Glosario técnico SV ↔ física contemporánea
-- XIII. Laboratorios reproducibles
-- XIV. Bibliografía
+- [Resumen](#resumen)
 
+- [Definición operativa de append-only](#definición-operativa-de-append-only)
+
+<details>
+<summary><strong><a href="#0-problema-físico-real-la-expresión-edad-del-universo-es-imprecisa">0. Problema físico real: la expresión «edad del Universo» es imprecisa</a></strong></summary>
+
+- [0.1. Qué significa físicamente atribuir edad](#01-qué-significa-físicamente-atribuir-edad)
+- [0.2. Dos sentidos de «universo»](#02-dos-sentidos-de-universo)
+- [0.3. Primera línea de contención: prohibiciones formales](#03-primera-línea-de-contención-prohibiciones-formales)
+- [0.4. La terna (0,1,U) como disciplina de lectura formal](#04-la-terna-01u-como-disciplina-de-lectura-formal)
+- [0.5. La totalidad absoluta no es objeto físico interno](#05-la-totalidad-absoluta-no-es-objeto-físico-interno)
+- [0.6. Qué sí posee edad física](#06-qué-sí-posee-edad-física)
+- [0.7. Tesis central y resultado anunciado](#07-tesis-central-y-resultado-anunciado)
+</details>
+
+<details>
+<summary><strong><a href="#i-ubicación-doctrinal-de-la-fórmula-canónica-de-edad-en-la-cadena-de-fórmulas-absolutas-del-sv">I. Ubicación doctrinal de la fórmula canónica de edad en la cadena de fórmulas absolutas del SV</a></strong></summary>
+
+- [I.1. Estatuto del apartado](#i1-estatuto-del-apartado)
+- [I.2. Suelo formal y techo doctrinal](#i2-suelo-formal-y-techo-doctrinal)
+- [I.3. Criterio de inclusión en la cadena doctrinal](#i3-criterio-de-inclusión-en-la-cadena-doctrinal)
+- [I.4. Cadena doctrinal absoluta del SV](#i4-cadena-doctrinal-absoluta-del-sv)
+- [I.5. Niveles doctrinales](#i5-niveles-doctrinales)
+- [I.6. Teorema de nivel exacto de 𝓔age](#i6-teorema-de-nivel-exacto-de-𝓔age)
+- [I.7. Criterio de incorporación de desarrollos posteriores](#i7-criterio-de-incorporación-de-desarrollos-posteriores)
+- [I.8. Síntesis doctrinal](#i8-síntesis-doctrinal)
+- [Índice de fórmulas centrales](#índice-de-fórmulas-centrales)
+</details>
+
+<details>
+<summary><strong><a href="#ii-estado-del-arte-físico-contemporáneo">II. Estado del arte físico contemporáneo</a></strong></summary>
+
+- [II.1. Hubble, James Webb y profundidad observacional](#ii1-hubble-james-webb-y-profundidad-observacional)
+- [II.2. Galaxias profundas y mapas cósmicos](#ii2-galaxias-profundas-y-mapas-cósmicos)
+- [II.3. Señales luminosas, horizonte y retorno físico](#ii3-señales-luminosas-horizonte-y-retorno-físico)
+- [II.4. Hidrógeno, prehidrógeno y firmas espectrales](#ii4-hidrógeno-prehidrógeno-y-firmas-espectrales)
+- [II.5. Estrellas, púlsares y portadores físicos persistentes](#ii5-estrellas-púlsares-y-portadores-físicos-persistentes)
+- [II.6. La expresión convencional «edad del Universo» en cosmología física](#ii6-la-expresión-convencional-edad-del-universo-en-cosmología-física)
+- [II.7. Lectura preliminar del estado del arte](#ii7-lectura-preliminar-del-estado-del-arte)
+</details>
+
+<details>
+<summary><strong><a href="#iii-tabla-de-edades-relativas">III. Tabla de edades relativas</a></strong></summary>
+
+- [III.1. Finalidad de la tabla](#iii1-finalidad-de-la-tabla)
+- [III.2. Tabla general de admisibilidad de edad](#iii2-tabla-general-de-admisibilidad-de-edad)
+- [III.3. Totalidad absoluta: edad no admisible](#iii3-totalidad-absoluta-edad-no-admisible)
+- [III.4. Universo observable: dominio físico interno](#iii4-universo-observable-dominio-físico-interno)
+- [III.5. Galaxias: objetos físicos persistentes](#iii5-galaxias-objetos-físicos-persistentes)
+- [III.6. Estrellas: objetos físicos persistentes](#iii6-estrellas-objetos-físicos-persistentes)
+- [III.7. Hidrógeno: firma atómica persistente](#iii7-hidrógeno-firma-atómica-persistente)
+- [III.8. Prehidrógeno: transición transductiva](#iii8-prehidrógeno-transición-transductiva)
+- [III.9. Retorno luminoso: señal física](#iii9-retorno-luminoso-señal-física)
+- [III.10. Tabla general de dominio, métrica, unidad, residual y lectura formal](#iii10-tabla-general-de-dominio-métrica-unidad-residual-y-lectura-formal)
+- [III.11. Consecuencia formal](#iii11-consecuencia-formal)
+</details>
+
+<details>
+<summary><strong><a href="#iv-transductores">IV. Transductores</a></strong></summary>
+
+- [IV.1. Función de los transductores en la formulación](#iv1-función-de-los-transductores-en-la-formulación)
+- [IV.2. Dominio y codominio](#iv2-dominio-y-codominio)
+- [IV.3. Observable físico](#iv3-observable-físico)
+- [IV.4. Unidad SI y unidad SV](#iv4-unidad-si-y-unidad-sv)
+- [IV.5. Residual y lectura formal](#iv5-residual-y-lectura-formal)
+- [IV.6. Retorno físico controlado](#iv6-retorno-físico-controlado)
+- [IV.7. Transductor de edad relativa del contenido observable](#iv7-transductor-de-edad-relativa-del-contenido-observable)
+- [IV.8. Transductor prehidrógeno/hidrógeno](#iv8-transductor-prehidrógenohidrógeno)
+- [IV.9. Error absoluto de plano, definición y transducción](#iv9-error-absoluto-de-plano-definición-y-transducción)
+- [IV.10. Síntesis](#iv10-síntesis)
+</details>
+
+<details>
+<summary><strong><a href="#v-métricas">V. Métricas</a></strong></summary>
+
+- [V.1. Función de las métricas](#v1-función-de-las-métricas)
+- [V.2. Profundidad luminosa](#v2-profundidad-luminosa)
+- [V.3. Firma espectral](#v3-firma-espectral)
+- [V.4. Persistencia estructural](#v4-persistencia-estructural)
+- [V.5. Frontera](#v5-frontera)
+- [V.6. Residual](#v6-residual)
+- [V.7. Identidad física](#v7-identidad-física)
+- [V.8. Retorno observacional](#v8-retorno-observacional)
+- [V.9. Edad relativa](#v9-edad-relativa)
+- [V.10. Error absoluto de plano, definición y transducción](#v10-error-absoluto-de-plano-definición-y-transducción)
+- [V.11. Tabla sintética de métricas](#v11-tabla-sintética-de-métricas)
+- [V.12. Síntesis](#v12-síntesis)
+</details>
+
+<details>
+<summary><strong><a href="#vi-contraste-físico-y-tablas-de-verificación">VI. Contraste físico y tablas de verificación</a></strong></summary>
+
+- [VI.1. Función del contraste físico](#vi1-función-del-contraste-físico)
+- [VI.2. Dominios y admisibilidad de edad](#vi2-dominios-y-admisibilidad-de-edad)
+- [VI.3. Equivalencias SI ↔︎ SV](#vi3-equivalencias-si-↔︎-sv)
+- [VI.4. Lectura de residuales](#vi4-lectura-de-residuales)
+- [VI.5. Criterios de lectura formal](#vi5-criterios-de-lectura-formal)
+- [VI.6. Hubble y Webb: retornos físicos profundos](#vi6-hubble-y-webb-retornos-físicos-profundos)
+- [VI.7. Galaxias profundas y edades de contenido](#vi7-galaxias-profundas-y-edades-de-contenido)
+- [VI.8. Estrellas como portadores de edad física](#vi8-estrellas-como-portadores-de-edad-física)
+- [VI.9. Púlsares y señales periódicas persistentes](#vi9-púlsares-y-señales-periódicas-persistentes)
+- [VI.10. Hidrógeno como firma atómica persistente](#vi10-hidrógeno-como-firma-atómica-persistente)
+- [VI.11. Prehidrógeno como transición material](#vi11-prehidrógeno-como-transición-material)
+- [VI.12. Lyman-α como firma espectral](#vi12-lyman-α-como-firma-espectral)
+- [VI.13. Línea de 21 cm como retorno de hidrógeno neutro](#vi13-línea-de-21-cm-como-retorno-de-hidrógeno-neutro)
+- [VI.14. Mapas cósmicos como conjuntos de retornos](#vi14-mapas-cósmicos-como-conjuntos-de-retornos)
+- [VI.15. Modelo cosmológico como marco instrumental](#vi15-modelo-cosmológico-como-marco-instrumental)
+- [VI.16. Controles negativos de contraste](#vi16-controles-negativos-de-contraste)
+- [VI.17. Casos positivos del resultado](#vi17-casos-positivos-del-resultado)
+- [VI.18. Comparación del resultado por planos](#vi18-comparación-del-resultado-por-planos)
+- [VI.19. Trazabilidad textual de los casos](#vi19-trazabilidad-textual-de-los-casos)
+- [VI.20. Esquema CSV de los datos de contraste](#vi20-esquema-csv-de-los-datos-de-contraste)
+- [VI.21. Códigos de error del contraste](#vi21-códigos-de-error-del-contraste)
+- [VI.22. Tabla de salida global esperada](#vi22-tabla-de-salida-global-esperada)
+- [VI.23. Suficiencia del contraste declarativo](#vi23-suficiencia-del-contraste-declarativo)
+- [VI.24. No atribución de edad a la totalidad absoluta](#vi24-no-atribución-de-edad-a-la-totalidad-absoluta)
+- [VI.25. Atribución de edad al contenido observable](#vi25-atribución-de-edad-al-contenido-observable)
+- [VI.26. Observable retornado concreto retornado](#vi26-observable-retornado-concreto-retornado)
+- [VI.27. Conversión exacta del resultado](#vi27-conversión-exacta-del-resultado)
+- [VI.28. Síntesis](#vi28-síntesis)
+</details>
+
+- [Anexo I. Teorema, demostración y cálculo exacto del ciclo observable y de sus objetos físicos](#anexo-i-teorema-demostración-y-cálculo-exacto-del-ciclo-observable-y-de-sus-objetos-físicos)
+
+- [Anexo II. Contraste solar, elevación al universo observable y acotación de error cero](#anexo-ii-contraste-solar-elevación-al-universo-observable-y-acotación-de-error-cero)
+
+<details>
+<summary><strong><a href="#conclusión-conjunta-de-los-anexos-i-y-ii">Conclusión conjunta de los Anexos I y II</a></strong></summary>
+
+- [C.1. Lectura rectora](#c1-lectura-rectora)
+- [C.2. Tabla maestra SV ↔︎ Física contemporánea](#c2-tabla-maestra-sv-↔︎-física-contemporánea)
+- [C.3. Diferencias singulares en años julianos y unidades SV](#c3-diferencias-singulares-en-años-julianos-y-unidades-sv)
+- [C.4. Lectura específica: Sol](#c4-lectura-específica-sol)
+- [C.5. Lectura específica: Sistema Solar](#c5-lectura-específica-sistema-solar)
+- [C.6. Lectura específica: Vía Láctea-entorno](#c6-lectura-específica-vía-láctea-entorno)
+- [C.7. Lectura específica: observable retornado](#c7-lectura-específica-observable-retornado)
+- [C.8. Teorema de cierre conjunto](#c8-teorema-de-cierre-conjunto)
+- [C.9. Acotación final de error cero](#c9-acotación-final-de-error-cero)
+- [C.10. Conclusión fuerte](#c10-conclusión-fuerte)
+- [C.11. Controles negativos de contraste](#c11-controles-negativos-de-contraste)
+- [C.11.1. Tabla general de controles negativos](#c111-tabla-general-de-controles-negativos)
+- [C.11.2. Control negativo de plano](#c112-control-negativo-de-plano)
+- [C.11.3. Control negativo de definición](#c113-control-negativo-de-definición)
+- [C.11.4. Control negativo de transducción SI ↔︎ SV](#c114-control-negativo-de-transducción-si-↔︎-sv)
+- [C.11.5. Control negativo aritmético](#c115-control-negativo-aritmético)
+- [C.11.6. Control negativo de fracciones](#c116-control-negativo-de-fracciones)
+- [C.11.7. Control negativo de Sol, Sistema Solar, Vía Láctea y contenido observable](#c117-control-negativo-de-sol-sistema-solar-vía-láctea-y-contenido-observable)
+- [C.11.8. Control negativo de laboratorio](#c118-control-negativo-de-laboratorio)
+- [C.11.9. Necesidad de controles negativos](#c119-necesidad-de-controles-negativos)
+- [C.11.10. Síntesis de los controles negativos](#c1110-síntesis-de-los-controles-negativos)
+</details>
+
+<details>
+<summary><strong><a href="#vii-resultado">VII. Resultado</a></strong></summary>
+
+- [VII.1. Estatuto del resultado](#vii1-estatuto-del-resultado)
+- [VII.2. Teorema VI.1. Exclusión de factor externo sobre el ciclo observable total](#vii2-teorema-vi1-exclusión-de-factor-externo-sobre-el-ciclo-observable-total)
+- [VII.3. Teorema VI.2. Imperfección, suceso activador y ausencia de exterior inicial](#vii3-teorema-vi2-imperfección-suceso-activador-y-ausencia-de-exterior-inicial)
+- [VII.4. Corolario VI.1. De atribución relativa a edad concreta](#vii4-corolario-vi1-de-atribución-relativa-a-edad-concreta)
+- [VII.5. Resultado principal en física contemporánea](#vii5-resultado-principal-en-física-contemporánea)
+- [VII.6. Resultado principal en unidades SV](#vii6-resultado-principal-en-unidades-sv)
+- [VII.7. Fin concreto del ciclo observable](#vii7-fin-concreto-del-ciclo-observable)
+- [VII.8. Teorema VI.3. Reducción al absurdo de la no concreción del valor](#vii8-teorema-vi3-reducción-al-absurdo-de-la-no-concreción-del-valor)
+- [VII.9. Tabla principal de resultado concreto](#vii9-tabla-principal-de-resultado-concreto)
+- [VII.10. Tabla comparativa de dominios internos](#vii10-tabla-comparativa-de-dominios-internos)
+- [VII.11. Diferencias singulares](#vii11-diferencias-singulares)
+- [VII.12. Teorema VI.4. Error cero del resultado concreto](#vii12-teorema-vi4-error-cero-del-resultado-concreto)
+- [VII.13. Control negativo específico del resultado](#vii13-control-negativo-específico-del-resultado)
+- [VII.14. Síntesis final del resultado](#vii14-síntesis-final-del-resultado)
+</details>
+
+<details>
+<summary><strong><a href="#viii-conclusión">VIII. Conclusión</a></strong></summary>
+
+- [VIII.1. Corrección final del objeto de edad](#viii1-corrección-final-del-objeto-de-edad)
+- [VIII.2. Resultado final en física contemporánea](#viii2-resultado-final-en-física-contemporánea)
+- [VIII.3. Resultado final en unidades SV](#viii3-resultado-final-en-unidades-sv)
+- [VIII.4. Fin de ciclo del observable retornado](#viii4-fin-de-ciclo-del-observable-retornado)
+- [VIII.5. Lectura por dominios físicos internos](#viii5-lectura-por-dominios-físicos-internos)
+- [VIII.6. Tabla final SV ↔︎ física contemporánea](#viii6-tabla-final-sv-↔︎-física-contemporánea)
+- [VIII.7. Error cero](#viii7-error-cero)
+- [VIII.8. Reducción final al absurdo](#viii8-reducción-final-al-absurdo)
+- [VIII.9. Conclusión final](#viii9-conclusión-final)
+</details>
+
+<details>
+<summary><strong><a href="#ix-teoría-de-la-edad-de-todos-los-objetos-del-universo-observable">IX. Teoría de la edad de todos los objetos del Universo Observable</a></strong></summary>
+
+- [IX.1. Estatuto de la teoría](#ix1-estatuto-de-la-teoría)
+- [IX.2. Definición fundamental](#ix2-definición-fundamental)
+- [IX.3. Transductor fundamental SV ↔︎ Física contemporánea](#ix3-transductor-fundamental-sv-↔︎-física-contemporánea)
+- [IX.4. Fórmula canónica absoluta](#ix4-fórmula-canónica-absoluta)
+- [IX.5. Fórmula explícita](#ix5-fórmula-explícita)
+- [IX.6. Fórmula implícita](#ix6-fórmula-implícita)
+- [IX.7. Fórmula paramétrica](#ix7-fórmula-paramétrica)
+- [IX.8. Fórmula punto-pendiente](#ix8-fórmula-punto-pendiente)
+- [IX.9. Teorema VIII.1. Unidad de la teoría](#ix9-teorema-viii1-unidad-de-la-teoría)
+- [IX.10. Teorema VIII.2. Error cero de la fórmula canónica](#ix10-teorema-viii2-error-cero-de-la-fórmula-canónica)
+- [IX.11. Teorema VIII.3. Reducción al absurdo de la no unicidad](#ix11-teorema-viii3-reducción-al-absurdo-de-la-no-unicidad)
+- [IX.12. Comprobación desde la fórmula de todos los valores expuestos](#ix12-comprobación-desde-la-fórmula-de-todos-los-valores-expuestos)
+- [IX.13. Comprobación de los tramos restantes desde la fórmula](#ix13-comprobación-de-los-tramos-restantes-desde-la-fórmula)
+- [IX.14. Comprobación de fracciones desde la fórmula paramétrica](#ix14-comprobación-de-fracciones-desde-la-fórmula-paramétrica)
+- [IX.15. Tabla de controles negativos de la teoría](#ix15-tabla-de-controles-negativos-de-la-teoría)
+- [IX.16. Necesidad de los controles negativos](#ix16-necesidad-de-los-controles-negativos)
+- [IX.17. Teorema VIII.5. Contraste de teoría única](#ix17-teorema-viii5-contraste-de-teoría-única)
+- [IX.18. Síntesis de la teoría](#ix18-síntesis-de-la-teoría)
+</details>
+
+<details>
+<summary><strong><a href="#x-síntesis-final-de-cierre">X. Síntesis final de cierre</a></strong></summary>
+
+- [X.1. Tesis cerrada](#x1-tesis-cerrada)
+- [X.2. Fórmula única de cierre](#x2-fórmula-única-de-cierre)
+- [X.3. Tabla final de dominios](#x3-tabla-final-de-dominios)
+- [X.4. Tabla final SV ↔︎ física contemporánea](#x4-tabla-final-sv-↔︎-física-contemporánea)
+- [X.5. Error cero](#x5-error-cero)
+- [X.6. Reducción final al absurdo](#x6-reducción-final-al-absurdo)
+- [X.7. Síntesis final](#x7-síntesis-final)
+</details>
+
+<details>
+<summary><strong><a href="#xi-anexo-técnico-reproducible-datos-laboratorios-y-trazabilidad">XI. Anexo técnico reproducible: datos, laboratorios y trazabilidad</a></strong></summary>
+
+- [XI.1. Estatuto del anexo técnico](#xi1-estatuto-del-anexo-técnico)
+- [XI.2. Registros preservados y función de cada archivo](#xi2-registros-preservados-y-función-de-cada-archivo)
+- [XI.3. Cierre reproducible de los datos declarativos](#xi3-cierre-reproducible-de-los-datos-declarativos)
+- [XI.4. Resultado esperado global](#xi4-resultado-esperado-global)
+- [XI.5. Separación entre lectura científica y reproducción técnica](#xi5-separación-entre-lectura-científica-y-reproducción-técnica)
+</details>
+
+<details>
+<summary><strong><a href="#xii-glosario-técnico-sv-↔︎-física-contemporánea">XII. Glosario técnico SV ↔︎ física contemporánea</a></strong></summary>
+
+- [XII.1. Estatuto del glosario](#xii1-estatuto-del-glosario)
+- [XII.2. Glosario rector](#xii2-glosario-rector)
+- [XII.3. Glosario de dominios físicos](#xii3-glosario-de-dominios-físicos)
+- [XII.4. Glosario de fórmulas](#xii4-glosario-de-fórmulas)
+- [XII.5. Glosario de errores](#xii5-glosario-de-errores)
+- [XII.6. Glosario de equivalencias SV ↔︎ física contemporánea](#xii6-glosario-de-equivalencias-sv-↔︎-física-contemporánea)
+- [XII.7. Glosario de lecturas formales](#xii7-glosario-de-lecturas-formales)
+- [XII.8. Glosario de controles negativos](#xii8-glosario-de-controles-negativos)
+- [XII.9. Glosario de lectura final](#xii9-glosario-de-lectura-final)
+- [XII.10. Cierre terminológico](#xii10-cierre-terminológico)
+- [Cierre canónico de resultado](#cierre-canónico-de-resultado)
+</details>
+
+<details>
+<summary><strong><a href="#anexo-iii-biología-molecular-y-medicina-del-par-estructural-a-la-célula-viva">Anexo III. Biología molecular y medicina: del par estructural a la célula viva</a></strong></summary>
+
+<details>
+<summary><a href="#iii1-entrada-biomolecular-por-qué-el-par-importa-antes-de-hablar-de-célula">III.1. Entrada biomolecular: por qué el par importa antes de hablar de célula</a></summary>
+
+- [III.1.1. De compatibilidad material a organización biológica](#iii11-de-compatibilidad-material-a-organización-biológica)
+- [III.1.2. Lectura inicial del par estructural](#iii12-lectura-inicial-del-par-estructural)
+- [III.1.3. Alcance biológico de la cadena](#iii13-alcance-biológico-de-la-cadena)
+</details>
+
+
+<details>
+<summary><a href="#iii2-magnitudes-biológicas-reales-y-dominio-de-traducción">III.2. Magnitudes biológicas reales y dominio de traducción</a></summary>
+
+- [III.2.1. Genoma, genes y cromosomas](#iii21-genoma-genes-y-cromosomas)
+- [III.2.2. ADN, codificación y secuencia](#iii22-adn-codificación-y-secuencia)
+- [III.2.3. Proteínas, estructuras y bases de datos](#iii23-proteínas-estructuras-y-bases-de-datos)
+- [III.2.4. Escala celular y tisular](#iii24-escala-celular-y-tisular)
+</details>
+
+
+<details>
+<summary><a href="#iii3-transducción-sv↔︎biología">III.3. Transducción SV↔︎biología</a></summary>
+
+- [III.3.1. Definición del transductor](#iii31-definición-del-transductor)
+- [III.3.2. Fórmulas centrales](#iii32-fórmulas-centrales)
+- [III.3.3. Criterios de retorno](#iii33-criterios-de-retorno)
+</details>
+
+
+<details>
+<summary><a href="#iii4-formación-biológica-molécula-gen-proteína-y-célula">III.4. Formación biológica: molécula, gen, proteína y célula</a></summary>
+
+- [III.4.1. Molécula como grafo estructural](#iii41-molécula-como-grafo-estructural)
+- [III.4.2. Gen y desplazamiento genético](#iii42-gen-y-desplazamiento-genético)
+- [III.4.3. Proteína, plegamiento e interfaz](#iii43-proteína-plegamiento-e-interfaz)
+- [III.4.4. Célula viva](#iii44-célula-viva)
+</details>
+
+
+<details>
+<summary><a href="#iii5-enfermedad-deterioro-y-regenerabilidad-append-only">III.5. Enfermedad, deterioro y regenerabilidad append-only</a></summary>
+
+- [III.5.1. Patología como desplazamiento estructural](#iii51-patología-como-desplazamiento-estructural)
+- [III.5.2. Fórmula de regenerabilidad](#iii52-fórmula-de-regenerabilidad)
+- [III.5.3. Teorema de regenerabilidad estructural](#iii53-teorema-de-regenerabilidad-estructural)
+- [III.5.4. Teorema de no inversión temporal](#iii54-teorema-de-no-inversión-temporal)
+</details>
+
+
+<details>
+<summary><a href="#iii6-tejido-órgano-y-organismo">III.6. Tejido, órgano y organismo</a></summary>
+
+- [III.6.1. Tejido como arquitectura celular](#iii61-tejido-como-arquitectura-celular)
+- [III.6.2. Órgano como integración funcional](#iii62-órgano-como-integración-funcional)
+- [III.6.3. Invariantes biomédicos](#iii63-invariantes-biomédicos)
+- [III.6.4. Glosario operativo biomolecular](#iii64-glosario-operativo-biomolecular)
+</details>
+
+
+<details>
+<summary><a href="#iii7-laboratorios-reproducibles">III.7. Laboratorios reproducibles</a></summary>
+
+- [III.7.1. Estatuto de los laboratorios](#iii71-estatuto-de-los-laboratorios)
+- [III.7.2. Archivos incluidos](#iii72-archivos-incluidos)
+- [III.7.3. Controles y salidas](#iii73-controles-y-salidas)
+</details>
+
+</details>
+
+<details>
+<summary><strong><a href="#xiii-laboratorios-reproducibles">XIII. Laboratorios reproducibles</a></strong></summary>
+
+- [XIII.1. Estatuto de los laboratorios](#xiii1-estatuto-de-los-laboratorios)
+- [XIII.2. Principio de aritmética entera](#xiii2-principio-de-aritmética-entera)
+- [XIII.3. Organización funcional de los laboratorios](#xiii3-organización-funcional-de-los-laboratorios)
+- [XIII.4. Manifiesto de unidades](#xiii4-manifiesto-de-unidades)
+- [XIII.5. Registro principal de objetos](#xiii5-registro-principal-de-objetos)
+- [XIII.6. Valores esperados](#xiii6-valores-esperados)
+- [XIII.7. Diferencias singulares](#xiii7-diferencias-singulares)
+- [XIII.8. Fracciones de ciclo](#xiii8-fracciones-de-ciclo)
+- [XIII.9. Controles negativos de la teoría](#xiii9-controles-negativos-de-la-teoría)
+- [XIII.10. Catálogo de errores](#xiii10-catálogo-de-errores)
+- [XIII.11. Runner de verificación](#xiii11-runner-de-verificación)
+- [XIII.12. Pruebas positivas obligatorias](#xiii12-pruebas-positivas-obligatorias)
+- [XIII.13. Pruebas inversas obligatorias](#xiii13-pruebas-inversas-obligatorias)
+- [XIII.14. Pruebas negativas obligatorias](#xiii14-pruebas-negativas-obligatorias)
+- [XIII.15. Salida esperada global](#xiii15-salida-esperada-global)
+- [XIII.16. Suficiencia laboratorial](#xiii16-suficiencia-laboratorial)
+- [XIII.17. Refutación por fallo único esencial](#xiii17-refutación-por-fallo-único-esencial)
+- [XIII.18. Síntesis laboratorial](#xiii18-síntesis-laboratorial)
+</details>
+
+<details>
+<summary><strong><a href="#xiv-bibliografía">XIV. Bibliografía</a></strong></summary>
+
+- [XIV.1. Criterio bibliográfico](#xiv1-criterio-bibliográfico)
+- [XIV.2. Bibliografía física externa e instrumental](#xiv2-bibliografía-física-externa-e-instrumental)
+- [XIV.3. Bibliografía del corpus SV](#xiv3-bibliografía-del-corpus-sv)
+- [XIV.4. Bibliografía biomolecular y del anexo integrado](#xiv4-bibliografía-biomolecular-y-del-anexo-integrado)
+- [XIV.5. Criterio de uso](#xiv5-criterio-de-uso)
+</details>
+
+</details>
 ## Resumen
 
 La expresión «edad del Universo» es físicamente útil, pero conceptualmente imprecisa si no se distingue entre totalidad absoluta, universo observable y objetos físicos contenidos en dominios observables. Una edad física exige dominio declarado, frontera de formación, trayectoria o acumulación interna, magnitud de medida, criterio de contraste y retorno observacional. Por ello, la totalidad absoluta no puede recibir edad física en el mismo sentido que una galaxia, una estrella, una señal luminosa, una firma espectral o una estructura atómica persistente. No comparece como objeto dentro de un dominio mayor, no posee exterior físico de comparación y no admite trayectoria externa desde la cual medir su formación. El análisis sostiene que la pregunta rigurosa no es «cuál es la edad del Universo», sino cuál es la edad concreta del observable retornado con firma física persistente. El problema queda así desplazado desde una atribución absoluta a la totalidad hacia una familia de edades relativas de dominios internos: prehidrógeno, hidrógeno, estrellas, galaxias, señales luminosas, mapas profundos y retornos observacionales. La física contemporánea mide con gran potencia esos retornos mediante telescopios, espectros, mapas cósmicos, galaxias profundas, líneas de hidrógeno, radiación y modelos de distancia. La formulación reformula el plano de atribución de edad mediante transductores entre magnitudes físicas, unidades, dominios, residuales y retornos controlados. El resultado central distingue tres niveles. Primero: la totalidad absoluta no posee edad física admisible. Segundo: el universo observable es un dominio físico interno y sí admite edades relativas de sus contenidos. Tercero: la edad concreta del observable retornado con firma prehidrógeno/hidrógeno persistente queda fijada, bajo el contraste transductivo desarrollado, en 13.800.000.000 años julianos, equivalentes a 3.919.453.920.000.000.000 unidades elementales del medidor factual de ciclo. Esta cifra no se presenta como edad ontológica de la totalidad, sino como edad física concreta del observable retornado. El análisis parte de una primera línea de contención formal: no tiempo como fundamento, no probabilidad como criterio de verdad, no estadística como clausura, no inferencia opaca, no geometría con rango fundante y no cierre favorable por ausencia de refutación. Sobre esa contención se introduce la terna (0,1,U): (0) y (1) designan salidas polares de lectura formal, mientras que (U) conserva la no clausura honesta cuando el dominio, el residual o el retorno no permiten una decisión legítima. Esta terna no sustituye a las magnitudes físicas; disciplina su lectura. La física entra por sus unidades, métricas y observables. El cierre sólo se admite cuando dominio, codominio, invariantes, residual, matriz de contraste, retorno físico y laboratorio reproducible quedan declarados.
@@ -2108,7 +2442,7 @@ El cierre final es: A_Ω<sub>obs</sub> = 13 800 000 000 a<sub>J</sub>; A_Ω<sub>
 
 ## XI.1. Estatuto del anexo técnico
 
-Este anexo fija el modo en que la formulación se reproduce en laboratorio sin convertir el cuerpo de la obra en un volcado de ficheros. Los datos declarativos completos se conservan en la carpeta [laboratorios](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios), junto con sus versiones JSON, el catálogo de errores, el runner de verificación, la salida esperada y la salida obtenida. El cuerpo principal conserva la formulación, las tablas sustantivas, las equivalencias métricas y la conclusión reproducible; la ejecución computacional queda separada en el laboratorio técnico para mantener una lectura científica limpia y, a la vez, materialmente verificable.
+Este anexo fija el modo en que la formulación se reproduce en laboratorio sin convertir el cuerpo de la obra en un volcado de ficheros. Los datos declarativos completos se conservan en la carpeta [laboratorios](laboratorios/), junto con sus versiones JSON, el catálogo de errores, el runner de verificación, la salida esperada y la salida obtenida. El cuerpo principal conserva la formulación, las tablas sustantivas, las equivalencias métricas y la conclusión reproducible; la ejecución computacional queda separada en el laboratorio técnico para mantener una lectura científica limpia y, a la vez, materialmente verificable.
 
 La separación no elimina contenido: preserva la reproducibilidad donde corresponde y conserva la lectura principal en régimen editorial. Todo valor central de la obra debe poder confirmarse por ejecución exacta, sin inferencia opaca, sin coma flotante, sin redondeo, sin tolerancia silenciosa y sin salidas no clasificadas.
 
@@ -2116,18 +2450,18 @@ La separación no elimina contenido: preserva la reproducibilidad donde correspo
 
 | Registro preservado | Ubicación | Función científica |
 | --- | --- | --- |
-| Manifiesto de unidades | [manifest_unidades.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/manifest_unidades.csv) | Fija segundo, año juliano, UE<sub>MFC</sub> y constante K<sub>age</sub>. |
-| Banco de objetos | [banco_objetos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_objetos.csv) | Declara Sol, Sistema Solar, Vía Láctea-entorno, observable retornado y totalidad absoluta. |
-| Banco de valores | [banco_valores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_valores.csv) | Conserva edades actuales, fines estructurales, tramos restantes, fracciones y equivalencias SV. |
-| Banco de diferencias | [banco_diferencias.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_diferencias.csv) | Verifica comparaciones singulares entre dominios y objetos físicos. |
-| Banco de fracciones | [banco_fracciones.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_fracciones.csv) | Comprueba fracción actual, fracción restante y cierre racional. |
-| Controles negativos | [banco_negativos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_negativos.csv) | Activa errores de plano, definición, unidad, transducción, aritmética y salida no autorizada. |
-| Catálogo de errores | [catalogo_errores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/catalogo_errores.csv) | Impide salidas mudas y clasifica todo fallo esencial. |
-| Runner de verificación | [runner.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/runner.py) | Ejecuta la reproducción con aritmética exacta. |
-| Salida esperada | [salida_esperada.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_esperada.txt) | Declara la lectura esperada del laboratorio. |
-| Salida obtenida | [salida_obtenida.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_obtenida.txt) | Registra la ejecución material obtenida. |
-| Datos JSON | [laboratorios/datos/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos) | Conservan versiones estructuradas de registros, resultados y conversiones para contraste automático. |
-| Laboratorio biomolecular | [laboratorios/biologia_molecular_medicina/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina) | Verifica consistencia documental y transductiva del anexo biomolecular. |
+| Manifiesto de unidades | [manifest_unidades.csv](laboratorios/manifest_unidades.csv) | Fija segundo, año juliano, UE<sub>MFC</sub> y constante K<sub>age</sub>. |
+| Banco de objetos | [banco_objetos.csv](laboratorios/banco_objetos.csv) | Declara Sol, Sistema Solar, Vía Láctea-entorno, observable retornado y totalidad absoluta. |
+| Banco de valores | [banco_valores.csv](laboratorios/banco_valores.csv) | Conserva edades actuales, fines estructurales, tramos restantes, fracciones y equivalencias SV. |
+| Banco de diferencias | [banco_diferencias.csv](laboratorios/banco_diferencias.csv) | Verifica comparaciones singulares entre dominios y objetos físicos. |
+| Banco de fracciones | [banco_fracciones.csv](laboratorios/banco_fracciones.csv) | Comprueba fracción actual, fracción restante y cierre racional. |
+| Controles negativos | [banco_negativos.csv](laboratorios/banco_negativos.csv) | Activa errores de plano, definición, unidad, transducción, aritmética y salida no autorizada. |
+| Catálogo de errores | [catalogo_errores.csv](laboratorios/catalogo_errores.csv) | Impide salidas mudas y clasifica todo fallo esencial. |
+| Runner de verificación | [runner.py](laboratorios/runner.py) | Ejecuta la reproducción con aritmética exacta. |
+| Salida esperada | [salida_esperada.txt](laboratorios/salida_esperada.txt) | Declara la lectura esperada del laboratorio. |
+| Salida obtenida | [salida_obtenida.txt](laboratorios/salida_obtenida.txt) | Registra la ejecución material obtenida. |
+| Datos JSON | [laboratorios/datos/](laboratorios/datos/) | Conservan versiones estructuradas de registros, resultados y conversiones para contraste automático. |
+| Laboratorio biomolecular | [laboratorios/biologia_molecular_medicina/](laboratorios/biologia_molecular_medicina/) | Verifica consistencia documental y transductiva del anexo biomolecular. |
 
 ## XI.3. Cierre reproducible de los datos declarativos
 
@@ -2455,12 +2789,12 @@ Los laboratorios de este anexo son laboratorios de consistencia documental y tra
 
 | Archivo | Función |
 | --- | --- |
-| [`laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv) | Declara las magnitudes externas usadas por el transductor. |
-| [`laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv) | Lista fórmulas centrales BIO-01 a BIO-11. |
-| [`laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv) | Declara falsadores y controles de no cierre. |
-| [`laboratorios/biologia_molecular_medicina/runner.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/runner.py) | Verifica métricas, fórmulas, constante transductiva, controles y ausencia de pase silencioso. |
-| [`laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt) | Salida esperada del laboratorio. |
-| [`laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt) | Salida obtenida al ejecutar el laboratorio. |
+| [`laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv`](laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv) | Declara las magnitudes externas usadas por el transductor. |
+| [`laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv`](laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv) | Lista fórmulas centrales BIO-01 a BIO-11. |
+| [`laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv`](laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv) | Declara falsadores y controles de no cierre. |
+| [`laboratorios/biologia_molecular_medicina/runner.py`](laboratorios/biologia_molecular_medicina/runner.py) | Verifica métricas, fórmulas, constante transductiva, controles y ausencia de pase silencioso. |
+| [`laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt`](laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt) | Salida esperada del laboratorio. |
+| [`laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt`](laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt) | Salida obtenida al ejecutar el laboratorio. |
 
 ### III.7.3. Controles y salidas
 
@@ -2490,11 +2824,11 @@ Los laboratorios se organizan como una carpeta de verificación reproducible. Lo
 
 | Grupo funcional | Archivos | Función científica |
 | --- | --- | --- |
-| Orientación | [README.md](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/README.md) | Explica la ejecución del laboratorio y la relación entre registros, datos JSON y salidas. |
-| Registros declarativos | [manifest_unidades.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/manifest_unidades.csv), [banco_objetos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_objetos.csv), [banco_valores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_valores.csv), [banco_diferencias.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_diferencias.csv), [banco_fracciones.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_fracciones.csv), [banco_negativos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_negativos.csv), [catalogo_errores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/catalogo_errores.csv) | Declaran unidades, objetos, valores, diferencias, fracciones, controles negativos y catálogo de errores. |
-| Datos JSON | [datos/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos) | Conserva versiones JSON de los registros y resultados para lectura automática, comparación e integración posterior. |
-| Ejecución | [runner.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/runner.py) | Ejecuta pruebas con aritmética exacta, sin coma flotante, sin redondeo y sin pase silencioso. |
-| Resultados | [salida_esperada.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_esperada.txt), [salida_obtenida.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_obtenida.txt), [datos/resultado_laboratorio_edades.json](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos/resultado_laboratorio_edades.json), [datos/resultados_laboratorios.json](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos/resultados_laboratorios.json) | Documentan la salida esperada, la salida obtenida y la síntesis JSON de los laboratorios principal y biomolecular. |
+| Orientación | [README.md](laboratorios/README.md) | Explica la ejecución del laboratorio y la relación entre registros, datos JSON y salidas. |
+| Registros declarativos | [manifest_unidades.csv](laboratorios/manifest_unidades.csv), [banco_objetos.csv](laboratorios/banco_objetos.csv), [banco_valores.csv](laboratorios/banco_valores.csv), [banco_diferencias.csv](laboratorios/banco_diferencias.csv), [banco_fracciones.csv](laboratorios/banco_fracciones.csv), [banco_negativos.csv](laboratorios/banco_negativos.csv), [catalogo_errores.csv](laboratorios/catalogo_errores.csv) | Declaran unidades, objetos, valores, diferencias, fracciones, controles negativos y catálogo de errores. |
+| Datos JSON | [datos/](laboratorios/datos/) | Conserva versiones JSON de los registros y resultados para lectura automática, comparación e integración posterior. |
+| Ejecución | [runner.py](laboratorios/runner.py) | Ejecuta pruebas con aritmética exacta, sin coma flotante, sin redondeo y sin pase silencioso. |
+| Resultados | [salida_esperada.txt](laboratorios/salida_esperada.txt), [salida_obtenida.txt](laboratorios/salida_obtenida.txt), [datos/resultado_laboratorio_edades.json](laboratorios/datos/resultado_laboratorio_edades.json), [datos/resultados_laboratorios.json](laboratorios/datos/resultados_laboratorios.json) | Documentan la salida esperada, la salida obtenida y la síntesis JSON de los laboratorios principal y biomolecular. |
 
 La regla de cierre es estricta: ningún valor ejecutado puede sustituir al registro declarativo que lo autoriza. Si aparece una salida no tabulada, el laboratorio emite E-LAB-01.
 
@@ -2615,7 +2949,7 @@ Un laboratorio sin control negativo no es apto.
 
 ## XIII.11. Runner de verificación
 
-El runner completo se conserva en [laboratorios/runner.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/runner.py), junto con sus entradas declarativas, salidas esperadas, salidas obtenidas y catálogo de errores. Su función es ejecutar sin aproximaciones silenciosas las equivalencias escalares y transductivas declaradas en la obra. La versión editorial conserva la conclusión verificable; la reproducción íntegra pertenece al laboratorio técnico.
+El runner completo se conserva en [laboratorios/runner.py](laboratorios/runner.py), junto con sus entradas declarativas, salidas esperadas, salidas obtenidas y catálogo de errores. Su función es ejecutar sin aproximaciones silenciosas las equivalencias escalares y transductivas declaradas en la obra. La versión editorial conserva la conclusión verificable; la reproducción íntegra pertenece al laboratorio técnico.
 
 La ejecución debe respetar tres condiciones materiales: aritmética entera, ausencia de redondeo y prohibición de salidas no tabuladas. La constante K<sub>age</sub> = 284 018 400 se obtiene de 31 557 600 s por año juliano y 9 UE<sub>MFC</sub> por segundo. Todo resultado expresado en años julianos debe retornar desde UE<sub>MFC</sub> sin resto. Si una prueba esencial falla, el laboratorio no confirma la formulación.
 
