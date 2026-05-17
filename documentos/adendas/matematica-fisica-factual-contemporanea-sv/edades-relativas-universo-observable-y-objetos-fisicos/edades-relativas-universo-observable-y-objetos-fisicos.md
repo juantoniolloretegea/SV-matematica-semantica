@@ -23,10 +23,9 @@
 <a id="sec-definicion-append-only"></a>
 
 
-Índice
 
 <details>
-<summary><strong>Índice conciliado de la publicación</strong></summary>
+<summary><strong>Índice</strong></summary>
 
 - [Resumen](#resumen)
 
