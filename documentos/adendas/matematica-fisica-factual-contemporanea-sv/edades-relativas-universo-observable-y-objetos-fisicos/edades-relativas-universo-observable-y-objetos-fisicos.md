@@ -2,7 +2,7 @@
 
 ## Teoría de la edad de todos los objetos del Universo Observable · Biología molecular y medicina: del par estructural a la célula viva
 
-![Portada de la publicación](imagenes/portada.png)
+![Portada de la publicación](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/imagenes/portada.png)
 
 - Autor: [Juan Antonio Lloret Egea](https://www.linkedin.com/in/juanantoniolloretegea/)
 - ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)
@@ -11,7 +11,7 @@
 - Licencia: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 - Fecha: Madrid, 14/05/2026
 - DOI de la publicación PubPub: [10.21428/39829d0b.b56ed853](https://doi.org/10.21428/39829d0b.b56ed853)
-- Release PubPub: [Release 2](https://www.itvia.online/pub/edades-relativas-del-universo-observable-y-de-sus-objetos-fisicos/release/2)
+- Release PubPub: [Release 3](https://www.itvia.online/pub/edades-relativas-del-universo-observable-y-de-sus-objetos-fisicos/release/3)
 - Colección PubPub «El Universo»: [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)
 - URL de colección: [https://www.itvia.online/el-universo](https://www.itvia.online/el-universo)
 - Repositorio doctrinal: [SV-matematica-semantica](https://juantoniolloretegea.github.io/SV-matematica-semantica/)
@@ -25,8 +25,7 @@
 
 ## Índice
 
-<details>
-<summary>Ver índice general</summary>
+**Índice general de la publicación**
 
 - Definición operativa de append-only
 - 0. Problema físico real: la expresión «edad del Universo» es imprecisa
@@ -46,8 +45,6 @@
 - XII. Glosario técnico SV ↔ física contemporánea
 - XIII. Laboratorios reproducibles
 - XIV. Bibliografía
-
-</details>
 
 ## Resumen
 
@@ -2111,7 +2108,7 @@ El cierre final es: A_Ω<sub>obs</sub> = 13 800 000 000 a<sub>J</sub>; A_Ω<sub>
 
 ## XI.1. Estatuto del anexo técnico
 
-Este anexo fija el modo en que la formulación se reproduce en laboratorio sin convertir el cuerpo de la obra en un volcado de ficheros. Los datos declarativos completos se conservan en la carpeta [laboratorios](laboratorios/), junto con sus versiones JSON, el catálogo de errores, el runner de verificación, la salida esperada y la salida obtenida. El cuerpo principal conserva la formulación, las tablas sustantivas, las equivalencias métricas y la conclusión reproducible; la ejecución computacional queda separada en el laboratorio técnico para mantener una lectura científica limpia y, a la vez, materialmente verificable.
+Este anexo fija el modo en que la formulación se reproduce en laboratorio sin convertir el cuerpo de la obra en un volcado de ficheros. Los datos declarativos completos se conservan en la carpeta [laboratorios](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios), junto con sus versiones JSON, el catálogo de errores, el runner de verificación, la salida esperada y la salida obtenida. El cuerpo principal conserva la formulación, las tablas sustantivas, las equivalencias métricas y la conclusión reproducible; la ejecución computacional queda separada en el laboratorio técnico para mantener una lectura científica limpia y, a la vez, materialmente verificable.
 
 La separación no elimina contenido: preserva la reproducibilidad donde corresponde y conserva la lectura principal en régimen editorial. Todo valor central de la obra debe poder confirmarse por ejecución exacta, sin inferencia opaca, sin coma flotante, sin redondeo, sin tolerancia silenciosa y sin salidas no clasificadas.
 
@@ -2119,18 +2116,18 @@ La separación no elimina contenido: preserva la reproducibilidad donde correspo
 
 | Registro preservado | Ubicación | Función científica |
 | --- | --- | --- |
-| Manifiesto de unidades | [manifest_unidades.csv](laboratorios/manifest_unidades.csv) | Fija segundo, año juliano, UE<sub>MFC</sub> y constante K<sub>age</sub>. |
-| Banco de objetos | [banco_objetos.csv](laboratorios/banco_objetos.csv) | Declara Sol, Sistema Solar, Vía Láctea-entorno, observable retornado y totalidad absoluta. |
-| Banco de valores | [banco_valores.csv](laboratorios/banco_valores.csv) | Conserva edades actuales, fines estructurales, tramos restantes, fracciones y equivalencias SV. |
-| Banco de diferencias | [banco_diferencias.csv](laboratorios/banco_diferencias.csv) | Verifica comparaciones singulares entre dominios y objetos físicos. |
-| Banco de fracciones | [banco_fracciones.csv](laboratorios/banco_fracciones.csv) | Comprueba fracción actual, fracción restante y cierre racional. |
-| Controles negativos | [banco_negativos.csv](laboratorios/banco_negativos.csv) | Activa errores de plano, definición, unidad, transducción, aritmética y salida no autorizada. |
-| Catálogo de errores | [catalogo_errores.csv](laboratorios/catalogo_errores.csv) | Impide salidas mudas y clasifica todo fallo esencial. |
-| Runner de verificación | [runner.py](laboratorios/runner.py) | Ejecuta la reproducción con aritmética exacta. |
-| Salida esperada | [salida_esperada.txt](laboratorios/salida_esperada.txt) | Declara la lectura esperada del laboratorio. |
-| Salida obtenida | [salida_obtenida.txt](laboratorios/salida_obtenida.txt) | Registra la ejecución material obtenida. |
-| Datos JSON | [laboratorios/datos/](laboratorios/datos/) | Conservan versiones estructuradas de registros, resultados y conversiones para contraste automático. |
-| Laboratorio biomolecular | [laboratorios/biologia_molecular_medicina/](laboratorios/biologia_molecular_medicina/) | Verifica consistencia documental y transductiva del anexo biomolecular. |
+| Manifiesto de unidades | [manifest_unidades.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/manifest_unidades.csv) | Fija segundo, año juliano, UE<sub>MFC</sub> y constante K<sub>age</sub>. |
+| Banco de objetos | [banco_objetos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_objetos.csv) | Declara Sol, Sistema Solar, Vía Láctea-entorno, observable retornado y totalidad absoluta. |
+| Banco de valores | [banco_valores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_valores.csv) | Conserva edades actuales, fines estructurales, tramos restantes, fracciones y equivalencias SV. |
+| Banco de diferencias | [banco_diferencias.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_diferencias.csv) | Verifica comparaciones singulares entre dominios y objetos físicos. |
+| Banco de fracciones | [banco_fracciones.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_fracciones.csv) | Comprueba fracción actual, fracción restante y cierre racional. |
+| Controles negativos | [banco_negativos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_negativos.csv) | Activa errores de plano, definición, unidad, transducción, aritmética y salida no autorizada. |
+| Catálogo de errores | [catalogo_errores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/catalogo_errores.csv) | Impide salidas mudas y clasifica todo fallo esencial. |
+| Runner de verificación | [runner.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/runner.py) | Ejecuta la reproducción con aritmética exacta. |
+| Salida esperada | [salida_esperada.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_esperada.txt) | Declara la lectura esperada del laboratorio. |
+| Salida obtenida | [salida_obtenida.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_obtenida.txt) | Registra la ejecución material obtenida. |
+| Datos JSON | [laboratorios/datos/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos) | Conservan versiones estructuradas de registros, resultados y conversiones para contraste automático. |
+| Laboratorio biomolecular | [laboratorios/biologia_molecular_medicina/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina) | Verifica consistencia documental y transductiva del anexo biomolecular. |
 
 ## XI.3. Cierre reproducible de los datos declarativos
 
@@ -2458,12 +2455,12 @@ Los laboratorios de este anexo son laboratorios de consistencia documental y tra
 
 | Archivo | Función |
 | --- | --- |
-| [`laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv`](laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv) | Declara las magnitudes externas usadas por el transductor. |
-| [`laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv`](laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv) | Lista fórmulas centrales BIO-01 a BIO-11. |
-| [`laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv`](laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv) | Declara falsadores y controles de no cierre. |
-| [`laboratorios/biologia_molecular_medicina/runner.py`](laboratorios/biologia_molecular_medicina/runner.py) | Verifica métricas, fórmulas, constante transductiva, controles y ausencia de pase silencioso. |
-| [`laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt`](laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt) | Salida esperada del laboratorio. |
-| [`laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt`](laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt) | Salida obtenida al ejecutar el laboratorio. |
+| [`laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/datos/metricas_biologicas_externas.csv) | Declara las magnitudes externas usadas por el transductor. |
+| [`laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/datos/formulas_centrales.csv) | Lista fórmulas centrales BIO-01 a BIO-11. |
+| [`laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/datos/controles_negativos.csv) | Declara falsadores y controles de no cierre. |
+| [`laboratorios/biologia_molecular_medicina/runner.py`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/runner.py) | Verifica métricas, fórmulas, constante transductiva, controles y ausencia de pase silencioso. |
+| [`laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/resultados/salida_esperada.txt) | Salida esperada del laboratorio. |
+| [`laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/biologia_molecular_medicina/resultados/salida_obtenida.txt) | Salida obtenida al ejecutar el laboratorio. |
 
 ### III.7.3. Controles y salidas
 
@@ -2493,11 +2490,11 @@ Los laboratorios se organizan como una carpeta de verificación reproducible. Lo
 
 | Grupo funcional | Archivos | Función científica |
 | --- | --- | --- |
-| Orientación | [README.md](laboratorios/README.md) | Explica la ejecución del laboratorio y la relación entre registros, datos JSON y salidas. |
-| Registros declarativos | [manifest_unidades.csv](laboratorios/manifest_unidades.csv), [banco_objetos.csv](laboratorios/banco_objetos.csv), [banco_valores.csv](laboratorios/banco_valores.csv), [banco_diferencias.csv](laboratorios/banco_diferencias.csv), [banco_fracciones.csv](laboratorios/banco_fracciones.csv), [banco_negativos.csv](laboratorios/banco_negativos.csv), [catalogo_errores.csv](laboratorios/catalogo_errores.csv) | Declaran unidades, objetos, valores, diferencias, fracciones, controles negativos y catálogo de errores. |
-| Datos JSON | [datos/](laboratorios/datos/) | Conserva versiones JSON de los registros y resultados para lectura automática, comparación e integración posterior. |
-| Ejecución | [runner.py](laboratorios/runner.py) | Ejecuta pruebas con aritmética exacta, sin coma flotante, sin redondeo y sin pase silencioso. |
-| Resultados | [salida_esperada.txt](laboratorios/salida_esperada.txt), [salida_obtenida.txt](laboratorios/salida_obtenida.txt), [datos/resultado_laboratorio_edades.json](laboratorios/datos/resultado_laboratorio_edades.json), [datos/resultados_laboratorios.json](laboratorios/datos/resultados_laboratorios.json) | Documentan la salida esperada, la salida obtenida y la síntesis JSON de los laboratorios principal y biomolecular. |
+| Orientación | [README.md](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/README.md) | Explica la ejecución del laboratorio y la relación entre registros, datos JSON y salidas. |
+| Registros declarativos | [manifest_unidades.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/manifest_unidades.csv), [banco_objetos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_objetos.csv), [banco_valores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_valores.csv), [banco_diferencias.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_diferencias.csv), [banco_fracciones.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_fracciones.csv), [banco_negativos.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/banco_negativos.csv), [catalogo_errores.csv](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/catalogo_errores.csv) | Declaran unidades, objetos, valores, diferencias, fracciones, controles negativos y catálogo de errores. |
+| Datos JSON | [datos/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos) | Conserva versiones JSON de los registros y resultados para lectura automática, comparación e integración posterior. |
+| Ejecución | [runner.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/runner.py) | Ejecuta pruebas con aritmética exacta, sin coma flotante, sin redondeo y sin pase silencioso. |
+| Resultados | [salida_esperada.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_esperada.txt), [salida_obtenida.txt](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/salida_obtenida.txt), [datos/resultado_laboratorio_edades.json](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos/resultado_laboratorio_edades.json), [datos/resultados_laboratorios.json](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/datos/resultados_laboratorios.json) | Documentan la salida esperada, la salida obtenida y la síntesis JSON de los laboratorios principal y biomolecular. |
 
 La regla de cierre es estricta: ningún valor ejecutado puede sustituir al registro declarativo que lo autoriza. Si aparece una salida no tabulada, el laboratorio emite E-LAB-01.
 
@@ -2618,7 +2615,7 @@ Un laboratorio sin control negativo no es apto.
 
 ## XIII.11. Runner de verificación
 
-El runner completo se conserva en [laboratorios/runner.py](laboratorios/runner.py), junto con sus entradas declarativas, salidas esperadas, salidas obtenidas y catálogo de errores. Su función es ejecutar sin aproximaciones silenciosas las equivalencias escalares y transductivas declaradas en la obra. La versión editorial conserva la conclusión verificable; la reproducción íntegra pertenece al laboratorio técnico.
+El runner completo se conserva en [laboratorios/runner.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/laboratorios/runner.py), junto con sus entradas declarativas, salidas esperadas, salidas obtenidas y catálogo de errores. Su función es ejecutar sin aproximaciones silenciosas las equivalencias escalares y transductivas declaradas en la obra. La versión editorial conserva la conclusión verificable; la reproducción íntegra pertenece al laboratorio técnico.
 
 La ejecución debe respetar tres condiciones materiales: aritmética entera, ausencia de redondeo y prohibición de salidas no tabuladas. La constante K<sub>age</sub> = 284 018 400 se obtiene de 31 557 600 s por año juliano y 9 UE<sub>MFC</sub> por segundo. Todo resultado expresado en años julianos debe retornar desde UE<sub>MFC</sub> sin resto. Si una prueba esencial falla, el laboratorio no confirma la formulación.
 
