@@ -6,7 +6,6 @@
 
 ![Portada de la colección Protocomunidades, protosemántica y orden compartido](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/protocomunidades-protosemantica-y-orden-compartido/imagenes/portada.png?raw=1)
 
-## Objeto de la colección
 
 **Protocomunidades, protosemántica y orden compartido** estudia los umbrales por los que la vida en agrupación puede pasar de coexistencia biológica a relación compatible, de relación a memoria, de memoria a señal compartida, de señal a protosemántica, de protosemántica a coordinación, de coordinación a regla, y de regla a cultura, sociedad y civilización.
 
