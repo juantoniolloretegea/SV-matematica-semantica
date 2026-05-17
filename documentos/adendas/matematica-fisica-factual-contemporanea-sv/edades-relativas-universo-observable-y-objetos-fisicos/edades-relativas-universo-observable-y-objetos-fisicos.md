@@ -22,10 +22,10 @@
 
 <a id="sec-definicion-append-only"></a>
 
-
+Índice
 
 <details>
-<summary><strong>Índice</strong></summary>
+<summary><strong>Resumen</strong></summary>
 
 - [Resumen](#resumen)
 
