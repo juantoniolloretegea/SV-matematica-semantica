@@ -2,7 +2,7 @@
 
 ![Portada — Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/imagenes/Portada.png)
 
-
+<br>
 ---
 <br>
 
