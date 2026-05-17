@@ -44,6 +44,6 @@ Los conceptos directores de esta etapa son:
 
 ## Registro histórico
 
-Esta línea de trabajo queda vinculada al periodo de maduración pública de la publicación principal en GitHub.
-
-**Registro histórico en Internet Archive / Wayback Machine:** PENDIENTE-DE-REGISTRO.
+---
+[Registro histórico en Internet Archive / Wayback Machine:](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/README.md )
+---
