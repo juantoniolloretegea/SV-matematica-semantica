@@ -56,7 +56,7 @@ Distancia absoluta; distancia relativa; observables cosmológicos; corrimiento a
   - III.1. Las magnitudes de cierre μ y λ
   - III.2. La frontera como cierre de ciclo con contenido íntegro
   - III.3. Cierre dentro del TODO y no del TODO
-  - III.4. Retención factual append-only y reapertura
+  - III.4. Retención factual sólo aditiva y reapertura
 - IV. Relación entre origen y frontera
   - IV.1. Equivalencia operatoria y no equivalencia de contenido
   - IV.2. El veredicto del verificador como criterio de identidad
@@ -303,158 +303,158 @@ Distancia absoluta; distancia relativa; observables cosmológicos; corrimiento a
   - XVII.9. Lectura de la completitud estructural del Universo
   - XVII.10. Límites del desarrollo
 - XVIII. Conclusión
-  - XVIII.1. Resultado doctrinal
+  - XVIII.1. Resultado rector
   - XVIII.2. Resultado técnico
   - XVIII.3. Resultado físico-factual
-  - XVIII.4. Resultado laboratorial
+  - XVIII.4. Resultado de laboratorio
   - XVIII.5. Fórmula directriz final
   - XVIII.6. Dictamen de absorción global
-  - XVIII.7. Aperturas posteriores legítimas
+  - XVIII.7. Alcance y límites del resultado
 </details>
 
 <details>
 <summary>Parte IV — Aparato operativo: glosario, matriz de transducción, integración, trazabilidad y protocolo de aplicación</summary>
 
-- 1. Glosario operativo de símbolos, magnitudes y dictámenes
-  - 1.1. Observable `𝒪`
-  - 1.2. Retorno físico
-  - 1.3. Distancia física
-  - 1.4. Distancia factual fibrosa local `d^{SV}_Φ`
-  - 1.5. Distancia global `D^{SV}_Φ(Γ)`
-  - 1.6. Defecto telescópico `Δ^Φ_q`
-  - 1.7. Distancia intercampo `DistInter^{SV}_{a,b}(Γ)`
-  - 1.8. Corrimiento al rojo `z`
-  - 1.9. Factor de escala `a(t)`
-  - 1.10. Constante de Hubble `H_0` y función `H(z)`
-  - 1.11. Velocidad recesional `v_rec`
-  - 1.12. Distancia de luminosidad `D_L`
-  - 1.13. Distancia angular `D_A`
-  - 1.14. Distancia comóvil `D_C` y transversal comóvil `D_M`
-  - 1.15. Distancia propia `D_P`
-  - 1.16. Tiempo de mirada atrás `t_L`
-  - 1.17. Horizonte observable
-  - 1.18. Origen formal `0_SV` o `(0,0)`
-  - 1.19. Transductor `𝔛^{dist}_{SV↔FC}`
-  - 1.20. Residual compuesto `Δ^{SV↔FC}_{dist}`
-  - 1.21. Dictamen `APTO`
-  - 1.22. Dictamen `PARCIAL`
-  - 1.23. Dictamen `NO_APTO`
-  - 1.24. Dictamen `U`
-  - 1.25. Tabla compacta de equivalencias
-- 2. Matriz de transducción SV↔física contemporánea
-  - 2.1. Forma general de la matriz
-  - 2.2. Correspondencia para `z`
-  - 2.3. Correspondencia para `D_C`
-  - 2.4. Correspondencia para `D_M`
-  - 2.5. Correspondencia para `D_L`
-  - 2.6. Correspondencia para `D_A`
-  - 2.7. Correspondencia para `D_P`
-  - 2.8. Correspondencia para `t_L`
-  - 2.9. Correspondencia para `H_0` y `H(z)`
-  - 2.10. Correspondencia para `v_rec`
-  - 2.11. Correspondencia para `q(t)` y `ä(t)`
-  - 2.12. Correspondencia para `w(z)` y energía oscura
-  - 2.13. Correspondencia para horizonte observable
-  - 2.14. Correspondencia para `0_SV`
-  - 2.15. Correspondencia para `D_abs^{SV}`
-  - 2.16. Correspondencia para `D_rel`
-  - 2.17. Correspondencia para `DistInter^{SV}`
-  - 2.18. Matriz compacta de transducción
-  - 2.19. Prueba de consistencia de ida y vuelta
-- 3. Matriz de integración serial con el corpus SV
-  - 3.1. Regla de no duplicación
-  - 3.2. Relación con la Teoría del TODO y de la NADA
-  - 3.3. Relación con imperfección preformal y espacio
-  - 3.4. Relación con interacción, intercomposición y transmisión entre campos
-  - 3.5. Relación con edades relativas del universo observable
-  - 3.6. Relación con agujero negro y clausura sin resto exterior
-  - 3.7. Relación con campo unificado, Einstein–Bohr y transducción bidireccional
-  - 3.8. Relación con protocampos y sucesos generadores
-  - 3.9. Relación con metrología SV↔SI
-  - 3.10. Relación con bancos y laboratorios previos
-  - 3.11. Matriz de correspondencia con sedes del corpus
-  - 3.12. Integración serial
-- 4. Trazabilidad de fórmulas centrales, teoremas, bancos y compuertas
-  - 4.1. Fórmulas centrales de correspondencia
-  - 4.2. Fórmulas de residual
-  - 4.3. Fórmulas físicas externas conservadas
-  - 4.4. Fórmulas SV reutilizadas sin duplicación
-  - 4.5. Trazabilidad de teoremas
-  - 4.6. Trazabilidad de bancos
-  - 4.7. Trazabilidad de negativos críticos
-  - 4.8. Trazabilidad de errores catalogados
-  - 4.9. Trazabilidad de la verificación reproducible
-  - 4.10. Trazabilidad de anexos técnicos
-  - 4.11. Tabla maestra de trazabilidad mínima
-  - 4.12. Criterio de suficiencia trazable
-  - 4.13. Criterio de insuficiencia trazable
-  - 4.14. Índice operativo de localización rápida
-  - 4.15. Cierre de trazabilidad
-- 5. Protocolo de aplicación a casos cosmológicos nuevos
-  - 5.1. Entrada de un caso nuevo
-  - 5.2. Identificación del observable
-  - 5.3. Selección de magnitud rectora
-  - 5.4. Validación de unidad
-  - 5.5. Validación de modelo y ecuación
-  - 5.6. Determinación de régimen
-  - 5.7. Declaración de frontera
-  - 5.8. Proyección SV
-  - 5.9. Cálculo de residual
-  - 5.10. Banco negativo simétrico
-  - 5.11. Retorno físico
-  - 5.12. Dictamen de caso nuevo
-  - 5.13. Tratamiento de datos contemporáneos cambiantes
-  - 5.14. Tratamiento de afirmaciones divulgativas o mediáticas
-  - 5.15. Tratamiento de hipótesis nuevas
-  - 5.16. Tratamiento de conflictos entre modelos externos
-  - 5.17. Tratamiento de pares de observables
-  - 5.18. Tratamiento de horizonte y no retorno
-  - 5.19. Tratamiento de cierre y revisión
-  - 5.20. Tabla operativa del protocolo
-  - 5.21. Dictamen de aplicabilidad
+- I. Glosario operativo de símbolos, magnitudes y dictámenes
+  - I.1. Observable `𝒪`
+  - I.2. Retorno físico
+  - I.3. Distancia física
+  - I.4. Distancia factual fibrosa local `d^{SV}_Φ`
+  - I.5. Distancia global `D^{SV}_Φ(Γ)`
+  - I.6. Defecto telescópico `Δ^Φ_q`
+  - I.7. Distancia intercampo `DistInter^{SV}_{a,b}(Γ)`
+  - I.8. Corrimiento al rojo `z`
+  - I.9. Factor de escala `a(t)`
+  - I.10. Constante de Hubble `H_0` y función `H(z)`
+  - I.11. Velocidad recesional `v_rec`
+  - I.12. Distancia de luminosidad `D_L`
+  - I.13. Distancia angular `D_A`
+  - I.14. Distancia comóvil `D_C` y transversal comóvil `D_M`
+  - I.15. Distancia propia `D_P`
+  - I.16. Tiempo de mirada atrás `t_L`
+  - I.17. Horizonte observable
+  - I.18. Origen formal `0_SV` o `(0,0)`
+  - I.19. Transductor `𝔛^{dist}_{SV↔FC}`
+  - I.20. Residual compuesto `Δ^{SV↔FC}_{dist}`
+  - I.21. Dictamen `APTO`
+  - I.22. Dictamen `PARCIAL`
+  - I.23. Dictamen `NO_APTO`
+  - I.24. Dictamen `U`
+  - I.25. Tabla compacta de equivalencias
+- II. Matriz de transducción SV↔física contemporánea
+  - II.1. Forma general de la matriz
+  - II.2. Correspondencia para `z`
+  - II.3. Correspondencia para `D_C`
+  - II.4. Correspondencia para `D_M`
+  - II.5. Correspondencia para `D_L`
+  - II.6. Correspondencia para `D_A`
+  - II.7. Correspondencia para `D_P`
+  - II.8. Correspondencia para `t_L`
+  - II.9. Correspondencia para `H_0` y `H(z)`
+  - II.10. Correspondencia para `v_rec`
+  - II.11. Correspondencia para `q(t)` y `ä(t)`
+  - II.12. Correspondencia para `w(z)` y energía oscura
+  - II.13. Correspondencia para horizonte observable
+  - II.14. Correspondencia para `0_SV`
+  - II.15. Correspondencia para `D_abs^{SV}`
+  - II.16. Correspondencia para `D_rel`
+  - II.17. Correspondencia para `DistInter^{SV}`
+  - II.18. Matriz compacta de transducción
+  - II.19. Prueba de consistencia de ida y vuelta
+- III. Matriz de integración serial con el corpus SV
+  - III.1. Regla de no duplicación
+  - III.2. Relación con la Teoría del TODO y de la NADA
+  - III.3. Relación con imperfección preformal y espacio
+  - III.4. Relación con interacción, intercomposición y transmisión entre campos
+  - III.5. Relación con edades relativas del universo observable
+  - III.6. Relación con agujero negro y clausura sin resto exterior
+  - III.7. Relación con campo unificado, Einstein–Bohr y transducción bidireccional
+  - III.8. Relación con protocampos y sucesos generadores
+  - III.9. Relación con metrología SV↔SI
+  - III.10. Relación con bancos y laboratorios previos
+  - III.11. Matriz de correspondencia con sedes del corpus
+  - III.12. Integración serial
+- IV. Trazabilidad de fórmulas centrales, teoremas, bancos y compuertas
+  - IV.1. Fórmulas centrales de correspondencia
+  - IV.2. Fórmulas de residual
+  - IV.3. Fórmulas físicas externas conservadas
+  - IV.4. Fórmulas SV reutilizadas sin duplicación
+  - IV.5. Trazabilidad de teoremas
+  - IV.6. Trazabilidad de bancos
+  - IV.7. Trazabilidad de negativos críticos
+  - IV.8. Trazabilidad de errores catalogados
+  - IV.9. Trazabilidad de la verificación reproducible
+  - IV.10. Trazabilidad de anexos técnicos
+  - IV.11. Tabla maestra de trazabilidad mínima
+  - IV.12. Criterio de suficiencia trazable
+  - IV.13. Criterio de insuficiencia trazable
+  - IV.14. Índice operativo de localización rápida
+  - IV.15. Cierre de trazabilidad
+- V. Protocolo de aplicación a casos cosmológicos nuevos
+  - V.1. Entrada de un caso nuevo
+  - V.2. Identificación del observable
+  - V.3. Selección de magnitud rectora
+  - V.4. Validación de unidad
+  - V.5. Validación de modelo y ecuación
+  - V.6. Determinación de régimen
+  - V.7. Declaración de frontera
+  - V.8. Proyección SV
+  - V.9. Cálculo de residual
+  - V.10. Banco negativo simétrico
+  - V.11. Retorno físico
+  - V.12. Dictamen de caso nuevo
+  - V.13. Tratamiento de datos contemporáneos cambiantes
+  - V.14. Tratamiento de afirmaciones divulgativas o mediáticas
+  - V.15. Tratamiento de hipótesis nuevas
+  - V.16. Tratamiento de conflictos entre modelos externos
+  - V.17. Tratamiento de pares de observables
+  - V.18. Tratamiento de horizonte y no retorno
+  - V.19. Tratamiento de cierre y revisión
+  - V.20. Tabla operativa del protocolo
+  - V.21. Dictamen de aplicabilidad
 </details>
 
 <details>
 <summary>Parte V — Laboratorios</summary>
 
-- 1. Estatuto de la verificación reproducible
-- 2. El laboratorio de bancos negativos
-- 3. Las compuertas residuales
-- 4. El banco positivo
-- 5. El banco negativo
-- 6. La doble condición de pase
-- 7. Cobertura del catálogo de errores
-- 8. Salida del laboratorio y dictamen
-- 9. Reproducción
-- 10. Enlace con el cuerpo y cierre
+- I. Estatuto de la verificación reproducible
+- II. El laboratorio de bancos negativos
+- III. Las compuertas residuales
+- IV. El banco positivo
+- V. El banco negativo
+- VI. La doble condición de pase
+- VII. Cobertura del catálogo de errores
+- VIII. Salida del laboratorio y dictamen
+- IX. Reproducción
+- X. Enlace con el cuerpo y cierre
 </details>
 
 <details>
 <summary>Parte VI — Régimen dinámico de observables: tendencia ciclo-distancial, contraste físico y clausura potencial</summary>
 
-- 1. Ley de tendencia ciclo-distancial
-- 2. Ley de clausura por potencial, canal o ligadura
-- 3. Ley de retorno energético
-- 4. Transductor bidireccional SV↔Ciencia contemporánea
-- 5. Residual dinámico y función de dictamen
-- 6. Banco de umbral primario y contraste físico
-  - 6.1. Púlsares
-  - 6.2. Agujeros negros
-  - 6.3. Constelaciones y estrellas rectoras
-  - 6.4. Galaxias adicionales
-- 7. Banco de clausura potencial
-- 8. Teoremas de cierre dinámico
-- 9. Sentencia del régimen dinámico
-- 10. Consecuencias globales del régimen dinámico de observables
-  - 10.1. Dado un observable tipado
-  - 10.2. Transducción bidireccional de la unidad observable
-  - 10.3. Tabla temporal de unidades relacionales
-  - 10.4. Dada la interrelación de todos los observables
-  - 10.5. Tabla global de consecuencias por horizonte
-  - 10.6. Comparación con Ciencia contemporánea: absorción, absorción parcial y rechazo como fundamento
-  - 10.7. Teorema de doble escala
-  - 10.8. Conclusión
-- 11. Síntesis final: el régimen dinámico bajo el techo rector
+- I. Ley de tendencia ciclo-distancial
+- II. Ley de clausura por potencial, canal o ligadura
+- III. Ley de retorno energético
+- IV. Transductor bidireccional SV↔ciencia contemporánea
+- V. Residual dinámico y función de dictamen
+- VI. Banco de umbral primario y contraste físico
+  - VI.1. Púlsares
+  - VI.2. Agujeros negros
+  - VI.3. Constelaciones y estrellas rectoras
+  - VI.4. Galaxias adicionales
+- VII. Banco de clausura potencial
+- VIII. Teoremas de cierre dinámico
+- IX. Sentencia del régimen dinámico
+- X. Consecuencias globales del régimen dinámico de observables
+  - X.1. Dado un observable tipado
+  - X.2. Transducción bidireccional de la unidad observable
+  - X.3. Tabla temporal de unidades relacionales
+  - X.4. Dada la interrelación de todos los observables
+  - X.5. Tabla global de consecuencias por horizonte
+  - X.6. Comparación con ciencia contemporánea: absorción, absorción parcial y rechazo como fundamento
+  - X.7. Teorema de doble escala
+  - X.8. Conclusión
+- XI. Síntesis final: el régimen dinámico bajo el techo rector
 - Bibliografía
   - Corpus SV citado
 </details>
@@ -489,7 +489,7 @@ La atribución de distancia no queda completa hasta que la proyección tipada pu
 
 ## I.7. El observable, el retorno y lo no observable: delimitación general
 
-En esta parte inicial y en el desarrollo principal, «observable» se emplea en un sentido operativo y declarado: en `P.1`, como el contenido estructural que posee distinguibilidad, traza, frontera y proyección; en la segunda parte, como el contenido físico que retorna con firma suficiente para ser tipado, medido y contrastado. Conviene dejar dicho, con un solo trazo, qué queda fuera de ese sentido. Hay una pregunta anterior —si el observable es previo a su retorno o queda constituido por él, y cómo se ordena con la luz, con los retornos no luminosos y con lo no observable, esto es, con el sector oscuro y con la clausura— que aquí queda deliberadamente sin abrir: es una cuestión fundacional, de rango de corpus y no de un desarrollo sobre distancias, y dejarla así —ni resuelta en estas páginas ni adjudicada a una sede futura— preserva la libertad con que el corpus deba decidirla.
+En esta parte inicial y en el desarrollo principal, «observable» se emplea en un sentido operativo y declarado: en `I.1`, como el contenido estructural que posee distinguibilidad, traza, frontera y proyección; en la segunda parte, como el contenido físico que retorna con firma suficiente para ser tipado, medido y contrastado. Conviene dejar dicho, con un solo trazo, qué queda fuera de ese sentido. Hay una pregunta anterior —si el observable es previo a su retorno o queda constituido por él, y cómo se ordena con la luz, con los retornos no luminosos y con lo no observable, esto es, con el sector oscuro y con la clausura— que aquí queda deliberadamente sin abrir: es una cuestión fundacional, de rango de corpus y no de un desarrollo sobre distancias, y dejarla así —ni resuelta en estas páginas ni adjudicada a una sede futura— preserva la libertad con que el corpus deba decidirla.
 
 Esta línea no es una deuda viva ni una promesa de desarrollo en otro lugar: es un borde declarado. Se nombra para que cualquier revisión, del autor o de quien lea, la reconozca como una distinción situada deliberadamente fuera del alcance de este desarrollo, y para que el uso operativo de «observable» no se confunda con una respuesta a la cuestión constitutiva. Dentro de ese alcance, la distancia se atribuye a observables tipados; el origen del estatuto de observable queda fuera, sin pronunciamiento.
 
@@ -513,7 +513,7 @@ La distinción que el convenio sostiene descansa en una idea elemental y, aun as
 
 ### II.1. Posición del origen en la cadena ascendente
 
-(0,0)₍origen₎ ocupa un lugar muy preciso dentro del corpus: el pie de la cadena ascendente, el punto desde el cual se eleva la sucesión ordenada de niveles que el Sistema Vectorial SV recorre hasta su ecuación rectora. No es un lugar elegido por conveniencia. Una cadena así necesita un primer término —algo que esté antes de que nada se haya distinguido todavía—, y ese primer término es el origen. Llamarlo origen de potencial, y no simplemente origen, responde a lo que en él se halla: no un contenido ya desplegado, sino la posibilidad de que un despliegue ocurra. Situado de este modo, (0,0)₍origen₎ no es el resultado de ningún proceso anterior interno al sistema; es aquello desde lo cual la cadena emelemento a ascender.
+(0,0)₍origen₎ ocupa un lugar muy preciso dentro del corpus: el pie de la cadena ascendente, el punto desde el cual se eleva la sucesión ordenada de niveles que el Sistema Vectorial SV recorre hasta su ecuación rectora. No es un lugar elegido por conveniencia. Una cadena así necesita un primer término —algo que esté antes de que nada se haya distinguido todavía—, y ese primer término es el origen. Llamarlo origen de potencial, y no simplemente origen, responde a lo que en él se halla: no un contenido ya desplegado, sino la posibilidad de que un despliegue ocurra. Situado de este modo, (0,0)₍origen₎ no es el resultado de ningún proceso anterior interno al sistema; es aquello desde lo cual la cadena comienza a ascender.
 
 ### II.2. El origen como potencial no desplegado
 
@@ -541,9 +541,9 @@ La expresión «dentro del TODO y no del TODO» no contrapone dos todos ni intro
 
 Importa precisar además dónde ocurre ese cierre, porque una lectura apresurada podría tomarlo por un final de todo. No lo es. El ciclo se cierra dentro del TODO, nunca del TODO. El TODO no es el ciclo, ni es la suma de los contenidos que los ciclos producen; es aquello que los retiene, y que por su propia índole no se cierra ni admite que se le pregunte por una edad. Cuando un ciclo alcanza su frontera, lo que ha terminado es ese ciclo, y lo ha hecho en el interior de un TODO que sigue siendo el lugar donde lo sucedido permanece. Confundir el cierre de un ciclo con un cierre del TODO sería atribuir a la totalidad una propiedad —la de terminar— que el corpus le niega de manera expresa.
 
-### III.4. Retención factual append-only y reapertura
+### III.4. Retención factual sólo aditiva y reapertura
 
-Queda por decir en qué consiste con exactitud esa retención, y es quizá lo más fino de toda la articulación. Lo que el TODO conserva no es el objeto físico tal como fue —los objetos físicos son destructibles, y su destrucción no contradice nada de lo anterior—, sino el haber-ocurrido: el hecho de que algo sucedió. Un suceso, una vez acaecido, no puede volverse no acaecido; el pasado no se des-ocurre. El corpus da a esa conservación una forma estricta: la retención es append-only, sólo añade y nunca borra, de modo que cada ciclo cerrado se incorpora a la traza sin que ninguno de los anteriores resulte alterado. Y precisamente porque sólo se añade, la frontera no es un punto final sin salida: admite reapertura, también ella append-only, esto es, el comienzo de un ciclo nuevo que se suma a lo retenido sin sustituirlo. (0,0)₍frontera₎ es, en suma, un cierre que conserva y desde el cual cabe continuar: no un término que clausura, sino una culminación que el corpus deja abierta a lo que siga.
+Queda por decir en qué consiste con exactitud esa retención, y es quizá lo más fino de toda la articulación. Lo que el TODO conserva no es el objeto físico tal como fue —los objetos físicos son destructibles, y su destrucción no contradice nada de lo anterior—, sino el haber-ocurrido: el hecho de que algo sucedió. Un suceso, una vez acaecido, no puede volverse no acaecido; el pasado no se des-ocurre. El corpus da a esa conservación una forma estricta: la retención es sólo aditiva: sólo añade y nunca borra, de modo que cada ciclo cerrado se incorpora a la traza sin que ninguno de los anteriores resulte alterado. Y precisamente porque sólo se añade, la frontera no es un punto final sin salida: admite reapertura, también ella sólo aditiva, esto es, el comienzo de un ciclo nuevo que se suma a lo retenido sin sustituirlo. (0,0)₍frontera₎ es, en suma, un cierre que conserva y desde el cual cabe continuar: no un término que clausura, sino una culminación que el corpus deja abierta a lo que siga.
 
 ## IV. Relación entre origen y frontera
 
@@ -571,7 +571,7 @@ Lo que la frontera afirma en general, el corpus lo muestra trabajado sobre un ca
 
 ### V.3. El anidamiento del universo observable y la retención del haber-ocurrido
 
-La retención que la frontera lleva consigo recibe su forma precisa en el documento sobre las edades relativas del universo observable. Allí se ordena el anidamiento de los dominios —el universo observable contenido en el universo físico, y éste en el TODO— y se establece que al TODO no le corresponde edad admisible, justamente porque no es un objeto interno susceptible de ser fechado. En esa misma sede el corpus da a la noción de retención su definición operativa: la conservación append-only, que sólo incorpora y nunca suprime. De ahí procede la afirmación, ya hecha, de que lo retenido es el haber-ocurrido: no el objeto perecedero, sino el hecho —inalterable una vez acaecido— de que algo sucedió. La frontera hereda esa definición; no la inventa.
+La retención que la frontera lleva consigo recibe su forma precisa en el documento sobre las edades relativas del universo observable. Allí se ordena el anidamiento de los dominios —el universo observable contenido en el universo físico, y éste en el TODO— y se establece que al TODO no le corresponde edad admisible, justamente porque no es un objeto interno susceptible de ser fechado. En esa misma sede el corpus da a la noción de retención su definición operativa: la conservación sólo aditiva, que sólo incorpora y nunca suprime. De ahí procede la afirmación, ya hecha, de que lo retenido es el haber-ocurrido: no el objeto perecedero, sino el hecho —inalterable una vez acaecido— de que algo sucedió. La frontera hereda esa definición; no la inventa.
 
 ### V.4. La imperfección preformal como condición de la primera distinguibilidad
 
@@ -585,17 +585,17 @@ La articulación (0,0), una vez fijada, no queda encerrada en sí misma: otras f
 
 ### VI.2. La articulación (0,0) como referencia formal de la distancia absoluta
 
-El consumo más directo de la articulación se da en la distancia absoluta. Medir una distancia absoluta es medir respecto de un origen, y ese origen es (0,0)₍origen₎. La condición para que tal medida sea legítima es la que se ha establecido: que el origen esté fijado como posición formal —pie de la cadena, potencial no desplegado— y no se confunda ni con la frontera ni con un comienzo físico del Universo. La distancia absoluta del SV no es, entonces, un radio del cosmos medido desde un punto material; es la separación, leída con el aparato del corpus, entre un observable y la referencia formal de origen. Tomar (0,0)₍origen₎ por un lugar físico convierte una referencia formal en un objeto medible, y ese paso —que el corpus registra como error de plano— invalida la medida. La distinción de las dos posiciones es, por eso, condición previa de todo tratamiento legítimo de la distancia absoluta.
+El uso más directo de la articulación se da en la distancia absoluta. Medir una distancia absoluta es medir respecto de un origen, y ese origen es (0,0)₍origen₎. La condición para que tal medida sea legítima es la que se ha establecido: que el origen esté fijado como posición formal —pie de la cadena, potencial no desplegado— y no se confunda ni con la frontera ni con un comienzo físico del Universo. La distancia absoluta del SV no es, entonces, un radio del cosmos medido desde un punto material; es la separación, leída con el aparato del corpus, entre un observable y la referencia formal de origen. Tomar (0,0)₍origen₎ por un lugar físico convierte una referencia formal en un objeto medible, y ese paso —que el corpus registra como error de plano— invalida la medida. La distinción de las dos posiciones es, por eso, condición previa de todo tratamiento legítimo de la distancia absoluta.
 
 ### VI.3. Continuidad del corpus y regla de no duplicación
 
-El corpus se rige por una regla de continuidad que conviene hacer explícita: no se duplica aparato ni se redefine lo ya definido. Una noción establecida en su sede se cita desde los formulaciones que la usan, y no se vuelve a fundar en cada uno. La articulación (0,0) obedece esa regla. El origen y la frontera, sus magnitudes de cierre y su distinción operativa quedan fijados una sola vez, y los desarrollos que los emplean —la interacción de campos, la distancia entre observables— remiten a esa fijación en lugar de rehacerla. Esa economía no es mero orden formal: es lo que impide que una misma noción adquiera lecturas divergentes en lugares distintos del corpus, que es la vía por la que un sistema teórico se vuelve incoherente sin que nadie lo advierta. Fijar (0,0) una sola vez, y bien, es la condición de que el resto del corpus pueda apoyarse en él sin recelo.
+El corpus se rige por una regla de continuidad que conviene hacer explícita: no se duplica aparato ni se redefine lo ya definido. Una noción establecida en su sede se cita desde las formulaciones que la usan, y no se vuelve a fundar en cada uno. La articulación (0,0) obedece esa regla. El origen y la frontera, sus magnitudes de cierre y su distinción operativa quedan fijados una sola vez, y los desarrollos que los emplean —la interacción de campos, la distancia entre observables— remiten a esa fijación en lugar de rehacerla. Esa economía no es mero orden formal: es lo que impide que una misma noción adquiera lecturas divergentes en lugares distintos del corpus, que es la vía por la que un sistema teórico se vuelve incoherente sin que nadie lo advierta. Fijar (0,0) una sola vez, y bien, es la condición de que el resto del corpus pueda apoyarse en él sin recelo.
 
 ### VI.4. El transductor sometido a su caso negativo más fuerte
 
-Resta una objeción, y es la más fuerte que puede dirigirse a cuanto se ha construido. El paso del SV a la física contemporánea, y de vuelta, se hace por un transductor, y todo transductor admite una sospecha: la de ser un mecanismo permisivo, capaz de aceptar cualquier entrada si no se lo somete a una compuerta adversarial, de modo que su veredicto favorable no probaría nada. Si esa sospecha se sostuviera, el transductor quedaría invalidado, y con él la articulación entre el corpus y la ciencia establecida. La objeción no se esquiva. El transductor no se juzga por los casos que acepta, sino por los que debe rechazar. Un caso negativo es una construcción deliberadamente errónea cuyo veredicto correcto —el rechazo— no lo decide el SV ni lo decide quien redacta: lo fija la física contemporánea. Que `v = cz` no vale para corrimientos al rojo altos, que la distancia de luminosidad y la angular no son intercambiables, que la totalidad no es un objeto métrico, que el origen formal no es el Big Bang: son errores que cualquier físico competente reconoce como tales, con independencia del corpus. Un transductor sometido a una batería de casos así —dura, no trivial, no escogida a conveniencia— sólo la supera si discrimina de verdad: si rechaza cada uno, ha mostrado que no es dócil; si dejara pasar uno solo, el laboratorio no estaría terminado, y como tal constaría. La fuerza de esa prueba es interna al trabajo: ni descansa en que un tercero la conceda —el cotejo ajeno es salud de la ciencia, no su depositario último— ni en que el aparato se certifique a sí mismo.
+Resta una objeción, y es la más fuerte que puede dirigirse a cuanto se ha construido. El paso del SV a la física contemporánea, y de vuelta, se hace por un transductor, y todo transductor admite una sospecha: la de ser un mecanismo permisivo, capaz de aceptar cualquier entrada si no se lo somete a una compuerta adversarial, de modo que su veredicto favorable no probaría nada. Si esa sospecha se sostuviera, el transductor quedaría invalidado, y con él la articulación entre el corpus y la ciencia establecida. La objeción no se esquiva. El transductor no se juzga por los casos que acepta, sino por los que debe rechazar. Un caso negativo es una construcción deliberadamente errónea cuyo veredicto correcto —el rechazo— no lo decide el SV ni lo decide quien redacta: lo fija la física contemporánea. Que `v = cz` no vale para corrimientos al rojo altos, que la distancia de luminosidad y la angular no son intercambiables, que la totalidad no es un objeto métrico, que el origen formal no es el Big Bang: son errores que cualquier físico competente reconoce como tales, con independencia del corpus. Un transductor sometido a una batería de casos así —dura, no trivial, no escogida a conveniencia— sólo la supera si discrimina de verdad: si rechaza cada uno, ha mostrado que discrimina; si dejara pasar uno solo, el laboratorio no estaría terminado, y como tal constaría. La fuerza de esa prueba es interna al trabajo: ni descansa en que un tercero la conceda —el cotejo ajeno es salud de la ciencia, no su depositario último— ni en que el aparato se certifique a sí mismo.
 
-Conviene nombrar con exactitud lo que esa batería establece, sin agrandarlo. Establece error cero de plano: ausencia de confusión de categorías sobre todos los casos examinados. No establece que el SV agote la verdad de la cosmología —ninguna batería, por extensa que sea, demostraría tal cosa—, sino algo más sobrio y, por sobrio, más firme: que allí donde la física reconoce un error, el transductor lo reconoce también. La sospecha del transductor dócil se responde, así, del único modo que la disuelve: no apartándola, sino llevándola hasta su caso más duro y exigiendo allí el rechazo. Y es el cumplimiento de esa exigencia, caso por caso y con los números a la vista, lo que sostiene la articulación entre el corpus y la ciencia contemporánea sin que ésta tenga que sobreafirmarse.
+Conviene nombrar con exactitud lo que esa batería establece, sin agrandarlo. Establece error cero de plano: ausencia de confusión de categorías sobre todos los casos examinados. No establece que el SV agote la verdad de la cosmología —ninguna batería, por extensa que sea, demostraría tal cosa—, sino algo más sobrio y, por sobrio, más firme: que allí donde la física reconoce un error, el transductor lo reconoce también. La sospecha de un transductor incapaz de discriminar se responde, así, del único modo que la disuelve: no apartándola, sino llevándola hasta su caso más duro y exigiendo allí el rechazo. Y es el cumplimiento de esa exigencia, caso por caso y con los números a la vista, lo que sostiene la articulación entre el corpus y la ciencia contemporánea sin que ésta tenga que sobreafirmarse.
 
 # Parte III — Distancia absoluta y relativa entre observables del Universo
 
@@ -621,7 +621,7 @@ La tesis central puede enunciarse en una frase, aunque su exposición ocupe el r
 
 ### I.5. Distancia absoluta y distancia relativa: definición preliminar
 
-Las dos nociones que dan título a estas páginas admiten una definición preliminar, suficiente para orientar la lectura y que los secciones posteriores precisarán. La distancia absoluta se admitirá sólo en un sentido restringido: la distancia de un observable declarado respecto de un origen formal de referencia, y nunca a costa de convertir ese origen en un punto métrico, en un instante inicial, en un centro del espacio o en un Big Bang físico. La distancia relativa será la comparación entre dos observables físicos declarados, realizada con una métrica homogénea o con un transductor explícito que medie entre métricas distintas. Cada una impone su propia cautela. La distancia absoluta obliga a proteger el origen de potencial de toda espacialización o temporalización indebida. La distancia relativa obliga a proteger el par de observables de la mezcla de métricas. Bajo esa cautela, una galaxia puede compararse con otra por distancia comóvil, por luminosidad inferida, por tamaño angular, por firma espectral o por su perfil SV de cambio factual, con una sola condición: que la magnitud no cambie de tipo en el curso del cálculo. Y cuando la comparación recurra a magnitudes de dominios distintos, el transductor habrá de declarar la equivalencia de entrada, el residual y el retorno antes de que se autorice dictamen alguno.
+Las dos nociones que dan título a estas páginas admiten una definición preliminar, suficiente para orientar la lectura y que las secciones posteriores precisarán. La distancia absoluta se admitirá sólo en un sentido restringido: la distancia de un observable declarado respecto de un origen formal de referencia, y nunca a costa de convertir ese origen en un punto métrico, en un instante inicial, en un centro del espacio o en un Big Bang físico. La distancia relativa será la comparación entre dos observables físicos declarados, realizada con una métrica homogénea o con un transductor explícito que medie entre métricas distintas. Cada una impone su propia cautela. La distancia absoluta obliga a proteger el origen de potencial de toda espacialización o temporalización indebida. La distancia relativa obliga a proteger el par de observables de la mezcla de métricas. Bajo esa cautela, una galaxia puede compararse con otra por distancia comóvil, por luminosidad inferida, por tamaño angular, por firma espectral o por su perfil SV de cambio factual, con una sola condición: que la magnitud no cambie de tipo en el curso del cálculo. Y cuando la comparación recurra a magnitudes de dominios distintos, el transductor habrá de declarar la equivalencia de entrada, el residual y el retorno antes de que se autorice dictamen alguno.
 
 ### I.6. Regla de lectura: absorción total, absorción parcial y rechazo como fundamento
 
@@ -629,7 +629,7 @@ Toda teoría o ecuación que entra en este análisis recibe uno de tres dictáme
 
 ### I.7. Posición del trabajo: dependencia de la línea de interacción, intercomposición y transmisión entre campos
 
-Este desarrollo se inscribe en la línea de [interacción, intercomposición y transmisión factual entre campos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/interaccion-intercomposicion-transmision-campos.md), y lo hace por una razón de fondo: la distancia entre observables cosmológicos no se resuelve con una métrica física por sí sola, ni con una fórmula interna por sí sola. La separación entre observables pone en juego campos admitidos, señales, trayectorias, fronteras, transmisión factual, residuales y retorno físico, y todo ello pertenece a aquella línea. Hay aquí, de hecho, dos vías que deben recorrerse a la par. Una es formal: la aportan la distancia factual fibrosa `d^{SV}_Φ`, la distancia global `D^{SV}_Φ(Γ)`, el defecto telescópico `Δ^Φ_q`, la distancia intercampo `DistInter^{SV}_{a,b}(Γ)` y el operador de transmisión `𝓣_SV`. La otra es física: la aportan las distancias cosmológicas, el corrimiento al rojo, el factor de escala, las observaciones galácticas y las mediciones de Hubble. Ninguna de las dos sustituye a la otra, y el transductor lo exige sin concesiones: ambas han de devolver el mismo caso, y con el mismo alcance. De ahí el estatuto de estas páginas dentro del corpus: el de un desarrollo técnico dependiente a la línea de interacción, intercomposición y transmisión factual entre campos, que precisa para un dominio —el cosmológico— lo que aquella establece en general.
+Este desarrollo se inscribe en la línea de [interacción, intercomposición y transmisión factual entre campos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/interaccion-intercomposicion-transmision-campos.md), y lo hace por una razón de fondo: la distancia entre observables cosmológicos no se resuelve con una métrica física por sí sola, ni con una fórmula interna por sí sola. La separación entre observables pone en juego campos admitidos, señales, trayectorias, fronteras, transmisión factual, residuales y retorno físico, y todo ello pertenece a aquella línea. Hay aquí, de hecho, dos vías que deben recorrerse a la par. Una es formal: la aportan la distancia factual fibrosa `d^{SV}_Φ`, la distancia global `D^{SV}_Φ(Γ)`, el defecto telescópico `Δ^Φ_q`, la distancia intercampo `DistInter^{SV}_{a,b}(Γ)` y el operador de transmisión `𝓣_SV`. La otra es física: la aportan las distancias cosmológicas, el corrimiento al rojo, el factor de escala, las observaciones galácticas y las mediciones de Hubble. Ninguna de las dos sustituye a la otra, y el transductor lo exige sin concesiones: ambas han de devolver el mismo caso, y con el mismo alcance. De ahí el estatuto de estas páginas dentro del corpus: el de un desarrollo técnico dependiente de la línea de interacción, intercomposición y transmisión factual entre campos, que precisa para un dominio —el cosmológico— lo que aquella establece en general.
 
 ### I.8. Prohibiciones constitutivas aplicadas: tiempo rector, probabilidad fundante, geometría fundante, inferencia opaca y clausura espuria
 
@@ -719,7 +719,7 @@ Cada una de estas entradas habrá de presentarse con su dominio, su unidad, su e
 
 ## III. Fundamentos matemáticos y físicos de la distancia en el corpus SV
 
-Anclar el problema de la distancia exige leerlo en dos direcciones a la vez, y sin que los planos se mezclen. De abajo arriba: todo observable cosmológico ha de entrar por una magnitud física reconocible, una unidad, una firma de retorno, una trayectoria de lectura y un modelo declarado, y sólo después se proyecta sobre el aparato SV mediante transductor, residual y dictamen. De arriba abajo: ninguna magnitud física puede enmendar el techo doctrinal ni ascender un parámetro externo a la condición de fundamento. Es la [Teoría del TODO y de la NADA](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md) la que fija la completitud estructural, el origen de potencial, la distancia factual fibrosa y la prohibición de sustituir la dependencia formal por cronología, geometría o probabilidad. La distancia cosmológica queda, por eso, situada como una operación subordinada: no nace de la impresión visual de unas galaxias que «se alejan», sino de una cadena que distingue el observable, el retorno, el modelo físico, la lectura SV y el cierre por residual.
+Anclar el problema de la distancia exige leerlo en dos direcciones a la vez, y sin que los planos se mezclen. De abajo arriba: todo observable cosmológico ha de entrar por una magnitud física reconocible, una unidad, una firma de retorno, una trayectoria de lectura y un modelo declarado, y sólo después se proyecta sobre el aparato SV mediante transductor, residual y dictamen. De arriba abajo: ninguna magnitud física puede enmendar el techo rector ni ascender un parámetro externo a la condición de fundamento. Es la [Teoría del TODO y de la NADA](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md) la que fija la completitud estructural, el origen de potencial, la distancia factual fibrosa y la prohibición de sustituir la dependencia formal por cronología, geometría o probabilidad. La distancia cosmológica queda, por eso, situada como una operación subordinada: no nace de la impresión visual de unas galaxias que «se alejan», sino de una cadena que distingue el observable, el retorno, el modelo físico, la lectura SV y el cierre por residual.
 
 ### III.1. Cadena ascendente aplicable al problema de distancia
 
@@ -974,7 +974,7 @@ Un candidato sin identidad suficiente no debe forzarse a distancia. Puede haber 
 
 ## VII. Transductor físico-factual de distancia cosmológica
 
-La distancia cosmológica sólo puede atravesar con limelemento el paso entre el SV y la física contemporánea si existe una correspondencia bidireccional que conserve tipo, unidad, ecuación, régimen, residual y retorno. Esa correspondencia no sustituye a las distancias físicas ni a los operadores SV ya disponibles: actúa como instancia restringida de transducción, para que una magnitud física externa pueda entrar en el aparato SV sin perder su dominio, y para que una lectura SV pueda volver al lenguaje físico sin quedar como nomenclatura interna. El transductor de distancia no inventa una métrica nueva del Universo, no altera `d^{SV}_Φ`, no reemplaza `DistInter^{SV}_{a,b}(Γ)` y no convierte el origen formal en un punto físico. Su función exacta es decidir cuándo un enunciado distancial sobre observables cosmológicos conserva la correspondencia entre ambos dominios y cuándo incurre en defecto de plano, magnitud, unidad, ecuación, transducción o retorno.
+La distancia cosmológica sólo puede atravesar con limpieza el paso entre el SV y la física contemporánea si existe una correspondencia bidireccional que conserve tipo, unidad, ecuación, régimen, residual y retorno. Esa correspondencia no sustituye a las distancias físicas ni a los operadores SV ya disponibles: actúa como instancia restringida de transducción, para que una magnitud física externa pueda entrar en el aparato SV sin perder su dominio, y para que una lectura SV pueda volver al lenguaje físico sin quedar como nomenclatura interna. El transductor de distancia no inventa una métrica nueva del Universo, no altera `d^{SV}_Φ`, no reemplaza `DistInter^{SV}_{a,b}(Γ)` y no convierte el origen formal en un punto físico. Su función exacta es decidir cuándo un enunciado distancial sobre observables cosmológicos conserva la correspondencia entre ambos dominios y cuándo incurre en defecto de plano, magnitud, unidad, ecuación, transducción o retorno.
 
 ### VII.1. Necesidad del transductor `𝔛^{dist}_{SV↔FC}`
 
@@ -1002,7 +1002,7 @@ El transductor conserva ocho invariantes: la identidad del observable, el tipo d
 
 ### VII.7. Residual transductivo de distancia
 
-El residual transductivo estricto de distancia se define como `Δ^{SV↔FC}_{𝔛,dist}=Δ_Ω⊕Δ_m⊕Δ_u⊕Δ_𝓔⊕Δ_reg⊕Δ_T⊕Δ_ret`, donde `Δ_Ω` detecta el error de dominio, `Δ_m` el de magnitud, `Δ_u` el de unidad, `Δ_𝓔` el de ecuación, `Δ_reg` la salida de régimen, `Δ_T` el fallo de transducción y `Δ_ret` el fallo de retorno físico. La operación `⊕` no es una suma aritmética, sino una agregación de compuertas: basta un defecto no resuelto para impedir el cierre pleno. Este residual no agota todavía el control laboratorial: el residual compuesto global de la sección VIII.3 añade `Δ_𝓑`, la compuerta de banco. La relación entre ambos queda `Δ^{SV↔FC}_{dist}=Δ^{SV↔FC}_{𝔛,dist}⊕Δ_𝓑`. La absorción total exige `Δ^{SV↔FC}_{dist}=0`; la absorción transductiva estricta exige `Δ^{SV↔FC}_{𝔛,dist}=0`. La absorción parcial queda cuando la magnitud física funciona dentro de su dominio pero conserva un residual externo declarado, una tensión entre rutas o una dependencia de modelo no cerrada. Y el rechazo queda cuando el defecto procede de error de plano, de sustitución de magnitud, de imposibilidad de retorno o de fallo de banco.
+El residual transductivo estricto de distancia se define como `Δ^{SV↔FC}_{𝔛,dist}=Δ_Ω⊕Δ_m⊕Δ_u⊕Δ_𝓔⊕Δ_reg⊕Δ_T⊕Δ_ret`, donde `Δ_Ω` detecta el error de dominio, `Δ_m` el de magnitud, `Δ_u` el de unidad, `Δ_𝓔` el de ecuación, `Δ_reg` la salida de régimen, `Δ_T` el fallo de transducción y `Δ_ret` el fallo de retorno físico. La operación `⊕` no es una suma aritmética, sino una agregación de compuertas: basta un defecto no resuelto para impedir el cierre pleno. Este residual no agota todavía el control de laboratorio: el residual compuesto global de la sección VIII.3 añade `Δ_𝓑`, la compuerta de banco. La relación entre ambos queda `Δ^{SV↔FC}_{dist}=Δ^{SV↔FC}_{𝔛,dist}⊕Δ_𝓑`. La absorción total exige `Δ^{SV↔FC}_{dist}=0`; la absorción transductiva estricta exige `Δ^{SV↔FC}_{𝔛,dist}=0`. La absorción parcial queda cuando la magnitud física funciona dentro de su dominio pero conserva un residual externo declarado, una tensión entre rutas o una dependencia de modelo no cerrada. Y el rechazo queda cuando el defecto procede de error de plano, de sustitución de magnitud, de imposibilidad de retorno o de fallo de banco.
 
 ### VII.8. Retorno físico controlado
 
@@ -1096,7 +1096,7 @@ Teorema: la completitud estructural del Universo y la expansión cosmológica de
 
 ## IX. Absorción, absorción parcial y rechazo de teorías y ecuaciones externas
 
-Absorber no significa adhesión doctrinal a una teoría externa, ni rechazo de la física contemporánea cuando el SV corrige su alcance. Absorber una ecuación significa reconocer que funciona dentro de su dominio, con sus magnitudes, unidades, hipótesis y retornos; absorberla parcialmente significa reconocer su potencia instrumental junto a un residual no cerrado, una dependencia de modelo o una extrapolación inadmisible como fundamento; rechazarla significa detectar error de plano, sustitución de magnitud, salida de régimen o imposibilidad de retorno. Una misma teoría puede contener partes absorbidas, partes parcialmente absorbidas y partes rechazadas, según el uso. Así, ΛCDM puede ser absorbido como modelo de distancias internas y rechazado si se formula como demostración de la expansión de la totalidad absoluta; Hubble-Lemaître puede absorberse en bajo corrimiento al rojo y rechazarse si `v=cz` se aplica a galaxias extremas; el Big Bang puede operar como régimen retrospectivo de modelo y quedar rechazado si se identifica con el origen formal `(0,0)`.
+Absorber no significa adhesión de fundamento a una teoría externa, ni rechazo de la física contemporánea cuando el SV corrige su alcance. Absorber una ecuación significa reconocer que funciona dentro de su dominio, con sus magnitudes, unidades, hipótesis y retornos; absorberla parcialmente significa reconocer su potencia instrumental junto a un residual no cerrado, una dependencia de modelo o una extrapolación inadmisible como fundamento; rechazarla significa detectar error de plano, sustitución de magnitud, salida de régimen o imposibilidad de retorno. Una misma teoría puede contener partes absorbidas, partes parcialmente absorbidas y partes rechazadas, según el uso. Así, ΛCDM puede ser absorbido como modelo de distancias internas y rechazado si se formula como demostración de la expansión de la totalidad absoluta; Hubble-Lemaître puede absorberse en bajo corrimiento al rojo y rechazarse si `v=cz` se aplica a galaxias extremas; el Big Bang puede operar como régimen retrospectivo de modelo y quedar rechazado si se identifica con el origen formal `(0,0)`.
 
 ### IX.1. Criterio general de absorción
 
@@ -1140,7 +1140,7 @@ Las galaxias tempranas observadas por el JWST se absorben como retornos extremos
 
 ### IX.11. Big Bang como singularidad métrica inicial: rechazo como fundamento
 
-El Big Bang entendido como singularidad métrica inicial, como punto físico de origen o como instante absoluto que coincide con `(0,0)` queda rechazado como fundamento del SV. La razón es formal: identifica una extrapolación física de modelo con un origen de potencial que no es espacial ni temporal, y convierte el límite retrospectivo de una ecuación en sede doctrinal. La cosmología puede usar estados tempranos, nucleosíntesis, desacoplamiento, inflación o singularidades de modelos como elementos físicos de reconstrucción; lo que no puede hacer dentro de esta tesis es sustituir el origen formal por un evento físico ordinario. El rechazo no niega la validez de la cosmología temprana como dominio físico: niega que una singularidad métrica pueda funcionar como origen absoluto del aparato SV.
+El Big Bang entendido como singularidad métrica inicial, como punto físico de origen o como instante absoluto que coincide con `(0,0)` queda rechazado como fundamento del SV. La razón es formal: identifica una extrapolación física de modelo con un origen de potencial que no es espacial ni temporal, y convierte el límite retrospectivo de una ecuación en sede rectora. La cosmología puede usar estados tempranos, nucleosíntesis, desacoplamiento, inflación o singularidades de modelos como elementos físicos de reconstrucción; lo que no puede hacer dentro de esta tesis es sustituir el origen formal por un evento físico ordinario. El rechazo no niega la validez de la cosmología temprana como dominio físico: niega que una singularidad métrica pueda funcionar como origen absoluto del aparato SV.
 
 ### IX.12. Big Bang como régimen físico de modelo retrospectivo: absorción parcial
 
@@ -1414,7 +1414,7 @@ Teorema: la expansión cosmológica de separaciones internas no implica expansi�
 
 ### XIII.6. Teorema 6 — Absorción instrumental de ΛCDM bajo dominio declarado
 
-Teorema: ΛCDM queda absorbido instrumentalmente cuando se usa para calcular magnitudes internas bajo dominio declarado. Demostración: ΛCDM aporta parámetros, ecuaciones y relaciones para `H(z)`, `D_C`, `D_M`, `D_L`, `D_A`, edad de mirada atrás, aceleración de escala y comparación de observables; si esas magnitudes se usan con unidad, régimen, parámetros y frontera, entran en `Ω^{dist}_{FC}` y el transductor puede proyectarlas al SV sin defecto. Esa absorción no convierte ΛCDM en fundamento de la totalidad ni en origen formal, porque el modelo opera sobre relaciones internas entre observables. Si ΛCDM se usa como ontología total, se activa error de plano; si se usa como modelo instrumental, el residual puede anularse. Luego ΛCDM es absorbible por dominio, no soberano por nombre. Q.E.D.
+Teorema: ΛCDM queda absorbido instrumentalmente cuando se usa para calcular magnitudes internas bajo dominio declarado. Demostración: ΛCDM aporta parámetros, ecuaciones y relaciones para `H(z)`, `D_C`, `D_M`, `D_L`, `D_A`, edad de mirada atrás, aceleración de escala y comparación de observables; si esas magnitudes se usan con unidad, régimen, parámetros y frontera, entran en `Ω^{dist}_{FC}` y el transductor puede proyectarlas al SV sin defecto. Esa absorción no convierte ΛCDM en fundamento de la totalidad ni en origen formal, porque el modelo opera sobre relaciones internas entre observables. Si ΛCDM se usa como ontología total, se activa error de plano; si se usa como modelo instrumental, el residual puede anularse. Luego ΛCDM es absorbible por dominio, no fundamento por nombre. Q.E.D.
 
 ### XIII.7. Teorema 7 — Absorción parcial de tensiones cosmológicas como residuales de dominio
 
@@ -1645,7 +1645,7 @@ Las secciones XIV y XIV han ejercitado el aparato sobre casos y han nombrado, al
 
 ### XVI.13. E-DIST-13 — Banco positivo sin negativo correspondiente
 
-`E-DIST-13` se comete cuando un banco positivo se presenta sin el banco negativo que lo contrasta. Una batería que sólo contuviera casos aptos confirmaría la prosa sin arriesgarla, y no tendría valor probatorio: es la decoración que el corolario de cierre de la sección XIII niega expresamente. El control no es una compuerta de caso, sino una exigencia de método: todo banco positivo debe llevar el negativo que podría haberlo refutado. La corrección SV es la estructura misma de las secciones XIV y XIV —contraste apareado con reducción al absurdo— y la batería positiva y negativa conjunta del laboratorio.
+`E-DIST-13` se comete cuando un banco positivo se presenta sin el banco negativo que lo contrasta. Una batería que sólo contuviera casos aptos confirmaría la prosa sin arriesgarla, y no tendría valor probatorio: es la decoración que el corolario de cierre de la sección XIII niega expresamente. El control no es una compuerta de caso, sino una exigencia de método: todo banco positivo debe llevar el negativo que podría haberlo refutado. La corrección SV es la estructura misma de las secciones XIV y XV —contraste apareado con reducción al absurdo— y la batería positiva y negativa conjunta del laboratorio.
 
 ### XVI.14. E-DIST-14 — Laboratorio con pase silencioso
 
@@ -1678,7 +1678,7 @@ Las secciones anteriores han construido el aparato y lo han sometido a prueba. E
 
 ### XVII.1. Qué absorbe el SV de la cosmología contemporánea
 
-El SV no disputa la física predictiva de la cosmología contemporánea. Absorbe como instrumental la relación entre corrimiento al rojo y factor de escala `1+z=a(t_0)/a(t_e)`, la ley de Hubble-Lemaître en su régimen de bajo corrimiento al rojo, las distancias cosmológicas integrales `D_C`, `D_L`, `D_A` y `D_M`, las ecuaciones de Friedmann como dinámica del factor de escala, el modelo ΛCDM como modelo instrumental de alto rango para las distancias internas, y las técnicas de medición —oscilaciones acústicas bariónicas, supernovas Ia, fondo cósmico de microondas, lentes gravitacionales— como dominios de retorno tipado. La absorción es total allí donde cada magnitud conserva dominio, unidad, ecuación, régimen y retorno físico; en esas condiciones el residual `Δ^{SV↔FC}_{dist}` se anula. Absorber no es adhesión doctrinal: es reconocer que el aparato contemporáneo calcula correctamente dentro de su dominio, y emplear esa potencia sin adoptar sus extrapolaciones.
+El SV no disputa la física predictiva de la cosmología contemporánea. Absorbe como instrumental la relación entre corrimiento al rojo y factor de escala `1+z=a(t_0)/a(t_e)`, la ley de Hubble-Lemaître en su régimen de bajo corrimiento al rojo, las distancias cosmológicas integrales `D_C`, `D_L`, `D_A` y `D_M`, las ecuaciones de Friedmann como dinámica del factor de escala, el modelo ΛCDM como modelo instrumental de alto rango para las distancias internas, y las técnicas de medición —oscilaciones acústicas bariónicas, supernovas Ia, fondo cósmico de microondas, lentes gravitacionales— como dominios de retorno tipado. La absorción es total allí donde cada magnitud conserva dominio, unidad, ecuación, régimen y retorno físico; en esas condiciones el residual `Δ^{SV↔FC}_{dist}` se anula. Absorber no es adhesión de fundamento: es reconocer que el aparato contemporáneo calcula correctamente dentro de su dominio, y emplear esa potencia sin adoptar sus extrapolaciones.
 
 ### XVII.2. Qué absorbe parcialmente
 
@@ -1714,15 +1714,15 @@ La tesis central del trabajo lee el Universo como completitud estructural: no co
 
 ### XVII.10. Límites del desarrollo
 
-Este trabajo no resuelve la tensión de Hubble, no decide entre energía oscura constante y dinámica, no se pronuncia sobre el mecanismo físico de la aceleración cósmica y no cierra los modelos de formación temprana que el JWST tensiona: son preguntas físicas abiertas, y el SV no pretende cerrarlas. Lo que el desarrollo sí aporta es un aparato de tipado y de correspondencia —una manera de formular esas preguntas sin error de plano, de absorber la física contemporánea dentro de su dominio y de mantener la totalidad fuera de la medición física ordinaria—. El límite es también un resultado: el SV delimita dónde la física es operativa y dónde emelemento la extrapolación, y esa delimitación, no una cosmología cerrada, es la contribución del trabajo.
+Este trabajo no resuelve la tensión de Hubble, no decide entre energía oscura constante y dinámica, no se pronuncia sobre el mecanismo físico de la aceleración cósmica y no cierra los modelos de formación temprana que el JWST tensiona: son preguntas físicas abiertas, y el SV no pretende cerrarlas. Lo que el desarrollo sí aporta es un aparato de tipado y de correspondencia —una manera de formular esas preguntas sin error de plano, de absorber la física contemporánea dentro de su dominio y de mantener la totalidad fuera de la medición física ordinaria—. El límite es también un resultado: el SV delimita dónde la física es operativa y dónde comienza la extrapolación, y esa delimitación, no una cosmología cerrada, es la contribución del trabajo.
 
 ## XVIII. Conclusión
 
-La segunda parte ha recorrido el camino completo: del estado del arte físico a la corrección SV, de la tipología estricta al transductor, de la fórmula directriz a los bancos de contraste, los bancos negativos y el catálogo de errores. Esta sección la cierra recogiendo el resultado en cinco planos —doctrinal, técnico, físico-factual, laboratorial y de absorción global— y declarando las aperturas que el desarrollo deja legítimamente planteadas.
+La segunda parte ha recorrido el camino completo: del estado del arte físico a la corrección SV, de la tipología estricta al transductor, de la fórmula directriz a los bancos de contraste, los bancos negativos y el catálogo de errores. Esta sección la cierra recogiendo el resultado en cinco planos —rector, técnico, físico-factual, de laboratorio y de absorción global— y declarando las aperturas que el desarrollo deja legítimamente planteadas.
 
-### XVIII.1. Resultado doctrinal
+### XVIII.1. Resultado rector
 
-El resultado doctrinal es que la tesis central se sostiene: `Universo completo ≠ observable expansivo total`. La totalidad no es un objeto físico medible desde un exterior, sino completitud estructural —la condición de cierre del dominio, no un contenido dentro de él—. El universo observable es un dominio de retornos físicos, no un borde absoluto de la realidad. La expansión cosmológica es interna —variación de relaciones tipadas entre observables bajo un modelo— y no un crecimiento ontológico de la totalidad hacia un afuera. El resultado doctrinal no es una cosmología nueva: es una corrección de plano que devuelve cada enunciado cosmológico a su dominio, y sobre esa corrección descansa todo el desarrollo.
+El resultado rector es que la tesis central se sostiene: `Universo completo ≠ observable expansivo total`. La totalidad no es un objeto físico medible desde un exterior, sino completitud estructural —la condición de cierre del dominio, no un contenido dentro de él—. El universo observable es un dominio de retornos físicos, no un borde absoluto de la realidad. La expansión cosmológica es interna —variación de relaciones tipadas entre observables bajo un modelo— y no un crecimiento ontológico de la totalidad hacia un afuera. El resultado rector no es una cosmología nueva: es una corrección de plano que devuelve cada enunciado cosmológico a su dominio, y sobre esa corrección descansa todo el desarrollo.
 
 ### XVIII.2. Resultado técnico
 
@@ -1732,7 +1732,7 @@ El resultado técnico es que el aparato queda completo y cerrado. La tipología 
 
 El resultado físico-factual es que el SV absorbe la física contemporánea dentro de su dominio y la devuelve tipada. La relación entre corrimiento al rojo y factor de escala, la ley de Hubble-Lemaître en bajo `z`, las distancias integrales, las ecuaciones de Friedmann, el modelo ΛCDM y las técnicas de medición quedan absorbidos como instrumentales, con el residual anulado allí donde se conservan dominio, unidad, ecuación, régimen y retorno. La tensión de Hubble se tipa como conflicto de rutas y no se aplana; la energía oscura entra como término de modelo; las galaxias del JWST entran como retornos extremos. El resultado físico-factual es que el aparato no rivaliza con la cosmología, sino que la disciplina: mantiene la física operativa dentro de su dominio y la totalidad fuera de la medición física ordinaria.
 
-### XVIII.4. Resultado laboratorial
+### XVIII.4. Resultado de laboratorio
 
 El resultado laboratorial es que el aparato es falsable y se sometió a prueba. El laboratorio `lab_bancos_negativos.py` ejecuta la batería —quince negativos y seis positivos— y la declara superada sólo bajo la doble condición: aceptar todo positivo y rechazar todo negativo por la compuerta esperada. Los negativos son construcciones diseñadas para fracasar, cuyo veredicto correcto lo fija la física reconocida; los positivos impiden que un aparato que rechazara toda entrada superase la batería de forma trivial. El resultado laboratorial es el error cero de plano sobre la batería: el transductor acepta lo correcto y rechaza el error canónico, y un laboratorio que pasara sin esa doble condición sería él mismo el error `E-DIST-14`.
 
@@ -1744,13 +1744,13 @@ La fórmula directriz, en su forma cerrada, queda `𝔇^{SV↔FC}_{dist}(𝒪_i,
 
 El dictamen de absorción global es triple. El SV absorbe la cosmología contemporánea de distancias como una física instrumental de alto rango; absorbe parcialmente los modelos que arrastran un residual no cerrado —la tensión de Hubble, la energía oscura dinámica, ΛCDM como interpretación última—; y rechaza las extrapolaciones que sacan una magnitud de su dominio —la totalidad como cuerpo que se expande, el horizonte observable como borde del Todo, el origen `(0,0)` como Big Bang físico—. El dictamen global no es un veredicto sobre la física, sino sobre las formulaciones: una misma teoría contiene partes absorbidas, partes parcialmente absorbidas y partes rechazadas, y el aparato se pronuncia sobre cada afirmación tipada, nunca sobre el nombre de la teoría.
 
-### XVIII.7. Aperturas posteriores legítimas
+### XVIII.7. Alcance y límites del resultado
 
-El desarrollo cierra su propia pregunta y deja otras honradamente abiertas. No resuelve la tensión de Hubble, no decide entre energía oscura constante y dinámica, no se pronuncia sobre el mecanismo de la aceleración cósmica: esas preguntas quedan abiertas como cuestiones físicas, y el aparato les ofrece una forma de plantearse sin error de plano. Más allá de este trabajo, el mismo transductor admite extensiones legítimas —el tipado de otros observables cosmológicos, la integración con el resto del corpus SV, el banco de retornos de instrumentos nuevos—, y el Epílogo de este trabajo desarrolla el régimen dinámico de los observables y cierra bajo la Fórmula del Todo y de la Nada. La apertura no es una incompletitud: es la forma en que un aparato tipado permanece utilizable más allá del caso que lo motivó.
+El desarrollo cierra su propia pregunta y delimita lo que no decide. No resuelve la tensión de Hubble, no decide entre energía oscura constante y dinámica, no se pronuncia sobre el mecanismo físico de la aceleración cósmica y no convierte ningún retorno extremo en clausura global. Esas cuestiones permanecen en su dominio físico propio. Lo que sí queda establecido es una forma estricta de plantearlas sin error de plano: observable declarado, magnitud, unidad, modelo, transductor, residual, banco adversarial y retorno físico. El límite no debilita el resultado; lo protege, porque impide que una teoría de distancias entre observables sea confundida con una cosmología total cerrada.
 
 # Parte IV — Aparato operativo: glosario, matriz de transducción, integración, trazabilidad y protocolo de aplicación
 
-El cuerpo del trabajo ha quedado cerrado en sus diecisiete secciones. Este Anexo no añade doctrina ni demostración: reúne el aparato operativo en cinco bloques —un glosario, la matriz de transducción, la matriz de integración serial con el corpus SV, la trazabilidad de fórmulas, teoremas, bancos y compuertas, y un protocolo de aplicación a casos nuevos— para que el trabajo pueda usarse, verificarse y extenderse sin volver a recorrer su argumentación. Cada bloque remite a las secciones donde su contenido queda establecido, y ninguno duplica una fórmula o un teorema ya enunciado.
+El cuerpo del trabajo ha quedado cerrado en sus diecisiete secciones. Este Anexo no añade fundamento ni demostración: reúne el aparato operativo en cinco bloques —un glosario, la matriz de transducción, la matriz de integración serial con el corpus SV, la trazabilidad de fórmulas, teoremas, bancos y compuertas, y un protocolo de aplicación a casos nuevos— para que el trabajo pueda consultarse y verificarse sin volver a recorrer toda su argumentación. Cada bloque remite a las secciones donde su contenido queda establecido, y ninguno duplica una fórmula o un teorema ya enunciado.
 
 ## I. Glosario operativo de símbolos, magnitudes y dictámenes
 
@@ -1978,13 +1978,27 @@ La tabla siguiente reúne las dieciséis correspondencias en forma de consulta: 
 | `D_rel` | Comparación entre observables | Relación `Rel_m` tipada | Magnitudes no homogéneas sin transductor | APTO condicionado |
 | `DistInter^{SV}` | Perfiles sobre trayectoria común | Comparación de perfiles | Trayectorias distintas | APTO / NO_APTO |
 
+La correspondencia numérica mínima empleada por el banco queda así. Los valores se calculan con `c=299792,458 km/s`, `H_0=67,4 km s^{-1} Mpc^{-1}`, `Ω_m=0,315`, `Ω_Λ=0,685` y curvatura nula, salvo la fila local, que declara su propia ruta.
+
+| Entrada física | Valor de entrada | Salida física conservada | Valor de salida | Unidad | Proyección SV | Residual esperado |
+|:---|:---:|:---|---:|:---:|:---|:---:|
+| Corrimiento al rojo bajo | `z=0,02` | `v≈cz` | `5995,85` | km/s | `Φ_z → v_rec` local | `0` |
+| Supernova Ia | `z=0,10` | `D_L` | `477,52` | Mpc | `Φ_L` con retorno luminoso | `0` |
+| Cúmulo BAO | `z=0,50` | `D_A` | `1300,92` | Mpc | `Φ_A` angular | `0` |
+| Galaxia comóvil | `z=0,30` | `D_C` | `1236,44` | Mpc | `Φ_C` comóvil | `0` |
+| Galaxia comóvil | `z=0,35` | `D_C` | `1423,23` | Mpc | `Φ_C` comóvil | `0` |
+| Par de galaxias | `z_i=0,30`, `z_j=0,35` | `ΔD_C` | `186,78` | Mpc | `Rel_m(𝒪_i,𝒪_j)` | `0` |
+| Ruta local de `H_0` | calibración local | `H_0^{local}` | `73,0` | km/s/Mpc | ruta tipada | `0` |
+| Ruta temprana de `H_0` | CMB/ΛCDM | `H_0^{CMB}` | `67,4` | km/s/Mpc | ruta tipada | `0` |
+| Tensión de Hubble | rutas separadas | `Δ_H` | `5,6` | km/s/Mpc | residual de ruta | `PARCIAL` |
+
 ### II.19. Prueba de consistencia de ida y vuelta
 
 La prueba de consistencia de ida y vuelta verifica que cada fila de la matriz sobrevive a la transducción completa: una magnitud que entra desde la física, se proyecta al SV y vuelve al dominio físico debe regresar como la misma magnitud, con la misma unidad y el mismo alcance. Si `z` vuelve como distancia, hay defecto de retorno; si `D_L` vuelve como `D_P`, hay defecto de magnitud; si `0_SV` vuelve como Big Bang físico, hay defecto de plano. La matriz es consistente cuando ninguna fila cambia de tipo al regresar —es la forma tabulada del teorema de no colapso del transductor de la sección VII, que exige la bidireccionalidad—, y esa consistencia muestra que la matriz tabula el transductor sin deformarlo.
 
 ## III. Matriz de integración serial con el corpus SV
 
-El trabajo de distancias no es un desarrollo aislado: es un anexo técnico que se inserta en el corpus SV de forma serial, sin duplicarlo. Este apartado tabula esa inserción —qué recibe el trabajo de cada línea del corpus y bajo qué tipo de relación—, y remite, para la referencia canónica de cada documento, a las sedes de GitHub que la sección III de la segunda parte ya declara. La matriz no copia el corpus: lo sitúa.
+El estudio de las distancias no es un desarrollo aislado: es un anexo técnico que se inserta en el corpus SV de forma serial, sin duplicarlo. Este apartado tabula esa inserción —qué recibe el trabajo de cada línea del corpus y bajo qué tipo de relación—, y remite, para la referencia canónica de cada documento, a las sedes de GitHub que la sección III de la segunda parte ya declara. La matriz no copia el corpus: lo sitúa.
 
 ### III.1. Regla de no duplicación
 
@@ -1992,7 +2006,7 @@ La regla de no duplicación es la primera del apartado y gobierna todas las dem�
 
 ### III.2. Relación con la Teoría del TODO y de la NADA
 
-La Teoría del TODO y de la NADA es el techo rector del trabajo. De ella proceden la completitud estructural, el origen formal de potencial, la distancia factual fibrosa y la prohibición de sustituir la dependencia formal por cronología, geometría o probabilidad. El trabajo de distancias no redemuestra esas tesis: las recibe como frontera doctrinal desde la cual las magnitudes físicas se absorben, se absorben en parte o se rechazan. La tesis fuerte de la segunda parte —`Universo completo ≠ observable expansivo total`— es la lectura cosmológica de la completitud estructural que el techo establece.
+La Teoría del TODO y de la NADA es el techo rector del trabajo. De ella proceden la completitud estructural, el origen formal de potencial, la distancia factual fibrosa y la prohibición de sustituir la dependencia formal por cronología, geometría o probabilidad. Este desarrollo no redemuestra esas tesis: las recibe como frontera rectora desde la cual las magnitudes físicas se absorben, se absorben en parte o se rechazan. La tesis fuerte de la segunda parte —`Universo completo ≠ observable expansivo total`— es la lectura cosmológica de la completitud estructural que el techo establece.
 
 ### III.3. Relación con imperfección preformal y espacio
 
@@ -2000,11 +2014,11 @@ El tratamiento del espacio en el trabajo —el universo observable como dominio 
 
 ### III.4. Relación con interacción, intercomposición y transmisión entre campos
 
-El trabajo de distancias es, por estatuto, un formulación dependiente a la línea de interacción, intercomposición y transmisión factual entre campos. La razón es de fondo: la distancia entre observables cosmológicos pone en juego emisores, señales, trayectorias, fronteras, transmisión factual, residuales y retorno físico, y todo ello pertenece a aquella línea. El transductor de distancia, el operador de transmisión `𝓣_SV` y los perfiles de cambio factual son los recursos de esa línea aplicados a un dominio concreto, el cosmológico. El trabajo precisa para la cosmología lo que la línea de interacción establece en general.
+Este desarrollo se formula como una continuidad dependiente de la línea de interacción, intercomposición y transmisión factual entre campos. La razón es de fondo: la distancia entre observables cosmológicos pone en juego emisores, señales, trayectorias, fronteras, transmisión factual, residuales y retorno físico, y todo ello pertenece a aquella línea. El transductor de distancia, el operador de transmisión `𝓣_SV` y los perfiles de cambio factual son los recursos de esa línea aplicados a un dominio concreto, el cosmológico. El trabajo precisa para la cosmología lo que la línea de interacción establece en general.
 
 ### III.5. Relación con edades relativas del universo observable
 
-El trabajo de distancias es complementaria del desarrollo del corpus sobre las edades relativas del universo observable: una trata la separación entre observables, la otra trata su edad, y ambas se aplican al mismo universo observable sin convertirlo en una totalidad medible. El tiempo de mirada atrás `t_L`, que este trabajo tipa como magnitud física subordinada, es la bisagra entre las dos: ni distancia ni tiempo rector, sino parámetro de modelo. Las dos comparten, además, la misma prohibición —no temporalizar el origen formal, no tomar una edad o una distancia de emisión por una propiedad absoluta del Todo—.
+Este desarrollo es complementario del desarrollo del corpus sobre las edades relativas del universo observable: una trata la separación entre observables, la otra trata su edad, y ambas se aplican al mismo universo observable sin convertirlo en una totalidad medible. El tiempo de mirada atrás `t_L`, que este trabajo tipa como magnitud física subordinada, es la bisagra entre las dos: ni distancia ni tiempo rector, sino parámetro de modelo. Las dos comparten, además, la misma prohibición —no temporalizar el origen formal, no tomar una edad o una distancia de emisión por una propiedad absoluta del Todo—.
 
 ### III.6. Relación con agujero negro y clausura sin resto exterior
 
@@ -2060,7 +2074,7 @@ La integración del trabajo en el corpus es serial y append-only: el trabajo se 
 
 ## IV. Trazabilidad de fórmulas centrales, teoremas, bancos y compuertas
 
-La trazabilidad responde a una pregunta única: de dónde procede cada elemento del aparato. Este apartado asigna a cada fórmula, teorema, banco, negativo, error y verificación del trabajo una sede —la sección donde queda establecido—, de modo que ningún elemento quede sin sede sin origen. No reproduce las elementos: las localiza.
+La trazabilidad responde a una pregunta única: de dónde procede cada elemento del aparato. Este apartado asigna a cada fórmula, teorema, banco, negativo, error y verificación del trabajo una sede —la sección donde queda establecido—, de modo que ningún elemento quede sin sede sin origen. No reproduce los elementos: los localiza.
 
 ### IV.1. Fórmulas centrales de correspondencia
 
@@ -2076,7 +2090,7 @@ Las fórmulas físicas externas conservadas son las de la cosmología contempor�
 
 ### IV.4. Fórmulas SV reutilizadas sin duplicación
 
-Las fórmulas SV reutilizadas proceden del corpus y entran sin duplicación: la distancia factual fibrosa local `d^{SV}_Φ`, la global `D^{SV}_Φ(Γ)`, el defecto telescópico `Δ^Φ_q`, la distancia intercampo `DistInter^{SV}_{a,b}(Γ)` y el operador de transmisión `𝓣_SV`. Su sede doctrinal es el corpus —según la matriz de integración serial del apartado 3—, y su sede de uso en este trabajo son las secciones III y IV. El trabajo las aplica al dominio cosmológico sin abrir glifo nuevo.
+Las fórmulas SV reutilizadas proceden del corpus y entran sin duplicación: la distancia factual fibrosa local `d^{SV}_Φ`, la global `D^{SV}_Φ(Γ)`, el defecto telescópico `Δ^Φ_q`, la distancia intercampo `DistInter^{SV}_{a,b}(Γ)` y el operador de transmisión `𝓣_SV`. Su sede rectora es el corpus —según la matriz de integración serial del apartado 3—, y su sede de uso en este trabajo son las secciones III y IV. El trabajo las aplica al dominio cosmológico sin abrir glifo nuevo.
 
 ### IV.5. Trazabilidad de teoremas
 
@@ -2088,7 +2102,7 @@ Los bancos de contraste son trece, B1 a B13, y se establecen en la sección XIV,
 
 ### IV.7. Trazabilidad de negativos críticos
 
-La sección XV define diez negativos doctrinales, N1 a N10, en los subapartados XIV.2 a XIV.11, con su tabla de error inducido, dictamen esperado y código en XIV.12. A ellos se añade la batería del laboratorio reproducible, que ejecuta una colección propia de quince negativos `N-01` a `N-15` y seis positivos `P-01` a `P-06`. Los dos conjuntos no comparten numeración: la correspondencia entre los negativos doctrinales de la sección XV y los códigos del laboratorio se documenta en la sección de Laboratorios.
+La sección XV define diez negativos de fundamento, N1 a N10, en los subapartados XIV.2 a XIV.11, con su tabla de error inducido, dictamen esperado y código en XIV.12. A ellos se añade la batería del laboratorio reproducible, que ejecuta una colección propia de quince negativos `N-01` a `N-15` y seis positivos `P-01` a `P-06`. Los dos conjuntos no comparten numeración: la correspondencia entre los negativos de fundamento de la sección XV y los códigos del laboratorio se documenta en la sección de Laboratorios.
 
 ### IV.8. Trazabilidad de errores catalogados
 
@@ -2096,7 +2110,7 @@ Los errores catalogados son catorce, `E-DIST-01` a `E-DIST-14`, y se establecen 
 
 ### IV.9. Trazabilidad de los laboratorios
 
-La verificación reproducible del trabajo es el laboratorio `lab_bancos_negativos.py`, que ejecuta la batería de negativos y positivos bajo la doble condición de pase. Su sede de documentación y ejecución es la sección de Laboratorios de este trabajo. El laboratorio no es un añadido ilustrativo: es la elemento que hace falsable el aparato, y su trazabilidad enlaza la sección XV —que define los negativos— con el teorema T10 —que establece la falsabilidad por bancos negativos—.
+La verificación reproducible del trabajo es el laboratorio `lab_bancos_negativos.py`, que ejecuta la batería de negativos y positivos bajo la doble condición de pase. Su sede de documentación y ejecución es la sección de Laboratorios de este trabajo. El laboratorio no es un añadido ilustrativo: es el elemento que hace falsable el aparato, y su trazabilidad enlaza la sección XV —que define los negativos— con el teorema T10 —que establece la falsabilidad por bancos negativos—.
 
 ### IV.10. Trazabilidad de anexos técnicos
 
@@ -2125,15 +2139,15 @@ Un elemento del aparato es suficientemente trazable cuando tiene un identificado
 
 ### IV.13. Criterio de insuficiencia trazable
 
-Un elemento es trazablemente insuficiente cuando se invoca sin sede: una fórmula usada sin remitir a la sección que la establece, un teorema citado sin número, un banco mencionado sin identificador. La insuficiencia trazable es ella misma un defecto del aparato —emparentado con el error `E-DIST-10`, el residual no calculado—, porque una elemento sin origen no puede verificarse ni falsarse. Cuando se detecta, no se resuelve con prosa: se resuelve asignando la sede o retirando la elemento.
+Un elemento es trazablemente insuficiente cuando se invoca sin sede: una fórmula usada sin remitir a la sección que la establece, un teorema citado sin número, un banco mencionado sin identificador. La insuficiencia trazable es ella misma un defecto del aparato —emparentado con el error `E-DIST-10`, el residual no calculado—, porque un elemento sin origen no puede verificarse ni falsarse. Cuando se detecta, no se resuelve con prosa: se resuelve asignando la sede o retirando el elemento.
 
 ### IV.14. Índice operativo de localización rápida
 
-Este índice resume dónde acudir según la pregunta. Para la definición de un término, el glosario, apartado 1. Para una correspondencia magnitud a magnitud, la matriz de transducción, apartado 2. Para la relación con el corpus, la matriz de integración serial, apartado 3. Para una demostración, la sección XIII. Para un caso de contraste, la sección XIV. Para un control negativo, la sección XV. Para un error tipado, la sección XVI. Para los laboratorios, el laboratorio y la sección de Laboratorios. Y para el procedimiento ante un caso nuevo, el apartado 5 de este Anexo.
+Este índice resume dónde acudir según la pregunta. Para la definición de un término, el glosario, apartado 1. Para una correspondencia magnitud a magnitud, la matriz de transducción, apartado 2. Para la relación con el corpus, la matriz de integración serial, apartado 3. Para una demostración, la sección XIII. Para un caso de contraste, la sección XIV. Para un control negativo, la sección XV. Para un error tipado, la sección XVI. Para los laboratorios, el laboratorio y la sección de Laboratorios. Y para el procedimiento ante un caso nuevo, el apartado V de este Anexo.
 
 ### IV.15. Cierre de trazabilidad
 
-La trazabilidad cierra cuando toda elemento del aparato tiene una sede y ninguna flota. El trabajo emite una sola fórmula propia —la directriz—, reutiliza un conjunto declarado de fórmulas físicas y SV, demuestra diez teoremas, ejercita trece bancos, falsa con diez negativos doctrinales y una batería de laboratorio, y tipa catorce errores; cada una de esas elementos remite a la sección que la establece. Ese cierre es lo que permite usar el aparato sin reconstruirlo: quien aplique el trabajo a un caso nuevo —el cometido del apartado 5— sabe, en cada paso, de dónde viene la elemento que emplea.
+La trazabilidad cierra cuando todo elemento del aparato tiene una sede y ninguno queda sin ubicación. El trabajo emite una sola fórmula propia —la directriz—, reutiliza un conjunto declarado de fórmulas físicas y SV, demuestra diez teoremas, ejercita trece bancos, falsa con diez negativos de fundamento y una batería de laboratorio, y tipa catorce errores; cada uno de esos elementos remite a la sección que la establece. Ese cierre es lo que permite usar el aparato sin reconstruirlo: quien aplique el trabajo a un caso nuevo —el cometido del apartado V— sabe, en cada paso, de dónde viene el elemento que emplea.
 
 ## V. Protocolo de aplicación a casos cosmológicos nuevos
 
@@ -2246,7 +2260,7 @@ El desarrollo se cierra con un laboratorio. El cuerpo demuestra y el Anexo ense�
 
 ## I. Estatuto de los laboratorios
 
-Los laboratorios responden a una exigencia del propio método: una demostración en prosa puede convencer, pero no se puede ejecutar, y un aparato que decide la aptitud de una distancia ha de poder someterse a prueba sin depender de quien lo redactó. El laboratorio traslada esa exigencia a código: lleva al terreno ejecutable la metodología de bancos de las secciones XIV y XIV —una batería que se ejecuta y emite un veredicto sin maquillaje—. Su estatuto es el del teorema T10 de la sección XIII —la falsabilidad por bancos negativos— hecho operativo: lo que aquel teorema afirma, este laboratorio lo comprueba.
+Los laboratorios responden a una exigencia del propio método: una demostración en prosa puede convencer, pero no se puede ejecutar, y un aparato que decide la aptitud de una distancia ha de poder someterse a prueba sin depender de quien lo redactó. El laboratorio traslada esa exigencia a código: lleva al terreno ejecutable la metodología de bancos de las secciones XIV y XV —una batería que se ejecuta y emite un veredicto sin maquillaje—. Su estatuto es el del teorema T10 de la sección XIII —la falsabilidad por bancos negativos— hecho operativo: lo que aquel teorema afirma, este laboratorio lo comprueba.
 
 ## II. El laboratorio de bancos negativos
 
@@ -2279,14 +2293,14 @@ El aparato del laboratorio son catorce compuertas residuales. Cada compuerta rec
 
 La matriz positiva trabaja con entradas numéricas declaradas; no se limita a etiquetas. La tabla siguiente resume los valores mínimos empleados para comprobar que el transductor acepta casos bien formados.
 
-| Caso | Observable | Magnitud | Valor numérico declarado | Unidad | Modelo/régimen | Dictamen |
-|:---|:---|:---|:---:|:---:|:---|:---|
-| P-01 | SN_Ia | D_L | z=0.1 | Mpc | FLRW_LCDM | APTO |
-| P-02 | galaxia | v_rec | z=0.02 | km/s | low_z_Hubble | APTO |
-| P-03 | cumulo_BAO | D_A | z=0.5 | Mpc | FLRW_LCDM | APTO |
-| P-04 | cefeidas | H_0 | rutas=local | km/s/Mpc | — | APTO |
-| P-05 | par_galaxias | separacion | z=0.3 | Mpc | FLRW_LCDM | APTO |
-| P-06 | SN_Ia | D_L | z=0.1 | Mpc | FLRW_LCDM | APTO |
+| Caso | Observable | Magnitud | Entrada física declarada | Valor de retorno | Unidad | Modelo/régimen | Dictamen |
+|:---|:---|:---|:---|---:|:---:|:---|:---|
+| P-01 | SN Ia | `D_L` | `z=0,10` | `477,52` | Mpc | FLRW-ΛCDM, `H_0=67,4`, `Ω_m=0,315`, `Ω_Λ=0,685` | APTO |
+| P-02 | Galaxia local | `v_rec` | `z=0,02` | `5995,85` | km/s | bajo `z`, aproximación `v≈cz` | APTO |
+| P-03 | Cúmulo BAO | `D_A` | `z=0,50` | `1300,92` | Mpc | FLRW-ΛCDM, distancia angular | APTO |
+| P-04 | Cefeidas / escalera local | `H_0` | ruta local única | `73,0` | km/s/Mpc | calibración local tipada | APTO |
+| P-05 | Par de galaxias | `ΔD_C` | `z_i=0,30`, `z_j=0,35` | `186,78` | Mpc | misma cosmología y métrica comóvil | APTO |
+| P-06 | SN Ia | `D_L` con retorno SV↔física | `z=0,10` | `477,52` | Mpc | residual computado y retorno físico | APTO |
 
 El banco positivo son seis casos bien formados que el aparato debe aceptar. Su función no es decorativa: impide que un aparato que se limitara a rechazarlo todo superase la batería negativa de forma trivial. Un laboratorio que solo midiera rechazos premiaría al aparato más severo, no al más correcto; los positivos obligan a que el aparato acepte la distancia legítima además de rechazar la errónea.
 
@@ -2361,11 +2375,11 @@ El laboratorio se reproduce con una sola orden, `python3 lab_bancos_negativos.py
 
 ## X. Enlace con el cuerpo y cierre
 
-Con el laboratorio se cierra el círculo del cuerpo. La sección XIV fija los bancos de contraste; la XIV, los bancos negativos y la reducción al absurdo; la XV, el catálogo de errores; y el teorema T10 de la sección XIII establece la falsabilidad por bancos negativos. Esos cuatro elementos se vuelven ejecutables en el laboratorio: la falsabilidad pasa de promesa a hecho comprobable. Con esta parte, el contraste de laboratorio queda completo: la demostración, en el cuerpo; la aplicación, en el Anexo; y el contraste ejecutable, en los Laboratorios, donde el transductor se somete a la batería construida para refutarlo y acepta el caso correcto rechazando el error canónico.
+Con el laboratorio se cierra el círculo del cuerpo. La sección XIV fija los bancos de contraste; la XV, los bancos negativos y la reducción al absurdo; la XVI, el catálogo de errores; y el teorema T10 de la sección XIII establece la falsabilidad por bancos negativos. Esos cuatro elementos se vuelven ejecutables en el laboratorio: la falsabilidad pasa de promesa a hecho comprobable. Con esta parte, el contraste de laboratorio queda completo: la demostración, en el cuerpo; la aplicación, en el Anexo; y el contraste ejecutable, en los Laboratorios, donde el transductor se somete a la batería construida para refutarlo y acepta el caso correcto rechazando el error canónico.
 
 # Parte VI — Régimen dinámico de observables: tendencia ciclo-distancial, contraste físico y clausura potencial
 
-La dinámica general de los observables no debe formularse como predicción narrativa, sino como cálculo de régimen. Un observable `𝒪` comparece como proyección tipada de una clase fibral, con dominio, frontera, magnitud, retorno y residual; por tanto, su comportamiento no se decide por el nombre del objeto, sino por la relación entre distancia relativa, tendencia ciclo-distancial, clausura potencial, retorno energético y contraste con la Ciencia contemporánea. La forma rectora queda dividida en cuatro operaciones: calcular la tendencia SV propia, calcular o declarar la clausura por potencial o canal, calcular el retorno energético y transducir el resultado al dominio científico contemporáneo externo. La salida válida no es “se aleja” o “se acerca” como frase, sino un vector: `D_rel`, `V_sep^SV`, `V_cl^SV`, `E_ret/E_emit`, `Δ_dyn`, dictamen y retorno físico.
+La dinámica general de los observables no debe formularse como predicción narrativa, sino como cálculo de régimen. Un observable `𝒪` comparece como proyección tipada de una clase fibral, con dominio, frontera, magnitud, retorno y residual; por tanto, su comportamiento no se decide por el nombre del objeto, sino por la relación entre distancia relativa, tendencia ciclo-distancial, clausura potencial, retorno energético y contraste con la ciencia contemporánea. La forma rectora queda dividida en cuatro operaciones: calcular la tendencia SV propia, calcular o declarar la clausura por potencial o canal, calcular el retorno energético y transducir el resultado al dominio científico contemporáneo externo. La salida válida no es “se aleja” o “se acerca” como frase, sino un vector: `D_rel`, `V_sep^SV`, `V_cl^SV`, `E_ret/E_emit`, `Δ_dyn`, dictamen y retorno físico.
 
 ## I. Ley de tendencia ciclo-distancial
 
@@ -2373,13 +2387,13 @@ Para todo par de observables tipados `𝒪_i,𝒪_j` con distancia relativa decl
 
 ## II. Ley de clausura por potencial, canal o ligadura
 
-La clausura local no se decide por proximidad verbal, sino por barrera de potencial, canal, ligadura o frontera. En régimen gravitatorio elemental, la clausura se contrasta mediante velocidad de escape o energía relativa: `v_esc=sqrt(2G(M_i+M_j)/r)` y `E_rel=1/2 μv_rel^2−G M_iM_j/r`, donde `r=D_rel`, `μ=M_iM_j/(M_i+M_j)` y `M_i,M_j` son masas efectivas declaradas. Si `v_rel<v_esc`, el par pertenece al régimen ligado o potencialmente clausurable; si `v_rel=v_esc`, comparece frontera de ligadura; si `v_rel>v_esc`, comparece régimen no ligado. En dominios no gravitatorios, `V_cl^SV` se obtiene desde el canal correspondiente: enlace, interacción local, frontera de retorno, traza, compatibilidad de clase o potencial efectivo. La forma general es `V_cl^SV=𝔛_{CC→SV}(V_cl^{CC})` cuando la Ciencia contemporánea ofrece masas, potencial o canal; si no los ofrece, el SV calcula la condición necesaria `V_cl^{req}=V_sep^SV` como umbral necesario de clausura ante tendencia de separación.
+La clausura local no se decide por proximidad verbal, sino por barrera de potencial, canal, ligadura o frontera. En régimen gravitatorio elemental, la clausura se contrasta mediante velocidad de escape o energía relativa: `v_esc=sqrt(2G(M_i+M_j)/r)` y `E_rel=1/2 μv_rel^2−G M_iM_j/r`, donde `r=D_rel`, `μ=M_iM_j/(M_i+M_j)` y `M_i,M_j` son masas efectivas declaradas. Si `v_rel<v_esc`, el par pertenece al régimen ligado o potencialmente clausurable; si `v_rel=v_esc`, comparece frontera de ligadura; si `v_rel>v_esc`, comparece régimen no ligado. En dominios no gravitatorios, `V_cl^SV` se obtiene desde el canal correspondiente: enlace, interacción local, frontera de retorno, traza, compatibilidad de clase o potencial efectivo. La forma general es `V_cl^SV=𝔛_{CC→SV}(V_cl^{CC})` cuando la ciencia contemporánea ofrece masas, potencial o canal; si no los ofrece, el SV calcula la condición necesaria `V_cl^{req}=V_sep^SV` como umbral necesario de clausura ante tendencia de separación.
 
 ## III. Ley de retorno energético
 
 El retorno luminoso se calcula por la relación `E_obs/E_emit=1/(1+z)`. Si `z>0`, el retorno se enfría porque la energía observada por fotón disminuye; si `z=0`, el retorno permanece neutro en esta lectura; si `z<0`, el retorno se energiza. Esta ley no dice que todo objeto físico se enfríe internamente: una nube puede calentarse por choque, una estrella por contracción o acreción, un agujero negro por disco de acreción y una fusión por disipación. Dice algo más preciso: el retorno electromagnético recibido de una señal con redshift positivo pierde energía observada. Por tanto, la dinámica global separa temperatura interna, energía de retorno y comparecencia observacional. La fórmula de retorno se integra con la dinámica mediante `R_E=1/(1+z)` y su residual `Δ_E`, de modo que una separación dominante con `z>0` tiende a pérdida energética de retorno, mientras que una clausura local con blueshift puede aumentar energía observada.
 
-## IV. Transductor bidireccional SV↔Ciencia contemporánea
+## IV. Transductor bidireccional SV↔ciencia contemporánea
 
 El transductor dinámico trabaja en dos direcciones. En la dirección `CC→SV`, recibe magnitudes físicas: distancia, velocidad radial, movimiento propio, masa, potencial, redshift, frontera y canal; y devuelve `D_rel^SV`, `V_sep^SV`, `V_cl^SV`, `R_E`, `Δ_dyn` y dictamen. En la dirección `SV→CC`, devuelve velocidad en `km/s`, distancia en `ly`, `Mly`, `Mpc` o `UFE`, energía relativa de retorno, régimen ligado/no ligado, umbral de velocidad exigido y condición de contraste. La forma compacta es `𝔛_dyn^{CC→SV}(D,v,M,z,F)=(D^SV,V_sep^SV,V_cl^SV,R_E,Δ_dyn,d_dyn)` y `𝔛_dyn^{SV→CC}(V_sep^SV,V_cl^SV,R_E,d_dyn)=(km/s,Mpc,z_equiv,régimen,retorno)`. La transducción queda cerrada sólo si la magnitud que entra vuelve con el mismo tipo: una distancia no vuelve como redshift, un redshift no vuelve como longitud sin modelo, una velocidad no vuelve como edad y el origen formal no vuelve como punto físico.
 
@@ -2389,7 +2403,7 @@ El residual dinámico queda definido como `Δ_dyn=Δ_D⊕Δ_V⊕Δ_M⊕Δ_pot⊕
 
 ## VI. Banco de umbral primario y contraste físico
 
-Cada fila de banco entrega la distancia relativa tipada y la salida SV primaria: `V_sep^SV=D_rel/T_obs`, devuelta al dominio científico contemporáneo como `km/s`. Si existe velocidad fijada por la Ciencia contemporánea, se calcula `V_corr=V_CC−V_sep^SV`; si no existe, la fila conserva una condición exacta de contraste: `V_CC<0` para clausura radial externa, `0<V_CC<V_sep` para separación subumbral, `V_CC=V_sep` para equilibrio de duplicación a `13,8 Gyr`, y `V_CC>V_sep` para separación dominante. La distancia sola no decide signo físico contemporáneo, pero sí decide el umbral SV y la barrera matemática que el dato físico deberá atravesar.
+Cada fila de banco entrega la distancia relativa tipada y la salida SV primaria: `V_sep^SV=D_rel/T_obs`, devuelta al dominio científico contemporáneo como `km/s`. Si existe velocidad fijada por la ciencia contemporánea, se calcula `V_corr=V_CC−V_sep^SV`; si no existe, la fila conserva una condición exacta de contraste: `V_CC<0` para clausura radial externa, `0<V_CC<V_sep` para separación subumbral, `V_CC=V_sep` para equilibrio de duplicación a `13,8 Gyr`, y `V_CC>V_sep` para separación dominante. La distancia sola no decide signo físico contemporáneo, pero sí decide el umbral SV y la barrera matemática que el dato físico deberá atravesar.
 
 ### VI.1. Púlsares
 
@@ -2465,11 +2479,11 @@ La Vía Láctea–Andrómeda no sólo presenta acercamiento radial: además `v_r
 
 ## IX. Sentencia del régimen dinámico
 
-Aun sin dato externo, el SV calcula: produce umbral, tendencia, clausura, retorno y condición de contraste. Para todo observable con distancia, calcula `V_sep^SV`; para todo observable con masa o canal, calcula o exige `V_cl^SV`; para todo retorno con redshift, calcula energía observada; para todo dato externo, ejecuta ida y vuelta SV↔Ciencia contemporánea. La Ciencia contemporánea aporta medidas; el SV aporta tipado, umbral, residual, clausura y sentencia. Donde ambos coinciden, hay absorción; donde falta magnitud externa, queda umbral SV calculado; donde la magnitud externa rompe tipo, hay rechazo; donde conserva tipo pero deja residual, hay absorción parcial. El porqué queda matemáticamente fijado: un observable se acerca cuando domina la clausura radial o potencial; se aleja de forma subumbral cuando hay velocidad positiva pero no domina el ciclo; se aleja de forma efectiva cuando supera tanto el umbral ciclo-distancial como la barrera potencial pertinente; y conserva fase local cuando el potencial domina aunque el radial instantáneo sea positivo.
+Aun sin dato externo, el SV calcula: produce umbral, tendencia, clausura, retorno y condición de contraste. Para todo observable con distancia, calcula `V_sep^SV`; para todo observable con masa o canal, calcula o exige `V_cl^SV`; para todo retorno con redshift, calcula energía observada; para todo dato externo, ejecuta ida y vuelta SV↔ciencia contemporánea. La ciencia contemporánea aporta medidas; el SV aporta tipado, umbral, residual, clausura y sentencia. Donde ambos coinciden, hay absorción; donde falta magnitud externa, queda umbral SV calculado; donde la magnitud externa rompe tipo, hay rechazo; donde conserva tipo pero deja residual, hay absorción parcial. El porqué queda matemáticamente fijado: un observable se acerca cuando domina la clausura radial o potencial; se aleja de forma subumbral cuando hay velocidad positiva pero no domina el ciclo; se aleja de forma efectiva cuando supera tanto el umbral ciclo-distancial como la barrera potencial pertinente; y conserva fase local cuando el potencial domina aunque el radial instantáneo sea positivo.
 
 ## X. Consecuencias globales del régimen dinámico de observables
 
-El cierre dinámico exige distinguir dos escalas consecutivas: primero, dado un observable tipado o un par elemental de observables; después, dada la interrelación de todos los observables de un dominio. La primera escala calcula la conducta de una unidad relacional bajo distancia, tendencia ciclo-distancial, clausura potencial, retorno energético y residual. La segunda escala construye una matriz de relaciones y obtiene una partición global del conjunto observable sin convertirlo en cuerpo único, sin reducirlo a expansión homogénea y sin sustituir magnitudes físicas por discurso. La comparación es bidireccional: SV↔Ciencia contemporánea y Ciencia contemporánea↔SV. La Ciencia contemporánea aporta distancia, velocidad, masa, potencial, redshift, frontera y observación; el SV transduce esas magnitudes, calcula umbral, clausura, retorno y residual, y devuelve al dominio científico contemporáneo una sentencia cuantificada. Si el retorno conserva tipo y residual, la teoría externa queda absorbida; si opera sólo por régimen, queda absorbida parcialmente; si invade totalidad, origen formal, frontera absoluta o tipo de magnitud, queda rechazada como fundamento.
+El cierre dinámico exige distinguir dos escalas consecutivas: primero, dado un observable tipado o un par elemental de observables; después, dada la interrelación de todos los observables de un dominio. La primera escala calcula la conducta de una unidad relacional bajo distancia, tendencia ciclo-distancial, clausura potencial, retorno energético y residual. La segunda escala construye una matriz de relaciones y obtiene una partición global del conjunto observable sin convertirlo en cuerpo único, sin reducirlo a expansión homogénea y sin sustituir magnitudes físicas por discurso. La comparación es bidireccional: SV↔ciencia contemporánea y ciencia contemporánea↔SV. La ciencia contemporánea aporta distancia, velocidad, masa, potencial, redshift, frontera y observación; el SV transduce esas magnitudes, calcula umbral, clausura, retorno y residual, y devuelve al dominio científico contemporáneo una sentencia cuantificada. Si el retorno conserva tipo y residual, la teoría externa queda absorbida; si opera sólo por régimen, queda absorbida parcialmente; si invade totalidad, origen formal, frontera absoluta o tipo de magnitud, queda rechazada como fundamento.
 
 ### X.1. Dado un observable tipado
 
@@ -2477,7 +2491,7 @@ La primera escala es la unidad relacional. Sea `𝒪_i` un observable tipado, o 
 
 ### X.2. Transducción bidireccional de la unidad observable
 
-La transducción de la unidad observable es la del transductor bidireccional de la sección 4, aplicada a la tupla anterior. En la dirección `Ciencia contemporánea→SV` entran distancia, velocidad, masa, potencial, redshift, frontera y canal, y se devuelven tipo, umbral, clausura, retorno energético y residual; en la dirección `SV→Ciencia contemporánea` la salida vuelve como `km/s`, `Mly`, `Mpc` o `UFE`, energía relativa de retorno, régimen ligado o no ligado y condición de contraste. La comparación queda cerrada sólo si la magnitud que entra vuelve con el mismo tipo: la distancia como distancia, el redshift como retorno espectral o como distancia sólo bajo modelo, el potencial como barrera o ligadura, y la frontera como frontera de retorno, no como borde absoluto.
+La transducción de la unidad observable es la del transductor bidireccional de la sección 4, aplicada a la tupla anterior. En la dirección `ciencia contemporánea→SV` entran distancia, velocidad, masa, potencial, redshift, frontera y canal, y se devuelven tipo, umbral, clausura, retorno energético y residual; en la dirección `SV→ciencia contemporánea` la salida vuelve como `km/s`, `Mly`, `Mpc` o `UFE`, energía relativa de retorno, régimen ligado o no ligado y condición de contraste. La comparación queda cerrada sólo si la magnitud que entra vuelve con el mismo tipo: la distancia como distancia, el redshift como retorno espectral o como distancia sólo bajo modelo, el potencial como barrera o ligadura, y la frontera como frontera de retorno, no como borde absoluto.
 
 ### X.3. Tabla temporal de unidades relacionales
 
@@ -2510,9 +2524,9 @@ La matriz global se resume por conteo de regímenes en cada horizonte. En una im
 
 La tabla global no debe rellenarse por impresión. Se rellena con ejecución de banco: por cada relación, si `V_CC<0`, entra en clausura radial; si `0<V_CC<V_sep^SV`, entra en separación subumbral; si `V_CC>V_sep^SV`, entra en separación dominante; si `v_rel<v_esc`, entra en ligadura potencial; si `z>0`, entra en retorno frío; si `z<0`, entra en retorno energizado; si falta retorno por frontera, entra en `𝓞_F`. Esta estructura permite comparar bancos de galaxias, agujeros negros, estrellas, púlsares, cúmulos, señales y retornos sin mezclar dominios.
 
-### X.6. Comparación con Ciencia contemporánea: absorción, absorción parcial y rechazo como fundamento
+### X.6. Comparación con ciencia contemporánea: absorción, absorción parcial y rechazo como fundamento
 
-El contraste con la Ciencia contemporánea sigue el mismo criterio de tipo que gobierna todo el cuerpo. Una magnitud que conserva dominio, unidad, ecuación y retorno queda absorbida; una lectura operativa sólo por régimen queda absorbida parcialmente; una lectura que convierte la totalidad en objeto físico, el horizonte en borde absoluto o el origen formal en suceso queda rechazada como fundamento. Esta comparación no niega la Ciencia contemporánea: la tipa, la devuelve a su dominio y la somete a residual. La tabla siguiente fija ese contraste sobre las tesis y magnitudes contemporáneas principales.
+El contraste con la ciencia contemporánea sigue el mismo criterio de tipo que gobierna todo el cuerpo. Una magnitud que conserva dominio, unidad, ecuación y retorno queda absorbida; una lectura operativa sólo por régimen queda absorbida parcialmente; una lectura que convierte la totalidad en objeto físico, el horizonte en borde absoluto o el origen formal en suceso queda rechazada como fundamento. Esta comparación no niega la ciencia contemporánea: la tipa, la devuelve a su dominio y la somete a residual. La tabla siguiente fija ese contraste sobre las tesis y magnitudes contemporáneas principales.
 
 | Tesis o magnitud contemporánea | Entrada CC→SV | Retorno SV→CC | Dictamen |
 |:---|:---|:---|:---|
@@ -2532,7 +2546,7 @@ Teorema. Dado un observable tipado `𝒪_i`, el SV puede calcular su tendencia c
 
 ### X.8. Conclusión
 
-La consecuencia global del régimen dinámico de observables es una partición matemática, no una predicción especulativa. Dado un observable, el SV calcula qué umbral de separación posee, qué clausura potencial puede sostener, qué retorno energético ofrece y qué residual conserva. Dada la interrelación de todos los observables, el SV calcula la matriz de vínculos y reparte la red en clausura local, ligadura, separación dominante, separación subumbral, retorno frío, retorno energizado y pérdida de comparecencia. La Ciencia contemporánea aporta medidas y modelos; el SV aporta tipado, transducción, umbral, residual, frontera y dictamen. Cuando las magnitudes externas retornan con el mismo tipo, quedan absorbidas; cuando dependen de régimen, quedan absorbidas parcialmente; cuando invaden totalidad, origen formal o frontera absoluta, quedan rechazadas como fundamento. El punto diferencial es que el SV no se limita a declarar que algo se aleja, se acerca o se enfría: calcula qué significan esos verbos para una proyección tipada, en qué horizonte temporal, ante qué umbral, bajo qué barrera potencial, con qué retorno energético y con qué consecuencia global para la red de observables.
+La consecuencia global del régimen dinámico de observables es una partición matemática, no una predicción especulativa. Dado un observable, el SV calcula qué umbral de separación posee, qué clausura potencial puede sostener, qué retorno energético ofrece y qué residual conserva. Dada la interrelación de todos los observables, el SV calcula la matriz de vínculos y reparte la red en clausura local, ligadura, separación dominante, separación subumbral, retorno frío, retorno energizado y pérdida de comparecencia. La ciencia contemporánea aporta medidas y modelos; el SV aporta tipado, transducción, umbral, residual, frontera y dictamen. Cuando las magnitudes externas retornan con el mismo tipo, quedan absorbidas; cuando dependen de régimen, quedan absorbidas parcialmente; cuando invaden totalidad, origen formal o frontera absoluta, quedan rechazadas como fundamento. El punto diferencial es que el SV no se limita a declarar que algo se aleja, se acerca o se enfría: calcula qué significan esos verbos para una proyección tipada, en qué horizonte temporal, ante qué umbral, bajo qué barrera potencial, con qué retorno energético y con qué consecuencia global para la red de observables.
 
 ## XI. Síntesis final: el régimen dinámico bajo el techo rector
 
