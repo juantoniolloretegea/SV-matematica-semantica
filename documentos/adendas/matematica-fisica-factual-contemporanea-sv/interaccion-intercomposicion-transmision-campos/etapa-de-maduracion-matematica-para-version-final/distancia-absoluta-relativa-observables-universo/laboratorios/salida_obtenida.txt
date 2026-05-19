@@ -1,0 +1,35 @@
+================================================================================
+  Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 19/05/2026
+  BATERÍA DE BANCOS NEGATIVOS - TRANSDUCTOR DE DISTANCIA SV↔FÍSICA
+================================================================================
+CASO   TIPO      ESPERADO        OBTENIDO  COMPUERTA / CODIGO           JUICIO
+--------------------------------------------------------------------------------
+P-01   positivo  APTO            APTO      —                            OK    
+P-02   positivo  APTO            APTO      —                            OK    
+P-03   positivo  APTO            APTO      —                            OK    
+P-04   positivo  APTO            APTO      —                            OK    
+P-05   positivo  APTO            APTO      —                            OK    
+P-06   positivo  APTO            APTO      —                            OK    
+N-01   negativo  NO_APTO/Δ_reg   NO_APTO   Δ_reg/E-DIST-05              OK    
+N-02   negativo  NO_APTO/Δ_m     NO_APTO   Δ_m/E-DIST-06                OK    
+N-03   negativo  NO_APTO/Δ_orig  NO_APTO   Δ_orig/E-DIST-08             OK    
+N-04   negativo  NO_APTO/Δ_Ω     NO_APTO   Δ_Ω/E-DIST-07                OK    
+N-05   negativo  NO_APTO/Δ_H     NO_APTO   Δ_H/E-DIST-09                OK    
+N-06   negativo  NO_APTO/Δ_m     NO_APTO   Δ_m/E-DIST-04                OK    
+N-07   negativo  NO_APTO/Δ_𝓑     NO_APTO   Δ_𝓑/E-DIST-10                OK    
+N-08   negativo  NO_APTO/Δ_ret   NO_APTO   Δ_ret/E-DIST-09              OK    
+N-09   negativo  NO_APTO/Δ_Ω     NO_APTO   Δ_Ω/E-DIST-07                OK    
+N-10   negativo  NO_APTO/Δ_T     NO_APTO   Δ_T/E-DIST-10                OK    
+N-11   negativo  NO_APTO/Δ_m     NO_APTO   Δ_m/E-DIST-03                OK    
+N-12   negativo  NO_APTO/Δ_orig  NO_APTO   Δ_orig/E-DIST-08             OK    
+N-13   negativo  NO_APTO/Δ_Ω     NO_APTO   Δ_Ω/E-DIST-01                OK    
+N-14   negativo  NO_APTO/Δ_u     NO_APTO   Δ_u/E-DIST-02                OK    
+N-15   negativo  NO_APTO/Δ_ret   NO_APTO   Δ_ret/E-DIST-11              OK    
+--------------------------------------------------------------------------------
+  Positivos aceptados (APTO)                          : 6/6
+  Negativos rechazados (NO_APTO, compuerta correcta)  : 15/15
+--------------------------------------------------------------------------------
+  DICTAMEN DEL LABORATORIO: BATERÍA SUPERADA.
+  El transductor acepta todo caso correcto y rechaza todo error
+  canónico construido: error cero de plano sobre la batería.
+================================================================================

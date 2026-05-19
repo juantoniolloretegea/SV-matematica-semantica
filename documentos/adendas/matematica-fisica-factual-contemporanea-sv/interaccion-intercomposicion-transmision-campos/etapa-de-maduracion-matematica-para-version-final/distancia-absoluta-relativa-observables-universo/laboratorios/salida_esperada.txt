@@ -1,0 +1,4 @@
+Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | ITVIA | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 19/05/2026
+Positivos aceptados (APTO): 6/6
+Negativos rechazados (NO_APTO, compuerta correcta): 15/15
+Dictamen del laboratorio: BATERÍA SUPERADA.
