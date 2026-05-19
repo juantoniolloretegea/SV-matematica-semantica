@@ -11,8 +11,6 @@
 
 ![Portada](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/imagenes/portada.png)
 
-Este directorio contiene el desarrollo completo en formato Markdown para GitHub, con portada, índice en cascada, cuerpo principal, bibliografía y laboratorios.
-
 ## Lectura principal
 
 - Documento completo: [`distancia-absoluta-relativa-observables-universo.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/distancia-absoluta-relativa-observables-universo.md)
