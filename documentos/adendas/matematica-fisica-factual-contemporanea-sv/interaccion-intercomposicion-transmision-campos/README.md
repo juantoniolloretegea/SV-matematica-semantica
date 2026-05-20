@@ -13,8 +13,10 @@
 > Lloret Egea, J. A. (2026). *Distancia absoluta y relativa entre observables del Universo en el Sistema Vectorial SV.* Colección *El Universo*, Sistema Vectorial SV. ITVIA — IA eñ™. ISSN 2695-6411. https://doi.org/10.21428/39829d0b.c394e160
 ---
 
-**Registro histórico en Internet Archive / Wayback Machine:** 
+**Registro histórico en Internet Archive:** 
+
 [registro histórico de maduración pública](https://web.archive.org/web/20260507111108/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos). 
+
 [Para esta publicación:](https://web.archive.org/web/20260520135224/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/distancia-absoluta-relativa-observables-universo.md)
 
 ## Estructura
