@@ -1,4 +1,7 @@
-## Teorema de no clausura por predominancia compatible y clausura por predominancia absorbente
+# Equilibrio polar no nulo: predominancia, complemento y clausura de dominio en el Sistema Vectorial SV
+
+
+### Teorema de no clausura por predominancia compatible y clausura por predominancia absorbente
 
 ---
 Problema planteado. Sea un dominio observable D constituido por una relación polar entre dos polos P_a y P_b. El problema es decidir si la predominancia de uno de ellos implica necesariamente la anulación del otro y, por tanto, la clausura del dominio.
