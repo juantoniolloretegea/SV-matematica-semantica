@@ -27,7 +27,7 @@ Distancia absoluta; distancia relativa; observables cosmológicos; corrimiento a
 
 ---
 
-## Índice en cascada
+## Índice
 
 <details>
 <summary>Parte I — Clases tipadas de fibras y atribución de distancia a observables del Universo</summary>
