@@ -383,7 +383,7 @@ Distancia absoluta; distancia relativa; observables cosmológicos; corrimiento a
   - IV.6. Trazabilidad de bancos
   - IV.7. Trazabilidad de negativos críticos
   - IV.8. Trazabilidad de errores catalogados
-  - IV.9. Trazabilidad de la verificación reproducible
+  - IV.9. Trazabilidad de los laboratorios
   - IV.10. Trazabilidad de anexos técnicos
   - IV.11. Tabla maestra de trazabilidad mínima
   - IV.12. Criterio de suficiencia trazable
@@ -417,7 +417,7 @@ Distancia absoluta; distancia relativa; observables cosmológicos; corrimiento a
 <details>
 <summary>Parte V — Laboratorios</summary>
 
-- I. Estatuto de la verificación reproducible
+- I. Estatuto de los laboratorios
 - II. El laboratorio de bancos negativos
 - III. Las compuertas residuales
 - IV. El banco positivo
@@ -473,7 +473,7 @@ Una clase tipada de fibras es una familia estructural de proyecciones que conser
 
 ## I.3. Proyecciones, invariantes y divergencia de trayectoria
 
-La naturaleza muestra a la vez conservación de patrones y divergencia de trayectorias. La analogía de los gemelos, los mellizos, los trillizos o los quintillizos ayuda a visualizar la estructura formal sin convertir la biología en fundamento universal: hay una fase común previa, se produce una separación proyectiva, se conservan rasgos estructurales y, después, cada proyección sigue una trayectoria propia. Dos gemelos separados al nacer pueden reconocerse por el parecido físico y la arquitectura corporal aunque no compartan memoria, ambiente, hábitos ni biografía; los mellizos conservan otro parentesco estructural, menos estricto, pero igualmente dependiente de una matriz generativa común de nivel superior. La lectura abstracta es `origen estructural común → proyección múltiple → conservación parcial de invariantes → divergencia por trayectoria → clausura individual`. No se afirma con esto que una galaxia sea biológicamente análoga a un gemelo; se afirma que la repetición de patrones en la naturaleza obliga a distinguir matriz, proyección, invariantes y trayectoria. Por eso una clase fibral puede contener proyecciones muy distintas sin perder su identidad de clase —`Gal_i ∈ Π_gal`, `BH_j ∈ Π_BH`, `Bio_k ∈ Π_bio`—, siempre que sus invariantes y sus residuales correspondan al dominio declarado.
+La naturaleza muestra a la vez conservación de patrones y divergencia de trayectorias. La analogía de los gemelos, los mellizos, los trillizos o los quintillizos ayuda a visualizar la estructura formal sin convertir la biología en fundamento universal: hay una fase común previa, se produce una separación proyectiva, se conservan rasgos estructurales y, después, cada proyección sigue una trayectoria propia. Dos gemelos separados al nacer pueden reconocerse por el parecido físico y la arquitectura corporal aunque no compartan memoria, ambiente, hábitos ni biografía; los mellizos conservan otro parentesco estructural, menos estricto, pero igualmente dependiente de una matriz generativa común de nivel superior. La lectura abstracta es `origen estructural común → proyección múltiple → conservación parcial de invariantes → divergencia por trayectoria → clausura individual`. No se afirma con esto que una galaxia sea análoga a un gemelo; se afirma que la repetición de patrones en la naturaleza obliga a distinguir matriz, proyección, invariantes y trayectoria. Por eso una clase fibral puede contener proyecciones muy distintas sin perder su identidad de clase —`Gal_i ∈ Π_gal`, `BH_j ∈ Π_BH`, `Bio_k ∈ Π_bio`—, siempre que sus invariantes y sus residuales correspondan al dominio declarado.
 
 ## I.4. Distancia relativa entre proyecciones tipadas
 
@@ -485,7 +485,7 @@ La distancia absoluta no se atribuye a la totalidad como si fuera un cuerpo, ni 
 
 ## I.6. Puente hacia el régimen dinámico y la comparación bidireccional
 
-La atribución de distancia no queda completa hasta que la proyección tipada puede compararse con una magnitud física contemporánea y regresar al dominio SV sin ruptura de tipo. Por eso, todo observable que recibe distancia ha de poder entrar después en un régimen dinámico, donde `D_rel` determina la distancia relativa; `V_sep^SV=D_rel/T_obs`, la tendencia ciclo-distancial; `V_cl^SV`, la clausura por potencial, canal o frontera; `R_E=1/(1+z)`, el retorno energético; y `Δ_dyn`, el residual de contraste. La comparación se formula en dos direcciones. De la ciencia contemporánea al SV, cuando entran distancia, velocidad, masa, potencial, corrimiento al rojo, frontera y observación. Y del SV a la ciencia contemporánea, cuando el resultado vuelve como velocidad, longitud, régimen ligado o no ligado, energía relativa de retorno y condición de comparecencia. Esta disciplina es la que impide que la distancia —absoluta o relativa— quede reducida a un nombre geométrico: la sostiene como magnitud tipada, capaz de sostener dictamen, absorción, absorción parcial o rechazo como fundamento. Ese régimen dinámico es el que el epílogo de este trabajo desarrolla.
+La atribución de distancia no queda completa hasta que la proyección tipada puede compararse con una magnitud física contemporánea y regresar al dominio SV sin ruptura de tipo. Por eso, todo observable que recibe distancia ha de poder entrar después en un régimen dinámico, donde `D_rel` determina la distancia relativa; `V_sep^SV=D_rel/T_obs`, la tendencia ciclo-distancial; `V_cl^SV`, la clausura por potencial, canal o frontera; `R_E=1/(1+z)`, el retorno energético; y `Δ_dyn`, el residual de contraste. La comparación se formula en dos direcciones. De la ciencia contemporánea al SV, cuando entran distancia, velocidad, masa, potencial, corrimiento al rojo, frontera y observación. Y del SV a la ciencia contemporánea, cuando el resultado vuelve como velocidad, longitud, régimen ligado o no ligado, energía relativa de retorno y condición de comparecencia. Esta disciplina es la que impide que la distancia —absoluta o relativa— quede reducida a un nombre geométrico: la sostiene como magnitud tipada, capaz de sostener dictamen, absorción, absorción parcial o rechazo como fundamento. Ese régimen dinámico es el que la Parte VI desarrolla.
 
 ## I.7. El observable, el retorno y lo no observable: delimitación general
 
@@ -593,7 +593,7 @@ El corpus se rige por una regla de continuidad que conviene hacer explícita: no
 
 ### VI.4. El transductor sometido a su caso negativo más fuerte
 
-Resta una objeción, y es la más fuerte que puede dirigirse a cuanto se ha construido. El paso del SV a la física contemporánea, y de vuelta, se hace por un transductor, y todo transductor admite una sospecha: la de ser un mecanismo permisivo, capaz de aceptar cualquier entrada si no se lo somete a una compuerta adversarial, de modo que su veredicto favorable no probaría nada. Si esa sospecha se sostuviera, el transductor quedaría invalidado, y con él la articulación entre el corpus y la ciencia establecida. La objeción no se esquiva. El transductor no se juzga por los casos que acepta, sino por los que debe rechazar. Un caso negativo es una construcción deliberadamente errónea cuyo veredicto correcto —el rechazo— no lo decide el SV ni lo decide quien redacta: lo fija la física contemporánea. Que `v = cz` no vale para corrimientos al rojo altos, que la distancia de luminosidad y la angular no son intercambiables, que la totalidad no es un objeto métrico, que el origen formal no es el Big Bang: son errores que cualquier físico competente reconoce como tales, con independencia del corpus. Un transductor sometido a una batería de casos así —dura, no trivial, no escogida a conveniencia— sólo la supera si discrimina de verdad: si rechaza cada uno, ha mostrado que discrimina; si dejara pasar uno solo, el laboratorio no estaría terminado, y como tal constaría. La fuerza de esa prueba es interna al trabajo: ni descansa en que un tercero la conceda —el cotejo ajeno es salud de la ciencia, no su depositario último— ni en que el aparato se certifique a sí mismo.
+Resta una objeción, y es la más fuerte que puede dirigirse a cuanto se ha construido. El paso del SV a la física contemporánea, y de vuelta, se hace por un transductor, y todo transductor admite una sospecha: la de ser un procedimiento incapaz de discriminar, capaz de aceptar cualquier entrada si no se lo somete a una compuerta adversarial, de modo que su veredicto favorable no probaría nada. Si esa sospecha se sostuviera, el transductor quedaría invalidado, y con él la articulación entre el corpus y la ciencia establecida. La objeción no se esquiva. El transductor no se juzga por los casos que acepta, sino por los que debe rechazar. Un caso negativo es una construcción deliberadamente errónea cuyo veredicto correcto —el rechazo— no lo decide el SV ni lo decide quien redacta: lo fija la física contemporánea. Que `v = cz` no vale para corrimientos al rojo altos, que la distancia de luminosidad y la angular no son intercambiables, que la totalidad no es un objeto métrico, que el origen formal no es el Big Bang: son errores que cualquier físico competente reconoce como tales, con independencia del corpus. Un transductor sometido a una batería de casos así —dura, no trivial, no escogida a conveniencia— sólo la supera si discrimina de verdad: si rechaza cada uno, ha mostrado que discrimina; si dejara pasar uno solo, el laboratorio no estaría terminado, y como tal constaría. La fuerza de esa prueba es interna al trabajo: ni descansa en que un tercero la conceda —el cotejo ajeno es salud de la ciencia, no su depositario último— ni en que el aparato se certifique a sí mismo.
 
 Conviene nombrar con exactitud lo que esa batería establece, sin agrandarlo. Establece error cero de plano: ausencia de confusión de categorías sobre todos los casos examinados. No establece que el SV agote la verdad de la cosmología —ninguna batería, por extensa que sea, demostraría tal cosa—, sino algo más sobrio y, por sobrio, más firme: que allí donde la física reconoce un error, el transductor lo reconoce también. La sospecha de un transductor incapaz de discriminar se responde, así, del único modo que la disuelve: no apartándola, sino llevándola hasta su caso más duro y exigiendo allí el rechazo. Y es el cumplimiento de esa exigencia, caso por caso y con los números a la vista, lo que sostiene la articulación entre el corpus y la ciencia contemporánea sin que ésta tenga que sobreafirmarse.
 
@@ -1373,17 +1373,17 @@ La tabla siguiente reúne pares observacionales típicos: la magnitud común que
 
 | Par | Magnitud común | Fórmula relativa | Condición de aptitud | Error típico | Dictamen |
 |:---|:---|:---|:---|:---|:---:|
-| Galaxia A / galaxia B | `z` | `\|z_A-z_B\|` | Líneas comparables y corrimiento al rojo fiable | Tomar `Δz` como distancia espacial directa | APTO condicionado |
-| Galaxia A / galaxia B | `D_C` | `\|D_C(z_A)-D_C(z_B)\|` | Mismo modelo cosmológico | Parámetros distintos sin declarar | APTO |
+| Galaxia A / galaxia B | `z` | `abs(z_A-z_B)` | Líneas comparables y corrimiento al rojo fiable | Tomar `Δz` como distancia espacial directa | APTO condicionado |
+| Galaxia A / galaxia B | `D_C` | `abs(D_C(z_A)-D_C(z_B))` | Mismo modelo cosmológico | Parámetros distintos sin declarar | APTO |
 | Galaxia A / galaxia B | Separación 3D | Función de `D_C` y ángulo | Coordenadas y geometría | Ignorar separación angular | APTO condicionado |
-| Supernova A / supernova B | `D_L` | `\|D_L^A-D_L^B\|` | Calibración homogénea | Mezclar calibradores | APTO condicionado |
+| Supernova A / supernova B | `D_L` | `abs(D_L^A-D_L^B)` | Calibración homogénea | Mezclar calibradores | APTO condicionado |
 | Cefeida / TRGB | Distancia local | Diferencia por escalera | Referencias geométricas y población declaradas | Promediar rutas sin residual | PARCIAL |
-| CMB / escalera local | `H_0` | `\|H_0^{CMB}-H_0^{local}\|` | Rutas separadas | Tratarlas como una medición única | PARCIAL |
+| CMB / escalera local | `H_0` | `abs(H_0^{CMB}-H_0^{local})` | Rutas separadas | Tratarlas como una medición única | PARCIAL |
 | BAO radial / BAO transversal | `H(z)`, `D_M` | Comparación por modelo | Covarianza y `r_d` declarados | Usar escala sin modelo | APTO condicionado |
 | Lente / fuente | `D_A` | Relaciones angular-distancia | Modelo de masa y corrimientos al rojo | Omitir degeneración de lente | APTO/PARCIAL |
-| Retorno luminoso A / B | Flujo | `\|F_A-F_B\|` | Luminosidad o calibración | Usar flujo como distancia | NO_APTO si falta calibración |
-| Firma espectral A / B | Línea homóloga | `\|z_A-z_B\|` | Transición identificada | Comparar líneas distintas | NO_APTO |
-| Modelo ΛCDM / `w_0-w_a` | `D_L(z)` | `\|D_L^{ΛCDM}-D_L^{w}\|` | Misma entrada `z` | Cambiar datos de entrada | APTO/PARCIAL |
+| Retorno luminoso A / B | Flujo | `abs(F_A-F_B)` | Luminosidad o calibración | Usar flujo como distancia | NO_APTO si falta calibración |
+| Firma espectral A / B | Línea homóloga | `abs(z_A-z_B)` | Transición identificada | Comparar líneas distintas | NO_APTO |
+| Modelo ΛCDM / `w_0-w_a` | `D_L(z)` | `abs(D_L^{ΛCDM}-D_L^{w})` | Misma entrada `z` | Cambiar datos de entrada | APTO/PARCIAL |
 | Perfil SV A / B | `d^{SV}_Φ` | `DistInter^{SV}_{A,B}(Γ)` | Trayectoria común | `Γ_A≠Γ_B` | APTO/NO_APTO |
 | Observable / origen formal | `D_abs^{SV}` | `Rel_SV(Φ,0_SV)` | Origen no espacializado | Leerlo como Big Bang físico | APTO formal/NO_APTO |
 | Totalidad / observable | Ninguna | No definida | No hay par físico | Medir la totalidad como objeto | NO_APTO |
@@ -1734,7 +1734,7 @@ El resultado físico-factual es que el SV absorbe la física contemporánea dent
 
 ### XVIII.4. Resultado de laboratorio
 
-El resultado laboratorial es que el aparato es falsable y se sometió a prueba. El laboratorio `lab_bancos_negativos.py` ejecuta la batería —quince negativos y seis positivos— y la declara superada sólo bajo la doble condición: aceptar todo positivo y rechazar todo negativo por la compuerta esperada. Los negativos son construcciones diseñadas para fracasar, cuyo veredicto correcto lo fija la física reconocida; los positivos impiden que un aparato que rechazara toda entrada superase la batería de forma trivial. El resultado laboratorial es el error cero de plano sobre la batería: el transductor acepta lo correcto y rechaza el error canónico, y un laboratorio que pasara sin esa doble condición sería él mismo el error `E-DIST-14`.
+El resultado del laboratorio es que el aparato es falsable y se sometió a prueba. El laboratorio `lab_bancos_negativos.py` ejecuta la batería —quince negativos y seis positivos— y la declara superada sólo bajo la doble condición: aceptar todo positivo y rechazar todo negativo por la compuerta esperada. Los negativos son construcciones diseñadas para fracasar, cuyo veredicto correcto lo fija la física reconocida; los positivos impiden que un aparato que rechazara toda entrada superase la batería de forma trivial. El resultado del laboratorio es el error cero de plano sobre la batería: el transductor acepta lo correcto y rechaza el error canónico, y un laboratorio que pasara sin esa doble condición sería él mismo el error `E-DIST-14`.
 
 ### XVIII.5. Fórmula directriz final
 
@@ -1750,7 +1750,7 @@ El desarrollo cierra su propia pregunta y delimita lo que no decide. No resuelve
 
 # Parte IV — Aparato operativo: glosario, matriz de transducción, integración, trazabilidad y protocolo de aplicación
 
-El cuerpo del trabajo ha quedado cerrado en sus diecisiete secciones. Este Anexo no añade fundamento ni demostración: reúne el aparato operativo en cinco bloques —un glosario, la matriz de transducción, la matriz de integración serial con el corpus SV, la trazabilidad de fórmulas, teoremas, bancos y compuertas, y un protocolo de aplicación a casos nuevos— para que el trabajo pueda consultarse y verificarse sin volver a recorrer toda su argumentación. Cada bloque remite a las secciones donde su contenido queda establecido, y ninguno duplica una fórmula o un teorema ya enunciado.
+La parte demostrativa principal ha quedado cerrada en sus dieciocho secciones. Esta parte operativa no añade fundamento ni demostración: reúne el aparato operativo en cinco bloques —un glosario, la matriz de transducción, la matriz de integración serial con el corpus SV, la trazabilidad de fórmulas, teoremas, bancos y compuertas, y un protocolo de aplicación a casos nuevos— para que el trabajo pueda consultarse y verificarse sin volver a recorrer toda su argumentación. Cada bloque remite a las secciones donde su contenido queda establecido, y ninguno duplica una fórmula o un teorema ya enunciado.
 
 ## I. Glosario operativo de símbolos, magnitudes y dictámenes
 
@@ -1998,7 +1998,7 @@ La prueba de consistencia de ida y vuelta verifica que cada fila de la matriz so
 
 ## III. Matriz de integración serial con el corpus SV
 
-El estudio de las distancias no es un desarrollo aislado: es un anexo técnico que se inserta en el corpus SV de forma serial, sin duplicarlo. Este apartado tabula esa inserción —qué recibe el trabajo de cada línea del corpus y bajo qué tipo de relación—, y remite, para la referencia canónica de cada documento, a las sedes de GitHub que la sección III de la segunda parte ya declara. La matriz no copia el corpus: lo sitúa.
+El estudio de las distancias no es un desarrollo aislado: es un desarrollo técnico que se inserta en el corpus SV de forma serial, sin duplicarlo. Este apartado tabula esa inserción —qué recibe el trabajo de cada línea del corpus y bajo qué tipo de relación—, y remite, para la referencia canónica de cada documento, a las sedes de GitHub que la sección III de la segunda parte ya declara. La matriz no copia el corpus: lo sitúa.
 
 ### III.1. Regla de no duplicación
 
@@ -2070,15 +2070,15 @@ La tabla siguiente reúne la integración serial: para cada línea o documento d
 
 ### III.12. Integración serial
 
-La integración del trabajo en el corpus es serial y append-only: el trabajo se añade como un anexo técnico nuevo sin reescribir las líneas anteriores, sin duplicar sus operadores y sin contradecir su doctrina. Cada relación de este apartado es una arista que conecta el trabajo con una sede ya establecida, y la dirección de todas ellas es la misma: el trabajo recibe del corpus su techo, su régimen y su método, y devuelve al corpus un dominio nuevo tipado —la distancia cosmológica— sin alterar lo que el corpus ya tenía cerrado. La referencia canónica de cada sede son sus documentos de GitHub, declarados en la sección III; este apartado los tabula, no los reproduce.
+La integración del trabajo en el corpus es serial y sólo aditiva: el trabajo se añade como un desarrollo técnico nuevo sin reescribir las líneas anteriores, sin duplicar sus operadores y sin contradecir su doctrina. Cada relación de este apartado es una arista que conecta el trabajo con una sede ya establecida, y la dirección de todas ellas es la misma: el trabajo recibe del corpus su techo, su régimen y su método, y devuelve al corpus un dominio nuevo tipado —la distancia cosmológica— sin alterar lo que el corpus ya tenía cerrado. La referencia canónica de cada sede son sus documentos de GitHub, declarados en la sección III; este apartado los tabula, no los reproduce.
 
 ## IV. Trazabilidad de fórmulas centrales, teoremas, bancos y compuertas
 
-La trazabilidad responde a una pregunta única: de dónde procede cada elemento del aparato. Este apartado asigna a cada fórmula, teorema, banco, negativo, error y verificación del trabajo una sede —la sección donde queda establecido—, de modo que ningún elemento quede sin sede sin origen. No reproduce los elementos: los localiza.
+La trazabilidad responde a una pregunta única: de dónde procede cada elemento del aparato. Este apartado asigna a cada fórmula, teorema, banco, negativo, error y verificación del trabajo una sede —la sección donde queda establecido—, de modo que ningún elemento quede sin sede ni origen. No reproduce los elementos: los localiza.
 
 ### IV.1. Fórmulas centrales de correspondencia
 
-Las fórmulas centrales de correspondencia son las que deciden la aptitud de una distancia. La fórmula directriz, `𝔇^{SV↔FC}_{dist}=0 ⇔ Δ^{SV↔FC}_{dist}=0`, con su variante absoluta formal ante `0_SV` y su variante relativa entre observables, se establece en la sección VIII y se anuncia ya, en su forma inicial, en la sección 0.9. Es la única fórmula que el trabajo emite como propia para el dominio cosmológico; todas las demás, o son físicas externas conservadas, o son SV reutilizadas.
+Las fórmulas centrales de correspondencia son las que deciden la aptitud de una distancia. La fórmula directriz, `𝔇^{SV↔FC}_{dist}=0 ⇔ Δ^{SV↔FC}_{dist}=0`, con su variante absoluta formal ante `0_SV` y su variante relativa entre observables, se establece en la sección VIII y se anuncia ya, en su forma inicial, en la Parte III, sección I.9. Es la única fórmula que el trabajo emite como propia para el dominio cosmológico; todas las demás, o son físicas externas conservadas, o son SV reutilizadas.
 
 ### IV.2. Fórmulas de residual
 
@@ -2090,31 +2090,31 @@ Las fórmulas físicas externas conservadas son las de la cosmología contempor�
 
 ### IV.4. Fórmulas SV reutilizadas sin duplicación
 
-Las fórmulas SV reutilizadas proceden del corpus y entran sin duplicación: la distancia factual fibrosa local `d^{SV}_Φ`, la global `D^{SV}_Φ(Γ)`, el defecto telescópico `Δ^Φ_q`, la distancia intercampo `DistInter^{SV}_{a,b}(Γ)` y el operador de transmisión `𝓣_SV`. Su sede rectora es el corpus —según la matriz de integración serial del apartado 3—, y su sede de uso en este trabajo son las secciones III y IV. El trabajo las aplica al dominio cosmológico sin abrir glifo nuevo.
+Las fórmulas SV reutilizadas proceden del corpus y entran sin duplicación: la distancia factual fibrosa local `d^{SV}_Φ`, la global `D^{SV}_Φ(Γ)`, el defecto telescópico `Δ^Φ_q`, la distancia intercampo `DistInter^{SV}_{a,b}(Γ)` y el operador de transmisión `𝓣_SV`. Su sede rectora es el corpus —según la matriz de integración serial del apartado 3—, y su sede de uso en este trabajo son las secciones III y IV. El trabajo las aplica al dominio cosmológico sin abrir notación nueva.
 
 ### IV.5. Trazabilidad de teoremas
 
-Los teoremas centrales del trabajo son diez, y se establecen en la sección XIII, subapartados XII.1 a XII.10, con los corolarios de cierre en XII.11. Van de la no medibilidad de la totalidad absoluta como distancia física (T1) a la falsabilidad por bancos negativos (T10), pasando por la legitimidad de la distancia entre observables (T2), la no equivalencia entre corrimiento al rojo y distancia sin modelo (T3), la absorción instrumental de ΛCDM (T6) y el retorno físico controlado de toda distancia absorbida (T8). Ningún teorema se invoca fuera de la sección XIII sin remitir a ella.
+Los teoremas centrales del trabajo son diez, y se establecen en la sección XIII, subapartados XIII.1 a XIII.10, con los corolarios de cierre en XIII.11. Van de la no medibilidad de la totalidad absoluta como distancia física (T1) a la falsabilidad por bancos negativos (T10), pasando por la legitimidad de la distancia entre observables (T2), la no equivalencia entre corrimiento al rojo y distancia sin modelo (T3), la absorción instrumental de ΛCDM (T6) y el retorno físico controlado de toda distancia absorbida (T8). Ningún teorema se invoca fuera de la sección XIII sin remitir a ella.
 
 ### IV.6. Trazabilidad de bancos
 
-Los bancos de contraste son trece, B1 a B13, y se establecen en la sección XIV, subapartados XIII.2 a XIII.14, con la tabla maestra del banco en XIII.15 y la salida global esperada en XIII.16. Cubren desde los tipos de distancia cosmológica (B1) hasta las absorciones totales, parciales y rechazos (B13), e incluyen la tensión de Hubble (B5), las galaxias del JWST (B7) y los casos `U` (B12). El estatuto del banco —demostración, no decoración— se fija en XIII.1.
+Los bancos de contraste son trece, B1 a B13, y se establecen en la sección XIV, subapartados XIV.2 a XIV.14, con la tabla maestra del banco en XIV.15 y la salida global esperada en XIV.16. Cubren desde los tipos de distancia cosmológica (B1) hasta las absorciones totales, parciales y rechazos (B13), e incluyen la tensión de Hubble (B5), las galaxias del JWST (B7) y los casos `U` (B12). El estatuto del banco —demostración, no decoración— se fija en XIV.1.
 
 ### IV.7. Trazabilidad de negativos críticos
 
-La sección XV define diez negativos de fundamento, N1 a N10, en los subapartados XIV.2 a XIV.11, con su tabla de error inducido, dictamen esperado y código en XIV.12. A ellos se añade la batería del laboratorio reproducible, que ejecuta una colección propia de quince negativos `N-01` a `N-15` y seis positivos `P-01` a `P-06`. Los dos conjuntos no comparten numeración: la correspondencia entre los negativos de fundamento de la sección XV y los códigos del laboratorio se documenta en la sección de Laboratorios.
+La sección XV define diez negativos de fundamento, N1 a N10, en los subapartados XV.2 a XV.11, con su tabla de error inducido, dictamen esperado y código en XV.12. A ellos se añade la batería del laboratorio reproducible, que ejecuta una colección propia de quince negativos `N-01` a `N-15` y seis positivos `P-01` a `P-06`. Los dos conjuntos no comparten numeración: la correspondencia entre los negativos de fundamento de la sección XV y los códigos del laboratorio se documenta en la sección de Laboratorios.
 
 ### IV.8. Trazabilidad de errores catalogados
 
-Los errores catalogados son catorce, `E-DIST-01` a `E-DIST-14`, y se establecen en la sección XVI, subapartados XV.1 a XV.14, con la tabla final del catálogo en XV.15. Van del error de distancia sin dominio (`E-DIST-01`) al laboratorio con pase silencioso (`E-DIST-14`). Cada error tiene un negativo o un banco asociado; la correspondencia entre errores y negativos se traza en la sección XV y en la sección de Laboratorios.
+Los errores catalogados son catorce, `E-DIST-01` a `E-DIST-14`, y se establecen en la sección XVI, subapartados XVI.1 a XVI.14, con la tabla final del catálogo en XVI.15. Van del error de distancia sin dominio (`E-DIST-01`) al laboratorio con pase silencioso (`E-DIST-14`). Cada error tiene un negativo o un banco asociado; la correspondencia entre errores y negativos se traza en la sección XV y en la sección de Laboratorios.
 
 ### IV.9. Trazabilidad de los laboratorios
 
-La verificación reproducible del trabajo es el laboratorio `lab_bancos_negativos.py`, que ejecuta la batería de negativos y positivos bajo la doble condición de pase. Su sede de documentación y ejecución es la sección de Laboratorios de este trabajo. El laboratorio no es un añadido ilustrativo: es el elemento que hace falsable el aparato, y su trazabilidad enlaza la sección XV —que define los negativos— con el teorema T10 —que establece la falsabilidad por bancos negativos—.
+La verificación reproducible es el laboratorio `lab_bancos_negativos.py`, que ejecuta la batería de negativos y positivos bajo la doble condición de pase. Su sede de documentación y ejecución es la sección de Laboratorios de este trabajo. El laboratorio no es un añadido ilustrativo: es el elemento que hace falsable el aparato, y su trazabilidad enlaza la sección XV —que define los negativos— con el teorema T10 —que establece la falsabilidad por bancos negativos—.
 
 ### IV.10. Trazabilidad de anexos técnicos
 
-El trabajo es, por estatuto, un anexo técnico subordinado a la línea de interacción, intercomposición y transmisión factual entre campos, según se declara en la sección 0.7 y se tabula en el apartado 3. Su propio aparato operativo es este Anexo, organizado en cinco apartados: glosario operativo (1), matriz de transducción (2), matriz de integración serial con el corpus (3), trazabilidad (4) y protocolo de aplicación (5). Cada apartado del Anexo remite a las secciones del cuerpo donde su contenido queda establecido, y ninguno introduce doctrina nueva.
+Este desarrollo queda subordinado, por estatuto, a la línea de interacción, intercomposición y transmisión factual entre campos, según se declara en la Parte III, sección I.7, y se tabula en la Parte IV, sección III. Su propio aparato operativo queda organizado en cinco secciones: glosario operativo (1), matriz de transducción (2), matriz de integración serial con el corpus (3), trazabilidad (4) y protocolo de aplicación (5). Cada apartado del Anexo remite a las secciones del cuerpo donde su contenido queda establecido, y ninguno introduce doctrina nueva.
 
 ### IV.11. Tabla maestra de trazabilidad mínima
 
@@ -2122,16 +2122,16 @@ La tabla siguiente reúne la trazabilidad en forma mínima: para cada categoría
 
 | Categoría | Identificadores | Sede |
 |:---|:---|:---:|
-| Fórmula central de correspondencia | Fórmula directriz y variantes | VII y sección I.9 |
-| Fórmulas de residual | `Δ^{SV↔FC}_{dist}`, `Δ_orig`, `Δ_H` | VII.3, X, VIII.9 |
-| Fórmulas físicas externas | `z`-`a(t)`, `D_L`, `D_A`, `D_C`, `D_P`, `v_rec`, Friedmann | II, IV; absorción VI, VIII |
-| Fórmulas SV reutilizadas | `d^{SV}_Φ`, `D^{SV}_Φ(Γ)`, `Δ^Φ_q`, `DistInter^{SV}`, `𝓣_SV` | I, IV; corpus (ap. 3) |
-| Teoremas centrales | T1 a T10 y corolarios | XII.1–XII.11 |
-| Bancos de contraste | B1 a B13, tabla y salida | XIII.1–XIII.16 |
-| Bancos negativos | N1 a N10 y tabla | XIV.1–XIV.12 |
-| Errores catalogados | `E-DIST-01` a `E-DIST-14` y tabla | XV.1–XV.15 |
+| Fórmula central de correspondencia | Fórmula directriz y variantes | Parte III, I.9 y VIII |
+| Fórmulas de residual | `Δ^{SV↔FC}_{dist}`, `Δ_orig`, `Δ_H` | Parte III, VII.7, VIII.3, XI.5, XII.10 y IX.9 |
+| Fórmulas físicas externas | `z`-`a(t)`, `D_L`, `D_A`, `D_C`, `D_P`, `v_rec`, Friedmann | Parte III, II, V y IX |
+| Fórmulas SV reutilizadas | `d^{SV}_Φ`, `D^{SV}_Φ(Γ)`, `Δ^Φ_q`, `DistInter^{SV}`, `𝓣_SV` | Parte III, III-V; corpus; Parte IV, III |
+| Teoremas centrales | T1 a T10 y corolarios | Parte III, XIII.1–XIII.11 |
+| Bancos de contraste | B1 a B13, tabla y salida | Parte III, XIV.1–XIV.16 |
+| Bancos negativos | N1 a N10 y tabla | Parte III, XV.1–XV.12 |
+| Errores catalogados | `E-DIST-01` a `E-DIST-14` y tabla | Parte III, XVI.1–XVI.15 |
 | Verificación reproducible | `lab_bancos_negativos.py` | Laboratorios |
-| Aparato operativo | Anexo, apartados 1 a 5 | Anexo |
+| Aparato operativo | Parte IV, secciones I a V | Parte IV |
 
 ### IV.12. Criterio de suficiencia trazable
 
@@ -2151,7 +2151,7 @@ La trazabilidad cierra cuando todo elemento del aparato tiene una sede y ninguno
 
 ## V. Protocolo de aplicación a casos cosmológicos nuevos
 
-El Anexo se cierra con un protocolo: el procedimiento que aplica el aparato de este trabajo a un caso cosmológico que no figura en los bancos. No es un resumen de la doctrina, sino una secuencia de pasos —de la entrada del caso al dictamen— pensada para que quien la siga no tenga que reconstruir el trabajo. Los doce primeros pasos son el procedimiento central; los siete siguientes tratan situaciones particulares; los dos últimos consolidan el protocolo y declaran cuándo es aplicable.
+La parte operativa se cierra con un protocolo: el procedimiento que aplica el aparato de este trabajo a un caso cosmológico que no figura en los bancos. No es un resumen de la doctrina, sino una secuencia de pasos —de la entrada del caso al dictamen— pensada para que quien la siga no tenga que reconstruir el trabajo. Los doce primeros pasos son el procedimiento central; los siete siguientes tratan situaciones particulares; los dos últimos consolidan el protocolo y declaran cuándo es aplicable.
 
 ### V.1. Entrada de un caso nuevo
 
@@ -2250,13 +2250,13 @@ La tabla siguiente reúne el procedimiento central en forma operativa: para cada
 
 ### V.21. Dictamen de aplicabilidad
 
-El protocolo es aplicable a todo caso cosmológico que pueda formularse como un enunciado sobre observables, magnitudes, modelos y fronteras declarables; y no es aplicable —y lo declara— a un caso que no admita observable, magnitud ni modelo, porque entonces no hay nada que tipar. Su dictamen de aplicabilidad es, por eso, doble: dice cómo se aplica el aparato y dice dónde deja de aplicarse sin forzarlo. Con este protocolo se cierra el Anexo, y con el Anexo, el aparato operativo del trabajo: el cuerpo demuestra, el Anexo enseña a usar lo demostrado, y la frontera entre lo que el aparato tipa y lo que deja honradamente abierto queda, ella misma, tipada.
+El protocolo es aplicable a todo caso cosmológico que pueda formularse como un enunciado sobre observables, magnitudes, modelos y fronteras declarables; y no es aplicable —y lo declara— a un caso que no admita observable, magnitud ni modelo, porque entonces no hay nada que tipar. Su dictamen de aplicabilidad es, por eso, doble: dice cómo se aplica el aparato y dice dónde deja de aplicarse sin forzarlo. Con este protocolo se cierra el Anexo, y con el Anexo, el aparato operativo del trabajo: el desarrollo principal demuestra, la parte operativa ordena su aplicación, y la frontera entre lo que el aparato tipa y lo que deja honradamente abierto queda, ella misma, tipada.
 
 # Parte V — Laboratorios
 
 Laboratorio reproducible: [https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/laboratorios/](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/laboratorios/). Ejecutor: [https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/laboratorios/lab_bancos_negativos.py](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/laboratorios/lab_bancos_negativos.py).
 
-El desarrollo se cierra con un laboratorio. El cuerpo demuestra y el Anexo enseña a usar lo demostrado; esta parte aporta la verificación reproducible: un programa que cualquiera puede ejecutar para comprobar que el aparato de transducción acepta lo correcto y rechaza el error canónico. No es un apéndice ilustrativo. Es el elemento que hace falsable el trabajo, y sin ella el teorema de falsabilidad por bancos negativos sería una promesa y no un hecho.
+La verificación se completa con un laboratorio. El desarrollo principal demuestra y la parte operativa ordena su aplicación; esta parte aporta la verificación reproducible: un programa que cualquiera puede ejecutar para comprobar que el aparato de transducción acepta lo correcto y rechaza el error canónico. No es un apéndice ilustrativo. Es el elemento que hace falsable el trabajo, y sin ella el teorema de falsabilidad por bancos negativos sería una promesa y no un hecho.
 
 ## I. Estatuto de los laboratorios
 
@@ -2375,7 +2375,7 @@ El laboratorio se reproduce con una sola orden, `python3 lab_bancos_negativos.py
 
 ## X. Enlace con el cuerpo y cierre
 
-Con el laboratorio se cierra el círculo del cuerpo. La sección XIV fija los bancos de contraste; la XV, los bancos negativos y la reducción al absurdo; la XVI, el catálogo de errores; y el teorema T10 de la sección XIII establece la falsabilidad por bancos negativos. Esos cuatro elementos se vuelven ejecutables en el laboratorio: la falsabilidad pasa de promesa a hecho comprobable. Con esta parte, el contraste de laboratorio queda completo: la demostración, en el cuerpo; la aplicación, en el Anexo; y el contraste ejecutable, en los Laboratorios, donde el transductor se somete a la batería construida para refutarlo y acepta el caso correcto rechazando el error canónico.
+El laboratorio completa la verificación reproducible. La sección XIV fija los bancos de contraste; la XV, los bancos negativos y la reducción al absurdo; la XVI, el catálogo de errores; y el teorema T10 de la sección XIII establece la falsabilidad por bancos negativos. Esos cuatro elementos se vuelven ejecutables en el laboratorio: la falsabilidad pasa de promesa a hecho comprobable. Con esta parte, el contraste de laboratorio queda completo: la demostración, en el cuerpo; la aplicación, en el Anexo; y el contraste ejecutable, en los Laboratorios, donde el transductor se somete a la batería construida para refutarlo y acepta el caso correcto rechazando el error canónico.
 
 # Parte VI — Régimen dinámico de observables: tendencia ciclo-distancial, contraste físico y clausura potencial
 
@@ -2550,7 +2550,7 @@ La consecuencia global del régimen dinámico de observables es una partición m
 
 ## XI. Síntesis final: el régimen dinámico bajo el techo rector
 
-La síntesis final reúne el recorrido completo. En la parte inicial se tipó el observable; en la primera parte se fijaron las clases de fibras; en la segunda se construyó el transductor de distancias, con sus teoremas y sus bancos; en el Anexo se dispuso el aparato operativo; en los Laboratorios se sometió ese aparato a la batería construida para refutarlo; y en este epílogo la tendencia, la clausura y el retorno se han presentado como cálculo de régimen, no como relato. Todo ese recorrido descansa sobre un techo declarado en la sección `III`, que conviene nombrar de nuevo al cerrar: la Teoría del TODO y de la NADA, y la Fórmula del Todo y de la Nada que la enuncia. No es un resultado más del desarrollo, sino su frontera: fija la completitud estructural, el origen de potencial como referencia formal y la prohibición de sustituir la dependencia formal por cronología, geometría o probabilidad.
+La síntesis final reúne el recorrido completo. En la parte inicial se tipó el observable; en la primera parte se fijaron las clases de fibras; en la segunda se construyó el transductor de distancias, con sus teoremas y sus bancos; en la Parte IV se dispuso el aparato operativo; en los Laboratorios se sometió ese aparato a la batería construida para refutarlo; y en esta Parte VI la tendencia, la clausura y el retorno se han presentado como cálculo de régimen, no como relato. Todo ese recorrido descansa sobre un techo declarado en la sección `III`, que conviene nombrar de nuevo al cerrar: la Teoría del TODO y de la NADA, y la Fórmula del Todo y de la Nada que la enuncia. No es un resultado más del desarrollo, sino su frontera: fija la completitud estructural, el origen de potencial como referencia formal y la prohibición de sustituir la dependencia formal por cronología, geometría o probabilidad.
 
 Desde esa frontera —y no desde una preferencia— se ha decidido cada dictamen de este trabajo: cada absorción, cada absorción parcial, cada rechazo. Por eso el cierre no enuncia una cosmología nueva. La distancia entre observables, la tendencia ciclo-distancial, la clausura potencial y el retorno energético quedan como magnitudes tipadas de un dominio interno; ninguna asciende a fundamento. La totalidad no se ha hecho objeto; el origen no se ha hecho lugar; el horizonte no se ha hecho borde. Lo que la Fórmula del Todo y de la Nada sostiene en lo general queda aquí sostenido en un caso —el de la distancia entre observables—, y con ello la distancia queda devuelta, medida y tipada, al techo del que nunca debió desprenderse.
 
