@@ -2898,11 +2898,8 @@ La Parte I fija el núcleo doctrinal mínimo de la publicación. El resultado pu
 
 sin contradicción, porque cada expresión pertenece a un dominio funcional distinto.
 
-El cierre de la Parte I queda fijado así:
+El cierre de la Parte I queda fijado así:<div align="center">ε<sub>−0</sub> borde preformal de imperfección mínima que hace posible la primera distinguibilidad</div> y: <div align="center">ε<sub>−0</sub> ⊢ ∂<sub>ε</sub> ⊢ D<sub>sep</sub> ⊢ Ω<sub>esp</sub>.</div>
 
-<div align="center">ε<sub>−0</sub> borde preformal de imperfección mínima que hace posible la primera distinguibilidad</div>
-
-y: <div align="center">ε<sub>−0</sub> ⊢ ∂<sub>ε</sub> ⊢ D<sub>sep</sub> ⊢ Ω<sub>esp</sub>.</div>
 
 ---
 > **[IMPORTANTE]**
