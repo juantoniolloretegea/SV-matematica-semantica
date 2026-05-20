@@ -1,6 +1,6 @@
 # Interacción, intercomposición y transmisión factual entre campos en el Sistema Vectorial SV
 
-**Autor:** [Juan Antonio Lloret Egea](https://es.linkedin.com/in/juanantoniolloretegea/) . ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) . **Sello editorial:** [ITVIA](https://itvia.online) . Serie editorial: IA eñ™ — La Biblia de la IA™ . ISSN: [2695-6411](https://portal.issn.org/resource/ISSN/2695-6411) . **Licencia:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) . Lugar y fecha: Madrid, 19/05/2026. Copyright: © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados / All rights reserved. - DOI: [10.21428/39829d0b.c394e160](https://doi.org/10.21428/39829d0b.c394e160) . Release en PubPub (itvia.online): <https://www.itvia.online/pub/distancia-absoluta-y-relativa-entre-observables-del-universo/release/1> . Colección a la que pertenece: *El Universo* — línea cosmológica programática del corpus SV. DOI de la colección: [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd) .URL: <https://www.itvia.online/el-universo>
+**Autor:** [Juan Antonio Lloret Egea](https://es.linkedin.com/in/juanantoniolloretegea/) . ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) . **Sello editorial:** [ITVIA](https://itvia.online) . Serie editorial: IA eñ™ — La Biblia de la IA™ . ISSN: [2695-6411](https://portal.issn.org/resource/ISSN/2695-6411) . **Licencia:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) . Lugar y fecha: Madrid, [7-19]/05/2026. Copyright: © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados / All rights reserved. Colección a la que pertenece: *El Universo* — línea cosmológica programática del corpus SV. **DOI de la colección**: [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd) .URL: <https://www.itvia.online/el-universo>
 
 ---
 
@@ -17,7 +17,7 @@
 
 [registro histórico de maduración pública](https://web.archive.org/web/20260507111108/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos). 
 
-[Para esta publicación:](https://web.archive.org/web/20260520135224/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/distancia-absoluta-relativa-observables-universo.md)
+[Para la publicación: "Distancia absoluta y relativa entre observables del Universo·](https://web.archive.org/web/20260520135224/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/interaccion-intercomposicion-transmision-campos/etapa-de-maduracion-matematica-para-version-final/distancia-absoluta-relativa-observables-universo/distancia-absoluta-relativa-observables-universo.md)
 
 ## Estructura
 
