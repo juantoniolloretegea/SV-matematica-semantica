@@ -2579,14 +2579,9 @@ Lloret Egea, J. A. (2026). *Primitivos metrológicos del Sistema Vectorial SV*. 
 Lloret Egea, J. A. (2026). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. Sistema Vectorial SV. https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv
 
 ---
+**Advertencia**. Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física y la Química, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
 
-## Advertencia
-
-Este documento se publica como pieza canónica subordinada al [corpus del Sistema Vectorial SV](https://github.com/juantoniolloretegea/SV-matematica-semantica). De conformidad con el protocolo editorial del proyecto, los documentos del corpus se publican en `itvia.online` (PubPub), mientras que el código, los datos asociados y los artefactos técnicos de soporte —incluido el laboratorio reproducible de este trabajo— se alojan en GitHub. No debe presentarse este documento como nuevo fundamento ni como refundación del Sistema Vectorial SV, sino como desarrollo subordinado a la *Teoría del TODO y de la NADA* y al aparato algebraico ya establecido. La licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) autoriza la lectura, la cita y la difusión no comercial preservando la integridad del texto y la atribución; no autoriza obras derivadas ni usos comerciales.
-
-## Disclaimer
-
-This document is published as a canonical piece subordinated to the [corpus of the Sistema Vectorial SV](https://github.com/juantoniolloretegea/SV-matematica-semantica). In accordance with the project's editorial protocol, corpus documents are published on `itvia.online` (PubPub), while code, associated data and supporting technical artefacts —including the reproducible laboratory of this work— are hosted on GitHub. This document should not be presented as a new foundation or as a refoundation of the Sistema Vectorial SV, but as a development subordinated to the *Theory of the WHOLE and of NOTHINGNESS* and to the already established algebraic apparatus. The [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license authorises reading, citation and non-commercial dissemination preserving the integrity of the text and attribution; it does not authorise derivative works or commercial uses.
+**Warning**. This publication is protected by CEDRO.Its application in the field of Physics and Chemistry, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
 
 ## Palabras clave
 
