@@ -7,7 +7,7 @@ predominancia absorbente: P_a anula P_b, bloquea el canal, vuelve infranqueable 
 
 ---
 <br>
-### Definiciones. Sea Γ_D un observable polar dentro de un dominio D. Sean P_a y P_b sus polos constitutivos. Sea P_x^op la operatividad del polo P_x. Sea C_ab el canal entre polos. Sea B_ab la barrera de relación entre polos. Sea Δ_ab el residual de la relación polar. Sea R_D el retorno del dominio. Sea Tr_D la traza declarada del dominio. Sea Eq_D^≠0(P_a,P_b) el equilibrio de potencial no nulo entre polos. Definimos realización polar compatible: Real_D(Γ)=1 si y sólo si:
+Definiciones. Sea Γ_D un observable polar dentro de un dominio D. Sean P_a y P_b sus polos constitutivos. Sea P_x^op la operatividad del polo P_x. Sea C_ab el canal entre polos. Sea B_ab la barrera de relación entre polos. Sea Δ_ab el residual de la relación polar. Sea R_D el retorno del dominio. Sea Tr_D la traza declarada del dominio. Sea Eq_D^≠0(P_a,P_b) el equilibrio de potencial no nulo entre polos. Definimos realización polar compatible: Real_D(Γ)=1 si y sólo si:
 P_a^op ∧ P_b^op ∧ C_ab abierto ∧ B_ab compatible ∧ Δ_ab gobernado ∧ R_D conservado ∧ Tr_D declarada ∧ Eq_D^≠0(P_a,P_b). Definimos clausura polar: Claus_D(Γ)=1
 si y sólo si falla alguna condición constitutiva: ¬P_a^op ∨ ¬P_b^op ∨ C_ab cerrado ∨ B_ab infranqueable ∨ Δ_ab destructivo ∨ R_D perdido ∨ destrucción(D)
 Este patrón coincide con la formulación del documento: la clausura aparece cuando falla la operatividad de un polo, se cierra el canal, la barrera se vuelve infranqueable, el residual se vuelve destructivo o se pierde el retorno. 
