@@ -425,12 +425,3 @@ M. Dictamen adversarial final
 
 ---
 
-## 16. Dictamen operativo de custodia
-
-Este README debe conservarse como punto de arranque de la publicación futura. Su función no es cerrar la teoría, sino impedir tres pérdidas:
-
-1. Que la nota de alcance incorporada antes del DOI quede olvidada.
-2. Que la frontera regresiva se mezcle con la publicación de `ε−0`.
-3. Que el teorema de predominancia compatible se trate como una pieza biológica lateral y no como núcleo formal de la no nulidad polar en dominios realizados.
-
-La publicación futura debe abrir desde aquí, no desde los documentos laterales.
