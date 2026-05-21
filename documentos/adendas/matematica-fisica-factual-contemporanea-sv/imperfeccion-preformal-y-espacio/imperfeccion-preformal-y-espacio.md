@@ -1,7 +1,4 @@
-# Imperfección preformal y espacio: ε<sub>−0</sub>, primera distinguibilidad y dominio estNota de alcance sobre una lectura regresiva no desarrollada
----
-<br>.
----
+# Imperfección preformal y espacio: ε<sub>−0</sub>, primera distinguibilidad y dominio estructural completo de separación factual recorrible
 
 <p align="center">
   <img src="imagenes/portada.svg" alt="Portada de la publicación Imperfección preformal y espacio" width="100%">
@@ -2901,20 +2898,22 @@ La Parte I fija el núcleo doctrinal mínimo de la publicación. El resultado pu
 
 sin contradicción, porque cada expresión pertenece a un dominio funcional distinto.
 
-El cierre de la Parte I queda fijado así:<div align="center">ε<sub>−0</sub> borde preformal de imperfección mínima que hace posible la primera distinguibilidad</div> y: <div align="center">ε<sub>−0</sub> ⊢ ∂<sub>ε</sub> ⊢ D<sub>sep</sub> ⊢ Ω<sub>esp</sub>.</div>
+El cierre de la Parte I queda fijado así:
 
+<div align="center">ε<sub>−0</sub> borde preformal de imperfección mínima que hace posible la primera distinguibilidad</div>
 
----
+y:
+
+<div align="center">ε<sub>−0</sub> ⊢ ∂<sub>ε</sub> ⊢ D<sub>sep</sub> ⊢ Ω<sub>esp</sub>.</div>
+
 > **Nota de continuidad append-only y desarrollo relacionado.**  
-> Esta publicación desarrolla `ε−0` como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Ese es el plano que aquí se articula y cierra. La lectura regresiva posterior —relativa a la imposibilidad de una nulidad polar absoluta `(μ,λ)=(0,0)` en dominios ya realizados— no se desarrolla en esta pieza, para evitar mezcla de planos y no reabrir el eje propio de `ε−0`.  
+> Esta publicación desarrolla `ε−0` como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Ese es el plano que aquí se articula y cierra. La lectura regresiva posterior —relativa a la imposibilidad de una nulidad polar absoluta `(μ,λ)=(0,0)` en dominios ya realizados— no se desarrolla en esta pieza, para evitar mezcla de planos y no reabrir el eje propio de `ε−0`.
 >
-> Como continuidad formal separada, queda abierta la publicación relacionada **[Frontera regresiva de no nulidad polar en el Sistema Vectorial SV: realización de dominio, predominancia compatible y clausura por absorción](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/desarrollos-relacionados/frontera-regresiva-no-nulidad-polar)**. Esa pieza conserva la frontera regresiva bajo disciplina append-only, sin corregir ni sustituir la presente publicación. Su función es desarrollar, con aparato propio, la no nulidad polar de los dominios realizados, la distinción entre predominancia compatible y predominancia absorbente, y la clausura por pérdida de complemento, canal, barrera, residual, retorno o traza.  
+> Como continuidad formal separada, queda abierta la publicación relacionada **[Frontera regresiva de no nulidad polar en el Sistema Vectorial SV: realización de dominio, predominancia compatible y clausura por absorción](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/desarrollos-relacionados/frontera-regresiva-no-nulidad-polar)**. Esa pieza conserva la frontera regresiva bajo disciplina append-only, sin corregir ni sustituir la presente publicación. Su función es desarrollar, con aparato propio, la no nulidad polar de los dominios realizados, la distinción entre predominancia compatible y predominancia absorbente, y la clausura por pérdida de complemento, canal, barrera, residual, retorno o traza.
 >
 > Cuando la publicación relacionada disponga de DOI editorial, este bloque será actualizado para incorporar su referencia formal definitiva y cerrar la remisión cruzada entre ambas piezas.
 
 A partir de este cierre, la publicación puede pasar a la Teoría del TODO y de la NADA, la imperfección y la pluralidad de dominios, sin confundir apertura preformal, cierre rector, vacío físico, NADA, pluralidad cosmológica ni espacio constituido.
-
----
 
 <a id="sec-v-teoria-del-todo-y-de-la-nada-imperfeccion-y-pluralidad-de-dominios"></a>
 
