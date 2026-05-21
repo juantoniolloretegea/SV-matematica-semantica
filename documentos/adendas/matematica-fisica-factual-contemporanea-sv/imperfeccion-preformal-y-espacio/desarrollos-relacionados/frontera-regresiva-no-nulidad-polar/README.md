@@ -600,9 +600,10 @@ Las tres vías traccionan hacia la sede principal: la colección [Biología mole
 
 El destino doctrinal común: el bienestar del individuo y de la sociedad mediante la lectura estructural de la vida como imperfección sostenida y de la enfermedad como desplazamiento.
 
+---
+
 ## Anexo 3. Sucesos normales y sucesos complejos en el Sistema Vectorial SV
 
----
 
 ---
 ## Nomenclatura nativa del aparato complejo factual y desarrollo matemático
