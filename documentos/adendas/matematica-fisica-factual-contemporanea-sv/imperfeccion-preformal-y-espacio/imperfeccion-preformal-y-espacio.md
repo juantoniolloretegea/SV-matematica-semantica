@@ -1,5 +1,5 @@
 # Imperfección preformal y espacio: ε<sub>−0</sub>, primera distinguibilidad y dominio estNota de alcance sobre una lectura regresiva no desarrollada
-
+---
 <br>.
 ---
 
