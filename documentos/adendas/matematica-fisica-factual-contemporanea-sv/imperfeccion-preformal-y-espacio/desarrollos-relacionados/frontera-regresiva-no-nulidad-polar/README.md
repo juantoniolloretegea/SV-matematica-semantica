@@ -2,15 +2,16 @@
 
 ## Realización de dominio, predominancia compatible y clausura por absorción
 
-**Estado:** definición estructural formal de de ε−0.  
-**Relación con la publicación previa:** continuidad append-only posterior a [Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/imperfeccion-preformal-y-espacio.md) 
-**Función:** fijar el núcleo formal de de ε−0.
+**Naturaleza:** definición estructural formal de ε−0 en frontera regresiva.  
+**Lugar en el corpus:** continuidad append-only posterior a [Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/imperfeccion-preformal-y-espacio.md).  
+**Cometido:** fijar el núcleo formal de la no nulidad polar en dominios realizados.  
+**Sede biomédica de aplicación:** colección [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina) (DOI editorial [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db)), destino doctrinal compartido con [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md) y [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md): el teorema articula vida sostenida frente a enfermedad como desplazamiento estructural.
 
 ---
 
-## 1. Definición estructural formal de de ε−0
+## 1. Definición estructural formal de ε−0
 
-La publicación *Imperfección preformal y espacio* desarrolla y cierra la lectura de `ε−0` como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Su núcleo propio es:  `ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp. Una frontera regresiva posterior: todo dominio ya realizado deberá ser examinado en relación con la imposibilidad de una nulidad polar absoluta `(μ,λ)=(0,0)`. Esa lectura pertenece a otra frontera funcional, no corrige ni sustituye la primera, y requiere tratamiento separado bajo disciplina append-only.
+La publicación *Imperfección preformal y espacio* desarrolla y cierra la lectura de `ε−0` como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Su núcleo propio es: `ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp`. Una frontera regresiva posterior: todo dominio ya realizado deberá ser examinado en relación con la imposibilidad de una nulidad polar absoluta `(μ,λ)=(0,0)`. Esa lectura pertenece a otra frontera funcional, no corrige ni sustituye la primera, y requiere tratamiento separado bajo disciplina append-only.
 
 ---
 
@@ -26,9 +27,9 @@ El problema rector no es ya cómo `ε−0` abre hacia adelante la primera distin
 
 La frontera hacia adelante pertenece a la publicación de `ε−0`. En ella, `ε−0` se toma como borde preformal de apertura. No se deriva desde una estructura polar previa. No se introduce allí una teoría de polos constitutivos. Su función es permitir la primera distinguibilidad. Forma: `ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp`
 
-### 3.2. Frontera hacia detrás
+### 3.2. Frontera hacia atrás
 
-La frontera hacia detrás pertenece a esta futura publicación.
+La frontera hacia atrás pertenece a esta futura publicación.
 
 No afirma que existan dos polos constituidos antes de `ε−0`. Afirma que todo dominio ya realizado, leído regresivamente, debe excluir la nulidad polar absoluta:
 
@@ -38,9 +39,9 @@ No afirma que existan dos polos constituidos antes de `ε−0`. Afirma que todo 
 
 ## 4. Tesis central
 
-La tesis central de la futura publicación será:
+Tesis central.
 
-**todo dominio realizado exige una condición de no nulidad polar; esa no nulidad puede admitir desigualdad, asimetría o predominancia compatible sin clausurar el dominio. Sólo la predominancia absorbente, bloqueante o destructiva produce clausura o no aptitud.** Forma compacta: `Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)` `Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`.
+**Todo dominio realizado exige una condición de no nulidad polar; esa no nulidad puede admitir desigualdad, asimetría o predominancia compatible sin clausurar el dominio. Sólo la predominancia absorbente, bloqueante o destructiva produce clausura o no aptitud.** Forma compacta: `Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)` `Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`.
 
 ---
 
@@ -105,14 +106,14 @@ Conserva:
 
 Forma: `Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)`.
 
-### Demostración prevista
+### Forma de la demostración
 
-La demostración deberá incluir dos vías:
+La demostración procede por dos vías:
 
 1. Demostración directa.
 2. Demostración por reducción al absurdo.
 
-La demostración directa probará que si la predominancia conserva complemento operativo, canal, barrera compatible, residual gobernado, retorno, traza y equilibrio operativo no nulo, entonces `Real_D(Γ)=1`, por lo que no procede `Claus_D(Γ)=1`. La reducción al absurdo probará que si toda predominancia clausurase, quedarían eliminados regímenes que el aparato necesita distinguir: similitud dominante sin pérdida de realización, coexistencia activa con doble accesibilidad y contraste fuerte sin absorción destructiva.
+La demostración directa establece que si la predominancia conserva complemento operativo, canal, barrera compatible, residual gobernado, retorno, traza y equilibrio operativo no nulo, entonces `Real_D(Γ)=1`, por lo que no procede `Claus_D(Γ)=1`. La reducción al absurdo establece que si toda predominancia clausurase, quedarían eliminados regímenes que el aparato necesita distinguir: similitud dominante sin pérdida de realización, coexistencia activa con doble accesibilidad y contraste fuerte sin absorción destructiva.
 
 ---
 
@@ -138,7 +139,7 @@ La dominancia compatible conserva el segundo polo como complemento operativo. La
 
 ## 12. Gramática de dictamen
 
-La futura publicación deberá distinguir, al menos:
+La gramática de dictamen comprende, al menos:
 
 - `APTO-M`: predominancia de similitud sin pérdida de realización.
 - `APTO-C`: coexistencia activa con doble accesibilidad y equilibrio operativo no nulo.
@@ -149,11 +150,23 @@ La futura publicación deberá distinguir, al menos:
 
 ---
 
-## 13. Aplicación mínima de contraste
+## 13. Sede biomédica del teorema, terna de tracción doctrinal y aplicación mínima de contraste
 
-La aplicación biológica y clínica no funda el teorema. Sólo sirve como contraste material mínimo.
+El teorema de predominancia compatible/absorbente articula, en el plano biomédico, una de las preocupaciones rectoras del Sistema Vectorial SV: leer la vida individual y colectiva como imperfección sostenida, y la enfermedad como desplazamiento estructural de esa zona. Es ahí donde el aparato gana bisturí. La sede formal donde ese desarrollo vive, dentro del corpus, es la colección [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina) (DOI editorial [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db)).
 
-Casos orientativos:
+**Terna de tracción doctrinal hacia la sede biomédica.** Tres publicaciones del corpus convergen, desde planos distintos, sobre el mismo destino:
+
+1. [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md): sede originaria del *Teorema de predominancia del régimen de imperfección* (§1.6, 1.6.1 + 4 corolarios + Principio P_U). El manantial doctrinal del aparato compatible/absorbente que esta publicación venidera formaliza como teorema de no clausura.
+
+2. [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md) (DOI editorial [10.21428/39829d0b.b56ed853](https://doi.org/10.21428/39829d0b.b56ed853)): declara en su subtítulo la conexión con la biomedicina y la fija en su bibliografía del corpus. Hace de la edad de los observables y de la lectura biomédica una sola arquitectura doctrinal.
+
+3. *Frontera regresiva de no nulidad polar* (esta publicación venidera): articula la realización polar y su clausura por absorción como núcleo formal sobre el que la lectura biomédica de imperfección sostenida se asienta.
+
+La función operativa de la terna no es bibliográfica. Es de tracción doctrinal: las tres vías traccionan hacia la misma sede biomédica para que el corpus SV resuelva, en ese plano, el bienestar del individuo y de la sociedad. Esa es la dirección del bisturí.
+
+Dentro del presente README, la aplicación biológica y clínica no funda el teorema. Sólo opera como contraste material mínimo. La sustancia clínica vive en la sede citada.
+
+Casos orientativos de contraste:
 
 - dominancia celular contenida ≠ cáncer fuerte;
 - respuesta inmune intensa con barrera conservada ≠ autodestrucción;
@@ -162,13 +175,13 @@ Casos orientativos:
 - infección dominante con pérdida de retorno ⇒ clausura o no aptitud;
 - absorción de complemento ⇒ clausura/no aptitud.
 
-La biología entra como banco de estrés, no como sustitución doctrinal.
+La biología entra como banco de estrés, no como sustitución doctrinal. Su desarrollo pleno reside en la colección citada y en la terna doctrinal que tracciona hacia ella.
 
 ---
 
 ## 14. Relación con otros elementos
 
-La futura publicación podrá citar, como presión de otros elementos y no como núcleo :
+Como elementos de presión, y no como núcleo, comparecen:
 
 1. Teoría de barrera y canal entre proyecciones: coestructura no equivale a identidad; canal no equivale a mezcla.
 2. Copia imperfecta y reinstanciación de traza: continuidad no equivale a identidad absoluta; toda copia exige residual.
@@ -184,7 +197,7 @@ Estos elementos no desplazan el núcleo de la publicación. Su función es confi
 
 0.1. Punto de origen: nota de alcance añadida a *Imperfección preformal y espacio*  
 0.2. Problema rector: imposibilidad de nulidad polar absoluta en dominios realizados  
-0.3. Diferencia entre frontera hacia adelante y frontera hacia detrás  
+0.3. Diferencia entre frontera hacia adelante y frontera hacia atrás  
 0.4. Por qué la publicación de `ε−0` no se corrige ni se reabre  
 0.5. Tesis central: no nulidad polar, predominancia compatible y clausura por absorción  
 0.6. Error a excluir: desigualdad polar = anulación = clausura  
@@ -205,7 +218,7 @@ I.7. Dictamen de estatuto
 ### II. Las dos fronteras
 
 II.1. Frontera hacia adelante: `ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp`  
-II.2. Frontera hacia detrás: lectura regresiva de dominios realizados  
+II.2. Frontera hacia atrás: lectura regresiva de dominios realizados  
 II.3. Diferencia entre apertura preformal y reconstrucción estructural  
 II.4. Por qué `(μ,λ)=(0,0)` no puede operar como dominio realizado  
 II.5. No nulidad polar sin ontología previa de dos objetos constituidos  
@@ -338,7 +351,7 @@ XII.7. Dictamen del corolario
 
 ### XIII. Aplicación mínima biológica y clínica y conexión con [Proyecciones biológicas de la fibra](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/proyecciones-biologicas-de-la-fibra/proyecciones-biologicas-de-la-fibra.md)
 
-XIII.1. Estatuto subordinado de la aplicación  
+XIII.1. Estatuto subordinado de la aplicación y remisión a la sede principal: colección [Biología molecular y medicina](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina)  
 XIII.2. Dominancia celular contenida  
 XIII.3. Señal dominante compatible  
 XIII.4. Respuesta inmune intensa con barrera conservada  
@@ -424,4 +437,16 @@ L. Catálogo de errores
 M. Dictamen adversarial final  
 
 ---
+
+## 16. Traza estructural de la publicación venidera
+
+Este README registra la traza estructural y la arquitectura de la publicación venidera. Eso, y nada más. Tres elementos componen la traza:
+
+1. La nota de alcance incorporada antes del DOI en *Imperfección preformal y espacio*, como condición de continuidad append-only.
+2. La separación entre la frontera regresiva y el plano propio de `ε−0`, como distinción de planos funcionales.
+3. El teorema de predominancia compatible como núcleo formal de la no nulidad polar en dominios realizados, no como pieza biológica lateral.
+
+**Terna doctrinal de tracción biomédica.** Esta publicación venidera concurre, dentro del corpus, con [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md) —origen doctrinal del aparato compatible/absorbente (§1.6)— y [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md) —conexión doctrinal con el plano biomédico— para traccionar hacia la sede principal de aplicación: [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina). El destino común: el bienestar del individuo y de la sociedad por lectura estructural de la vida como imperfección sostenida y de la enfermedad como desplazamiento. Ese es el bisturí fino del aparato.
+
+La publicación arranca desde aquí.
 
