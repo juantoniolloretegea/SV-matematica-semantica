@@ -4,8 +4,7 @@
 
 **Naturaleza:** definición estructural formal de ε−0 en frontera regresiva.  
 **Lugar en el corpus:** continuidad append-only posterior a [Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/imperfeccion-preformal-y-espacio.md).  
-**Cometido:** fijar el núcleo formal de la no nulidad polar en dominios realizados.  
-**Sede biomédica de aplicación:** colección [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina) (DOI editorial [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db)), destino doctrinal compartido con [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md) y [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md): el teorema articula vida sostenida frente a enfermedad como desplazamiento estructural.
+**Cometido:** fijar el núcleo formal de la no nulidad polar en dominios realizados.
 
 ---
 
@@ -150,23 +149,11 @@ La gramática de dictamen comprende, al menos:
 
 ---
 
-## 13. Sede biomédica del teorema, terna de tracción doctrinal y aplicación mínima de contraste
+## 13. Aplicación mínima de contraste
 
-El teorema de predominancia compatible/absorbente articula, en el plano biomédico, una de las preocupaciones rectoras del Sistema Vectorial SV: leer la vida individual y colectiva como imperfección sostenida, y la enfermedad como desplazamiento estructural de esa zona. Es ahí donde el aparato gana bisturí. La sede formal donde ese desarrollo vive, dentro del corpus, es la colección [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina) (DOI editorial [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db)).
+La aplicación biológica y clínica no funda el teorema. Sólo opera como contraste material mínimo.
 
-**Terna de tracción doctrinal hacia la sede biomédica.** Tres publicaciones del corpus convergen, desde planos distintos, sobre el mismo destino:
-
-1. [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md): sede originaria del *Teorema de predominancia del régimen de imperfección* (§1.6, 1.6.1 + 4 corolarios + Principio P_U). El manantial doctrinal del aparato compatible/absorbente que esta publicación venidera formaliza como teorema de no clausura.
-
-2. [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md) (DOI editorial [10.21428/39829d0b.b56ed853](https://doi.org/10.21428/39829d0b.b56ed853)): declara en su subtítulo la conexión con la biomedicina y la fija en su bibliografía del corpus. Hace de la edad de los observables y de la lectura biomédica una sola arquitectura doctrinal.
-
-3. *Frontera regresiva de no nulidad polar* (esta publicación venidera): articula la realización polar y su clausura por absorción como núcleo formal sobre el que la lectura biomédica de imperfección sostenida se asienta.
-
-La función operativa de la terna no es bibliográfica. Es de tracción doctrinal: las tres vías traccionan hacia la misma sede biomédica para que el corpus SV resuelva, en ese plano, el bienestar del individuo y de la sociedad. Esa es la dirección del bisturí.
-
-Dentro del presente README, la aplicación biológica y clínica no funda el teorema. Sólo opera como contraste material mínimo. La sustancia clínica vive en la sede citada.
-
-Casos orientativos de contraste:
+Casos orientativos:
 
 - dominancia celular contenida ≠ cáncer fuerte;
 - respuesta inmune intensa con barrera conservada ≠ autodestrucción;
@@ -175,7 +162,7 @@ Casos orientativos de contraste:
 - infección dominante con pérdida de retorno ⇒ clausura o no aptitud;
 - absorción de complemento ⇒ clausura/no aptitud.
 
-La biología entra como banco de estrés, no como sustitución doctrinal. Su desarrollo pleno reside en la colección citada y en la terna doctrinal que tracciona hacia ella.
+La biología entra como banco de estrés, no como sustitución doctrinal.
 
 ---
 
@@ -351,7 +338,7 @@ XII.7. Dictamen del corolario
 
 ### XIII. Aplicación mínima biológica y clínica y conexión con [Proyecciones biológicas de la fibra](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/proyecciones-biologicas-de-la-fibra/proyecciones-biologicas-de-la-fibra.md)
 
-XIII.1. Estatuto subordinado de la aplicación y remisión a la sede principal: colección [Biología molecular y medicina](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina)  
+XIII.1. Estatuto subordinado de la aplicación  
 XIII.2. Dominancia celular contenida  
 XIII.3. Señal dominante compatible  
 XIII.4. Respuesta inmune intensa con barrera conservada  
@@ -446,7 +433,172 @@ Este README registra la traza estructural y la arquitectura de la publicación v
 2. La separación entre la frontera regresiva y el plano propio de `ε−0`, como distinción de planos funcionales.
 3. El teorema de predominancia compatible como núcleo formal de la no nulidad polar en dominios realizados, no como pieza biológica lateral.
 
-**Terna doctrinal de tracción biomédica.** Esta publicación venidera concurre, dentro del corpus, con [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md) —origen doctrinal del aparato compatible/absorbente (§1.6)— y [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md) —conexión doctrinal con el plano biomédico— para traccionar hacia la sede principal de aplicación: [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina). El destino común: el bienestar del individuo y de la sociedad por lectura estructural de la vida como imperfección sostenida y de la enfermedad como desplazamiento. Ese es el bisturí fino del aparato.
-
 La publicación arranca desde aquí.
+
+---
+
+## Anexo 1: Teorema cimiento
+
+**Función:** dar fundamento doctrinal estable al aparato compatible/absorbente. El cimiento conserva la articulación tal como fue puesta en su origen, antes de que se trazaran los planos.
+
+### Problema planteado
+
+Sea un dominio observable `D` constituido por una relación polar entre dos polos `P_a` y `P_b`. El problema es decidir si la predominancia de uno de ellos implica necesariamente la anulación del otro y, por tanto, la clausura del dominio.
+
+La respuesta es negativa: la predominancia no equivale a clausura. Sólo hay clausura cuando la predominancia se convierte en absorbente, esto es, cuando deja de orientar la relación y pasa a destruir la complementariedad que permitía el retorno.
+
+El problema se formula así: `P_a ≻ P_b` puede significar dos cosas distintas:
+
+- `Pred_comp(P_a,P_b)`: predominancia compatible. `P_a` orienta, intensifica o estabiliza la relación sin anular `P_b`.
+- `Pred_abs(P_a,P_b)`: predominancia absorbente. `P_a` anula `P_b`, bloquea el canal, vuelve infranqueable la barrera, destruye el morfismo de relación, impide retorno o reduce el dominio a una sola polaridad.
+
+La confusión que debe evitarse es `P_a ≻ P_b ⇒ Claus_D(Γ)=1`. Esa implicación es falsa.
+
+### Definiciones
+
+Sea `Γ_D` un observable polar dentro de un dominio `D`. Sean `P_a` y `P_b` sus polos constitutivos.
+
+- `P_x^op`: operatividad del polo `P_x`.
+- `C_ab`: canal entre polos.
+- `B_ab`: barrera de relación entre polos.
+- `Δ_ab`: residual de la relación polar.
+- `R_D`: retorno del dominio.
+- `Tr_D`: traza declarada del dominio.
+- `Eq_D^≠0(P_a,P_b)`: equilibrio de potencial no nulo entre polos.
+
+Realización polar compatible: `Real_D(Γ)=1` si y sólo si se conservan simultáneamente:
+
+`P_a^op ∧ P_b^op ∧ C_ab abierto ∧ B_ab compatible ∧ Δ_ab gobernado ∧ R_D conservado ∧ Tr_D declarada ∧ Eq_D^≠0(P_a,P_b)`.
+
+Clausura polar: `Claus_D(Γ)=1` si y sólo si falla alguna condición constitutiva:
+
+`¬P_a^op ∨ ¬P_b^op ∨ C_ab cerrado ∨ B_ab infranqueable ∨ Δ_ab destructivo ∨ R_D perdido ∨ destrucción(D)`.
+
+### Teorema de no clausura por predominancia compatible
+
+**Ninguna predominancia polar compatible clausura por sí misma un observable. Sólo clausura la predominancia que se vuelve absorbente, bloqueante o destructiva del retorno.**
+
+Forma compacta:
+
+`Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)` y `Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)`,
+
+bajo dominio, canal, barrera, residual, retorno y traza declarados.
+
+### Demostración directa
+
+Sea una configuración polar `Γ_D` con polos `P_a` y `P_b`, y supóngase que `P_a` predomina sobre `P_b`: `P_a ≻ P_b`.
+
+La predominancia de `P_a` no basta para declarar clausura. Para que la predominancia sea compatible deben conservarse las condiciones siguientes:
+
+- `P_b^op = 1`
+- `C_ab` permanece abierto
+- `B_ab` permanece compatible
+- `Δ_ab` queda gobernado
+- `R_D` se conserva
+- `Tr_D` está declarada
+- `Eq_D^≠0(P_a,P_b)` se mantiene
+
+Si todas esas condiciones se cumplen, la relación polar sigue teniendo complemento operativo, canal, barrera, residual controlado, retorno y traza. Por tanto, `Real_D(Γ)=1`. Si `Real_D(Γ)=1`, no procede declarar clausura: `¬Claus_D(Γ)`. Luego: `Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)`.
+
+La predominancia compatible orienta o estabiliza la relación, pero no anula el dominio. Esto coincide con la gramática `APTO-M`, `APTO-C` y `APTO-I`: puede haber similitud dominante, coexistencia activa o contraste fuerte sin absorción destructiva.
+
+### Demostración por reducción al absurdo
+
+Supóngase lo contrario: toda predominancia clausura, es decir, `P_a ≻ P_b ⇒ Claus_D(Γ)=1`.
+
+Entonces cualquier relación polar asimétrica sería no apta. En consecuencia, serían imposibles tres regímenes que el aparato admite expresamente:
+
+- `APTO-M`: predominancia de similitud sin pérdida de realización.
+- `APTO-C`: coexistencia activa con doble accesibilidad y equilibrio operativo no nulo.
+- `APTO-I`: contraste fuerte sin absorción destructiva.
+
+Esos tres regímenes existen precisamente para distinguir predominancia compatible, coexistencia activa y contraste fuerte de la absorción destructiva. La suposición «toda predominancia clausura» elimina esa gramática y contradice la estructura del dominio.
+
+Por tanto, la hipótesis queda refutada. Luego: `Pred_comp(P_a,P_b) ⇏ Claus_D(Γ)`.
+
+Queda demostrado que no clausura la predominancia como tal, sino la predominancia absorbente o destructiva.
+
+### Teorema complementario de clausura por predominancia absorbente
+
+**Si la predominancia de un polo anula el complemento operativo, bloquea el canal, vuelve infranqueable la barrera, destruye el residual gobernado, impide retorno o reduce el dominio a una sola polaridad, entonces la configuración polar deja de realizarse y entra en clausura o no aptitud.**
+
+Forma: `Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`.
+
+#### Demostración
+
+Sea `Γ_D` un observable polar con polos `P_a` y `P_b`, y supóngase que `P_a` predomina de modo absorbente: `Pred_abs(P_a,P_b)`.
+
+Por definición de predominancia absorbente, ocurre al menos una de estas condiciones:
+
+`¬P_b^op ∨ C_ab cerrado ∨ B_ab infranqueable ∨ Δ_ab destructivo ∨ R_D perdido ∨ Tr_D no conservada ∨ D reducido a una sola polaridad sin realización ternaria`.
+
+Pero la realización polar compatible exige simultáneamente:
+
+`P_b^op ∧ C_ab abierto ∧ B_ab compatible ∧ Δ_ab gobernado ∧ R_D conservado ∧ Tr_D declarada ∧ Eq_D^≠0(P_a,P_b)`.
+
+La predominancia absorbente niega al menos una condición necesaria de realización. Por tanto, `Real_D(Γ)≠1`.
+
+Si la ruptura destruye retorno, canal, complemento o dominio, procede `Claus_D(Γ)=1`. Si el dominio no queda cerrado sino formalmente inviable para realización compatible, procede `NO_APTO_D(Γ)`. Luego:
+
+`Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`.
+
+Queda demostrado.
+
+### Corolario de anulación del complemento
+
+**Un polo puede dominar sin anular. Sólo anula cuando su predominancia destruye el complemento operativo que hacía posible la relación.**
+
+Formas:
+
+`P_a ≻ P_b ∧ P_b^op=1 ⇒ ¬Anul(P_b)`
+
+`P_a ≻ P_b ∧ ¬P_b^op ⇒ Anul(P_b)`
+
+La dominancia compatible conserva el segundo polo como complemento operativo. La dominancia absorbente lo transforma en polo inexistente, bloqueado, no retornante o sin función real dentro del dominio.
+
+### Aplicación al problema biológico y clínico
+
+En biología, una señal dominante puede estabilizar un tejido sin destruirlo; una célula puede responder a una señal dominante sin perder integración; una respuesta inmune intensa puede seguir siendo compatible si conserva barrera y retorno; una predominancia evolutiva puede ser apta si conserva canal reproductivo, diversidad funcional y traza. En cambio, una infección dominante, un tumor que rompe integración tisular, una respuesta inmune autodestructiva o una estrategia evolutiva que destruye su propio medio pasan del régimen de predominancia compatible al régimen de predominancia absorbente.
+
+En limpio:
+
+- dominancia celular contenida ≠ cáncer fuerte
+- respuesta inmune intensa con barrera ≠ autodestrucción
+- predominancia de rasgo con diversidad funcional ≠ extinción
+- dominancia clonal con ruptura de integración ⇒ patología
+- absorción de complemento ⇒ clausura o no aptitud
+
+### Dictamen final
+
+El teorema correcto no dice «toda dominancia clausura». Dice: **toda dominancia debe ser tipada**.
+
+Si conserva complemento, canal, barrera compatible, residual gobernado, retorno y traza:
+
+`Pred_comp ⇒ APTO`.
+
+Si anula complemento, bloquea canal, vuelve infranqueable la barrera, destruye retorno o reduce el dominio a una sola polaridad:
+
+`Pred_abs ⇒ NO_APTO ∨ Clausura`.
+
+> «Ésa era la clave: la asimetría no mata; mata la absorción que destruye retorno.»
+
+---
+
+## Anexo 2: Terna doctrinal de tracción biomédica
+
+**Función:** orientar la construcción de la publicación venidera hacia su sede de aplicación dentro del corpus SV. No es contenido del aparato ni de los planos; es la brújula doctrinal que indica el norte de aplicación.
+
+Tres publicaciones del corpus convergen, desde planos distintos, sobre la misma sede biomédica:
+
+1. [Catálogo de Pares Estructurales SV (CPS-SV)](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/catalogo-pares-estructurales.md): sede originaria del *Teorema de predominancia del régimen de imperfección* (§1.6, Teorema 1.6.1 + 4 corolarios + Principio P_U). Manantial doctrinal del aparato compatible/absorbente que esta publicación venidera formaliza como teorema de no clausura.
+
+2. [Edades relativas del universo observable y de sus objetos físicos](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md) (DOI editorial [10.21428/39829d0b.b56ed853](https://doi.org/10.21428/39829d0b.b56ed853)): declara en su subtítulo la conexión con la biomedicina y la fija en su bibliografía del corpus. Hace de la edad de los observables y de la lectura biomédica una sola arquitectura doctrinal.
+
+3. *Frontera regresiva de no nulidad polar* (presente publicación venidera): articula la realización polar y su clausura por absorción como núcleo formal sobre el que la lectura biomédica de imperfección sostenida se asienta.
+
+Las tres vías traccionan hacia la sede principal: la colección [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina) (DOI editorial [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db)).
+
+El destino doctrinal común: el bienestar del individuo y de la sociedad mediante la lectura estructural de la vida como imperfección sostenida y de la enfermedad como desplazamiento. Ese es el bisturí fino del aparato.
+
+La orientación opera por conveniencia y oportunidad, no por necesidad lógica interna del teorema. El teorema funciona como aparato formal con o sin esta tracción biomédica. Pero, una vez disponible la lectura biomédica como sede natural del aparato, orientar la construcción en otra dirección sería irracional: como diseñar un edificio dándole la espalda al Sol.
 
