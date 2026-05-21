@@ -336,7 +336,7 @@ XII.5. Complemento operativo conservado
 XII.6. Complemento bloqueado, inexistente o no retornante  
 XII.7. Dictamen del corolario  
 
-### XIII. Aplicación mínima biológica y clínica y conexión com [Proyecciones biológicas de la fibra](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/proyecciones-biologicas-de-la-fibra/proyecciones-biologicas-de-la-fibra.md)
+### XIII. Aplicación mínima biológica y clínica y conexión con [Proyecciones biológicas de la fibra](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/proyecciones-biologicas-de-la-fibra/proyecciones-biologicas-de-la-fibra.md)
 
 XIII.1. Estatuto subordinado de la aplicación  
 XIII.2. Dominancia celular contenida  
