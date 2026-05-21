@@ -1,4 +1,6 @@
-# Imperfección preformal y espacio: ε<sub>−0</sub>, primera distinguibilidad y dominio estNota de alcance sobre una lectura regresiva no desarrollada.
+# Imperfección preformal y espacio: ε<sub>−0</sub>, primera distinguibilidad y dominio estNota de alcance sobre una lectura regresiva no desarrollada
+
+<br>.
 
 <p align="center">
   <img src="imagenes/portada.svg" alt="Portada de la publicación Imperfección preformal y espacio" width="100%">
