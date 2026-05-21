@@ -598,7 +598,341 @@ Tres publicaciones del corpus convergen, desde planos distintos, sobre la misma 
 
 Las tres vías traccionan hacia la sede principal: la colección [Biología molecular y medicina: del par estructural a la célula viva](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina) (DOI editorial [10.21428/39829d0b.624921db](https://doi.org/10.21428/39829d0b.624921db)).
 
-El destino doctrinal común: el bienestar del individuo y de la sociedad mediante la lectura estructural de la vida como imperfección sostenida y de la enfermedad como desplazamiento. Ese es el bisturí fino del aparato.
+El destino doctrinal común: el bienestar del individuo y de la sociedad mediante la lectura estructural de la vida como imperfección sostenida y de la enfermedad como desplazamiento.
 
-La orientación opera por conveniencia y oportunidad, no por necesidad lógica interna del teorema. El teorema funciona como aparato formal con o sin esta tracción biomédica. Pero, una vez disponible la lectura biomédica como sede natural del aparato, orientar la construcción en otra dirección sería irracional: como diseñar un edificio dándole la espalda al Sol.
+## Anexo 3. Sucesos normales y sucesos complejos en el Sistema Vectorial SV
+
+---
+
+---
+## Nomenclatura nativa del aparato complejo factual y desarrollo matemático
+
+**Naturaleza:** denominación nativa de los componentes del aparato complejo factual del Sistema Vectorial SV; distinción estructural entre sucesos normales, sucesos complejos puros y sucesos complejos compuestos; tabla de correspondencia entre dominios matemáticos clásicos y nomenclatura SV; desarrollo del aparato matemático bajo nomenclatura nativa.
+
+**Lugar en el corpus:** continuidad append-only del aparato complejo factual establecido en *Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador* y aplicado en *Conjunto matemático unificado del cambio factual, ciclos, medición factual y trayectorias poligonales de activación en el Sistema Vectorial SV*. La presente pieza no modifica la doctrina previa: la **redenomina** en términos nativos del corpus sin perder ningún elemento operativo y sin alterar resultado alguno.
+
+**Cometido:** dar al aparato complejo factual del SV una denominación nativa y soberana; declarar la distinción estructural entre los tres tipos de suceso (normal, complejo puro, complejo compuesto); fijar la tabla de correspondencia entre los tres dominios notacionales (matemática clásica, aparato SV existente, nomenclatura SV nativa); dejar disponible el aparato matemático completo bajo la nueva nomenclatura.
+
+---
+
+## 1. Definición
+
+### 1.1. Suceso normal
+
+A la composición de los sucesos bajo transducción a frame se la denomina **suceso normal**. Un suceso normal es un evento con frame declarado, trazabilidad, dominio, residual gobernado, retorno y disciplina append-only.
+
+La cadena doctrinal del Sistema Vectorial SV opera sobre una sucesión canónica de sucesos:
+
+`(S_1, S_2, S_3, …, S_n)`
+
+Todos los elementos de esta sucesión son sucesos normales. Las estructuras jerárquicas derivadas —familia, subfamilia, hiperfamilia y todas sus extensiones— se construyen sobre la sucesión canónica y, por tanto, operan sobre sucesos normales únicamente.
+
+En nomenclatura nativa, la sucesión canónica de normales se denota:
+
+`(SV_n1, SV_n2, SV_n3, …, SV_nk)`
+
+donde `SV_nk` designa el k-ésimo suceso normal de la sucesión.
+
+### 1.2. Suceso complejo puro
+
+A los sucesos cuya composición no admite reducción a frame estándar, y que **no pertenecen a la sucesión canónica del corpus**, se los denomina **sucesos complejos puros**. Un suceso complejo puro no es elemento de la familia canónica `(S_1, …, S_n)`; no es elemento de ninguna subfamilia, hiperfamilia ni jerarquía derivada construida sobre esa sucesión. Vive en una sucesión paralela, accesible solo a través del aparato complejo factual del SV.
+
+Los sucesos complejos puros forman su propia sucesión:
+
+`(SV_c1, SV_c2, SV_c3, …, SV_ck)`
+
+donde `SV_ck` designa el k-ésimo suceso complejo puro de la sucesión paralela.
+
+Un suceso complejo puro captura, bajo el aparato complejo factual del SV, lo que el aparato normal no captura —correlación cruzada, residual no transducible, defecto concentrado, singularidad factual, holonomía—, según el caso aplicado.
+
+**Cláusula estructural.** Un suceso complejo puro **nunca** es elemento de la sucesión canónica del corpus. No hay índice `i` de la sucesión `(S_1, …, S_n)` tal que `S_i = SV_ck` para algún `k`. Las dos sucesiones operan en dimensiones ortogonales del aparato: la cadena canónica en el eje real factual; la sucesión paralela en la dimensión compleja factual.
+
+### 1.3. Suceso complejo compuesto
+
+A los pares ordenados de un suceso normal y un suceso complejo puro se los denomina **sucesos complejos compuestos**. Forma genérica:
+
+`(SV_N, SV_C)`
+
+donde:
+
+- `SV_N` es la **parte normal** del suceso complejo compuesto. Es un suceso normal.
+- `SV_C` es la **parte compleja** del suceso complejo compuesto. Es un suceso complejo puro.
+
+En índice `k`, el suceso complejo compuesto correspondiente es:
+
+`(SV_nk, SV_ck)`,
+
+es decir, el par ordenado de la k-ésima componente normal y la k-ésima componente compleja pura. La indexación común une ambas sucesiones paralelas en correspondencia uno a uno cuando se opera sobre trayectorias indexadas.
+
+A los sucesos complejos compuestos se les aplica el aparato matemático del Sistema Vectorial SV en régimen complejo factual: variable compleja factual, compatibilidad compleja factual, operaciones algebraicas, diferencial y derivada, integral compleja factual, tipología de singularidades factuales, residuo factual, teorema del residuo factual y aplicaciones derivadas (sección 3).
+
+### 1.4. Nota de nomenclatura
+
+Las mayúsculas `SV_N` y `SV_C` designan **roles genéricos** —parte normal y parte compleja, respectivamente— cuando no se especifica índice. Las minúsculas `SV_n` y `SV_c`, acompañadas de índice (`SV_n1`, `SV_n2`, `SV_nk`, etc.), designan **elementos indexados** de las sucesiones paralelas.
+
+La abreviatura `SV` (sin subíndice ni adjetivo) se reserva en este documento para «el Sistema Vectorial SV», «el corpus SV» o «el aparato SV», donde el contexto la usa como referencia al sistema entero. La presente convención disambigua el doble uso histórico de la abreviatura.
+
+La distinción entre los tres tipos de suceso es **estructural**, no taxonómica:
+
+- **Suceso normal** (`SV_nk`): elemento de la cadena canónica del corpus, sujeto a frame y transducción.
+- **Suceso complejo puro** (`SV_ck`): elemento de la sucesión paralela del aparato complejo factual; nunca elemento de la cadena canónica.
+- **Suceso complejo compuesto** (`(SV_N, SV_C)` o `(SV_nk, SV_ck)`): par ordenado de los dos anteriores; objeto operable por el aparato complejo factual del Sistema Vectorial SV.
+
+---
+
+## 2. Tabla de correspondencia entre dominios
+
+La siguiente tabla establece las correspondencias entre la matemática clásica del análisis complejo (en sus dos formas, algebraica y de Argand), la notación existente del aparato complejo factual del SV (en *Nuevas matemáticas* y *Conjunto matemático unificado*) y la nomenclatura nativa del Sistema Vectorial introducida en esta pieza.
+
+| Concepto | Matemática clásica (algebraica) | Matemática clásica (Argand) | Aparato SV existente | Nomenclatura SV nativa |
+|---|---|---|---|---|
+| Unidad de la dimensión real / normal | 1 ∈ ℝ | (1, 0) | 1 ∈ D | (1, 0) |
+| Unidad de la dimensión imaginaria / compleja | i, con i² = −1 | (0, 1) | i_SV (marcador formal) | (0, 1) |
+| Número real / suceso normal genérico | α ∈ ℝ | (α, 0) | u ∈ D | `SV_N` |
+| Número imaginario puro / suceso complejo puro genérico | βi | (0, β) | i_SV · v | `SV_C` |
+| Número complejo / suceso complejo compuesto genérico | z = α + βi | (α, β) | z_SV = u + i_SV · v | `(SV_N, SV_C)` |
+| Sucesión real / sucesión canónica de normales | (a₁, a₂, …, aₙ) | — | (u₁, u₂, …, uₙ) | `(SV_n1, SV_n2, …, SV_nk)` |
+| Sucesión imaginaria / sucesión paralela de complejos puros | (b₁i, b₂i, …, bₙi) | — | (i_SV·v₁, i_SV·v₂, …, i_SV·vₙ) | `(SV_c1, SV_c2, …, SV_ck)` |
+| Sucesión compleja indexada / sucesos complejos compuestos indexados | (z₁, z₂, …, zₙ) | ((a₁,b₁), (a₂,b₂), …) | (z_SV1, z_SV2, …, z_SVn) | `((SV_n1, SV_c1), …, (SV_nk, SV_ck))` |
+| Parte real / parte normal | Re(z) = α | proyección primera | u = Re(z_SV) | `SV_N` (parte normal) |
+| Parte imaginaria / parte compleja | Im(z) = β | proyección segunda | v = Im(z_SV) | `SV_C` (parte compleja) |
+| Conjugado | z̄ = α − βi | (α, −β) | z̄_SV = u − i_SV · v | `(SV_N, −SV_C)` |
+| Módulo | \|z\| = √(α² + β²) | norma euclídea | \|z_SV\| = √(u² + v²) | `\|(SV_N, SV_C)\| = √(SV_N² + SV_C²)` |
+| Argumento | arg(z) = atan2(β, α) | ángulo respecto al eje real | arg_SV(z_SV) | `arg_SV(SV_N, SV_C)` |
+| Suma | (α₁+β₁i) + (α₂+β₂i) = (α₁+α₂) + (β₁+β₂)i | (α₁,β₁) + (α₂,β₂) | z₁ + z₂ = (u₁+u₂) + i_SV·(v₁+v₂) | `(SV_N1, SV_C1) + (SV_N2, SV_C2) = (SV_N1+SV_N2, SV_C1+SV_C2)` |
+| Producto | (α₁+β₁i)(α₂+β₂i) = (α₁α₂−β₁β₂) + (α₁β₂+β₁α₂)i | bilineal con i² = −1 | producto factual compatible | `(SV_N1·SV_N2 − SV_C1·SV_C2, SV_N1·SV_C2 + SV_C1·SV_N2)` |
+| Diferencial | dz = dx + i dy | (dx, dy) | dz_SV = du + i_SV · dv | `d(SV_N, SV_C) = (dSV_N, dSV_C)` |
+| Compatibilidad analítica | Cauchy-Riemann: ∂P/∂α = ∂Q/∂β, ∂P/∂β = −∂Q/∂α | — | ∂^SV_u P = ∂^SV_v Q, ∂^SV_v P = −∂^SV_u Q | `∂P/∂SV_N = ∂Q/∂SV_C, ∂P/∂SV_C = −∂Q/∂SV_N` |
+| Integral compleja sobre contorno | ∫_Γ f(z) dz | suma sobre Δz | ∫_Γ^SV f_SV(z) dz_SV | `∫_Γ^SV f_SV(SV_N, SV_C) d(SV_N, SV_C)` |
+| Singularidades | polo, esencial, removible, etc. | — | cinco tipos factuales | cinco tipos factuales (invariante) |
+| Residuo | Res(f, z₀) | — | Res_SV(f_SV; z₀) | `Res_SV(f_SV; (SV_N0, SV_C0))` |
+| Teorema del residuo | ∮_Γ f dz = 2πi · Σ Res(f, z_k) | — | ∮_Γ^SV f dz_SV = 2π_SV · i_SV · Σ Res_SV | `∮_Γ^SV f d(SV_N, SV_C) = (0, 2π_SV) · Σ Res_SV` |
+
+**Lectura de la tabla.** Las cuatro columnas designan el mismo objeto matemático bajo cuatro presentaciones notacionales distintas. La equivalencia es estructural: los teoremas, identidades y operaciones son los mismos; lo que cambia es la nomenclatura con la que se nombran. La nomenclatura SV nativa permite trabajar el régimen complejo factual sin recurrir a la palabra «imaginario» ni a la unidad `i`, conservando todas las propiedades del aparato y declarando explícitamente la distinción entre las dos sucesiones paralelas.
+
+---
+
+## 3. Desarrollo matemático bajo nomenclatura nativa
+
+A continuación se desarrolla el aparato matemático del Sistema Vectorial SV en su régimen complejo factual, articulado bajo la nomenclatura nativa de sucesos normales y sucesos complejos. Cada sección referencia la sede del corpus donde el resultado correspondiente está originariamente articulado.
+
+### 3.1. Definición de variable compleja factual bajo nomenclatura nativa
+
+Sea `D` un dominio operativo del Sistema Vectorial SV (Lloret Egea, 2026e, §8). La **variable compleja factual** en nomenclatura nativa se define como el suceso complejo compuesto:
+
+`Z = (SV_N, SV_C)`,    con `SV_N ∈ D` (parte normal), `SV_C ∈ D` (parte compleja pura).
+
+`SV_N` ocupa la primera posición del par y representa la componente normal del suceso. `SV_C` ocupa la segunda posición y representa la componente compleja pura. La variable compleja factual `Z` es un suceso complejo compuesto cuya identidad está dada por el par.
+
+**Correspondencia con la notación existente:** `Z = (SV_N, SV_C)` equivale formalmente a `z_SV = u + i_SV · v` con `u = SV_N` y `v = SV_C`. La unidad `i_SV` queda reabsorbida en la posición segunda del par y deja de operar como marcador externo. Cuando se requiere indexación sobre trayectoria, la variable se escribe `Z_k = (SV_nk, SV_ck)`.
+
+**Cláusula de subordinación.** La nomenclatura nativa hereda íntegramente las prohibiciones constitutivas del corpus (Lloret Egea, 2026e, §8, cláusula de subordinación): no se admite la variable compleja como verdad soberana del SV; no se admite colapso de `U` por probabilidad; no se admite variable compleja sustantiva externa al aparato. La variable `Z = (SV_N, SV_C)` opera dentro del aparato como recurso doctrinal subordinado, no como objeto fundante.
+
+### 3.2. Operaciones algebraicas sobre sucesos complejos compuestos
+
+Sean `Z₁ = (SV_N1, SV_C1)` y `Z₂ = (SV_N2, SV_C2)` dos sucesos complejos compuestos del Sistema Vectorial SV. Las operaciones algebraicas básicas se definen por:
+
+**Suma:**
+
+`Z₁ + Z₂ = (SV_N1 + SV_N2, SV_C1 + SV_C2)`.
+
+La suma es componente a componente y conserva la estructura del par ordenado.
+
+**Diferencia:**
+
+`Z₁ − Z₂ = (SV_N1 − SV_N2, SV_C1 − SV_C2)`.
+
+**Producto:**
+
+`Z₁ · Z₂ = (SV_N1 · SV_N2 − SV_C1 · SV_C2, SV_N1 · SV_C2 + SV_C1 · SV_N2)`.
+
+El producto incorpora la regla `(0, 1) · (0, 1) = (−1, 0)`, equivalente a `i_SV² = −1` en la notación previa.
+
+**Conjugado:**
+
+`Z̄ = (SV_N, −SV_C)`.
+
+El conjugado invierte el signo de la componente compleja pura, conservando la componente normal.
+
+**Módulo:**
+
+`|Z| = √(SV_N² + SV_C²)`.
+
+El módulo es un suceso normal y satisface `|Z|² = Z · Z̄ = (SV_N² + SV_C², 0)`.
+
+**Inverso multiplicativo** (para `Z ≠ (0, 0)`):
+
+`Z⁻¹ = (SV_N / (SV_N² + SV_C²), −SV_C / (SV_N² + SV_C²))`.
+
+**División:**
+
+`Z₁ / Z₂ = Z₁ · Z₂⁻¹`,    con `Z₂ ≠ (0, 0)`.
+
+Todas las operaciones cierran sobre el conjunto de sucesos complejos compuestos `D × D` del Sistema Vectorial SV.
+
+### 3.3. Compatibilidad compleja factual (Cauchy-Riemann factual)
+
+Sea `f_SV: D × D → D × D` una función entre sucesos complejos compuestos, expresada por componentes como:
+
+`f_SV(SV_N, SV_C) = (P(SV_N, SV_C), Q(SV_N, SV_C))`,
+
+donde `P` y `Q` son funciones reales de los componentes (sucesos normales y complejos puros). La función `f_SV` es **compleja-factualmente compatible** en el punto `(SV_N, SV_C)` si y solo si satisface las **ecuaciones de compatibilidad compleja factual** (análogo factual de Cauchy-Riemann):
+
+`∂P/∂SV_N = ∂Q/∂SV_C`,    `∂P/∂SV_C = −∂Q/∂SV_N`.
+
+Las derivadas parciales `∂/∂SV_N` y `∂/∂SV_C` se entienden en el sentido del aparato del cálculo del suceso del Sistema Vectorial SV (Lloret Egea, 2026e, §7), no en el sentido infinitesimal clásico. La compatibilidad compleja factual garantiza que `f_SV` admite derivada compleja factual en `(SV_N, SV_C)` (sección 3.4) y, consecuentemente, integrabilidad compleja factual sobre contornos cerrados (sección 3.5).
+
+**Correspondencia con la notación existente:** las ecuaciones anteriores equivalen a `∂^SV_u P = ∂^SV_v Q` y `∂^SV_v P = −∂^SV_u Q` (Lloret Egea, 2026e, §8.2), con `u = SV_N` y `v = SV_C`.
+
+### 3.4. Diferencial y derivada compleja factual
+
+**Diferencial complejo factual.** Sobre un suceso complejo compuesto `Z = (SV_N, SV_C)`, el diferencial complejo factual se define como:
+
+`dZ = (dSV_N, dSV_C)`.
+
+`dSV_N` es el diferencial sobre la componente normal (Lloret Egea, 2026e, §10, derivada de suceso). `dSV_C` es el diferencial sobre la componente compleja pura, definido análogamente en la dimensión compleja del aparato.
+
+**Derivada compleja factual.** Sea `f_SV` compleja-factualmente compatible en `Z` (satisface las ecuaciones de compatibilidad compleja factual). Su derivada compleja factual en `Z` se define como el límite estructural (Lloret Egea, 2026e, §9, límite estructural):
+
+`f_SV'(Z) = lim_struct (Δf_SV / ΔZ)    con ΔZ → (0, 0)`,
+
+donde el límite estructural opera dentro del aparato SV y respeta las disciplinas constitutivas del cálculo del suceso.
+
+La derivada compleja factual existe en `Z` si y solo si la compatibilidad compleja factual (sección 3.3) se cumple en `Z` y el límite estructural cierra.
+
+### 3.5. Integración compleja factual sobre contornos
+
+Sea `Γ` una trayectoria poligonal de activación cerrada en el dominio de sucesos complejos compuestos `D × D` (Lloret Egea, 2026b, §III). Sea `f_SV: D × D → D × D` una función entre sucesos complejos compuestos.
+
+La **integral compleja factual** de `f_SV` sobre `Γ` se define por suma de Riemann factual (Lloret Egea, 2026e, §8.3):
+
+`∫_Γ^SV f_SV(Z) dZ := Σ_k f_SV(Z_k) · ΔZ_k`,
+
+donde `Z_k = (SV_nk, SV_ck)` recorre la partición de `Γ` (en su forma indexada nativa), y `ΔZ_k = (ΔSV_nk, ΔSV_ck)` es el incremento factual entre nodos consecutivos.
+
+El producto `f_SV(Z_k) · ΔZ_k` se calcula con la regla de producto de sucesos complejos compuestos (sección 3.2):
+
+`f_SV(Z_k) · ΔZ_k = (P_k · ΔSV_nk − Q_k · ΔSV_ck, P_k · ΔSV_ck + Q_k · ΔSV_nk)`,
+
+con `f_SV(Z_k) = (P_k, Q_k)`.
+
+La suma se realiza componente a componente: la integral resultante es un suceso complejo compuesto `(I_N, I_C)` cuyas partes son interpretables independientemente.
+
+**Lectura interpretativa.** La parte normal `I_N` mide la acumulación del observable a lo largo de la trayectoria. La parte compleja `I_C` mide la correlación cruzada entre observable y pendiente (Lloret Egea, 2026b, §4.3, Identidad O3 y siguiente).
+
+### 3.6. Tipología de singularidades factuales
+
+Una singularidad factual en `Z₀ = (SV_N0, SV_C0)` es un punto del dominio donde la función `f_SV` no es compleja-factualmente compatible (no satisface las ecuaciones de la sección 3.3) o donde su comportamiento bajo límite estructural escapa de la disciplina ordinaria del aparato.
+
+La tipología canónica del Sistema Vectorial SV (Lloret Egea, 2026e, §8.4) reconoce cinco tipos:
+
+- **Singularidad removible factual.** El defecto del aparato en `Z₀` puede absorberse por redefinición local sin alterar resultados del corpus en su entorno.
+- **Singularidad de fuente factual.** El punto `Z₀` actúa como fuente neta de indeterminación o de magnitud factual sobre los ciclos que lo rodean.
+- **Singularidad de incompatibilidad.** Las ecuaciones de compatibilidad compleja factual fallan en `Z₀` por mal apareamiento de las derivadas parciales, sin que haya fuente neta.
+- **Singularidad de reapertura.** El punto `Z₀` reabre una clausura del dominio previamente declarada, exigiendo redeclaración del frame.
+- **Singularidad irreducible.** El defecto no es absorbible, ni de fuente, ni de incompatibilidad, ni de reapertura; constituye un irreducible factual del dominio que solo admite custodia estructural.
+
+La tipología es invariante respecto de la nomenclatura: los cinco tipos operan igual en notación clásica, en notación SV existente y en nomenclatura SV nativa.
+
+### 3.7. Residuo factual
+
+Sea `Z₀ = (SV_N0, SV_C0)` una singularidad factual aislada de `f_SV`, y sea `γ` un ciclo factual compatible que rodea `Z₀` sin cruzar otras singularidades. El **residuo factual** de `f_SV` en `Z₀` se define como (Lloret Egea, 2026e, §8.5):
+
+`Res_SV(f_SV; Z₀) := concentración neta de defecto o fuente estructural capturada por γ`.
+
+Operativamente, el residuo factual se computa por reducción del ciclo `γ` a una vecindad infinitesimal estructural de `Z₀` y evaluación de la circulación compleja factual asociada.
+
+**Propiedades:**
+
+- El residuo factual es un suceso complejo compuesto: `Res_SV(f_SV; Z₀) = (R_N, R_C)`.
+- En singularidades removibles, `Res_SV(f_SV; Z₀) = (0, 0)`.
+- En singularidades de fuente, `R_C ≠ 0` y `R_N` puede ser cero o no según el tipo de fuente.
+- En singularidades de incompatibilidad, los componentes del residuo dependen del defecto específico de las ecuaciones de compatibilidad compleja factual.
+- En singularidades irreducibles, el residuo se declara como custodia estructural y no se reduce.
+
+### 3.8. Teorema del residuo factual
+
+**Enunciado** (Lloret Egea, 2026e, §8.6). Sea `f_SV` una función entre sucesos complejos compuestos definida sobre un dominio que contiene un número finito de singularidades factuales aisladas `Z_1, Z_2, …, Z_r`. Sea `Γ` un contorno factual compatible cerrado que contiene en su interior todas estas singularidades y ninguna otra. Entonces:
+
+`∮_Γ^SV f_SV(Z) dZ = (0, 2π_SV) · Σ_{k=1}^r Res_SV(f_SV; Z_k)`,
+
+donde `(0, 2π_SV)` es el suceso complejo compuesto cuya parte normal es cero y cuya parte compleja pura es la magnitud `2π_SV` del aparato factual del SV.
+
+**Correspondencia con la notación existente:** `(0, 2π_SV) · Σ Res_SV` equivale a `2π_SV · i_SV · Σ Res_SV` en la notación previa.
+
+**Ley sustantiva.** Circulación factual compleja sobre el contorno = suma de defectos concentrados interiores. La identidad cuantifica, con todas las propiedades factuales del aparato, la relación entre comportamiento global (circulación sobre el contorno) y comportamiento local (residuos en las singularidades interiores).
+
+### 3.9. Aplicación a trayectorias poligonales de activación (TPA)
+
+Sobre una TPA canónica del Sistema Vectorial SV (Lloret Egea, 2026b, §III), la variable compleja factual se realiza en nomenclatura nativa indexada como:
+
+`Z_k = (SV_nk, SV_ck)`,    con `dZ_k = (1, m_k)`.
+
+Identificación de componentes:
+
+- `SV_nk = ε_k`: la posición de activación, k-ésimo suceso normal de la sucesión canónica de la TPA.
+- `SV_ck = φ(S_k)`: el observable factual en ese nodo, k-ésimo suceso complejo puro de la sucesión paralela asociada.
+
+El diferencial `dZ_k = (1, m_k)` recoge el incremento unitario de activación (componente normal) y la pendiente factual `m_k` entre nodos consecutivos (componente compleja pura).
+
+La integral compleja factual sobre la TPA en nomenclatura nativa es:
+
+`∫_Γ^SV φ(Z) dZ = (Σ_k φ_k, Σ_k φ_k · m_k)`.
+
+Sobre el ejemplo director del corpus (Lloret Egea, 2026b, §4.3, Identidad O3), el resultado es:
+
+`∫_Γ^SV φ(Z) dZ = (55, −15)`,
+
+equivalente a `55 − 15 · i_SV` en la notación previa.
+
+**Lectura interpretativa.** La parte normal `55` es la suma del observable a lo largo de la TPA. La parte compleja pura `−15` es la correlación cruzada entre observable y pendiente. El signo de la parte compleja pura clasifica el régimen de la trayectoria:
+
+- Parte compleja pura negativa: resolución bajo carga alta (favorable).
+- Parte compleja pura igual a cero: equilibrio carga-pendiente.
+- Parte compleja pura positiva: apertura bajo carga alta (desfavorable).
+
+### 3.10. Los cinco planos del NM en nomenclatura nativa
+
+Sobre una TPA, los cinco planos del aparato NM (Lloret Egea, 2026b, §4.3) se articulan en nomenclatura nativa como sigue:
+
+- **Plano I — Diferencial.** Pendientes factuales `m_k` (incrementos de parte compleja pura entre nodos consecutivos), curvatura factual `κ_k = m_k − m_{k−1}`, sensibilidades sobre componentes normales y complejas puras.
+- **Plano II — Integral.** Acumulación trapezoidal sobre la sucesión de partes normales `(SV_n1, …, SV_nk)`; partición factual de la trayectoria; áreas por fase.
+- **Plano III — Campo.** Divergencia factual sobre celdas, exportación e importación de campo, balance global por suma de divergencias.
+- **Plano IV — Espectral.** Función generatriz `G(λ)` sobre la sucesión de partes complejas puras; velocidad factual `‖dZ_k‖ = √(1 + m_k²)` como parametrización natural por arco factual.
+- **Plano V — Topológico.** Residuos factuales en singularidades; holonomía `m_last − m_first` como cierre o no cierre del ciclo; descriptor cuádruplo de primer orden `(𝔄, Σm_k, φ_max, ‖J‖₁)`.
+
+Los cinco planos operan con plena potencia en nomenclatura nativa, sin pérdida de resultados respecto de la notación existente.
+
+---
+
+## 4. Articulación con el corpus
+
+La nomenclatura nativa introducida en esta pieza articula con el corpus en cuatro frentes:
+
+**(a) Con *Nuevas matemáticas del Sistema Vectorial SV*** (Lloret Egea, 2026e). El capítulo 8 establece la variable compleja factual `z_SV = u + i_SV · v` y todo el aparato derivado. La nomenclatura nativa redenomina estos objetos como sucesos complejos compuestos `(SV_N, SV_C)` —o `(SV_nk, SV_ck)` en forma indexada— sin pérdida operativa. Los teoremas, identidades y propiedades enunciados en *Nuevas matemáticas* se conservan; solo cambia la notación con la que se nombran.
+
+**(b) Con *Conjunto matemático unificado del cambio factual*** (Lloret Egea, 2026b). El §4.3 articula los cinco planos del NM sobre la TPA, con la Identidad O3 como caso director del aparato complejo factual aplicado. La nomenclatura nativa expresa la Identidad O3 como `∫_Γ^SV φ(Z) dZ = (55, −15)`, sin modificar el resultado.
+
+**(c) Con la frontera ortogonal compleja externa del corpus** (cuando aplique en sede correspondiente, Anexo 3 de *Frontera regresiva de no nulidad polar*). El aparato complejo factual del SV en nomenclatura nativa provee la **dimensión ortogonal interna operativa** del corpus, articulada como sucesión paralela `(SV_c1, SV_c2, …, SV_ck)` no contenida en la cadena canónica del corpus. La Totalidad Absoluta opera, sobre esta dimensión interna operativa, como horizonte topológico externo en el extremo declarativo. La nomenclatura nativa hace explícita la triple articulación: sucesión canónica de normales (eje real factual); sucesión paralela de complejos puros (dimensión ortogonal interna operativa); Totalidad Absoluta como horizonte externo declarativo.
+
+**(d) Con el conjunto del corpus matemático del SV.** El aparato álgebra-composicional del marco SV (Lloret Egea, 2026a) y los fundamentos operativos del electromagnetismo factual (Lloret Egea, 2026d) admiten, en su régimen complejo, la nomenclatura nativa sin modificación de resultados. Esta pieza queda como referencia notacional para esos desarrollos cuando se reescriban o se citen bajo nomenclatura nativa.
+
+---
+
+## 5. Referencias
+
+Lloret Egea, J. A. (2026a). *Álgebra de composición intercelular del marco SV: VI. Análisis discreto, representaciones y herramientas de secuencias del sistema*. Sistema Vectorial SV.
+
+Lloret Egea, J. A. (2026b). *Conjunto matemático unificado del cambio factual, ciclos, medición factual y trayectorias poligonales de activación en el Sistema Vectorial SV*. Sistema Vectorial SV.
+
+Lloret Egea, J. A. (2026c). *Edades relativas del universo observable y de sus objetos físicos*. Sistema Vectorial SV. Repositorio SV-matematica-semantica, documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos.
+
+Lloret Egea, J. A. (2026d). *Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV*. Sistema Vectorial SV.
+
+Lloret Egea, J. A. (2026e). *Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador*. Sistema Vectorial SV.
+
+Lloret Egea, J. A. (2026f). *Frontera regresiva de no nulidad polar en el Sistema Vectorial SV: realización de dominio, predominancia compatible y clausura por absorción*. Sistema Vectorial SV.
+
+---
+
 
