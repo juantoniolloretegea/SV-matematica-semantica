@@ -26,7 +26,7 @@ This work states the **Theorem of physical resolution of the cosmological consta
 
 ## Índice
 
-- 0. Alcance, notación y fuentes
+- 0 Alcance, notación y fuentes
 - I. Exposición física contemporánea de Λ, energía oscura y expansión
  - I.1. El problema canónico de la constante cosmológica
  - I.2. Aciertos y límites de ΛCDM como aparato físico
