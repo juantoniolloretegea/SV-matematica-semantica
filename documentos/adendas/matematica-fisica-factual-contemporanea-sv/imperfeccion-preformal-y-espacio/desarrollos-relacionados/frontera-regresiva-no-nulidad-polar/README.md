@@ -3,7 +3,7 @@
 ## Realización de dominio, predominancia compatible y clausura por absorción
 
 **Estado:** definición estructural formal de de ε−0.  
-**Relación con la publicación previa:** continuidad append-only posterior a *Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible*.  
+**Relación con la publicación previa:** continuidad append-only posterior a [Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/imperfeccion-preformal-y-espacio.md) 
 **Función:** fijar el núcleo formal de de ε−0.
 
 ---
