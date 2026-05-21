@@ -2907,7 +2907,7 @@ y:
 <div align="center">ε<sub>−0</sub> ⊢ ∂<sub>ε</sub> ⊢ D<sub>sep</sub> ⊢ Ω<sub>esp</sub>.</div>
 
 > **Nota de continuidad estructural.**  
-> El cierre precedente fija ε<sub>−0</sub> como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Éste es el plano propio de la presente publicación: la apertura hacia ∂<sub>ε</sub>, el dominio de separación y el espacio como dominio estructural completo de separación factual recorrible.  
+> El cierre precedente fija ε<sub>−0</sub> como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Éste es el plano de la hipótesis de este trabajo: la apertura hacia ∂<sub>ε</sub>, el dominio de separación y el espacio como dominio estructural completo de separación factual recorrible.  
 >
 > Desde ese cierre puede distinguirse, sin alterar su alcance, una lectura regresiva de los dominios ya realizados. En esa lectura, la realización de dominio excluye la nulidad polar absoluta (μ,λ)=(0,0), no porque se introduzcan polos constituidos antes de ε<sub>−0</sub>, sino porque todo dominio realizado debe conservar alguna condición mínima de no nulidad, relación, retorno y diferencia operativa.  
 >
