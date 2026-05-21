@@ -166,15 +166,15 @@ La biología entra como banco de estrés, no como sustitución doctrinal.
 
 ---
 
-## 14. Relación con piezas laterales
+## 14. Relación con otros elementos
 
-La futura publicación podrá citar, como presión lateral y no como eje:
+La futura publicación podrá citar, como presión de otros elementos y no como núcleo :
 
 1. Teoría de barrera y canal entre proyecciones: coestructura no equivale a identidad; canal no equivale a mezcla.
 2. Copia imperfecta y reinstanciación de traza: continuidad no equivale a identidad absoluta; toda copia exige residual.
 3. Mapa transductivo del sujeto vivo: ningún estrato aislado absorbe al sujeto; el retorno común exige dominio, frontera, canal, residual y traza.
 
-Estas piezas no deben desplazar el núcleo de la publicación. Su función es confirmar que la distinción compatible/absorbente no es una ocurrencia local, sino una compuerta transversal del corpus.
+Estos elementos no desplazan el núcleo de la publicación. Su función es confirmar que la distinción compatible/absorbente no es una ocurrencia local, sino una compuerta transversal del corpus.
 
 ---
 
