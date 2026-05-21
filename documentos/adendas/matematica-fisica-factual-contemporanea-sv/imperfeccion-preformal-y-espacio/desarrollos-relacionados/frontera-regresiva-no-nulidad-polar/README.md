@@ -2,39 +2,21 @@
 
 ## Realización de dominio, predominancia compatible y clausura por absorción
 
-**Estado:** README de custodia para publicación futura.  
+**Estado:** definición estructural formal de de ε−0.  
 **Relación con la publicación previa:** continuidad append-only posterior a *Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible*.  
-**Función:** conservar el problema, fijar el eje formal y evitar que la segunda frontera doctrinal quede perdida o se confunda con una corrección de la publicación de ε−0.
+**Función:** fijar el núcleo formal de de ε−0.
 
 ---
 
-## 1. Punto de arranque
+## 1. Definición estructural formal de de ε−0
 
-La publicación *Imperfección preformal y espacio* desarrolla y cierra la lectura de `ε−0` como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Su eje propio es:
-
-`ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp`
-
-Antes del DOI de esa publicación queda incorporada una nota de alcance que reconoce, sin desarrollarla allí, una frontera regresiva posterior: todo dominio ya realizado deberá ser examinado en relación con la imposibilidad de una nulidad polar absoluta `(μ,λ)=(0,0)`. Esa lectura pertenece a otra frontera funcional, no corrige ni sustituye la primera, y requiere tratamiento separado bajo disciplina append-only.
-
-La presente publicación futura nace exactamente de esa nota.
+La publicación *Imperfección preformal y espacio* desarrolla y cierra la lectura de `ε−0` como borde preformal de imperfección mínima que hace posible la primera distinguibilidad. Su núcleo propio es:  `ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp. Una frontera regresiva posterior: todo dominio ya realizado deberá ser examinado en relación con la imposibilidad de una nulidad polar absoluta `(μ,λ)=(0,0)`. Esa lectura pertenece a otra frontera funcional, no corrige ni sustituye la primera, y requiere tratamiento separado bajo disciplina append-only.
 
 ---
 
 ## 2. Problema rector
 
-El problema rector no es ya cómo `ε−0` abre hacia adelante la primera distinguibilidad, sino qué muestra un dominio ya realizado cuando se lo lee regresivamente hacia sus condiciones mínimas de posibilidad.
-
-La pregunta se formula así:
-
-**¿puede un dominio realizado proceder de nulidad polar absoluta `(μ,λ)=(0,0)`?**
-
-La respuesta prevista es negativa: la nulidad polar absoluta no permite realización de dominio, porque no conserva diferencia mínima, complemento operativo, canal, barrera compatible, residual gobernable, retorno ni traza.
-
-De ahí surge el segundo problema:
-
-**si todo dominio realizado exige no nulidad polar, ¿la desigualdad o predominancia de un polo implica la anulación del otro y, por tanto, la clausura del dominio?**
-
-La respuesta también es negativa. La predominancia no equivale por sí misma a clausura. Sólo clausura cuando se vuelve absorbente.
+El problema rector no es ya cómo `ε−0` abre hacia adelante la primera distinguibilidad, sino qué muestra un dominio ya realizado cuando se lo lee regresivamente hacia sus condiciones mínimas de posibilidad. La pregunta se formula así: **¿puede un dominio realizado proceder de nulidad polar absoluta `(μ,λ)=(0,0)`?**. La respuesta prevista es negativa: la nulidad polar absoluta no permite realización de dominio, porque no conserva diferencia mínima, complemento operativo, canal, barrera compatible, residual gobernable, retorno ni traza. De ahí surge el segundo problema: **si todo dominio realizado exige no nulidad polar, ¿la desigualdad o predominancia de un polo implica la anulación del otro y, por tanto, la clausura del dominio?** La respuesta también es negativa. La predominancia no equivale por sí misma a clausura. Sólo clausura cuando se vuelve absorbente.
 
 ---
 
@@ -42,13 +24,7 @@ La respuesta también es negativa. La predominancia no equivale por sí misma a 
 
 ### 3.1. Frontera hacia adelante
 
-La frontera hacia adelante pertenece a la publicación de `ε−0`.
-
-En ella, `ε−0` se toma como borde preformal de apertura. No se deriva desde una estructura polar previa. No se introduce allí una teoría de polos constitutivos. Su función es permitir la primera distinguibilidad.
-
-Forma:
-
-`ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp`
+La frontera hacia adelante pertenece a la publicación de `ε−0`. En ella, `ε−0` se toma como borde preformal de apertura. No se deriva desde una estructura polar previa. No se introduce allí una teoría de polos constitutivos. Su función es permitir la primera distinguibilidad. Forma: `ε−0 ⊢ ∂ε ⊢ D_sep ⊢ Ω_esp`
 
 ### 3.2. Frontera hacia detrás
 
@@ -56,9 +32,7 @@ La frontera hacia detrás pertenece a esta futura publicación.
 
 No afirma que existan dos polos constituidos antes de `ε−0`. Afirma que todo dominio ya realizado, leído regresivamente, debe excluir la nulidad polar absoluta:
 
-`(μ,λ) ≠ (0,0)`
-
-Esta lectura no sustituye a la anterior. La complementa desde otro plano funcional: no apertura preformal, sino reconstrucción regresiva de la posibilidad de realización.
+`(μ,λ) ≠ (0,0)`. Esta lectura no sustituye a la anterior. La complementa desde otro plano funcional: no apertura preformal, sino reconstrucción regresiva de la posibilidad de realización.
 
 ---
 
@@ -66,21 +40,13 @@ Esta lectura no sustituye a la anterior. La complementa desde otro plano funcion
 
 La tesis central de la futura publicación será:
 
-**todo dominio realizado exige una condición de no nulidad polar; esa no nulidad puede admitir desigualdad, asimetría o predominancia compatible sin clausurar el dominio. Sólo la predominancia absorbente, bloqueante o destructiva produce clausura o no aptitud.**
-
-Forma compacta:
-
-`Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)`
-
-`Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`
+**todo dominio realizado exige una condición de no nulidad polar; esa no nulidad puede admitir desigualdad, asimetría o predominancia compatible sin clausurar el dominio. Sólo la predominancia absorbente, bloqueante o destructiva produce clausura o no aptitud.** Forma compacta: `Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)` `Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`.
 
 ---
 
 ## 5. Dominio formal mínimo
 
-Sea `Γ_D` un observable polar dentro de un dominio `D`. Sean `P_a` y `P_b` sus polos constitutivos.
-
-El dominio formal mínimo exige declarar:
+Sea `Γ_D` un observable polar dentro de un dominio `D`. Sean `P_a` y `P_b` sus polos constitutivos. El dominio formal mínimo exige declarar:
 
 - `D`: dominio observable.
 - `Γ_D`: observable polar.
@@ -97,29 +63,13 @@ El dominio formal mínimo exige declarar:
 
 ## 6. Realización polar compatible
 
-La realización polar compatible queda fijada así:
-
-`Real_D(Γ)=1`
-
-si y sólo si se conservan simultáneamente:
-
-`P_a^op ∧ P_b^op ∧ C_ab abierto ∧ B_ab compatible ∧ Δ_ab gobernado ∧ R_D conservado ∧ Tr_D declarada ∧ Eq_D^≠0(P_a,P_b)`
-
-En este régimen puede haber asimetría, contraste o predominancia. Lo decisivo no es que los polos sean iguales, sino que ambos sigan operativos y que la relación conserve canal, barrera compatible, residual gobernado, retorno y traza.
+La realización polar compatible queda fijada así: `Real_D(Γ)=1` si y sólo si se conservan simultáneamente: `P_a^op ∧ P_b^op ∧ C_ab abierto ∧ B_ab compatible ∧ Δ_ab gobernado ∧ R_D conservado ∧ Tr_D declarada ∧ Eq_D^≠0(P_a,P_b)`. En este régimen puede haber asimetría, contraste o predominancia. Lo decisivo no es que los polos sean iguales, sino que ambos sigan operativos y que la relación conserve canal, barrera compatible, residual gobernado, retorno y traza.
 
 ---
 
 ## 7. Clausura polar
 
-La clausura polar aparece cuando falla una condición constitutiva de realización:
-
-`Claus_D(Γ)=1`
-
-si y sólo si concurre al menos una de estas rupturas:
-
-`¬P_a^op ∨ ¬P_b^op ∨ C_ab cerrado ∨ B_ab infranqueable ∨ Δ_ab destructivo ∨ R_D perdido ∨ destrucción(D)`
-
-La clausura no procede por mera diferencia, asimetría o predominancia. Procede por pérdida material de realización.
+La clausura polar aparece cuando falla una condición constitutiva de realización: `Claus_D(Γ)=1` si y sólo si concurre al menos una de estas rupturas: `¬P_a^op ∨ ¬P_b^op ∨ C_ab cerrado ∨ B_ab infranqueable ∨ Δ_ab destructivo ∨ R_D perdido ∨ destrucción(D)`. La clausura no procede por mera diferencia, asimetría o predominancia. Procede por pérdida material de realización.
 
 ---
 
@@ -143,11 +93,7 @@ Conserva:
 
 ### 8.2. Predominancia absorbente
 
-`Pred_abs(P_a,P_b)` significa que `P_a` anula `P_b`, bloquea el canal, vuelve infranqueable la barrera, destruye el residual gobernado, impide retorno, no conserva traza o reduce el dominio a una sola polaridad.
-
-La predominancia absorbente produce:
-
-`Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`
+`Pred_abs(P_a,P_b)` significa que `P_a` anula `P_b`, bloquea el canal, vuelve infranqueable la barrera, destruye el residual gobernado, impide retorno, no conserva traza o reduce el dominio a una sola polaridad. La predominancia absorbente produce: `Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`.
 
 ---
 
@@ -157,9 +103,7 @@ La predominancia absorbente produce:
 
 **Ninguna predominancia polar compatible clausura por sí misma un observable. Sólo clausura la predominancia que se vuelve absorbente, bloqueante o destructiva del retorno.**
 
-Forma:
-
-`Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)`
+Forma: `Pred_comp(P_a,P_b) ⇒ ¬Claus_D(Γ)`.
 
 ### Demostración prevista
 
@@ -168,9 +112,7 @@ La demostración deberá incluir dos vías:
 1. Demostración directa.
 2. Demostración por reducción al absurdo.
 
-La demostración directa probará que si la predominancia conserva complemento operativo, canal, barrera compatible, residual gobernado, retorno, traza y equilibrio operativo no nulo, entonces `Real_D(Γ)=1`, por lo que no procede `Claus_D(Γ)=1`.
-
-La reducción al absurdo probará que si toda predominancia clausurase, quedarían eliminados regímenes que el aparato necesita distinguir: similitud dominante sin pérdida de realización, coexistencia activa con doble accesibilidad y contraste fuerte sin absorción destructiva.
+La demostración directa probará que si la predominancia conserva complemento operativo, canal, barrera compatible, residual gobernado, retorno, traza y equilibrio operativo no nulo, entonces `Real_D(Γ)=1`, por lo que no procede `Claus_D(Γ)=1`. La reducción al absurdo probará que si toda predominancia clausurase, quedarían eliminados regímenes que el aparato necesita distinguir: similitud dominante sin pérdida de realización, coexistencia activa con doble accesibilidad y contraste fuerte sin absorción destructiva.
 
 ---
 
@@ -178,19 +120,13 @@ La reducción al absurdo probará que si toda predominancia clausurase, quedarí
 
 ### Teorema de clausura por predominancia absorbente
 
-Si la predominancia de un polo anula el complemento operativo, bloquea el canal, vuelve infranqueable la barrera, destruye el residual gobernado, impide retorno o reduce el dominio a una sola polaridad, entonces la configuración polar deja de realizarse y entra en clausura o no aptitud.
-
-Forma:
-
-`Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`
+Si la predominancia de un polo anula el complemento operativo, bloquea el canal, vuelve infranqueable la barrera, destruye el residual gobernado, impide retorno o reduce el dominio a una sola polaridad, entonces la configuración polar deja de realizarse y entra en clausura o no aptitud. Forma: `Pred_abs(P_a,P_b) ⇒ Claus_D(Γ)=1 ∨ NO_APTO_D(Γ)`
 
 ---
 
 ## 11. Corolario operativo
 
-Un polo puede dominar sin anular. Sólo anula cuando su predominancia destruye el complemento operativo que hacía posible la relación.
-
-Formas:
+Un polo puede dominar sin anular. Sólo anula cuando su predominancia destruye el complemento operativo que hacía posible la relación. Formas:
 
 `P_a ≻ P_b ∧ P_b^op=1 ⇒ ¬Anul(P_b)`
 
