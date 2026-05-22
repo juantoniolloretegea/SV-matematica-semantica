@@ -2,230 +2,137 @@
 
 ## Transducción ciclo-distancial SV de Λ, energía oscura y expansión cosmológica
 
-**Autor:** Juan Antonio Lloret Egea
-**ORCID:** 0000-0002-6634-3351
-**Institución:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)
-**Publicación:** IA eñ™ — La Biblia de la IA™
-**ISSN:** 2695-6411
-**Licencia:** CC BY-NC-ND 4.0
-**Repositorio canónico:** https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/adendas/teorema-resolucion-fisica-constante-cosmologica-sv.md
-
----
-
 ## Resumen
 
-Se formula el **Teorema de resolución física de la constante cosmológica** dentro del Sistema Vectorial SV. El resultado establece que la constante cosmológica no debe interpretarse como energía sustancial, calor, temperatura, fuerza local ni contenido material oculto, sino como **curvatura efectiva ciclo-distancial del dominio observable retornado**. La física contemporánea acierta al introducir Λ, Ω<sub>Λ</sub>, w≈−1, H(z), distancias cosmológicas, supernovas Ia, BAO y CMB como aparato predictivo del régimen expansivo o acelerado; acierta parcialmente cuando denomina energía oscura al término efectivo que reproduce ese régimen; y yerra cuando sustancializa la energía oscura, convierte la totalidad en cuerpo expansivo, confunde velocidad recesional con movimiento local universal, o trata Λ como calor, temperatura, trabajo, NADA, materia oscura o agujero negro. La resolución se articula en tres planos. Primero, se rechaza como **NO_APTO** la identidad directa entre energía de vacío cuántica desnuda y Λ física retornada, porque mezcla dominios sin transducción: una suma microfísica dependiente de corte, renormalización y acoplamiento gravitatorio no puede proyectarse directamente como curvatura cosmológica observacional. Segundo, se obtiene el valor de dominio puro Λ<sub>SV,puro</sub>=3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>)=1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>. Tercero, se introduce el retorno físico mixto mediante η<sub>Λ</sub>=Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup>, de modo que Λ<sub>SV,ret</sub>=3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>)=3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup>. Con Ω<sub>Λ</sub>=0,6889 y H<sub>0</sub>=67,66 km·s<sup>−1</sup>·Mpc<sup>−1</sup>, la salida retornada es Λ<sub>SV,ret</sub>=1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup>. Así se distinguen el dominio Λ puro y el dominio cosmológico mixto, sin ocultar el factor de participación física. La demostración se apoya en la tendencia ciclo-distancial V<sub>sep</sub><sup>SV</sup>=D/T<sub>obs</sub>, en la normalización κ<sub>obs</sub>=1/T<sub>obs</sub>, en la conversión dimensional κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>, y en la derivación del coeficiente 3 como traza tridimensional del campo isotrópico de separación del dominio observable retornado. Los bancos numéricos prueban que el valor no procede de una distancia seleccionada, sino de T<sub>obs</sub>; que cambia exactamente como 1/T<sup>2</sup> si se altera la escala; que la forma retornada coincide algebraicamente con la expresión física 3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup>; y que las alternativas conceptuales erróneas rompen dominio, unidad, dimensión, transducción o naturaleza física.
+Se formula el Teorema de resolución física de la constante cosmológica dentro del Sistema Vectorial SV. El resultado establece que Λ no debe interpretarse como energía sustancial, calor, temperatura, fuerza local ni contenido material oculto, sino como curvatura efectiva ciclo-distancial del dominio cosmológico observable retornado. La física contemporánea acierta al introducir Λ, Ω<sub>Λ</sub>, w≈−1, H(z), distancias cosmológicas, supernovas Ia, BAO y CMB como aparato predictivo del régimen expansivo o acelerado; acierta parcialmente cuando denomina energía oscura al término efectivo que reproduce ese régimen; y yerra cuando sustancializa la energía oscura, convierte la totalidad en cuerpo expansivo, confunde velocidad recesional con movimiento local universal, o trata Λ como calor, temperatura, trabajo, NADA, materia oscura o agujero negro. La resolución se articula en tres planos: primero, se rechaza como NO_APTO la identidad directa entre energía de vacío cuántica desnuda y Λ física retornada, porque mezcla dominios sin transducción; segundo, se obtiene el valor de dominio puro Λ<sub>SV,puro</sub> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>; tercero, se distingue todo retorno observacional dependiente de banco mediante Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> y Λ<sub>SV,ret</sub>[B] = ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩. Ningún valor dependiente de Ω<sub>Λ</sub> y H<sub>0</sub> entra como magnitud constitutiva del Sistema Vectorial SV; sólo opera como retorno transductivo de un banco observacional B declarado, trazado, auditado, con unidades, incertidumbre, residual y retorno. Así se distinguen el dominio Λ puro y los dominios cosmológicos mixtos de contraste, sin ocultar el factor de participación física y sin convertir un parámetro externo en cierre estructural. La demostración se apoya en la tendencia ciclo-distancial V<sub>sep</sub><sup>SV</sup> = D/T<sub>obs</sub>, en la normalización κ<sub>obs</sub> = 1/T<sub>obs</sub>, en la conversión dimensional κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>, y en la derivación del coeficiente 3 como traza tridimensional del campo isotrópico de separación del dominio observable retornado. Los bancos numéricos prueban que el valor puro no procede de una distancia seleccionada, sino de T<sub>obs</sub>; que cambia exactamente como 1/T<sup>2</sup> si se altera la escala; que la forma observacional Λ<sub>obs</sub>[B] coincide algebraicamente con la expresión física 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup>; y que las alternativas conceptuales erróneas rompen dominio, unidad, dimensión, transducción o naturaleza física.
 
-**Palabras clave:** Sistema Vectorial SV; constante cosmológica; energía oscura; ΛCDM; transducción físico-factual; curvatura efectiva; dominio observable retornado; T<sub>obs</sub>; V<sub>sep</sub><sup>SV</sup>; Λ<sub>SV</sub>; Ω<sub>Λ</sub>; problema de la constante cosmológica.
-
-## Abstract
-
-This work states the **Theorem of physical resolution of the cosmological constant** in the Vectorial System SV. The theorem establishes that the cosmological constant is not a substantial energy, heat, temperature, local force or hidden material content, but an effective cycle-distance curvature of the returned observable domain. Contemporary physics is preserved where it predicts cosmological acceleration through Λ, Ω<sub>Λ</sub>, w≈−1, H(z), cosmological distances, Type Ia supernovae, BAO and CMB; it is only partially absorbed when dark energy remains an effective term without a closed physical mechanism; and it is rejected when dark energy is reified as a substance, a thermal force, a universal body-like expansion, NADA, dark matter or black-hole closure.The universal transducer 𝔛<sub>SV</sub>(D ↔ D′) maps the contemporary physical domain into the SV domain and back. The direct identification of bare QFT vacuum energy with the returned physical cosmological constant is rejected as an invalid cross-domain projection. The pure SV-domain value is Λ<sub>SV,pure</sub>=3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>)=1.7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>; the physically returned mixed-domain value is Λ<sub>SV,ret</sub>=3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>)=3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup>. The coefficient 3 is obtained as the trace of the three-dimensional isotropic separation field, not as an unexplained adjustment.
-
----
-
-## Índice
-
-- 0 Alcance, notación y fuentes
-- I. Exposición física contemporánea de Λ, energía oscura y expansión
- - I.1. El problema canónico de la constante cosmológica
- - I.2. Aciertos y límites de ΛCDM como aparato físico
-- II. Visión SV del mismo conjunto
-- III. Transductor universal Física Contemporánea ↔ SV
- - III.1. Invariantes del transductor Λ-SV
- - III.2. Residual del transductor
-- IV. Teorema de resolución física de la constante cosmológica
- - IV.1. Constantes y magnitudes
- - IV.2. Enunciado en dos niveles
-- V. Demostración
- - V.1. Derivación de κ<sub>obs</sub>
- - V.2. Derivación del coeficiente 3
- - V.3. Resolución de la discrepancia QFT-vacío frente a Λ retornada
- - V.4. Resolución del factor Ω<sub>Λ</sub>
-- VI. Por qué comparece la constante cosmológica en SV
-- VII. Contraste numérico del porqué
- - VII.1. Banco A — invariancia ciclo-distancial
- - VII.2. Banco B — escalamiento cuadrático
- - VII.3. Banco C — dominio puro frente a retorno físico
- - VII.4. Banco D — coeficiente y alternativas erróneas
-- VIII. Banco adversarial de errores de concepto y cálculo
-- IX. Matriz de transducción y dictamen
-- X. Temperatura, dinámica de observables y retorno luminoso
-- XI. Conclusión
-- Bibliografía
-
----
-
-<a id="sec-0"></a>
 
 ## 0. Alcance, notación y fuentes
 
-Este estudio trabaja sobre cuatro planos documentales del corpus SV: la teoría de distancia absoluta y relativa entre observables del universo, la publicación sobre imperfección preformal y espacio, la teoría de edades relativas del universo observable y de sus objetos físicos, y la fórmula factual única del dominio termodinámico SV. Se incorporan referencias físicas externas mínimas para situar la terminología contemporánea de ΛCDM, supernovas Ia, constante cosmológica, distancias cosmológicas, parámetros cosmológicos y problema de la constante cosmológica. La notación conserva las siguientes convenciones: Λ designa la constante cosmológica en física contemporánea; Λ<sub>SV,puro</sub> designa el valor de dominio puro obtenido por cierre ciclo-distancial; Λ<sub>SV,ret</sub> designa el valor físico retornado cuando entran Ω<sub>Λ</sub> y H<sub>0</sub> como magnitudes de dominio físico; DE designa energía oscura como denominación física abreviada; Ω<sub>Λ</sub> designa la componente cosmológica efectiva; w designa la ecuación de estado; H(z) designa la función de expansión; D<sub>L</sub>, D<sub>A</sub>, D<sub>M</sub> y D<sub>V</sub> designan distancias cosmológicas; q(t) designa el parámetro de desaceleración; T<sub>obs</sub> designa la escala transductiva del observable retornado; κ<sub>obs</sub> designa la tasa ciclo-distancial normalizada; V<sub>sep</sub><sup>SV</sup> designa la tendencia ciclo-distancial; c designa la velocidad de la luz usada como constante metrológica externa. La tesis no atribuye edad, expansión, movimiento o temperatura a la totalidad absoluta. El dominio tratado es el **dominio cosmológico observable retornado**, compuesto por observables físicos, retornos luminosos, distancias, señales, mapas, patrones y magnitudes con unidad, modelo, residual y retorno físico controlado.
+Este anexo trabaja sobre el dominio cosmológico observable retornado y sobre la necesidad de distinguir tres planos que no son intercambiables: la constante cosmológica como magnitud geométrica de dimensión m<sup>−2</sup>, la energía oscura como denominación física efectiva de un régimen cosmológico, y los valores observacionales dependientes de bancos externos de contraste. El objeto del teorema no es convertir Λ en sustancia, ni deducir una energía material oculta, ni transformar H<sub>0</sub> u Ω<sub>Λ</sub> en magnitudes constitutivas del Sistema Vectorial SV. El objeto preciso es definir el cierre ciclo-distancial de dominio puro mediante Λ<sub>SV,puro</sub> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>), separar de él todo retorno observacional dependiente de banco, y establecer las condiciones bajo las cuales una magnitud externa puede ser usada como contraste físico sin adquirir estatuto fundante. La notación conserva las siguientes convenciones: Λ designa la constante cosmológica en física contemporánea; Λ<sub>SV,puro</sub> designa el valor de dominio puro obtenido por cierre ciclo-distancial; B designa un banco observacional declarado, con fuente, combinación de parámetros, unidades, incertidumbre, versión o procedencia identificable; Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> designa el valor físico observacional dependiente del banco B; Λ<sub>SV,ret</sub>[B] designa el objeto de retorno transductivo ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩; su componente escalar coincide con Λ<sub>obs</sub>[B], pero su estatuto no es el de un segundo número, sino el de una salida auditada con banco, unidad, incertidumbre, residual y dictamen; DE designa energía oscura como denominación física abreviada; Ω<sub>Λ</sub>[B] designa la componente cosmológica efectiva dentro del banco B; H<sub>0</sub>[B] designa el parámetro de Hubble adoptado por el banco B; w designa la ecuación de estado; H(z) designa la función de expansión; D<sub>L</sub>, D<sub>A</sub>, D<sub>M</sub> y D<sub>V</sub> designan distancias cosmológicas; q(t) designa el parámetro de desaceleración; T<sub>obs</sub> designa la escala transductiva del observable retornado; κ<sub>obs</sub> designa la tasa ciclo-distancial normalizada; V<sub>sep</sub><sup>SV</sup> designa la tendencia ciclo-distancial; c designa la velocidad de la luz usada como constante metrológica externa. Ningún valor observacional externo de Λ entra como magnitud constitutiva del Sistema Vectorial SV; sólo puede operar como banco de contraste declarado, trazado, auditado, con unidades, incertidumbre, residual y retorno. La tesis no atribuye edad, expansión, movimiento, temperatura ni presión material a la totalidad absoluta. En la tupla auditada Λ<sub>SV,ret</sub>[B] = ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩, σ<sub>B</sub> designa la incertidumbre o margen metrológico asociado al banco, Δ<sub>Λ</sub>[B] designa el residual transductivo y d<sub>Λ</sub>[B] ∈ {APTO, PARCIAL, NO_APTO, U} designa el dictamen material del retorno. El dominio tratado es el dominio cosmológico observable retornado, compuesto por observables físicos, retornos luminosos, distancias, señales, mapas, patrones y magnitudes con unidad, modelo, residual y retorno físico controlado. T<sub>obs</sub> se adopta en este anexo como escala SV de referencia procedente del dominio de edades ya declarado en la investigación principal; no se obtiene aquí a partir de Ω<sub>Λ</sub> ni de H<sub>0</sub>, y por tanto no pertenece al banco observacional B usado para retornos cosmológicos. Si una revisión futura del dominio de edades obliga a modificar T<sub>obs</sub>, Λ<sub>SV,puro</sub> deberá recalcularse por la misma fórmula estructural 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>), sin convertir ese recálculo en una absorción silenciosa de Ω<sub>Λ</sub>, H<sub>0</sub> o cualquier combinación externa.
 
----
+## I. Estudio del arte y exposición física contemporánea de Λ, energía oscura y expansión
 
-<a id="sec-i"></a>
+La constante cosmológica aparece históricamente en la relatividad general como término geométrico admisible en las ecuaciones de campo, y la cosmología contemporánea la recupera como componente efectiva capaz de describir el régimen de expansión acelerada inferido a partir de observables astronómicos. El estado del arte relevante para este anexo no se reduce a una única familia de datos: incluye la formulación relativista de Λ, el problema de su interpretación como energía de vacío, la medición de distancias cosmológicas mediante supernovas Ia, BAO y CMB, la arquitectura ΛCDM como modelo de referencia y las tensiones recientes que exploran si la energía oscura puede permanecer constante o exhibir evolución dinámica. Riess et al. y Perlmutter et al. establecieron, desde supernovas Ia, la evidencia observacional que hizo físicamente central la aceleración cósmica; Weinberg formuló con claridad el problema de la constante cosmológica al mostrar la distancia conceptual entre estimaciones de vacío y valor cosmológico; Hogg ordenó las medidas de distancia cosmológica que impiden confundir distancia de luminosidad, angular, comóvil o de volumen; Planck fijó uno de los bancos de referencia de parámetros cosmológicos bajo ΛCDM; y DESI ha introducido bancos recientes que presionan la lectura de energía oscura dinámica sin convertir una tensión estadística en mecanismo físico cerrado. El anexo conserva este suelo físico, pero no lo eleva a fundamento SV: toda magnitud externa entra como banco B, no como magnitud constitutiva.
 
-## I. Exposición física contemporánea de Λ, energía oscura y expansión
-
-La física cosmológica contemporánea describe la aceleración cósmica mediante una componente denominada **energía oscura**. En el modelo ΛCDM, esa componente se representa mediante la constante cosmológica Λ, con ecuación de estado efectiva w≈−1; las variantes dinámicas sustituyen ese régimen constante por funciones w(z) o parametrizaciones w<sub>0</sub>-w<sub>a</sub>. En tal marco, Λ se emplea como término de modelo para ajustar H(z), distancias luminosas, distancias angulares, BAO, supernovas Ia, CMB, lentes y evolución de separaciones propias. La física contemporánea acierta al distinguir magnitudes operativas: H(t), D(t), v<sub>rec</sub>=H(t)D, ȧ(t), ä(t) y q(t). También acierta al tratar q(t)<0 como lectura de aceleración del factor de escala dentro de un modelo. Pero de ello no se sigue que cada galaxia experimente una aceleración local ordinaria, que la totalidad sea un cuerpo físico en crecimiento, ni que la energía oscura sea una sustancia que empuja observables. La velocidad recesional es una magnitud de modelo; el corrimiento al rojo es un retorno luminoso; la aceleración del factor de escala pertenece al régimen cosmológico declarado. En lenguaje físico contemporáneo, el conjunto puede escribirse de forma abreviada como:
-H<sup>2</sup>(a)=H<sub>0</sub><sup>2</sup>[Ω<sub>r</sub>a<sup>−4</sup>+Ω<sub>m</sub>a<sup>−3</sup>+Ω<sub>k</sub>a<sup>−2</sup>+Ω<sub>Λ</sub>]. La componente Ω<sub>Λ</sub> codifica la contribución de Λ; w≈−1 expresa el régimen constante de presión negativa efectiva; q(t)<0 expresa aceleración de escala; las distancias y corrimientos contrastan la expansión observable. En esta lectura, la energía oscura no se observa como sustancia aislada, sino que se infiere como componente efectiva necesaria para reproducir el comportamiento conjunto de distancias, luminosidades y evolución de escala.
-
-<a id="sec-i-1"></a>
+La física cosmológica contemporánea describe la aceleración cósmica mediante una componente denominada energía oscura. En el modelo ΛCDM, esa componente se representa mediante la constante cosmológica Λ, con ecuación de estado efectiva w≈−1; las variantes dinámicas sustituyen ese régimen constante por funciones w(z) o parametrizaciones w<sub>0</sub>–w<sub>a</sub>. En tal marco, Λ se emplea como término de modelo para ajustar H(z), distancias luminosas, distancias angulares, BAO, supernovas Ia, CMB, lentes y evolución de separaciones propias. La física contemporánea acierta al distinguir magnitudes operativas: H(t), D(t), v<sub>rec</sub> = H(t)D, ȧ(t), ä(t) y q(t). También acierta al tratar q(t)<0 como lectura de aceleración del factor de escala dentro de un modelo. Pero de ello no se sigue que cada galaxia experimente una aceleración local ordinaria, que la totalidad sea un sistema material en crecimiento, ni que la energía oscura sea una sustancia que actúa mecánicamente sobre los observables. La velocidad recesional es una magnitud de modelo; el corrimiento al rojo es un retorno luminoso; la aceleración del factor de escala pertenece al régimen cosmológico declarado. En lenguaje físico contemporáneo, el conjunto puede escribirse de forma abreviada como H²(a)=H₀²[Ω<sub>r</sub>a<sup>−4</sup> + Ω<sub>m</sub>a<sup>−3</sup> + Ω<sub>k</sub>a<sup>−2</sup> + Ω<sub>Λ</sub>]. La componente Ω<sub>Λ</sub> codifica la contribución efectiva de Λ; w≈−1 expresa el régimen constante de presión negativa efectiva; q(t)<0 expresa aceleración de escala; las distancias y corrimientos contrastan la expansión observable. En esta lectura, la energía oscura no se observa como sustancia aislada, sino que se infiere como componente efectiva necesaria para reproducir el comportamiento conjunto de distancias, luminosidades y evolución de escala.
 
 ### I.1. El problema canónico de la constante cosmológica
 
-El problema canónico no consiste sólo en medir Λ. Consiste en que una identificación directa entre energía de vacío cuántica desnuda y constante cosmológica física produce una discrepancia extrema entre el valor que se obtendría por estimaciones de teoría cuántica de campos con corte y el valor cosmológico retornado. En el lenguaje del presente estudio, esa discrepancia aparece cuando se intenta ejecutar una proyección no transducida: ρ<sub>vac,QFT</sub><sup>bare</sup> → Λ<sub>fis</sub>. El SV no acepta esa identidad como equivalencia física. La rechaza por defecto de dominio. Una suma desnuda de modos dependiente de corte, renormalización y acoplamiento gravitatorio no es todavía una curvatura cosmológica retornada. Para que una magnitud microfísica pueda hablar con Λ física debe declarar dominio, escala, mecanismo de renormalización, acoplamiento gravitatorio, residual y retorno cosmológico. En ausencia de esas condiciones, el transductor devuelve: Δ<sub>QFT→Λ</sub> = Δ<sub>dom</sub> ⊕ Δ<sub>cut</sub> ⊕ Δ<sub>ren</sub> ⊕ Δ<sub>grav</sub> ⊕ Δ<sub>ret</sub> ≠ 0. Así, la discrepancia no se maquilla ni se niega. Se diagnostica como fallo de transducción directa entre dominios. La constante cosmológica física no queda resuelta por una energía de vacío desnuda; queda resuelta por su dominio propio: curvatura efectiva ciclo-distancial del observable retornado.
-
-<a id="sec-i-2"></a>
+El problema canónico no consiste sólo en medir Λ. Consiste en que una identificación directa entre energía de vacío cuántica desnuda y constante cosmológica física produce una discrepancia extrema entre el valor que se obtendría por estimaciones de teoría cuántica de campos con corte y el valor cosmológico retornado. En el lenguaje de este teorema, esa discrepancia aparece cuando se intenta ejecutar una proyección no transducida: ρ<sub>vac,QFT</sub><sup>bare</sup> → Λ<sub>fis</sub>. El Sistema Vectorial SV no acepta esa identidad como equivalencia física. La rechaza por defecto de dominio. Una suma desnuda de modos dependiente de corte, renormalización y acoplamiento gravitatorio no es todavía una curvatura cosmológica retornada. Para que una magnitud microfísica pueda hablar con Λ física debe declarar dominio, escala, mecanismo de renormalización, acoplamiento gravitatorio, residual y retorno cosmológico. En ausencia de esas condiciones, el transductor devuelve Δ<sub>QFT→Λ</sub> = Δ<sub>dom</sub> ⊕ Δ<sub>cut</sub> ⊕ Δ<sub>ren</sub> ⊕ Δ<sub>grav</sub> ⊕ Δ<sub>ret</sub> ≠ 0. Así, la discrepancia no se oculta ni se niega: se diagnostica como fallo de transducción directa entre dominios. La constante cosmológica física no queda resuelta por una energía de vacío desnuda; queda tratada por su dominio propio: curvatura efectiva ciclo-distancial del observable retornado y, cuando intervienen datos físicos externos, retorno observacional dependiente de banco declarado.
 
 ### I.2. Aciertos y límites de ΛCDM como aparato físico
 
-La física contemporánea tiene un acierto fuerte: Λ, Ω<sub>Λ</sub>, w, H(z), D<sub>L</sub>, D<sub>A</sub>, BAO y supernovas Ia ordenan observaciones y permiten contraste. Su insuficiencia es interpretativa: la energía oscura queda como término efectivo de modelo, no como mecanismo físico último cerrado. En el SV, esto no produce rechazo global de ΛCDM; produce separación de niveles. ΛCDM es **APTO** como aparato instrumental dentro de dominio declarado, **PARCIAL** como interpretación física última de energía oscura, y **NO_APTO** si se convierte en sustancia, causa verbal total o prueba de expansión de la totalidad absoluta.
+La física contemporánea tiene un acierto fuerte: Λ, Ω<sub>Λ</sub>, w, H(z), D<sub>L</sub>, D<sub>A</sub>, BAO, supernovas Ia y CMB ordenan observaciones y permiten contraste. Su insuficiencia no es instrumental, sino interpretativa: la energía oscura queda como término efectivo de modelo mientras no se declare un mecanismo físico último cerrado. En el Sistema Vectorial SV, esto no produce rechazo global de ΛCDM; produce separación de niveles. ΛCDM es APTO como aparato físico-instrumental dentro de dominio declarado; PARCIAL como interpretación física última de energía oscura; y NO_APTO si se convierte en sustancia, causa verbal total o prueba de expansión de la totalidad absoluta. Esta separación permite conservar la potencia predictiva del modelo sin aceptar que un término efectivo se convierta en ontología material. También exige que cualquier valor calculado mediante H<sub>0</sub> y Ω<sub>Λ</sub> se trate como Λ<sub>obs</sub>[B], dependiente de banco observacional B, y no como segundo valor constitutivo del Sistema Vectorial SV.
 
----
+### I.3. Bancos observacionales contemporáneos, DESI y cautela de retorno
 
-<a id="sec-ii"></a>
+El estado contemporáneo de Λ no autoriza un único retorno numérico universal desligado de banco. Planck, supernovas Ia, BAO, CMB, lentes y DESI no constituyen una sola magnitud indiferenciada, sino bancos y combinaciones observacionales con rutas de medida, supuestos de modelo, incertidumbres y tensiones. En particular, un valor calculado con H<sub>0</sub> y Ω<sub>Λ</sub> sólo es admisible si especifica de qué banco procede, qué combinación usa, qué unidades adopta, qué incertidumbre conserva y qué residual deja. El hecho de que DESI explore tensiones compatibles con una posible energía oscura dinámica no convierte w(z) en mecanismo físico final, ni degrada por sí mismo la utilidad de ΛCDM como banco de contraste; simplemente impide cerrar la energía oscura por nombre, por ajuste o por preferencia estadística. Desde el SV, el banco observacional B opera como entrada externa auditada: puede devolver Λ<sub>obs</sub>[B] y permitir Λ<sub>SV,ret</sub>[B], pero no produce Λ<sub>SV,puro</sub>, no corrige el cierre estructural y no introduce valores externos como constitutivos. Esta cautela protege simultáneamente al modelo físico contemporáneo y al SV: conserva el dato, conserva la incertidumbre y evita que un parámetro externo quede endurecido como verdad estructural interna.
 
 ## II. Visión SV del mismo conjunto
 
-El SV no pregunta en primer lugar qué sustancia es la energía oscura. Pregunta qué dominio habla, qué magnitud entra, qué unidad usa, qué ecuación la regula, qué residual deja, qué retorno físico conserva y qué dictamen corresponde. La visión SV queda fijada por cuatro distinciones. Primera: la totalidad absoluta no se expande como cuerpo. Lo que puede declararse como expansión admisible es el aumento modelizado de determinadas separaciones internas entre observables físicos no ligados, bajo dominio, magnitud, unidad, ecuación, residual y retorno. Galaxias, supernovas, BAO, lentes, CMB y retornos luminosos comparecen como observables tipados. La totalidad no comparece como objeto físico interno con borde exterior, velocidad propia o volumen creciente. Segunda: la energía oscura no es energía termodinámica sustancial. Trabajo, calor, no clausura, fuerza, temperatura y entalpía son proyecciones canónicas de la sección Ω<sub>SV</sub> del dominio termodinámico. Por tanto, una magnitud sólo puede llamarse calor, trabajo, temperatura o entalpía en SV si atraviesa las proyecciones π<sub>Q</sub>, π<sub>W</sub>, π<sub>Θ</sub> o π<sub>Λ</sub> correspondientes. La energía oscura no es 𝒬<sub>SV</sub>, no es 𝒲<sub>SV</sub>, no es Θ<sub>SV</sub> y no es una fuerza térmica local aplicada sobre galaxias. Tercera: Λ es curvatura efectiva, no energía-cosa. Puede traducirse a densidad efectiva ρ<sub>Λ</sub> y presión negativa efectiva, pero esa traducción pertenece al retorno físico del término geométrico. No convierte Λ en sustancia material. El banco bidireccional de energía oscura separa Λ, ρ<sub>Λ</sub>, w, presión y densidad efectiva, y rechaza las identificaciones DE=DM, DE=NADA y DE=BH. Cuarta: el SV resuelve Λ por transducción ciclo-distancial. El dominio observable retornado posee una escala T<sub>obs</sub>; la teoría de distancias fija la tendencia ciclo-distancial V<sub>sep</sub><sup>SV</sup>=D/T<sub>obs</sub> y la forma normalizada H<sub>SV</sub>=c/T<sub>obs</sub>. Esta magnitud no es tiempo rector; es escala de contraste del dominio observable.
-
----
-
-<a id="sec-iii"></a>
+El SV no pregunta en primer lugar qué sustancia es la energía oscura. Pregunta qué dominio habla, qué magnitud entra, qué unidad usa, qué ecuación la regula, qué residual deja, qué retorno físico conserva y qué dictamen corresponde. La visión SV queda fijada por cuatro distinciones. Primera: la totalidad absoluta no se expande como cuerpo. Lo que puede declararse como expansión admisible es el aumento modelizado de determinadas separaciones internas entre observables físicos no ligados, bajo dominio, magnitud, unidad, ecuación, residual y retorno. Galaxias, supernovas, BAO, lentes, CMB y retornos luminosos comparecen como observables tipados. La totalidad no comparece como objeto físico interno con borde exterior, velocidad propia o volumen creciente. Segunda: la energía oscura no es energía termodinámica sustancial. Trabajo, calor, no clausura, fuerza, temperatura y entalpía son proyecciones canónicas de dominio termodinámico. Por tanto, una magnitud sólo puede llamarse calor, trabajo, temperatura o entalpía si atraviesa sus proyecciones correspondientes y declara dominio térmico. La energía oscura no es calor, no es trabajo, no es temperatura y no es una fuerza térmica local aplicada sobre galaxias. Tercera: Λ es curvatura efectiva, no entidad energética sustancial. Puede traducirse a densidad efectiva ρ<sub>Λ</sub> y presión negativa efectiva, pero esa traducción pertenece al retorno físico del término geométrico. No convierte Λ en sustancia material. Cuarta: el SV resuelve Λ por transducción ciclo-distancial. El dominio observable retornado posee una escala T<sub>obs</sub>; la teoría de distancias fija la tendencia ciclo-distancial V<sub>sep</sub><sup>SV</sup> = D/T<sub>obs</sub> y la forma normalizada κ<sub>obs</sub> = 1/T<sub>obs</sub>. Esta magnitud no es tiempo rector; es escala de contraste del dominio observable.
 
 ## III. Transductor universal Física Contemporánea ↔ SV
 
-La transducción físico-factual se introduce en este punto porque sólo después de distinguir el lenguaje físico contemporáneo y el lenguaje SV puede declararse una equivalencia controlada. El transductor universal usado es: 𝔛<sub>SV</sub>(D ↔ D′). Para la constante cosmológica: 𝔛<sub>SV</sub>(Ω<sub>FC,Λ</sub> ↔ Ω<sub>SV,Λ</sub>). Con dominio físico contemporáneo: Ω<sub>FC,Λ</sub> = {Λ, Ω<sub>Λ</sub>, w, H(z), D<sub>L</sub>, D<sub>A</sub>, D<sub>M</sub>, D<sub>V</sub>, q(t), z, ρ<sub>Λ</sub>, p<sub>Λ</sub>, ρ<sub>vac,QFT</sub><sup>bare</sup>}. Y dominio SV: Ω<sub>SV,Λ</sub> = {Ω<sub>obs</sub>, T<sub>obs</sub>, V<sub>sep</sub><sup>SV</sup>, κ<sub>obs</sub>, Λ<sub>SV,puro</sub>, η<sub>Λ</sub>, Λ<sub>SV,ret</sub>, Δ<sub>Λ</sub>, d<sub>Λ</sub>}. La dirección Física Contemporánea → SV opera así: (D<sub>L</sub>, μ, H(z), BAO, w, Λ, Ω<sub>Λ</sub>, H<sub>0</sub>, ρ<sub>Λ</sub>) ⟶ 𝓐<sub>cos</sub>. Donde 𝓐<sub>cos</sub>=1 designa régimen cosmológico expansivo o acelerado, sin contaminación con materia oscura, NADA ni agujero negro. La dirección SV → Física Contemporánea opera así: T<sub>obs</sub> ⟶ κ<sub>obs</sub>=1/T<sub>obs</sub> ⟶ Λ<sub>SV,puro</sub>=3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> ⟶ η<sub>Λ</sub> ⟶ Λ<sub>SV,ret</sub>. El transductor exige dominio de partida, dominio de llegada, proyección de ida, proyección de retorno, invariantes preservados, residual y dictamen. Sin esos elementos, la relación no es transducción, sino analogía verbal.
-
-<a id="sec-iii-1"></a>
+La transducción físico-factual se introduce en este punto porque sólo después de distinguir el lenguaje físico contemporáneo y el lenguaje SV puede declararse una equivalencia controlada. El transductor universal usado es 𝔛<sub>SV</sub>(D ↔ D′). Para la constante cosmológica se instancia como 𝔛<sub>SV</sub>(Ω<sub>FC,Λ</sub> ↔ Ω<sub>SV,Λ</sub>). El dominio físico contemporáneo queda dado por Ω<sub>FC,Λ</sub> = {Λ, Ω<sub>Λ</sub>[B], H<sub>0</sub>[B], w, H(z), D<sub>L</sub>, D<sub>A</sub>, D<sub>M</sub>, D<sub>V</sub>, q(t), z, ρ<sub>Λ</sub>, p<sub>Λ</sub>, ρ<sub>vac,QFT</sub><sup>bare</sup>, B}. El dominio SV queda dado por Ω<sub>SV,Λ</sub> = {Ω<sub>obs</sub>, T<sub>obs</sub>, V<sub>sep</sub><sup>SV</sup>, κ<sub>obs</sub>, Λ<sub>SV,puro</sub>, Λ<sub>obs</sub>[B], Λ<sub>SV,ret</sub>[B], Δ<sub>Λ</sub>, d<sub>Λ</sub>}, donde Λ<sub>SV,ret</sub>[B] no es un escalar nuevo, sino el paquete de retorno auditado asociado al valor escalar Λ<sub>obs</sub>[B]. La dirección Física Contemporánea → SV opera así: (D<sub>L</sub>, μ, H(z), BAO, w, Λ, Ω<sub>Λ</sub>[B], H<sub>0</sub>[B], ρ<sub>Λ</sub>, B) ⟶ 𝓐<sub>cos</sub>. Donde 𝓐<sub>cos</sub>=1 designa régimen cosmológico expansivo o acelerado, sin contaminación con materia oscura, NADA ni agujero negro. La dirección SV → Física Contemporánea opera así: T<sub>obs</sub> ⟶ κ<sub>obs</sub>=1/T<sub>obs</sub> ⟶ Λ<sub>SV,puro</sub>=3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>; y, sólo para contraste externo declarado, B ⟶ Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> ⟶ Λ<sub>SV,ret</sub>[B] = ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩. El transductor exige dominio de partida, dominio de llegada, proyección de ida, proyección de retorno, invariantes preservados, residual y dictamen. Sin esos elementos, la relación no es transducción, sino analogía verbal.
 
 ### III.1. Invariantes del transductor Λ-SV
 
 | Invariante | Función |
-| --- | --- |
+|---|---|
 | I<sub>dom</sub> | declara Ω<sub>FC,Λ</sub> y Ω<sub>SV,Λ</sub> sin ambigüedad |
-| I<sub>mag</sub> | impide sustituir Λ, H(z), D<sub>L</sub>, D<sub>A</sub>, q(t), w o ρ<sub>Λ</sub> entre sí |
+| I<sub>B</sub> | impide usar H<sub>0</sub> y Ω<sub>Λ</sub> sin banco observacional declarado |
+| I<sub>mag</sub> | impide sustituir Λ, H(z), D<sub>L</sub>, D<sub>A</sub>, q(t), w, ρ<sub>Λ</sub> o Λ<sub>SV,puro</sub> entre sí |
 | I<sub>u</sub> | conserva unidades: Λ en m<sup>−2</sup>, H en tasa, distancias en longitud, w adimensional |
 | I<sub>eq</sub> | impide usar ecuaciones fuera de régimen |
 | I<sub>ret</sub> | obliga a que la salida SV vuelva como afirmación física inteligible |
 | I<sub>osc</sub> | distingue energía oscura, materia oscura, oscuridad física, NADA, vacío, agujero negro y no retorno |
 | I<sub>¬t</sub> | impide convertir T<sub>obs</sub> en tiempo rector |
 | I<sub>¬p</sub> | impide que probabilidad, estadística o inferencia opaca sustituyan la demostración |
-
-<a id="sec-iii-2"></a>
+| I<sub>¬constit</sub> | impide que Λ<sub>obs</sub>[B] o Λ<sub>SV,ret</sub>[B] entren como magnitudes constitutivas |
 
 ### III.2. Residual del transductor
 
-Δ<sub>Λ</sub> = Δ<sub>dom</sub> ⊕ Δ<sub>mag</sub> ⊕ Δ<sub>u</sub> ⊕ Δ<sub>eq</sub> ⊕ Δ<sub>ret</sub> ⊕ Δ<sub>osc</sub> ⊕ Δ<sub>fund</sub>. El residual nulo no significa que la física contemporánea gobierne el SV. Significa que la magnitud ha sido ubicada, proyectada y devuelta sin defecto dentro de su dominio. El dictamen queda: d<sub>Λ</sub> ∈ {APTO, PARCIAL, NO_APTO, U}.
-
----
-
-<a id="sec-iv"></a>
+Δ<sub>Λ</sub> = Δ<sub>dom</sub> ⊕ Δ<sub>B</sub> ⊕ Δ<sub>mag</sub> ⊕ Δ<sub>u</sub> ⊕ Δ<sub>eq</sub> ⊕ Δ<sub>ret</sub> ⊕ Δ<sub>osc</sub> ⊕ Δ<sub>fund</sub>. El residual nulo no significa que la física contemporánea gobierne el SV. Significa que la magnitud ha sido ubicada, proyectada y devuelta sin defecto dentro de su dominio. Si falta banco B, si se mezclan parámetros de bancos distintos, si se omiten unidades, si se desconoce la incertidumbre o si se pretende convertir Λ<sub>obs</sub>[B] en Λ<sub>SV,puro</sub>, entonces Δ<sub>B</sub> o Δ<sub>fund</sub> son no nulos y el dictamen no puede ser APTO fuerte. El dictamen queda d<sub>Λ</sub> ∈ {APTO, PARCIAL, NO_APTO, U}. U sólo se admite cuando falta un dato material concreto y declarado; no funciona como refugio para cierre favorable.
 
 ## IV. Teorema de resolución física de la constante cosmológica
 
-<a id="sec-iv-1"></a>
-
 ### IV.1. Constantes y magnitudes
 
-| Objeto | Definición | Valor | Estatuto |
-| --- | --- | --- | --- |
-| T<sub>obs</sub> | escala transductiva del observable retornado | 435.494.880.000.000.000 s | entrada SV desde dominio de edades |
-| c | constante metrológica externa | 299.792.458 m·s<sup>−1</sup> | retorno físico |
+| Objeto | Definición | Valor o forma | Estatuto |
+|---|---|---|---|
+| T<sub>obs</sub> | escala SV de referencia del observable retornado | 435.494.880.000.000.000 s | entrada declarada desde dominio de edades; recalculable si cambia esa escala |
+| c | constante metrológica externa | 299.792.458 m·s<sup>−1</sup> | constante exacta SI |
 | κ<sub>obs</sub> | 1/T<sub>obs</sub> | 2,296238247393402 × 10<sup>−18</sup> s<sup>−1</sup> | tasa ciclo-distancial normalizada |
 | κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> | curvatura base | 5,866681175849258 × 10<sup>−53</sup> m<sup>−2</sup> | conversión dimensional mínima |
-| Λ<sub>SV,puro</sub> | 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup> | valor de dominio Λ puro |
-| H<sub>SV</sub> | c/T<sub>obs</sub> | 70,854508817448 km·s<sup>−1</sup>·Mpc<sup>−1</sup> | tasa de separación normalizada |
-| R<sub>obs</sub> | cT<sub>obs</sub> | 4.231,099234240598 Mpc | radio ciclo-luminal |
+| Λ<sub>SV,puro</sub> | 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup> | magnitud estructural de dominio Λ puro |
+| κ<sub>obs</sub> en km·s<sup>−1</sup>·Mpc<sup>−1</sup> | κ<sub>obs</sub>[s<sup>−1</sup>] × 3,0856775814913673 × 10<sup>19</sup> km·Mpc<sup>−1</sup> | 70,854508817448 km·s<sup>−1</sup>·Mpc<sup>−1</sup> | conversión SI de tasa; no es H<sub>0</sub> observacional |
+| R<sub>obs</sub> | cT<sub>obs</sub> | 4.231,099234240598 Mpc | radio ciclo-luminal de contraste |
+| B | banco observacional | fuente, combinación, unidades e incertidumbre | entrada externa auditada |
+| Λ<sub>obs</sub>[B] | 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> | dependiente de B | valor observacional externo |
+| Λ<sub>SV,ret</sub>[B] | ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩ | dependiente de B | objeto de retorno auditado; su componente escalar es Λ<sub>obs</sub>[B] |
 
-<a id="sec-iv-2"></a>
+### IV.2. Enunciado en dos niveles y retorno observacional tipado
 
-### IV.2. Enunciado en dos niveles
-
-**Teorema de resolución física de la constante cosmológica.** En el dominio cosmológico observable retornado Ω<sub>obs</sub>, si la escala transductiva actual del observable retornado es T<sub>obs</sub>, si la tendencia ciclo-distancial viene dada por V<sub>sep</sub><sup>SV</sup>(D)=D/T<sub>obs</sub>, si la constante cosmológica debe comparecer como magnitud de curvatura efectiva de dimensión m<sup>−2</sup>, y si el retorno físico cosmológico mixto se declara mediante η<sub>Λ</sub>=Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup>, entonces: <strong>Λ<sub>SV,puro</sub> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>)</strong>, y: <strong>Λ<sub>SV,ret</sub> = 3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) = 3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup>.</strong> Con T<sub>obs</sub>=435.494.880.000.000.000 s y c=299.792.458 m·s<sup>−1</sup>: <strong>Λ<sub>SV,puro</sub> = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>.</strong> Con Ω<sub>Λ</sub>=0,6889 y H<sub>0</sub>=67,66 km·s<sup>−1</sup>·Mpc<sup>−1</sup>: <strong>Λ<sub>SV,ret</sub> = 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup>.</strong> Λ<sub>SV</sub> no nombra una energía sustancial. Nombra la curvatura efectiva mínima del dominio observable retornado inducida por su escala ciclo-distancial y modulada, cuando procede, por participación física retornada.
+**Teorema de resolución física de la constante cosmológica.** En el dominio cosmológico observable retornado Ω<sub>obs</sub>, si la escala transductiva actual del observable retornado es T<sub>obs</sub>, si la tendencia ciclo-distancial viene dada por V<sub>sep</sub><sup>SV</sup>(D)=D/T<sub>obs</sub>, si la constante cosmológica debe comparecer como magnitud de curvatura efectiva de dimensión m<sup>−2</sup>, y si todo retorno observacional dependiente de H<sub>0</sub> y Ω<sub>Λ</sub> queda subordinado a un banco B declarado, trazado y auditado, entonces Λ<sub>SV,puro</sub> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) y Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup>. La primera magnitud es estructural dentro del Sistema Vectorial SV; la segunda es observacional y dependiente del banco B. Con T<sub>obs</sub>=435.494.880.000.000.000 s y c=299.792.458 m·s<sup>−1</sup>, resulta Λ<sub>SV,puro</sub> = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>. En cambio, Λ<sub>obs</sub>[B] no posee valor único sin banco: si B cambia, cambian H<sub>0</sub>[B], Ω<sub>Λ</sub>[B], incertidumbres y combinación de observables; Λ<sub>SV,ret</sub>[B] no añade un segundo valor numérico, sino el objeto de retorno que conserva ese valor junto con banco, unidad, incertidumbre, residual y dictamen. Λ<sub>SV</sub> no nombra una energía sustancial. Nombra la curvatura efectiva mínima del dominio observable retornado inducida por su escala ciclo-distancial; cuando procede contraste externo, ese contraste entra como retorno observacional tipado, nunca como segundo valor constitutivo.
 
 | Nivel | Fórmula | Estatuto | Dictamen |
-| --- | --- | --- | --- |
-| Λ de dominio puro | Λ<sub>SV,puro</sub>=3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | cierre ciclo-distancial sin participación material explícita | APTO en dominio Λ puro |
-| Λ física retornada | Λ<sub>SV,ret</sub>=3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | retorno físico de dominio cosmológico mixto | APTO si η<sub>Λ</sub> está declarado |
-| Coeficiente de retorno | η<sub>Λ</sub>=Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup> | participación adimensional | APTO como entrada física transducida |
-| Forma física equivalente | Λ<sub>FC</sub>=3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup> | expresión contemporánea de retorno | equivalente a Λ<sub>SV,ret</sub> |
-
----
-
-<a id="sec-v"></a>
+|---|---|---|---|
+| Λ de dominio puro | Λ<sub>SV,puro</sub> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | cierre ciclo-distancial sin participación observacional externa | APTO en dominio Λ puro |
+| Λ observacional de banco | Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> | valor físico dependiente de banco | APTO sólo si B está declarado y auditado |
+| Retorno transductivo | Λ<sub>SV,ret</sub>[B] = ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩ | objeto de contraste, no escalar absoluto | APTO/PARCIAL según residual de B |
+| Error bloqueado | Λ<sub>obs</sub>[B] = Λ<sub>SV,puro</sub> | confusión entre valor externo y magnitud estructural | NO_APTO |
 
 ## V. Demostración
 
-<a id="sec-v-1"></a>
-
 ### V.1. Derivación de κ<sub>obs</sub>
 
-La separación factual de observables no se formula como expansión de la totalidad, sino como relación tipada entre observables bajo magnitud, unidad, modelo, ecuación, régimen, transductor, residual y retorno físico. El dominio admisible no es la totalidad absoluta, sino Ω<sub>obs</sub> y sus contenidos físicos retornados. En ese dominio, la tendencia ciclo-distancial queda dada por: V<sub>sep</sub><sup>SV</sup>(D)=D/T<sub>obs</sub>. Normalizando por distancia: κ<sub>obs</sub>=V<sub>sep</sub><sup>SV</sup>(D)/D=1/T<sub>obs</sub>. Sustituyendo: κ<sub>obs</sub> = 2,296238247393402 × 10<sup>−18</sup> s<sup>−1</sup>.
-
-<a id="sec-v-2"></a>
+La separación factual de observables no se formula como expansión de la totalidad, sino como relación tipada entre observables bajo magnitud, unidad, modelo, ecuación, régimen, transductor, residual y retorno físico. El dominio admisible no es la totalidad absoluta, sino Ω<sub>obs</sub> y sus contenidos físicos retornados. En ese dominio, la tendencia ciclo-distancial queda dada por V<sub>sep</sub><sup>SV</sup>(D)=D/T<sub>obs</sub>. Normalizando por distancia se obtiene κ<sub>obs</sub>=V<sub>sep</sub><sup>SV</sup>(D)/D=1/T<sub>obs</sub>. Sustituyendo T<sub>obs</sub>=435.494.880.000.000.000 s, resulta κ<sub>obs</sub> = 2,296238247393402 × 10<sup>−18</sup> s<sup>−1</sup>. Esta tasa no es tiempo rector ni constante de Hubble observacional; es una tasa estructural ciclo-distancial del dominio observable retornado. Si se expresa en unidades km·s<sup>−1</sup>·Mpc<sup>−1</sup>, la operación correcta es κ<sub>obs</sub>[s<sup>−1</sup>] × 3,0856775814913673 × 10<sup>19</sup> km·Mpc<sup>−1</sup> = 70,854508817448 km·s<sup>−1</sup>·Mpc<sup>−1</sup>, lo que no autoriza a identificarla sin más con H<sub>0</sub>[B], porque H<sub>0</sub>[B] pertenece a un banco observacional externo. La cercanía numérica entre esta tasa convertida y algunos valores observacionales de H<sub>0</sub>, incluidos retornos locales del entorno SH0ES como los reportados por Riess et al. (2022), no constituye predicción SV sobre la tensión de Hubble; expresa sólo que una escala recíproca de edad cosmológica puede escribirse en las mismas unidades metrológicas que H<sub>0</sub>. κ<sub>obs</sub> es tasa estructural ciclo-distancial; H<sub>0</sub>[B] es magnitud observacional dependiente de banco.
 
 ### V.2. Derivación del coeficiente 3
 
-El coeficiente 3 no se introduce como ajuste. Se obtiene de la traza del campo isotrópico de separación del dominio observable retornado. Sea el campo ciclo-distancial ideal: V<sub>sep</sub><sup>SV</sup>(r)=κ<sub>obs</sub>r. En tres direcciones ortogonales del retorno físico: ∂V<sub>x</sub>/∂x = κ<sub>obs</sub>, &nbsp; ∂V<sub>y</sub>/∂y = κ<sub>obs</sub>, &nbsp; ∂V<sub>z</sub>/∂z = κ<sub>obs</sub>. Por tanto: tr(∇V<sub>sep</sub><sup>SV</sup>) = ∇·V<sub>sep</sub><sup>SV</sup> = 3κ<sub>obs</sub>. La constante cosmológica requiere dimensión m<sup>−2</sup>. La traza anterior tiene dimensión s<sup>−1</sup>, de modo que la contracción con la tasa normalizada y la división por c<sup>2</sup> devuelven la magnitud correcta: Λ<sub>SV,puro</sub> = [tr(∇V<sub>sep</sub><sup>SV</sup>)·κ<sub>obs</sub>]/c<sup>2</sup> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>. Así, el 3 procede de la traza tridimensional del campo isotrópico de separación, no de una inserción posterior. La conversión dimensional queda: (s<sup>−1</sup>·s<sup>−1</sup>)/(m<sup>2</sup>·s<sup>−2</sup>) = m<sup>−2</sup>. Sustituyendo: κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> = 5,866681175849258 × 10<sup>−53</sup> m<sup>−2</sup>. Λ<sub>SV,puro</sub> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>.
-
-<a id="sec-v-3"></a>
+El coeficiente 3 no se introduce como ajuste. Se obtiene de la traza del campo isotrópico de separación del dominio observable retornado. Sea el campo ciclo-distancial ideal V<sub>sep</sub><sup>SV</sup>(r)=κ<sub>obs</sub>r. En tres direcciones ortogonales del retorno físico, ∂V<sub>x</sub>/∂x = κ<sub>obs</sub>, ∂V<sub>y</sub>/∂y = κ<sub>obs</sub>, ∂V<sub>z</sub>/∂z = κ<sub>obs</sub>. Por tanto, tr(∇V<sub>sep</sub><sup>SV</sup>) = ∇·V<sub>sep</sub><sup>SV</sup> = 3κ<sub>obs</sub>. La constante cosmológica requiere dimensión m<sup>−2</sup>. La traza anterior tiene dimensión s<sup>−1</sup>, de modo que la contracción con la tasa normalizada y la división por c<sup>2</sup> devuelven la magnitud correcta: Λ<sub>SV,puro</sub> = [tr(∇V<sub>sep</sub><sup>SV</sup>)·κ<sub>obs</sub>]/c<sup>2</sup> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>. Así, el coeficiente 3 procede de la traza tridimensional del campo isotrópico de separación, no de una inserción posterior. La conversión dimensional queda (s<sup>−1</sup>·s<sup>−1</sup>)/(m<sup>2</sup>·s<sup>−2</sup>) = m<sup>−2</sup>. Sustituyendo, κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> = 5,866681175849258 × 10<sup>−53</sup> m<sup>−2</sup>, y Λ<sub>SV,puro</sub> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>.
 
 ### V.3. Resolución de la discrepancia QFT-vacío frente a Λ retornada
 
-El problema canónico se activa cuando se identifica una energía de vacío desnuda con la constante cosmológica física. En SV, esa identidad directa no es un cálculo físico completo, sino una proyección sin transducción: ρ<sub>vac,QFT</sub><sup>bare</sup> = Λ<sub>fis</sub>. La igualdad fracasa porque mezcla dominio microfísico dependiente de corte con dominio cosmológico retornado. El defecto queda: Δ<sub>QFT→Λ</sub> = Δ<sub>dom</sub> ⊕ Δ<sub>cut</sub> ⊕ Δ<sub>ren</sub> ⊕ Δ<sub>grav</sub> ⊕ Δ<sub>ret</sub>. Con Δ<sub>QFT→Λ</sub>≠0, el dictamen es **NO_APTO** como identidad directa. Si se declara un dominio renormalizado, un acoplamiento gravitatorio y un retorno cosmológico, la cuestión puede entrar como **PARCIAL** o **U** según residual. Pero la constante cosmológica física retornada no queda fundada por una suma desnuda de modos; queda definida por el dominio observable retornado y por la transducción ciclo-distancial.
+El problema canónico se activa cuando se identifica una energía de vacío desnuda con la constante cosmológica física. En SV, esa identidad directa no es un cálculo físico completo, sino una proyección sin transducción: ρ<sub>vac,QFT</sub><sup>bare</sup> → Λ<sub>fis</sub>. La igualdad fracasa porque mezcla dominio microfísico dependiente de corte con dominio cosmológico retornado. El defecto queda Δ<sub>QFT→Λ</sub> = Δ<sub>dom</sub> ⊕ Δ<sub>cut</sub> ⊕ Δ<sub>ren</sub> ⊕ Δ<sub>grav</sub> ⊕ Δ<sub>ret</sub>. Con Δ<sub>QFT→Λ</sub>≠0, el dictamen es NO_APTO como identidad directa. Si se declara un dominio renormalizado, un acoplamiento gravitatorio y un retorno cosmológico, la cuestión puede entrar como PARCIAL o U según residual. Pero la constante cosmológica física retornada no queda fundada por una suma desnuda de modos; queda definida por el dominio observable retornado y por la transducción ciclo-distancial. Del mismo modo, Λ<sub>obs</sub>[B] no queda fundada por el SV, sino por un banco físico externo declarado y auditado. El SV no absorbe el banco como fundamento: lo admite como contraste.
 
 | Identidad ensayada | Dominio de origen | Dominio de llegada | Residual activado | Dictamen SV |
-| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
 | ρ<sub>vac,QFT</sub><sup>bare</sup> → Λ | suma desnuda de modos/cuarto corte energético | curvatura cosmológica retornada | Δ<sub>dom</sub>⊕Δ<sub>cut</sub>⊕Δ<sub>ren</sub>⊕Δ<sub>grav</sub>⊕Δ<sub>ret</sub> | NO_APTO como identidad directa |
 | ρ<sub>vac,ren</sub> → término efectivo | dominio renormalizado declarado | término físico acoplado | pendiente de mecanismo y retorno | PARCIAL/U |
-| Λ<sub>SV,ret</sub> → término cosmológico | dominio observable retornado | curvatura efectiva | residual nulo si el dominio físico coincide | APTO |
+| Λ<sub>SV,puro</sub> | dominio observable retornado | curvatura efectiva ciclo-distancial | residual nulo en dominio puro | APTO |
+| Λ<sub>obs</sub>[B] | banco observacional externo | contraste cosmológico | residual dependiente de B | APTO/PARCIAL según auditoría |
+| Λ<sub>SV,ret</sub>[B] | objeto ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩ | retorno SV de contraste | residual dependiente de B | APTO/PARCIAL según auditoría |
 
-<a id="sec-v-4"></a>
+### V.4. Resolución del factor Ω<sub>Λ</sub> como participación de banco observacional
 
-### V.4. Resolución del factor Ω<sub>Λ</sub>
+El valor Λ<sub>SV,puro</sub> describe el cierre ciclo-distancial de dominio Λ puro. El universo físico retornado no se presenta como dominio Λ puro; comparece como dominio cosmológico mixto de contraste. Por ello, toda magnitud física retornada mediante Ω<sub>Λ</sub> y H<sub>0</sub> debe incluir banco observacional B. Entonces Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup>. Si se desea expresar esa forma mediante una participación adimensional relativa a T<sub>obs</sub>, se define η<sub>Λ</sub>[B] = Ω<sub>Λ</sub>[B]·(H<sub>0</sub>[B]T<sub>obs</sub>)<sup>2</sup>, de modo que Λ<sub>obs</sub>[B] = 3η<sub>Λ</sub>[B]/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>). Por tanto, el factor Ω<sub>Λ</sub>[B] no se omite: entra como coeficiente de participación física de un banco externo declarado. La igualdad entre Λ<sub>obs</sub>[B] y 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> no es ajuste numérico; es identidad algebraica una vez declarado B. Lo que queda prohibido es tratar esa salida como Λ<sub>SV,puro</sub> o como segundo valor constitutivo independiente de banco.
 
-El valor Λ<sub>SV,puro</sub> describe el cierre ciclo-distancial de dominio Λ puro. El universo físico retornado no se presenta como dominio Λ puro; comparece como dominio cosmológico mixto. Por ello, la magnitud física retornada debe incluir la participación cosmológica efectiva: η<sub>Λ</sub> = Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup>. Entonces: Λ<sub>SV,ret</sub> = 3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>). Sustituyendo η<sub>Λ</sub>: Λ<sub>SV,ret</sub> = 3Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) = 3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup>. Por tanto, el factor Ω<sub>Λ</sub> no se omite. Entra como coeficiente de participación física retornada. Con los valores de contraste adoptados:
-
-| Objeto | Definición | Valor | Función |
-| --- | --- | --- | --- |
-| H<sub>0</sub> | magnitud física de retorno | 67,66 km·s<sup>−1</sup>·Mpc<sup>−1</sup> | parámetro externo de contraste |
-| Ω<sub>Λ</sub> | participación cosmológica efectiva | 0,6889 | parámetro externo de contraste |
-| H<sub>0</sub>T<sub>obs</sub> | acoplamiento adimensional de retorno | 0,9549145302 | no funda el SV |
-| η<sub>Λ</sub> | Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup> | 0,628181566455743 | coeficiente de participación retornada |
-| Λ<sub>SV,ret</sub> | 3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup> | valor físico retornado |
-| Λ<sub>FC</sub> | 3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup> | 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup> | forma física equivalente |
-| Λ<sub>SV,puro</sub>/Λ<sub>SV,ret</sub> | cociente de dominio | 1,591896441091 | distingue dominio puro y dominio mixto |
-
-La igualdad entre Λ<sub>SV,ret</sub> y Λ<sub>FC</sub> no es ajuste numérico; es identidad algebraica una vez declarado el retorno físico mixto. Queda demostrado.
-
----
-
-<a id="sec-vi"></a>
+| Banco | H<sub>0</sub>[B] | Ω<sub>Λ</sub>[B] | Λ<sub>obs</sub>[B] | Estatuto |
+|---|---:|---:|---:|---|
+| B<sub>SV,puro</sub> | no aplica | no aplica | no aplica | no usa banco externo; produce Λ<sub>SV,puro</sub> |
+| B<sub>Planck18-baseΛCDM</sub> | 67,4 km·s<sup>−1</sup>·Mpc<sup>−1</sup> | 0,685 | 1,0909105028380932 × 10<sup>−52</sup> m<sup>−2</sup> | retorno externo de banco Planck 2018 base ΛCDM; no constitutivo |
+| B<sub>Planck18+BAO</sub> | 67,66 km·s<sup>−1</sup>·Mpc<sup>−1</sup> | 0,6889 | 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup> | retorno externo admisible sólo si la combinación Planck+BAO queda identificada en fuente primaria |
+| B<sub>DESI-DR2</sub> | dependiente de combinación | dependiente de combinación | dependiente de combinación | tensión o contraste; no cierre estructural |
 
 ## VI. Por qué comparece la constante cosmológica en SV
 
-La constante cosmológica comparece porque el dominio observable retornado no es una colección estática de objetos, sino un dominio de separaciones factuales entre observables. La física contemporánea detecta que esas separaciones, en régimen cosmológico, no se comportan como si el contenido material ordinario agotara la dinámica del dominio. Por eso introduce Λ, Ω<sub>Λ</sub>, w≈−1 o modelos w(z): no como observación directa de una sustancia, sino como término efectivo que permite cerrar distancias, aceleración de escala y retornos luminosos. El SV conserva el acierto físico y corrige el fundamento interpretativo. La pregunta no es qué sustancia empuja las galaxias, sino qué estructura del dominio observable exige una curvatura efectiva de escala cosmológica. La respuesta es la escala ciclo-distancial del observable retornado. Todo observable cosmológico se da dentro de una relación de separación; toda separación tipada posee una tendencia factual V<sub>sep</sub><sup>SV</sup>=D/T<sub>obs</sub>; y toda tendencia normalizada por distancia devuelve una tasa estructural κ<sub>obs</sub>=1/T<sub>obs</sub>. Esa tasa no es tiempo rector, sino la forma en que el dominio observable expresa su propia escala de retorno.
-La constante cosmológica aparece cuando esa tasa estructural se proyecta como curvatura. Una tasa κ<sub>obs</sub> tiene dimensión s<sup>−1</sup>; una constante cosmológica exige dimensión m<sup>−2</sup>. La conversión dimensional limpia, sin introducir sustancia, fuerza local, calor, temperatura ni probabilidad, es κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>. El coeficiente 3 expresa la traza tridimensional del campo isotrópico de separación del dominio observable retornado. De ahí resulta: <strong>Λ<sub>SV,puro</sub> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>).</strong> La constante cosmológica es pequeña porque la escala que la genera es inmensa. No procede de una energía local intensa, ni de un contenido material oculto, ni de una presión térmica aplicada sobre galaxias. Procede de elevar al cuadrado la tasa mínima de separación del dominio observable retornado. Al ser T<sub>obs</sub> cosmológicamente enorme, 1/T<sub>obs</sub><sup>2</sup> es extremadamente pequeño; al dividir además por c<sup>2</sup>, la magnitud queda en el orden propio de una curvatura cosmológica mínima. El valor físico observado no exige negar esa estructura. Exige declarar participación cosmológica retornada. Por eso Λ<sub>SV,puro</sub> se distingue de Λ<sub>SV,ret</sub>. El primero expresa el dominio Λ puro; el segundo expresa el dominio cosmológico mixto mediante η<sub>Λ</sub>. Esta distinción resuelve el desfase entre el valor puro y el valor de retorno físico: no son la misma pregunta. Por eso la energía oscura no es energía en sentido sustancial. Es la denominación física contemporánea de un régimen que el SV identifica como curvatura efectiva ciclo-distancial. Cuando la física la traduce como densidad ρ<sub>Λ</sub> o presión negativa efectiva, expresa en lenguaje energético una curvatura de dominio; no descubre una sustancia oscura, ni un calor cósmico, ni una temperatura universal, ni una fuerza local que empuje objetos. La expansión del Universo, leída sin transducción, parece crecimiento de una totalidad. Leída con transducción SV, no es expansión de la totalidad absoluta, sino aumento modelizado de separaciones internas entre observables no ligados. Las galaxias no son arrastradas por una energía material invisible; sus relaciones métricas cambian dentro de un dominio observable cuya escala ciclo-distancial fija el régimen de separación. La velocidad recesional crece con la distancia porque el modelo traduce esa separación como v<sub>rec</sub>=H(t)D; el SV la reordena como retorno de una ley de dominio, no como aceleración local universal. Así queda el porqué: la constante cosmológica comparece porque el dominio observable retornado, al ser leído como sistema de separaciones internas y no como totalidad expansiva, requiere una curvatura efectiva mínima asociada a su propia escala de ciclo. La física contemporánea acierta al medir el efecto y al introducir Λ como término de modelo; acierta parcialmente al hablar de energía oscura como régimen efectivo; y yerra cuando convierte ese régimen en sustancia, causa verbal, calor, temperatura o expansión de la totalidad. El SV resuelve el problema al mostrar que el valor de Λ no nace de una energía desconocida, sino de la proyección geométrico-física de T<sub>obs</sub> y de su participación física retornada. <strong>La constante cosmológica no mide una energía escondida en el vacío; mide, como curvatura efectiva, la tasa mínima de separación del dominio observable retornado.</strong>
+La constante cosmológica comparece porque el dominio observable retornado no es una colección estática de objetos, sino un dominio de separaciones factuales entre observables. La física contemporánea detecta que esas separaciones, en régimen cosmológico, no se comportan como si el contenido material ordinario agotara la dinámica del dominio. Por eso introduce Λ, Ω<sub>Λ</sub>, w≈−1 o modelos w(z): no como observación directa de una sustancia, sino como término efectivo que permite cerrar distancias, aceleración de escala y retornos luminosos. El SV conserva el acierto físico y corrige el fundamento interpretativo. La pregunta no es qué sustancia actúa sobre las galaxias, sino qué estructura del dominio observable exige una curvatura efectiva de escala cosmológica. La respuesta es la escala ciclo-distancial del observable retornado. Todo observable cosmológico se da dentro de una relación de separación; toda separación tipada posee una tendencia factual V<sub>sep</sub><sup>SV</sup> = D/T<sub>obs</sub>; y toda tendencia normalizada por distancia devuelve una tasa estructural κ<sub>obs</sub> = 1/T<sub>obs</sub>. Esa tasa no es tiempo rector, sino la forma en que el dominio observable expresa su propia escala de retorno.
 
----
-
-<a id="sec-vii"></a>
+La constante cosmológica aparece cuando esa tasa estructural se proyecta como curvatura. Una tasa κ<sub>obs</sub> tiene dimensión s<sup>−1</sup>; una constante cosmológica exige dimensión m<sup>−2</sup>. La conversión dimensional limpia, sin introducir sustancia, fuerza local, calor, temperatura ni probabilidad, es κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>. El coeficiente 3 expresa la traza tridimensional del campo isotrópico de separación del dominio observable retornado. De ahí resulta Λ<sub>SV,puro</sub> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> = 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>). La constante cosmológica es pequeña porque la escala que la genera es inmensa. No procede de una energía local intensa, ni de un contenido material oculto, ni de una presión térmica aplicada sobre galaxias. Procede de elevar al cuadrado la tasa mínima de separación del dominio observable retornado. Al ser T<sub>obs</sub> cosmológicamente enorme, 1/T<sub>obs</sub><sup>2</sup> es extremadamente pequeño; al dividir además por c<sup>2</sup>, la magnitud queda en el orden propio de una curvatura cosmológica mínima. El valor físico observacional no exige negar esa estructura. Exige declarar banco B. Por eso Λ<sub>SV,puro</sub> se distingue de Λ<sub>obs</sub>[B] y de Λ<sub>SV,ret</sub>[B]. El primero expresa el dominio Λ puro; los segundos expresan retorno cosmológico mixto asociado a un banco de contraste. Esta distinción resuelve el desfase entre el valor puro y los valores de retorno físico: no son la misma pregunta. Por eso la energía oscura no es energía en sentido sustancial. Es la denominación física contemporánea de un régimen que el SV identifica como curvatura efectiva ciclo-distancial. Cuando la física la traduce como densidad ρ<sub>Λ</sub> o presión negativa efectiva, expresa en lenguaje energético una curvatura de dominio; no descubre una sustancia oscura, ni un calor cósmico, ni una temperatura universal, ni una fuerza local. La expansión del Universo, leída sin transducción, parece crecimiento de una totalidad. Leída con transducción SV, no es expansión de la totalidad absoluta, sino aumento modelizado de separaciones internas entre observables no ligados. Las galaxias no son arrastradas por una energía material invisible; sus relaciones métricas cambian dentro de un dominio observable cuya escala ciclo-distancial fija el régimen de separación. La velocidad recesional crece con la distancia porque el modelo traduce esa separación como v<sub>rec</sub>=H(t)D; el SV la reordena como retorno de una ley de dominio, no como aceleración local universal. Así queda el porqué: la constante cosmológica comparece porque el dominio observable retornado, al ser leído como sistema de separaciones internas y no como totalidad expansiva, requiere una curvatura efectiva mínima asociada a su propia escala de ciclo. La física contemporánea acierta al medir el efecto y al introducir Λ como término de modelo; acierta parcialmente al hablar de energía oscura como régimen efectivo; y yerra cuando convierte ese régimen en sustancia, causa verbal, calor, temperatura o expansión de la totalidad. El SV resuelve el problema al mostrar que el valor estructural de Λ no nace de una energía desconocida, sino de la proyección geométrico-física de T<sub>obs</sub>, mientras que todo valor observacional dependiente de H<sub>0</sub> y Ω<sub>Λ</sub> pertenece a un banco B de contraste. La constante cosmológica no mide una energía escondida en el vacío; mide, como curvatura efectiva, la tasa mínima de separación del dominio observable retornado.
 
 ## VII. Contraste numérico del porqué
 
-El contraste numérico demuestra cuatro propiedades: que Λ<sub>SV</sub> no sale de una distancia elegida, que depende cuadráticamente de T<sub>obs</sub>, que el valor puro y el valor retornado pertenecen a dominios distintos, y que las alternativas conceptuales equivocadas rompen dimensión, dominio o transducción.
-
-<a id="sec-vii-1"></a>
+El contraste numérico demuestra cuatro propiedades: que Λ<sub>SV,puro</sub> no sale de una distancia elegida, que depende cuadráticamente de T<sub>obs</sub>, que el valor puro y los retornos observacionales pertenecen a dominios distintos, y que las alternativas conceptuales equivocadas rompen dimensión, dominio o transducción. Estos bancos no convierten el valor externo en constitutivo: sólo muestran qué ocurre cuando se declara el dominio correcto y qué falla cuando se mezcla.
 
 ### VII.1. Banco A — invariancia ciclo-distancial
 
 Se ensayan los diez deciles naturales del radio ciclo-luminal R<sub>obs</sub>=cT<sub>obs</sub>. No son valores escogidos para ajustar Λ; son la partición decimal directa de la escala ciclo-luminal del observable retornado.
 
 | N.º | D | D en Mpc | V<sub>sep</sub><sup>SV</sup> km/s | V<sub>sep</sub><sup>SV</sup>/c | κ<sub>obs</sub> | Λ<sub>SV,puro</sub> |
-| --- | --- | --- | --- | --- | --- | --- |
+|---:|---|---:|---:|---:|---:|---:|
 | 1 | 0,1R<sub>obs</sub> | 423,10992342406 | 29.979,2458 | 0,1 | 2,296238247 × 10<sup>−18</sup> s<sup>−1</sup> | 1,760004353 × 10<sup>−52</sup> m<sup>−2</sup> |
 | 2 | 0,2R<sub>obs</sub> | 846,21984684812 | 59.958,4916 | 0,2 | 2,296238247 × 10<sup>−18</sup> s<sup>−1</sup> | 1,760004353 × 10<sup>−52</sup> m<sup>−2</sup> |
 | 3 | 0,3R<sub>obs</sub> | 1.269,329770272179 | 89.937,7374 | 0,3 | 2,296238247 × 10<sup>−18</sup> s<sup>−1</sup> | 1,760004353 × 10<sup>−52</sup> m<sup>−2</sup> |
@@ -239,14 +146,12 @@ Se ensayan los diez deciles naturales del radio ciclo-luminal R<sub>obs</sub>=cT
 
 **Resultado.** La velocidad de separación crece linealmente con la distancia, pero κ<sub>obs</sub> y Λ<sub>SV,puro</sub> permanecen invariantes. Por tanto, la constante cosmológica SV no nace de una distancia escogida, ni de una galaxia concreta, ni de un ajuste local. Nace de la escala del dominio: T<sub>obs</sub>.
 
-<a id="sec-vii-2"></a>
-
 ### VII.2. Banco B — escalamiento cuadrático
 
 Si el porqué es correcto, Λ debe cambiar como 1/T<sup>2</sup>. El banco altera sólo la escala y conserva la fórmula.
 
 | Escala usada | Relación | Λ resultante | Cociente | Dictamen |
-| --- | --- | --- | --- | --- |
+|---|---:|---:|---:|---|
 | 0,25T<sub>obs</sub> | 0,25 | 2,816006964 × 10<sup>−51</sup> m<sup>−2</sup> | 16 | dominio comprimido artificialmente |
 | 0,5T<sub>obs</sub> | 0,5 | 7,040017411 × 10<sup>−52</sup> m<sup>−2</sup> | 4 | escala media; curvatura cuadruplicada |
 | 0,75T<sub>obs</sub> | 0,75 | 3,128896627 × 10<sup>−52</sup> m<sup>−2</sup> | 1,777777778 | escala no canónica |
@@ -259,43 +164,33 @@ Si el porqué es correcto, Λ debe cambiar como 1/T<sup>2</sup>. El banco altera
 
 **Resultado.** El banco confirma que la constante es pequeña porque nace de 1/T<sub>obs</sub><sup>2</sup>. Si la escala se reduce a la mitad, Λ se multiplica por cuatro; si se duplica, Λ cae a un cuarto. La causa matemática del tamaño de Λ es la inmensidad de T<sub>obs</sub> elevada al cuadrado.
 
-<a id="sec-vii-3"></a>
-
-### VII.3. Banco C — dominio puro frente a retorno físico
+### VII.3. Banco C — dominio puro frente a retorno observacional de banco
 
 | Objeto | Definición | Valor | Función |
-| --- | --- | --- | --- |
-| H<sub>0</sub> | magnitud física de retorno | 67,66 km·s<sup>−1</sup>·Mpc<sup>−1</sup> | parámetro externo de contraste |
-| Ω<sub>Λ</sub> | participación cosmológica efectiva | 0,6889 | parámetro externo de contraste |
-| H<sub>0</sub>T<sub>obs</sub> | acoplamiento adimensional de retorno | 0,9549145302 | no funda el SV |
-| η<sub>Λ</sub> | Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup> | 0,628181566455743 | coeficiente de participación retornada |
-| Λ<sub>SV,ret</sub> | 3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup> | valor físico retornado |
-| Λ<sub>FC</sub> | 3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup> | 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup> | forma física equivalente |
-| Λ<sub>SV,puro</sub>/Λ<sub>SV,ret</sub> | cociente de dominio | 1,591896441091 | distingue dominio puro y dominio mixto |
+|---|---|---:|---|
+| Λ<sub>SV,puro</sub> | 3/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>) | 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup> | magnitud estructural de dominio puro |
+| Λ<sub>obs</sub>[B<sub>Planck18-baseΛCDM</sub>] | 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> con H<sub>0</sub>=67,4 y Ω<sub>Λ</sub>=0,685 | 1,0909105028380932 × 10<sup>−52</sup> m<sup>−2</sup> | retorno de banco declarado, no constitutivo |
+| Λ<sub>obs</sub>[B<sub>Planck18+BAO</sub>] | 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> con H<sub>0</sub>=67,66 y Ω<sub>Λ</sub>=0,6889 | 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup> | retorno de banco si la combinación queda declarada |
+| Λ<sub>obs</sub>[B]/Λ<sub>SV,puro</sub> | cociente banco/puro | dependiente de B | mide participación de retorno, no contradicción |
+| Λ<sub>SV,puro</sub>/Λ<sub>obs</sub>[B] | cociente puro/banco | dependiente de B | distingue dominio puro y dominio mixto |
 
-**Resultado.** Λ<sub>SV,puro</sub> y Λ<sub>SV,ret</sub> no compiten. Responden a dominios distintos. El valor puro expresa cierre ciclo-distancial sin participación material explícita; el valor retornado introduce Ω<sub>Λ</sub> y H<sub>0</sub> como magnitudes físicas. La equivalencia Λ<sub>SV,ret</sub>=Λ<sub>FC</sub> demuestra que, cuando los dominios hablan por transducción, la forma SV y la forma contemporánea quedan algebraicamente conciliadas.
-
-<a id="sec-vii-4"></a>
+**Resultado.** Λ<sub>SV,puro</sub> y Λ<sub>obs</sub>[B] no compiten. Responden a dominios distintos. El valor puro expresa cierre ciclo-distancial sin participación observacional externa; el valor observacional introduce Ω<sub>Λ</sub>[B] y H<sub>0</sub>[B] como magnitudes físicas de un banco de contraste. La equivalencia Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> demuestra identidad algebraica dentro del banco, no identidad constitutiva con Λ<sub>SV,puro</sub>.
 
 ### VII.4. Banco D — coeficiente y alternativas erróneas
 
 | α | ακ<sub>obs</sub><sup>2</sup>/c<sup>2</sup> | Dictamen |
-| --- | --- | --- |
+|---:|---:|---|
 | 1 | 5,866681176 × 10<sup>−53</sup> m<sup>−2</sup> | NO_APTO: cierre incompleto |
 | 2 | 1,173336235 × 10<sup>−52</sup> m<sup>−2</sup> | NO_APTO: cierre incompleto |
 | 3 | 1,760004353 × 10<sup>−52</sup> m<sup>−2</sup> | APTO en cierre ciclo-distancial completo |
-| 4 | 2,34667247 × 10<sup>−52</sup> m<sup>−2</sup> | NO_APTO: sobrecierre |
+| 4 | 2,346672470 × 10<sup>−52</sup> m<sup>−2</sup> | NO_APTO: sobrecierre |
 
-**Resultado.** El coeficiente 3 queda seleccionado por cierre tridimensional isotrópico. α=1 y α=2 dejan cierre incompleto; α=4 produce sobrecierre; α=3 conserva traza tridimensional del campo de separación.
-
----
-
-<a id="sec-viii"></a>
+**Resultado.** El coeficiente 3 queda seleccionado por cierre tridimensional isotrópico. α=1 y α=2 dejan cierre incompleto; α=4 produce sobrecierre; α=3 conserva la traza tridimensional del campo de separación.
 
 ## VIII. Banco adversarial de errores de concepto y cálculo
 
 | N.º | Entrada | Error activado | Dictamen SV |
-| --- | --- | --- | --- |
+|---:|---|---|---|
 | 1 | El Universo-total se expande como cuerpo | totalidad convertida en objeto físico interno | NO_APTO |
 | 2 | q(t)<0 ⇒ toda galaxia local acelera | confusión entre aceleración del factor de escala y aceleración local | NO_APTO |
 | 3 | v=cz fuera del régimen de bajo z | extrapolación de aproximación local | NO_APTO |
@@ -304,77 +199,47 @@ Si el porqué es correcto, Λ debe cambiar como 1/T<sup>2</sup>. El banco altera
 | 6 | DE = DM | expansión confundida con masa no luminosa | NO_APTO |
 | 7 | DE = NADA | término físico convertido en fundamento absoluto | NO_APTO |
 | 8 | DE = BH | horizonte y expansión confundidos | NO_APTO |
-| 9 | energía oscura como calor 𝒬<sub>SV</sub> | el calor exige proyección π<sub>Q</sub> | NO_APTO |
-| 10 | energía oscura como temperatura Θ<sub>SV</sub> | la temperatura exige 𝔇Q/𝔇H y dominio térmico declarado | NO_APTO |
-| 11 | omitir c<sup>2</sup> en Λ<sub>SV</sub> | dimensión final s<sup>−2</sup>, no m<sup>−2</sup> | NO_APTO |
-| 12 | T=2T<sub>obs</sub> | ciclo completo usado como escala actual | NO_APTO para el teorema principal |
+| 9 | energía oscura como calor | el calor exige dominio térmico declarado | NO_APTO |
+| 10 | energía oscura como temperatura | la temperatura exige dominio térmico declarado | NO_APTO |
+| 11 | omitir c<sup>2</sup> en Λ<sub>SV,puro</sub> | dimensión final s<sup>−2</sup>, no m<sup>−2</sup> | NO_APTO |
+| 12 | T=2T<sub>obs</sub> como escala actual | ciclo completo usado como escala actual | NO_APTO para el teorema principal |
 | 13 | edad solar o galáctica como T<sub>obs</sub> | cambio de dominio | NO_APTO |
 | 14 | Λ como causa verbal de cualquier separación | ausencia de ecuación, banco y retorno | NO_APTO |
 | 15 | w(z) como destino cosmológico definitivo | modelo abierto convertido en cierre | NO_APTO |
+| 16 | Λ<sub>obs</sub>[B] como Λ<sub>SV,puro</sub> | retorno externo convertido en magnitud constitutiva | NO_APTO |
+| 17 | Λ<sub>SV,ret</sub>[B] sin banco B | ausencia de fuente, combinación, unidades e incertidumbre | NO_APTO |
+| 18 | mezclar H<sub>0</sub> de un banco con Ω<sub>Λ</sub> de otro | banco híbrido no declarado | NO_APTO |
+| 19 | valor redondeado tratado como valor primario | pérdida de trazabilidad metrológica | PARCIAL/NO_APTO según uso |
+| 20 | preferencia estadística como fundamento | ajuste convertido en mecanismo físico | NO_APTO |
 
-El banco bloquea simplificaciones frecuentes: expansión de la totalidad, energía como sustancia, velocidad como movimiento ordinario, mezcla de rutas de medida, temperatura global sin dominio, Λ como explicación verbal y energía de vacío desnuda como identidad cosmológica directa.
-
----
-
-<a id="sec-ix"></a>
+El banco bloquea simplificaciones frecuentes: expansión de la totalidad, energía como sustancia, velocidad como movimiento ordinario, mezcla de rutas de medida, temperatura global sin dominio, Λ como explicación verbal, energía de vacío desnuda como identidad cosmológica directa y retorno observacional externo convertido en magnitud constitutiva.
 
 ## IX. Matriz de transducción y dictamen
 
 | Objeto físico contemporáneo | Acierto físico | Alcance parcial | Error bloqueado por SV | Salida SV |
-| --- | --- | --- | --- | --- |
-| Λ en ΛCDM | calcula H(z), distancias y aceleración de escala | no cierra por sí sola el mecanismo físico último | convertir Λ en sustancia o fundamento | Λ<sub>SV,puro</sub> y Λ<sub>SV,ret</sub> según dominio |
-| Ω<sub>Λ</sub> | componente eficaz de modelo | interpretación física abierta | usarla como prueba de expansión de la totalidad | participación retornada η<sub>Λ</sub> |
-| w≈−1 | presión negativa efectiva en ΛCDM | no explica por qué comparece ese régimen | leerlo como esencia de energía oscura | retorno por Λ<sub>SV</sub> y dictamen parcial |
+|---|---|---|---|---|
+| Λ en ΛCDM | calcula H(z), distancias y aceleración de escala | no cierra por sí sola el mecanismo físico último | convertir Λ en sustancia o fundamento | Λ<sub>SV,puro</sub> y Λ<sub>obs</sub>[B] según dominio |
+| Ω<sub>Λ</sub>[B] | componente eficaz de modelo | depende de banco B | usarla como prueba de expansión de la totalidad | participación retornada de banco |
+| H<sub>0</sub>[B] | tasa cosmológica observacional | depende de ruta de medición | mezclar CMB/local sin tipado | entrada externa por banco |
+| w≈−1 | presión negativa efectiva en ΛCDM | no explica por qué comparece ese régimen | leerlo como esencia de energía oscura | retorno por Λ y dictamen parcial |
 | w(z) | banco de contraste dinámico | depende de parametrización y datos | convertir indicio en cierre definitivo | PARCIAL/U según residual |
-| H(z) | magnitud física admisible | tensión entre rutas de medición | mezclar CMB/local sin tipado | entrada separada por dominio |
-| v<sub>rec</sub>=H(t)D | velocidad recesional de modelo | no es velocidad peculiar local | galaxias empujadas por energía local | separación propia modelizada |
+| H(z) | magnitud física admisible | tensión entre rutas de medición | mezclar bancos sin tipado | entrada separada por dominio |
+| v<sub>rec</sub>=H(t)D | velocidad recesional de modelo | no es velocidad peculiar local | galaxias actuadas por energía local | separación propia modelizada |
 | q(t)<0 | aceleración del factor de escala | no implica aceleración local de todo objeto | totalidad acelerada como cuerpo | absorción condicionada |
 | ρ<sub>Λ</sub> | densidad efectiva derivada | no es sustancia material ordinaria | ρ<sub>Λ</sub>=NADA | retorno energético derivado |
 | presión negativa | traducción física útil | no equivale a fuerza local térmica | energía oscura como calor | proyección física efectiva |
 | temperatura cosmológica | el retorno luminoso puede enfriarse | no hay temperatura única de todo observable | confundir corrimiento al rojo con enfriamiento interno universal | dominio térmico separado |
+| Λ<sub>obs</sub>[B] | valor externo calculable | depende de fuente, unidades e incertidumbre | tratarlo como Λ<sub>SV,puro</sub> | retorno de banco declarado |
+| Λ<sub>SV,ret</sub>[B] | retorno transductivo útil como objeto auditado | su componente escalar es Λ<sub>obs</sub>[B] | usarlo sin B, sin unidad o sin incertidumbre | APTO/PARCIAL según auditoría |
 
 Cuando los dominios no hablan con transducción, la física contemporánea conserva un nombre eficaz —energía oscura— y una constante útil —Λ—, pero deja abierto el mecanismo. Cuando hablan con transducción, el SV separa lo que debe separarse: efecto observacional ≠ modelo instrumental ≠ mecanismo físico ≠ fundamento. La física contemporánea acierta al medir y modelizar el régimen expansivo o acelerado; acierta parcialmente al llamar energía oscura al término efectivo que reproduce el fenómeno; y yerra cuando esa denominación se convierte en sustancia, causa verbal, temperatura, calor, fuerza local o expansión de la totalidad.
 
----
-
-<a id="sec-x"></a>
-
 ## X. Temperatura, dinámica de observables y retorno luminoso
 
-Según el SV, no existe una temperatura única de la expansión. La temperatura factual Θ<sub>SV</sub> exige dominio termodinámico declarado y cociente formal entre incremento de calor e incremento de entropía factual. Por tanto, la energía oscura no puede llamarse temperatura, ni calor, ni trabajo. La temperatura interna de una galaxia, una nube, una estrella o un disco de acreción pertenece a su propio dominio físico. El retorno luminoso cosmológico puede llegar enfriado por corrimiento al rojo positivo, pero eso no implica enfriamiento interno universal de todos los observables. La dinámica de observables tampoco se reduce a galaxias empujadas. Los observables no ligados pueden aumentar sus separaciones propias bajo el modelo; los observables ligados pueden conservar clausura local por potencial, canal o frontera; y la velocidad recesional crece con la distancia porque el modelo traduce la separación como v<sub>rec</sub>=H(t)D. El SV reordena esa lectura mediante distancia declarada, tendencia ciclo-distancial, residual y retorno.
-
----
-
-<a id="sec-xi"></a>
+Según el SV, no existe una temperatura única de la expansión. La temperatura factual exige dominio termodinámico declarado y relación formal entre incremento de calor e incremento de entropía factual. Por tanto, la energía oscura no puede llamarse temperatura, ni calor, ni trabajo. La temperatura interna de una galaxia, una nube, una estrella o un disco de acreción pertenece a su propio dominio físico. El retorno luminoso cosmológico puede llegar enfriado por corrimiento al rojo positivo, pero eso no implica enfriamiento interno universal de todos los observables. La dinámica de observables tampoco se reduce a galaxias actuadas por una sustancia. Los observables no ligados pueden aumentar sus separaciones propias bajo el modelo; los observables ligados pueden conservar clausura local por potencial, canal o frontera; y la velocidad recesional crece con la distancia porque el modelo traduce la separación como v<sub>rec</sub>=H(t)D. El SV reordena esa lectura mediante distancia declarada, tendencia ciclo-distancial, residual y retorno.
 
 ## XI. Conclusión
 
-El SV aporta la resolución física de la constante cosmológica porque identifica la magnitud que faltaba, bloquea la identidad directa no transducida entre energía de vacío desnuda y Λ física, deriva el coeficiente 3 como traza tridimensional del campo isotrópico de separación, y distingue el valor puro del valor físico retornado: T<sub>obs</sub> ⟶ κ<sub>obs</sub>=1/T<sub>obs</sub> ⟶ Λ<sub>SV,puro</sub>=3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>. η<sub>Λ</sub>=Ω<sub>Λ</sub>(H<sub>0</sub>T<sub>obs</sub>)<sup>2</sup> ⟶ Λ<sub>SV,ret</sub>=3η<sub>Λ</sub>/(c<sup>2</sup>T<sub>obs</sub><sup>2</sup>)=3Ω<sub>Λ</sub>H<sub>0</sub><sup>2</sup>/c<sup>2</sup>. La constante cosmológica queda resuelta como curvatura efectiva mínima del dominio observable retornado. La llamada energía oscura queda desustancializada: no es energía-cosa, sino denominación física contemporánea del régimen cuya proyección SV es Λ<sub>SV</sub>. <strong>Λ<sub>SV,puro</sub> = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>.</strong> <strong>Λ<sub>SV,ret</sub> = 1,1056022912824223 × 10<sup>−52</sup> m<sup>−2</sup>.</strong>
+El SV aporta la resolución física de la constante cosmológica porque identifica la magnitud que faltaba, bloquea la identidad directa no transducida entre energía de vacío desnuda y Λ física, deriva el coeficiente 3 como traza tridimensional del campo isotrópico de separación, y distingue el valor estructural del dominio puro frente a los retornos observacionales dependientes de banco. La cadena queda: T<sub>obs</sub> ⟶ κ<sub>obs</sub> = 1/T<sub>obs</sub> ⟶ Λ<sub>SV,puro</sub> = 3κ<sub>obs</sub><sup>2</sup>/c<sup>2</sup>. El retorno observacional, cuando procede, queda separado: B ⟶ Λ<sub>obs</sub>[B] = 3Ω<sub>Λ</sub>[B]H<sub>0</sub>[B]<sup>2</sup>/c<sup>2</sup> ⟶ Λ<sub>SV,ret</sub>[B] = ⟨Λ<sub>obs</sub>[B], u=m<sup>−2</sup>, B, σ<sub>B</sub>, Δ<sub>Λ</sub>[B], d<sub>Λ</sub>[B]⟩. La constante cosmológica queda resuelta como curvatura efectiva mínima del dominio observable retornado. La llamada energía oscura queda desustancializada: no es entidad energética sustancial, sino denominación física contemporánea del régimen cuya proyección SV es Λ como curvatura efectiva de dominio. Λ<sub>SV,puro</sub> = 1,7600043527547774 × 10<sup>−52</sup> m<sup>−2</sup>. Todo valor Λ<sub>obs</sub>[B] queda dependiente del banco B y no puede figurar como magnitud constitutiva absoluta.
 
-El dictamen final es: **La física contemporánea acierta en el efecto y en el modelo; acierta parcialmente en la interpretación energética; yerra cuando sustancializa, totaliza o termaliza el fenómeno, y cuando identifica sin transducción energía de vacío desnuda con curvatura cosmológica física. El SV resuelve la constante cosmológica al devolver Λ a su dominio propio: curvatura efectiva ciclo-distancial del observable retornado, con participación física declarada en el dominio cosmológico mixto.**
-
----
-
-<a id="bibliografia"></a>
-
-## Bibliografía
-
-Lloret Egea, J. A. (2026a). *Imperfección preformal y espacio: ε₋₀, primera distinguibilidad y dominio estructural completo de separación factual recorrible*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/imperfeccion-preformal-y-espacio.md
-
-Lloret Egea, J. A. (2026b). *Distancia absoluta y relativa entre observables del Universo en el Sistema Vectorial SV*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/adendas/distancia-absoluta-relativa-observables-universo.md
-
-Lloret Egea, J. A. (2026c). *Edades relativas del universo observable y de sus objetos físicos*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/edades-relativas-universo-observable-y-objetos-fisicos/edades-relativas-universo-observable-y-objetos-fisicos.md
-
-Lloret Egea, J. A. (2026d). *Fuerza, trabajo, calor, entalpía, temperatura, principios y fundamentos de la termodinámica y la correlación entre ellos en el SV*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.17613/ptw68-d1r57
-
-Lloret Egea, J. A. (2026e). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://zenodo.org/records/19954405
-
-Hogg, D. W. (1999). *Distance measures in cosmology*. arXiv. https://arxiv.org/abs/astro-ph/9905116
-
-Perlmutter, S, Aldering, G, Goldhaber, G, Knop, R. A, Nugent, P, Castro, P. G, Deustua, S, Fabbro, S, Goobar, A, Groom, D. E, Hook, I. M, Kim, A. G, Kim, M. Y, Lee, J. C, Nunes, N. J, Pain, R, Pennypacker, C. R, Quimby, R, Lidman, C, et al. (1999). Measurements of Ω and Λ from 42 high-redshift supernovae. *The Astrophysical Journal, 517*(2), 565–586. https://doi.org/10.1086/307221
-
-Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics, 641*, A6. https://doi.org/10.1051/0004-6361/201833910
-
-Riess, A. G, Filippenko, A. V, Challis, P, Clocchiatti, A, Diercks, A, Garnavich, P. M, Gilliland, R. L, Hogan, C. J, Jha, S, Kirshner, R. P, Leibundgut, B, Phillips, M. M, Reiss, D, Schmidt, B. P, Schommer, R. A, Smith, R. C, Spyromilio, J, Stubbs, C, Suntzeff, N. B, & Tonry, J. (1998). Observational evidence from supernovae for an accelerating universe and a cosmological constant. *The Astronomical Journal, 116*(3), 1009–1038. https://doi.org/10.1086/300499
-
-Weinberg, S. (1989). The cosmological constant problem. *Reviews of Modern Physics, 61*(1), 1–23. https://doi.org/10.1103/RevModPhys.61.1
+El dictamen final es: la física contemporánea acierta en el efecto y en el modelo; acierta parcialmente en la interpretación energética; yerra cuando sustancializa, totaliza o termaliza el fenómeno, y cuando identifica sin transducción energía de vacío desnuda con curvatura cosmológica física. El SV resuelve la constante cosmológica al devolver Λ a su dominio propio: curvatura efectiva ciclo-distancial del observable retornado, con retorno observacional dependiente de banco cuando intervienen H<sub>0</sub> y Ω<sub>Λ</sub>. Ningún dato externo entra en el SV como magnitud constitutiva: entra, si procede, como banco de contraste.
