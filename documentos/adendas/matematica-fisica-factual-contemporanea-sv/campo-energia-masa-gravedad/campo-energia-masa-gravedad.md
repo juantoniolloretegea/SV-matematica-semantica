@@ -2,12 +2,10 @@
 
 ![Portada de Campo y energía, génesis de la masa y definición física de la gravedad](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/campo-energia-masa-gravedad/imagenes/portada.png)
 
-**Autor:** Juan Antonio Lloret Egea  
-**ORCID:** [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)  
-**Institución:** [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ — ITVIA](https://www.itvia.online/)  
-**Publicación:** IA eñ™ — La Biblia de la IA™  
-**ISSN:** [2695-6411](https://portal.issn.org/resource/ISSN/2695-6411)  
-**Licencia:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)  
+**© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/) | **DOI pendiente** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | [**Licencia CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 22/05/2026
+
+---
+
 **Repositorio canónico:** [SV-matematica-semantica](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/campo-energia-masa-gravedad)  
 **DOI:** [10.21428/39829d0b.41afec0f](https://doi.org/10.21428/39829d0b.41afec0f)  
 **Adscrita a la colección:** [10.21428/39829d0b.26484bfd](https://doi.org/10.21428/39829d0b.26484bfd)  
@@ -15,8 +13,14 @@
 **Preservación independiente (Internet Archive):**  
 &nbsp;&nbsp;&nbsp;&nbsp;— Documento `.md`: [snapshot 2026-05-22 20:45:03 UTC](https://web.archive.org/web/20260522204503/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/campo-energia-masa-gravedad/campo-energia-masa-gravedad.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;— Carpeta completa: [snapshot 2026-05-22 20:47:11 UTC](https://web.archive.org/web/20260522204711/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/campo-energia-masa-gravedad)  
-**Fecha:** Madrid, 22/05/2026
 
+---
+
+Advertencia. Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física y la Química, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
+
+Warning. This publication is protected by CEDRO.Its application in the field of Physics and Chemistry, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.
+
+---
 
 ## Resumen
 
