@@ -1,0 +1,8 @@
+codigo,entrada_defectuosa,operacion_indebida,error_activado,resultado_esperado,autoria
+LNB-01,Λ_SV_ret sin banco,cerrar retorno sin B,ausencia de banco observacional declarado,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+LNB-02,Λ_obs[B] como Λ_SV_puro,valor externo convertido en magnitud constitutiva,confusión entre dominio puro y retorno observacional,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+LNB-03,banco sin fuente,aceptar H0 u Omega_Lambda sin fuente primaria,falta de trazabilidad,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+LNB-04,H0 de un banco y Omega_Lambda de otro,crear banco híbrido no declarado,mezcla de bancos,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+LNB-05,banco pendiente cerrado como APTO,dictamen favorable sin auditoría,cierre espurio de banco,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+LNB-06,κ_obs aproximado a H0 como predicción de tensión,convertir conversión de unidades en predicción cosmológica,confusión entre tasa estructural y H0[B],RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+LNB-07,DESI o SH0ES como fundamento SV,usar tensión observacional como magnitud constitutiva,estadística o banco externo como fundamento,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
