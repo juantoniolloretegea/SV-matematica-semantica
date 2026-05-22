@@ -1,0 +1,13 @@
+codigo,afirmacion_comprobada,entrada_minima,operacion,retorno,dictamen,autoria
+P-01,La gravitación clásica calcula retorno local,"G, m1, m2, r local",F = Gm1m2/r2,N,ABSORCION_LOCAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-02,G devuelve aceleración local,"G, M, r local",g = GM/r2,m·s⁻²,ABSORCION_METROLOGICA,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-03,"Λ_SV,puro devuelve curvatura efectiva","c, T_obs",3/(c2 T_obs2),m⁻²,ABSORCION_COSMOLOGICA,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-04,Λ observacional de banco declarado,"B, Omega_Lambda[B], H0[B], c",3 Omega_Lambda[B] H0[B]^2/c2 -> Lambda_obs[B],m⁻²,ABSORCION_CON_BANCO_Y_RESIDUAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-05,La distancia local admite fuerza,r homogenea,uso en F = Gm1m2/r2,N,ABSORCION,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-06,D_L funciona como distancia cosmológica,"z, H(z), modelo",retorno luminoso,m o Mpc,ABSORCION_TIPADA,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-07,Higgs aporta masa elemental,"campo de Higgs, acoplamiento",masa de reposo elemental,eV/c2 o kg,ABSORCION_PARCIAL_FUERTE,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-08,QCD explica masa hadrónica,"confinamiento, energía de campos",masa efectiva hadrónica,MeV/c2 o kg,ABSORCION_DE_DOMINIO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-09,E = mc2 traduce masa y energía,"m, c",E = mc2,J,ABSORCION_METROLOGICA,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-10,El hidrógeno conserva persistencia atómica,"frontera, espectro, masa",retorno atómico,"masa, línea espectral, traza",ABSORCION_CASO_CANONICO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-11,El régimen Maxwell retorna energía de campo,"campo, fuentes, frontera",balance electromagnético,J o J·m⁻³,ABSORCION_SECTORIAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+P-12,DESI presiona el modelo sin cerrarlo,"BAO, CMB, supernovas",contraste de tensión,hipótesis parcial,ABSORCION_PARCIAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0

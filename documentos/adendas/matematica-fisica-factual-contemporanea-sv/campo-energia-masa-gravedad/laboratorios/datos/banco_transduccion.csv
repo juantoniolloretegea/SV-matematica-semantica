@@ -1,0 +1,13 @@
+id,entrada_fisica,direccion_cc_a_sv,residual,direccion_sv_a_cc,salida_evaluable,dictamen,autoria
+T-01,F = Gm1m2/r2,Gravitación local con r homogénea,Delta = 0 si dominio local,Retorno fuerza,N,ABSORCION,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-02,g = GM/r2,Fuente local y separación radial,Delta = 0 si r local,Retorno aceleración,m·s⁻²,ABSORCION,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-03,kappa = 8piG/c4,Acoplamiento relativista,Delta parcial por dominio geométrico,Retorno geométrico,acoplamiento SI,ABSORCION_PARCIAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-04,Lambda_SV_puro,Escala ciclo-distancial,Delta = 0 en dominio puro,Curvatura efectiva,m⁻²,ABSORCION,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-05,Lambda_obs[B] (escalar) y Lambda_SV_ret[B] (tupla),Banco observacional declarado con H0[B] y Omega_Lambda[B],Delta dependiente de B; no constitutivo,"Tupla auditada con banco, unidad, incertidumbre, residual y dictamen",m⁻² + B + sigma_B + Delta_Lambda[B] + d_Lambda[B],ABSORCION_CON_BANCO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-06,D_L,Distancia de luminosidad,Delta si se usa como r local,Retorno luminoso,m o Mpc,ABSORCION_SOLO_COSMOLOGICA,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-07,"rho_Lambda, p_Lambda",Término efectivo LambdaCDM,Delta si se sustancializa,Densidad/presión efectiva,"J·m⁻³, Pa",ABSORCION_PARCIAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-08,Energía de vacío desnuda,Dominio microfísico sin mediación,Delta crítico,Sin retorno directo a Lambda,NO_APTO,RECHAZO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-09,Higgs,Masa elemental acoplada,Delta por alcance parcial,Masa elemental,kg o eV/c2,ABSORCION_PARCIAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-10,QCD,Masa hadrónica,Delta por dominio,Masa hadrónica efectiva,kg o MeV/c2,ABSORCION_DE_DOMINIO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-11,T_obs,Escala SV de referencia; no tiempo rector,Delta = 0 si no se temporaliza,Escala de retorno,s,ABSORCION,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+T-12,DESI / energia oscura dinamica,Banco de tensión observacional,Delta de mecanismo abierto,Hipótesis dinámica parcial,PARCIAL/U,ABSORCION_PARCIAL,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0

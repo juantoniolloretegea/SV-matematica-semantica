@@ -1,0 +1,46 @@
+# MANIFIESTO SHA-256
+
+Raíz: `campo-energia-masa-gravedad`
+
+| Archivo | SHA-256 | Bytes |
+|---|---|---:|
+| `README.md` | `05262350db3778891b81d6d675c9a1a9edbec1e8c4b4c9ace015e411c1ab3cae` | 11078 |
+| `campo-energia-masa-gravedad.md` | `e37d45ba4f147308e73ed66072d7aebb362e7fbbb7f634c1f536e73c975fbc4c` | 295367 |
+| `imagenes/inicio.md` | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` | 0 |
+| `imagenes/portada.png` | `2a3e3f9cc6971f6f014cfa137d6a51113d86fdca54dd5e33773dc00f2d9de205` | 3006991 |
+| `inicio.md` | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` | 0 |
+| `laboratorios/LAB-01_campo_energia.py` | `df20b9a1203c07c55ddec26e4d982b58af9e69a0e0136cf047d97f107ddd735c` | 590 |
+| `laboratorios/LAB-02_masa_frontera.py` | `9c1666774d9d4e06c80ce275491c4c7b7a02a9e061f43aa40f6c280a5f5c07bd` | 590 |
+| `laboratorios/LAB-03_hidrogeno_persistencia.py` | `6504ff76d21861b581a45c1a5d53ca0a96ae0feb57a9d34beeb9b104ad6dd620` | 590 |
+| `laboratorios/LAB-04_campo_gravitatorio.py` | `96534a88228fb21edc5616e96819370a517c743a68528a3280f3b8c665e398ea` | 590 |
+| `laboratorios/LAB-05_atraccion_local.py` | `196cb4fae90eb5cd27e884c8723e86ecdcab52f3e90c1605eecb754d25a61e12` | 590 |
+| `laboratorios/LAB-06_distancias_tipadas.py` | `6e686ba2b01c99ee1221734b651634c792d652dcfaa36a1920f87513d5905ada` | 590 |
+| `laboratorios/LAB-07_constante_G.py` | `4de4db8be2656fe3d8b2b0f4a14028c00fde91e38aad95b1c937721df5bb2ebc` | 590 |
+| `laboratorios/LAB-08_lambda_puro.py` | `ffa292b5839b5384f7ac1cf7d149595746134d0af5eda87975761694241167d7` | 590 |
+| `laboratorios/LAB-09_lambda_retorno_banco_declarado.py` | `5d85a6331a5a27674606938017fe0b104d67ac09ee3b438c1c3a587bd30f79d0` | 590 |
+| `laboratorios/LAB-10_separacion_G_Lambda.py` | `cd17d5277bdc2b0bf09b4ccf3dd94eb50c7292ed3bb8b841aa49e40ddbe5880a` | 590 |
+| `laboratorios/LAB-11_vacio_lambda.py` | `4e5a50bb270bf0a1f74b1a2774d3587bd55a0915e6e1ecddd8b275bd49037f54` | 590 |
+| `laboratorios/LAB-12_energia_oscura_dinamica.py` | `d5ed641673419add9cabd6e519a04a5adb2260d4f4a1812695ac50e4a7cb4da7` | 590 |
+| `laboratorios/LAB-13_transduccion_bidireccional.py` | `4eb8b2a64d733ce3927fba8e3b1b28a5d55e48bb5bacd05621ebda017bb5c7f5` | 590 |
+| `laboratorios/LAB-14_matriz_absorcion.py` | `0f8575a0e6bc9cf6d96d41126c1e918f08b64553f149255bf1234b886e322eb3` | 590 |
+| `laboratorios/LAB-15_banco_negativo_integral.py` | `a828ff509df8d30f1b75ca65d928938c0a4ad63b5f779dee25cc33ce3af4cf97` | 590 |
+| `laboratorios/LAB-16_salida_global.py` | `f3059cdc076c71d6bdc8743aa7fe9c95b1f71ed8b6be41500ad88d5018a85722` | 590 |
+| `laboratorios/MANIFIESTO_SHA256.txt` | `d477d72e9ca441de4c25e7fb35ff9bf59ffb647f4150967469918c115f251d08` | 3218 |
+| `laboratorios/README.md` | `437797df6610206adb95103ea06de1491732a6ae1bf366849085d2de939d2b26` | 12409 |
+| `laboratorios/catalogo_errores.csv` | `f87012dd09a109762076a2dfdf58b12344dae42bf00461fadc618f05baa11fc2` | 3224 |
+| `laboratorios/datos/banco_lambda_adversarial.csv` | `1c4d641b9d4c25d9753c7427ed4384173f1c893a9c39a5298093865fe487e5a6` | 1464 |
+| `laboratorios/datos/banco_negativo.csv` | `cd6fb057adeb64f663b49a6b50c877d5e8013e0b6cbbf6efbf8d6061624d9710` | 3399 |
+| `laboratorios/datos/banco_positivo.csv` | `984681464ad00d73a4d003ee3f60bcb00529ee0f389d5b8995dbb10461fe7172` | 2325 |
+| `laboratorios/datos/banco_transduccion.csv` | `3114ce501b3e4d82c377793ebd9807d9ecbbb320a7e94347a36108a5209f78ec` | 2581 |
+| `laboratorios/datos/bancos_observacionales_lambda.csv` | `87c2a2d238d3369e6bd1a7dc0ce0dbf73b131495074c41c37acea438599ba84a` | 1178 |
+| `laboratorios/datos/constantes.csv` | `88bdb01dc9b86f97a9d4da1d15e89dd645e3473fdfa68cd2b75843b71bb9bb8d` | 1703 |
+| `laboratorios/inicio.md` | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` | 0 |
+| `laboratorios/runner.py` | `3059f876c44f6a2065fe9d0b26dd43512f8c6bef998e0811c2e20af0d4ad64f6` | 633 |
+| `laboratorios/salida_esperada.txt` | `2798e03b44cdfb043d5de5790b5e307f43d51f69383f65e89ce808f6e5f45fcf` | 1624 |
+| `laboratorios/salida_obtenida.txt` | `2798e03b44cdfb043d5de5790b5e307f43d51f69383f65e89ce808f6e5f45fcf` | 1624 |
+| `laboratorios/sv_lab_core.py` | `f1fa69336ab224879adfec618c3625a793ed11055d35cc9ec9190f6dc3198e44` | 11439 |
+| `registros/EJECUCION_RUNNER_PASO4.md` | `f60f5a7e410ad7837c7e8e9cfec538ae3478d9347e27388bd43156744bda38ce` | 2578 |
+| `registros/REGISTRO_INTERNET_ARCHIVE.md` | `8672e591795a7cd0594f2064d87913f55ee6a747e3d4fefaef425b98a9824157` | 3610 |
+| `registros/campo-energia-masa-gravedad_zip.ots` | `2a1e7e52b81aacf4f635c778986187ba48599e2b60c5409d37f971099a778bf6` | 444 |
+| `registros/campo-energia-masa-gravedad_zip_signed.csig` | `7aa48054d6db189e9100102ef4be684b8bc30a5eb699b4c904047bc017ba0a1e` | 3127034 |
+| `registros/inicio.md` | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` | 0 |

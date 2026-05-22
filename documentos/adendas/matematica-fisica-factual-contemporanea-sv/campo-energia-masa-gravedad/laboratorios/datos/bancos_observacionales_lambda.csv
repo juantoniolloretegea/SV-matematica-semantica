@@ -1,0 +1,5 @@
+banco,descripcion,H0_km_s_Mpc,sigma_H0,Omega_Lambda,sigma_Omega_Lambda,unidad_H0,estado,fuente,dictamen,autoria
+B_SV_puro,dominio estructural puro; no usa H0 ni Omega_Lambda,,,,,,ESTRUCTURAL,T_obs SV de referencia,APTO_DOMINIO_PURO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+B_Planck18-baseΛCDM,banco observacional base LambdaCDM para retorno Λ_obs[B],67.4,0.5,0.685,0.007,km·s⁻¹·Mpc⁻¹,AUDITADO,"Planck Collaboration 2020, base ΛCDM",APTO_CON_BANCO,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+B_Planck18+BAO,combinación de contraste; no cierra si falta trazabilidad exacta de la combinación primaria,67.66,,0.6889,,km·s⁻¹·Mpc⁻¹,PENDIENTE_NO_CIERRE,combinación Planck+BAO pendiente de identificación primaria exacta,U_NO_CIERRE,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
+B_DESI-DR2,banco de tensión observacional y energía oscura dinámica; no produce cierre constitutivo SV,,,,,km·s⁻¹·Mpc⁻¹,PENDIENTE_NO_CIERRE,DESI DR2 / BAO según combinación declarada,PARCIAL_O_U_SEGUN_COMBINACION,Juan Antonio Lloret Egea | ORCID 0000-0002-6634-3351 | CC BY-NC-ND 4.0
