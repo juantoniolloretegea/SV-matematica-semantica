@@ -45,7 +45,7 @@ The metric quantification provided by the annexes yields a specific reading that
 
 - [0. Introducción](#0-introduccion)
 <details>
-<summary> [1. Estado del arte y estado de la cuestión](#1-estado-del-arte-y-estado-de-la-cuestion) </summary>
+<summary>1. Estado del arte y estado de la cuestión</summary>
 
 - [1.1. La afirmación contemporánea de una componente oscura](#11-la-afirmacion-contemporanea-de-una-componente-oscura)
 - [1.2. Cifras cosmológicas de referencia en ΛCDM](#12-cifras-cosmologicas-de-referencia-en-lambdacdm)
@@ -68,7 +68,7 @@ The metric quantification provided by the annexes yields a specific reading that
 - [7. Teorema de nulidad sustancial de la materia oscura](#7-teorema-de-nulidad-sustancial-de-la-materia-oscura)
 - [8. Constantes externas y disciplina de no interiorización](#8-constantes-externas-y-disciplina-de-no-interiorizacion)
 <details>
-<summary>[9. Bancos de contraste positivos y negativos y programa de laboratorios derivados](#9-bancos-de-contraste-positivos-y-negativos-y-programa-de-laboratorios-derivados)</summary>
+<summary>9. Bancos de contraste positivos y negativos y programa de laboratorios derivados</summary>
 
 - [9.1. Bancos observacionales positivos de retorno gravitatorio](#91-bancos-observacionales-positivos-de-retorno-gravitatorio)
 - [9.2. Bancos experimentales negativos de detección material](#92-bancos-experimentales-negativos-de-deteccion-material)
@@ -79,7 +79,7 @@ The metric quantification provided by the annexes yields a specific reading that
 - [10. Matriz de contraste con la ciencia contemporánea](#10-matriz-de-contraste-con-la-ciencia-contemporanea)
 - [11. Corolarios](#11-corolarios)
 <details>
-<summary>[12. Conclusión](#12-conclusion)</summary>
+<summary>12. Conclusión</summary>
 
 - [Totales derivados del Anexo II](#totales-derivados-del-anexo-ii)
 - [Tabla comparativa de cierre](#tabla-comparativa-de-cierre)
@@ -94,7 +94,7 @@ The metric quantification provided by the annexes yields a specific reading that
 
 - [13. Régimen de anexos y función de cierre](#13-regimen-de-anexos-y-funcion-de-cierre)
 <details>
-<summary>[Anexo I. Normas físico-formales de la densidad gravitatoria efectiva de sutura](#anexo-i-normas-fisico-formales-de-la-densidad-gravitatoria-efectiva-de-sutura)</summary>
+<summary> Anexo I. Normas físico-formales de la densidad gravitatoria efectiva de sutura</summary>
 
 - [AI.1. Objeto y alcance del anexo](#ai1-objeto-y-alcance-del-anexo)
 - [AI.2. No sustancialización: la sutura no es materia oscura renombrada](#ai2-no-sustancializacion-la-sutura-no-es-materia-oscura-renombrada)
@@ -123,7 +123,7 @@ The metric quantification provided by the annexes yields a specific reading that
 </details>
 
 <details>
-<summary>[Anexo II. Métricas, medidas y catálogo inicial de suturas gravitatorias efectivas](#anexo-ii-metricas-medidas-y-catalogo-inicial-de-suturas-gravitatorias-efectivas)</summary>
+<summary>Anexo II. Métricas, medidas y catálogo inicial de suturas gravitatorias efectivas</summary>
 
 - [AII.1. Objeto y alcance métrico del anexo](#aii1-objeto-y-alcance-metrico-del-anexo)
 - [AII.2. Dirección de dependencia: publicación principal, Anexo I y Anexo II](#aii2-direccion-de-dependencia-publicacion-principal-anexo-i-y-anexo-ii)
@@ -159,7 +159,7 @@ The metric quantification provided by the annexes yields a specific reading that
 </details>
 
 <details>
-<summary>[Bibliografía](#bibliografia)</summary>
+<summary>[ibliografía</summary>
 
 - [Referencias externas](#referencias-externas)
 - [Referencias internas del corpus del Sistema Vectorial SV](#referencias-internas-del-corpus-del-sistema-vectorial-sv)
