@@ -2,7 +2,7 @@
 
 ## Demostración formal de nulidad sustancial, densidad gravitatoria efectiva de sutura y contraste físico escalable
 
-![Portada — La materia oscura no existe como sustancia](../portada/portada.png)
+![Portada — La materia oscura no existe como sustancia](portada/portada.png)
 
 **Juan Antonio Lloret Egea** · ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) · Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) · IA eñ™ — La Biblia de la IA™ · ISSN [2695-6411](https://portal.issn.org/resource/ISSN/2695-6411) · Licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) · Madrid, 25 de mayo de 2026
 
