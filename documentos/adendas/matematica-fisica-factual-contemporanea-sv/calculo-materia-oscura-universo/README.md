@@ -159,7 +159,7 @@ The metric quantification provided by the annexes yields a specific reading that
 </details>
 
 <details>
-<summary>[ibliografía</summary>
+<summary>Bibliografía</summary>
 
 - [Referencias externas](#referencias-externas)
 - [Referencias internas del corpus del Sistema Vectorial SV](#referencias-internas-del-corpus-del-sistema-vectorial-sv)
