@@ -45,7 +45,7 @@ The metric quantification provided by the annexes yields a specific reading that
 
 - [0. Introducción](#0-introduccion)
 <details>
-<summary>[1. Estado del arte y estado de la cuestión](#1-estado-del-arte-y-estado-de-la-cuestion)</summary>
+<summary> [1. Estado del arte y estado de la cuestión](#1-estado-del-arte-y-estado-de-la-cuestion) </summary>
 
 - [1.1. La afirmación contemporánea de una componente oscura](#11-la-afirmacion-contemporanea-de-una-componente-oscura)
 - [1.2. Cifras cosmológicas de referencia en ΛCDM](#12-cifras-cosmologicas-de-referencia-en-lambdacdm)
