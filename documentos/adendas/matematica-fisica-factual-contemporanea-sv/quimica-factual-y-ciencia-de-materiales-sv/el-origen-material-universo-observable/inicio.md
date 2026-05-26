@@ -298,6 +298,8 @@ La tercera gobierna el régimen conjunto H–He:
 Estas fórmulas no sustituyen a los objetos físicos. Los ordenan. La física sigue entrando por hidrógeno, helio, plasma, Sol, espectro, tabla periódica, pares, aleaciones, agua, carbono, oxígeno, moléculas y vida. El cierre sólo se declara cuando la formulación vuelve a esos objetos sin alterar su sentido. Si el retorno falla, la tesis no queda cerrada en ese punto. Si el retorno se conserva, el régimen H–He queda formulado como primera organización material ordinaria del universo observable dentro del alcance declarado.
 
 
+
+[Esto es brújula, cuando la publicación acabe hay que cerrarla fuerte]
 Bibliografía interna del corpus SV
 
 Lloret Egea, J. A. (2026). Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.9c57c046
