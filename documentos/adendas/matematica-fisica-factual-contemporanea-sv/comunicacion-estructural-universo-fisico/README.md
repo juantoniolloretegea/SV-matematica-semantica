@@ -237,7 +237,7 @@ El programa **no afirma**:
 El programa **afirma**:
 
 - Imposibilidad estructural de comunicación física al unísono extremo a extremo del Universo físico real
-- [**Sostiene que las matemáticas codifican y decodifican el funcionamiento del universo realizado, pero no lo fundan como instancia exterior. Comparecen después de la primera distinguibilidad y quedan subordinadas al cierre rector**](La tesis final sostiene que las matemáticas codifican y decodifican el funcionamiento del universo realizado, pero no lo fundan como instancia exterior. Comparecen después de la primera distinguibilidad y quedan subordinadas al cierre rector.)**.
+- [**Sostiene que las matemáticas codifican y decodifican el funcionamiento del universo realizado, pero no lo fundan como instancia exterior. Comparecen después de la primera distinguibilidad y quedan subordinadas al cierre rector**](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/imperfeccion-preformal-y-espacio/imperfeccion-preformal-y-espacio.md#resumen)**.
 - Exclusividad operativa de la estructura matemática como sede de la comunicación coherente al unísono
 - La terna `(0, 1, U)` como lenguaje único del Universo físico real
 - La célula `(b², b)` con `b ≥ 3` sin cota superior como sede formal mínima
