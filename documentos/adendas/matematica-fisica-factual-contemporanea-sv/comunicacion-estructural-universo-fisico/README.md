@@ -19,7 +19,8 @@ Madrid, 27/05/2026
 
 ---
 
-Composición de la colección
+## Composición de la colección
+
 La colección se organiza como una secuencia de dependencia formal. Cada unidad desarrolla un nivel distinto del aparato: primero el suceso y su potencial; después el autogobierno topológico y la comunicación estructural entre observables; finalmente la arquitectura técnica de célula, inventario y tablero como desarrollo derivado.
 
 P1. Potencial de un suceso
