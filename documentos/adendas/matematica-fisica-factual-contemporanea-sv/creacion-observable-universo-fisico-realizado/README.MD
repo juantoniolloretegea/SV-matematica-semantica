@@ -1,4 +1,4 @@
-# Creación de observables del Universo físico realizado: nueve tramos, sutura observacional y régimen ciclo-distancial pleno - Versión de construcción V.1
+# Creación de observables del Universo físico realizado: nueve tramos, sutura observacional y régimen ciclo-distancial pleno - <sub>Versión de construcción V.1</sub>
 
 ---
 ![Portada](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/creacion-observable-universo-fisico-realizado/imagenes/portada.png)
