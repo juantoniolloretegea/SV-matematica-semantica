@@ -1,7 +1,7 @@
 # Creación de observables del Universo físico realizado: nueve tramos, sutura observacional y régimen ciclo-distancial pleno - Versión de construcción V.1
 
 ---
-
+![Portada](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/creacion-observable-universo-fisico-realizado/imagenes/portada.png)
 
 © 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/) | **DOI pendiente** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | [**Licencia CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 30/05/2026
 
