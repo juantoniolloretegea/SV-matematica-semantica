@@ -4,12 +4,15 @@
 
 ![Portada — Vida y clausura de los universos y sus observables](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/vida-clausura-universos-y-sus-observables/imagenes/portada.png)
 
-© 2026. Todos los derechos reservados. | [Juan Antonio Lloret Egea](https://orcid.org/0000-0002-6634-3351) | DOI [10.21428/39829d0b.b53ebe0a](https://doi.org/10.21428/39829d0b.b53ebe0a) | [ORCID: 0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 31/05/2026 |
+**© 2026. Todos los derechos reservados**. | **Autor**: [Juan Antonio Lloret Egea](https://orcid.org/0000-0002-6634-3351) | DOI [10.21428/39829d0b.b53ebe0a](https://doi.org/10.21428/39829d0b.b53ebe0a) | [ORCID: 0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia [CC BY-NC-ND 4.0]**(https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 31/05/2026 |
 
+---
 
 Advertencia. Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física y la Química, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
 
-*Warning. This publication is protected by CEDRO.Its application in the field of Physics and Chemistry, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.*
+*Warning. This publication is protected by CEDRO.Its application in the field of Physics and Chemistry, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.* 
+
+---
 
 
 
