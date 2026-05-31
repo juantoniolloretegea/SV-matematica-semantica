@@ -6,6 +6,13 @@
 
 © 2026. Todos los derechos reservados. | [Juan Antonio Lloret Egea](https://orcid.org/0000-0002-6634-3351) | DOI [10.21428/39829d0b.b53ebe0a](https://doi.org/10.21428/39829d0b.b53ebe0a) | [ORCID: 0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 31/05/2026 |
 
+
+Advertencia. Esta publicación está protegida por CEDRO y su aplicación en el campo de la Física y la Química, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y sujeto estrictamente al licenciamiento permitido.
+
+*Warning. This publication is protected by CEDRO.Its application in the field of Physics and Chemistry, as well as any form of exploitation, reproduction, or use by corporate entities, is strictly subject to the author's copyright and the terms of the license indicated; any reproduction, distribution, public communication, or transformation of this work requires authorization from the rightsholders, except as provided by law, and any commercial use without express written consent is prohibited and strictly subject to permitted licensing.*
+
+
+
 ## Resumen
 Se formula una teoría formal de vida y clausura de observables realizados. Parte de una distinción estricta entre vida biológica y vida formal de instancia: una persona, una especie, una estrella, una galaxia o un dominio-universo sólo comparecen cuando declaran dominio, frontera, identidad, soporte, traza, residual y retorno. La fórmula `𝓡VC_SV` se construye, se somete a prueba inversa contra bancos de contraste y se eleva finalmente al teorema de recursión de vida y clausura del observable realizado. **El resultado no identifica el Universo observable con el TODO/NADA, no atribuye edad física a la totalidad absoluta, no convierte Fourier en fundamento y conserva `U` cuando falta cierre suficiente sin contradicción material** (Fourier, 1822; Lloret Egea, 2026a, 2026b, 2026c, 2026d, 2026e).
 
