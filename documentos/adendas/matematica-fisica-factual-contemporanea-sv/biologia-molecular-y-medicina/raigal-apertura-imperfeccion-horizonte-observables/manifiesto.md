@@ -42,6 +42,37 @@ equivalentemente:
 
 Un observable en semiclausura raigal ha recorrido la mitad de su horizonte formal y conserva la mitad de su apertura vigente. El universo observable retornado, bajo la métrica ciclo-distancial ya publicada, aparece exactamente en esa condición: mitad recorrida y mitad restante. Esa coincidencia no debe leerse como prueba absoluta del raigal, sino como convergencia estructural fuerte entre edad de dominio, apertura vigente, clausura formal y transducción metrológica.
 
+La familia de transductores raigales no nace por enumeración libre. Debe derivarse de la forma general de transducción de observabilidad: dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza. La forma rectora es:
+
+`𝔛_Ξ^X(o,D)=𝓖★TrU(D)[H_Ξ(o,D)]`
+
+donde `X` designa el retorno transducido que se desea leer: tiempo, sucesos, masa, energía, calor, fibra, traza, clausura u otra magnitud de dominio justificada. En forma desarrollada:
+
+`𝔛_Ξ^X(o,D)=(Ω_D(o),M_D^X(o),F_D(o),I_D(o),C_D(o),B_D(o),Δ_Ξ^X(o),R_D^X(o),Tr_D(o))`
+
+La salida del transductor queda:
+
+`H_Ξ^X(o,D)=𝔛_Ξ^X[H_Ξ(o,D)]`
+
+Esta fórmula impide medir el raigal desnudo. Lo que se mide es el horizonte formal de retorno del observable cuando puede devolverse a una magnitud propia del dominio. Si falta dominio, unidad, frontera, identidad, canal, barrera, residual, retorno o traza, no hay cálculo raigal fuerte. La salida permanece en `U`, cae en rechazo o queda como lectura parcial según el residual.
+
+| Transductor | Retorno transducido | Unidad externa o entidad de dominio | Riesgo bloqueado |
+|---|---|---|---|
+| `𝔛_Ξ^t` | horizonte temporal transducido | segundos, días, años, ciclos declarados | convertir tiempo en fundamento soberano |
+| `𝔛_Ξ^n` | horizonte sucesual | número de sucesos admisibles | disfrazar cronología como sucesión absoluta |
+| `𝔛_Ξ^M` | masa retenida por frontera | kg, g, masa de dominio | identificar raigal con masa |
+| `𝔛_Ξ^E` | eficacia energética retornada | J, kcal, metabolismo, radiación, régimen energético | identificar raigal con energía |
+| `𝔛_Ξ^Q` | calor o reorganización térmica | J, K, calor liberado o absorbido | leer combustión como conversión limpia |
+| `𝔛_Ξ^F` | fibra o continuidad de clase | linaje, especie, descendencia, continuidad de dominio | confundir traza con vida o pertenencia plena |
+| `𝔛_Ξ^Tr` | traza tras clausura | fósil, ADN, documento, señal, resto químico | confundir resto con continuidad integral |
+| `𝔛_Ξ^Cl` | clausura efectiva | retorno perdido, fallo de dominio, cierre documentado | convertir horizonte en destino fatalista |
+
+La regla común es estricta:
+
+`𝔛_Ξ^X(o,D)=0 ⇔ Ω_D∧M_D^X∧F_D∧I_D∧C_D∧B_D∧Δ_Ξ^X∧R_D^X∧Tr_D` cierran sin contradicción material.
+
+Si el cierre es incompleto sin contradicción, el resultado es `U`. Si alguna condición constitutiva se contradice, la salida cae. La familia de transductores raigales conserva así doble fidelidad: al SV, porque no acepta cálculo sin dominio, residual y retorno; y a la ciencia contemporánea, porque devuelve el resultado en unidad, entidad o semántica reconocible por el dominio externo.
+
 La clausura efectiva exige una fórmula separada:
 
 `Cl_eff(o,D)=1 ⇔ Ret_D(o)=0 ∨ f_Ξ(o,D,M)+ρ_int(o,D)+ρ_ext(o,D) ≥ 1`
@@ -85,3 +116,11 @@ Así queda fijado el núcleo del raigal: **raíz de apertura, balance de arraigo
 **Criterio de caída:** la teoría falla si el raigal se identifica con masa, energía, sustancia, fibra, potencial, tiempo soberano o destino finalista. También falla si la transducción temporal se presenta como fundamento en lugar de retorno metrológico de dominio.
 
 **Criterio de banco:** la teoría empieza a pasar si ordena sin forzar los horizontes de observables heterogéneos —persona, ballena, tortuga gigante, árbol longevo, célula, especie, estrella y universo observable— mediante la misma regla: dominio, horizonte, fracción recorrida, apertura restante, residual interno, residual externo, retorno y clausura.
+
+## Control de esta versión
+
+La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva cinco restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad ya declarada; y la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza.
+
+La deuda viva queda visible. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar qué unidades son admisibles para cada transductor, qué residuales internos y externos se normalizan en cada dominio, y qué criterio separa horizonte formal, duración efectiva, semiclausura y clausura. Mientras esa prueba no se ejecute, el manifiesto no debe declararse teoría cerrada.
+
+El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
