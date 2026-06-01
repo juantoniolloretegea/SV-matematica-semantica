@@ -455,6 +455,144 @@ La regla de caída armónico-modal queda:
 Si falta soporte cíclico, la transformada no procede. Si hay soporte pero no retorno, `U`. Si se usa Fourier para fundar el raigal, rechazo. Si se usa la ecuación de onda para declarar vida, destino, resurrección o continuidad de instancia, rechazo.
 
 
+## Potencial de un suceso en raigales
+
+La incorporación del potencial exige una precisión de bisturí: el raigal no es potencial y no queda reducido a potencial. El potencial pertenece a un suceso admisible cuando existe lectura polar; el raigal pertenece al plano de arraigo abierto por la imperfección, anterior a potencial, masa, energía, fibra y señal constituidas. Por tanto, la forma correcta no es decir que `Ξ_SV` tiene potencial como si fuese una sustancia polarizada, sino que un suceso leído desde horizonte raigal puede devolver un potencial raigal cuando el dominio declara polos, frontera, residual, retorno y traza.
+
+Sea `e` un suceso admisible en un dominio `D`, con horizonte raigal declarado `H_Ξ(e,D)` y transductor raigal compatible. Se define la lectura polar raigal del suceso como:
+
+`Π_pol^{Ξ,D}(e)=(μ_{Ξ,D}(e),λ_{Ξ,D}(e))`
+
+donde `μ_{Ξ,D}(e)` designa el polo de apertura-retorno vigente del suceso bajo horizonte raigal, y `λ_{Ξ,D}(e)` designa el polo de consumo, clausura o presión residual que se opone a esa apertura dentro del dominio. Ninguno de los dos polos es masa, energía, tiempo, fibra, vida biológica ni campo físico. Son polos de lectura estructural del suceso cuando el horizonte raigal ya ha sido admitido.
+
+El potencial raigal del suceso queda definido por:
+
+`P_{Ξ,D}(e)=μ_{Ξ,D}(e)−λ_{Ξ,D}(e) [USP_SV^{Ξ,D}]`
+
+y la intensidad polar raigal por:
+
+`I_{Ξ,D}(e)=μ_{Ξ,D}(e)+λ_{Ξ,D}(e) [USP_SV^{Ξ,D}]`
+
+`USP_SV^{Ξ,D}` es la especialización raigal de la unidad tipada de separación polar del suceso. No es unidad SI, no es kilogramo, no es julio, no es segundo y no es partícula de raigal. Es unidad estructural interna de separación polar bajo dominio raigal declarado. Si el dominio exige retorno metrológico externo, la salida debe pasar después por `𝔛_Ξ^X` y por la unidad de dominio correspondiente.
+
+La admisibilidad local se formula así:
+
+`Adm_{PΞ}^D(e)=1 ⇔ e∈𝓔_D^adm ∧ H_Ξ(e,D) declarado ∧ Π_pol^{Ξ,D}(e) definido ∧ R_{PΞ,D,F}(e)=0`
+
+Si hay contradicción material en dominio, horizonte, frontera, identidad, lectura polar, residual, retorno o traza, la salida es rechazo. Si falta determinación suficiente sin contradicción material, la salida es `U`. La escritura `μ−λ` no basta: sólo hay potencial raigal si el residual cierra.
+
+En horizonte normalizado, la lectura mínima puede tomar la forma:
+
+`μ_{Ξ,D}^{hor}(e)=α_Ξ(e,D,M)`
+
+`λ_{Ξ,D}^{hor}(e)=f_Ξ(e,D,M)`
+
+y entonces:
+
+`P_{Ξ,D}^{hor}(e)=α_Ξ(e,D,M)−f_Ξ(e,D,M)`
+
+Si el dominio conserva la normalización `α_Ξ+f_Ξ=1`, queda:
+
+`P_{Ξ,D}^{hor}(e)=1−2f_Ξ(e,D,M)=2α_Ξ(e,D,M)−1`
+
+Esta forma permite leer tres regiones sin introducir destino. Si `P_{Ξ,D}^{hor}>0`, predomina apertura raigal vigente; si `P_{Ξ,D}^{hor}=0`, hay equilibrio de horizonte o semiclausura formal; si `P_{Ξ,D}^{hor}<0`, predomina recorrido consumido. La igualdad `P_{Ξ,D}^{hor}=0` no equivale a origen, vida, muerte ni clausura. Sólo indica equilibrio entre apertura restante y horizonte recorrido bajo esa métrica.
+
+Cuando se incorporan residuales internos y externos, la lectura efectiva debe separarse de la lectura pura de horizonte:
+
+`λ_{Ξ,D}^{eff}(e)=f_Ξ(e,D,M)+ρ_int(e,D)+ρ_ext(e,D)`
+
+`P_{Ξ,D}^{eff}(e)=α_Ξ(e,D,M)−[f_Ξ(e,D,M)+ρ_int(e,D)+ρ_ext(e,D)]`
+
+`I_{Ξ,D}^{eff}(e)=α_Ξ(e,D,M)+f_Ξ(e,D,M)+ρ_int(e,D)+ρ_ext(e,D)`
+
+Esta forma no sustituye a la fórmula de clausura efectiva. Mide presión polar efectiva sobre la apertura; la clausura requiere comprobar caída de retorno o consumo de apertura por la regla específica de clausura. Así se evita confundir semiclausura, presión residual, agotamiento y muerte formal del observable.
+
+La diferencia de potencial raigal entre sucesos comparables queda:
+
+`ΔP_{Ξ,D}(e_i,e_j)=P_{Ξ,D}(e_j)−P_{Ξ,D}(e_i)`
+
+y, desarrollada por polos:
+
+`ΔP_{Ξ,D}(e_i,e_j)=[μ_{Ξ,D}(e_j)−μ_{Ξ,D}(e_i)]−[λ_{Ξ,D}(e_j)−λ_{Ξ,D}(e_i)]`
+
+La comparación sólo queda admitida si ambos sucesos pertenecen al dominio o han sido transducidos hacia un dominio común, si conservan traza append-only, si la identidad o diferencia operativa no queda en `U`, si la lectura polar es homogénea y si el residual comparativo cierra:
+
+`Adm_{ΔPΞ}^D(e_i,e_j)=1 ⇔ R_{ΔPΞ,D,F}(e_i,e_j)=0`
+
+Si dos sucesos tienen el mismo potencial raigal, no por ello son el mismo suceso. La identidad exige familia de dominio, imagen o frame cuando proceda, distancia factual fibrosa nula, traza de identidad, residual de identidad y retorno. La igualdad de potencial sólo informa de una dimensión polar; no sustituye la identidad del observable.
+
+Cuando el banco trabaja con unidades de horizonte raigal transducido, puede introducirse la notación operativa:
+
+`URΞ^{D,M}`
+
+donde `1 URΞ^{D,M}` significa una unidad de horizonte raigal devuelta por la métrica `M` del dominio `D`. No es un nuevo primitivo físico. Si `M=años`, la unidad se lee como unidad anual de horizonte raigal transducido; si `M=sucesos`, como unidad sucesual de horizonte; si `M=ciclos`, como unidad de ciclo declarado; si `M=USP_SV^{Ξ,D}`, como unidad interna de separación polar raigal. La frase “raigales” debe leerse en este sentido: unidades retornadas de horizonte o de separación polar, nunca sustancia oculta.
+
+La forma discreta del potencial raigal puede escribirse por conteo tipado:
+
+`P_{Ξ,tipo}(e)=N_{apertura}^{Ξ,tipo}(e)−N_{clausura}^{Ξ,tipo}(e) [USP_SV^{Ξ,tipo}]`
+
+`I_{Ξ,tipo}(e)=N_{apertura}^{Ξ,tipo}(e)+N_{clausura}^{Ξ,tipo}(e) [USP_SV^{Ξ,tipo}]`
+
+donde `N_{apertura}^{Ξ,tipo}` cuenta parámetros del soporte activo que cierran a favor de apertura-retorno, y `N_{clausura}^{Ξ,tipo}` cuenta parámetros que cierran a favor de consumo, pérdida de retorno, clausura o residual declarado. Las posiciones en `U` no se convierten en número ni se reparten por promedio: permanecen como indeterminación honesta o como residual de banco.
+
+Sobre trayectoria raigal compatible:
+
+`Γ_Ξ=(e_0,e_1,...,e_m)`
+
+la derivada de potencial raigal queda:
+
+`Δ_{ν_j}P_{Ξ,D}=P_{Ξ,D}(e_{j+1})−P_{Ξ,D}(e_j)`
+
+y, si existe peso factual compatible `ω_Ξ(ν_j)>0`:
+
+`𝔇_Γ^ΞP_{Ξ,D}(j)=[P_{Ξ,D}(e_{j+1})−P_{Ξ,D}(e_j)]/ω_Ξ(ν_j)`
+
+La acumulación firmada de variación conserva el saldo:
+
+`Σ_{j=0}^{m−1}Δ_{ν_j}P_{Ξ,D}=P_{Ξ,D}(e_m)−P_{Ξ,D}(e_0)`
+
+La longitud factual recorrida del potencial raigal conserva el recorrido:
+
+`L_{PΞ}^SV(Γ_Ξ)=Σ_{j=0}^{m−1}|P_{Ξ,D}(e_{j+1})−P_{Ξ,D}(e_j)| [USP_SV^{Ξ,D}]`
+
+El defecto factual de recorrido queda:
+
+`Def_{PΞ}^SV(Γ_Ξ)=L_{PΞ}^SV(Γ_Ξ)−|P_{Ξ,D}(e_m)−P_{Ξ,D}(e_0)| [USP_SV^{Ξ,D}]`
+
+Si el defecto es positivo, la trayectoria ha consumido, recuperado, oscilado o reconfigurado potencial raigal que no aparece en los extremos. Esto será importante en bancos de especies, árboles longevos, organismos, estrellas o civilizaciones: dos casos pueden tener igual saldo de frontera y distinto recorrido de potencial.
+
+La TPA del potencial raigal se expresa mediante puntos:
+
+`P_j^{PΞ}=(ε_j,P_{Ξ,D}(e_j))`
+
+La carga polar acumulada firmada queda:
+
+`A_{TPA,PΞ}^{firmada}=Σ_{j=0}^{m−1}[(P_{Ξ,D}(e_j)+P_{Ξ,D}(e_{j+1}))/2]·Δε_j [USP_SV^{Ξ,D}·activación]`
+
+y la carga polar acumulada sin cancelación queda:
+
+`A_{TPA,PΞ}^{carga}=Σ_{j=0}^{m−1}[(|P_{Ξ,D}(e_j)|+|P_{Ξ,D}(e_{j+1})|)/2]·Δε_j [USP_SV^{Ξ,D}·activación]`
+
+La primera conserva orientación; la segunda conserva carga sostenida. Si la carga firmada se anula, no se declara ausencia de potencial: se comprueba la carga absoluta, el recorrido, el residual y la traza.
+
+La transducción sectorial del potencial raigal queda subordinada a la familia `𝔛_Ξ`. Puede escribirse:
+
+`H_Ξ(e,D) → Π_pol^{Ξ,D}(e) → P_{Ξ,D}(e) → 𝔛_Ξ^X → salida_X`
+
+donde `X` puede ser tiempo, sucesos, masa, energía, calor, fibra, traza, clausura, señal, régimen térmico, cantidad de entidad o expresión documental, siempre que el dominio lo justifique. La salida energética, electromagnética, térmica o biológica no convierte el potencial raigal en energía, voltaje, calor o vida. Sólo declara que una separación polar raigal del suceso ha retornado por una magnitud de dominio.
+
+La regla de banco queda ampliada:
+
+`observable | dominio | suceso e | H_Ξ(e,D) | Π_pol^{Ξ,D}(e) | μ_Ξ | λ_Ξ | P_{Ξ,D} | I_{Ξ,D} | unidad USP/URΞ | transductor | valor recorrido | horizonte | f_Ξ | α_Ξ | ΔP_Ξ | L_{PΞ} | Def_{PΞ} | ρ_int | ρ_ext | retorno | traza | dictamen`
+
+Esta fila permite calcular el potencial de un suceso en raigales sin confundirlo con masa, energía, duración o destino. En un árbol longevo, el potencial raigal podrá leer apertura-retorno frente a consumo de horizonte, enfermedad, incendio o pérdida de soporte. En una ballena, podrá leer horizonte biológico frente a desgaste, entorno, alimentación, reproducción o daño. En una tortuga gigante, podrá leer persistencia de apertura frente a residual interno y externo. En una especie extinguida, podrá separar potencial raigal de individuos, potencial de la especie, traza fósil, fibra genética y clausura del retorno propio. En una protocivilización, podrá leer energía, población, soporte material, escritura, arquitectura, canal, colapso y traza sin convertir la cultura material restante en continuidad viva.
+
+La regla de caída es estricta:
+
+`P_{Ξ,D} APTO ⇔ suceso admisible ∧ horizonte raigal declarado ∧ lectura polar raigal definida ∧ unidad interna o transducida ∧ residual local cerrado ∧ retorno ∧ traza ∧ no identificación del raigal con potencial`
+
+Si falta condición sin contradicción, `U`. Si se identifica `Ξ_SV` con potencial, si se usa `P_{Ξ,D}` para declarar destino, si se convierten residuales en números por promedio, si se ignora traza o si se presenta una transducción sectorial como fundamento, rechazo.
+
 La clausura efectiva exige una fórmula separada:
 
 `Cl_eff(o,D)=1 ⇔ Ret_D(o)=0 ∨ f_Ξ(o,D,M)+ρ_int(o,D)+ρ_ext(o,D) ≥ 1`
@@ -499,11 +637,47 @@ Así queda fijado el núcleo del raigal: **raíz de apertura, balance de arraigo
 
 **Criterio de banco:** la teoría empieza a pasar si ordena sin forzar los horizontes de observables heterogéneos —persona, ballena, tortuga gigante, árbol longevo, célula, especie, estrella y universo observable— mediante la misma regla: dominio, horizonte, fracción recorrida, apertura restante, residual interno, residual externo, retorno y clausura.
 
+## Bibliografía de trabajo del manifiesto
+
+Lloret Egea, J. A. (2026). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/k3q1d-fjj45
+
+Lloret Egea, J. A. (2026). *Imperfección preformal y espacio: ε₋₀, primera distinguibilidad y dominio estructural completo de separación factual recorrible*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.9c57c046
+
+Lloret Egea, J. A. (2026). *Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.67195860
+
+Lloret Egea, J. A. (2026). *Conjunto matemático unificado del cambio factual, ciclos, medición factual y trayectorias poligonales de activación en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.2b3c9808
+
+Lloret Egea, J. A. (2026). *Primitivos metrológicos del Sistema Vectorial SV: instanciaciones contingentes de las constantes fundacionales del Sistema Internacional, justificación algebraica y tabla de equivalencias factuales*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.c8ec692e
+
+Lloret Egea, J. A. (2026). *Proyecciones biológicas de la fibra: Teoría de la Creación de Observables del Universo, transducción metrológica, mutación, enfermedad, cáncer y clausura factual*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.1ab33893
+
+Lloret Egea, J. A. (2026). *Edades relativas del universo observable y de sus objetos físicos*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.b56ed853
+
+Lloret Egea, J. A. (2026). *Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.41afec0f
+
+Lloret Egea, J. A. (2026). *Fórmula de Campo Unificado 𝓕𝓐 = d𝓐 + 𝓐 ∧ 𝓐 con 𝓐 = ω ⊕ A. Lo que Einstein y Bohr discutían: doble proyección de un aparato más profundo*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/gxfv3-qjj64
+
+Lloret Egea, J. A. (2026). *Génesis del hidrógeno y teoría de la persistencia energética estructural: masa, frontera, residual e identidad física bajo compatibilidad operatoria universal*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/qq4q9-sd847
+
+Lloret Egea, J. A. (2026). *El origen material ordinario del Universo observable y la relación entre física contemporánea y el SV en el tránsito por dominios*. IA eñ™ — La Biblia de la IA™.
+
+Lloret Egea, J. A. (2026). *Autogobierno topológico y comunicación estructural de observables en el Universo físico realizado*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.8431307a
+
+Lloret Egea, J. A. (2026). *Vida y clausura de los universos y sus observables. Humanos, especies, estrellas y dominios recursivos bajo circularidad no agotada y lectura armónica por Fourier*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.b53ebe0a
+
+Lloret Egea, J. A. (2026). *Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/w1kb2-m6k81
+
+Lloret Egea, J. A. (2026). *Fourier factual y ecuación de onda electromagnética en el Sistema Vectorial SV: desarrollo cíclico, transformada modal y propagación sobre ciclo y trayectoria poligonal*. IA eñ™ — La Biblia de la IA™. https://www.itvia.online/pub/fourier-factual-y-ecuacion-de-onda-electromagnetica-en-el-sistema-vectorial-sv-desarrollo-ciclico-transformada-modal-y-propagacion-sobre-ciclo-y-trayectoria-poligonal
+
+Lloret Egea, J. A. (2026). *Potencial de un suceso: comunicación estructural en el Universo físico realizado, equipotencialidad, diferencia polar y métrica*. IA eñ™ — La Biblia de la IA™. https://www.itvia.online/pub/potencial-de-un-suceso-comunicacion-estructural-en-el-universo-fisico-realizado-equipotencialidad-diferencia-polar-y-metrica
+
+
 ## Control adversarial de esta versión
 
-La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva ocho restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad o una distribución ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; la capa operatoria sólo especializa operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual; y la capa armónico-modal no convierte Fourier, la transformada modal, el balance tipo Parseval, el residual de borde ni la ecuación de onda en fundamentos del raigal.
+La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva nueve restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad o una distribución ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; la capa operatoria sólo especializa operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual; la capa armónico-modal no convierte Fourier, la transformada modal, el balance tipo Parseval, el residual de borde ni la ecuación de onda en fundamentos del raigal; y la capa de potencial raigal no identifica `Ξ_SV` con potencial, sino que define el potencial de un suceso leído bajo horizonte raigal, lectura polar, residual, unidad tipada, retorno y traza.
 
 La incorporación armónico-modal pasa porque no sustituye el horizonte raigal por espectro ni por onda. `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la forma propagativa `δ_ξ²q_Ξ/(Δξ)²=v_Ξ²Δ_Γq_Ξ/(Δℓ)²` operan sólo sobre magnitudes retornadas del horizonte, no sobre `Ξ_SV` desnudo. La abscisa `ξ` permanece como ciclo medido en `UE_MFC`, no como tiempo soberano. La extensión `Δℓ` permanece como escala factual declarada en `UFE`, no como geometría externa soberana. La velocidad efectiva `v_Ξ` sólo entra cuando el dominio declara propagación, y no puede heredarse por analogía desde el electromagnetismo sin residual y retorno.
+La incorporación del potencial de un suceso en raigales pasa porque mantiene la prevalencia correcta. El potencial no se sitúa antes del raigal ni se identifica con él; aparece sólo cuando un suceso admisible recibe lectura polar bajo horizonte raigal. `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal operan sobre sucesos, trayectorias y magnitudes retornadas, no sobre `Ξ_SV` desnudo. La especialización `USP_SV^{Ξ,D}` queda como unidad interna de separación polar; `URΞ^{D,M}` queda como unidad operativa de horizonte transducido, no como nuevo primitivo físico.
 
 La incorporación metrológica continúa pasando porque no fuerza una nueva unidad raigal. `Ξ_SV` no recibe kilogramo, julio, kelvin, mol, segundo o metro como identidad propia. La metrología sólo gobierna retornos: `UE_MFC` para ciclo medido o duración transducida, `UFE` para extensión y frontera, `UFM` para masa, `UFC` para corriente o carga cuando el dominio lo exija, `UFT` para temperatura, `UFCE` para cantidad de entidad, y formas derivadas para energía, potencia, presión, entropía o masa molar. La candela permanece diferida o referida al SI en dominios de fotometría, sin entrar como primitivo raigal.
 
@@ -513,4 +687,4 @@ La deuda viva queda visible. Falta banco material de contraste con árbol longev
 
 Falta también una prueba específica de la capa armónico-modal en bancos no electromagnéticos. En el documento de Fourier factual, el caso director ED-EM-01 opera sobre electromagnetismo factual, célula `SV(3,9)`, modos cíclicos, balance modal, residual de borde y ecuación factual de onda. Para el raigal, esa arquitectura sólo puede trasladarse como forma de lectura si el banco declara soporte cíclico, magnitud retornada, unidad, frontera y residual. Una especie, una civilización o un árbol no reciben automáticamente ecuación de onda; sólo la recibirían si su dominio admitiera propagación factual en sentido declarado. En caso contrario, la lectura armónica puede quedar limitada a modos, residual y balance, o caer en `U`.
 
-El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la ecuación propagativa forman la capa armónico-modal y de propagación cuando el dominio lo permite; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
+El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la ecuación propagativa forman la capa armónico-modal y de propagación cuando el dominio lo permite; `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal forman la capa polar-eventiva; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
