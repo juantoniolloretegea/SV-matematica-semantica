@@ -73,6 +73,47 @@ La regla común es estricta:
 
 Si el cierre es incompleto sin contradicción, el resultado es `U`. Si alguna condición constitutiva se contradice, la salida cae. La familia de transductores raigales conserva así doble fidelidad: al SV, porque no acepta cálculo sin dominio, residual y retorno; y a la ciencia contemporánea, porque devuelve el resultado en unidad, entidad o semántica reconocible por el dominio externo.
 
+## Articulación metrológica de los transductores raigales
+
+La familia `𝔛_Ξ` no puede operar sin disciplina metrológica. El horizonte raigal formal `H_Ξ(o,D)` sólo se vuelve contrastable cuando un transductor devuelve su lectura a una magnitud, unidad o entidad de dominio. Esa devolución debe respetar los primitivos metrológicos del SV y su delimitación negativa: cada unidad es una instanciación contingente compatible con el Sistema Internacional, no una verdad constitutiva del raigal ni una importación de la teoría física de la que procede su constante ancla.
+
+La regla de base queda fijada así:
+
+`H_Ξ^X(o,D)=𝔛_Ξ^X[H_Ξ(o,D)] → unidad_SV ↔ unidad_externa`
+
+La flecha no significa que el raigal sea tiempo, longitud, masa, corriente, temperatura, cantidad de entidad, energía o calor. Significa que una proyección del horizonte raigal, bajo dominio declarado, puede retornar por una unidad reconocible. Si el retorno exige unidad física y no existe unidad, el cálculo queda conceptual y no alcanza banco fuerte. Si el retorno tiene unidad pero carece de frontera, identidad, canal, residual, retorno o traza, permanece en `U` o cae según contradicción.
+
+| Retorno raigal | Transductor | Primitivo SV o forma derivada | Unidad externa | Delimitación negativa |
+|---|---|---|---|---|
+| Horizonte temporal transducido | `𝔛_Ξ^t` | `UE_MFC` | segundo, día, año, ciclo declarado | no introduce tiempo soberano |
+| Extensión, frontera o distancia | `𝔛_Ξ^L` | `UFE` | m, cm, mm, km | no introduce geometría diferencial ni relatividad como fundamento |
+| Masa retenida por frontera | `𝔛_Ξ^M` | `UFM` | kg, g, mg | no identifica raigal con masa ni importa mecánica cuántica por usar `h` como ancla |
+| Corriente, carga o canal eléctrico | `𝔛_Ξ^I` | `UFC` | A, C, señal eléctrica de dominio | no importa electrodinámica cuántica ni reduce señal a carga |
+| Temperatura o régimen térmico | `𝔛_Ξ^Θ` | `UFT` | K, °C convertida a K | no importa mecánica estadística ni convierte `U` en temperatura |
+| Cantidad de entidad | `𝔛_Ξ^N` | `UFCE` | mol, entidades, moléculas, células, copias si el dominio lo justifica | no importa química molecular ni convierte conteo en sustancia |
+| Energía retornada | `𝔛_Ξ^E` | `UFM·UFE²·UE_MFC⁻²` | J, kcal, energía de dominio | no identifica raigal con energía |
+| Potencia o tasa de retorno energético | `𝔛_Ξ^P` | `UFM·UFE²·UE_MFC⁻³` | W, J/s, potencia metabólica o estelar | no convierte tasa en causa soberana |
+| Calor o reorganización térmica | `𝔛_Ξ^Q` | `UFM·UFE²·UE_MFC⁻²` y, cuando proceda, `UFT` | J, K, calor liberado o absorbido | no lee combustión como conversión limpia ni clausura residual |
+| Presión, carga mecánica o tensión de dominio | `𝔛_Ξ^Π` | `UFM·UFE⁻¹·UE_MFC⁻²` | Pa, N/m², presión de dominio | no reduce frontera a magnitud mecánica |
+| Fibra, linaje o continuidad de clase | `𝔛_Ξ^Fib` | unidad de dominio; si hay conteo material, `UFCE` o entidades | individuos, generaciones, linaje, especie, descendencia | no confunde traza con vida ni pertenencia con identidad completa |
+| Traza tras clausura | `𝔛_Ξ^Tr` | unidad documental, genética, física o química de dominio | fósil, ADN, hash, documento, señal, resto químico | no confunde resto con continuidad integral |
+| Clausura efectiva | `𝔛_Ξ^Cl` | dictamen de retorno; unidad del dominio si existe | pérdida de retorno, fecha, suceso, fallo funcional documentado | no convierte horizonte formal en destino fatalista |
+
+El uso de `UE_MFC`, `UFE`, `UFM`, `UFC`, `UFT` y `UFCE` no convierte al raigal en magnitud física directa. Permite expresar sus retornos cuando el dominio ya ha proyectado una magnitud. Por eso `𝔛_Ξ^t` no mide el ser del raigal en tiempo; devuelve duración transducida de horizonte. `𝔛_Ξ^M` no mide sustancia raigal; devuelve masa retenida por frontera. `𝔛_Ξ^E` no mide energía raigal; devuelve eficacia energética retornada. `𝔛_Ξ^N` no mide esencia de vida; devuelve número de entidades, células, moléculas, copias o individuos cuando el dominio lo justifica.
+
+Las unidades derivadas se admiten sólo por composición de primitivos ya declarados. La energía retorna como `UFM·UFE²·UE_MFC⁻²`; la potencia como `UFM·UFE²·UE_MFC⁻³`; la presión como `UFM·UFE⁻¹·UE_MFC⁻²`; la entropía física como `UFM·UFE²·UE_MFC⁻²·UFT⁻¹`; la masa molar como `UFM·UFCE⁻¹`. Estas formas no amplían el raigal: sólo fijan cómo una proyección de dominio vuelve a ciencia contemporánea con unidad verificable.
+
+La candela queda fuera del núcleo raigal. Si una aplicación exige fotometría, luminosidad o respuesta visual, podrá referirse al SI o al dominio físico correspondiente, pero no debe elevar `K_cd` a primitivo raigal. El raigal no se mide por percepción luminosa humana ni por eficacia psicofísica.
+
+La fila fuerte de banco queda:
+
+`observable | dominio | H_Ξ(o,D) | transductor 𝔛_Ξ^X | unidad SV | unidad externa | valor recorrido m_D^X | horizonte H_Ξ^X | f_Ξ | α_Ξ | ρ_int | ρ_ext | retorno | traza | dictamen`
+
+Esta fila impone el mismo criterio a una persona, una tortuga gigante, una ballena, un árbol longevo, una célula, una especie extinguida, una estrella o el universo observable. Si el dominio devuelve años, se usa `𝔛_Ξ^t` bajo `UE_MFC` y retorno externo temporal. Si devuelve masa, se usa `𝔛_Ξ^M` bajo `UFM`. Si devuelve metabolismo, combustión, radiación o calor, se usan `𝔛_Ξ^E`, `𝔛_Ξ^P`, `𝔛_Ξ^Q` y, cuando proceda, `𝔛_Ξ^Θ`. Si devuelve población, células, moléculas o copias, se usa `𝔛_Ξ^N` o unidad discreta de dominio. Si devuelve extinción, documento, fósil, señal o memoria, se usa `𝔛_Ξ^Tr` y no se declara continuidad viva salvo retorno propio del dominio.
+
+La regla adversarial es estricta: sin unidad no hay banco metrológico; sin dominio no hay transductor; sin residual no hay dictamen; sin retorno externo no hay contraste; sin traza no hay cierre fuerte. El cálculo de raigales sólo empieza cuando la raíz formal de apertura se ha devuelto a una magnitud de dominio sin perder su delimitación negativa.
+
+
 La clausura efectiva exige una fórmula separada:
 
 `Cl_eff(o,D)=1 ⇔ Ret_D(o)=0 ∨ f_Ξ(o,D,M)+ρ_int(o,D)+ρ_ext(o,D) ≥ 1`
@@ -119,8 +160,10 @@ Así queda fijado el núcleo del raigal: **raíz de apertura, balance de arraigo
 
 ## Control de esta versión
 
-La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva cinco restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad ya declarada; y la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza.
+La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva seis restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; y la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla.
 
-La deuda viva queda visible. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar qué unidades son admisibles para cada transductor, qué residuales internos y externos se normalizan en cada dominio, y qué criterio separa horizonte formal, duración efectiva, semiclausura y clausura. Mientras esa prueba no se ejecute, el manifiesto no debe declararse teoría cerrada.
+La incorporación metrológica pasa porque no fuerza una nueva unidad raigal. `Ξ_SV` no recibe kilogramo, julio, kelvin, mol, segundo o metro como identidad propia. La metrología sólo gobierna retornos: `UE_MFC` para tiempo transducido, `UFE` para extensión y frontera, `UFM` para masa, `UFC` para corriente o carga cuando el dominio lo exija, `UFT` para temperatura, `UFCE` para cantidad de entidad, y formas derivadas para energía, potencia, presión, entropía o masa molar. La candela permanece diferida o referida al SI en dominios de fotometría, sin entrar como primitivo raigal.
 
-El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
+La deuda viva queda visible. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar para cada banco la unidad externa elegida, su primitivo SV correspondiente, el valor recorrido, el horizonte total, la fracción recorrida `f_Ξ`, la apertura restante `α_Ξ`, los residuales internos y externos, el retorno externo y la traza. Falta decidir qué dominios admiten año como retorno suficiente, cuáles exigen número de sucesos, cuáles requieren masa, energía, temperatura, cantidad de entidad o traza documental, y cuáles deben permanecer en `U`.
+
+El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
