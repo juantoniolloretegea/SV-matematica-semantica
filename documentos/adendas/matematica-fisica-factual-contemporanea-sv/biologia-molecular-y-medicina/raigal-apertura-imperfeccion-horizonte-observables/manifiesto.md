@@ -327,6 +327,134 @@ La regla de caída operatoria queda:
 Si falta una condición sin contradicción, `U`. Si se identifica el operador con fundamento del raigal, rechazo.
 
 
+## Articulación armónico-modal y propagativa del horizonte raigal
+
+La capa operatoria anterior permite derivar, acumular, recorrer, fronterizar y reconfigurar lecturas del horizonte raigal. La publicación sobre Fourier factual y ecuación de onda electromagnética añade una precisión decisiva: cuando la lectura del horizonte se distribuye sobre un soporte cíclico finito, puede analizarse por modos sin convertir Fourier en fundamento, sin introducir tiempo soberano y sin absorber el raigal en campo electromagnético. Fourier factual no crea el raigal; sólo permite leer una distribución ya declarada de apertura, retorno, señal, energía, calor, traza o residual sobre una célula, ciclo o trayectoria poligonal compatible.
+
+La condición de entrada es estricta. Sea `q_Ξ` una magnitud retornada del horizonte raigal sobre un soporte cíclico declarado, por ejemplo apertura restante, fracción recorrida, energía retornada, calor, señal, masa retenida por frontera, traza o residual. Sólo si existe dominio `D`, soporte cíclico, unidad o entidad de retorno, frontera, residual, retorno y traza, procede la lectura modal:
+
+`q_Ξ={q_i^Ξ}_{i=1}^9`
+
+con ángulos canónicos:
+
+`θ_i=2π(i−1)/9`
+
+La lectura cíclico-modal raigal se define, para `m=1,2,3,4`, por:
+
+`α_m^Ξ[q]=2/9·Σ_{i=1}^9 q_i^Ξ cos(mθ_i)`
+
+`β_m^Ξ[q]=2/9·Σ_{i=1}^9 q_i^Ξ sin(mθ_i)`
+
+`M_m^Ξ[q]=sqrt((α_m^Ξ[q])²+(β_m^Ξ[q])²)`
+
+y el fondo medio:
+
+`q̄_Ξ=1/9·Σ_{i=1}^9 q_i^Ξ`
+
+El desarrollo cíclico factual del horizonte queda:
+
+`q_i^Ξ=q̄_Ξ+Σ_{m=1}^4(α_m^Ξ[q]cos(mθ_i)+β_m^Ξ[q]sin(mθ_i))`
+
+La transformada modal raigal es:
+
+`𝒯_mf^Ξ[q]=(q̄_Ξ,α_1^Ξ,β_1^Ξ,α_2^Ξ,β_2^Ξ,α_3^Ξ,β_3^Ξ,α_4^Ξ,β_4^Ξ)`
+
+Esta transformada no sustituye al transductor `𝔛_Ξ^X`. Opera después de él o sobre una magnitud que ya haya sido devuelta al dominio. Su función es descomponer la distribución cíclica del retorno: fondo, sesgo, axialidad, armónicos altos, mezcla modal y concentración de borde. Si el banco no tiene soporte cíclico legítimo, la lectura modal no procede.
+
+Para reconstrucción truncada de orden `K`, se define:
+
+`q_i^{Ξ,[K]}=q̄_Ξ+Σ_{m=1}^K(α_m^Ξ[q]cos(mθ_i)+β_m^Ξ[q]sin(mθ_i))`
+
+y el residual modal puntual:
+
+`R_i^{Ξ,[K]}[q]=q_i^Ξ−q_i^{Ξ,[K]}`
+
+La identidad de balance modal raigal queda:
+
+`𝒬_Ξ[q]=Σ_{i=1}^9(q_i^Ξ)²=9q̄_Ξ²+9/2·Σ_{m=1}^4((α_m^Ξ[q])²+(β_m^Ξ[q])²)`
+
+Para reconstrucción truncada:
+
+`𝒬_Ξ^{[K]}[q]=9q̄_Ξ²+9/2·Σ_{m=1}^K(M_m^Ξ[q])²`
+
+`ℛ_mod,Ξ^{[K]}[q]=𝒬_Ξ[q]−𝒬_Ξ^{[K]}[q]=9/2·Σ_{m=K+1}^4(M_m^Ξ[q])²`
+
+Esta identidad es útil para bancos de raigal porque impide que una lectura modal aparente sustituya el balance total. Si la energía cuadrática, la apertura cuadrática o el residual cuadrático reconstruido no recompone el contenido declarado, la lectura queda incompleta. La salida correcta no es cierre favorable, sino residual visible o `U`.
+
+La concentración de borde raigal se define, para un conjunto de borde `B⊂{1,...,9}`, por:
+
+`𝔅_Ξ^{[K]}[q;B]=max_{i∈B}|R_i^{Ξ,[K]}[q]|`
+
+`𝒬_{B,Ξ}^{[K]}[q]=Σ_{i∈B}(R_i^{Ξ,[K]}[q])²`
+
+`𝒞_{B,Ξ}^{[K]}[q]=𝒬_{B,Ξ}^{[K]}[q]/Σ_{i=1}^9(R_i^{Ξ,[K]}[q])²`
+
+Esta capa permite leer, sin metáfora, dónde se concentra el fallo de reconstrucción del horizonte: frontera corporal, frontera térmica, borde de señal, borde poblacional, borde estelar, frontera de especie, frontera documental o borde ciclo-distancial. El residual de borde no es defecto menor; es información de frontera. En una combustión, por ejemplo, puede distinguir calor retornado, reorganización material, traza química y residual de frontera sin afirmar una conversión limpia. En una especie extinguida puede distinguir continuidad fibrosa, traza fósil, retorno genético parcial y pérdida de retorno propio. En una protocivilización puede distinguir arquitectura, escritura, energía, población, colapso y restos materiales sin convertir la traza en continuidad viva.
+
+La lectura de onda sólo procede cuando el dominio declara propagación factual. La abscisa no es tiempo soberano, sino ciclo medido:
+
+`[ξ]=UE_MFC`
+
+Sea `Δℓ` una extensión factual declarada en `UFE` y sea `v_Ξ` una velocidad factual efectiva del dominio con dimensión:
+
+`[v_Ξ]=UFE·UE_MFC⁻¹`
+
+Sobre trayectoria cíclica compatible, la curvatura propagativa mínima queda:
+
+`(Δ_Γ q_Ξ)_i=q_{i+1}^Ξ−2q_i^Ξ+q_{i−1}^Ξ`
+
+con cierre cíclico. La segunda diferencia en ciclo medido es:
+
+`(δ_ξ²q_Ξ)_i(ξ)=q_i^Ξ(ξ+Δξ)−2q_i^Ξ(ξ)+q_i^Ξ(ξ−Δξ)`
+
+La ecuación propagativa raigal general, cuando proceda, adopta la forma:
+
+`(δ_ξ²q_Ξ)_i/(Δξ)² = v_Ξ² · (Δ_Γq_Ξ)_i/(Δℓ)²`
+
+No es una ecuación universal del raigal. Es una forma de propagación factual para magnitudes retornadas del horizonte cuando el dominio admite soporte cíclico, extensión factual, ciclo medido, frontera y condición de propagación. En el dominio electromagnético factual, esta forma se instancia para lecturas escalarizadas de campo eléctrico o magnético y usa `c_SV` o `v_med` según vacío factual o medio homogéneo e isótropo. En otros dominios, `v_Ξ` no puede importarse por analogía: debe declararse desde el dominio y su residual.
+
+Cada orden modal satisface, si la propagación desacoplada está justificada:
+
+`δ_ξ²a_m^Ξ/(Δξ)² + Ω_{m,Ξ}² a_m^Ξ=0`
+
+`δ_ξ²b_m^Ξ/(Δξ)² + Ω_{m,Ξ}² b_m^Ξ=0`
+
+con:
+
+`Ω_{m,Ξ}²=4v_Ξ²/(Δℓ)² · sin²(πm/9)`
+
+Esta forma permite estudiar oscilación factual de apertura, señal, retorno o residual sin convertir oscilación en vida ni onda en fundamento. La condición inicial debe declararse. Un arranque frío, una velocidad factual inicial nula o una condición de borde no son verdades generales del raigal; son condiciones del caso.
+
+El vínculo con el horizonte raigal queda así:
+
+`H_Ξ(o,D) → 𝔛_Ξ^X → q_Ξ → 𝒯_mf^Ξ[q] → ℛ_mod,Ξ^{[K]}[q] → 𝔅_Ξ^{[K]}[q;B] → dictamen`
+
+y, si hay propagación:
+
+`q_Ξ(ξ) → δ_ξ²q_Ξ = v_Ξ²Δ_Γq_Ξ → evolución factual de retorno`
+
+Esta cadena protege el manifiesto frente a cuatro errores: identificar Fourier con fundamento, convertir una onda en vida, tratar la propagación como tiempo soberano o usar una reconstrucción modal sin residual. La lectura armónica queda subordinada al dominio; el balance modal exige cierre; el borde conserva el residual; y la ecuación de onda sólo entra donde hay propagación factual declarada.
+
+| Operador armónico-modal | Forma raigal | Función | Riesgo bloqueado |
+|---|---|---|---|
+| Modo factual | `M_m^Ξ[q]` | mide componente cíclica del retorno | Fourier como fundamento |
+| Transformada modal | `𝒯_mf^Ξ[q]` | lleva lectura de dominio a lectura modal | espectro como ontología |
+| Reconstrucción truncada | `q_i^{Ξ,[K]}` | aproxima lectura con modos declarados | cierre por aproximación |
+| Residual modal | `R_i^{Ξ,[K]}` | muestra lo no reconstruido | ocultar pérdida |
+| Balance modal | `𝒬_Ξ=9q̄_Ξ²+9/2ΣM_m²` | conserva contenido cuadrático | ajuste visual sin balance |
+| Residual de borde | `𝔅_Ξ^{[K]}`, `𝒞_{B,Ξ}^{[K]}` | localiza frontera problemática | confundir borde con ruido |
+| Curvatura propagativa | `Δ_Γq_Ξ` | mide curvatura de soporte | importar geometría continua |
+| Segunda diferencia de ciclo | `δ_ξ²q_Ξ` | mide variación sobre ciclo medido | reintroducir tiempo |
+| Ecuación propagativa | `δ_ξ²q_Ξ/(Δξ)²=v_Ξ²Δ_Γq_Ξ/(Δℓ)²` | propaga magnitud retornada | onda como vida o destino |
+| Frecuencia modal factual | `Ω_{m,Ξ}²` | desacopla modos bajo hipótesis | oscilación sin dominio |
+
+La regla de caída armónico-modal queda:
+
+`modal_Ξ APTO ⇔ soporte cíclico declarado ∧ q_Ξ transducida ∧ unidad o entidad de retorno ∧ θ_i declarados ∧ reconstrucción trazable ∧ residual modal visible ∧ borde si procede ∧ no tiempo soberano ∧ no Fourier fundante`
+
+Si falta soporte cíclico, la transformada no procede. Si hay soporte pero no retorno, `U`. Si se usa Fourier para fundar el raigal, rechazo. Si se usa la ecuación de onda para declarar vida, destino, resurrección o continuidad de instancia, rechazo.
+
+
 La clausura efectiva exige una fórmula separada:
 
 `Cl_eff(o,D)=1 ⇔ Ret_D(o)=0 ∨ f_Ξ(o,D,M)+ρ_int(o,D)+ρ_ext(o,D) ≥ 1`
@@ -373,12 +501,16 @@ Así queda fijado el núcleo del raigal: **raíz de apertura, balance de arraigo
 
 ## Control adversarial de esta versión
 
-La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva siete restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; y la capa operatoria sólo especializa operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual.
+La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva ocho restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad o una distribución ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; la capa operatoria sólo especializa operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual; y la capa armónico-modal no convierte Fourier, la transformada modal, el balance tipo Parseval, el residual de borde ni la ecuación de onda en fundamentos del raigal.
 
-La incorporación metrológica pasa porque no fuerza una nueva unidad raigal. `Ξ_SV` no recibe kilogramo, julio, kelvin, mol, segundo o metro como identidad propia. La metrología sólo gobierna retornos: `UE_MFC` para tiempo transducido, `UFE` para extensión y frontera, `UFM` para masa, `UFC` para corriente o carga cuando el dominio lo exija, `UFT` para temperatura, `UFCE` para cantidad de entidad, y formas derivadas para energía, potencia, presión, entropía o masa molar. La candela permanece diferida o referida al SI en dominios de fotometría, sin entrar como primitivo raigal.
+La incorporación armónico-modal pasa porque no sustituye el horizonte raigal por espectro ni por onda. `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la forma propagativa `δ_ξ²q_Ξ/(Δξ)²=v_Ξ²Δ_Γq_Ξ/(Δℓ)²` operan sólo sobre magnitudes retornadas del horizonte, no sobre `Ξ_SV` desnudo. La abscisa `ξ` permanece como ciclo medido en `UE_MFC`, no como tiempo soberano. La extensión `Δℓ` permanece como escala factual declarada en `UFE`, no como geometría externa soberana. La velocidad efectiva `v_Ξ` sólo entra cuando el dominio declara propagación, y no puede heredarse por analogía desde el electromagnetismo sin residual y retorno.
 
-La incorporación operatoria pasa porque no introduce una matemática alternativa del raigal. La derivada `𝔇_Γ^Ξ`, la acumulación `𝔄_Γ^Ξ`, el recorrido `𝓡_Γ^Ξ`, la circulación `𝔠_{Γ⟳}^Ξ`, la TPA raigal, la sensibilidad `𝒮_p^Ξ`, el jacobiano `J_Ξ`, las transformadas `𝒯_Φ^Ξ`, el flujo `Φ_Ξ`, la divergencia `Div_Ξ`, el rotor `Rot_Ξ`, las integrales factuales, el balance Gauss-SV, la frontera activa y la reconfiguración `𝓡f_Ξ` quedan como especializaciones sobre observables retornados del horizonte. Ninguno de esos operadores mide el raigal desnudo ni autoriza tiempo soberano, probabilidad, geometría auxiliar soberana, promedio no justificado, reactivación de una instancia clausurada o cierre favorable por apariencia formal.
+La incorporación metrológica continúa pasando porque no fuerza una nueva unidad raigal. `Ξ_SV` no recibe kilogramo, julio, kelvin, mol, segundo o metro como identidad propia. La metrología sólo gobierna retornos: `UE_MFC` para ciclo medido o duración transducida, `UFE` para extensión y frontera, `UFM` para masa, `UFC` para corriente o carga cuando el dominio lo exija, `UFT` para temperatura, `UFCE` para cantidad de entidad, y formas derivadas para energía, potencia, presión, entropía o masa molar. La candela permanece diferida o referida al SI en dominios de fotometría, sin entrar como primitivo raigal.
 
-La deuda viva queda visible. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar para cada banco la unidad externa elegida, su primitivo SV correspondiente, el valor recorrido, el horizonte total, la fracción recorrida `f_Ξ`, la apertura restante `α_Ξ`, los residuales internos y externos, el retorno externo y la traza. Falta además decidir qué operadores entran en cada banco: derivada y acumulación para trayectorias simples; sensibilidad y jacobiano para vulnerabilidad; TPA para perfiles de apertura; flujo, divergencia y Gauss-SV cuando haya frontera y campo; transformadas cuando haya reexpresión legítima; y reconfiguración sólo ante frontera activa materialmente declarada. Falta decidir qué dominios admiten año como retorno suficiente, cuáles exigen número de sucesos, cuáles requieren masa, energía, temperatura, cantidad de entidad o traza documental, y cuáles deben permanecer en `U`.
+La incorporación operatoria continúa pasando porque no introduce una matemática alternativa del raigal. La derivada `𝔇_Γ^Ξ`, la acumulación `𝔄_Γ^Ξ`, el recorrido `𝓡_Γ^Ξ`, la circulación `𝔠_{Γ⟳}^Ξ`, la TPA raigal, la sensibilidad `𝒮_p^Ξ`, el jacobiano `J_Ξ`, las transformadas `𝒯_Φ^Ξ`, el flujo `Φ_Ξ`, la divergencia `Div_Ξ`, el rotor `Rot_Ξ`, las integrales factuales, el balance Gauss-SV, la frontera activa y la reconfiguración `𝓡f_Ξ` quedan como especializaciones sobre observables retornados del horizonte. Ninguno de esos operadores mide el raigal desnudo ni autoriza tiempo soberano, probabilidad, geometría auxiliar soberana, promedio no justificado, reactivación de una instancia clausurada o cierre favorable por apariencia formal.
 
-El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
+La deuda viva queda visible. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar para cada banco la unidad externa elegida, su primitivo SV correspondiente, el valor recorrido, el horizonte total, la fracción recorrida `f_Ξ`, la apertura restante `α_Ξ`, los residuales internos y externos, el retorno externo y la traza. Falta además decidir qué operadores entran en cada banco: derivada y acumulación para trayectorias simples; sensibilidad y jacobiano para vulnerabilidad; TPA para perfiles de apertura; flujo, divergencia y Gauss-SV cuando haya frontera y campo; transformadas cuando haya reexpresión legítima; lectura modal cuando haya soporte cíclico; residual de borde cuando haya reconstrucción truncada o frontera problemática; ecuación propagativa cuando exista propagación factual declarada; y reconfiguración sólo ante frontera activa materialmente declarada.
+
+Falta también una prueba específica de la capa armónico-modal en bancos no electromagnéticos. En el documento de Fourier factual, el caso director ED-EM-01 opera sobre electromagnetismo factual, célula `SV(3,9)`, modos cíclicos, balance modal, residual de borde y ecuación factual de onda. Para el raigal, esa arquitectura sólo puede trasladarse como forma de lectura si el banco declara soporte cíclico, magnitud retornada, unidad, frontera y residual. Una especie, una civilización o un árbol no reciben automáticamente ecuación de onda; sólo la recibirían si su dominio admitiera propagación factual en sentido declarado. En caso contrario, la lectura armónica puede quedar limitada a modos, residual y balance, o caer en `U`.
+
+El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la ecuación propagativa forman la capa armónico-modal y de propagación cuando el dominio lo permite; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
