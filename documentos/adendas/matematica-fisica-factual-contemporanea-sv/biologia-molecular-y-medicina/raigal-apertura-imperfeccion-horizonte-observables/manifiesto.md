@@ -593,6 +593,114 @@ La regla de caída es estricta:
 
 Si falta condición sin contradicción, `U`. Si se identifica `Ξ_SV` con potencial, si se usa `P_{Ξ,D}` para declarar destino, si se convierten residuales en números por promedio, si se ignora traza o si se presenta una transducción sectorial como fundamento, rechazo.
 
+
+## Horizonte de sucesos y reevaluación discreta del Raigal
+
+La capa polar-eventiva permite definir el potencial de un suceso leído bajo horizonte raigal. Falta una precisión adicional: el horizonte raigal de un observable no se actualiza por tiempo, ni por narración continua, ni por acumulación estadística de episodios. Se reevalúa por sucesos declarados dentro de un horizonte formal de sucesos. Esta capa no sustituye a `H_Ξ(o,D)` ni a los transductores `𝔛_Ξ`; ordena cuándo y cómo una lectura raigal ya declarada debe actualizar su frame, su apertura vigente, su fracción recorrida, su potencial, su residual, su retorno y su traza.
+
+Debe distinguirse con precisión entre dos objetos. `H_Ξ(o,D)` designa el horizonte raigal formal del observable `o` en el dominio `D`. En cambio, `ℋ_Ξ(𝒜_D,o)` designa el horizonte de tipos de sucesos que pueden provocar reevaluación discreta de la arquitectura raigal asociada a ese observable. La homofonía de “horizonte” no autoriza fusión de planos: el primero mide apertura y retorno; el segundo declara qué sucesos cuentan para actualizar la lectura.
+
+Sea `𝒜_D(o)` una arquitectura de dominio asociada al observable `o`. Se define el horizonte de sucesos raigales como:
+
+`ℋ_Ξ(𝒜_D,o)={ε_1^Ξ,ε_2^Ξ,...,ε_m^Ξ}`
+
+donde cada `ε_i^Ξ` es un tipo de suceso formalmente relevante para la reevaluación del horizonte raigal del observable. En un organismo, esos sucesos pueden pertenecer a soporte vital, reparación, daño, metabolismo, reproducción, enfermedad o clausura; en una especie, a continuidad poblacional, aislamiento, mutación, extinción, mezcla o retorno genético; en una estrella, a régimen interno, combustible, frontera radiativa o pérdida de equilibrio; en una protocivilización, a población, energía, escritura, infraestructura, ruptura, absorción o traza. La lista concreta no se infiere por frecuencia ni por minería de datos: se declara desde el dominio y queda sometida a residual, retorno y traza.
+
+Todo suceso instanciado dentro de `ℋ_Ξ` se expresa en la terna:
+
+`Σ={0,1,U}`
+
+con lectura estricta: `1` indica incidencia constatada del tipo de suceso; `0` indica ausencia verificada conforme al protocolo del dominio; `U` conserva indeterminación honesta cuando el sistema no puede cerrar el estado del suceso. Esta terna no introduce probabilidad. Tampoco convierte ausencia de dato en ausencia de suceso. Si no hay base suficiente para decidir incidencia o no incidencia, la salida permanece en `U`.
+
+El frame raigal de reevaluación se define como:
+
+`S_n^Ξ=ℰ_Ξ(𝒜_D(o),P_n^Ξ)`
+
+donde `ℰ_Ξ` es la evaluación estructural de la arquitectura raigal y `P_n^Ξ` es el estado paramétrico actualizado del dominio en el ordinal `n`. El índice `n` es ordinal de secuencia, no coordenada temporal fuerte. Un frame raigal recoge el estado evaluado del observable después de la incidencia, ausencia verificada o indeterminación de sucesos pertinentes del horizonte `ℋ_Ξ`.
+
+El dato de transición raigal queda:
+
+`ν_n^Ξ={(ε_i^Ξ,τ_i)}_{i∈I_n}, τ_i∈Σ`
+
+Puede incorporar también parámetros modificados, frontera afectada, soporte, canal, unidad de retorno, traza, residual y metadatos de auditoría. Su función no es medir duración; registra qué sucesos instanciados obligan a reevaluar el horizonte raigal entre `S_n^Ξ` y `S_{n+1}^Ξ`.
+
+A cada dato de transición suficientemente determinado le corresponde un operador inducido:
+
+`𝒯_{ν_n}^Ξ`
+
+que actúa sobre el estado paramétrico del dominio y produce la actualización necesaria para la nueva evaluación:
+
+`P_{n+1}^Ξ=𝒯_{ν_n}^Ξ(P_n^Ξ)`
+
+`S_{n+1}^Ξ=ℰ_Ξ(𝒜_D(o),P_{n+1}^Ξ)`
+
+Cuando el operador no queda determinado por falta material no contradictoria, la salida de reevaluación permanece en `U`. Cuando el dato de transición contradice el dominio, la frontera, la traza o el retorno, la reevaluación cae. Cuando cierra, el nuevo frame se añade a la trayectoria sin corregir el anterior.
+
+La trayectoria raigal de reevaluación discreta es:
+
+`T_Ξ=(S_1^Ξ,ν_1^Ξ,S_2^Ξ,ν_2^Ξ,...,S_n^Ξ)`
+
+con crecimiento por adición, sin reescritura retrospectiva. Esta condición es decisiva: una nueva medición, un nuevo fósil, un nuevo dato clínico, una nueva señal, una nueva lectura astronómica o una nueva inscripción histórica puede añadir un frame, corregir el dictamen prospectivo o desplazar la lectura de retorno; no puede reescribir el suceso ya fijado como si no hubiera existido. Si aparece contradicción material, se abre un nuevo tramo de reevaluación; no se borra la traza anterior.
+
+La lectura raigal asociada al frame queda:
+
+`Y_Ξ(S_n^Ξ)=(H_Ξ^X(o,D;S_n^Ξ), f_Ξ(o,D,X;S_n^Ξ), α_Ξ(o,D,X;S_n^Ξ), P_{Ξ,D}(S_n^Ξ), R_Ξ^X(o,D;S_n^Ξ), Ret_D(o;S_n^Ξ), Tr_D(o;S_n^Ξ))`
+
+Esta tupla no es el raigal desnudo. Es el estado de lectura del horizonte raigal en un frame evaluado. Si alguno de sus componentes carece de dominio, unidad, frontera, residual, retorno o traza, la trayectoria conserva parcialidad y no se declara cierre fuerte.
+
+El cambio de criticidad raigal entre frames consecutivos se expresa mediante una relación general:
+
+`δ_Γ^Ξ(S_n^Ξ,S_{n+1}^Ξ)`
+
+No se presupone que toda criticidad admita resta aritmética. Cuando el dominio lo autoriza, la relación puede descomponerse en variaciones:
+
+`δ_Γ^Ξ=(ΔH_Ξ^X, Δf_Ξ, Δα_Ξ, ΔP_{Ξ,D}, ΔR_Ξ^X, ΔRet_D, ΔTr_D)`
+
+Cuando el dominio no autoriza resta, `δ_Γ^Ξ` conserva forma relacional: mejora, deterioro, estabilidad, ruptura, reconfiguración, pérdida de retorno, apertura de `U` o clausura. El punto crítico no es que haya cambio numérico; es que el frame posterior modifique la lectura de apertura, retorno, residual, frontera, potencial o traza del observable.
+
+La reevaluación discreta del potencial raigal queda:
+
+`P_{Ξ,D}(S_{n+1}^Ξ)=P_{Ξ,D}(𝒯_{ν_n}^Ξ(S_n^Ξ))`
+
+si y sólo si el suceso de transición admite lectura polar raigal, el residual local cierra y la identidad operativa no queda en `U`. La diferencia de potencial entre frames consecutivos queda:
+
+`ΔP_{Ξ,D}(S_n^Ξ,S_{n+1}^Ξ)=P_{Ξ,D}(S_{n+1}^Ξ)−P_{Ξ,D}(S_n^Ξ)`
+
+sólo cuando el dominio permite comparación y el residual comparativo cierra. Si el nuevo dato abre indeterminación, la trayectoria no se rompe por eso: se añade el frame con `U` en la coordenada afectada y se conserva la trazabilidad.
+
+La reevaluación del horizonte raigal transducido queda:
+
+`H_Ξ^X(o,D;S_{n+1}^Ξ)=𝔛_Ξ^X[H_Ξ(o,D;S_{n+1}^Ξ)]`
+
+No debe invertirse el orden. El Documento III de la composición intercelular organiza sucesos ya legibles en la terna y sus trayectorias de reevaluación; no formaliza por sí mismo la transducción de magnitudes no nativas. Por tanto, una magnitud externa debe entrar por el transductor pertinente antes de operar como suceso evaluable del horizonte `ℋ_Ξ`, o debe quedar pendiente hasta que exista la mediación correspondiente. La reevaluación discreta no sustituye a la familia `𝔛_Ξ`; la gobierna en trayectoria cuando ya hay datos legibles.
+
+Pueden distinguirse dos regímenes de crecimiento de trayectoria raigal. En régimen estricto, la trayectoria añade frame sólo cuando `ν_n^Ξ` introduce cambio constitutivo suficiente para justificar nueva reevaluación de `H_Ξ`, `α_Ξ`, `P_{Ξ,D}`, residual, retorno o traza. En régimen auditable pleno, puede añadirse también una reevaluación de observación sin cambio estructural, siempre que quede marcada como observacional y no se presente como modificación del horizonte.
+
+La acotación de cascada se conserva. Si la arquitectura `𝒜_D(o)` admite grafo dirigido de dependencia, un suceso instanciado sólo puede propagar reevaluación a los componentes accesibles desde la región afectada. Las regiones sin camino dirigido desde el suceso afectante permanecen inalteradas salvo nuevo dato de transición. Esta regla impide que un suceso local se convierta en clausura global por contagio retórico. En un árbol, una lesión de rama no clausura necesariamente el individuo; en una civilización, una ruina local no clausura la continuidad cultural; en una especie, una población extinguida no clausura automáticamente toda la especie; en una estrella, una variación local sólo afecta al régimen global si el dominio declara propagación compatible.
+
+La matriz de reevaluación discreta del raigal queda:
+
+| Objeto | Forma raigal | Función | Riesgo bloqueado |
+|---|---|---|---|
+| Horizonte de sucesos | `ℋ_Ξ(𝒜_D,o)={ε_i^Ξ}` | declara tipos de sucesos relevantes | minería de episodios como fundamento |
+| Estado ternario del suceso | `τ_i∈{0,1,U}` | incidencia, ausencia verificada o indeterminación | probabilidad o ausencia de dato |
+| Frame raigal | `S_n^Ξ=ℰ_Ξ(𝒜_D(o),P_n^Ξ)` | evaluación completa tras sucesos pertinentes | estado informal sin traza |
+| Dato de transición | `ν_n^Ξ={(ε_i^Ξ,τ_i)}_{i∈I_n}` | registra lo que exige reevaluación | cambio narrativo sin soporte |
+| Operador inducido | `𝒯_{ν_n}^Ξ` | actualiza parámetros del dominio | actualización opaca |
+| Trayectoria | `T_Ξ=(S_1^Ξ,ν_1^Ξ,S_2^Ξ,...)` | conserva secuencia append-only | reescritura retrospectiva |
+| Cambio de criticidad | `δ_Γ^Ξ(S_n^Ξ,S_{n+1}^Ξ)` | clasifica cambio de régimen | resta aritmética ilegítima |
+| Reevaluación del potencial | `ΔP_{Ξ,D}(S_n,S_{n+1})` | mide cambio polar si procede | igualdad de potencial como identidad |
+| Reevaluación del horizonte | `H_Ξ^X(S_{n+1})=𝔛_Ξ^X[H_Ξ(S_{n+1})]` | actualiza retorno transducido | transducción omitida |
+| Cascada acotada | `alcance(ν_n^Ξ)⊂𝒜_D(o)` | limita propagación | clausura global sin ruta |
+
+La regla de admisión queda:
+
+`Reev_Ξ APTO ⇔ ℋ_Ξ declarado ∧ ν_n^Ξ legible en Σ ∧ 𝒯_{ν_n}^Ξ determinado ∧ S_n^Ξ append-only ∧ dominio ∧ frontera ∧ residual ∧ retorno ∧ traza ∧ no reescritura ∧ no transducción omitida`
+
+Si falta determinación sin contradicción, `U`. Si el dato de transición contradice dominio, traza, frontera o retorno, rechazo. Si se usa la reevaluación discreta para introducir tiempo soberano, minería de datos, convergencia no demostrada, reescritura de frames o clausura global por ausencia de prueba, rechazo.
+
+Esta capa convierte el manifiesto en instrumento operativo más fino: un observable no sólo posee horizonte raigal, transductores, metrología, operadores, lectura modal y potencial; posee también una trayectoria de reevaluación discreta que permite actualizarlo sin perder trazabilidad. Para bancos de árbol longevo, ballena, tortuga gigante, especie extinguida, estrella, universo observable o protocivilización, esto permite separar horizonte formal, sucesos que obligan a reevaluarlo, cambios de frame, potencial raigal nuevo, residuales abiertos y retorno efectivamente conservado.
+
 La clausura efectiva exige una fórmula separada:
 
 `Cl_eff(o,D)=1 ⇔ Ret_D(o)=0 ∨ f_Ξ(o,D,M)+ρ_int(o,D)+ρ_ext(o,D) ≥ 1`
@@ -667,24 +775,28 @@ Lloret Egea, J. A. (2026). *Vida y clausura de los universos y sus observables. 
 
 Lloret Egea, J. A. (2026). *Fundamentos operatorios absolutos del electromagnetismo factual en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/w1kb2-m6k81
 
-Lloret Egea, J. A. (2026). *Fourier factual y ecuación de onda electromagnética en el Sistema Vectorial SV: desarrollo cíclico, transformada modal y propagación sobre ciclo y trayectoria poligonal*. IA eñ™ — La Biblia de la IA™. https://www.itvia.online/pub/fourier-factual-y-ecuacion-de-onda-electromagnetica-en-el-sistema-vectorial-sv-desarrollo-ciclico-transformada-modal-y-propagacion-sobre-ciclo-y-trayectoria-poligonal
+Lloret Egea, J. A. (2026). *Fourier factual y ecuación de onda electromagnética en el Sistema Vectorial SV: desarrollo cíclico, transformada modal y propagación sobre ciclo y trayectoria poligonal*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.0954ba30
 
 Lloret Egea, J. A. (2026). *Potencial de un suceso: comunicación estructural en el Universo físico realizado, equipotencialidad, diferencia polar y métrica*. IA eñ™ — La Biblia de la IA™. https://www.itvia.online/pub/potencial-de-un-suceso-comunicacion-estructural-en-el-universo-fisico-realizado-equipotencialidad-diferencia-polar-y-metrica
+
+Lloret Egea, J. A. (2026). *Álgebra de composición intercelular del marco SV — III. Horizonte de sucesos y reevaluación discreta*. IA eñ™ — La Biblia de la IA™. https://www.itvia.online/pub/algebra-de-composicion-intercelular-del-marco-sv--iii-horizonte-de-sucesos-y-reevaluacion-discreta
 
 
 ## Control adversarial de esta versión
 
-La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva nueve restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad o una distribución ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; la capa operatoria sólo especializa operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual; la capa armónico-modal no convierte Fourier, la transformada modal, el balance tipo Parseval, el residual de borde ni la ecuación de onda en fundamentos del raigal; y la capa de potencial raigal no identifica `Ξ_SV` con potencial, sino que define el potencial de un suceso leído bajo horizonte raigal, lectura polar, residual, unidad tipada, retorno y traza.
+La versión pasa como pilar de trabajo fuerte, no como teorema cerrado. Pasa porque conserva diez restricciones: el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier sólo codifica una complementariedad o una distribución ya declarada; la familia `𝔛_Ξ` queda subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; la capa operatoria sólo especializa operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual; la capa armónico-modal no convierte Fourier, la transformada modal, el balance tipo Parseval, el residual de borde ni la ecuación de onda en fundamentos del raigal; la capa de potencial raigal no identifica `Ξ_SV` con potencial, sino que define el potencial de un suceso leído bajo horizonte raigal, lectura polar, residual, unidad tipada, retorno y traza; y la capa de horizonte de sucesos no reintroduce tiempo, estadística ni reescritura, sino una reevaluación discreta append-only por sucesos declarados en `Σ={0,1,U}`.
 
 La incorporación armónico-modal pasa porque no sustituye el horizonte raigal por espectro ni por onda. `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la forma propagativa `δ_ξ²q_Ξ/(Δξ)²=v_Ξ²Δ_Γq_Ξ/(Δℓ)²` operan sólo sobre magnitudes retornadas del horizonte, no sobre `Ξ_SV` desnudo. La abscisa `ξ` permanece como ciclo medido en `UE_MFC`, no como tiempo soberano. La extensión `Δℓ` permanece como escala factual declarada en `UFE`, no como geometría externa soberana. La velocidad efectiva `v_Ξ` sólo entra cuando el dominio declara propagación, y no puede heredarse por analogía desde el electromagnetismo sin residual y retorno.
 La incorporación del potencial de un suceso en raigales pasa porque mantiene la prevalencia correcta. El potencial no se sitúa antes del raigal ni se identifica con él; aparece sólo cuando un suceso admisible recibe lectura polar bajo horizonte raigal. `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal operan sobre sucesos, trayectorias y magnitudes retornadas, no sobre `Ξ_SV` desnudo. La especialización `USP_SV^{Ξ,D}` queda como unidad interna de separación polar; `URΞ^{D,M}` queda como unidad operativa de horizonte transducido, no como nuevo primitivo físico.
+
+La incorporación de horizonte de sucesos y reevaluación discreta pasa porque separa `H_Ξ(o,D)` de `ℋ_Ξ(𝒜_D,o)`. El primero designa horizonte raigal de retorno; el segundo declara los tipos de sucesos que obligan a reevaluar la arquitectura. `ν_n^Ξ`, `𝒯_{ν_n}^Ξ`, `S_n^Ξ`, `T_Ξ` y `δ_Γ^Ξ` no transducen por sí solos magnitudes externas: ordenan frames, datos de transición, operadores inducidos y cambios de criticidad una vez que los sucesos son legibles en la terna. La trayectoria permanece append-only y no admite corrección retrospectiva de frames anteriores.
 
 La incorporación metrológica continúa pasando porque no fuerza una nueva unidad raigal. `Ξ_SV` no recibe kilogramo, julio, kelvin, mol, segundo o metro como identidad propia. La metrología sólo gobierna retornos: `UE_MFC` para ciclo medido o duración transducida, `UFE` para extensión y frontera, `UFM` para masa, `UFC` para corriente o carga cuando el dominio lo exija, `UFT` para temperatura, `UFCE` para cantidad de entidad, y formas derivadas para energía, potencia, presión, entropía o masa molar. La candela permanece diferida o referida al SI en dominios de fotometría, sin entrar como primitivo raigal.
 
 La incorporación operatoria continúa pasando porque no introduce una matemática alternativa del raigal. La derivada `𝔇_Γ^Ξ`, la acumulación `𝔄_Γ^Ξ`, el recorrido `𝓡_Γ^Ξ`, la circulación `𝔠_{Γ⟳}^Ξ`, la TPA raigal, la sensibilidad `𝒮_p^Ξ`, el jacobiano `J_Ξ`, las transformadas `𝒯_Φ^Ξ`, el flujo `Φ_Ξ`, la divergencia `Div_Ξ`, el rotor `Rot_Ξ`, las integrales factuales, el balance Gauss-SV, la frontera activa y la reconfiguración `𝓡f_Ξ` quedan como especializaciones sobre observables retornados del horizonte. Ninguno de esos operadores mide el raigal desnudo ni autoriza tiempo soberano, probabilidad, geometría auxiliar soberana, promedio no justificado, reactivación de una instancia clausurada o cierre favorable por apariencia formal.
 
-La deuda viva queda visible. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar para cada banco la unidad externa elegida, su primitivo SV correspondiente, el valor recorrido, el horizonte total, la fracción recorrida `f_Ξ`, la apertura restante `α_Ξ`, los residuales internos y externos, el retorno externo y la traza. Falta además decidir qué operadores entran en cada banco: derivada y acumulación para trayectorias simples; sensibilidad y jacobiano para vulnerabilidad; TPA para perfiles de apertura; flujo, divergencia y Gauss-SV cuando haya frontera y campo; transformadas cuando haya reexpresión legítima; lectura modal cuando haya soporte cíclico; residual de borde cuando haya reconstrucción truncada o frontera problemática; ecuación propagativa cuando exista propagación factual declarada; y reconfiguración sólo ante frontera activa materialmente declarada.
+Los ajustes pendientes quedan visibles. Falta banco material de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. Falta fijar para cada banco la unidad externa elegida, su primitivo SV correspondiente, el valor recorrido, el horizonte total, la fracción recorrida `f_Ξ`, la apertura restante `α_Ξ`, los residuales internos y externos, el retorno externo y la traza. Falta además decidir qué operadores entran en cada banco: derivada y acumulación para trayectorias simples; sensibilidad y jacobiano para vulnerabilidad; TPA para perfiles de apertura; flujo, divergencia y Gauss-SV cuando haya frontera y campo; transformadas cuando haya reexpresión legítima; lectura modal cuando haya soporte cíclico; residual de borde cuando haya reconstrucción truncada o frontera problemática; ecuación propagativa cuando exista propagación factual declarada; y reconfiguración sólo ante frontera activa materialmente declarada.
 
 Falta también una prueba específica de la capa armónico-modal en bancos no electromagnéticos. En el documento de Fourier factual, el caso director ED-EM-01 opera sobre electromagnetismo factual, célula `SV(3,9)`, modos cíclicos, balance modal, residual de borde y ecuación factual de onda. Para el raigal, esa arquitectura sólo puede trasladarse como forma de lectura si el banco declara soporte cíclico, magnitud retornada, unidad, frontera y residual. Una especie, una civilización o un árbol no reciben automáticamente ecuación de onda; sólo la recibirían si su dominio admitiera propagación factual en sentido declarado. En caso contrario, la lectura armónica puede quedar limitada a modos, residual y balance, o caer en `U`.
 
-El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la ecuación propagativa forman la capa armónico-modal y de propagación cuando el dominio lo permite; `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal forman la capa polar-eventiva; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
+El resultado de trabajo queda así: `Ξ_SV` es raíz formal de arraigo abierta por la imperfección; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la ecuación propagativa forman la capa armónico-modal y de propagación cuando el dominio lo permite; `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal forman la capa polar-eventiva; `ℋ_Ξ(𝒜_D,o)`, `ν_n^Ξ`, `𝒯_{ν_n}^Ξ`, `S_n^Ξ`, `T_Ξ` y `δ_Γ^Ξ` forman la capa de horizonte de sucesos y reevaluación discreta; y `Cl_eff(o,D)` declara clausura efectiva sólo cuando cae el retorno propio o cuando residuales internos o externos consumen la apertura restante.
