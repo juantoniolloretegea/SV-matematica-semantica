@@ -2,45 +2,147 @@
 
 ## Del arraigo preproyectivo a la vida formal transducible de cuerpos, especies, estrellas y dominios-universo
 
-**Autor:** Juan Antonio Lloret Egea  
-**ORCID:** 0000-0002-6634-3351  
-**Sello editorial:** IA eñ™ — La Biblia de la IA™  
-**ISSN:** 2695-6411  
-**Licencia:** CC BY-NC-ND 4.0  
-**Repositorio de destino:** `documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/raigal-apertura-imperfeccion-horizonte-observables`  
+**Autor:** Juan Antonio Lloret Egea
+**ORCID:** 0000-0002-6634-3351
+**Sello editorial:** IA eñ™ — La Biblia de la IA™
+**ISSN:** 2695-6411
+**Licencia:** CC BY-NC-ND 4.0
+**Repositorio de destino:** `documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/raigal-apertura-imperfeccion-horizonte-observables`
 **DOI:** pendiente
 
 ## Resumen
 
-Este trabajo formula el raigal como raíz formal de apertura y referencia metrológica de retorno entre dominios. La tesis principal sostiene que el raigal no es masa, energía, calor, campo, molécula, célula, señal, tiempo ni sustancia, sino la función de arraigo que permite recibir una magnitud bajo dominio declarado, conservarla en unidad nativa, devolverla a unidad pública, mantener residual visible y preservar traza. La publicación se organiza en tres apartados. El primero fija el raigal, los transductores, las unidades nativas y la matriz `MRΞ` de retorno al Sistema Internacional. El segundo especializa la matriz en seis dominios: Termodinámica; Electricidad y campo magnético; Cosmología; Física y química; Biología, inmunología y genética; y Matemáticas y álgebra del SV. El tercero construye la referencia nativa de convergencia metrológica `RN_SV`, que une la matriz común y los dominios sin duplicarlos. El resultado es una arquitectura de uso científico y documental que conserva `U` como no cierre honesto, impide identificar unidades externas con raíz nativa y separa magnitud, dominio, residual, retorno y traza (Lloret Egea, 2026b, 2026c, 2026d, 2026e).
+Este estudio define el raigal como raíz formal de apertura y referencia metrológica de retorno entre dominios. La tesis sostiene que no es masa, energía, calor, campo, molécula, célula, señal, tiempo ni sustancia, sino función de arraigo: recibe una magnitud bajo dominio declarado, la conserva en unidad nativa, la devuelve a unidad pública, mantiene visible el residual y preserva la traza. La exposición parte de `UR_Ξ^X(D)` y `MRΞ`; después ordena sus proyecciones en Termodinámica, Electricidad y campo magnético, Cosmología, Física y química, Biología-inmunología-genética, y Matemáticas y álgebra del SV. La convergencia queda formulada mediante `RN_SV`, referencia nativa que gobierna la bidireccionalidad SI↔SV sin duplicar dominios ni confundir unidad externa con raíz formal. El resultado ofrece una arquitectura de uso científico y documental que conserva `U` como no cierre honesto y separa magnitud, dominio, transductor, residual, retorno y traza (Lloret Egea, 2026b, 2026c, 2026d, 2026e).
 
 ## Abstract
 
-This work formulates the raigal as a formal root of opening and as a native metrological reference for domain-based return. The central thesis is that the raigal is not mass, energy, heat, field, molecule, cell, signal, time, or substance; it is the rooting function that allows a magnitude to be received under a declared domain, preserved in a native unit, returned to a public unit, kept with visible residual, and audited through trace. The publication is organized into three sections. The first section establishes the raigal, the transducers, the native units, and the `MRΞ` matrix for return to the International System of Units. The second section specializes the matrix into six domains: thermodynamics; electricity and magnetic field; cosmology; physics and chemistry; biology, immunology, and genetics; and SV mathematics and algebra. The third section constructs the native reference of metrological convergence `RN_SV`, which joins the common matrix and the domains without duplicating them. The result is a scientific and documentary architecture that preserves `U` as honest non-closure, prevents external units from being identified with the native root, and separates magnitude, domain, residual, return, and trace.
+This work formulates the raigal as a formal root of opening and as a native metrological reference for domain-based return. Its central thesis is that the raigal is not mass, energy, heat, field, molecule, cell, signal, time, or substance; it is the rooting function that allows a magnitude to be received under a declared domain, preserved in a native unit, returned to a public unit, kept with visible residual, and audited through trace. The argument moves from the metrological definition of `UR_Ξ^X(D)` and `MRΞ` to the specialization of raigal projections in thermodynamics, electricity and magnetic field, cosmology, physics and chemistry, biology-immunology-genetics, and SV mathematics and algebra. Convergence is expressed by `RN_SV`, a native reference that governs SI↔SV bidirectionality without duplicating domains or identifying external units with the formal root. The result is a scientific and documentary architecture that preserves `U` as honest non-closure and separates magnitude, domain, transducer, residual, return, and trace.
 
 ## Índice
 
-1. I. Raigal, raíz metrológica y matriz de retorno  
-2. II. Especialización por dominios de las proyecciones raigales  
-3. III. Referencia nativa de convergencia metrológica  
-4. Bibliografía
-
+- Resumen
+- Abstract
+- Introducción
+- Estado del arte
+- I. Raigal, raíz metrológica y matriz de retorno
+  - I.1. Raíz, apertura y horizonte
+  - I.2. Articulación metrológica de los transductores raigales
+  - I.3. Matriz de proyecciones raigales al Sistema Internacional
+  - I.4. Matrices derivadas por familias de magnitudes
+    - Matriz de magnitudes eléctricas y de potencia alterna
+    - Matriz de magnitudes mecánicas, fluidas y materiales
+    - Matriz de magnitudes térmicas y de composición química
+    - Matriz de magnitudes biomédicas y clínicas
+    - Matriz de magnitudes genéticas, moleculares e inmunológicas
+    - Matriz de magnitudes de señal, imagen y observación
+- II. Especialización por dominios de las proyecciones raigales
+  - II.1. Termodinámica: balance, calor, trabajo, entropía y retorno térmico
+    - Matriz especializada de retorno termodinámico
+    - Patrón `P_H₂O` en el dominio termodinámico
+    - Irreversibilidad estructural y conservación de `U`
+    - Criterio de admisibilidad del dominio
+  - II.2. Electricidad y campo magnético: carga, corriente, campo, frontera y propagación
+    - Matriz especializada de retorno eléctrico-magnético
+    - Frontera, continuidad y reconfiguración del dominio
+    - Patrón `P_H₂O` en el dominio eléctrico-magnético
+    - Balance, propagación y lectura de onda
+    - Criterio de admisibilidad del dominio
+  - II.3. Cosmología: universo observable, distancias, edades relativas, Λ y clausura de observables
+    - Tronco cosmológico de la matriz raigal
+    - Edades relativas y horizonte raigal
+    - Distancias cosmológicas, retorno luminoso y profundidad observacional
+    - Gravedad, `G`, `Λ` y régimen cosmológico
+    - Dominio-universo, autogobierno, potencial y comunicación estructural
+    - Agujeros negros y clausura interna de régimen
+    - Criterio de admisibilidad del dominio
+  - II.4. Física y química: materia, luz, campo, elementos y transición química
+    - Regla de no duplicación entre dominios
+    - Tronco físico-químico común
+    - Matriz especializada de retorno físico-químico
+    - Tránsito prequímico y transición química
+    - Luz, campo y frontera angular dentro de Física y química
+    - Patrón `P_H₂O` en el dominio físico-químico
+    - Criterio de admisibilidad del dominio
+  - II.5. Biología, inmunología y genética: observable vivo, herencia, reconocimiento y clausura
+    - Gobierno interno del dominio
+    - Tronco biológico-genético-inmunológico común
+    - Matriz especializada de retorno biológico, inmunológico y genético
+    - Célula, tejido, órgano y organismo
+    - Genética, mutación y linaje
+    - Inmunología: reconocimiento, tolerancia, memoria y daño
+    - Enfermedad, cáncer y clausura vital
+    - Patrón `P_H₂O` en el dominio biológico, inmunológico y genético
+    - Criterio de admisibilidad del dominio
+  - II.6. Matemáticas y álgebra del SV: célula, U, suceso, trayectoria y operadores
+    - Entrada del dominio formal
+    - Tronco común: terna, célula, horizonte y U
+    - Operaciones legítimas y no universalidad
+    - Cálculo del suceso
+    - Orden, directriz, detonación, sensibilidad y generación
+    - Geometría factual, frontera y operadores de campo
+    - Secuencias, funciones generatrices y grafo de composición
+    - Matriz de integración algebraica de los dominios ya incorporados
+    - Patrón `P_H₂O` dentro del dominio formal
+    - Criterio de admisibilidad del dominio
+- III. Referencia nativa de convergencia metrológica
+  - III.1. Matriz operativa de convergencia
+  - III.2. Reglas de convergencia sin duplicación
+  - III.3. Banco común de prueba: `P_H₂O`
+  - III.4. Resultado de convergencia
+  - III.5. Articulación operatoria matemática del horizonte raigal
+    - Operadores diferenciales raigales
+    - Acumulación factual raigal
+    - Recorrido, circulación y ciclo raigal
+    - Medidor factual de ciclo y normalización raigal
+    - Trayectoria poligonal raigal de activación
+    - Sensibilidad, jacobiano y transformadas raigales
+    - Frontera, flujo, divergencia, rotor e integrales factuales del raigal
+    - Frontera activa y reconfiguración raigal
+    - Matriz de operadores raigales básicos
+    - Restricciones operatorias
+  - III.6. Articulación armónico-modal y propagativa del horizonte raigal
+  - III.7. Potencial de un suceso en raigales
+  - III.8. Consonancia con el contenido físico factual del suceso y las clases factuales emergentes
+  - III.9. Suceso admisible, horizonte declarado y soporte de reevaluación raigal
+  - III.10. Relaciones entre sucesos admisibles: comparabilidad, afectación, precedencia y compatibilidad raigal
+  - III.11. Consonancia con persistencia energética estructural y origen material del hidrógeno
+  - III.12. Consonancia con pares estructurales: protopar, realización ternaria y dictamen de dominio
+  - III.13. Horizonte de sucesos y reevaluación discreta del raigal
+- Conclusión
+- Bibliografía
 ## Introducción
 
-La publicación parte de una necesidad precisa: disponer de una referencia nativa capaz de conservar continuidad metrológica cuando una magnitud transita entre física, química, biología, medicina, señal, cosmología, termodinámica o álgebra discreta, sin que esa continuidad convierta el raigal en una magnitud física directa. El Sistema Internacional ofrece el retorno público de las unidades y su trazabilidad, tal como fija el BIPM en la edición vigente de la Brochure SI; CODATA ofrece valores recomendados para constantes fundamentales; UCUM organiza codificación interoperable de unidades; e IUPAC mantiene una referencia terminológica para química. Esas fuentes sitúan el marco externo de contraste, pero no sustituyen el desarrollo propio del SV: en esta obra el SI opera como retorno público, no como fundamento interno (Bureau International des Poids et Mesures, 2025; Mohr et al., 2025; The UCUM Organization, 2024; International Union of Pure and Applied Chemistry, 2025).
+La cuestión de partida es precisa: hace falta una referencia nativa que conserve continuidad metrológica cuando una magnitud transita entre física, química, biología, medicina, señal, cosmología, termodinámica o álgebra discreta, sin convertir por ello el raigal en una magnitud física directa. El Sistema Internacional ofrece el retorno público de las unidades y su trazabilidad; la metrología contemporánea exige declarar mensurando, unidad, método, incertidumbre y comparabilidad; la interoperabilidad computacional pide codificaciones inequívocas; y los dominios científicos actuales trabajan con magnitudes cada vez más heterogéneas. La respuesta desarrollada aquí no sustituye esos marcos: los recibe como retorno externo y construye una referencia nativa que conserva dominio, transductor, residual y traza.
 
-El objeto del texto es organizar tres planos. Primero, el plano raíz: definición del raigal, transductores, unidades nativas y matriz de retorno. Segundo, el plano aplicado: especialización por dominios, con controles que impiden duplicar magnitudes o cerrar `U` por analogía. Tercero, el plano de convergencia: una referencia nativa que gobierne la bidireccionalidad SI↔SV y permita operar con magnitudes heterogéneas sin confundir dominio, unidad, residual y traza. La exposición mantiene una restricción permanente: lo no determinado no se cierra, lo no retornado no se presenta como medido y lo no trazado no alcanza cierre material suficiente.
+La exposición sigue una curva única. Arranca con la raíz metrológica —qué significa raigal, cómo opera `UR_Ξ^X(D)`, qué recibe `MRΞ` y por qué una unidad externa no puede ocupar el lugar de la raíz formal—; continúa con la especialización por dominios, donde una misma dimensión o una misma unidad funcionan de modo distinto en calor, campo, distancia, molécula, célula, variante genética o secuencia algebraica; y culmina en `RN_SV`, que permite recibir desde el SI, conservar unidad nativa, especializar por dominio, sostener `U` cuando falta cierre material y devolver una salida pública con residual y traza.
 
+La restricción que gobierna todo el desarrollo es sencilla y exigente: lo no determinado no se cierra, lo no retornado no se presenta como medido y lo no trazado no alcanza cierre material suficiente. Por eso el raigal no se define como una cosa física más, sino como función de arraigo y retorno. Su utilidad aparece precisamente cuando una magnitud cambia de régimen y el análisis debe impedir tres errores: confundir unidad con fundamento, convertir semejanza dimensional en identidad de dominio y borrar residual para producir una salida más cómoda.
+
+## Estado del arte
+
+El primer contraste procede de la metrología contemporánea. La edición vigente de la Brochure SI mantiene el Sistema Internacional como lenguaje público de unidades coherentes y trazables, con siete unidades de base y unidades derivadas que permiten expresar magnitudes físicas y químicas de forma común (Bureau International des Poids et Mesures, 2025). El Vocabulario Internacional de Metrología conserva, por su parte, la distinción entre magnitud, mensurando, valor de medida, procedimiento, incertidumbre y trazabilidad metrológica (Joint Committee for Guides in Metrology, 2012). Esa distinción resulta decisiva para este estudio: una cifra con unidad no basta si no se declara qué se mide, bajo qué dominio, con qué procedimiento y qué residual queda vivo. CODATA actualiza el marco de constantes fundamentales mediante ajustes internacionales; la revisión publicada en *Reviews of Modern Physics* para los valores recomendados de 2022 consolida el valor público de esas constantes, sin convertirlas por ello en fundamento interno de cualquier sistema formal que las use como ancla de retorno (Mohr et al., 2025). En consecuencia, el SI y CODATA son imprescindibles como retorno público y comparación externa; no sustituyen la función de `UR_Ξ^X(D)` ni la necesidad de conservar dominio, transductor, residual y traza.
+
+Junto a la metrología formal aparece la interoperabilidad semántica de unidades. UCUM proporciona una codificación inequívoca de unidades para comunicación electrónica y evita que símbolos iguales o próximos se intercambien sin significado computable (The UCUM Organization, 2024). HL7 FHIR mantiene conjuntos de valores basados en UCUM para intercambio clínico y biomédico, lo que confirma que la unidad debe ser portable, verificable y legible por sistemas diferentes (HL7 International, 2026). QUDT modela cantidades, unidades, dimensiones y tipos de datos en vocabularios semánticos reutilizables; OM ofrece una ontología centrada en unidades, cantidades, medidas y dimensiones (QUDT.org, 2026; Rijgersberg et al., 2013). Estas herramientas resuelven una parte esencial del problema: hacen computable la unidad y su semántica. El raigal aborda otra capa: no solo pregunta cómo se codifica una unidad, sino cómo una magnitud entra en un dominio, conserva raíz nativa, mantiene residual, retorna al SI y conserva traza sin confundirse con otra magnitud de igual dimensión.
+
+Química y ciencia de materiales muestran con especial nitidez el límite de una lectura puramente dimensional. IUPAC mantiene una referencia terminológica para química mediante el *Gold Book*, con versión en línea actualizada y términos individuales provistos de trazabilidad bibliográfica; el propio recurso advierte que algunas definiciones proceden de recomendaciones previas y que la terminología científica puede evolucionar por nuevas recomendaciones (International Union of Pure and Applied Chemistry, 2025). La consecuencia para la matriz raigal es directa: mol, masa molar, concentración, actividad, densidad, potencial químico, fase o sustancia no son simples etiquetas intercambiables; exigen entidad tipada, régimen, convenio y retorno. Una concentración molar y una concentración másica pueden convivir en el mismo problema, pero no se sustituyen por proximidad verbal. La matriz `MRΞ` conserva esa separación al exigir dominio, transductor y residual antes de devolver la magnitud al SI.
+
+Biología molecular, genética y medicina de precisión refuerzan otra restricción: no se cierra por nombre de marcador. HGVS ha consolidado una nomenclatura internacional para describir variantes de ADN, ARN y proteína; su actualización de 2024 incorporó mejoras de gobernanza, versión, usabilidad y gramática computacional para aumentar precisión y procesamiento fiable de descripciones (Hart et al., 2024). ClinVar funciona como archivo público de relaciones comunicadas entre variación humana y condiciones de salud, con evidencia aportada por remitentes y actualización viva de las clasificaciones (National Center for Biotechnology Information, 2026). Las guías ACMG/AMP de interpretación de variantes establecieron una clasificación basada en criterios de evidencia y no en la mera presencia de una variante (Richards et al., 2015). Esta zona externa confirma una regla central del desarrollo: variante no equivale a enfermedad, copia molecular no equivale a función, marcador inmune no equivale a respuesta completa y `U` no debe cerrarse por plausibilidad. El dominio biológico-genético-inmunológico necesita frontera, muestra, canal, barrera, residual, retorno y traza.
+
+La cosmología contemporánea aporta el caso límite de dependencia entre dominio, modelo y retorno observacional. Planck 2018 fijó un banco de referencia para parámetros cosmológicos desde el fondo cósmico de microondas, bajo el modelo ΛCDM y sus extensiones (Planck Collaboration, 2020). Pantheon+ amplió el conjunto de supernovas de tipo Ia y refinó restricciones cosmológicas desde distancias luminosas (Brout et al., 2022; Scolnic et al., 2022). DESI DR2 incorporó mediciones BAO de más de catorce millones de galaxias y cuásares, con indicios de evolución de la energía oscura cuando se combinan distintos bancos observacionales (Abdul-Karim et al., 2025; Lodha et al., 2025). Esta situación externa es especialmente instructiva: edad, distancia, corrimiento al rojo, `H_0`, `Ω_Λ`, `Λ`, CMB, BAO y supernovas no son magnitudes libres; dependen de modelo, calibración, señal, unidad, residual y retorno. El dominio cosmológico de este estudio no mide totalidad absoluta: recibe observables retornados dentro de `Ω_obs` y conserva `U` cuando el banco no permite clausura.
+
+La trazabilidad documental de los datos científicos añade un criterio adicional. Los principios FAIR formularon exigencias de localización, accesibilidad, interoperabilidad y reutilización de datos científicos (Wilkinson et al., 2016). La afinidad con el raigal no está en convertir FAIR en fundamento del SV, sino en reconocer que una salida científica moderna debe conservar trazabilidad suficiente para ser examinada, transmitida y reutilizada. `Tr_D` cumple una función análoga en la arquitectura nativa: no basta retornar una magnitud; debe quedar constancia de dominio, camino de transformación, residual y fuente de cierre. La traza impide que una magnitud aparezca como resultado sin poder reconstruir su procedencia.
+
+Del contraste externo se desprende una conclusión precisa. Hay sistemas sólidos para unidades públicas, constantes, vocabularios metrológicos, codificación computable, ontologías de unidad, nomenclatura química, clasificación genética, intercambio clínico, bancos cosmológicos y trazabilidad de datos. Sin embargo, esos sistemas no proporcionan por sí mismos una referencia nativa que conserve la misma raíz formal al transitar entre dominios heterogéneos con residual vivo. `RN_SV` se sitúa justamente ahí: recibe el SI como retorno público, reconoce los estándares externos como contraste, impide que la unidad externa gobierne el plano interno y exige que cada magnitud conserve dominio, frontera, canal, residual, retorno y traza antes de alcanzar dictamen.
 
 ## I. Raigal, raíz metrológica y matriz de retorno
 
-### I.1. Manifiesto: raíz, apertura y horizonte
+### I.1. Raíz, apertura y horizonte
 
-La palabra `raigal` se toma del español `raíz` y se eleva aquí a término técnico por una razón formal: nombra aquello que arraiga una apertura sin convertirla todavía en masa, energía, calor, campo, distancia, organismo, molécula o señal. La forma `raigal` conserva la referencia a raíz y evita que la unidad nativa quede nombrada por una persona, una escuela o una magnitud externa ya constituida. No se introduce como adorno lingüístico, sino como decisión metrológica: el término debe recordar que toda proyección medible procede de una raíz formal común que se devuelve después, bajo dominio, a unidades públicas.
+La palabra `raigal` procede del español `raíz` y adquiere aquí valor técnico por una razón formal: nombra aquello que arraiga una apertura sin convertirla todavía en masa, energía, calor, campo, distancia, organismo, molécula o señal. La forma `raigal` conserva la referencia a raíz y evita que la unidad nativa quede nombrada por una persona, una escuela o una magnitud externa ya constituida. No se introduce como adorno lingüístico, sino como decisión metrológica: el término debe recordar que toda proyección medible procede de una raíz formal común que se devuelve después, bajo dominio, a unidades públicas.
 
-La elección también responde a una regla de impersonalización metrológica. La historia de la ciencia ha fijado unidades y nombres asociados a investigadores de enorme relevancia: amperio, vatio, gauss, maxwell, tesla, newton, pascal, joule, kelvin, voltio, ohmio y otros. Esta práctica posee valor histórico y reconocimiento legítimo; no se discute el mérito de esos autores ni la utilidad pública de esas unidades. La metrología nativa que se desarrolla aquí adopta otra política: nombrar la función formal de la unidad antes que el nombre propio. Por eso se prefiere raíz → raigal: el patrón no conmemora una autoría, sino que declara una función de conservación, retorno y tránsito entre dominios.
+La elección responde también a una política de impersonalización metrológica. La historia de la ciencia ha fijado unidades y nombres asociados a investigadores de enorme relevancia: amperio, vatio, gauss, maxwell, tesla, newton, pascal, joule, kelvin, voltio, ohmio y otros. Esta práctica posee valor histórico y reconocimiento legítimo; no se discute el mérito de esos autores ni la utilidad pública de esas unidades. La metrología nativa que se desarrolla aquí adopta otra política: nombrar la función formal de la unidad antes que el nombre propio. Por eso se prefiere raíz → raigal: el patrón no conmemora una autoría, sino que declara una función de conservación, retorno y tránsito entre dominios.
 
-La consecuencia es metrológica y no retórica: el raigal permite hablar de una unidad raíz común dentro del universo de medida nativa. Cuando el análisis transita desde física a química, de química a biología, de biología a medicina, o desde señal a inmunología, la unidad externa puede cambiar, pero la referencia interna no se dispersa. Un valor puede volver al SI como kilogramo, julio, kelvin, mol, amperio, pascal, tesla o vatio; internamente, se conserva como retorno raigal de una magnitud bajo dominio, transductor, residual y traza. Esa conservación evita rehacer la traducción de unidades en cada subdominio.
+La consecuencia pertenece al plano metrológico, no al retórico: el raigal permite hablar de una unidad raíz común dentro del universo de medida nativa. Cuando el análisis transita desde física a química, de química a biología, de biología a medicina, o desde señal a inmunología, la unidad externa puede cambiar, pero la referencia interna no se dispersa. Un valor puede volver al SI como kilogramo, julio, kelvin, mol, amperio, pascal, tesla o vatio; internamente, se conserva como retorno raigal de una magnitud bajo dominio, transductor, residual y traza. Esa conservación evita rehacer la traducción de unidades en cada subdominio.
 
 | Plano terminológico | Forma adoptada | Función | Riesgo evitado |
 |---|---|---|---|
@@ -57,11 +159,11 @@ El raigal no debe buscarse en ninguna de esas proyecciones ya constituidas. No e
 
 La formulación basal puede expresarse así: la apertura de imperfección actúa como ruptura formal de la indiferenciación, y el raigal comparece como respuesta de arraigo. No se traslada mecánicamente la ley de Newton al plano de fundamentos: no hay cuerpos, fuerza mecánica ni tiempo físico. Hay estructura de balance: la apertura impide el cierre indiferenciado; el raigal impide que esa apertura quede sin raíz. La tesis rectora queda fijada en estos términos: **el raigal no cancela la imperfección; la arraiga**.
 
-Por eso el raigal puede contarse, pero no como sustancia. Contar raigales no significa medir gramos, julios, voltios, campos o partículas de raigal. Significa contar incidencias de raíz generativa admitidas en un dominio, o, en régimen transducido, contar unidades de horizonte raigal devueltas por la métrica propia del dominio. Una especie puede tener horizonte raigal transducido a años, generaciones o ciclos biológicos; una estrella puede tener horizonte raigal transducido a régimen estelar; una célula puede tenerlo transducido a divisiones, retorno metabólico o clausura funcional; el universo observable puede tenerlo transducido a métrica ciclo-distancial. El raigal no es el año, ni el suceso, ni la división celular, ni la combustión estelar. Es la raíz formal cuya apertura vigente puede devolverse mediante esas métricas cuando el dominio lo permite.
+El raigal puede contarse, aunque nunca como sustancia. Contar raigales no significa medir gramos, julios, voltios, campos o partículas de raigal. Significa contar incidencias de raíz generativa admitidas en un dominio, o, en régimen transducido, contar unidades de horizonte raigal devueltas por la métrica propia del dominio. Una especie puede tener horizonte raigal transducido a años, generaciones o ciclos biológicos; una estrella puede tener horizonte raigal transducido a régimen estelar; una célula puede tenerlo transducido a divisiones, retorno metabólico o clausura funcional; el universo observable puede tenerlo transducido a métrica ciclo-distancial. El raigal no es el año, ni el suceso, ni la división celular, ni la combustión estelar. Es la raíz formal cuya apertura vigente puede devolverse mediante esas métricas cuando el dominio lo permite.
 
-La distinción esencial es la siguiente: **raigal no equivale a duración efectiva**. Un vehículo situado a doscientos cuarenta kilómetros de su destino y desplazándose a ciento veinte kilómetros por hora posee un horizonte teórico de dos horas si conserva condiciones de retorno: ausencia de accidente, bloqueo climático, avería o interrupción externa. Del mismo modo, un observable posee un horizonte formal de retorno bajo dominio declarado; sin embargo, un residual interno o externo puede anticipar, desviar o clausurar su trayectoria efectiva. Una parada cardíaca no atendida puede clausurar el cuerpo físico humano antes de su horizonte biológico ordinario. Un incendio puede clausurar un árbol antes de su horizonte propio. Un impacto, una enfermedad, una mutación letal, una catástrofe, un agotamiento interno o una intervención externa pueden modificar la clausura efectiva sin invalidar el horizonte formal.
+La distinción decisiva es esta: **raigal no equivale a duración efectiva**. Un vehículo situado a doscientos cuarenta kilómetros de su destino y desplazándose a ciento veinte kilómetros por hora posee un horizonte teórico de dos horas si conserva condiciones de retorno: ausencia de accidente, bloqueo climático, avería o interrupción externa. Del mismo modo, un observable posee un horizonte formal de retorno bajo dominio declarado; sin embargo, un residual interno o externo puede anticipar, desviar o clausurar su trayectoria efectiva. Una parada cardíaca no atendida puede clausurar el cuerpo físico humano antes de su horizonte biológico ordinario. Un incendio puede clausurar un árbol antes de su horizonte propio. Un impacto, una enfermedad, una mutación letal, una catástrofe, un agotamiento interno o una intervención externa pueden modificar la clausura efectiva sin invalidar el horizonte formal.
 
-La formulación operativa es:
+En notación operativa:
 
 `H_Ξ(o,D)` = horizonte raigal formal del observable `o` en el dominio `D`.
 
@@ -75,7 +177,7 @@ La formulación operativa es:
 
 Aquí `f_Ξ` mide fracción recorrida del horizonte formal; `α_Ξ` mide apertura raigal vigente restante. No mide sustancia raigal. No mide energía oculta. No mide tiempo soberano. Mide fracción de retorno formal bajo dominio.
 
-El régimen activo del observable queda en el intervalo abierto:
+El observable conserva régimen activo en el intervalo abierto:
 
 `0 < α_Ξ(o,D,M) < 1`
 
@@ -87,9 +189,9 @@ equivalentemente:
 
 `f_Ξ(o,D,M)=1/2`
 
-Un observable en semiclausura raigal ha recorrido la mitad de su horizonte formal y conserva la mitad de su apertura vigente. El universo observable retornado, bajo la métrica ciclo-distancial ya publicada, aparece exactamente en esa condición: mitad recorrida y mitad restante. Esa coincidencia no debe leerse como prueba absoluta del raigal, sino como convergencia estructural robusta entre edad de dominio, apertura vigente, clausura formal y transducción metrológica.
+Un observable en semiclausura raigal ha recorrido la mitad de su horizonte formal y conserva la mitad de su apertura vigente. El universo observable retornado, bajo la métrica ciclo-distancial ya fijada, aparece exactamente en esa condición: mitad recorrida y mitad restante. Esa coincidencia no debe leerse como prueba absoluta del raigal, sino como convergencia estructural robusta entre edad de dominio, apertura vigente, clausura formal y transducción metrológica.
 
-La familia de transductores raigales no nace por enumeración libre. Debe derivarse de la forma general de transducción de observabilidad: dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza. La forma rectora es:
+Los transductores raigales no proceden de una enumeración libre. Debe derivarse de la forma general de transducción de observabilidad: dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza. La forma rectora es:
 
 `𝔛_Ξ^X(o,D)=𝓖★TrU(D)[H_Ξ(o,D)]`
 
@@ -97,7 +199,7 @@ donde `X` designa el retorno transducido que se desea leer: tiempo, sucesos, mas
 
 `𝔛_Ξ^X(o,D)=(Ω_D(o),M_D^X(o),F_D(o),I_D(o),C_D(o),B_D(o),Δ_Ξ^X(o),R_D^X(o),Tr_D(o))`
 
-La salida del transductor queda:
+El transductor devuelve:
 
 `H_Ξ^X(o,D)=𝔛_Ξ^X[H_Ξ(o,D)]`
 
@@ -118,13 +220,13 @@ La regla común es estricta:
 
 `𝔛_Ξ^X(o,D)=0 ⇔ Ω_D∧M_D^X∧F_D∧I_D∧C_D∧B_D∧Δ_Ξ^X∧R_D^X∧Tr_D` cierran sin contradicción material.
 
-Si el cierre es incompleto sin contradicción, el resultado es `U`. Si alguna condición constitutiva se contradice, la salida se rechaza. La familia de transductores raigales conserva así una doble fidelidad: al SV, porque no acepta cálculo sin dominio, residual y retorno; y a la ciencia contemporánea, porque devuelve el resultado en unidad, entidad o semántica reconocible por el dominio externo.
+Si el cierre es incompleto sin contradicción, el resultado es `U`. Si alguna condición constitutiva se contradice, la salida se rechaza. Los transductores raigales conservan así una doble fidelidad: al SV, porque no acepta cálculo sin dominio, residual y retorno; y a la ciencia contemporánea, porque devuelve el resultado en unidad, entidad o semántica reconocible por el dominio externo.
 
 ### I.2. Articulación metrológica de los transductores raigales
 
-La familia `𝔛_Ξ` no puede operar sin disciplina metrológica. El horizonte raigal formal `H_Ξ(o,D)` solo se vuelve contrastable cuando un transductor devuelve su lectura a una magnitud, unidad o entidad de dominio. Esa devolución debe respetar los primitivos metrológicos del SV y su delimitación negativa: cada unidad es una instanciación contingente compatible con el Sistema Internacional, no una verdad constitutiva del raigal ni una importación de la teoría física de la que procede su constante ancla.
+La familia `𝔛_Ξ` exige disciplina metrológica. El horizonte raigal formal `H_Ξ(o,D)` solo se vuelve contrastable cuando un transductor devuelve su lectura a una magnitud, unidad o entidad de dominio. Esa devolución debe respetar los primitivos metrológicos del SV y su delimitación negativa: cada unidad es una instanciación contingente compatible con el Sistema Internacional, no una verdad constitutiva del raigal ni una importación de la teoría física de la que procede su constante ancla.
 
-La regla de base queda fijada así:
+La regla de base se expresa así:
 
 `H_Ξ^X(o,D)=𝔛_Ξ^X[H_Ξ(o,D)] → unidad_SV ↔ unidad_externa`
 
@@ -150,23 +252,23 @@ El uso de `UE_MFC`, `UFE`, `UFM`, `UFC`, `UFT` y `UFCE` no convierte al raigal e
 
 Las unidades derivadas se admiten solo por composición de primitivos ya declarados. La energía retorna como `UFM·UFE²·UE_MFC⁻²`; la potencia como `UFM·UFE²·UE_MFC⁻³`; la presión como `UFM·UFE⁻¹·UE_MFC⁻²`; la entropía física como `UFM·UFE²·UE_MFC⁻²·UFT⁻¹`; la masa molar como `UFM·UFCE⁻¹`. Estas formas no amplían el raigal: solo fijan cómo una proyección de dominio vuelve a ciencia contemporánea con unidad verificable.
 
-La candela queda fuera del núcleo raigal. Si una aplicación exige fotometría, luminosidad o respuesta visual, podrá referirse al SI o al dominio físico correspondiente, pero no debe elevar `K_cd` a primitivo raigal. El raigal no se mide por percepción luminosa humana ni por eficacia psicofísica.
+La candela queda fuera del núcleo raigal. Si una aplicación exige fotometría, luminosidad o respuesta visual, podrá referirse al SI o al dominio físico correspondiente, pero no debe elevar `K_cd` a primitivo raigal. No hay medida raigal por percepción luminosa humana ni por eficacia psicofísica.
 
-La fila de banco materialmente contrastable es:
+La fila de banco materialmente contrastable adopta esta forma:
 
 `observable | dominio | H_Ξ(o,D) | transductor 𝔛_Ξ^X | unidad SV | unidad externa | valor recorrido m_D^X | horizonte H_Ξ^X | f_Ξ | α_Ξ | ρ_int | ρ_ext | retorno | traza | dictamen`
 
 Esta fila impone el mismo criterio a una persona, una tortuga gigante, una ballena, un árbol longevo, una célula, una especie extinguida, una estrella o el universo observable. Si el dominio devuelve años, se usa `𝔛_Ξ^t` bajo `UE_MFC` y retorno externo temporal. Si devuelve masa, se usa `𝔛_Ξ^M` bajo `UFM`. Si devuelve metabolismo, combustión, radiación o calor, se usan `𝔛_Ξ^E`, `𝔛_Ξ^P`, `𝔛_Ξ^Q` y, cuando proceda, `𝔛_Ξ^Θ`. Si devuelve población, células, moléculas o copias, se usa `𝔛_Ξ^N` o unidad discreta de dominio. Si devuelve extinción, documento, fósil, señal o memoria, se usa `𝔛_Ξ^Tr` y no se declara continuidad viva salvo retorno propio del dominio.
 
-La regla crítica es estricta: sin unidad no hay banco metrológico; sin dominio no hay transductor; sin residual no hay dictamen; sin retorno externo no hay contraste; sin traza no hay cierre materialmente suficiente. El cálculo de raigales solo empieza cuando la raíz formal de apertura se ha devuelto a una magnitud de dominio sin perder su delimitación negativa.
+La restricción crítica es estricta: sin unidad no hay banco metrológico; sin dominio no hay transductor; sin residual no hay dictamen; sin retorno externo no hay contraste; sin traza no hay cierre materialmente suficiente. El cálculo de raigales solo empieza cuando la raíz formal de apertura se ha devuelto a una magnitud de dominio sin perder su delimitación negativa.
 
 ### I.3. Matriz de proyecciones raigales al Sistema Internacional
 
-La Matriz de proyecciones raigales al Sistema Internacional se introduce para fijar un patrón nativo de conservación transductiva entre dominios. Su función no es sustituir el Sistema Internacional ni declarar que las unidades externas proceden históricamente del raigal. Su función es conservar una referencia interna común cuando una magnitud cambia de dominio y debe volver a una unidad pública. El SI devuelve valores externos en kilogramo, metro, segundo, kelvin, mol, amperio, julio, vatio, pascal, tesla, voltio por metro u otras unidades admitidas; la matriz conserva, bajo esas salidas, la inscripción nativa en `UE_MFC`, `UFE`, `UFM`, `UFC`, `UFT`, `UFCE` y sus formas derivadas. Con ello, el tránsito de física a química, biología, medicina, materiales, señal o termodinámica no exige rehacer desde cero el régimen de unidades: se conserva el raigal como referencia interna de lectura, y cada dominio devuelve su magnitud externa con residual visible.
+La Matriz de proyecciones raigales al Sistema Internacional fija un patrón nativo de conservación transductiva entre dominios. No sustituye el Sistema Internacional ni afirma que las unidades externas procedan históricamente del raigal; conserva una referencia interna común cuando una magnitud cambia de dominio y debe volver a una unidad pública. El SI devuelve valores externos en kilogramo, metro, segundo, kelvin, mol, amperio, julio, vatio, pascal, tesla, voltio por metro u otras unidades admitidas; la matriz conserva, bajo esas salidas, la inscripción nativa en `UE_MFC`, `UFE`, `UFM`, `UFC`, `UFT`, `UFCE` y sus formas derivadas. Con ello, el tránsito de física a química, biología, medicina, materiales, señal o termodinámica no exige rehacer desde cero el régimen de unidades: se conserva el raigal como referencia interna de lectura, y cada dominio devuelve su magnitud externa con residual visible.
 
 La matriz no afirma que exista una sustancia llamada “masa raigal”, “energía raigal” o “campo raigal”. La forma correcta es: raigal de `X` significa retorno metrológico del horizonte raigal mediante el transductor `𝔛_Ξ^X` bajo dominio declarado. Por tanto, “raigal de masa” no identifica el raigal con masa; designa la proyección que permite recibir, conservar y devolver una masa de dominio. “Raigal de energía” no identifica el raigal con energía; designa el retorno de una eficacia energética declarada. “Raigal de campo eléctrico” no declara un campo propio del raigal; exige configuración, potencial, distancia, carga, frontera y canal. La matriz protege así dos extremos: evita que el SI gobierne silenciosamente el plano interno y evita que el raigal se convierta en magnitud física directa.
 
-El patrón de arranque queda:
+El patrón de arranque es:
 
 `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)`
 
@@ -184,11 +286,11 @@ El retorno externo queda:
 
 `V_SI^X=τ_{Ξ→SI}^X(V_Ξ^X;D)`
 
-El residual queda expresado también en términos de raigales:
+El residual se expresa también en términos de raigales:
 
 `R_Ξ^X(D)=τ_{SI→Ξ}^X(R_SI^X;D) [UR_Ξ^X(D)]`
 
-De este modo, el residual no queda como diferencia dispersa en kilogramos, julios, pascales, kelvin o teslas. Primero se conserva como residual de la proyección raigal correspondiente; después puede devolverse al SI si el dominio lo requiere. Esta es la ventaja principal: los subdominios pueden usar sus unidades externas, pero el análisis no pierde continuidad interna al transitar entre ellos.
+Así, el residual no aparece como diferencia dispersa en kilogramos, julios, pascales, kelvin o teslas. Primero se conserva como residual de la proyección raigal correspondiente; después puede devolverse al SI si el dominio lo requiere. Esta es la ventaja principal: los subdominios pueden usar sus unidades externas, pero el análisis no pierde continuidad interna al transitar entre ellos.
 
 La forma general de la matriz es:
 
@@ -196,15 +298,15 @@ La forma general de la matriz es:
 
 donde `D_X` es el dominio requerido por la magnitud, `U_SV^X` es la unidad nativa o forma derivada, `UR_Ξ^X(D)` es la unidad de retorno raigal, `U_SI^X` es la unidad externa, `V_SI^X` el valor retornado, `V_Ξ^X` el valor conservado internamente, `R_Ξ^X` el residual expresado en raigales, `Ret_X` el retorno externo, `Tr_X` la traza y `Dict_X` la salida ternaria.
 
-La condición de cierre queda:
+El cierre exige:
 
 `MRΞ(P_H₂O,D,X)=0 ⇔ unidad nativa ∧ UR_Ξ^X(D) ∧ unidad SI ∧ dominio ∧ transductor ∧ frontera ∧ canal ∧ residual ∧ retorno ∧ traza cierran sin contradicción`
 
-Si falta una condición sin contradicción material, la salida queda:
+Cuando falta una condición sin contradicción material, la salida es:
 
 `MRΞ(P_H₂O,D,X)=U`
 
-Si se identifica el raigal con la magnitud SI, o si se arrastra una unidad externa entre dominios sin transductor y residual, la salida queda rechazada:
+Si el raigal se identifica con la magnitud SI, o si una unidad externa se arrastra entre dominios sin transductor y residual, la salida se rechaza:
 
 `MRΞ(P_H₂O,D,X)=1`
 
@@ -231,19 +333,19 @@ Si se identifica el raigal con la magnitud SI, o si se arrastra una unidad exter
 | Raigal de campo magnético | `𝔛_Ξ^B` | `UFM·UE_MFC⁻²·UFC⁻¹` | `UR_Ξ^B(D)` | T | `U` | electromagnetismo, resonancia, materiales, plasma, imagen médica | cuando hay corriente, geometría o inducción | cuando se asigna magnetismo al patrón sin configuración | `V_Ξ^B=B_Ξ·UR_Ξ^B`; `R_Ξ^B` mide residual de inducción o canal | `U` sin configuración |
 | Raigal de entropía | `𝔛_Ξ^S` | `UFM·UFE²·UE_MFC⁻²·UFT⁻¹` | `UR_Ξ^S(D)` | J·K⁻¹ | `U` | termodinámica, química, biología, información física, clínica metabólica | cuando hay proceso térmico y régimen declarado | cuando se usa como desorden verbal | `V_Ξ^S=S_Ξ·UR_Ξ^S`; `R_Ξ^S` mide no clausura de régimen | `U` sin proceso |
 
-La matriz puede ampliarse a concentración, dosis, caudal, frecuencia, aceleración, campo gravitatorio, potencial eléctrico, resistencia, conductividad, viscosidad, osmolaridad, actividad química, dosis absorbida, presión parcial, señal clínica o cualquier magnitud especializada, siempre que conserve la misma forma: unidad nativa, unidad de retorno raigal, unidad SI, dominio, transductor, frontera, canal, residual, retorno y traza. Si la magnitud pertenece a un subdominio médico, por ejemplo, no se recibe como dato clínico desnudo: entra como cantidad, masa, volumen, concentración, presión, señal, temperatura, energía, carga o entidad de dominio, con residual propio y retorno externo. Si pertenece a biología, se recibe como entidad, ciclo, masa, energía, señal, continuidad, traza o frontera viva. Si pertenece a química, se recibe como cantidad, composición, masa molar, densidad, volumen, enlace, energía de reacción, calor o fase. En todos los casos se conserva la misma unidad de retorno raigal correspondiente, y el SI queda como retorno público verificable.
+La matriz admite ampliación a concentración, dosis, caudal, frecuencia, aceleración, campo gravitatorio, potencial eléctrico, resistencia, conductividad, viscosidad, osmolaridad, actividad química, dosis absorbida, presión parcial, señal clínica o cualquier magnitud especializada, siempre que conserve la misma forma: unidad nativa, unidad de retorno raigal, unidad SI, dominio, transductor, frontera, canal, residual, retorno y traza. Si la magnitud pertenece a un subdominio médico, por ejemplo, no se recibe como dato clínico desnudo: entra como cantidad, masa, volumen, concentración, presión, señal, temperatura, energía, carga o entidad de dominio, con residual propio y retorno externo. Si pertenece a biología, se recibe como entidad, ciclo, masa, energía, señal, continuidad, traza o frontera viva. Si pertenece a química, se recibe como cantidad, composición, masa molar, densidad, volumen, enlace, energía de reacción, calor o fase. En todos los casos se conserva la misma unidad de retorno raigal correspondiente, y el SI queda como retorno público verificable.
 
-La ventaja mayor de la matriz es la conservación interdominio. En un tránsito física → química, la masa, la energía o la carga pueden cambiar de régimen operativo, pero no pierden su inscripción nativa. En un tránsito química → biología, la cantidad de entidad, la masa, el volumen, la concentración, la temperatura o el calor pueden reorganizarse, pero siguen referidos a `UR_Ξ^X(D)` y a la unidad nativa que corresponda. En un tránsito biología → medicina, la misma continuidad permite hablar de dosis, volumen, concentración, presión, señal, energía, temperatura o carga sin empezar una traducción nueva para cada subdominio. El patrón raigal no elimina el SI; evita que el análisis se fragmente cuando el SI cambia de magnitud externa por cambio de dominio.
+Su ventaja principal es la conservación interdominio. En un tránsito física → química, la masa, la energía o la carga pueden cambiar de régimen operativo, pero no pierden su inscripción nativa. En un tránsito química → biología, la cantidad de entidad, la masa, el volumen, la concentración, la temperatura o el calor pueden reorganizarse, pero siguen referidos a `UR_Ξ^X(D)` y a la unidad nativa que corresponda. En un tránsito biología → medicina, la misma continuidad permite hablar de dosis, volumen, concentración, presión, señal, energía, temperatura o carga sin empezar una traducción nueva para cada subdominio. El patrón raigal no elimina el SI; evita que el análisis se fragmente cuando el SI cambia de magnitud externa por cambio de dominio.
 
-La regla de uso queda:
+Regla de uso:
 
 `usar MRΞ ⇔ el problema exige comparar, conservar o devolver una magnitud entre dominios distintos`
 
-La regla de no uso queda:
+Regla de no uso:
 
 `no usar MRΞ ⇔ el problema pertenece a un solo dominio ya cerrado y no exige transducción, o cuando se pretende identificar el raigal con la magnitud externa`
 
-La regla de residual queda:
+Regla de residual:
 
 `R_Ξ^X(D)=0` si la proyección cierra en unidad nativa, unidad de retorno, unidad SI, dominio, frontera, canal, retorno y traza.
 
@@ -251,13 +353,13 @@ La regla de residual queda:
 
 `R_Ξ^X(D)=1` si hay contradicción de dominio, unidad, transductor, frontera, canal, retorno o identificación indebida entre raigal y magnitud SI.
 
-Con esta matriz, los términos “raigal de masa”, “raigal de energía”, “raigal de calor”, “raigal de potencia”, “raigal de campo eléctrico”, “raigal de campo magnético”, “raigal de gravedad”, “raigal de distancia”, “raigal de volumen” o “raigal de cantidad” quedan autorizados como expresiones técnicas de proyección y retorno, no como nombres de sustancias. Cada término conserva su unidad nativa, su unidad de retorno raigal, su unidad SI, su valor si el patrón lo permite, su residual y su dictamen. La matriz convierte el raigal en referencia común de tránsito sin convertirlo en magnitud física directa.
+Bajo esta matriz, los términos “raigal de masa”, “raigal de energía”, “raigal de calor”, “raigal de potencia”, “raigal de campo eléctrico”, “raigal de campo magnético”, “raigal de gravedad”, “raigal de distancia”, “raigal de volumen” o “raigal de cantidad” quedan autorizados como expresiones técnicas de proyección y retorno, no como nombres de sustancias. Cada término conserva su unidad nativa, su unidad de retorno raigal, su unidad SI, su valor si el patrón lo permite, su residual y su dictamen. La matriz convierte el raigal en referencia común de tránsito sin convertirlo en magnitud física directa.
 
 ### I.4. Matrices derivadas por familias de magnitudes
 
-La matriz principal fija la recepción y el retorno de magnitudes generales. Sin embargo, varias familias de magnitudes derivadas no conviene mezclarlas en una única fila. Potencia activa, potencia reactiva y potencia aparente tienen la misma dimensión de potencia, pero no la misma función. Concentración molar, concentración másica, osmolaridad, copias por volumen y título inmunológico tampoco son intercambiables aunque todas operen sobre cantidad, entidad o volumen. Por ello se añaden matrices derivadas por familias de magnitudes: no constituyen dominios cerrados y no sustituyen a la matriz principal; preparan el uso especializado cuando un dominio posterior exija distinguir magnitudes con igual dimensión o con retorno externo próximo.
+La matriz principal fija recepción y retorno de magnitudes generales. Varias familias derivadas, sin embargo, no deben mezclarse en una única fila. Potencia activa, potencia reactiva y potencia aparente tienen la misma dimensión de potencia, pero no la misma función. Concentración molar, concentración másica, osmolaridad, copias por volumen y título inmunológico tampoco son intercambiables aunque todas operen sobre cantidad, entidad o volumen. Por ello se añaden matrices derivadas por familias de magnitudes: no constituyen dominios cerrados y no sustituyen a la matriz principal; preparan el uso especializado cuando un dominio posterior exija distinguir magnitudes con igual dimensión o con retorno externo próximo.
 
-La regla común de estas matrices es:
+Estas matrices obedecen una regla común:
 
 `MRΞ_sub(P_H₂O,D,X_i)=0 ⇔ MRΞ(P_H₂O,D,X)=0 ∧ especialización de dominio ∧ magnitud derivada bien tipada ∧ residual propio declarado`
 
@@ -367,15 +469,14 @@ La regla de cierre para matrices derivadas queda:
 
 `MRΞ_sub=1` cuando se usa una magnitud especializada como si fuera otra por simple coincidencia dimensional o por proximidad verbal.
 
-El beneficio principal permanece: el raigal conserva una referencia común de medida dentro de la arquitectura nativa. El SI devuelve valores al lenguaje público; la matriz conserva continuidad formal entre dominios. Por eso un mismo proceso puede ser seguido como masa en física, como concentración en química, como dosis en medicina, como copias por volumen en genética, como células por volumen en inmunología y como señal en instrumentación sin perder el patrón raíz que articula dominio, transductor, residual y retorno.
-
+El beneficio se mantiene: el raigal conserva una referencia común de medida dentro de la arquitectura nativa. El SI devuelve valores al lenguaje público; la matriz conserva continuidad formal entre dominios. Por eso un mismo proceso puede ser seguido como masa en física, como concentración en química, como dosis en medicina, como copias por volumen en genética, como células por volumen en inmunología y como señal en instrumentación sin perder el patrón raíz que articula dominio, transductor, residual y retorno.
 
 
 ## II. Especialización por dominios de las proyecciones raigales
 
-La matriz principal fija la proyección general de las magnitudes y las matrices derivadas separan familias especializadas. Falta un tercer nivel: el dominio. Un dominio no es una lista de unidades, sino un régimen de lectura con magnitudes propias, restricciones, procesos, frontera, residual, retorno y trazabilidad. Por eso la especialización por dominios no repite la matriz general; la aplica allí donde cada campo de trabajo exige distinguir qué magnitudes son primitivas del dominio externo, cuáles son derivadas, cuáles necesitan proceso declarado y cuáles deben permanecer en `U` hasta que exista tránsito suficiente.
+La proyección general de las magnitudes ya está fijada, y las matrices derivadas separan familias especializadas. Falta un tercer nivel: el dominio. Un dominio no es una lista de unidades, sino un régimen de lectura con magnitudes propias, restricciones, procesos, frontera, residual, retorno y trazabilidad. Por eso la especialización por dominios no repite la matriz general; la aplica allí donde cada campo de trabajo exige distinguir qué magnitudes son primitivas del dominio externo, cuáles son derivadas, cuáles necesitan proceso declarado y cuáles deben permanecer en `U` hasta que exista tránsito suficiente.
 
-La regla general de entrada queda:
+La entrada general se expresa así:
 
 `Dom_Ξ(D)=0 ⇔ dominio declarado ∧ magnitudes propias ∧ transductores compatibles ∧ unidades nativas ∧ unidades externas ∧ frontera ∧ canal ∧ residual ∧ retorno ∧ traza`
 
@@ -383,13 +484,13 @@ Si un dominio usa una magnitud con el mismo nombre que otro dominio, no se presu
 
 ### II.1. Termodinámica: balance, calor, trabajo, entropía y retorno térmico
 
-La termodinámica se incorpora como primer dominio especializado porque reúne en un mismo régimen las magnitudes que mejor prueban la utilidad de la matriz raigal: calor, trabajo, temperatura, entalpía, presión, potencia, capacidad térmica, cambio de fase, frontera, residual y no clausura. Su función no es convertir el raigal en energía térmica ni en entropía. Su función es mostrar cómo una raíz metrológica común permite recibir y devolver magnitudes térmicas sin perder unidad nativa, unidad SI, proceso, frontera y residual.
+La termodinámica abre la especialización de dominios porque reúne en un mismo régimen magnitudes que prueban con especial claridad la utilidad de la matriz raigal: calor, trabajo, temperatura, entalpía, presión, potencia, capacidad térmica, cambio de fase, frontera, residual y no clausura (Lloret Egea, 2026i, 2026j). No convierte el raigal en energía térmica ni en entropía. Muestra cómo una raíz metrológica común recibe y devuelve magnitudes térmicas sin perder unidad nativa, unidad SI, proceso, frontera y residual.
 
-El dominio termodinámico se lee aquí desde una sección especializada:
+Su lectura adopta una forma especializada:
 
 `Ω_th(Γ,n)=(𝒜_th(Γ,n),𝓗_th(Γ,n),𝒥_Γ(Γ,n),ℛ_Γ(Γ,n),ℬ_∂(Γ,n))`
 
-con cinco componentes: acumulación de contenido de dominio, entropía estructural, sensibilidad o jacobiano, residual y frontera. La forma de balance queda:
+con cinco componentes: acumulación de contenido de dominio, entropía estructural, sensibilidad o jacobiano, residual y frontera. El balance se expresa así:
 
 `𝔇_ΓΩ_th(Γ,n)·𝖦_th=0`
 
@@ -450,7 +551,7 @@ Estas fórmulas no sustituyen la matriz raigal. La especializan. Cada magnitud t
 
 #### Patrón `P_H₂O` en el dominio termodinámico
 
-El patrón `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` permite iniciar el dominio, pero no lo cierra por sí solo. Cantidad, masa, densidad, volumen, presión de banco y temperatura de banco pueden retornarse con unidad nativa y unidad externa declaradas. En cambio, calor, trabajo, potencia, entropía, energía libre, cambio de fase, conductividad o difusividad exigen proceso adicional. Sin proceso, la salida correcta es `U`.
+En termodinámica, `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` abre la lectura, pero no la cierra por sí solo. Cantidad, masa, densidad, volumen, presión de banco y temperatura de banco pueden retornarse con unidad nativa y unidad externa declaradas. En cambio, calor, trabajo, potencia, entropía, energía libre, cambio de fase, conductividad o difusividad exigen proceso adicional. Sin proceso, la salida correcta es `U`.
 
 | Entrada del patrón | Unidad nativa | Retorno externo | Estado en el banco | Residual |
 |---|---|---|---|---|
@@ -487,37 +588,36 @@ y la temperatura de dominio, cuando procede, solo puede leerse si `𝔇_Γ𝓗_t
 
 #### Criterio de admisibilidad del dominio
 
-La condición de admisibilidad termodinámica queda:
+La admisión termodinámica exige:
 
 `Termo_Ξ admisible ⇔ D_th declarado ∧ Ω_th construida ∧ π_W,π_Q,π_U,π_F,π_Θ,π_Λ tipadas ∧ unidad nativa ∧ unidad SI ∧ proceso térmico cuando proceda ∧ frontera ∧ residual ∧ retorno ∧ traza ∧ conservación de U ∧ no identificación del raigal con energía, calor, temperatura o entropía`
 
 Si falta el proceso térmico, la salida queda en `U`. Si se usa temperatura como calor, rechazo. Si se declara entropía como desorden verbal, rechazo. Si se omite la no clausura `𝒰_th`, rechazo. Si se toma `P_H₂O` como fundamento en lugar de banco, rechazo. Si se arrastra una constante externa sin transductor y residual, rechazo.
 
-Queda viva una reserva de normalización dimensional: en la matriz de retorno se adopta para magnitudes energéticas la forma nativa `UFM·UFE²·UE_MFC⁻²`, compatible con el retorno externo en julios. Si una variable interna de sección conserva una convención distinta por su documento de origen, esa diferencia debe tratarse como normalización pendiente de la notación del dominio antes de declarar cierre dimensional publicable. No se resuelve por inferencia ni se maquilla como cierre: se conserva como deuda técnica visible hasta que el banco termodinámico común la verifique.
+Permanece una reserva de normalización dimensional: en la matriz de retorno se adopta para magnitudes energéticas la forma nativa `UFM·UFE²·UE_MFC⁻²`, compatible con el retorno externo en julios. Si una variable interna conserva una convención distinta por su documento de origen, esa diferencia debe tratarse como normalización pendiente de la notación del dominio antes de declarar cierre dimensional suficiente. No se resuelve por inferencia ni se maquilla como cierre: se conserva como punto de revisión técnica visible hasta que el banco termodinámico común la verifique.
 
-Con esta primera especialización, la arquitectura gana una regla fuerte: el raigal puede sostener un tránsito termodinámico completo sin ser calor, trabajo, energía, temperatura ni entropía. El dominio devuelve esas magnitudes en unidades públicas; la referencia nativa conserva su continuidad por `UR_Ξ^X(D_th)` y por el residual correspondiente.
-
+El criterio térmico queda delimitado: el raigal puede sostener un tránsito termodinámico completo sin ser calor, trabajo, energía, temperatura ni entropía. Las magnitudes vuelven a unidades públicas; la referencia nativa conserva continuidad por `UR_Ξ^X(D_th)` y por el residual correspondiente.
 
 
 ### II.2. Electricidad y campo magnético: carga, corriente, campo, frontera y propagación
 
-La electricidad y el campo magnético se incorporan como segundo dominio especializado porque reúnen carga, corriente, campo eléctrico, inducción magnética, campo magnético, desplazamiento eléctrico, energía de campo, flujo por frontera, condiciones de contorno y propagación. Su función dentro de esta obra no es convertir el raigal en campo, carga, corriente, onda o potencia eléctrica. Su función es fijar cómo una proyección raigal puede retornar por magnitudes eléctricas y magnéticas cuando el dominio declara fuente, medio, frontera, canal, residual, retorno y traza.
+La electricidad y el campo magnético reúnen carga, corriente, campo eléctrico, inducción magnética, campo magnético, desplazamiento eléctrico, energía de campo, flujo por frontera, condiciones de contorno y propagación (Lloret Egea, 2026k, 2026l). No convierte el raigal en campo, carga, corriente, onda o potencia eléctrica; fija cómo una proyección raigal retorna por magnitudes eléctricas y magnéticas cuando el dominio declara fuente, medio, frontera, canal, residual, retorno y traza.
 
-El dominio eléctrico-magnético no se recibe como una lista de unidades, sino como un régimen cerrado de relaciones. La lectura de estado queda:
+El régimen eléctrico-magnético no se reduce a una lista de unidades; se recibe como sistema cerrado de relaciones. Su estado se lee como:
 
 `𝕏_em=(D,B,E,H)`
 
-donde `D` designa desplazamiento eléctrico de dominio, `B` inducción magnética, `E` campo eléctrico y `H` campo magnético. La lectura de fuentes queda:
+donde `D` designa desplazamiento eléctrico de dominio, `B` inducción magnética, `E` campo eléctrico y `H` campo magnético. Las fuentes se ordenan así:
 
 `𝕐_em=(ρ,0,0,J)`
 
-donde `ρ` designa densidad de carga y `J` densidad de corriente. La lectura constitutiva queda:
+donde `ρ` designa densidad de carga y `J` densidad de corriente. La lectura constitutiva adopta la forma:
 
 `ℂ_em=(ε_em,μ_em,σ_em)`
 
 con permitividad, permeabilidad y conductividad de dominio. En lectura raigal, estos objetos no son fundamento del raigal: son magnitudes devueltas por el dominio eléctrico-magnético cuando la proyección está suficientemente tipada.
 
-El bloque de primer orden del dominio queda:
+El sistema de primer orden del dominio queda:
 
 `Div_em(D)=ρ`
 
@@ -539,43 +639,43 @@ Las relaciones constitutivas del dominio quedan:
 
 Estas relaciones son necesarias para no confundir campo con medio. El campo eléctrico no determina por sí solo el desplazamiento si el medio no está declarado; el campo magnético no determina por sí solo la inducción si la permeabilidad de dominio no está declarada; y la corriente no debe reducirse a campo eléctrico cuando hay corriente externa o canal no cerrado.
 
-La forma de cierre del dominio se expresa así:
+El cierre eléctrico-magnético se formula así:
 
-`EM_Ξ(D_em)=0 ⇔ 𝕄_em(𝕏_em;𝕐_em)=0 ∧ 𝕂_em(𝕏_em;ℂ_em)=0 ∧ 𝔽_em(J_em)=0 ∧ unidad nativa ∧ unidad SI ∧ frontera ∧ canal ∧ residual ∧ retorno ∧ traza`
+`EM_Ξ(Ω_em)=0 ⇔ 𝕄_em(𝕏_em;𝕐_em)=0 ∧ 𝕂_em(𝕏_em;ℂ_em)=0 ∧ 𝔽_em(𝒥_em)=0 ∧ unidad nativa ∧ unidad SI ∧ frontera ∧ canal ∧ residual ∧ retorno ∧ traza`
 
-donde `𝕄_em` agrupa las cuatro ecuaciones de primer orden, `𝕂_em` agrupa las relaciones constitutivas y `𝔽_em` agrupa frontera activa, continuidad interfacial y reconfiguración cuando el régimen lo exige. Esta forma permite recibir el documento electromagnético ya publicado sin trasladar su rango al plano de fundamentos: el dominio eléctrico-magnético especializa el raigal; no lo gobierna.
+donde `𝕄_em` agrupa las cuatro ecuaciones de primer orden, `𝕂_em` agrupa las relaciones constitutivas y `𝔽_em` agrupa frontera activa, continuidad interfacial y reconfiguración cuando el régimen lo exige. Con ello puede recibirse el desarrollo electromagnético ya fijado sin trasladar su rango al plano de fundamentos: el dominio eléctrico-magnético especializa el raigal; no lo gobierna.
 
 #### Matriz especializada de retorno eléctrico-magnético
 
 | Proyección eléctrica o magnética | Transductor | Unidad nativa | Unidad de retorno | Unidad SI | Usar cuando | No usar cuando | Retorno y residual en raigales | Dictamen |
 |---|---|---|---|---|---|---|---|---|
-| Carga eléctrica | `𝔛_Ξ^C` | `UFC·UE_MFC` | `UR_Ξ^C(D_em)` | C | hay portador, separación o balance de carga declarado | se usa carga sin portador, frontera o canal | `V_Ξ^C=C_Ξ·UR_Ξ^C`; `R_Ξ^C` mide carga no retornada | condicionado |
-| Corriente eléctrica | `𝔛_Ξ^I` | `UFC` | `UR_Ξ^I(D_em)` | A | hay flujo de carga por canal declarado | se confunde señal con identidad completa | `V_Ξ^I=I_Ξ·UR_Ξ^I`; `R_Ξ^I` mide pérdida de canal | condicionado |
-| Densidad de carga | `𝔛_Ξ^ρ_e` | `UFC·UE_MFC·UFE⁻³` | `UR_Ξ^ρe(D_em)` | C·m⁻³ | hay volumen, carga y frontera comunes | se extrapola carga local a dominio global sin soporte | `V_Ξ^ρe=ρ_{e,Ξ}·UR_Ξ^ρe`; `R_Ξ^ρe` mide volumen o fuente no cerrada | condicionado |
-| Densidad de corriente | `𝔛_Ξ^J` | `UFC·UFE⁻²` | `UR_Ξ^J(D_em)` | A·m⁻² | hay corriente distribuida sobre superficie o sección | se usa corriente total como densidad | `V_Ξ^J=J_Ξ·UR_Ξ^J`; `R_Ξ^J` mide sección o orientación no cerrada | condicionado |
-| Campo eléctrico | `𝔛_Ξ^{E_c}` | `UFM·UFE·UFC⁻¹·UE_MFC⁻³` | `UR_Ξ^{E_c}(D_em)` | V·m⁻¹ | hay potencial-distancia, fuerza-carga o configuración de campo | se declara campo sin geometría, carga o frontera | `V_Ξ^{E_c}=E_{c,Ξ}·UR_Ξ^{E_c}`; `R_Ξ^{E_c}` mide residual de potencial y frontera | condicionado |
-| Desplazamiento eléctrico | `𝔛_Ξ^D` | `UFC·UE_MFC·UFE⁻²` | `UR_Ξ^D(D_em)` | C·m⁻² | hay campo eléctrico y permitividad de medio | se confunde con campo eléctrico desnudo | `V_Ξ^D=D_Ξ·UR_Ξ^D`; `R_Ξ^D` mide medio no declarado | condicionado |
-| Inducción magnética | `𝔛_Ξ^B` | `UFM·UFC⁻¹·UE_MFC⁻²` | `UR_Ξ^B(D_em)` | T | hay flujo magnético, medio o inducción declarada | se asigna magnetismo al patrón sin configuración | `V_Ξ^B=B_Ξ·UR_Ξ^B`; `R_Ξ^B` mide residual de inducción o canal | condicionado |
-| Campo magnético | `𝔛_Ξ^H` | `UFC·UFE⁻¹` | `UR_Ξ^H(D_em)` | A·m⁻¹ | hay corriente, medio y geometría compatibles | se confunde con inducción magnética | `V_Ξ^H=H_Ξ·UR_Ξ^H`; `R_Ξ^H` mide corriente o medio no cerrado | condicionado |
-| Potencial eléctrico o tensión | `𝔛_Ξ^V` | `UFM·UFE²·UE_MFC⁻³·UFC⁻¹` | `UR_Ξ^V(D_em)` | V | hay dos puntos, referencia y canal eléctrico | se declara tensión sin referencia | `V_Ξ^V=V_Ξ·UR_Ξ^V`; `R_Ξ^V` mide pérdida de referencia | condicionado |
-| Resistencia | `𝔛_Ξ^R` | `UFM·UFE²·UE_MFC⁻³·UFC⁻²` | `UR_Ξ^R(D_em)` | Ω | hay tensión, corriente y disipación declaradas | se confunde con impedancia total | `V_Ξ^R=R_Ξ·UR_Ξ^R`; `R_Ξ^R` mide disipación no cerrada | condicionado |
-| Conductancia | `𝔛_Ξ^G` | `UFC²·UE_MFC³·UFM⁻¹·UFE⁻²` | `UR_Ξ^G(D_em)` | S | hay canal y relación corriente-tensión cerrada | se usa sin geometría de canal | `V_Ξ^G=G_Ξ·UR_Ξ^G`; `R_Ξ^G` mide canal no declarado | condicionado |
-| Conductividad | `𝔛_Ξ^σ` | `UFC²·UE_MFC³·UFM⁻¹·UFE⁻³` | `UR_Ξ^σ(D_em)` | S·m⁻¹ | hay material, medio y campo eléctrico declarado | se extrapola entre medios sin tránsito | `V_Ξ^σ=σ_Ξ·UR_Ξ^σ`; `R_Ξ^σ` mide medio o temperatura no cerrada | condicionado |
-| Permitividad | `𝔛_Ξ^ε` | `UFC²·UE_MFC⁴·UFM⁻¹·UFE⁻³` | `UR_Ξ^ε(D_em)` | F·m⁻¹ | hay medio dieléctrico y campo eléctrico | se usa como constante universal del raigal | `V_Ξ^ε=ε_Ξ·UR_Ξ^ε`; `R_Ξ^ε` mide clase de medio no cerrada | condicionado |
-| Permeabilidad | `𝔛_Ξ^μ` | `UFM·UFE·UFC⁻²·UE_MFC⁻²` | `UR_Ξ^μ(D_em)` | H·m⁻¹ | hay medio magnético y campo magnético | se usa sin régimen material | `V_Ξ^μ=μ_Ξ·UR_Ξ^μ`; `R_Ξ^μ` mide régimen magnético no cerrado | condicionado |
-| Capacitancia | `𝔛_Ξ^{C_el}` | `UFC²·UE_MFC⁴·UFM⁻¹·UFE⁻²` | `UR_Ξ^{C_el}(D_em)` | F | hay carga, potencial, geometría y dieléctrico | se usa sin frontera de almacenamiento | `V_Ξ^{C_el}=C_{el,Ξ}·UR_Ξ^{C_el}`; `R_Ξ^{C_el}` mide almacenamiento no cerrado | condicionado |
-| Inductancia | `𝔛_Ξ^{L_el}` | `UFM·UFE²·UE_MFC⁻²·UFC⁻²` | `UR_Ξ^{L_el}(D_em)` | H | hay corriente, flujo magnético y geometría inductiva | se asigna a canal sin flujo | `V_Ξ^{L_el}=L_{el,Ξ}·UR_Ξ^{L_el}`; `R_Ξ^{L_el}` mide inducción no cerrada | condicionado |
-| Impedancia | `𝔛_Ξ^Z` | `UFM·UFE²·UE_MFC⁻³·UFC⁻²` | `UR_Ξ^Z(D_em)` | Ω | hay régimen alterno, resistencia y reactancia | se usa como resistencia simple sin fase | `V_Ξ^Z=Z_Ξ·UR_Ξ^Z`; `R_Ξ^Z` mide separación no cerrada entre disipación y retorno oscilante | condicionado |
-| Flujo magnético | `𝔛_Ξ^ΦB` | `UFM·UFE²·UFC⁻¹·UE_MFC⁻²` | `UR_Ξ^ΦB(D_em)` | Wb | hay inducción y superficie orientada | se declara sin área ni orientación | `V_Ξ^ΦB=Φ_{B,Ξ}·UR_Ξ^ΦB`; `R_Ξ^ΦB` mide frontera de flujo | condicionado |
-| Energía electromagnética local | `𝔛_Ξ^u` | `UFM·UFE⁻¹·UE_MFC⁻²` | `UR_Ξ^u(D_em)` | J·m⁻³ | hay campos y excitaciones compatibles | se identifica energía de campo con raigal | `V_Ξ^u=u_Ξ·UR_Ξ^u`; `R_Ξ^u` mide almacenamiento no cerrado | condicionado |
-| Flujo de energía electromagnética | `𝔛_Ξ^S` | `UFM·UE_MFC⁻³` | `UR_Ξ^S(D_em)` | W·m⁻² | hay campo eléctrico, campo magnético y frontera de flujo | se usa como potencia total sin superficie | `V_Ξ^S=S_Ξ·UR_Ξ^S`; `R_Ξ^S` mide frontera de flujo | condicionado |
-| Velocidad de propagación | `𝔛_Ξ^v` | `UFE·UE_MFC⁻¹` | `UR_Ξ^v(D_em)` | m·s⁻¹ | hay medio y relación constitutiva compatible | se importa por analogía sin medio | `V_Ξ^v=v_Ξ·UR_Ξ^v`; `R_Ξ^v` mide medio o régimen no cerrado | condicionado |
-| Frecuencia de régimen | `𝔛_Ξ^f` | `UE_MFC⁻¹` | `UR_Ξ^f(D_em)` | Hz | hay ciclo medido y señal periódica | se convierte frecuencia en tiempo rector | `V_Ξ^f=f_Ξ·UR_Ξ^f`; `R_Ξ^f` mide ciclo no declarado | condicionado |
-| Longitud de onda | `𝔛_Ξ^λ` | `UFE` | `UR_Ξ^λ(D_em)` | m | hay propagación, medio y señal | se usa como objeto material completo | `V_Ξ^λ=λ_Ξ·UR_Ξ^λ`; `R_Ξ^λ` mide medio o frontera | condicionado |
+| Carga eléctrica | `𝔛_Ξ^C` | `UFC·UE_MFC` | `UR_Ξ^C(Ω_em)` | C | hay portador, separación o balance de carga declarado | se usa carga sin portador, frontera o canal | `V_Ξ^C=C_Ξ·UR_Ξ^C`; `R_Ξ^C` mide carga no retornada | condicionado |
+| Corriente eléctrica | `𝔛_Ξ^I` | `UFC` | `UR_Ξ^I(Ω_em)` | A | hay flujo de carga por canal declarado | se confunde señal con identidad completa | `V_Ξ^I=I_Ξ·UR_Ξ^I`; `R_Ξ^I` mide pérdida de canal | condicionado |
+| Densidad de carga | `𝔛_Ξ^ρ_e` | `UFC·UE_MFC·UFE⁻³` | `UR_Ξ^ρe(Ω_em)` | C·m⁻³ | hay volumen, carga y frontera comunes | se extrapola carga local a dominio global sin soporte | `V_Ξ^ρe=ρ_{e,Ξ}·UR_Ξ^ρe`; `R_Ξ^ρe` mide volumen o fuente no cerrada | condicionado |
+| Densidad de corriente | `𝔛_Ξ^J` | `UFC·UFE⁻²` | `UR_Ξ^J(Ω_em)` | A·m⁻² | hay corriente distribuida sobre superficie o sección | se usa corriente total como densidad | `V_Ξ^J=J_Ξ·UR_Ξ^J`; `R_Ξ^J` mide sección o orientación no cerrada | condicionado |
+| Campo eléctrico | `𝔛_Ξ^{E_c}` | `UFM·UFE·UFC⁻¹·UE_MFC⁻³` | `UR_Ξ^{E_c}(Ω_em)` | V·m⁻¹ | hay potencial-distancia, fuerza-carga o configuración de campo | se declara campo sin geometría, carga o frontera | `V_Ξ^{E_c}=E_{c,Ξ}·UR_Ξ^{E_c}`; `R_Ξ^{E_c}` mide residual de potencial y frontera | condicionado |
+| Desplazamiento eléctrico | `𝔛_Ξ^D` | `UFC·UE_MFC·UFE⁻²` | `UR_Ξ^D(Ω_em)` | C·m⁻² | hay campo eléctrico y permitividad de medio | se confunde con campo eléctrico desnudo | `V_Ξ^D=D_Ξ·UR_Ξ^D`; `R_Ξ^D` mide medio no declarado | condicionado |
+| Inducción magnética | `𝔛_Ξ^B` | `UFM·UFC⁻¹·UE_MFC⁻²` | `UR_Ξ^B(Ω_em)` | T | hay flujo magnético, medio o inducción declarada | se asigna magnetismo al patrón sin configuración | `V_Ξ^B=B_Ξ·UR_Ξ^B`; `R_Ξ^B` mide residual de inducción o canal | condicionado |
+| Campo magnético | `𝔛_Ξ^H` | `UFC·UFE⁻¹` | `UR_Ξ^H(Ω_em)` | A·m⁻¹ | hay corriente, medio y geometría compatibles | se confunde con inducción magnética | `V_Ξ^H=H_Ξ·UR_Ξ^H`; `R_Ξ^H` mide corriente o medio no cerrado | condicionado |
+| Potencial eléctrico o tensión | `𝔛_Ξ^V` | `UFM·UFE²·UE_MFC⁻³·UFC⁻¹` | `UR_Ξ^V(Ω_em)` | V | hay dos puntos, referencia y canal eléctrico | se declara tensión sin referencia | `V_Ξ^V=V_Ξ·UR_Ξ^V`; `R_Ξ^V` mide pérdida de referencia | condicionado |
+| Resistencia | `𝔛_Ξ^R` | `UFM·UFE²·UE_MFC⁻³·UFC⁻²` | `UR_Ξ^R(Ω_em)` | Ω | hay tensión, corriente y disipación declaradas | se confunde con impedancia total | `V_Ξ^R=R_Ξ·UR_Ξ^R`; `R_Ξ^R` mide disipación no cerrada | condicionado |
+| Conductancia | `𝔛_Ξ^G` | `UFC²·UE_MFC³·UFM⁻¹·UFE⁻²` | `UR_Ξ^G(Ω_em)` | S | hay canal y relación corriente-tensión cerrada | se usa sin geometría de canal | `V_Ξ^G=G_Ξ·UR_Ξ^G`; `R_Ξ^G` mide canal no declarado | condicionado |
+| Conductividad | `𝔛_Ξ^σ` | `UFC²·UE_MFC³·UFM⁻¹·UFE⁻³` | `UR_Ξ^σ(Ω_em)` | S·m⁻¹ | hay material, medio y campo eléctrico declarado | se extrapola entre medios sin tránsito | `V_Ξ^σ=σ_Ξ·UR_Ξ^σ`; `R_Ξ^σ` mide medio o temperatura no cerrada | condicionado |
+| Permitividad | `𝔛_Ξ^ε` | `UFC²·UE_MFC⁴·UFM⁻¹·UFE⁻³` | `UR_Ξ^ε(Ω_em)` | F·m⁻¹ | hay medio dieléctrico y campo eléctrico | se usa como constante universal del raigal | `V_Ξ^ε=ε_Ξ·UR_Ξ^ε`; `R_Ξ^ε` mide clase de medio no cerrada | condicionado |
+| Permeabilidad | `𝔛_Ξ^μ` | `UFM·UFE·UFC⁻²·UE_MFC⁻²` | `UR_Ξ^μ(Ω_em)` | H·m⁻¹ | hay medio magnético y campo magnético | se usa sin régimen material | `V_Ξ^μ=μ_Ξ·UR_Ξ^μ`; `R_Ξ^μ` mide régimen magnético no cerrado | condicionado |
+| Capacitancia | `𝔛_Ξ^{C_el}` | `UFC²·UE_MFC⁴·UFM⁻¹·UFE⁻²` | `UR_Ξ^{C_el}(Ω_em)` | F | hay carga, potencial, geometría y dieléctrico | se usa sin frontera de almacenamiento | `V_Ξ^{C_el}=C_{el,Ξ}·UR_Ξ^{C_el}`; `R_Ξ^{C_el}` mide almacenamiento no cerrado | condicionado |
+| Inductancia | `𝔛_Ξ^{L_el}` | `UFM·UFE²·UE_MFC⁻²·UFC⁻²` | `UR_Ξ^{L_el}(Ω_em)` | H | hay corriente, flujo magnético y geometría inductiva | se asigna a canal sin flujo | `V_Ξ^{L_el}=L_{el,Ξ}·UR_Ξ^{L_el}`; `R_Ξ^{L_el}` mide inducción no cerrada | condicionado |
+| Impedancia | `𝔛_Ξ^Z` | `UFM·UFE²·UE_MFC⁻³·UFC⁻²` | `UR_Ξ^Z(Ω_em)` | Ω | hay régimen alterno, resistencia y reactancia | se usa como resistencia simple sin fase | `V_Ξ^Z=Z_Ξ·UR_Ξ^Z`; `R_Ξ^Z` mide separación no cerrada entre disipación y retorno oscilante | condicionado |
+| Flujo magnético | `𝔛_Ξ^ΦB` | `UFM·UFE²·UFC⁻¹·UE_MFC⁻²` | `UR_Ξ^ΦB(Ω_em)` | Wb | hay inducción y superficie orientada | se declara sin área ni orientación | `V_Ξ^ΦB=Φ_{B,Ξ}·UR_Ξ^ΦB`; `R_Ξ^ΦB` mide frontera de flujo | condicionado |
+| Energía electromagnética local | `𝔛_Ξ^u` | `UFM·UFE⁻¹·UE_MFC⁻²` | `UR_Ξ^u(Ω_em)` | J·m⁻³ | hay campos y excitaciones compatibles | se identifica energía de campo con raigal | `V_Ξ^u=u_Ξ·UR_Ξ^u`; `R_Ξ^u` mide almacenamiento no cerrado | condicionado |
+| Flujo de energía electromagnética | `𝔛_Ξ^S` | `UFM·UE_MFC⁻³` | `UR_Ξ^S(Ω_em)` | W·m⁻² | hay campo eléctrico, campo magnético y frontera de flujo | se usa como potencia total sin superficie | `V_Ξ^S=S_Ξ·UR_Ξ^S`; `R_Ξ^S` mide frontera de flujo | condicionado |
+| Velocidad de propagación | `𝔛_Ξ^v` | `UFE·UE_MFC⁻¹` | `UR_Ξ^v(Ω_em)` | m·s⁻¹ | hay medio y relación constitutiva compatible | se importa por analogía sin medio | `V_Ξ^v=v_Ξ·UR_Ξ^v`; `R_Ξ^v` mide medio o régimen no cerrado | condicionado |
+| Frecuencia de régimen | `𝔛_Ξ^f` | `UE_MFC⁻¹` | `UR_Ξ^f(Ω_em)` | Hz | hay ciclo medido y señal periódica | se convierte frecuencia en tiempo rector | `V_Ξ^f=f_Ξ·UR_Ξ^f`; `R_Ξ^f` mide ciclo no declarado | condicionado |
+| Longitud de onda | `𝔛_Ξ^λ` | `UFE` | `UR_Ξ^λ(Ω_em)` | m | hay propagación, medio y señal | se usa como objeto material completo | `V_Ξ^λ=λ_Ξ·UR_Ξ^λ`; `R_Ξ^λ` mide medio o frontera | condicionado |
 
 #### Frontera, continuidad y reconfiguración del dominio
 
-El dominio eléctrico-magnético exige frontera de forma más estricta que una simple geometría externa. Las condiciones de contorno separan componentes normales y tangenciales; el criterio de frontera activa decide cuándo la interfase se vuelve operativa; y la reconfiguración solo procede cuando el régimen pierde invertibilidad local. En lectura raigal, esto impide declarar campo, inducción, tensión o flujo sin soporte de frontera.
+El régimen eléctrico-magnético exige frontera con más precisión que una geometría externa genérica. Las condiciones de contorno separan componentes normales y tangenciales; el criterio de frontera activa decide cuándo la interfase se vuelve operativa; y la reconfiguración solo procede cuando el régimen pierde invertibilidad local. En lectura raigal, esto impide declarar campo, inducción, tensión o flujo sin soporte de frontera.
 
 | Control de frontera | Forma | Función en el dominio | Riesgo bloqueado |
 |---|---|---|---|
@@ -583,15 +683,15 @@ El dominio eléctrico-magnético exige frontera de forma más estricta que una s
 | Gauss magnética de frontera | `⟨B_2−B_1,n⟩=0` | conserva continuidad normal de inducción | introducir fuente magnética indebida |
 | Faraday interfacial | `n×(E_2−E_1)=0` | conserva continuidad tangencial del campo eléctrico | tensión de borde no declarada |
 | Ampère interfacial | `n×(H_2−H_1)=J_s` | controla salto tangencial del campo magnético | corriente superficial omitida |
-| Frontera activa | `det(J_em)=0 ⇔ ∂Ω_em activa` | localiza pérdida de invertibilidad local | frontera por apariencia |
-| Reconfiguración | `𝓡_em^f=𝟙{det(J_em)=0}Λ_emB_reg` | declara respuesta interna del régimen | respuesta opaca de medio |
+| Frontera activa | `det(𝒥_em)=0 ⇔ ∂Ω_em activa` | localiza pérdida de invertibilidad local | frontera por apariencia |
+| Reconfiguración | `𝓡_em^f=𝟙{det(𝒥_em)=0}Λ_emB_reg` | declara respuesta interna del régimen | respuesta opaca de medio |
 | Residual de frontera | `R_Ξ^{∂em}` | conserva discontinuidades, pérdidas y no cierre | continuidad fingida |
 
 La frontera no es un detalle. En campo eléctrico y campo magnético, una magnitud puede tener dimensión correcta y, sin embargo, ser inadmisible por falta de superficie, orientación, medio o canal. La matriz raigal debe conservar ese residual como `R_Ξ^{∂em}` antes de devolver la magnitud al SI.
 
 #### Patrón `P_H₂O` en el dominio eléctrico-magnético
 
-El patrón `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` no cierra por sí mismo el dominio eléctrico-magnético. Permite transportar cantidad, masa, volumen, temperatura y presión desde el banco general, pero no autoriza campo eléctrico, campo magnético, corriente, conductividad, permitividad o propagación si no se declara configuración, medio, canal, método y frontera.
+En electricidad y campo magnético, `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` no basta para cerrar el dominio. Permite transportar cantidad, masa, volumen, temperatura y presión desde el banco general, pero no autoriza campo eléctrico, campo magnético, corriente, conductividad, permitividad o propagación si no se declara configuración, medio, canal, método y frontera.
 
 | Entrada del patrón | Unidad nativa | Retorno externo | Estado en el dominio eléctrico-magnético | Residual |
 |---|---|---|---|---|
@@ -608,7 +708,7 @@ El patrón `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` no cierra por sí 
 
 #### Balance, propagación y lectura de onda
 
-El dominio eléctrico-magnético conserva una identidad de balance de energía de campo. En lectura raigal:
+El régimen eléctrico-magnético conserva una identidad de balance de energía de campo. En lectura raigal:
 
 `u_em=1/2(⟨E,D⟩+⟨H,B⟩)`
 
@@ -628,28 +728,28 @@ Aquí `v_em` retorna por `UFE·UE_MFC⁻¹`; no introduce tiempo rector. Si el m
 
 #### Criterio de admisibilidad del dominio
 
-La condición de admisibilidad eléctrica-magnética queda:
+La admisión eléctrica-magnética exige:
 
-`EM_Ξ admisible ⇔ D_em declarado ∧ 𝕏_em,𝕐_em,ℂ_em tipados ∧ 𝕄_em=0 ∧ 𝕂_em=0 ∧ frontera o volumen compatible ∧ unidades nativas ∧ unidades SI ∧ fuente, medio o canal cuando proceda ∧ residual ∧ retorno ∧ traza ∧ no tiempo rector ∧ no probabilidad ∧ no identificación del raigal con campo, carga, corriente, onda o energía electromagnética`
+`EM_Ξ admisible ⇔ Ω_em declarado ∧ 𝕏_em,𝕐_em,ℂ_em tipados ∧ 𝕄_em=0 ∧ 𝕂_em=0 ∧ frontera o volumen compatible ∧ unidades nativas ∧ unidades SI ∧ fuente, medio o canal cuando proceda ∧ residual ∧ retorno ∧ traza ∧ no tiempo rector ∧ no probabilidad ∧ no identificación del raigal con campo, carga, corriente, onda o energía electromagnética`
 
 Si falta fuente, medio, geometría, canal, volumen, superficie, frontera o relación constitutiva sin contradicción material, la salida queda en `U`. Si se declara campo sin fuente o frontera, rechazo. Si se identifica el raigal con campo eléctrico, campo magnético, carga, corriente, potencial, onda o energía electromagnética, rechazo. Si se arrastra una magnitud de electricidad hacia biología, medicina, señal o química sin tránsito de dominio, rechazo. Si se usa frecuencia como tiempo rector o propagación como destino, rechazo.
 
-La reserva técnica viva es esta: el dominio eléctrico-magnético cierra metrológicamente con `UE_MFC`, `UFE`, `UFM` y `UFC`. Cuando se acople a termodinámica, química, biología, genética, inmunología o medicina, podrán comparecer `UFT` y `UFCE`, pero solo por tránsito de dominio, no por modificación del bloque eléctrico-magnético. Esta reserva impide mezclar corriente, carga, molécula, temperatura, célula o señal clínica como si pertenecieran a un mismo plano sin transductor.
+La reserva técnica es la siguiente: el dominio eléctrico-magnético cierra metrológicamente con `UE_MFC`, `UFE`, `UFM` y `UFC`. Cuando se acople a termodinámica, química, biología, genética, inmunología o medicina, podrán comparecer `UFT` y `UFCE`, pero solo por tránsito de dominio, no por modificación del desarrollo eléctrico-magnético. Esta reserva impide mezclar corriente, carga, molécula, temperatura, célula o señal clínica como si pertenecieran a un mismo plano sin transductor.
 
-Con esta segunda especialización, la arquitectura gana una regla más fuerte: el raigal puede sostener tránsito eléctrico y magnético completo sin ser campo, carga, corriente, onda, tensión ni energía electromagnética. El dominio devuelve esas magnitudes al SI; la referencia nativa conserva continuidad por `UR_Ξ^X(D_em)` y por los residuales de fuente, medio, frontera, canal y propagación.
+El criterio eléctrico-magnético queda acotado: el raigal puede sostener tránsito eléctrico y magnético completo sin ser campo, carga, corriente, onda, tensión ni energía electromagnética. Esas magnitudes vuelven al SI; la referencia nativa conserva continuidad por `UR_Ξ^X(Ω_em)` y por los residuales de fuente, medio, frontera, canal y propagación.
 
 
 ### II.3. Cosmología: universo observable, distancias, edades relativas, Λ y clausura de observables
 
-La cosmología entra como tercer dominio especializado porque reúne las magnitudes que más fácilmente pueden romper plano: edad, distancia, horizonte, señal luminosa, corrimiento al rojo, expansión, gravedad local, constante cosmológica, campo, clausura y retorno. La regla de entrada es estricta: el dominio cosmológico no mide la totalidad absoluta ni convierte el universo observable en TODO/NADA. Mide contenidos físicos retornados dentro de `Ω_obs`, con frontera de lectura, identidad, magnitud, unidad, modelo, residual, retorno y traza. El raigal no pasa a ser edad cósmica, distancia cosmológica, curvatura, Λ, energía oscura, señal luminosa ni horizonte. Su función es conservar una referencia nativa de retorno cuando esas magnitudes se proyectan bajo dominio declarado.
+La cosmología reúne magnitudes especialmente propensas a romper plano: edad, distancia, horizonte, señal luminosa, corrimiento al rojo, expansión, gravedad local, constante cosmológica, campo, clausura y retorno (Lloret Egea, 2026m, 2026n, 2026t, 2026w, 2026aa, 2026ab, 2026ac). La regla de entrada es estricta: el dominio cosmológico no mide la totalidad absoluta ni convierte el universo observable en TODO/NADA. Mide contenidos físicos retornados dentro de `Ω_obs`, con frontera de lectura, identidad, magnitud, unidad, modelo, residual, retorno y traza. El raigal no pasa a ser edad cósmica, distancia cosmológica, curvatura, Λ, energía oscura, señal luminosa ni horizonte. Ahí conserva una referencia nativa de retorno cuando esas magnitudes se proyectan bajo dominio declarado.
 
-La forma de dominio queda:
+El dominio se formaliza así:
 
 `D_cos=(Ω_obs,Obs_cos,F_obs,I_obs,M_obs,U_cos,Γ_cos,R_cos,Ret_cos,Tr_cos)`
 
 donde `Ω_obs` es el dominio físico observable, `Obs_cos` el conjunto de observables cosmológicos tipados, `F_obs` la frontera de observación o de régimen, `I_obs` la identidad del observable, `M_obs` la familia de magnitudes admitidas, `U_cos` la unidad nativa o forma derivada, `Γ_cos` la trayectoria de retorno, `R_cos` el residual, `Ret_cos` el retorno externo y `Tr_cos` la traza.
 
-La condición de admisibilidad queda:
+La admisión exige:
 
 `Cosmo_Ξ(D_cos)=0 ⇔ Ω_obs ∧ Obs_cos ∧ F_obs ∧ I_obs ∧ M_obs ∧ U_cos ∧ Γ_cos ∧ R_cos ∧ Ret_cos ∧ Tr_cos`
 
@@ -657,7 +757,7 @@ Si el objeto se presenta como totalidad absoluta, no hay edad física ni distanc
 
 #### Tronco cosmológico de la matriz raigal
 
-El tronco cosmológico se ordena por una regla única: toda magnitud externa se recibe como retorno de observable, no como fundamento del dominio. La edad entra como escala física de contenido retornado; la distancia entra como magnitud tipada de relación entre observables; el corrimiento al rojo entra como firma espectral; `G` entra como coeficiente de retorno local fuente-respuesta; `Λ` entra como curvatura efectiva ciclo-distancial del dominio observable retornado; el horizonte entra como frontera de acceso o de régimen; y el agujero negro entra como clausura interna extrema de dominio, no como modelo del universo entero.
+El tronco cosmológico se organiza mediante una regla única: toda magnitud externa se recibe como retorno de observable, no como fundamento del dominio. La edad entra como escala física de contenido retornado; la distancia entra como magnitud tipada de relación entre observables; el corrimiento al rojo entra como firma espectral; `G` entra como coeficiente de retorno local fuente-respuesta; `Λ` entra como curvatura efectiva ciclo-distancial del dominio observable retornado; el horizonte entra como frontera de acceso o de régimen; y el agujero negro entra como clausura interna extrema de dominio, no como modelo del universo entero.
 
 | Núcleo cosmológico | Función en la matriz raigal | Unidad nativa | Retorno externo | Riesgo bloqueado |
 |---|---|---|---|---|
@@ -757,7 +857,7 @@ La admisión de observable cosmológico queda:
 
 `𝓒★ObsU(x,D_cos)∈{0,1,U}`
 
-La familia de transductores cosmológicos se recibe como especialización:
+Los transductores cosmológicos se reciben como especialización:
 
 `𝓖★TrU(D_cos)={𝔛_Ξ^t,𝔛_Ξ^L,𝔛_Ξ^M,𝔛_Ξ^E,𝔛_Ξ^Π,𝔛_Ξ^Λ,𝔛_Ξ^Tr,𝔛_Ξ^Cl,...}`
 
@@ -780,7 +880,7 @@ La consolidación entre observables queda:
 
 El agujero negro entra en cosmología como objeto de frontera extrema, no como modelo general del universo observable. Su lectura raigal se limita a régimen de horizonte, no transmisión exterior, conservación de efectos externos, saturación interior y cierre postfrontera. La marca `M_N2-SV` no se identifica con `U`: `U` conserva no cierre suficiente; `M_N2-SV` designa cierre interno sin resto exterior formulable cuando el régimen ha cerrado sus condiciones.
 
-La forma de recepción queda:
+La recepción se expresa así:
 
 `BH_Ξ(Γ_BH)=0 ⇔ horizonte ∧ no transmisión exterior ∧ fibra luminosa preservada sin salida ∧ saturación interior ∧ postfrontera M_N2-SV ∧ residual nulo`
 
@@ -795,28 +895,28 @@ La forma de recepción queda:
 
 #### Criterio de admisibilidad del dominio
 
-La condición de admisibilidad cosmológica queda:
+La admisión cosmológica exige:
 
 `Cosmo_Ξ admisible ⇔ D_cos declarado ∧ observable tipado ∧ magnitud cosmológica propia ∧ unidad nativa ∧ unidad externa ∧ modelo o transductor ∧ frontera ∧ señal o retorno ∧ residual ∧ traza ∧ conservación de U ∧ no identificación de Ω_obs con totalidad absoluta`
 
 Si se atribuye edad física a la totalidad absoluta, rechazo. Si se confunde `Ω_obs` con TODO/NADA, rechazo. Si se usa `z` como distancia directa, rechazo. Si se igualan `D_L`, `D_A`, `D_C` y `D_P` sin transductor, rechazo. Si se usa `G` como explicación total de cosmología o `Λ` como fuerza local, rechazo. Si se declara energía oscura como sustancia sin unidad, ecuación, residual y retorno, rechazo. Si se toma el agujero negro como modelo de la totalidad o `M_N2-SV` como `U`, rechazo. Si el objeto cosmológico no posee identidad, firma, dominio o retorno suficiente, se conserva `U`.
 
-La reserva técnica viva es doble. Primera: la sección cosmológica admite el banco de edad `A_Ωobs` y su retorno en `UE_MFC`, pero no declara por ello una edad de totalidad absoluta ni un destino universal. Segunda: las magnitudes externas de cosmología contemporánea entran como retornos de banco, no como fundamentos internos. `ΛCDM`, `CMB`, `BAO`, supernovas, galaxias profundas, lentes, horizontes, `H_0`, `Ω_Λ`, `w≈−1`, `D_L`, `D_A`, `D_C` y `z` conservan valor de contraste cuando su dominio cierra; no sustituyen la matriz raigal ni el residual.
+La reserva técnica es doble. Primera: la lectura cosmológica admite el banco de edad `A_Ωobs` y su retorno en `UE_MFC`, pero no declara por ello una edad de totalidad absoluta ni un destino universal. Segunda: las magnitudes externas de cosmología contemporánea entran como retornos de banco, no como fundamentos internos. `ΛCDM`, `CMB`, `BAO`, supernovas, galaxias profundas, lentes, horizontes, `H_0`, `Ω_Λ`, `w≈−1`, `D_L`, `D_A`, `D_C` y `z` conservan valor de contraste cuando su dominio cierra; no sustituyen la matriz raigal ni el residual.
 
-Con esta tercera especialización, la arquitectura gana una regla fuerte: el raigal puede sostener el tránsito cosmológico entre edad relativa, distancia, señal, gravedad, constante cosmológica, observables y clausura sin convertirse en universo, tiempo, distancia, luz, curvatura, energía oscura ni horizonte. El dominio devuelve magnitudes públicas; la referencia nativa conserva continuidad por `UR_Ξ^X(D_cos)` y por el residual correspondiente.
+El criterio cosmológico conserva su plano propio: el raigal puede sostener el tránsito entre edad relativa, distancia, señal, gravedad, constante cosmológica, observables y clausura sin convertirse en universo, tiempo, distancia, luz, curvatura, energía oscura ni horizonte. Las magnitudes públicas se devuelven por dominio; la referencia nativa conserva continuidad por `UR_Ξ^X(D_cos)` y por el residual correspondiente.
 
 
 ### II.4. Física y química: materia, luz, campo, elementos y transición química
 
-Física y química entran como cuarto dominio especializado porque reciben el tronco de constitución material que no debe quedar duplicado en Termodinámica, Electricidad y campo magnético ni Cosmología. La Termodinámica conserva calor, trabajo, temperatura, entalpía, entropía, frontera térmica y balance de proceso. Electricidad y campo magnético conserva carga, corriente, campo eléctrico, inducción magnética, relaciones constitutivas, frontera electromagnética y propagación local. Cosmología conserva universo observable, edad relativa, distancia, señal profunda, gravitación local, `G`, `Λ`, agujero negro y clausura de régimen. Física y química, en cambio, gobiernan la lectura de materia, luz, campo, energía de dominio, transición prequímica, persistencia atómica, elementos, materiales y retorno químico-material.
+Física y química reciben el tronco de constitución material que no debe duplicarse en Termodinámica, Electricidad y campo magnético ni Cosmología (Lloret Egea, 2026a, 2026o, 2026p, 2026q, 2026r, 2026s). La Termodinámica conserva calor, trabajo, temperatura, entalpía, entropía, frontera térmica y balance de proceso. Electricidad y campo magnético conserva carga, corriente, campo eléctrico, inducción magnética, relaciones constitutivas, frontera electromagnética y propagación local. Cosmología conserva universo observable, edad relativa, distancia, señal profunda, gravitación local, `G`, `Λ`, agujero negro y clausura de régimen. Física y química, en cambio, gobiernan la lectura de materia, luz, campo, energía de dominio, transición prequímica, persistencia atómica, elementos, materiales y retorno químico-material.
 
-La forma de entrada del dominio queda:
+La entrada queda ordenada así:
 
 `D_fq=(Ω_pre,Ξ_fq,Φ_L,𝔉_SV,𝕴_F,𝕋_chem,Ω_443,R_fq,Ret_fq,Tr_fq)`
 
 donde `Ω_pre` designa el dominio preternario declarado; `Ξ_fq` agrupa sucesos generadores, pares polares y protocampos; `Φ_L` representa el objeto luminoso cuando entra luz, radiación, espectro o transporte energético; `𝔉_SV` recoge el cierre operatorio de los sectores físico-formales; `𝕴_F` expresa la frontera angular cuántica cuando el dominio exige correlación acoplada; `𝕋_chem` designa la transición química desde configuraciones prequímicas a elemento; `Ω_443` designa el catálogo químico estructural; `R_fq` conserva el residual; `Ret_fq` devuelve el resultado a unidad externa o a clase de dominio; y `Tr_fq` conserva la traza.
 
-El criterio de admisibilidad queda:
+La admisión queda formulada así:
 
 `FQ_Ξ(D_fq)=0 ⇔ Ω_pre ∧ Ξ_fq ∧ magnitud física o química declarada ∧ unidad nativa ∧ unidad externa cuando proceda ∧ transductor ∧ frontera ∧ canal ∧ residual ∧ retorno ∧ traza cierran sin contradicción`
 
@@ -834,9 +934,9 @@ Si el dominio reclama una magnitud ya desarrollada en Termodinámica, Electricid
 
 #### Tronco físico-químico común
 
-El tronco del dominio se construye por secuencia de dependencia, no por repetición de textos fuente. La Teoría del TODO y de la NADA aporta la lectura de cierre, no como cosmología ni como materia, sino como restricción superior de nulidad conjunta, frontera `(μ,λ)=(0,0)`, alfabeto `Σ={0,1,U}` y prohibición de clausura favorable sin residual. La teoría de sucesos generadores y protocampos aporta el tránsito desde `Ω_pre` hacia los sectores físico-formales, la coexistencia de los siete sectores y la función de los campos eléctrico, magnético y gravitatorio como sectores primarios integrados. La fórmula de campo unificado aporta la proyección exterior `𝓐=ω⊕A`, `𝓕_𝓐=d𝓐+𝓐∧𝓐`, acción, curvatura, conexión y frontera cuántica sin convertir geometría, Hilbert o probabilidad en base rectora. La teoría de la luz aporta vacío como potencialidad preternaria no activada, energía como variación admisible, cuanto de transporte, relación `E=ν·h_SV`, objeto luminoso fibroso y quince proyecciones. Bell–Tsirelson aporta el régimen angular acoplado, `χ_c`, `C_SV(δ)=−cosδ` y la cota `2√2` como saturación estructural del correlador admitido. El documento de elementos y materiales aporta el tránsito prequímico y químico: 720 configuraciones candidatas, 675 admisibles, 443 elementos estructurales, primeros 118 como subdominio reconocido y `k=119…443` como candidatos estructurales en `U`.
+El tronco físico-químico se construye por dependencia formal, no por acumulación de formulaciones previas. La Teoría del TODO y de la NADA aporta la lectura de cierre, no como cosmología ni como materia, sino como restricción superior de nulidad conjunta, frontera `(μ,λ)=(0,0)`, alfabeto `Σ={0,1,U}` y prohibición de clausura favorable sin residual. La teoría de sucesos generadores y protocampos aporta el tránsito desde `Ω_pre` hacia los sectores físico-formales, la coexistencia de los siete sectores y la función de los campos eléctrico, magnético y gravitatorio como sectores primarios integrados. La fórmula de campo unificado aporta la proyección exterior `𝓐=ω⊕A`, `𝓕_𝓐=d𝓐+𝓐∧𝓐`, acción, curvatura, conexión y frontera cuántica sin convertir geometría, Hilbert o probabilidad en base rectora. La teoría de la luz aporta vacío como potencialidad preternaria no activada, energía como variación admisible, cuanto de transporte, relación `E=ν·h_SV`, objeto luminoso fibroso y quince proyecciones. Bell–Tsirelson aporta el régimen angular acoplado, `χ_c`, `C_SV(δ)=−cosδ` y la cota `2√2` como saturación estructural del correlador admitido. El documento de elementos y materiales aporta el tránsito prequímico y químico: 720 configuraciones candidatas, 675 admisibles, 443 elementos estructurales, primeros 118 como subdominio reconocido y `k=119…443` como candidatos estructurales en `U`.
 
-| Documento base | Aporte troncal al dominio | Uso en esta sección | Lo que no se traslada |
+| Fuente interna | Aporte troncal al dominio | Uso en el dominio | Lo que no se traslada |
 |---|---|---|---|
 | Teoría del TODO y de la NADA | `Σ={0,1,U}`, frontera `(μ,λ)=(0,0)`, verificación fuerte, cadena de cierre | restricción superior de cierre físico-químico | no convierte el dominio físico-químico en totalidad absoluta |
 | Sucesos generadores y protocampos | `Ω_pre`, pares `(α,β)`, sectores coexistentes, `𝔉_SV`, identidades intersectoriales | raíz de campo, materia y transición físico-química | no hace de los primitivos metrológicos campos generadores |
@@ -914,7 +1014,7 @@ En Física y química, el patrón `P_H₂O` ya no se usa como banco térmico ni 
 
 #### Criterio de admisibilidad del dominio
 
-El dominio físico-químico queda admitido cuando el objeto tratado no se limita a un nombre de disciplina, sino que declara secuencia material: soporte, transición, magnitud, unidad, frontera, residual y retorno. Su salida no puede apoyarse en parecido de lenguaje entre física y química. Una energía de enlace no es automáticamente calor; una configuración prequímica no es automáticamente elemento; un candidato estructural no es automáticamente elemento detectado; una señal espectral no es automáticamente sustancia; una correlación angular no es automáticamente probabilidad; una geometría exterior no es automáticamente campo físico completo.
+El dominio físico-químico se admite cuando el objeto tratado no se limita a un nombre de disciplina, sino que declara secuencia material: soporte, transición, magnitud, unidad, frontera, residual y retorno. Su salida no puede apoyarse en parecido de lenguaje entre física y química. Una energía de enlace no es automáticamente calor; una configuración prequímica no es automáticamente elemento; un candidato estructural no es automáticamente elemento detectado; una señal espectral no es automáticamente sustancia; una correlación angular no es automáticamente probabilidad; una geometría exterior no es automáticamente campo físico completo.
 
 `FQ_Ξ(D_fq)=0 ⇔ D_fq ∧ PreQ_Ξ ∧ Q_Ξ si procede ∧ unidad nativa ∧ unidad externa ∧ transductor ∧ frontera ∧ canal ∧ R_fq=0 ∧ Ret_fq ∧ Tr_fq`
 
@@ -924,19 +1024,19 @@ El dominio físico-químico queda admitido cuando el objeto tratado no se limita
 
 ### II.5. Biología, inmunología y genética: observable vivo, herencia, reconocimiento y clausura
 
-La especialización biológica, inmunológica y genética entra como dominio propio porque el manifiesto ya contenía materia suficiente para ello, pero esa materia estaba distribuida entre la introducción raigal, la matriz metrológica, las familias biomédicas, la familia genética-inmunológica, Física y química, y las secciones de vida formal, fibra, clausura y retorno. La reorganización no consiste en repetir esas capas, sino en declarar qué gobierna este dominio y qué queda en dominios vecinos. Física y química conservan elemento, molécula, enlace, fase, masa, energía, luz, campo y transición material; Termodinámica conserva calor, trabajo, temperatura, entropía y régimen térmico; Electricidad y campo magnético conserva carga, corriente, campo, propagación y frontera electromagnética; Cosmología conserva universo observable, edad relativa, distancia, gravitación, `Λ` y clausura de régimen. Biología, inmunología y genética reciben de esos dominios condiciones materiales, pero no se agotan en ellas: una molécula no es una célula, una secuencia no es una persona, un marcador inmune no es una respuesta completa, una variante no es destino, una traza no es continuidad viva y una clausura local no borra la cadena realizada.
+La especialización biológica, inmunológica y genética comparece como dominio propio porque ya existía base formal suficiente distribuida entre la introducción raigal, la matriz metrológica, las familias biomédicas, la familia genética-inmunológica, Física y química, y las lecturas de vida formal, fibra, clausura y retorno (Lloret Egea, 2026ad, 2026u). La reorganización no consiste en repetir esas capas, sino en declarar qué gobierna este dominio y qué queda en dominios vecinos. Física y química conservan elemento, molécula, enlace, fase, masa, energía, luz, campo y transición material; Termodinámica conserva calor, trabajo, temperatura, entropía y régimen térmico; Electricidad y campo magnético conserva carga, corriente, campo, propagación y frontera electromagnética; Cosmología conserva universo observable, edad relativa, distancia, gravitación, `Λ` y clausura de régimen. Biología, inmunología y genética reciben de esos dominios condiciones materiales, pero no se agotan en ellas: una molécula no es una célula, una secuencia no es una persona, un marcador inmune no es una respuesta completa, una variante no es destino, una traza no es continuidad viva y una clausura local no borra la cadena realizada.
 
-La forma de entrada del dominio queda:
+La entrada queda ordenada así:
 
 `D_big = ⟨Obs_bio,Gen,Imm,Mut,Dis,Onc,Evo,Fib,Tr,Ret⟩`
 
 donde `Obs_bio` declara observables biológicos constituidos; `Gen` declara herencia, secuencia, variación y linaje; `Imm` declara reconocimiento, tolerancia, memoria y defensa; `Mut` declara cambio heredable, somático o funcional; `Dis` declara disfunción patológica; `Onc` declara dominancia clonal o tisular contra integración; `Evo` declara continuidad de especie, población o linaje; `Fib` declara pertenencia de fibra; `Tr` declara traza material, genética, documental o funcional; y `Ret` declara retorno biológico, genético, inmune, clínico o evolutivo. Esta forma no introduce un diagnóstico médico, no sustituye ciencia externa, no trata casos reales y no formula recomendación terapéutica. Solo fija el dominio raigal en el que las unidades nativas pueden devolver vida, función, herencia, respuesta, enfermedad, clausura y traza sin confundirse con unidades físicas desnudas.
 
-#### Reorganización interna del dominio
+#### Gobierno interno del dominio
 
-La reorganización del manifiesto exige distinguir familias de magnitudes y dominios de gobierno. Las matrices biomédicas, genéticas, moleculares e inmunológicas ya presentes funcionan como instrumentos de medida y retorno; no son todavía el dominio completo. El dominio completo exige que esas magnitudes queden inscritas en frontera viva, identidad, canal, barrera, residual, retorno y traza. Por eso una concentración de células, una carga molecular, una frecuencia alélica, una fracción clonal, una afinidad de unión, un título serológico, una citocina, una ocupación de receptor o una tasa de proliferación pueden entrar en `D_big`, pero ninguna de esas magnitudes cierra por sí sola vida, enfermedad, inmunidad, genética, cáncer o especie.
+El gobierno interno exige distinguir familias de magnitudes y regímenes de lectura. Las matrices biomédicas, genéticas, moleculares e inmunológicas ya presentes funcionan como instrumentos de medida y retorno; no son todavía el dominio completo. El dominio completo exige que esas magnitudes queden inscritas en frontera viva, identidad, canal, barrera, residual, retorno y traza. Por eso una concentración de células, una carga molecular, una frecuencia alélica, una fracción clonal, una afinidad de unión, un título serológico, una citocina, una ocupación de receptor o una tasa de proliferación pueden entrar en `D_big`, pero ninguna de esas magnitudes cierra por sí sola vida, enfermedad, inmunidad, genética, cáncer o especie.
 
-| Materia ya contenida en el manifiesto | Lectura anterior | Reorganización en `D_big` | Riesgo bloqueado |
+| Materia ya disponible | Lectura previa | Gobierno en `D_big` | Riesgo bloqueado |
 |---|---|---|---|
 | Masa, volumen, concentración, temperatura, presión, dosis | familia metrológica o clínica | soporte cuantitativo del observable biológico cuando existe frontera viva o muestra declarada | tomar una cifra como función completa |
 | Copias, carga molecular, células por volumen, frecuencia alélica, fracción clonal | familia genética, molecular e inmunológica | magnitudes de entrada para gen, clon, muestra, receptor, linaje o población | convertir entidad contada en sentido biológico total |
@@ -955,7 +1055,7 @@ Si una magnitud entra por física o química y después adquiere retorno biológ
 
 #### Tronco biológico-genético-inmunológico común
 
-El tronco del dominio se toma de la teoría de observables biológicos: un contenido biológico no alcanza cierre fuerte por nombre, apariencia, acumulación de señales o semejanza, sino por dominio declarado, magnitud o entidad reconocible por ciencia contemporánea, frontera, identidad, canal, barrera, residual, retorno y traza. La forma rectora se recibe así:
+El tronco biológico-genético-inmunológico procede de la teoría de observables biológicos: un contenido biológico no alcanza cierre fuerte por nombre, apariencia, acumulación de señales o semejanza, sino por dominio declarado, magnitud o entidad reconocible por ciencia contemporánea, frontera, identidad, canal, barrera, residual, retorno y traza. La forma rectora se recibe así:
 
 `𝓒★ObsU(x,D_big)=𝓝★[ΩM_D(x),𝔛_{D↔SV}(x),F_D(x),I_D(x),C_D(x),B_D(x),Δ_D(x),R_D(x),Tr_D(x)]∈{0,1,U}`
 
@@ -963,7 +1063,7 @@ El tronco del dominio se toma de la teoría de observables biológicos: un conte
 
 La primera fórmula decide si el candidato biológico, genético o inmune comparece como observable fuerte; la segunda deriva el transductor de dominio. La salida no crea célula, gen, variante, anticuerpo, tumor, enfermedad o especie: decide si el contenido puede ser recibido, evaluado y devuelto bajo las condiciones declaradas. En el plano biológico, `Ω_D` no es un contenedor abstracto: declara célula, tejido, órgano, organismo, especie, linaje, muestra, población, paciente abstracto de banco, cultivo o documento. En el plano genético, `M_D` puede ser nucleótido, par de bases, aminoácido, copia, variante, locus, alelo, fracción, cobertura, clon o linaje. En el plano inmunológico, `M_D` puede ser antígeno, receptor, anticuerpo, citocina, célula inmune, memoria, tolerancia, inflamación, autoinmunidad o escape. La frontera decide el nivel: membrana, tejido, órgano, organismo, muestra, clon, especie, población o documento. El residual decide si hay conservación, reparación, daño, enfermedad, U o rechazo.
 
-La forma de cierre del dominio queda:
+El cierre del dominio se expresa así:
 
 `BioIG_Ξ(D_big)=0 ⇔ D_big ∧ 𝓒★ObsU ∧ 𝓖★TrU(D_big) ∧ frontera viva o muestra declarada ∧ identidad de dominio ∧ canal ∧ barrera ∧ residual ∧ retorno ∧ traza`
 
@@ -992,7 +1092,7 @@ La forma de cierre del dominio queda:
 
 #### Célula, tejido, órgano y organismo
 
-La célula se recibe como observable biológico constituido: una región material con frontera propia, intercambio gobernado, identidad operativa, reparación relativa y retorno verificable. No es fundamento último de la vida ni simple saco químico. La célula exige frontera funcional, canal de intercambio, diccionario de respuesta, residual absorbible o trazable y retorno. La forma operativa queda:
+La célula se recibe como observable biológico constituido: una región material con frontera propia, intercambio gobernado, identidad operativa, reparación relativa y retorno verificable. No es fundamento último de la vida ni simple saco químico. La célula exige frontera funcional, canal de intercambio, diccionario de respuesta, residual absorbible o trazable y retorno. Su forma operativa es:
 
 `Cel_Ξ=0 ⇔ ∂Cel ∧ Ω_int/Ω_ext distinguibles ∧ canal gobernado ∧ retorno funcional ∧ Δ_cel absorbible`
 
@@ -1007,7 +1107,7 @@ El tejido no es suma de células; es coordinación de células y matriz bajo fun
 
 #### Genética, mutación y linaje
 
-Genética entra como dominio de registro material, variación, herencia y linaje, no como destino absoluto. Una secuencia puede cerrar como dato de secuencia y no cerrar como función; una variante puede cerrar como cambio y quedar en `U` como patogenicidad; una frecuencia alélica puede cerrar como dato poblacional y no cerrar como causalidad clínica; una fracción clonal puede cerrar como medida de muestra y no cerrar como cáncer completo. La forma de mutación queda:
+Genética entra como dominio de registro material, variación, herencia y linaje, no como destino absoluto. Una secuencia puede cerrar como dato de secuencia y no cerrar como función; una variante puede cerrar como cambio y quedar en `U` como patogenicidad; una frecuencia alélica puede cerrar como dato poblacional y no cerrar como causalidad clínica; una fracción clonal puede cerrar como medida de muestra y no cerrar como cáncer completo. La mutación se formaliza así:
 
 `Mut_Ξ(m,D)=0 ⇔ fuente ∧ cambio ∧ posición o estructura ∧ linaje o muestra ∧ canal replicativo o funcional ∧ barrera de viabilidad ∧ residual mutacional ∧ retorno molecular, funcional o poblacional ∧ traza`
 
@@ -1026,7 +1126,7 @@ La genética queda protegida por tres restricciones. Primera: genoma no equivale
 
 #### Inmunología: reconocimiento, tolerancia, memoria y daño
 
-Inmunología entra como dominio de reconocimiento, defensa, tolerancia, memoria, inflamación, autoinmunidad, inmunodeficiencia, escape tumoral e intervención inmune. Su regla principal es que un marcador inmune no equivale a función. Un anticuerpo no equivale siempre a protección; una citocina no equivale siempre a inflamación útil; un infiltrado no equivale siempre a control tumoral; un autoanticuerpo no equivale siempre a enfermedad; una respuesta intensa no equivale siempre a defensa beneficiosa. La forma de reconocimiento queda:
+Inmunología entra como dominio de reconocimiento, defensa, tolerancia, memoria, inflamación, autoinmunidad, inmunodeficiencia, escape tumoral e intervención inmune. Su regla principal es que un marcador inmune no equivale a función. Un anticuerpo no equivale siempre a protección; una citocina no equivale siempre a inflamación útil; un infiltrado no equivale siempre a control tumoral; un autoanticuerpo no equivale siempre a enfermedad; una respuesta intensa no equivale siempre a defensa beneficiosa. El reconocimiento se formaliza así:
 
 `Imm_Ξ(a,r,D)=0 ⇔ antígeno o patrón ∧ receptor o sensor ∧ presentación o contacto ∧ coestimulación o contexto ∧ respuesta ∧ tolerancia o memoria cuando proceda ∧ residual ∧ retorno ∧ traza`
 
@@ -1048,21 +1148,21 @@ La respuesta inmune puede cerrar como protectora, lesiva, tolerante, insuficient
 
 #### Enfermedad, cáncer y clausura vital
 
-Enfermedad entra cuando un residual deja de quedar gobernado por reparación, contención, identidad funcional o integración de dominio y retorna como disfunción, lesión, síntoma, signo, biomarcador, transmisión, degeneración, inflamación, autoinmunidad, fracaso metabólico o pérdida de viabilidad. No toda variación es enfermedad; no toda enfermedad es genética; no toda inflamación es defensa; no toda lesión cierra etiología. La forma general queda:
+Enfermedad entra cuando un residual deja de quedar gobernado por reparación, contención, identidad funcional o integración de dominio y retorna como disfunción, lesión, síntoma, signo, biomarcador, transmisión, degeneración, inflamación, autoinmunidad, fracaso metabólico o pérdida de viabilidad. No toda variación es enfermedad; no toda enfermedad es genética; no toda inflamación es defensa; no toda lesión cierra etiología. La forma general se expresa así:
 
 `Dis_Ξ(E,D)=0 ⇔ dominio clínico-biológico ∧ lesión o disfunción ∧ unidad o entidad de dominio ∧ frontera afectada ∧ canal patológico ∧ barrera superada ∧ residual no absorbido ∧ retorno patológico ∧ traza`
 
-El cáncer entra como dominancia local contra integración orgánica. No se reduce a mutación, ni a proliferación, ni a masa, ni a clon aislado. Requiere frontera tumoral o tisular, identidad clonal o histológica, canal proliferativo o invasivo, barreras de control superadas, residual oncológico, retorno clínico-biológico y traza. La forma de cierre queda:
+El cáncer entra como dominancia local contra integración orgánica. No se reduce a mutación, ni a proliferación, ni a masa, ni a clon aislado. Requiere frontera tumoral o tisular, identidad clonal o histológica, canal proliferativo o invasivo, barreras de control superadas, residual oncológico, retorno clínico-biológico y traza. El cierre se formula así:
 
 `Onc_Ξ(Ca,D)=0 ⇔ clon o tejido ∧ órgano o dominio ∧ frontera tumoral ∧ identidad histológica o molecular ∧ canal de dominancia ∧ barrera de control superada ∧ residual oncológico ∧ retorno de lesión, invasión, progresión o respuesta ∧ traza`
 
-La clausura vital debe separarse de traza. La muerte celular no es muerte del organismo; la muerte física del organismo no borra genética, documento, memoria, restos o efectos; la traza no reabre la instancia viva. La forma de clausura local queda:
+La clausura vital debe separarse de traza. La muerte celular no es muerte del organismo; la muerte física del organismo no borra genética, documento, memoria, restos o efectos; la traza no reabre la instancia viva. La clausura local se expresa así:
 
 `Clv_Ξ(o,D)=0 ⇔ retorno vivo propio del nivel extinguido ∧ residual no absorbible ∧ traza declarada ∧ no confusión entre traza y continuidad`
 
 #### Patrón `P_H₂O` en el dominio biológico, inmunológico y genético
 
-El patrón `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` entra en este dominio solo como soporte físico-químico y metrológico. Puede devolver cantidad de entidad, masa, volumen, densidad, presión y temperatura; puede preparar lectura de solvente, hidratación, volumen de muestra, concentración, fase, medio, temperatura de banco o frontera prebiológica; pero no devuelve por sí solo célula, vida, inmunidad, genética, enfermedad, cáncer, especie o fibra humana. Para que el agua de banco entre en `D_big` debe declararse medio, muestra, célula, tejido, organismo, biomolécula, concentración, reacción, canal biológico, frontera o retorno propio. Sin esa declaración, la salida biológica correcta es `U`.
+En biología, inmunología y genética, `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` solo comparece como soporte físico-químico y metrológico. Puede devolver cantidad de entidad, masa, volumen, densidad, presión y temperatura; puede preparar lectura de solvente, hidratación, volumen de muestra, concentración, fase, medio, temperatura de banco o frontera prebiológica; pero no devuelve por sí solo célula, vida, inmunidad, genética, enfermedad, cáncer, especie o fibra humana. Para que el agua de banco entre en `D_big` debe declararse medio, muestra, célula, tejido, organismo, biomolécula, concentración, reacción, canal biológico, frontera o retorno propio. Sin esa declaración, la salida biológica correcta es `U`.
 
 | Lectura desde `P_H₂O` | Retorno permitido | Salida en `D_big` | Límite |
 |---|---|---|---|
@@ -1081,25 +1181,25 @@ La admisibilidad del dominio queda fijada por:
 
 El dominio rechaza cuatro cierres indebidos: la biología sin frontera viva o muestra declarada; la genética como destino absoluto; la inmunología como lectura por marcador aislado; y la enfermedad o cáncer por señal parcial sin retorno de dominio. Conserva `U` cuando la señal, variante, respuesta, lesión, sospecha o traza no permite cierre suficiente sin contradicción material. Devuelve `1` cuando el enunciado contradice dominio, unidad, frontera, identidad, canal, barrera, residual, retorno o traza. Devuelve `0` cuando la proyección cierra con retorno materialmente declarado.
 
-La sección queda situada así: Física y química aportan materialidad, molécula, enlace, fase, luz, campo y transición; Biología, inmunología y genética aportan frontera viva, linaje, herencia, reconocimiento, respuesta, reparación, enfermedad, cáncer, especie, persona y clausura vital. El raigal no se biologiza: se proyecta en este dominio mediante unidades nativas, unidades externas, transductores, residuales y retornos propios.
+La relación entre dominios queda así situada: Física y química aportan materialidad, molécula, enlace, fase, luz, campo y transición; Biología, inmunología y genética aportan frontera viva, linaje, herencia, reconocimiento, respuesta, reparación, enfermedad, cáncer, especie, persona y clausura vital. El raigal no se biologiza: se proyecta en este dominio mediante unidades nativas, unidades externas, transductores, residuales y retornos propios.
 
 ### II.6. Matemáticas y álgebra del SV: célula, U, suceso, trayectoria y operadores
 
-Este dominio no entra como una especialización física, química, biológica o cosmológica. Entra como dominio formal de referencia: declara qué objetos matemáticos pueden recibir las proyecciones raigales, qué operaciones son legítimas, qué significa cambiar por sucesos, cuándo un residual impide cierre, cómo se conserva `U` y qué herramientas discretas permiten estudiar trayectorias sin importar cálculo continuo, probabilidad ni tiempo rector. Por eso su función es doble. Hacia abajo, protege las especializaciones ya introducidas para que ninguna use unidades, señales, moléculas, campos, ciclos o trazas sin dominio, residual y retorno. Hacia arriba, prepara la referencia nativa de convergencia metrológica, porque toda bidireccionalidad SI↔SV necesita una gramática matemática que distinga unidad, magnitud, operación, representación, secuencia y dictamen.
+Este dominio no entra como una especialización física, química, biológica o cosmológica. Entra como dominio formal de referencia (Lloret Egea, 2026d, 2026e, 2026f, 2026g, 2026h): declara qué objetos matemáticos pueden recibir las proyecciones raigales, qué operaciones son legítimas, qué significa cambiar por sucesos, cuándo un residual impide cierre, cómo se conserva `U` y qué herramientas discretas permiten estudiar trayectorias sin importar cálculo continuo, probabilidad ni tiempo rector. Por eso su función es doble. Hacia abajo, protege las especializaciones ya introducidas para que ninguna use unidades, señales, moléculas, campos, ciclos o trazas sin dominio, residual y retorno. Hacia arriba, prepara la referencia nativa de convergencia metrológica, porque toda bidireccionalidad SI↔SV necesita una gramática matemática que distinga unidad, magnitud, operación, representación, secuencia y dictamen.
 
-La reorganización del manifiesto queda fijada así. Las matrices de magnitudes siguen siendo familias de retorno; Termodinámica, Electricidad y campo magnético, Cosmología, Física y química, y Biología, inmunología y genética siguen siendo dominios de aplicación; Matemáticas y álgebra del SV no compite con ellos, sino que declara el suelo formal que permite leerlos sin duplicación. La articulación operatoria que sigue a esta sección debe entenderse, desde ahora, como aplicación raigal de este dominio formal: no es un dominio separado, sino una proyección de cálculo del suceso, acumulación, trayectoria, sensibilidad, frontera, grafo y representación sobre el horizonte raigal.
+El orden formal puede leerse así. Las matrices de magnitudes siguen siendo familias de retorno; Termodinámica, Electricidad y campo magnético, Cosmología, Física y química, y Biología, inmunología y genética siguen siendo dominios de aplicación; Matemáticas y álgebra del SV no compite con ellos, sino que declara el suelo formal que permite leerlos sin duplicación. La articulación operatoria que sigue a esta sección debe entenderse, desde ahora, como aplicación raigal de este dominio formal: no es un dominio separado, sino una proyección de cálculo del suceso, acumulación, trayectoria, sensibilidad, frontera, grafo y representación sobre el horizonte raigal.
 
 #### Entrada del dominio formal
 
 Sea `D_alg` el dominio matemático-algebraico de referencia. Su objeto no es agua, célula, estrella, campo, molécula ni persona. Su objeto es la estructura que hace posible leer esos contenidos cuando ya han sido declarados por su dominio propio. En `D_alg`, una proyección raigal se recibe mediante terna, célula, observable compatible, suceso, trayectoria, horizonte, residual, representación y operación permitida.
 
-La entrada queda:
+La entrada se escribe como:
 
 `D_alg=(Σ,C_SV,H_D,Obs_D,Γ,R_D,L_D,Op_D,Rep_D,Tr_D)`
 
 donde `Σ={0,1,U}` es el alfabeto de lectura; `C_SV` designa célula del SV; `H_D` declara horizonte; `Obs_D` contiene observables compatibles; `Γ` es trayectoria de sucesos; `R_D` es residual; `L_D` es límite estructural; `Op_D` agrupa operaciones legítimas; `Rep_D` contiene representaciones o cartas auxiliares; y `Tr_D` conserva traza. Ningún elemento de esa tupla opera solo. La célula sin horizonte no decide; la trayectoria sin suceso legible no cambia; la representación sin invariante no demuestra; la operación sin dominio compatible no se autoriza; y `U` sin vía resolutiva no se cierra.
 
-La condición de admisibilidad del dominio se expresa así:
+La admisión del dominio se expresa así:
 
 `MathAlg_Ξ(D_alg)=0 ⇔ Σ ∧ C_SV ∧ H_D ∧ Obs_D ∧ Γ ∧ R_D ∧ L_D ∧ Op_D ∧ Rep_D ∧ Tr_D cierran sin contradicción`
 
@@ -1126,7 +1226,7 @@ El horizonte `H_D` impide que la célula flote sin pregunta. Una posición en `U
 
 El dominio matemático-algebraico distingue operaciones elementales, operaciones condicionadas y operaciones no universales. Suma, neutro, opuesto, resta y producto externo por escalar solo son legítimos sobre dominios aditivos compatibles. Producto interno, cociente, promedio, media, raíz, logaritmo, exponencial y operadores afines no son universales del SV: requieren dominio, unidad, objeto, sentido y residual. Esta distinción es esencial para el raigal, porque una misma magnitud puede volver como masa, energía, campo, concentración, señal, edad o célula; pero no toda operación que tenga sentido en una magnitud externa pasa a ser operación nativa del raigal.
 
-La regla de no universalidad queda:
+La no universalidad se formula así:
 
 `Op_D(q)=0 ⇔ q pertenece a dominio compatible ∧ la operación está tipada ∧ la unidad o entidad está declarada ∧ el residual queda visible`
 
@@ -1143,7 +1243,7 @@ Si una operación solo existe en una proyección externa, se usa como operación
 
 #### Cálculo del suceso
 
-El cambio matemático del SV se formula sobre sucesos, no sobre tiempo soberano. Sea `Γ=(ν_0,ν_1,...,ν_m)` una trayectoria de sucesos y sea `q` un observable compatible. La diferencia de suceso queda:
+El cambio matemático del SV se formula sobre sucesos, no sobre tiempo soberano. Sea `Γ=(ν_0,ν_1,...,ν_m)` una trayectoria de sucesos y sea `q` un observable compatible. La diferencia de suceso se define como:
 
 `Δ_{ν_j}q=q(ν_{j+1})−q(ν_j)`
 
@@ -1151,7 +1251,7 @@ Si existe peso factual compatible `ω(ν_j)>0`, la derivada normalizada queda:
 
 `𝔇_Γ q(j)=Δ_{ν_j}q/ω(ν_j)`
 
-Esta forma no mide velocidad física por sí misma. Mide variación factual entre dos sucesos declarados. Si el dominio devuelve duración externa, podrá retornar a segundos, años o ciclos; pero esa devolución pertenece al transductor de dominio, no al fundamento del cambio. La acumulación recompone la trayectoria:
+No mide velocidad física por sí misma; mide variación factual entre dos sucesos declarados. Si el dominio devuelve duración externa, podrá retornar a segundos, años o ciclos; pero esa devolución pertenece al transductor de dominio, no al fundamento del cambio. La acumulación recompone la trayectoria:
 
 `𝔄_Γ(q;a,b)=Σ_{j=a}^{b−1} q(ν_j)·ω(ν_j)`
 
@@ -1165,7 +1265,7 @@ Esta relación actúa como control fuerte: si los tramos no recomponen el cambio
 
 El dominio matemático no debe confundir cambio visible con cambio estructural. Un suceso puede modificar una magnitud local sin reorganizar el dominio. Por eso se distinguen orden, directriz, detonación, sensibilidad, gravedad y generación. El orden mide profundidad estructural inducida; la directriz mide si la presencia o ausencia del suceso altera actualización, compatibilidad, resolubilidad o clausura; la detonación exige arrastre factual no degenerado; la sensibilidad mide respuesta respecto de parámetro compatible; la gravedad mide extensión crítica o densidad estructural; la generación exige novedad admisible del dominio.
 
-La cadena de lectura queda:
+La cadena de lectura es:
 
 `orden → directriz → arrastre → persistencia → sensibilidad → gravedad → generación`
 
@@ -1209,7 +1309,7 @@ La transformada Z opera sobre secuencias numéricas canónicas:
 
 `𝒵{f}(z)=Σ_{k=1}^{N} f(k)·z^{-k}`
 
-Su función es codificar, no predecir. Describe diferencias, acumulaciones y patrones de secuencia; no cierra por sí sola estabilidad, ni decide el dictamen. El grafo de composición, por su parte, permite estudiar arquitecturas mediante matriz de adyacencia `A_𝒜`, operador de propagación `P_𝒜`, profundidad efectiva `d_eff(𝒜)` e influencia estructural `ρ(C,𝒜)`. Es la vía para leer propagación entre células sin confundir influencia con verdad ni camino con retorno completo.
+Codifica, no predice. Describe diferencias, acumulaciones y patrones de secuencia; no cierra por sí sola estabilidad ni decide el dictamen. El grafo de composición, por su parte, permite estudiar arquitecturas mediante matriz de adyacencia `A_𝒜`, operador de propagación `P_𝒜`, profundidad efectiva `d_eff(𝒜)` e influencia estructural `ρ(C,𝒜)`. Es la vía para leer propagación entre células sin confundir influencia con verdad ni camino con retorno completo.
 
 #### Matriz de integración algebraica de los dominios ya incorporados
 
@@ -1237,21 +1337,20 @@ En el dominio matemático-algebraico, `P_H₂O` no entra como agua, química, vi
 
 #### Criterio de admisibilidad del dominio
 
-El dominio Matemáticas y álgebra del SV queda admitido como especialización de referencia cuando cumple:
+Matemáticas y álgebra del SV se admiten como especialización de referencia cuando se cumple:
 
 `MathAlg_Ξ(D_alg)=0 ⇔ Σ ∧ SV(n,b) ∧ H_D ∧ Obs_D ∧ Γ ∧ R_D ∧ L_D ∧ Op_D ∧ Rep_D ∧ Seq_D ∧ Graph_D ∧ Tr_D`
 
 donde `Seq_D` agrupa secuencias canónicas y `Graph_D` agrupa arquitectura de composición cuando exista. El dominio conserva `U` cuando falta horizonte, suceso, representación inyectiva, operación compatible, unidad de retorno, secuencia numérica o grafo declarado. Rechaza cualquier lectura que convierta `U` en probabilidad, el polígono en fundamento, la derivada en tiempo, la transformada en predicción, el grafo en verdad o el promedio en dictamen.
 
-La sección queda situada así: Matemáticas y álgebra del SV no añade un dominio material junto a los anteriores; declara la gramática formal que les permite operar con precisión. Desde ella, el horizonte raigal se vuelve calculable solo cuando un dominio aplicado entrega magnitud, frontera, identidad, canal, residual, retorno y traza. Sin esa entrega, la matemática conserva `U` o rechaza la operación.
-
+La relación formal queda delimitada: Matemáticas y álgebra del SV no añade un dominio material junto a los anteriores; declara la gramática formal que les permite operar con precisión. Desde ella, el horizonte raigal se vuelve calculable solo cuando un dominio aplicado entrega magnitud, frontera, identidad, canal, residual, retorno y traza. Sin esa entrega, la matemática conserva `U` o rechaza la operación.
 
 
 ## III. Referencia nativa de convergencia metrológica
 
-La referencia nativa de convergencia metrológica une el primer apartado, dedicado al raigal como raíz metrológica y matriz de retorno, con el segundo apartado, dedicado a la especialización por dominios. Su función no consiste en repetir la matriz `MRΞ` ni en abrir un nuevo dominio material, sino en fijar el punto común desde el que una magnitud puede entrar desde el Sistema Internacional, conservarse en unidad nativa, especializarse por dominio, devolver residual y retornar de nuevo a unidad pública sin perder traza. En este punto convergen los primitivos metrológicos, la matriz de retorno, el cálculo del suceso, la conservación de `U`, las familias de magnitudes y los seis dominios aplicados (Lloret Egea, 2026c, 2026d, 2026e, 2026h).
+La referencia nativa de convergencia metrológica completa la operación iniciada con la raíz y continuada por los dominios: gobierna el paso entre unidad externa, unidad nativa, magnitud especializada, residual, retorno y traza. No repite `MRΞ` ni añade otro dominio material. Actúa como regla común de entrada y salida para que una magnitud pueda ser recibida desde el SI, inscrita en `UR_Ξ^X(D)`, contrastada por dominio y devuelta sin borrar el residual que la acompaña. En esta capa convergen los primitivos metrológicos, el cálculo del suceso, la conservación de `U`, las familias de magnitudes y las especializaciones ya declaradas (Lloret Egea, 2026c, 2026d, 2026e, 2026h).
 
-La forma operativa queda:
+Su forma operativa es:
 
 `RN_SV=⟨Σ,C_SV,U_SV,UR_Ξ,τ_{SI→Ξ},τ_{Ξ→SI},D,X,R_Ξ,Ret_SI,Tr,K_D⟩`
 
@@ -1270,15 +1369,15 @@ La forma operativa queda:
 | `Tr` | traza material, formal, documental, instrumental o de cálculo. |
 | `K_D` | criterio de cierre propio del dominio. |
 
-La cadena de entrada se formula así:
+La cadena de entrada es:
 
 `entrada SI → magnitud tipada → dominio declarado → transductor → unidad nativa → unidad de retorno raigal → residual → retorno interno → traza`
 
-La cadena de salida se formula así:
+La cadena de salida es:
 
 `unidad nativa → dominio declarado → magnitud especializada → unidad SI → residual externo → retorno público → traza`
 
-La condición de cierre de la referencia nativa queda:
+El cierre de la referencia nativa exige:
 
 `RN_SV(D,X)=0 ⇔ magnitud tipada ∧ unidad SI definida ∧ unidad nativa compatible ∧ UR_Ξ declarada ∧ transductor bidireccional ∧ dominio ∧ subdominio si procede ∧ frontera ∧ canal ∧ residual ∧ retorno ∧ traza`
 
@@ -1301,7 +1400,7 @@ La condición de cierre de la referencia nativa queda:
 
 ### III.2. Reglas de convergencia sin duplicación
 
-La referencia nativa conserva una jerarquía estricta. La matriz `MRΞ` recibe magnitudes; las familias derivadas distinguen funciones con dimensiones próximas; los dominios aplicados declaran frontera, canal, residual y retorno; y `RN_SV` gobierna la bidireccionalidad entre unidad externa, unidad nativa, especialización y traza. Si una magnitud aparece en más de un dominio, no se duplica: se recibe en su dominio principal y se traslada con transductor explícito cuando otro dominio la necesita.
+La referencia nativa mantiene una jerarquía estricta. La matriz `MRΞ` recibe magnitudes; las familias derivadas distinguen funciones con dimensiones próximas; los dominios aplicados declaran frontera, canal, residual y retorno; y `RN_SV` gobierna la bidireccionalidad entre unidad externa, unidad nativa, especialización y traza. Si una magnitud aparece en más de un dominio, no se duplica: se recibe en su dominio principal y se traslada con transductor explícito cuando otro dominio la necesita.
 
 | Magnitud o familia | Dominio principal | Entrada en `RN_SV` | Prohibición |
 |---|---|---|---|
@@ -1314,7 +1413,7 @@ La referencia nativa conserva una jerarquía estricta. La matriz `MRΞ` recibe m
 
 ### III.3. Banco común de prueba: `P_H₂O`
 
-El patrón `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` permite comprobar la referencia nativa sin convertir el agua en fundamento. En el primer apartado entra como banco físico-químico de cantidad, masa, densidad, volumen, presión y temperatura. En el segundo apartado se especializa por dominio: Termodinámica puede abrir calor y entropía solo si hay proceso; Electricidad y campo magnético conserva `U` si no hay fuente, canal o configuración; Física y química puede leer entidad molecular y composición; Biología solo puede usarlo como medio, muestra o soporte si declara frontera viva o matriz biológica; Matemáticas y álgebra lo recibe como vector de prueba tipado.
+Como banco común, `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` permite comprobar la referencia nativa sin convertir el agua en fundamento. Primero funciona como banco físico-químico de cantidad, masa, densidad, volumen, presión y temperatura; después se especializa por dominio: Termodinámica puede abrir calor y entropía solo si hay proceso; Electricidad y campo magnético conserva `U` si no hay fuente, canal o configuración; Física y química puede leer entidad molecular y composición; Biología solo puede usarlo como medio, muestra o soporte si declara frontera viva o matriz biológica; Matemáticas y álgebra lo recibe como vector de prueba tipado.
 
 | Lectura | Cierre admitido | Salida si falta condición |
 |---|---|---|
@@ -1328,12 +1427,12 @@ El patrón `P_H₂O=(1 mol de H₂O líquida, 25 °C, 1 atm)` permite comprobar 
 
 ### III.4. Resultado de convergencia
 
-La referencia nativa de convergencia metrológica deja la publicación en condiciones de operar sobre magnitudes heterogéneas sin romper plano. El raigal no se convierte en unidad SI, no sustituye el Sistema Internacional, no absorbe las ciencias externas y no convierte los dominios en compartimentos cerrados. Su función es conservar continuidad formal allí donde la ciencia pública devuelve magnitudes distintas: kg, m, s, A, K, mol, J, W, Pa, T, V, células, copias, señales, años, distancias, campos, trazas o dictámenes. La unidad externa vuelve al dominio público; la unidad nativa conserva raíz, residual y retorno; la traza permite auditar la operación.
+La referencia nativa de convergencia metrológica permite operar sobre magnitudes heterogéneas sin romper plano. El raigal no pasa a ser unidad SI, no sustituye el Sistema Internacional, no absorbe las ciencias externas ni encierra los dominios en compartimentos cerrados. Conserva continuidad formal allí donde la ciencia pública devuelve magnitudes distintas: kg, m, s, A, K, mol, J, W, Pa, T, V, células, copias, señales, años, distancias, campos, trazas o dictámenes. La unidad externa vuelve al dominio público; la unidad nativa conserva raíz, residual y retorno; la traza permite auditar la operación.
 
 
-### Articulación operatoria matemática del horizonte raigal
+### III.5. Articulación operatoria matemática del horizonte raigal
 
-La capa metrológica permite devolver el horizonte raigal a unidades reconocibles; la capa operatoria decide cómo ese horizonte cambia, se acumula, se recorre, adquiere curvatura, se delimita por frontera, se reconfigura y se clausura. Esta formulación no introduce una matemática raigal separada. Toma los operadores ya fijados por las matemáticas del suceso, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque operatorio factual, y los especializa sobre `H_Ξ(o,D)` solo cuando el observable, el dominio y el retorno lo permiten.
+La dimensión metrológica permite devolver el horizonte raigal a unidades reconocibles; la dimensión operatoria decide cómo ese horizonte cambia, se acumula, se recorre, adquiere curvatura, se delimita por frontera, se reconfigura y se clausura (Lloret Egea, 2026d, 2026e, 2026v). Esta formulación no introduce una matemática raigal separada. Recibe los operadores ya fijados por las matemáticas del suceso, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el desarrollo operatorio factual, y los especializa sobre `H_Ξ(o,D)` solo cuando el observable, el dominio y el retorno lo permiten.
 
 El objeto básico de cálculo se expresa mediante una trayectoria raigal compatible:
 
@@ -1455,7 +1554,7 @@ La transformada de trayectoria raigal queda:
 
 `𝒯_Φ^Ξ[q_Ξ](λ)=Σ_{j=0}^{m} q_Ξ(ν_j)·Φ_λ(ν_j)`
 
-Su función es reexpresar trayectorias de apertura, traza o residual sin sustituir la trayectoria. Puede servir para lectura armónica, espectral, generatriz o reconstructiva si el núcleo `Φ_λ` está declarado y si el retorno a `K_3`, a dictamen o a unidad externa se hace por morfismo de observación y clausura.
+Reexpresa trayectorias de apertura, traza o residual sin sustituirlas. Puede servir para lectura armónica, espectral, generatriz o reconstructiva si el núcleo `Φ_λ` está declarado y si el retorno a `K_3`, a dictamen o a unidad externa se hace por morfismo de observación y clausura.
 
 #### Frontera, flujo, divergencia, rotor e integrales factuales del raigal
 
@@ -1493,7 +1592,7 @@ En caso homogéneo sin residual interior:
 
 `∭_V^SV Div_Ξ(𝓕_Ξ)=∬_{∂V}^SV 𝓕_Ξ`
 
-Este bloque es decisivo para no confundir horizonte con destino. Un horizonte puede existir, pero su frontera puede perder retorno por flujo, divergencia residual, ruptura interna, señal no retornada o reconfiguración de dominio.
+Esta distinción es decisiva para no confundir horizonte con destino. Un horizonte puede existir, pero su frontera puede perder retorno por flujo, divergencia residual, ruptura interna, señal no retornada o reconfiguración de dominio.
 
 #### Frontera activa y reconfiguración raigal
 
@@ -1537,15 +1636,15 @@ Aquí `Λ_Ξ` es estabilidad de régimen y `B_Ξ` es balance factual asociado. L
 
 La matemática primaria del raigal opera sobre observables compatibles, no sobre `K_3` como dominio aritmético. La lectura ternaria se obtiene después por clausura inducida. Las operaciones universales admisibles son suma, neutro, opuesto, resta y producto externo por escalar cuando el dominio lo permita. Producto interno, cociente, promedio, raíz, logaritmo, exponencial, transformadas complejas, variable auxiliar, espectro, integral compleja o residuo solo entran si el dominio los justifica y si el retorno al SV conserva frontera, residual, `U` y dictamen.
 
-La condición de admisibilidad operatoria es:
+La admisión operatoria exige:
 
 `operador_Ξ admisible ⇔ dominio declarado ∧ observable compatible ∧ unidad o entidad de retorno ∧ frontera ∧ orientación cuando proceda ∧ residual ∧ retorno ∧ traza ∧ no contradicción de plano`
 
 La ausencia de una condición no contradictoria conserva la salida en `U`. La identificación del operador con fundamento del raigal determina rechazo.
 
-### Articulación armónico-modal y propagativa del horizonte raigal
+### III.6. Articulación armónico-modal y propagativa del horizonte raigal
 
-La capa operatoria anterior permite derivar, acumular, recorrer, fronterizar y reconfigurar lecturas del horizonte raigal. La publicación sobre Fourier factual y ecuación de onda electromagnética añade una precisión decisiva: cuando la lectura del horizonte se distribuye sobre un soporte cíclico finito, puede analizarse por modos sin convertir Fourier en fundamento, sin introducir tiempo soberano y sin absorber el raigal en campo electromagnético. Fourier factual no crea el raigal; solo permite leer una distribución ya declarada de apertura, retorno, señal, energía, calor, traza o residual sobre una célula, ciclo o trayectoria poligonal compatible.
+La dimensión operatoria anterior permite derivar, acumular, recorrer, fronterizar y reconfigurar lecturas del horizonte raigal. El estudio sobre Fourier factual y ecuación de onda electromagnética añade una precisión decisiva: cuando la lectura del horizonte se distribuye sobre un soporte cíclico finito, puede analizarse por modos sin convertir Fourier en fundamento, sin introducir tiempo soberano y sin absorber el raigal en campo electromagnético. Fourier factual no crea el raigal; solo permite leer una distribución ya declarada de apertura, retorno, señal, energía, calor, traza o residual sobre una célula, ciclo o trayectoria poligonal compatible.
 
 La condición de entrada es estricta. Sea `q_Ξ` una magnitud retornada del horizonte raigal sobre un soporte cíclico declarado, por ejemplo apertura restante, fracción recorrida, energía retornada, calor, señal, masa retenida por frontera, traza o residual. Solo si existe dominio `D`, soporte cíclico, unidad o entidad de retorno, frontera, residual, retorno y traza, procede la lectura modal:
 
@@ -1567,7 +1666,7 @@ y el fondo medio:
 
 `q̄_Ξ=1/9·Σ_{i=1}^9 q_i^Ξ`
 
-El desarrollo cíclico factual del horizonte queda:
+La lectura cíclica factual del horizonte queda:
 
 `q_i^Ξ=q̄_Ξ+Σ_{m=1}^4(α_m^Ξ[q]cos(mθ_i)+β_m^Ξ[q]sin(mθ_i))`
 
@@ -1575,7 +1674,7 @@ La transformada modal raigal es:
 
 `𝒯_mf^Ξ[q]=(q̄_Ξ,α_1^Ξ,β_1^Ξ,α_2^Ξ,β_2^Ξ,α_3^Ξ,β_3^Ξ,α_4^Ξ,β_4^Ξ)`
 
-Esta transformada no sustituye al transductor `𝔛_Ξ^X`. Opera después de él o sobre una magnitud que ya haya sido devuelta al dominio. Su función es descomponer la distribución cíclica del retorno: fondo, sesgo, axialidad, armónicos altos, mezcla modal y concentración de borde. Si el banco no tiene soporte cíclico legítimo, la lectura modal no procede.
+Esta transformada no sustituye al transductor `𝔛_Ξ^X`: opera después de él, o sobre una magnitud ya devuelta al dominio, y descompone la distribución cíclica del retorno: fondo, sesgo, axialidad, armónicos altos, mezcla modal y concentración de borde. Si el banco no tiene soporte cíclico legítimo, la lectura modal no procede.
 
 Para reconstrucción truncada de orden `K`, se define:
 
@@ -1639,9 +1738,9 @@ con:
 
 `Ω_{m,Ξ}²=4v_Ξ²/(Δℓ)² · sin²(πm/9)`
 
-Esta forma permite estudiar oscilación factual de apertura, señal, retorno o residual sin convertir oscilación en vida ni onda en fundamento. La condición inicial debe declararse. Un arranque frío, una velocidad factual inicial nula o una condición de borde no son verdades generales del raigal; son condiciones del caso.
+Con esta formulación puede estudiarse la oscilación factual de apertura, señal, retorno o residual sin convertir oscilación en vida ni onda en fundamento. La condición inicial debe declararse. Un arranque frío, una velocidad factual inicial nula o una condición de borde no son verdades generales del raigal; son condiciones del caso.
 
-El vínculo con el horizonte raigal queda así:
+El vínculo con el horizonte raigal se escribe así:
 
 `H_Ξ(o,D) → 𝔛_Ξ^X → q_Ξ → 𝒯_mf^Ξ[q] → ℛ_mod,Ξ^{[K]}[q] → 𝔅_Ξ^{[K]}[q;B] → dictamen`
 
@@ -1649,7 +1748,7 @@ y, si hay propagación:
 
 `q_Ξ(ξ) → δ_ξ²q_Ξ = v_Ξ²Δ_Γq_Ξ → evolución factual de retorno`
 
-Esta cadena protege el manifiesto frente a cuatro errores: identificar Fourier con fundamento, convertir una onda en vida, tratar la propagación como tiempo soberano o usar una reconstrucción modal sin residual. La lectura armónica queda subordinada al dominio; el balance modal exige cierre; el borde conserva el residual; y la ecuación de onda solo entra donde hay propagación factual declarada.
+Esta cadena protege la tesis frente a cuatro errores: identificar Fourier con fundamento, convertir una onda en vida, tratar la propagación como tiempo soberano o usar una reconstrucción modal sin residual. La lectura armónica queda subordinada al dominio; el balance modal exige cierre; el borde conserva el residual; y la ecuación de onda solo entra donde hay propagación factual declarada.
 
 | Operador armónico-modal | Forma raigal | Función | Riesgo bloqueado |
 |---|---|---|---|
@@ -1664,15 +1763,15 @@ Esta cadena protege el manifiesto frente a cuatro errores: identificar Fourier c
 | Ecuación propagativa | `δ_ξ²q_Ξ/(Δξ)²=v_Ξ²Δ_Γq_Ξ/(Δℓ)²` | propaga magnitud retornada | onda como vida o destino |
 | Frecuencia modal factual | `Ω_{m,Ξ}²` | desacopla modos bajo hipótesis | oscilación sin dominio |
 
-La condición de admisibilidad armónico-modal es:
+La admisión armónico-modal exige:
 
 `modal_Ξ admisible ⇔ soporte cíclico declarado ∧ q_Ξ transducida ∧ unidad o entidad de retorno ∧ θ_i declarados ∧ reconstrucción trazable ∧ residual modal visible ∧ borde si procede ∧ no tiempo soberano ∧ no Fourier fundante`
 
 La ausencia de soporte cíclico impide aplicar la transformada. Con soporte declarado pero sin retorno, la salida permanece en `U`. El uso de Fourier como fundamento del raigal determina rechazo; también lo determina el uso de la ecuación de onda para declarar vida, destino, resurrección o continuidad de instancia.
 
-### Potencial de un suceso en raigales
+### III.7. Potencial de un suceso en raigales
 
-La incorporación del potencial exige precisión conceptual: el raigal no es potencial y no queda reducido a potencial. El potencial pertenece a un suceso admisible cuando existe lectura polar; el raigal pertenece al plano de arraigo abierto por la imperfección, anterior a potencial, masa, energía, fibra y señal constituidas. Por tanto, no procede afirmar que `Ξ_SV` tiene potencial como si fuese una sustancia polarizada; procede afirmar que un suceso leído desde horizonte raigal puede devolver un potencial raigal cuando el dominio declara polos, frontera, residual, retorno y traza.
+La recepción del potencial exige precisión conceptual: el raigal no es potencial y no queda reducido a potencial (Lloret Egea, 2026w). El potencial pertenece a un suceso admisible cuando existe lectura polar; el raigal pertenece al plano de arraigo abierto por la imperfección, anterior a potencial, masa, energía, fibra y señal constituidas. Por tanto, no procede afirmar que `Ξ_SV` tiene potencial como si fuese una sustancia polarizada; procede afirmar que un suceso leído desde horizonte raigal puede devolver un potencial raigal cuando el dominio declara polos, frontera, residual, retorno y traza.
 
 Sea `e` un suceso admisible en un dominio `D`, con horizonte raigal declarado `H_Ξ(e,D)` y transductor raigal compatible. Se define la lectura polar raigal del suceso como:
 
@@ -1710,7 +1809,7 @@ Si el dominio conserva la normalización `α_Ξ+f_Ξ=1`, queda:
 
 `P_{Ξ,D}^{hor}(e)=1−2f_Ξ(e,D,M)=2α_Ξ(e,D,M)−1`
 
-Esta forma permite leer tres regiones sin introducir destino. Si `P_{Ξ,D}^{hor}>0`, predomina apertura raigal vigente; si `P_{Ξ,D}^{hor}=0`, hay equilibrio de horizonte o semiclausura formal; si `P_{Ξ,D}^{hor}<0`, predomina recorrido consumido. La igualdad `P_{Ξ,D}^{hor}=0` no equivale a origen, vida, muerte ni clausura. Solo indica equilibrio entre apertura restante y horizonte recorrido bajo esa métrica.
+La lectura distingue tres regiones sin introducir destino. Si `P_{Ξ,D}^{hor}>0`, predomina apertura raigal vigente; si `P_{Ξ,D}^{hor}=0`, hay equilibrio de horizonte o semiclausura formal; si `P_{Ξ,D}^{hor}<0`, predomina recorrido consumido. La igualdad `P_{Ξ,D}^{hor}=0` no equivale a origen, vida, muerte ni clausura. Solo indica equilibrio entre apertura restante y horizonte recorrido bajo esa métrica.
 
 Cuando se incorporan residuales internos y externos, la lectura efectiva debe separarse de la lectura pura de horizonte:
 
@@ -1720,7 +1819,7 @@ Cuando se incorporan residuales internos y externos, la lectura efectiva debe se
 
 `I_{Ξ,D}^{eff}(e)=α_Ξ(e,D,M)+f_Ξ(e,D,M)+ρ_int(e,D)+ρ_ext(e,D)`
 
-Esta forma no sustituye a la fórmula de clausura efectiva. Mide presión polar efectiva sobre la apertura; la clausura requiere comprobar caída de retorno o consumo de apertura por la regla específica de clausura. Así se evita confundir semiclausura, presión residual, agotamiento y muerte formal del observable.
+Esta expresión no sustituye a la fórmula de clausura efectiva. Mide presión polar efectiva sobre la apertura; la clausura requiere comprobar caída de retorno o consumo de apertura por la regla específica de clausura. Así se evita confundir semiclausura, presión residual, agotamiento y muerte formal del observable.
 
 La diferencia de potencial raigal entre sucesos comparables queda:
 
@@ -1802,15 +1901,15 @@ La regla de banco queda ampliada:
 
 Esta fila permite calcular el potencial de un suceso en raigales sin confundirlo con masa, energía, duración o destino. En un árbol longevo, el potencial raigal podrá leer apertura-retorno frente a consumo de horizonte, enfermedad, incendio o pérdida de soporte. En una ballena, podrá leer horizonte biológico frente a desgaste, entorno, alimentación, reproducción o daño. En una tortuga gigante, podrá leer persistencia de apertura frente a residual interno y externo. En una especie extinguida, podrá separar potencial raigal de individuos, potencial de la especie, traza fósil, fibra genética y clausura del retorno propio. En una protocivilización, podrá leer energía, población, soporte material, escritura, arquitectura, canal, colapso y traza sin convertir la cultura material restante en continuidad viva.
 
-La condición de admisibilidad es estricta:
+La admisión es estricta:
 
 `P_{Ξ,D} admisible ⇔ suceso admisible ∧ horizonte raigal declarado ∧ lectura polar raigal definida ∧ unidad interna o transducida ∧ residual local cerrado ∧ retorno ∧ traza ∧ no identificación del raigal con potencial`
 
 La falta no contradictoria de alguna condición conserva la salida en `U`. La salida se rechaza cuando `Ξ_SV` se identifica con potencial, cuando `P_{Ξ,D}` se usa para declarar destino, cuando los residuales se convierten en números por promedio, cuando se ignora la traza o cuando una transducción sectorial se presenta como fundamento.
 
-### Consonancia con el contenido físico factual del suceso y las clases factuales emergentes
+### III.8. Consonancia con el contenido físico factual del suceso y las clases factuales emergentes
 
-La incorporación del contenido físico factual del suceso exige distinguir el rango formal del raigal y su proyección física. El mismo símbolo no debe operar como etiqueta plana. En el plano de fundamentos, `Ξ_SV` designa la raíz formal de arraigo abierta por la imperfección; en el plano físico, una vez declarado el dominio y cerrada la mediación correspondiente, puede designar el contenido físico factual del suceso. La diferencia no es terminológica: impide reducir la raíz de apertura a energía basal, masa invariante, partícula, campo ordinario o clase emergente.
+La recepción del contenido físico factual del suceso exige distinguir el rango formal del raigal y su proyección física (Lloret Egea, 2026r). El mismo símbolo no debe operar como etiqueta plana. En el plano de fundamentos, `Ξ_SV` designa la raíz formal de arraigo abierta por la imperfección; en el plano físico, una vez declarado el dominio y cerrada la mediación correspondiente, puede designar el contenido físico factual del suceso. La diferencia no es terminológica: impide reducir la raíz de apertura a energía basal, masa invariante, partícula, campo ordinario o clase emergente.
 
 La distinción de rango queda fijada así:
 
@@ -1852,9 +1951,9 @@ La línea de decisión ampliada queda:
 
 Aquí `𝔛_Ξ^X` y `𝔗_SV` no cumplen la misma función. `𝔛_Ξ^X` transduce el horizonte raigal hacia una magnitud, unidad o entidad de dominio. `𝔗_SV` clasifica el destino físico de una concentración ya constituida. La primera operación devuelve lectura; la segunda decide clausura, emergencia o indeterminación honesta. Confundir ambas operaciones produciría una de dos deformaciones: o bien convertir todo retorno metrológico en clase física, o bien reducir toda emergencia posible a simple cambio de unidad.
 
-El operador `𝔎_SV` debe leerse como concentración factual de la proyección física del raigal, no como operador fundacional del raigal. Su dominio natural está formado por trayectoria, frontera, residual, sensibilidad, jacobiano, transformada o lectura modal cuando proceda. Por eso enlaza con la capa operatoria anterior: acumulación, frontera activa, divergencia, residual, transformada y reconfiguración. No crea una matemática paralela; especializa el aparato ya declarado cuando el dominio físico exige concentración.
+El operador `𝔎_SV` debe leerse como concentración factual de la proyección física del raigal, no como operador fundacional del raigal. Su dominio natural está formado por trayectoria, frontera, residual, sensibilidad, jacobiano, transformada o lectura modal cuando proceda. Por eso enlaza con la dimensión operatoria anterior: acumulación, frontera activa, divergencia, residual, transformada y reconfiguración. No crea una matemática paralela; especializa el aparato ya declarado cuando el dominio físico exige concentración.
 
-El operador `𝔥_SV` registra canal factual. Su función no es abrir una nueva causa, sino ordenar el tránsito entre concentración y cierre. En términos de esta publicación, el canal físico es admisible si conserva dominio, frontera, residual, retorno, traza, sensibilidad compatible y ausencia de contradicción de plano. Cuando ese canal se orienta a masa, comparece `𝔐_SV`; cuando el destino no se reduce a masa ni permanece en `U`, la clasificación corresponde a `𝔗_SV`.
+El operador `𝔥_SV` registra canal factual. No abre una nueva causa; ordena el tránsito entre concentración y cierre. En términos de este trabajo, el canal físico es admisible si conserva dominio, frontera, residual, retorno, traza, sensibilidad compatible y ausencia de contradicción de plano. Cuando ese canal se orienta a masa, comparece `𝔐_SV`; cuando el destino no se reduce a masa ni permanece en `U`, la clasificación corresponde a `𝔗_SV`.
 
 La clase factual emergente `χ_α` no debe confundirse con residual sin resolver. Una posición en `U` conserva indeterminación honesta; una clase `χ_α`, si llega a admitirse, exige firma propia: residual, frontera, jacobiano, canal, generación o perfil modal, estabilidad frente a perturbación compatible y separación respecto de masa y `U`. Por tanto:
 
@@ -1864,7 +1963,7 @@ La clase factual emergente `χ_α` no debe confundirse con residual sin resolver
 
 `χ_α` solo resulta admisible si existe firma estructural positiva.
 
-La Tabla Factual de Clausuras Emergentes del SV queda como instrumento físico especializado, no como fundamento general del raigal. Su función es ordenar posibles clausuras no masivas bajo la línea `𝔗_SV`, siempre que cada entrada conserve firma, dominio, residual, frontera, canal, retorno y traza. Sus huecos no autorizan entidades por intuición; solo señalan posiciones estructuralmente posibles que requieren banco, evaluación crítica y contraste.
+La Tabla Factual de Clausuras Emergentes del SV actúa como instrumento físico especializado, no como fundamento general del raigal; ordena posibles clausuras no masivas bajo la línea `𝔗_SV`, siempre que cada entrada conserve firma, dominio, residual, frontera, canal, retorno y traza. Sus huecos no autorizan entidades por intuición; solo señalan posiciones estructuralmente posibles que requieren banco, evaluación crítica y contraste.
 
 | Elemento | Rango correcto | Acoplamiento raigal | Riesgo bloqueado |
 |---|---|---|---|
@@ -1879,15 +1978,15 @@ La Tabla Factual de Clausuras Emergentes del SV queda como instrumento físico e
 | `U` | indeterminación honesta | conserva no clausura cuando falta base suficiente | cerrar por ausencia de prueba |
 | TFCE-SV | tabla especializada de clausuras | banco físico posterior de destinos no masivos | elevar huecos a entidades |
 
-La regla de prevalencia queda así: el raigal funda apertura y horizonte; el dominio físico permite contenido factual del suceso; la transducción devuelve magnitud; la concentración organiza cierre; la transmutación clasifica destino; y `U` permanece cuando no hay cierre suficiente. Esta cadena impide que una publicación física especializada gobierne indebidamente el plano de fundamentos, pero permite que lo fortalezca al mostrar cómo una raíz formal puede proyectarse hacia masa, clase emergente o indeterminación honesta sin pérdida de dominio.
+La regla de prevalencia se lee así: el raigal funda apertura y horizonte; el dominio físico permite contenido factual del suceso; la transducción devuelve magnitud; la concentración organiza cierre; la transmutación clasifica destino; y `U` permanece cuando no hay cierre suficiente. Esta cadena impide que una trabajo física especializada gobierne indebidamente el plano de fundamentos, pero permite que lo fortalezca al mostrar cómo una raíz formal puede proyectarse hacia masa, clase emergente o indeterminación honesta sin pérdida de dominio.
 
-La condición de admisibilidad de esta consonancia se formula en bloque:
+La consonancia se admite bajo esta condición:
 
 `Acople_Ξχ admisible ⇔ Ξ_SV^{raiz} distinguido de Ξ_SV^{fis} ∧ dominio físico declarado ∧ transducción previa cuando proceda ∧ concentración con frontera y residual ∧ canal trazable ∧ firma positiva para χ_α ∧ conservación de U ∧ no reducción del raigal a E_0, m_0 o χ_α`
 
 Si falta la mediación física, la lectura permanece en `Ξ_SV^{raiz}` o en `U` según el caso. Si se identifica la raíz con la proyección basal, rechazo. Si se declara `χ_α` sin firma positiva, rechazo. Si se usa `U` como clase emergente, rechazo. Si se presenta la tabla de clausuras como inventario empírico consumado, rechazo.
 
-### Suceso admisible, horizonte declarado y soporte de reevaluación raigal
+### III.9. Suceso admisible, horizonte declarado y soporte de reevaluación raigal
 
 La reevaluación raigal no puede depender de una sucesión desnuda de estados ni de una narración de cambio. Una transición solo modifica legítimamente el horizonte raigal cuando comparece un suceso admisible en horizonte declarado. Esta exigencia incorpora la teoría rigurosa del suceso admisible al plano del raigal sin alterar su rango: el suceso no funda el raigal, sino que gobierna cuándo una lectura raigal ya declarada puede actualizarse.
 
@@ -1919,13 +2018,13 @@ La diferencia eventiva básica se formula mediante una familia compatible de obs
 
 Esta diferencia no es derivada global ni prueba de clausura. Solo declara variación observable bien tipada bajo horizonte compatible. Si el observable no es comparable entre `H_n` y `H_{n+1}`, la diferencia no se usa; si el soporte no queda declarado, la transición permanece insuficiente; si `U` no puede resolverse sin pérdida de honestidad, se conserva `U`.
 
-La cadena de reevaluación queda así:
+La cadena de reevaluación es:
 
 `e_n^Ξ admisible → ν_n^Ξ legible → 𝒯_{ν_n}^Ξ determinado → S_{n+1}^Ξ evaluado`
 
 Por tanto, el dato de transición raigal `ν_n^Ξ` no debe presentarse como episodio narrativo. Debe proceder de un suceso admisible, o quedar retenido en `U` si falta soporte, control exterior, observable compatible, residual, retorno o traza. La trayectoria raigal no crece por cronología; crece por reevaluaciones admisibles añadidas de forma irreversible.
 
-La condición de admisibilidad eventivo-raigal se formula así:
+La admisión eventivo-raigal se formula así:
 
 `Adm_e^Ξ(e_n) ⇔ H_n declarado ∧ H_{n+1} declarado ∧ σ_n⊂I_{H_n} ∧ R_{e_n}:D_{e_n}→X_{H_{n+1}} bien tipado ∧ D_{e_n}≠∅ ∧ C_{e_n} declarado ∧ familia F compatible cuando proceda ∧ residual declarado ∧ retorno ∧ traza ∧ no tiempo fundante ∧ no reducción de U`
 
@@ -1942,16 +2041,16 @@ Si `Adm_e^Ξ(e_n)=0` por contradicción material, la reevaluación se rechaza. S
 | Célula canónica | `Σ⁹` cuando proceda | fija soporte discreto de referencia | hacer abstracta toda afectación |
 | Conteo de cruces | `k(τ)=Σ ε_i` | cuenta cruces admisibles, no episodios genéricos | contar pasos como sucesos |
 
-La incorporación del suceso admisible refuerza la reevaluación discreta del raigal. `ℋ_Ξ(𝒜_D,o)` declara tipos de sucesos relevantes; `e_n^Ξ` verifica la admisibilidad de una transición concreta; `ν_n^Ξ` registra el dato de transición ya legible; `𝒯_{ν_n}^Ξ` actualiza parámetros; y `S_{n+1}^Ξ` conserva el nuevo marco evaluado sin reescritura retrospectiva. La secuencia correcta es:
+La recepción del suceso admisible refuerza la reevaluación discreta del raigal (Lloret Egea, 2026x). `ℋ_Ξ(𝒜_D,o)` declara tipos de sucesos relevantes; `e_n^Ξ` verifica la admisibilidad de una transición concreta; `ν_n^Ξ` registra el dato de transición ya legible; `𝒯_{ν_n}^Ξ` actualiza parámetros; y `S_{n+1}^Ξ` conserva el nuevo marco evaluado sin reescritura retrospectiva. La secuencia correcta es:
 
 `ℋ_Ξ(𝒜_D,o) → e_n^Ξ → ν_n^Ξ → 𝒯_{ν_n}^Ξ → S_{n+1}^Ξ`
 
 Con ello, la reevaluación raigal queda protegida frente a cuatro errores: tomar una sucesión por suceso, tratar `U` como ruido, declarar cambio sin soporte y actualizar el horizonte por cronología. El raigal conserva apertura, retorno y traza; el suceso admisible gobierna la legitimidad del cambio efectivo.
 
 
-### Relaciones entre sucesos admisibles: comparabilidad, afectación, precedencia y compatibilidad raigal
+### III.10. Relaciones entre sucesos admisibles: comparabilidad, afectación, precedencia y compatibilidad raigal
 
-Una vez exigido que toda transición raigal materialmente relevante proceda de un suceso admisible, falta ordenar las relaciones entre varios sucesos admisibles. Un observable no se reevalúa normalmente por una sola incidencia aislada: puede recibir varios sucesos, algunos comparables, otros independientes, otros capaces de afectar el dominio de admisibilidad de los demás, y otros que habilitan estructuralmente una reevaluación posterior. Esta capa relacional no introduce tiempo rector; introduce dependencia formal entre sucesos admisibles.
+Una vez exigido que toda transición raigal materialmente relevante proceda de un suceso admisible, falta ordenar las relaciones entre varios sucesos admisibles (Lloret Egea, 2026y). Un observable no se reevalúa normalmente por una sola incidencia aislada: puede recibir varios sucesos, algunos comparables, otros independientes, otros capaces de afectar el dominio de admisibilidad de los demás, y otros que habilitan estructuralmente una reevaluación posterior. Esta capa relacional no introduce tiempo rector; introduce dependencia formal entre sucesos admisibles.
 
 Sean `e_n^Ξ` y `e_m^Ξ` dos sucesos admisibles vinculados al horizonte de reevaluación de un observable. La comparabilidad legítima se expresa como:
 
@@ -1989,7 +2088,7 @@ La aciclicidad de la precedencia solo puede declararse bajo una condición expl�
 
 Si esa monotonía no está declarada, la aciclicidad no se presenta como cierre. La salida permanece en `U`, o el tramo se conserva como problema formal abierto. Esta reserva es decisiva: impide convertir una propiedad condicionada en ley cerrada por redacción.
 
-La matriz relacional básica queda así:
+La matriz relacional básica es:
 
 | Relación | Forma | Función raigal | Riesgo bloqueado |
 |---|---|---|---|
@@ -2004,25 +2103,24 @@ La cadena relacional que gobierna una trayectoria raigal ampliada puede escribir
 
 `e_n^Ξ admisible → relación(e_n^Ξ,e_m^Ξ) → ν_n^Ξ legible → 𝒯_{ν_n}^Ξ determinado → S_{n+1}^Ξ evaluado`
 
-Esta forma impide que una sucesión de reevaluaciones se trate como cadena válida sin estructura relacional. Primero se comprueba la admisibilidad del suceso; después se determina si el suceso es comparable, afecta, precede o es compatible con otros sucesos; solo entonces se admite que el dato de transición alimente la actualización raigal.
+Así se impide que una sucesión de reevaluaciones se trate como cadena válida sin estructura relacional. Primero se comprueba la admisibilidad del suceso; después se determina si el suceso es comparable, afecta, precede o es compatible con otros sucesos; solo entonces se admite que el dato de transición alimente la actualización raigal.
 
-La condición de admisibilidad relacional queda:
+La admisión relacional exige:
 
 `Rel_Ξ admisible ⇔ e_n^Ξ admisible ∧ e_m^Ξ admisible ∧ transporte de observables cuando haya comparación ∧ soporte declarado ∧ dominio común o afectación tipada ∧ conservación de U ∧ residual ∧ retorno ∧ traza ∧ no tiempo rector ∧ no cierre acíclico sin Mon_Ξ`
 
 Si no hay transporte de observables, no se declara comparabilidad. Si la afectación no modifica lectura ni dominio, no se declara afectación. Si la habilitación depende de un antes cronológico y no de admisibilidad, no se declara precedencia. Si la aciclicidad requiere monotonía no declarada, no se declara cierre: se conserva `U` o se abre un tramo pendiente. Así, el raigal no solo exige sucesos admisibles; exige relaciones legítimas entre ellos antes de construir cascadas de reevaluación.
 
 
+### III.11. Consonancia con persistencia energética estructural y origen material del hidrógeno
 
-### Consonancia con persistencia energética estructural y génesis del hidrógeno
-
-La génesis del hidrógeno aporta al manifiesto una especialización física de primer rango: la pregunta por la persistencia. El raigal no se convierte por ello en átomo, hidrógeno, masa, calor, fuerza, plasma, molécula o atmósfera. Lo que se incorpora es una vía de retorno de dominio: cuando una apertura raigal se proyecta hacia el dominio físico de la persistencia energética, la lectura debe declarar frontera, redistribución, residual e identidad compatible antes de hablar de entidad física persistente.
+El estudio del origen material del hidrógeno aporta una especialización física de primer rango: la pregunta por la persistencia (Lloret Egea, 2026p, 2026s). Esa incorporación no convierte el raigal en átomo, hidrógeno, masa, calor, fuerza, plasma, molécula o atmósfera. Lo que se incorpora es una vía de retorno de dominio: cuando una apertura raigal se proyecta hacia el dominio físico de la persistencia energética, la lectura debe declarar frontera, redistribución, residual e identidad compatible antes de hablar de entidad física persistente.
 
 La cadena de proyección queda:
 
 `Ξ_SV^{raiz} → π_pers(D_fis) → Ω_pers → (∂Ω, Id, 𝓕_∂, 𝒬, ℛ_Γ) → 𝓟_min`
 
-donde `Ω_pers` designa el dominio físico de persistencia estructural, `∂Ω` la frontera que permite conservar identidad, `Id` la identidad persistente, `𝓕_∂` la capacidad estructural de frontera, `𝒬` la redistribución energética efectiva y `ℛ_Γ` el residual estructural no absorbido. La persistencia de dominio se expresa mediante:
+donde `Ω_pers` designa el dominio físico de persistencia estructural, `∂Ω` la frontera que permite conservar identidad, `Id` la identidad persistente, `𝓕_∂` la dimensióncidad estructural de frontera, `𝒬` la redistribución energética efectiva y `ℛ_Γ` el residual estructural no absorbido. La persistencia de dominio se expresa mediante:
 
 `𝓟_min(Γ,n)=𝓕_∂(Γ,n)−𝒬(Γ,n)−ℛ_Γ(n)`
 
@@ -2032,7 +2130,7 @@ con:
 
 La desigualdad `𝓟_min>0` no define el raigal; define persistencia física compatible dentro del dominio declarado. Si `𝓟_min≈0`, el dominio entra en régimen crítico. Si `𝓟_min<0`, domina la dispersión estructural. Esta lectura impide confundir energía disponible con identidad persistente, masa con sustancia primaria, calor con mera transferencia, fuerza con causa externa y residual con error eliminable.
 
-El tránsito atómico se incorpora como caso de especialización física, no como fundamento absoluto. El átomo estable se entiende como régimen discreto de persistencia cuando se satisfacen simultáneamente:
+El tránsito atómico opera como caso de especialización física, no como fundamento absoluto. El átomo estable se entiende como régimen discreto de persistencia cuando se satisfacen simultáneamente:
 
 `𝓟_min(Γ,n)>0 ∧ δ(∂Ω_atom)<Λ_atom ∧ ℛ_Γ(n)<Λ_atom`
 
@@ -2054,7 +2152,7 @@ La tabla periódica estructural se acopla como dominio derivado de clases atómi
 
 `X∈𝕋_chem^SV ⇔ 𝓝★[𝓟_min^X>0 ∧ δ(∂Ω_X)<Λ_X ∧ ℛ_X<Λ_X ∧ Δ𝓗_X∈𝓢_disc^X ∧ Id_chem(X)≠∅ ∧ Desc_proto(X)=1 ∧ No_artificio(X)=1 ∧ 𝓔★(Γ_U;τ)=0]=1`
 
-La molécula y la atmósfera quedan reconocidas como dominios derivados de composición persistente, pero no se incorporan aquí como desarrollo completo. Su función en este manifiesto es mostrar continuidad de dominio: clase atómica persistente → composición molecular persistente → composición planetaria persistente. Esa continuidad no autoriza a transferir criterios de un dominio a otro sin nueva frontera, residual, identidad e invariantes propios.
+La molécula y la atmósfera se reconocen como dominios derivados de composición persistente, aunque no se despliegan aquí como régimen completo; muestran continuidad de dominio: clase atómica persistente → composición molecular persistente → composición planetaria persistente. Esa continuidad no autoriza a transferir criterios de un dominio a otro sin nueva frontera, residual, identidad e invariantes propios.
 
 | Elemento de persistencia | Forma | Función raigal | Riesgo bloqueado |
 |---|---|---|---|
@@ -2069,15 +2167,15 @@ La molécula y la atmósfera quedan reconocidas como dominios derivados de compo
 | Tabla estructural | `𝕋_chem^SV` | ordena clases atómicas admisibles | prolongación nominal sin persistencia |
 | Composición derivada | `𝕄_chem`, `𝔄_plan` | prepara dominios posteriores | mezclar átomo, molécula y atmósfera |
 
-La condición de admisibilidad de esta consonancia queda:
+La consonancia exige:
 
 `Acople_ΞH admisible ⇔ Ξ_SV^{raiz} no reducido a átomo ∧ dominio físico declarado ∧ frontera ∧ identidad ∧ redistribución ∧ residual ∧ 𝓟_min evaluable ∧ H tratado como primer caso conocido ∧ 𝕋_chem^SV subordinada a persistencia y compatibilidad ∧ conservación de U`
 
 Si se identifica el raigal con hidrógeno, rechazo. Si se declara átomo sin frontera discreta, rechazo. Si se declara clase química por mera numeración, rechazo. Si falta base sin contradicción, `U`.
 
-### Consonancia con pares estructurales: protopar, realización ternaria y dictamen de dominio
+### III.12. Consonancia con pares estructurales: protopar, realización ternaria y dictamen de dominio
 
-Una vez fijado el tránsito desde persistencia energética hacia clase atómica estructural, el Catálogo de Pares Estructurales aporta un segundo nivel de especialización: la relación material entre dos clases ya admitidas. El par estructural no funda el raigal ni redefine la persistencia. Es una proyección de dominio químico-material en la que dos entidades atómicas estructurales se evalúan como protopar bajo magnitudes, restricciones y dictamen propios.
+Una vez fijado el tránsito desde persistencia energética hacia clase atómica estructural, el Catálogo de Pares Estructurales aporta un segundo nivel de especialización: la relación material entre dos clases ya admitidas (Lloret Egea, 2026q). El par estructural no funda el raigal ni redefine la persistencia. Es una proyección de dominio químico-material en la que dos entidades atómicas estructurales se evalúan como protopar bajo magnitudes, restricciones y dictamen propios.
 
 La cadena correcta es:
 
@@ -2140,17 +2238,17 @@ La relación con la persistencia energética previa es directa: no hay par estru
 
 `persistencia → clase atómica → dominio Ω_443 → protopar → restricciones de par → realización estructural`
 
-Esta cadena refuerza el manifiesto porque muestra que el raigal no se agota en una definición general. Puede proyectarse hacia dominios sucesivos sin perder disciplina: primero persistencia física; después clase atómica; después par estructural. Cada paso añade restricciones y banco propio; ningún paso corrige silenciosamente al anterior.
+Esta cadena refuerza la tesis porque muestra que el raigal no se agota en una definición general. Puede proyectarse hacia dominios sucesivos sin perder disciplina: primero persistencia física; después clase atómica; después par estructural. Cada paso añade restricciones y banco propio; ningún paso corrige silenciosamente al anterior.
 
-La condición de admisibilidad de esta consonancia queda:
+La consonancia exige:
 
 `Acople_Ξpair admisible ⇔ Acople_ΞH admisible ∧ A,B∈Ω_443 ∧ A≠B ∧ φ(A),φ(B) declaradas ∧ magnitudes de par calculables ∧ restricciones de par aplicadas solo en D_quim ∧ D_pair trazable ∧ salida extendida conservada en U cuando proceda ∧ no reducción del raigal a enlace, aleación o dictamen químico`
 
 Si se trasladan los umbrales de par fuera del dominio, rechazo. Si se interpreta `M`, `C` o `I` como equivalencia directa con química cuántica convencional, rechazo. Si se declara realización sin laboratorio o sin magnitudes de par, rechazo. Si falta contraste externo en región extendida, se conserva `U` en el rango correspondiente.
 
-### Horizonte de sucesos y reevaluación discreta del raigal
+### III.13. Horizonte de sucesos y reevaluación discreta del raigal
 
-La capa polar-eventiva permite definir el potencial de un suceso leído bajo horizonte raigal. La capa eventiva anterior añade una condición decisiva: el horizonte raigal de un observable no se actualiza por tiempo, ni por narración continua, ni por acumulación estadística de episodios. Se reevalúa por sucesos admisibles declarados dentro de un horizonte formal de sucesos. Esta capa no sustituye a `H_Ξ(o,D)`, a los transductores `𝔛_Ξ`, a `Adm_e^Ξ` ni a `Rel_Ξ`; ordena cuándo y cómo una lectura raigal ya declarada debe actualizar su marco de reevaluación, su apertura vigente, su fracción recorrida, su potencial, su residual, su retorno y su traza.
+La dimensión polar-eventiva permite definir el potencial de un suceso leído bajo horizonte raigal. La dimensión eventiva anterior añade una condición decisiva (Lloret Egea, 2026z): el horizonte raigal de un observable no se actualiza por tiempo, ni por narración continua, ni por acumulación estadística de episodios. Se reevalúa por sucesos admisibles declarados dentro de un horizonte formal de sucesos. Esta capa no sustituye a `H_Ξ(o,D)`, a los transductores `𝔛_Ξ`, a `Adm_e^Ξ` ni a `Rel_Ξ`; ordena cuándo y cómo una lectura raigal ya declarada debe actualizar su marco de reevaluación, su apertura vigente, su fracción recorrida, su potencial, su residual, su retorno y su traza.
 
 Debe distinguirse con precisión entre dos objetos. `H_Ξ(o,D)` designa el horizonte raigal formal del observable `o` en el dominio `D`. En cambio, `ℋ_Ξ(𝒜_D,o)` designa el horizonte de tipos de sucesos que pueden provocar reevaluación discreta de la arquitectura raigal asociada a ese observable. La homofonía de “horizonte” no autoriza fusión de planos: el primero mide apertura y retorno; el segundo declara qué sucesos cuentan para actualizar la lectura.
 
@@ -2176,7 +2274,7 @@ El dato de transición raigal queda:
 
 `ν_n^Ξ={(ε_i^Ξ,τ_i)}_{i∈I_n}, τ_i∈Σ`
 
-y debe proceder de una transición eventiva admisible `e_n^Ξ`, compatible con las relaciones `Rel_Ξ` que correspondan, o conservar la coordenada afectada en `U`. Puede incorporar también parámetros modificados, frontera afectada, soporte, canal, unidad de retorno, traza, residual, relación con otros sucesos y metadatos de auditoría. Su función no es medir duración; registra qué sucesos instanciados obligan a reevaluar el horizonte raigal entre `S_n^Ξ` y `S_{n+1}^Ξ`.
+y debe proceder de una transición eventiva admisible `e_n^Ξ`, compatible con las relaciones `Rel_Ξ` que correspondan, o conservar la coordenada afectada en `U`. Puede incorporar también parámetros modificados, frontera afectada, soporte, canal, unidad de retorno, traza, residual, relación con otros sucesos y metadatos de auditoría. No mide duración; registra qué sucesos instanciados obligan a reevaluar el horizonte raigal entre `S_n^Ξ` y `S_{n+1}^Ξ`.
 
 A cada dato de transición suficientemente determinado le corresponde un operador inducido:
 
@@ -2232,7 +2330,7 @@ Pueden distinguirse dos regímenes de crecimiento de trayectoria raigal. En rég
 
 La acotación de cascada se conserva. Si la arquitectura `𝒜_D(o)` admite grafo dirigido de dependencia, un suceso instanciado solo puede propagar reevaluación a los componentes accesibles desde la región afectada. Las regiones sin camino dirigido desde el suceso afectante permanecen inalteradas salvo nuevo dato de transición. Esta regla impide que un suceso local se convierta en clausura global por contagio retórico. En un árbol, una lesión de rama no clausura necesariamente el individuo; en una civilización, una ruina local no clausura la continuidad cultural; en una especie, una población extinguida no clausura automáticamente toda la especie; en una estrella, una variación local solo afecta al régimen global si el dominio declara propagación compatible.
 
-La matriz de reevaluación discreta del raigal queda:
+La matriz de reevaluación discreta del raigal es:
 
 | Objeto | Forma raigal | Función | Riesgo bloqueado |
 |---|---|---|---|
@@ -2259,7 +2357,7 @@ La condición de admisión es:
 
 La falta de determinación no contradictoria conserva la salida en `U`. El dato de transición contradictorio con dominio, traza, frontera o retorno se rechaza. También se rechaza cualquier uso de la reevaluación discreta que introduzca tiempo soberano, minería de datos, convergencia no demostrada, reescritura de marcos de reevaluación o clausura global por ausencia de prueba.
 
-Esta capa convierte el desarrollo en un instrumento operativo más preciso: un observable no solo posee horizonte raigal, transductores, metrología, operadores, lectura modal y potencial; posee también una trayectoria de reevaluación discreta que permite actualizarlo sin perder trazabilidad. Para bancos de árbol longevo, ballena, tortuga gigante, especie extinguida, estrella, universo observable o protocivilización, esto permite separar horizonte formal, sucesos que obligan a reevaluarlo, cambios de marco de reevaluación, potencial raigal nuevo, residuales abiertos y retorno efectivamente conservado.
+Esta capa vuelve la formulación más precisa: un observable no solo posee horizonte raigal, transductores, metrología, operadores, lectura modal y potencial; posee también una trayectoria de reevaluación discreta que permite actualizarlo sin perder trazabilidad. Para bancos de árbol longevo, ballena, tortuga gigante, especie extinguida, estrella, universo observable o protocivilización, esto permite separar horizonte formal, sucesos que obligan a reevaluarlo, cambios de marco de reevaluación, potencial raigal nuevo, residuales abiertos y retorno efectivamente conservado.
 
 La clausura efectiva exige una fórmula separada:
 
@@ -2275,7 +2373,7 @@ Esta fórmula no convierte el horizonte formal en destino. Solo declara que el r
 
 A partir de aquí se entiende por qué una ballena puede presentar un horizonte biológico mayor que un ratón; por qué una tortuga gigante de Galápagos puede exceder ampliamente el horizonte humano; por qué ciertos árboles pueden superar varios siglos o milenios; por qué una célula posee un horizonte distinto al organismo completo; por qué una especie puede durar más que sus individuos; por qué una estrella opera en escala incomparable con la vida humana; y por qué el universo observable no debe medirse como organismo biológico, sino como dominio físico con retorno ciclo-distancial.
 
-El raigal permite, por tanto, una contabilidad no ingenua. Se puede decir que un árbol posee quinientas unidades anuales de horizonte raigal transducido si el banco del dominio justifica ese horizonte. Se puede decir que una tortuga posee ciento cincuenta unidades anuales de horizonte raigal transducido bajo dominio biológico ordinario. Se puede decir que una persona posee otro horizonte, y que su clausura efectiva puede adelantarse por enfermedad, accidente o insuficiencia interna. Pero no debe decirse que esas unidades sean partículas de raigal. Son retornos metrológicos de un horizonte formal.
+El raigal permite, por tanto, una contabilidad no ingenua. Un árbol puede poseer quinientas unidades anuales de horizonte raigal transducido si el banco del dominio lo justifica; una tortuga puede devolver ciento cincuenta unidades anuales bajo dominio biológico ordinario; una persona puede conservar otro horizonte, con clausura efectiva adelantable por enfermedad, accidente o insuficiencia interna. Lo inadmisible es convertir esas unidades en partículas de raigal: son retornos metrológicos de un horizonte formal.
 
 La fórmula también explica la convivencia de proyecciones. Un cuerpo humano sostiene simultáneamente masa, energía, calor, señal, fibra, identidad y traza. La proyección material queda retenida por frontera corporal; la energética retorna como metabolismo, calor, movimiento, señal y reparación; la fibrosa lo vincula a especie, linaje y herencia; la documental conserva inscripción externa; el residual decide daño, reparación, enfermedad, pérdida o clausura. Vivir es sostener ese acoplamiento. Clausurar es perder el retorno que mantenía unidas esas proyecciones en una instancia.
 
@@ -2289,9 +2387,9 @@ La lectura armónica entra solo después. Una vez declarado el dominio, la apert
 
 `α_Ξ,rem(θ)+α_Ξ,cons(θ)=1`
 
-En `θ=π/4`, la apertura restante y la apertura consumida valen `1/2`. Esta forma no crea el raigal. Solo codifica armónicamente una relación de complemento cuando el dominio, el ciclo y el residual están declarados.
+En `θ=π/4`, la apertura restante y la apertura consumida valen `1/2`. La expresión no crea el raigal. Solo codifica armónicamente una relación de complemento cuando el dominio, el ciclo y el residual están declarados.
 
-El manifiesto sostiene entonces una tesis precisa: todo observable admisible posee un horizonte raigal de retorno bajo dominio declarado; ese horizonte puede normalizarse entre cero y uno; puede transducirse a la métrica propia del dominio; y puede ser alterado por residuales internos o externos. El raigal no es sustancia ni magnitud física directa. Es raíz formal de apertura proyectiva. Sus proyecciones pueden aparecer como masa, energía, fibra, señal, traza, calor, retorno, identidad o clausura, según dominio. La vida formal de un observable no es una duración no mediada por dominio, sino la conservación temporalmente transducible de un acoplamiento proyectivo bajo frontera y retorno.
+La formulación sostiene entonces una tesis precisa: todo observable admisible posee un horizonte raigal de retorno bajo dominio declarado; ese horizonte puede normalizarse entre cero y uno; puede transducirse a la métrica propia del dominio; y puede ser alterado por residuales internos o externos. El raigal no es sustancia ni magnitud física directa. Es raíz formal de apertura proyectiva. Sus proyecciones pueden aparecer como masa, energía, fibra, señal, traza, calor, retorno, identidad o clausura, según dominio. La vida formal de un observable no es una duración no mediada por dominio, sino la conservación temporalmente transducible de un acoplamiento proyectivo bajo frontera y retorno.
 
 El resultado no afirma que todo observable esté condenado a una fecha fija. Afirma algo más preciso: todo observable admisible opera con un horizonte formal de retorno. La diferencia entre horizonte y duración efectiva explica tanto la regularidad de las vidas de especie como sus rupturas: un árbol puede tener horizonte largo y morir por incendio; una persona puede tener horizonte biológico y clausurar por parada cardíaca; una ballena puede vivir más que un humano por arquitectura de dominio; una célula puede dividirse, degradarse o senescer; una estrella puede sostenerse mientras conserva régimen interno; una especie puede extinguirse aunque sus individuos hayan vivido; un universo observable puede estar en semiclausura ciclo-distancial sin que eso sea edad del TODO/NADA.
 
@@ -2305,11 +2403,36 @@ Así queda fijado el núcleo del raigal: **raíz de apertura, balance de arraigo
 
 **Criterio de banco:** la teoría obtiene admisibilidad inicial si ordena sin forzar los horizontes de observables heterogéneos —persona, ballena, tortuga gigante, árbol longevo, célula, especie, estrella y universo observable— mediante la misma regla: dominio, horizonte, fracción recorrida, apertura restante, residual interno, residual externo, retorno y clausura.
 
+## Conclusión
+
+La formulación alcanza una consistencia suficiente como desarrollo formal, metrológico y operativo, sin presentarse como teorema cerrado ni como sustitución de los marcos científicos externos. El primer movimiento era necesario porque el raigal no podía quedar definido por analogías sucesivas con masa, energía, calor, campo, tiempo, molécula, célula o señal. Antes de cualquier especialización hacía falta fijar su función: raíz de apertura, unidad de retorno, transductor, residual y traza. Sin esa fijación inicial, cada ciencia externa habría arrastrado su propia unidad como si fuese fundamento y el tránsito entre dominios habría quedado fragmentado.
+
+La especialización por dominios era igualmente necesaria, porque una misma unidad externa no garantiza una misma función. El julio puede comparecer como trabajo, calor, energía libre, entalpía, energía electromagnética o energía de enlace; el segundo puede comparecer como duración externa, ciclo medido, frecuencia inversa, edad cosmológica o vida media; el mol puede devolver entidad química, cantidad molecular, copias, células o concentración. La respuesta adoptada no fue multiplicar definiciones del raigal, sino conservar una raíz común y exigir que cada dominio declare magnitud, frontera, canal, residual, retorno y traza. Así, Termodinámica, Electricidad y campo magnético, Cosmología, Física y química, Biología-inmunología-genética, y Matemáticas y álgebra del SV no compiten entre sí: especializan la misma exigencia de retorno bajo condiciones propias.
+
+La referencia nativa de convergencia metrológica completa la operación porque impide que la matriz común y las especializaciones permanezcan como desarrollos paralelos. `RN_SV` fija la regla de ida y vuelta: una magnitud entra desde el SI o desde una entidad científica reconocible, se tipa, se inscribe en unidad nativa, conserva `UR_Ξ^X(D)`, pasa por dominio, mantiene residual, retorna a unidad pública y deja traza. Si falta proceso, muestra, frontera, método, configuración, canal o retorno, la salida permanece en `U`. Si se identifica la unidad externa con la raíz nativa, si se borra el dominio o si se suprime el residual, la salida se rechaza. La estructura gana así capacidad operativa sin sacrificar honestidad formal.
+
+El estado del arte externo confirma la pertinencia del problema. La metrología internacional ofrece unidades, constantes, vocabularios y trazabilidad; UCUM, FHIR, QUDT y OM aportan codificación e interoperabilidad de unidades; IUPAC gobierna terminología química; HGVS, ClinVar y ACMG/AMP ordenan la descripción e interpretación de variantes; Planck, Pantheon+ y DESI muestran que las magnitudes cosmológicas dependen de señal, banco, modelo y residual; FAIR exige trazabilidad de datos científicos. Ninguno de esos marcos queda negado. Todos conservan su función como retorno, contraste o vocabulario externo. La aportación propia está en otro plano: una referencia nativa capaz de mantener raíz, dominio, residual y traza cuando una magnitud cambia de régimen.
+
+El resultado final puede expresarse en una frase: el raigal no mide una sustancia oculta, sino que conserva la raíz formal de retorno de una magnitud cuando esa magnitud atraviesa dominios heterogéneos sin perder unidad nativa, residual ni traza. Su fuerza no procede de cerrar lo indeterminado, sino de impedir cierres indebidos. Por eso `U` no aparece como debilidad del sistema, sino como garantía de verdad operativa: aquello que no alcanza dominio, frontera, canal, retorno y traza suficientes no debe fingirse resuelto.
+
+La formulación conserva título, subtítulo, matriz metrológica, especialización por dominios, referencia nativa, estado del arte, citas coordinadas y bibliografía final. Las reservas técnicas permanecen en su lugar propio: normalización dimensional pendiente cuando una convención interna no ha sido verificada por banco común, candidatos estructurales en `U` mientras no tengan contraste externo, y toda magnitud dependiente de proceso en `U` cuando el proceso no ha sido declarado. Esa conservación de límites fortalece el resultado, porque distingue cierre material, habilitación formal y no cierre honesto.
+
+
 ## Bibliografía
+
+Abdul-Karim, M., et al. (2025). *DESI DR2 Results II: Measurements of baryon acoustic oscillations and cosmological constraints*. arXiv. https://arxiv.org/abs/2503.14738
 
 Bureau International des Poids et Mesures. (2025). *The International System of Units (SI Brochure)* (9.ª ed., actualización 2025). https://doi.org/10.59161/AUEZ1291
 
-International Union of Pure and Applied Chemistry. (2025). *Compendium of Chemical Terminology: The Gold Book*. https://goldbook.iupac.org/
+Brout, D., Scolnic, D., Popovic, B., Riess, A. G., Carr, A., Zuntz, J., et al. (2022). The Pantheon+ analysis: Cosmological constraints. *The Astrophysical Journal, 938*(2), 110. https://doi.org/10.3847/1538-4357/ac8e04
+
+Hart, R. K., Fokkema, I. F. A. C., DiStefano, M., Hastings, R., Laros, J. F. J., Taylor, R., Wagner, A., & den Dunnen, J. T. (2024). HGVS Nomenclature 2024: Improvements to community engagement, usability, and computability. *Genome Medicine, 16*, 149. https://doi.org/10.1186/s13073-024-01421-5
+
+HL7 International. (2026). *ValueSet: UCUM Codes*. HL7 Terminology/FHIR. https://terminology.hl7.org/
+
+International Union of Pure and Applied Chemistry. (2025). *Compendium of Chemical Terminology: The Gold Book* (online version 5.0.0). https://goldbook.iupac.org/
+
+Joint Committee for Guides in Metrology. (2012). *International vocabulary of metrology — Basic and general concepts and associated terms (VIM)* (JCGM 200:2012). https://doi.org/10.59161/JCGM200-2012
 
 Lloret Egea, J. A. (2026a). *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/k3q1d-fjj45
 
@@ -2371,49 +2494,22 @@ Lloret Egea, J. A. (2026ac). *El agujero negro como cierre interno sin resto ext
 
 Lloret Egea, J. A. (2026ad). *Proyecciones biológicas de la fibra: Teoría de la Creación de Observables del Universo, transducción metrológica, mutación, enfermedad, cáncer y clausura factual*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.1ab33893
 
+Lodha, K., et al. (2025). *Extended dark energy analysis using DESI DR2 BAO measurements*. arXiv. https://arxiv.org/abs/2503.14743
+
 Mohr, P. J., Tiesinga, E., Newell, D. B., & Taylor, B. N. (2025). CODATA recommended values of the fundamental physical constants: 2022. *Reviews of Modern Physics, 97*(2), 025002. https://doi.org/10.1103/RevModPhys.97.025002
+
+National Center for Biotechnology Information. (2026). *ClinVar: Genomic variation as it relates to human health*. https://www.ncbi.nlm.nih.gov/clinvar/
+
+Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics, 641*, A6. https://doi.org/10.1051/0004-6361/201833910
+
+QUDT.org. (2026). *Quantities, Units, Dimensions and Types Ontologies: Catalog and schemas*. https://www.qudt.org/
+
+Richards, S., Aziz, N., Bale, S., Bick, D., Das, S., Gastier-Foster, J., Grody, W. W., Hegde, M., Lyon, E., Spector, E., Voelkerding, K., Rehm, H. L., & ACMG Laboratory Quality Assurance Committee. (2015). Standards and guidelines for the interpretation of sequence variants. *Genetics in Medicine, 17*(5), 405–424. https://doi.org/10.1038/gim.2015.30
+
+Rijgersberg, H., van Assem, M., & Top, J. (2013). Ontology of units of measure and related concepts. *Semantic Web, 4*(1), 3–13. https://doi.org/10.5555/2595053.2595055
+
+Scolnic, D., et al. (2022). The Pantheon+ analysis: The full data set and light-curve release. *The Astrophysical Journal, 938*(2), 113. https://doi.org/10.3847/1538-4357/ac8b7a
 
 The UCUM Organization. (2024). *The Unified Code for Units of Measure*. https://ucum.org/ucum
 
-
-## Cierre de consistencia formal
-
-La formulación conserva admisibilidad como base formal de trabajo y no se presenta como teorema cerrado. Su consistencia depende de veintitrés restricciones: la etimología raíz → raigal conserva una política de impersonalización metrológica y no convierte el término en adorno; la especialización termodinámica entra como primer dominio de proyecciones raigales, con balance, calor, trabajo, temperatura, entalpía, entropía, frontera y no clausura sin identificar el raigal con ninguna magnitud térmica; la especialización eléctrica y de campo magnético entra como segundo dominio, con carga, corriente, campo eléctrico, inducción magnética, campo magnético, relaciones constitutivas, frontera, balance energético y propagación sin identificar el raigal con campo, carga, corriente ni onda; la especialización cosmológica entra como tercer dominio, con universo observable, edades relativas, distancias, retorno luminoso, gravitación local, constante cosmológica, observables y clausura sin identificar el raigal con totalidad absoluta, tiempo, distancia, luz, curvatura ni energía oscura; la especialización físico-química entra como cuarto dominio, con materia, luz, campo, sucesos generadores, protocampos, frontera angular, transición prequímica, elementos y materiales sin duplicar Termodinámica, Electricidad y campo magnético ni Cosmología; la especialización biológica, inmunológica y genética entra como quinto dominio, con célula, tejido, órgano, organismo, linaje, mutación, reconocimiento inmune, enfermedad, cáncer, especie, fibra humana, clausura vital y traza sin duplicar Física y química, Termodinámica, Electricidad y campo magnético ni Cosmología; la especialización matemática y algebraica entra como dominio formal de referencia, con terna, célula, `U`, horizonte, suceso, trayectoria, operadores, representación auxiliar, secuencias y grafo compositivo sin duplicar la capa operatoria raigal ni los dominios materiales; el raigal no se identifica con masa, energía, fibra, potencial, sustancia ni tiempo; el horizonte raigal no se presenta como destino; la transducción temporal se declara retorno metrológico de dominio; Fourier codifica una complementariedad o una distribución ya declarada; la familia `𝔛_Ξ` permanece subordinada a dominio, magnitud, frontera, identidad, canal, barrera, residual, retorno y traza; la capa metrológica queda sometida a instanciación contingente, sin importar al SV las teorías físicas de origen de sus constantes ancla; la Matriz de proyecciones raigales al Sistema Internacional conserva unidad nativa, unidad de retorno raigal, unidad externa, valor, residual y dictamen sin identificar el raigal con ninguna magnitud SI; las matrices derivadas de potencia, electricidad, mecánica, fluidos, materiales, termodinámica, química, clínica, genética, inmunología, señal e imagen se declaran familias de magnitudes y no dominios cerrados, de modo que no duplican las especializaciones posteriores; la capa operatoria especializa únicamente operadores ya declarados del cálculo del suceso, la acumulación factual, el Ciclo de Suceso, el Medidor Factual de Ciclo, las Trayectorias Poligonales de Activación y el bloque geométrico-factual; la capa armónico-modal no convierte Fourier, la transformada modal, el balance tipo Parseval, el residual de borde ni la ecuación de onda en fundamentos del raigal; la capa de potencial raigal no identifica `Ξ_SV` con potencial, sino que define el potencial de un suceso leído bajo horizonte raigal, lectura polar, residual, unidad tipada, retorno y traza; la consonancia con el contenido físico factual del suceso distingue `Ξ_SV^{raiz}` de `Ξ_SV^{fis}` y subordina masa, clases emergentes y `U` a dominio, transducción, concentración, canal, firma y residual; la incorporación del suceso admisible exige horizonte eventivo declarado, soporte, control exterior, operador de reevaluación y diferencia eventiva cuando proceda; la capa relacional entre sucesos admisibles exige comparabilidad transportada, afectación tipada, precedencia sin reloj, compatibilidad positiva y aciclicidad solo bajo monotonía de habilitación declarada; la capa de persistencia energética e hidrógeno distingue raigal, persistencia física, átomo y primer caso conocido; la capa de pares estructurales mantiene el dominio químico-material como banco especializado de protopares; y la capa de horizonte de sucesos no reintroduce tiempo, estadística ni reescritura, sino reevaluación discreta por adición irreversible por sucesos declarados en `Σ={0,1,U}`.
-
-La incorporación termodinámica conserva admisibilidad porque entra como dominio especializado y no como fundamento del raigal. `Ω_th`, `𝔇_ΓΩ_th·𝖦_th=0`, `𝔇_Γ𝒜_th=𝒲_th+𝒬_th+𝒰_th`, `π_W`, `π_Q`, `π_U`, `π_F`, `π_Θ`, `π_Λ`, `Θ_th=UFT(𝔇_Γ𝒬_th/𝔇_Γ𝓗_th)` y `Λ_th=𝒜_th+ℬ_∂` ordenan retornos de trabajo, calor, no clausura, fuerza, temperatura y entalpía bajo dominio declarado. El patrón `P_H₂O` inicia cantidad, masa, volumen, densidad, presión y temperatura de banco, pero conserva `U` en calor, trabajo, potencia, entropía, energía libre y cambio de fase cuando falta proceso. La reserva dimensional queda viva: la matriz adopta la forma energética `UFM·UFE²·UE_MFC⁻²` para retornos en julios, y cualquier convención interna distinta debe normalizarse materialmente antes de cierre publicable.
-
-La incorporación cosmológica conserva admisibilidad porque no convierte el universo observable en totalidad absoluta ni la edad relativa en fundamento. `D_cos`, `Cosmo_Ξ`, `A_Ωobs^SV`, `D_C`, `D_L`, `D_A`, `z`, `R_E`, `G`, `Λ`, `T_D^SV`, `𝓒★ObsU`, `𝓖★TrU(D_cos)`, `Diag_AB^⊥`, `BH_Ξ(Γ_BH)` y `M_N2-SV` ordenan retornos de edad, distancia, señal, campo, curvatura efectiva, comunicación estructural y clausura local bajo dominio declarado. La sección conserva `U` cuando falta firma, modelo, unidad, frontera o retorno; rechaza la edad de la totalidad absoluta, la identificación de `Λ` con fuerza local o sustancia, la lectura de `G` como causa total de cosmología, la equivalencia directa entre distancias cosmológicas y la reducción de agujero negro a `U`.
-
-La incorporación biológica, inmunológica y genética conserva admisibilidad porque no biologiza el raigal ni convierte una magnitud molecular, clínica o inmune en cierre de dominio. `D_big`, `BioIG_Ξ`, `𝓒★ObsU`, `𝓖★TrU(D_big)`, `Cel_Ξ`, `Mut_Ξ`, `Imm_Ξ`, `Dis_Ξ`, `Onc_Ξ` y `Clv_Ξ` ordenan célula, tejido, órgano, organismo, linaje, reconocimiento, tolerancia, memoria, enfermedad, cáncer, especie, fibra humana, clausura vital y traza bajo dominio declarado. La sección conserva `U` cuando falta frontera viva, muestra, función, linaje, método, retorno o traza; rechaza la genética como destino absoluto, el marcador inmune como función completa, la mutación aislada como enfermedad, la proliferación aislada como cáncer y la traza como continuidad viva.
-
-La incorporación matemática y algebraica conserva admisibilidad porque no introduce un dominio material nuevo ni convierte las herramientas discretas en fundamentos del raigal. `D_alg`, `MathAlg_Ξ`, `Σ={0,1,U}`, `SV(n,b)`, `H_D`, `Obs_D`, `Γ`, `R_D`, `L_D`, `Op_D`, `Rep_D`, `Seq_D` y `Graph_D` ordenan terna, célula, horizonte, observables compatibles, sucesos, trayectorias, residual, límite estructural, operaciones, representaciones, secuencias y grafo de composición. La sección conserva `U` cuando falta horizonte, suceso, operación, secuencia numérica, carta inyectiva o grafo declarado; rechaza tratar `U` como probabilidad, usar el polígono como fundamento, convertir la derivada de suceso en tiempo, aplicar transformadas a objetos no secuenciales o cerrar por promedio.
-
-La incorporación armónico-modal resulta admisible porque no sustituye el horizonte raigal por espectro ni por onda. `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la forma propagativa `δ_ξ²q_Ξ/(Δξ)²=v_Ξ²Δ_Γq_Ξ/(Δℓ)²` operan sobre magnitudes retornadas del horizonte, no sobre `Ξ_SV` sin mediación de dominio. La abscisa `ξ` permanece como ciclo medido en `UE_MFC`, no como tiempo soberano. La extensión `Δℓ` permanece como escala factual declarada en `UFE`, no como geometría externa fundacional. La velocidad efectiva `v_Ξ` solo entra cuando el dominio declara propagación, y no puede heredarse por analogía desde el electromagnetismo sin residual y retorno.
-
-La incorporación del potencial de un suceso en raigales resulta admisible porque mantiene la prevalencia correcta. El potencial no se sitúa antes del raigal ni se identifica con él; aparece cuando un suceso admisible recibe lectura polar bajo horizonte raigal. `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal operan sobre sucesos, trayectorias y magnitudes retornadas, no sobre `Ξ_SV` sin mediación de dominio. La especialización `USP_SV^{Ξ,D}` funciona como unidad interna de separación polar; `URΞ^{D,M}` funciona como unidad operativa de horizonte transducido, no como nuevo primitivo físico.
-
-La consonancia con el contenido físico factual del suceso resulta admisible porque no fusiona planos. `Ξ_SV^{raiz}` conserva el rango de raíz formal de arraigo abierta por la imperfección; `Ξ_SV^{fis}` aparece únicamente cuando el dominio físico declara mediación suficiente. La igualdad `π_0(Ξ_SV^{fis})=E_0=m_0c²` permanece como proyección basal, no como identidad total del raigal. Los operadores `𝔎_SV`, `𝔥_SV`, `𝔐_SV` y `𝔗_SV` se leen como especializaciones físicas de concentración, canal, clausura y clasificación de destino. La clase `χ_α` no sustituye a `U`: solo puede admitirse con firma positiva, separación respecto de masa y conservación de residual, frontera, canal, retorno y traza.
-
-La incorporación del suceso admisible resulta admisible porque no sustituye el horizonte raigal ni duplica la reevaluación discreta. `H_e=(I_H,≼_H,X_H,𝒜_H)` declara el régimen eventivo de lectura; `e_n^Ξ=(H_n,H_{n+1},σ_n,R_{e_n})` habilita una transición concreta; `C_{e_n}` conserva el exterior; y `Δ_{e_n}F(x)` aporta variación observable cuando existe familia compatible. Ninguno de esos objetos introduce tiempo rector ni convierte una sucesión en cambio efectivo por sí sola. Solo permiten que `ν_n^Ξ` sea materialmente legible antes de actualizar el marco raigal.
-
-La incorporación relacional entre sucesos admisibles resulta admisible porque no convierte el orden en tiempo ni la sucesión en cadena válida por sí sola. `e_n^Ξ ⋈ e_m^Ξ` exige transporte de observables; `e_n^Ξ ↝_w e_m^Ξ` y `e_n^Ξ ↝_s e_m^Ξ` distinguen variación de lectura y modificación de admisibilidad; `e_n^Ξ ≺ e_m^Ξ` expresa habilitación estructural sin reloj; y `e_n^Ξ ∥ e_m^Ξ` conserva coevaluabilidad positiva. La aciclicidad de la precedencia solo se declara bajo monotonía de habilitación: si un tramo puede reintroducir `U` en condiciones que habilitaban un suceso previo, no se cierra la cadena, sino que se conserva `U` o se abre tramo pendiente.
-
-La incorporación de persistencia energética y génesis del hidrógeno resulta admisible porque no convierte el raigal en átomo, masa, energía, calor, fuerza ni sustancia física. `𝓟_min=𝓕_∂−𝒬−ℛ_Γ`, `∂Ω`, `Id`, `𝒬`, `ℛ_Γ`, `Ω_pre`, `Ω_H` y `𝕋_chem^SV` se leen como especialización física de dominio. El hidrógeno queda situado como primer caso conocido de persistencia atómica discreta estable, no como fundamento universal. La tabla estructural solo opera cuando hay persistencia, frontera, residual, identidad química, descendencia generadora, exclusión de artificio y compatibilidad final.
-
-La incorporación de pares estructurales resulta admisible porque no universaliza el dominio químico-material. `Ω_443`, `Π(A,B)`, `φ(k)`, `ΔEN_SV`, `ρ_SV`, `M_joint`, `IP_suma`, `D_pair(A,B)` y `{M,C,I,∅}` forman un banco especializado de realización estructural de pares. Sus restricciones no gobiernan organismos, estrellas, sucesos ni clases emergentes sin nueva declaración de dominio. La cardinalidad `97.903` fija alcance y trazabilidad de banco, no verdad por acumulación. La salida extendida conserva `U` cuando falta contraste externo suficiente.
-
-La incorporación de horizonte de sucesos y reevaluación discreta resulta admisible porque separa `H_Ξ(o,D)` de `ℋ_Ξ(𝒜_D,o)`. El primero designa horizonte raigal de retorno; el segundo declara los tipos de sucesos que obligan a reevaluar la arquitectura. `ν_n^Ξ`, `𝒯_{ν_n}^Ξ`, `S_n^Ξ`, `T_Ξ` y `δ_Γ^Ξ` no transducen por sí solos magnitudes externas: ordenan marcos de reevaluación, datos de transición, operadores inducidos y cambios de criticidad una vez que los sucesos son legibles en la terna. La trayectoria permanece por adición irreversible y no admite corrección retrospectiva de marcos de reevaluación anteriores.
-
-La incorporación metrológica conserva admisibilidad porque no fuerza una nueva unidad raigal. `Ξ_SV` no recibe kilogramo, julio, kelvin, mol, segundo o metro como identidad propia. La metrología gobierna retornos: `UE_MFC` para ciclo medido o duración transducida, `UFE` para extensión y frontera, `UFM` para masa, `UFC` para corriente o carga cuando el dominio lo exija, `UFT` para temperatura, `UFCE` para cantidad de entidad, y formas derivadas para energía, potencia, presión, entropía o masa molar. La candela permanece diferida o referida al SI en dominios de fotometría, sin entrar como primitivo raigal.
-
-La Matriz de proyecciones raigales al Sistema Internacional conserva admisibilidad porque no convierte el raigal en unidad física externa. `MRΞ`, `UR_Ξ^X(D)`, `V_Ξ^X(D)`, `τ_{SI→Ξ}^X`, `τ_{Ξ→SI}^X` y `R_Ξ^X(D)` ordenan recepción, conservación interna, retorno externo y residual de cada magnitud. El patrón `P_H₂O` permite cerrar cantidad, masa, densidad, volumen, presión y temperatura como banco condicionado, pero conserva `U` en energía, calor, trabajo, potencia, campos, carga, corriente, velocidad, distancia o entropía cuando falta proceso, geometría, canal o frontera. Su beneficio no es sustituir el Sistema Internacional, sino impedir que el tránsito entre física, química, biología, medicina, materiales, señal o termodinámica rompa la continuidad nativa de lectura.
-
-La capa etimológica e impersonalizada conserva admisibilidad porque no resta reconocimiento histórico a las unidades epónimas ni pretende sustituir el uso público del SI. La decisión raíz → raigal nombra una función interna: patrón raíz común, retorno metrológico, residual y tránsito entre dominios. Las matrices derivadas conservan esa decisión cuando separan potencia activa, reactiva y aparente; concentración molar, másica y celular; dosis, actividad, señal, afinidad, título inmunológico o carga viral. Si dos magnitudes tienen la misma dimensión pero diferente función de dominio, la matriz conserva dimensión nativa común y distingue transductor, canal, método y residual.
-
-La incorporación operatoria conserva admisibilidad porque no introduce una matemática alternativa del raigal. La derivada `𝔇_Γ^Ξ`, la acumulación `𝔄_Γ^Ξ`, el recorrido `𝓡_Γ^Ξ`, la circulación `𝔠_{Γ⟳}^Ξ`, la TPA raigal, la sensibilidad `𝒮_p^Ξ`, el jacobiano `J_Ξ`, las transformadas `𝒯_Φ^Ξ`, el flujo `Φ_Ξ`, la divergencia `Div_Ξ`, el rotor `Rot_Ξ`, las integrales factuales, el balance Gauss-SV, la frontera activa y la reconfiguración `𝓡f_Ξ` permanecen como especializaciones sobre observables retornados del horizonte. Ninguno de esos operadores mide el raigal sin mediación de dominio ni autoriza tiempo soberano, probabilidad, geometría auxiliar soberana, promedio no justificado, reactivación de una instancia clausurada o cierre favorable por apariencia formal.
-
-Permanece pendiente la verificación material por banco de contraste con árbol longevo, ballena, tortuga gigante de Galápagos, persona humana, célula, especie extinguida, estrella y universo observable. También debe fijarse para cada banco la unidad externa elegida, su primitivo SV correspondiente, el valor recorrido, el horizonte total, la fracción recorrida `f_Ξ`, la apertura restante `α_Ξ`, los residuales internos y externos, el retorno externo y la traza. Además, debe determinarse qué operadores entran en cada banco: derivada y acumulación para trayectorias simples; sensibilidad y jacobiano para vulnerabilidad; TPA para perfiles de apertura; flujo, divergencia y Gauss-SV cuando haya frontera y campo; transformadas cuando haya reexpresión legítima; lectura modal cuando haya soporte cíclico; residual de borde cuando haya reconstrucción truncada o frontera problemática; ecuación propagativa cuando exista propagación factual declarada; y reconfiguración solo ante frontera activa materialmente declarada.
-
-Permanece abierta una prueba específica de la capa armónico-modal en bancos no electromagnéticos. En el documento de Fourier factual, el caso director ED-EM-01 opera sobre electromagnetismo factual, célula `SV(3,9)`, modos cíclicos, balance modal, residual de borde y ecuación factual de onda. Para el raigal, esa arquitectura solo puede trasladarse como forma de lectura si el banco declara soporte cíclico, magnitud retornada, unidad, frontera y residual. Una especie, una civilización o un árbol no reciben automáticamente ecuación de onda; solo la recibirían si su dominio admitiera propagación factual en sentido declarado. En caso contrario, la lectura armónica puede quedar limitada a modos, residual y balance, o permanecer en `U`.
-
-El resultado formal es el siguiente: `Ξ_SV^{raiz}` es raíz formal de arraigo abierta por la imperfección; `Ξ_SV^{fis}` es contenido físico factual del suceso bajo dominio físico declarado; `H_Ξ(o,D)` es horizonte raigal formal del observable; `α_Ξ(o,D,M)` es apertura raigal vigente restante; `𝔛_Ξ^X` es la familia de transductores que devuelve ese horizonte a magnitudes de dominio; la articulación metrológica impone `unidad_SV ↔ unidad_externa` para cada retorno; `MRΞ(P_H₂O,D,X)`, `MRΞ_sub(P_H₂O,D,X_i)` y `UR_Ξ^X(D)` forman la matriz principal y las matrices derivadas de proyección, retorno y residual en unidades nativas y unidades SI; `Termo_Ξ`, `EM_Ξ`, `Cosmo_Ξ`, `FQ_Ξ`, `BioIG_Ξ` y `MathAlg_Ξ` forman las primeras especializaciones de dominio, respectivamente térmica, eléctrica-magnética, cosmológica, físico-química, biológico-genético-inmunológica y matemática-algebraica; `Ω_th`, `𝒲_th`, `𝒬_th`, `𝒰_th`, `Θ_th`, `Λ_th` y `Termo_Ξ` forman la primera especialización de dominio termodinámico; `D_cos`, `Ω_obs`, `A_Ωobs^SV`, `D_C`, `D_L`, `D_A`, `z`, `R_E`, `G`, `Λ`, `Cosmo_Ξ`, `BH_Ξ(Γ_BH)` y `M_N2-SV` forman la especialización de dominio cosmológico; `D_fq`, `FQ_Ξ`, `PreQ_Ξ`, `Q_Ξ`, `Ω_pre`, `Ξ_fq`, `Φ_L`, `𝔉_SV`, `𝕴_F`, `𝕋_chem`, `Ω_443`, `C_SV(δ)=−cosδ` y `χ_c` forman la especialización físico-química; `D_big`, `BioIG_Ξ`, `Obs_bio`, `Gen`, `Imm`, `Mut`, `Dis`, `Onc`, `Evo`, `Fib`, `Cel_Ξ`, `Mut_Ξ`, `Imm_Ξ`, `Dis_Ξ`, `Onc_Ξ` y `Clv_Ξ` forman la especialización biológico-genético-inmunológica; `D_alg`, `MathAlg_Ξ`, `Σ={0,1,U}`, `SV(n,b)`, `H_D`, `Obs_D`, `Γ`, `R_D`, `L_D`, `Op_D`, `Rep_D`, `Seq_D`, `Graph_D`, `G_C(x,y,z)`, `𝒵{f}`, `A_𝒜`, `P_𝒜`, `d_eff(𝒜)` y `ρ(C,𝒜)` forman la especialización matemática-algebraica; `Γ_Ξ`, `𝔇_Γ^Ξ`, `𝔄_Γ^Ξ`, `J_Ξ`, `Φ_Ξ`, `Div_Ξ`, `Rot_Ξ`, `𝒯_Φ^Ξ` y `𝓡f_Ξ` forman la capa operatoria de lectura; `𝒯_mf^Ξ`, `M_m^Ξ`, `ℛ_mod,Ξ^{[K]}`, `𝔅_Ξ^{[K]}` y la ecuación propagativa forman la capa armónico-modal y de propagación cuando el dominio lo permite; `P_{Ξ,D}(e)`, `I_{Ξ,D}(e)`, `ΔP_{Ξ,D}`, `L_{PΞ}`, `Def_{PΞ}` y las áreas TPA del potencial raigal forman la capa polar-eventiva; `π_0(Ξ_SV^{fis})`, `𝔎_SV`, `𝔥_SV`, `𝔐_SV`, `𝔗_SV`, `Σ_conc`, `Σ_canal` y `χ_α` forman la capa física de concentración, canal y destino bajo firma positiva; `ℋ_Ξ(𝒜_D,o)`, `ν_n^Ξ`, `𝒯_{ν_n}^Ξ`, `S_n^Ξ`, `T_Ξ` y `δ_Γ^Ξ` forman la capa de horizonte de sucesos y reevaluación discreta; `⋈`, `↝_w`, `↝_s`, `≺`, `∥` y `Mon_Ξ` forman la capa relacional entre sucesos admisibles; `𝓟_min`, `Ω_pre`, `Ω_H`, `𝕋_chem^SV` y `H` forman la capa de persistencia energética, tránsito atómico y primer caso conocido; `Ω_443`, `Π(A,B)`, `φ(k)`, `D_pair(A,B)` y `{M,C,I,∅}` forman la capa químico-material de pares estructurales; y `Cl_eff(o,D)` declara clausura efectiva solo cuando se extingue el retorno propio o cuando residuales internos o externos consumen la apertura restante.
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J. W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., ... Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data, 3*, 160018. https://doi.org/10.1038/sdata.2016.18
