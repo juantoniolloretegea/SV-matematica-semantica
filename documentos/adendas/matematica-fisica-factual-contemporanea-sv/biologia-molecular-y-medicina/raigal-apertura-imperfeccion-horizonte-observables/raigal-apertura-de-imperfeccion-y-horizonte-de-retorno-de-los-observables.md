@@ -1,33 +1,17 @@
-### IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411) • Biología molecular y medicina: del par estructural a la célula viva
-
 # Raigal, apertura de imperfección y horizonte de retorno de los observables - (Del arraigo preproyectivo a la vida formal transducible de cuerpos, especies, estrellas y dominios-universo)
-
-### Juan Antonio Lloret Egea
-
-#### IA eñ ™ - (La Biblia de la IA - The Bible of AI ™ ISSN 2695-6411)
-
-**Published on:** Jun 01, 2026
-
-**URL:** <https://www.itvia.online/pub/raigal-apertura-de-imperfeccion-y-horizonte-de-retorno-de-los-observables---del-arraigo-preproyectivo-a-la-vida-formal-transducible-de-cuerpos-especies-estrellas-y-dominios-universo>
-
-**License:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-------------------------------------------------------------------------
 
 ![Portada](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/pbfd86036-42d6-49dc-b932-ad238355e905/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada_v.1-61780352566083.png)
 
 ------------------------------------------------------------------------
 
-© 2026. Todos los derechos reservados. \| [Juan Antonio Lloret Egea](https://orcid.org/0000-0002-6634-3351) \| DOI \[pendiente\] \| [ORCID: 0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) \| Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) \| IA eñ™ — La Biblia de la IA™ \| ISSN 2695-6411 \| Licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) \| Madrid, 01/06/2026 \|
+© 2026. Todos los derechos reservados.| [Juan Antonio Lloret Egea](https://orcid.org/0000-0002-6634-3351) | DOI [10.21428/39829d0b.bfd86036](****)| [ORCID: 0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351)| Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) | Madrid, 01/06/2026 \|
 
-------------------------------------------------------------------------
-
+---
 ## Resumen
 
 Este estudio define el **raigal** como raíz formal de apertura y referencia metrológica de retorno entre dominios. **La tesis sostiene que no es masa, ni energía, ni calor, campo, molécula, célula, señal, tiempo ni sustancia, sino función de arraigo: recibe una magnitud bajo dominio declarado, la conserva en unidad nativa, la devuelve a unidad externa, mantiene visible el residual y preserva la traza**. La exposición parte de `UR_Ξ^X(D)` y `MRΞ`; después ordena sus proyecciones en Termodinámica, Electricidad y campo magnético, Cosmología, Física y química, Biología-inmunología-genética, y Matemáticas y álgebra del SV. La convergencia queda formulada mediante `RN_SV`, referencia nativa que gobierna la bidireccionalidad SI (Sistema Internacional)↔SV (Sistema Vectorial) sin duplicar dominios ni confundir unidad externa con raíz formal. El resultado ofrece una arquitectura de uso científico y documental que conserva `U` como no cierre honesto y separa magnitud, dominio, transductor, residual, retorno y traza (Lloret Egea, 2026b, 2026c, 2026d, 2026e).
 
-------------------------------------------------------------------------
-
+---
 ## Abstract
 
 *This work formulates the raigal as a formal root of opening and as a native metrological reference for domain-based return. Its central thesis is that the raigal is not mass, energy, heat, field, molecule, cell, signal, time, or substance; it is the rooting function that allows a magnitude to be received under a declared domain, preserved in a native unit, returned to a public unit, kept with visible residual, and audited through trace. The argument moves from the metrological definition of* *`UR_Ξ^X(D)`* *and* *`MRΞ`* *to the specialization of raigal projections in thermodynamics, electricity and magnetic field, cosmology, physics and chemistry, biology-immunology-genetics, and SV mathematics and algebra. Convergence is expressed by* *`RN_SV`, a native reference that governs SI↔SV bidirectionality without duplicating domains or identifying external units with the formal root. The result is a scientific and documentary architecture that preserves* *`U`* *as honest non-closure and separates magnitude, domain, transducer, residual, return, and trace.*
