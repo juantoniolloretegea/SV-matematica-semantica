@@ -3,7 +3,7 @@
 ## Instancia, dominio, circularidad de retorno, reactivación espiral y medición transducida bajo balance termodinámico e irreversibilidad entrópica
 
 <p align="center">
-  <img src="imagenes/portada.png" alt="Portada conceptual de Vida y clausura de los observables realizados: instancia observable en dominio declarado, con frontera, identidad, soporte, traza, residual, retorno, medición transducida y frontera sutural del dominio-universo." width="100%">
+  <img src="imagenes/portada.png" alt="Imagen conceptual de Vida y clausura de los observables realizados: instancia observable en dominio declarado, con frontera, identidad, soporte, traza, residual, retorno, medición transducida y frontera sutural del dominio-universo." width="100%">
 </p>
 
 <p align="center"><em>Portada conceptual de “Vida y clausura de los observables realizados”. La imagen representa la instancia observable situada en dominio declarado, con frontera, identidad, soporte, traza, residual y retorno; circularidad de retorno, reactivación espiral y medición transducida convergen hacia la frontera sutural del dominio-universo, sin identificarla con TODO/NADA, Totalidad absoluta, materia oscura sustancial ni límite del espacio.</em></p>
