@@ -2,8 +2,6 @@
 
 ## Instancia, dominio, circularidad de retorno, reactivación espiral y medición transducida bajo balance termodinámico e irreversibilidad entrópica
 
-![Portada](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p9c15d6fe-423f-49a5-bc88-4ffc29ec9ba6/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-71780489859341.png)
-
 <p align="center">
   <img src="imagenes/portada.png" alt="Portada conceptual de Vida y clausura de los observables realizados: instancia observable en dominio declarado, con frontera, identidad, soporte, traza, residual, retorno, medición transducida y frontera sutural del dominio-universo." width="100%">
 </p>
