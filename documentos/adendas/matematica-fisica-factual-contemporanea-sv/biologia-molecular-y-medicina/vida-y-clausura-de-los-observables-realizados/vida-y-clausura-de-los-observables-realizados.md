@@ -36,6 +36,7 @@ XIV. Teorema de frontera sutural del universo físico realizado bajo restricció
 XV. Criterio de refutación, límites de alcance y conservación de `U`
 XVI. Conclusión general
 XVII. Bibliografía
+Anexo A. Ruptura polar, momento y circulación de retorno: de ε−0 y la frontera común (μ,λ)=(0,0) a energía, masa, gravedad y frontera sutural del dominio-universo
 
 ## 0. Planteamiento general
 
@@ -778,6 +779,176 @@ Lloret Egea, J. A. (2026h). *Vida y clausura de los universos y sus observables:
 NASA Astrobiology. (s. f.). *Working definition of life*. NASA.
 
 Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics, 641*, A6. https://doi.org/10.1051/0004-6361/201833910
+
+---
+# Anexo A. Ruptura polar, momento y circulación de retorno: de ε−0 y la frontera común (μ,λ)=(0,0) a energía, masa, gravedad y frontera sutural del dominio-universo
+
+## Índice
+
+A.0. Alcance y posición del problema  
+A.1. ε−0, primera distinguibilidad y frontera común (μ,λ)=(0,0)  
+A.2. Ruptura polar y constitución formal del momento  
+A.3. Circulación de retorno, rotor, campo, curvatura y acción  
+A.4. Energía, masa, gravedad, G y Λ bajo separación de dominio  
+A.5. Dominio-universo y frontera sutural  
+A.6. Hidrógeno, Helio y homología de clausura  
+A.7. Matriz de resolución 0/1/U  
+A.8. Teorema de ruptura polar, momento y circulación de retorno  
+A.9. Prueba inversa y criterios de anulación  
+A.10. Conclusión
+
+## A.0. Alcance y posición del problema
+
+La circularidad de retorno, la reactivación espiral, la medición transducida y la frontera sutural del dominio-universo dejan abierta una precisión necesaria: qué debe entenderse por ruptura polar, momento y circulación cuando una frontera común de equipotencialidad deja de operar como neutralidad formal. Este anexo desarrolla esa precisión sin modificar la tesis del trabajo, que ya exige dominio, frontera o límite equivalente, identidad, soporte, traza, residual y retorno para toda instancia realizada. Su objeto no es declarar que el universo observable gire como un cuerpo, ni convertir la frontera sutural en borde espacial, ni sustituir el retorno gravitatorio por una sustancia oculta. Su objeto es formular bajo qué condiciones una diferencia polar no cancelada puede adquirir orientación persistente y retornar como momento, circulación, energía de dominio, masa, respuesta gravitatoria y, en el plano cosmológico admisible, lectura sutural construida.
+
+La distinción inicial es estricta. ε−0 no se identifica con (μ,λ)=(0,0). ε−0 nombra el borde preformal anterior a la primera distinguibilidad; (μ,λ)=(0,0) pertenece a un régimen formal posterior, situado ya en un dominio donde puede hablarse de frontera común y equipotencialidad. Tampoco se identifican momento y rotación física, rotor y espín, curvatura y dinámica, G y fundamento de la gravedad, Λ y fuerza local, ni frontera sutural y horizonte visible. Cada término conserva dominio, proyección, invariantes, residual y retorno conforme a la exigencia de proyección legítima fijada por el aparato de conexión, curvatura y acción (Lloret Egea, 2026j).
+
+La salida de este anexo queda sometida a la terna {0,1,U}. La salida 0 exige construcción suficiente; la salida 1 se aplica cuando hay salto de plano, sustitución de dominio o identificación indebida; U sólo permanece cuando la pregunta está bien formada y, tras la construcción disponible, falta mediación suficiente sin contradicción. U no opera como permiso para suspender el trabajo formal ni como protección de una tesis no demostrada.
+
+## A.1. ε−0, primera distinguibilidad y frontera común (μ,λ)=(0,0)
+
+ε−0 designa la condición preformal mínima que permite el paso de la indistinción absoluta a la primera distinguibilidad. No es Big Bang, vacío cuántico, campo, métrica, energía, partícula, instante físico ni fórmula matemática constituida. La secuencia rectora se mantiene en esta forma:
+
+ε−0 ≺ ∂ε ≺ D_sep ≺ Ω_esp ≺ física constituida
+
+Esta precedencia no expresa cronología. Expresa dependencia operatoria: no hay trayectoria, distancia, campo, frontera, retorno, energía, masa ni gravedad si antes no comparece la posibilidad de distinguir términos en un dominio de separación (Lloret Egea, 2026c). La física constituida comienza después de esa condición; no la funda.
+
+La frontera común (μ,λ)=(0,0) opera en otro plano. No sustituye a ε−0, sino que comparece dentro de un aparato formal ya posterior a la primera distinguibilidad. En ella los términos polares permanecen en equipotencialidad: no hay orientación dominante, diferencia polar resuelta ni residual diferencial atribuible. Dicho de forma más precisa: ε−0 habilita la primera distinguibilidad; la distinguibilidad permite dominio; el dominio permite frontera común; y sólo dentro de esa frontera común tiene sentido (μ,λ)=(0,0) como condición formal de equipotencialidad.
+
+La base de control queda así:
+
+Prec_SV : ε−0 ≺ ∂ε ≺ D_sep ≺ Ω_esp ≺ Dom(Ω)
+
+EqCom_Ω(μ,λ)=1 ⇔ Dom(Ω) ∧ FronCom_Ω(μ,λ) ∧ (μ,λ)=(0,0) ∧ ResPol_Ω=0
+
+ErrPlano=1 ⇔ ε−0=(μ,λ)=(0,0) ∨ (μ,λ)=(0,0) tratado como reposo físico absoluto ∨ EqCom_Ω sustituye a Dom(Ω)
+
+La equipotencialidad de (μ,λ)=(0,0) no equivale a reposo mecánico ni a ausencia universal de tensión. Designa una frontera común sin diferencia polar resuelta dentro de un dominio declarado. Cuando la imperfección comparece ya en un dominio distinguible, esa frontera puede dejar de devolver neutralidad y producir una diferencia orientada. El paso no describe una historia del universo; ordena la dependencia entre distinguibilidad, dominio, ruptura polar, orientación, residual y retorno.
+
+## A.2. Ruptura polar y constitución formal del momento
+
+La ruptura polar aparece cuando la frontera común deja de cancelar sus términos y produce una diferencia eficaz dentro de un dominio. No basta la presencia de dos signos, dos valores, dos polos o dos posiciones. Deben concurrir dominio, diferencia reconocible, frontera declarada, residual conservado y retorno atribuible. Una diferencia que no modifica el dominio sólo clasifica; una diferencia que modifica el dominio pero no conserva orientación produce perturbación; una orientación sin retorno no alcanza resolución compatible. En esta lectura, el momento no se introduce como simple magnitud cinemática ya dada, sino como persistencia orientada de una diferencia polar eficaz.
+
+La condición de ruptura queda:
+
+RuptPol_Ω(μ,λ)=1 ⇔ Dom(Ω) ∧ FronCom_Ω(μ,λ) ∧ (μ,λ)≠(0,0) ∧ DifPol_Ω visible ∧ Fron_Ω declarada ∧ Res_Ω conservado ∧ Ret_Ω atribuible
+
+La ruptura polar no introduce por sí sola rotación física. Introduce orientación. La orientación sólo se convierte en momento cuando permanece bajo trayectoria, frontera, traza, residual y retorno. Por tanto, el momento no queda reducido a velocidad, vuelta geométrica, giro espacial o conservación algebraica sin dominio. La cuestión decisiva es anterior: una diferencia polar no cancelada puede adquirir persistencia orientada y obligar al dominio a devolverla como magnitud, circulación, campo, masa o respuesta según el régimen de proyección.
+
+La condición de momento de retorno se formula así:
+
+MomRet_Ω(o)=1 ⇔ RuptPol_Ω(μ,λ) ∧ Orient_Ω(o) ∧ Persist_Ω(o) ∧ Tr_Ω(o) ∧ Res_Ω(o) ∧ Ret_Ω(o)
+
+Dict(MomRet_Ω(o))=0 ⇔ MomRet_Ω(o)=1 ∧ ErrPlano=0 ∧ Susp_Ω=0
+
+Esta formulación conserva la mecánica clásica dentro de su dominio sin convertirla en fundamento. La persistencia inercial describe la conservación de un estado dinámico cuando no aparece una modificación externa neta; no explica por sí sola por qué comparece la diferencia polar que permite orientación, momento, circulación o retorno. El anexo sitúa esa pregunta en un plano más bajo: no niega las leyes dinámicas ya constituidas, sino que formula la condición formal que permite que una diferencia llegue a ser dinámica.
+
+## A.3. Circulación de retorno, rotor, campo, curvatura y acción
+
+La circulación de retorno no designa rotación rígida ni desplazamiento circular ordinario. Designa persistencia orientada de una diferencia que vuelve al dominio conservando traza y residual. La circularidad de retorno y la reactivación espiral excluyen la repetición idéntica: ninguna vuelta borra la inscripción anterior ni revierte la irreversibilidad entrópica. En este anexo, esa circularidad se lee como consecuencia formal de ruptura polar cuando la orientación persistente no se agota en una comparecencia aislada y regresa como retorno.
+
+La condición de circulación queda:
+
+CircRet_Ω(o)=1 ⇔ MomRet_Ω(o) ∧ Tray_Ω(o) ∧ Ret_Ω(o) ∧ Tr_Ω(o) ∧ Res_Ω(o) ∧ NoRepId_Ω(o)
+
+Cuando el dominio es de campo, la circulación puede proyectarse como rotor o curvatura, pero sólo bajo mediación declarada. El rotor pertenece al régimen en que una magnitud de campo admite circulación orientada; la curvatura pertenece al dominio de conexión; la dinámica requiere acción y variación. La fórmula 𝓕_𝓐 = d𝓐 + 𝓐∧𝓐, con 𝓐 = ω⊕A, ordena una proyección por conexión y curvatura, pero no autoriza una dinámica física sin acción sectorial, fuente, variación y retorno. La restricción es nítida: campo no equivale automáticamente a giro; curvatura no equivale automáticamente a movimiento; rotor no equivale automáticamente a espín; circulación formal no equivale automáticamente a rotación física (Lloret Egea, 2026j).
+
+La condición reforzada de dinámica asociada al giro se expresa así:
+
+DinGiro_Ω(o)=1 ⇔ CircRet_Ω(o) ∧ Campo_Ω declarado ∧ 𝓕_Ω definida ∧ S_Ω declarada ∧ δS_Ω=0 ∧ Fuente_Ω tipada ∧ Res_Ω retornable
+
+Si falta acción, sólo hay campo o curvatura formal. Si falta fuente, no hay respuesta física atribuible. Sin residual no hay dictamen; sin retorno no hay resolución compatible. Con esta restricción, la circularidad de retorno no se convierte en cosmología rotacional y ninguna analogía geométrica sustituye la construcción física.
+
+## A.4. Energía, masa, gravedad, G y Λ bajo separación de dominio
+
+La ruptura polar con orientación persistente entra en régimen físico cuando produce eficacia estructural no nula dentro de un dominio. Esa eficacia es energía de dominio; la medición no la funda, aunque la devuelva a unidad, contraste y cálculo. La energía tampoco deviene masa por simple presencia. Para entrar en régimen de masa debe quedar retenida por frontera compatible, conservar identidad, dejar traza, mantener residual gobernable y admitir retorno. La masa no es sustancia primaria ni mera energía dividida por c²: es persistencia material de energía de dominio bajo frontera compatible, residual, retorno y traza (Lloret Egea, 2026i).
+
+La cadena física queda:
+
+DifPol_Ω → Efic_Ω → Energía_Ω → RetFron_Ω → Masa_Ω → RespSep_Ω → Gravedad_Ω
+
+La gravedad aparece cuando una persistencia material no puede mantenerse como identidad aislada sin respuesta del dominio de separación. No es simple nombre de la atracción, no es sólo fuerza, no es sólo curvatura y no queda agotada por G. G actúa como coeficiente metrológico de retorno local fuente-respuesta en el régimen declarado; permite cuantificar la relación local entre persistencias materiales positivas, separación y respuesta gravitatoria, pero no funda la diferencia polar, no produce por sí misma la masa y no agota la formación del campo gravitatorio. La gravedad queda definida como respuesta organizada del dominio de separación ante persistencia material retornable (Lloret Egea, 2026i).
+
+La separación entre G y Λ evita una extrapolación indebida. G pertenece al retorno local de la respuesta gravitatoria en régimen fuente-separación-respuesta. Λ pertenece al régimen cosmológico como curvatura efectiva ciclo-distancial del dominio observable retornado, no como fuerza local ni como energía material escondida. Órbitas, rotaciones, traslaciones y sistemas ligados no se explican por una única palabra. Gravitación local, persistencia material, retorno de campo, distribución cosmológica, expansión de escala, frontera sutural y constante cosmológica pertenecen a dominios distintos y sólo pueden relacionarse mediante transducción.
+
+## A.5. Dominio-universo y frontera sutural
+
+El dominio-universo no comparece como Totalidad ni como espacio entero. Comparece como dominio físico realizado de lectura máxima bajo horizonte, señal, métrica, contenido retornado, retorno gravitatorio, residual, transducción, balance termodinámico e irreversibilidad entrópica. La frontera sutural B_ΩU no es borde espacial, superficie externa, horizonte visible, límite de Ω_esp, materia oscura sustancial ni clausura de TODO/NADA. Sólo resulta admisible si se construye por retorno material, residual visible, transducción de frontera, balance e irreversibilidad.
+
+La lectura de circulación sobre B_ΩU obedece esa misma regla. No se pregunta si el universo observable gira como cuerpo. Esa formulación, cuando toma la Totalidad como objeto métrico o presupone un exterior absoluto, cae por salto de plano. La pregunta admisible es distinta: si una frontera sutural construida conserva una circulación de retorno derivada de ruptura polar, retorno gravitatorio no sustancial, residual de frontera, balance termodinámico e irreversibilidad entrópica. Esa lectura no afirma rotación física global; formula persistencia orientada del retorno de frontera bajo dominio.
+
+La condición de lectura circulatoria de frontera sutural queda:
+
+LectCirc(B_ΩU)=1 ⇔ Constr(B_ΩU)=1 ∧ RetGrav_ΩU=1 ∧ Res_ΩU^B visible ∧ TransFr_ΩU(B_ΩU)=1 ∧ Bal_ΩU^B=1 ∧ Irr_ΩU^B=1 ∧ Err(BordEsp)=0 ∧ Err(BordT)=0 ∧ Err(SustDM)=0
+
+Si LectCirc(B_ΩU)=1, el dictamen corresponde a circulación de retorno de frontera, no a rotación física de un objeto total. Si B_ΩU se identifica con horizonte de observabilidad, espacio, Totalidad, borde absoluto o sustancia oscura, la salida es 1. Si tras la construcción disponible faltan transducción, residual, balance o irreversibilidad, la salida queda en U.
+
+## A.6. Hidrógeno, Helio y homología de clausura
+
+El Hidrógeno y el Helio no deben usarse como imagen visual del dominio-universo ni como identidad química de una escala superior. Esa lectura activa error de plano. Tampoco procede expulsar sin examen su función formal, porque el desarrollo principal ya admite la homología de clausura bajo dominio, frontera, identidad, soporte, traza, residual, retorno y transducción. El interés de ambos elementos no reside aquí en una órbita dibujada ni en una forma visible, sino en su valor como casos físicos de estabilidad, frontera, saturación, persistencia, transición y retorno bajo dominio material.
+
+La regla queda:
+
+HomCl_Hidrógeno_Helio→ΩU=0 ⇔ Dom_HHe declarado ∧ Dom_ΩU declarado ∧ Inv_Clausura conservados ∧ Trans_HHe→ΩU declarado ∧ Res_HHe→ΩU visible ∧ NoIdentQuim=1 ∧ NoFormaVis=1
+
+Err_HHe=1 ⇔ IdentQuim(Hidrógeno,Helio,Ω_U) ∨ FormaVis(Hidrógeno,Helio,Ω_U) ∨ EscalaSustituyeDominio ∨ FaltaTransductor ∧ se declara resolución
+
+La comparación entre átomo y dominio-universo queda permitida sólo como homología de clausura. No se afirma que el universo observable sea un átomo, ni que el Hidrógeno y el Helio reproduzcan su forma, ni que el espín físico resuelva la frontera sutural. La afirmación admisible es más estricta: cuando hay dominio, frontera, retención, residual, retorno y transducción, puede evaluarse si una estabilidad material de dominio inferior orienta una lectura formal de clausura en dominio superior. Si falta transductor suficiente, permanece U; si se convierte en identidad química o visual, corresponde 1.
+
+## A.7. Matriz de resolución 0/1/U
+
+La matriz decide qué afirmaciones son compatibles, cuáles incurren en sustitución de plano y cuáles permanecen indeterminadas tras construcción insuficiente.
+
+| Referente evaluado | Condición de dominio | Resolución |
+|---|---|---|
+| ε−0 como borde preformal anterior a primera distinguibilidad | No se identifica con energía, campo, Big Bang, vacío, métrica ni (μ,λ) | 0 |
+| ε−0=(μ,λ)=(0,0) | Confunde borde preformal con frontera común formal posterior | 1 |
+| (μ,λ)=(0,0) como equipotencialidad formal | Dominio formal declarado, frontera común, residual polar nulo | 0 |
+| Ruptura polar (μ,λ)≠(0,0) | Dominio, diferencia polar, frontera, residual y retorno | 0 |
+| Momento como persistencia orientada | Ruptura polar, orientación, traza, residual y retorno | 0 |
+| Giro como rotación física de la Totalidad | Toma la Totalidad como objeto métrico interno | 1 |
+| Circulación de retorno | Momento de retorno sin repetición idéntica ni cronología rectora | 0 |
+| Rotor como circulación de campo | Campo declarado, operador de dominio y residual | 0 |
+| Rotor identificado con espín, órbita o rotación rígida | Fusión léxica sin transductor | 1 |
+| Curvatura como campo | Conexión y curvatura declaradas | 0 |
+| Curvatura como dinámica sin acción | Falta acción, variación, fuente y retorno | 1 |
+| Energía como eficacia de diferencia en dominio | Diferencia operativa con eficacia estructural no nula | 0 |
+| Masa como energía sin frontera | Falta retención, identidad, residual, retorno y traza | 1 |
+| Gravedad como respuesta del dominio de separación | Persistencia material, dominio de separación y retorno | 0 |
+| G como causa última de la gravedad | Sustituye retorno metrológico por fundamento | 1 |
+| Λ como fuerza local o energía sustancial | Confunde régimen cosmológico con fuerza local o sustancia | 1 |
+| B_ΩU como frontera sutural construida | Dominio-universo, retorno, residual, transducción, balance e irreversibilidad | 0 |
+| B_ΩU como borde espacial u horizonte visible | Identifica frontera sutural con espacio u horizonte | 1 |
+| Hidrógeno y Helio como homología de clausura | Dominio, transductor, invariantes y residual visibles | 0 |
+| Hidrógeno y Helio como identidad química del dominio-universo | Sustituye homología por identidad de escala | 1 |
+| Espín físico no absorbido | Falta transductor suficiente tras intento formal | U |
+
+U sólo aparece cuando la pregunta está bien formada y la construcción no alcanza resolución sin contradicción. No evita trabajo formal ni protege afirmaciones no demostradas. Si hay salto de plano, la salida es 1; si la construcción cierra, la salida es 0; si falta mediación tras intento suficiente, permanece U.
+
+## A.8. Teorema de ruptura polar, momento y circulación de retorno
+
+**Teorema A.1.** Sea Ω un dominio declarado posterior a la primera distinguibilidad y sea (μ,λ)=(0,0) una frontera común de equipotencialidad formal en Ω. Si la imperfección situada en el dominio produce ruptura polar (μ,λ)≠(0,0) con diferencia visible, frontera declarada, residual conservado y retorno atribuible, aparece una orientación persistente. Si esa orientación conserva traza, residual y retorno, se obtiene momento de retorno. Si el momento de retorno recorre el dominio sin repetición idéntica y conserva irreversibilidad, se obtiene circulación de retorno. Toda proyección física de esa circulación como campo, rotor, curvatura, masa, gravedad, órbita, rotación o frontera sutural exige dominio propio, transductor, invariantes, residual y retorno. Cuando esos requisitos se sustituyen por analogía geométrica, coincidencia verbal o extrapolación de escala, la salida es 1; si falta mediación suficiente después de una construcción completa, la salida es U.
+
+**Demostración.** Por ε−0 ≺ ∂ε ≺ D_sep ≺ Ω_esp, ningún dominio físico constituido precede a la primera distinguibilidad. Por ello, toda frontera común (μ,λ)=(0,0) pertenece a un régimen posterior a ε−0 y no puede sustituirlo. Dado Dom(Ω), la equipotencialidad (μ,λ)=(0,0) expresa ausencia de diferencia polar resuelta en la frontera común. Si comparece (μ,λ)≠(0,0) bajo dominio, diferencia visible, frontera, residual y retorno, la indiferencia polar queda sustituida por orientación. Una orientación que no persiste no produce momento de retorno; una persistencia sin traza carece de dictamen; una persistencia sin residual visible no admite evaluación; una persistencia sin retorno no alcanza resolución compatible. De ahí que MomRet_Ω(o)=1 exija ruptura polar, orientación, persistencia, traza, residual y retorno. Si además la orientación retorna sin repetición idéntica y sin borrar irreversibilidad, CircRet_Ω(o)=1. Al proyectar esa circulación a un dominio físico, la proyección sólo es legítima si declara dominio, codominio, invariantes y residual; cuando pretende dinámica, debe añadir campo, acción, variación, fuente y retorno. La gravedad se admite únicamente como respuesta del dominio de separación ante persistencia material; G como coeficiente metrológico de retorno local; Λ como régimen cosmológico separado; y B_ΩU como frontera sutural construida. La tesis queda demostrada y las identificaciones indebidas quedan bloqueadas. Q.E.D.
+
+## A.9. Prueba inversa y criterios de anulación
+
+La prueba inversa parte de una afirmación de giro, momento, circulación, rotor, órbita, respuesta gravitatoria o frontera sutural y exige reconstruir la cadena completa: primera distinguibilidad, dominio, frontera común, ruptura polar, orientación, traza, residual y retorno. Si la cadena no puede reconstruirse, la afirmación no alcanza resolución compatible. Si sustituye un plano por otro, queda anulada.
+
+La prueba inversa se formula así:
+
+Inv_A=0 ⇔ Dado X, se recuperan Dom(X), FronCom(X), RuptPol(X), Orient(X), Tr(X), Res(X), Ret(X) y Dict(X)
+
+Anul_A=1 ⇔ X=rotación de Totalidad ∨ X=borde espacial de Ω_esp ∨ X=curvatura sin acción declarada ∨ X=gravedad como causa total ∨ X=G como fundamento ∨ X=Λ como fuerza local ∨ X=B_ΩU como sustancia oscura ∨ X=Hidrógeno/Helio como identidad química de Ω_U
+
+Susp_A=1 ⇔ Anul_A=0 ∧ falta transducción, residual, retorno o prueba inversa tras construcción suficiente
+
+La anulación no depende de la fuerza intuitiva de una imagen ni de la proximidad verbal entre términos. Se anula por sustitución de dominio. Así, B_ΩU=∂Ω_esp produce error; B_ΩU=Hvis_ΩU produce error; B_ΩU=Totalidad produce error; G=fundamento de la gravedad produce error; Λ=fuerza local produce error; Hidrógeno y Helio=forma visible del universo observable produce error. La suspensión sólo permanece cuando la pregunta es formalmente admisible, pero falta mediación suficiente sin contradicción.
+
+## A.10. Conclusión
+
+La ruptura polar permite situar el giro sin reducirlo a rotación física. Desde ε−0 se obtiene la condición preformal de primera distinguibilidad; desde (μ,λ)=(0,0), la frontera común de equipotencialidad formal; desde la ruptura (μ,λ)≠(0,0), la diferencia polar; desde la diferencia polar con eficacia, frontera, residual y retorno, la orientación persistente; desde la orientación persistente con traza y retorno, el momento de retorno; desde el momento que vuelve sin repetición idéntica, la circulación de retorno. La energía comparece como eficacia estructural no nula de diferencia en dominio; la masa como energía de dominio retenida por frontera compatible; la gravedad como respuesta organizada del dominio de separación ante persistencia material; G como retorno local metrológico; Λ como régimen cosmológico separado; y B_ΩU como frontera sutural del dominio-universo sólo bajo construcción material, residual, transducción, balance e irreversibilidad. El resultado conserva la tesis principal: no hace girar la Totalidad, no clausura el espacio, no convierte la frontera sutural en horizonte visible, no sustancializa el retorno gravitatorio, no degrada U y no sustituye dominio por analogía.
+
 
 ---
 
