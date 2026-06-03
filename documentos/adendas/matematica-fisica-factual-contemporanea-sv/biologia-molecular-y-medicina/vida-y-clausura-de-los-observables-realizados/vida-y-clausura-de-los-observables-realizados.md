@@ -16,27 +16,36 @@ Sobre esa cadena se articulan dos movimientos formales: la circularidad de retor
 This study develops an academic theory of formal life and closure of realized observables, ranging from bodies, organisms, species and stars to the observable universe understood strictly as a realized and articulable physical domain. Its central thesis is that no observable appears as a self-sufficient entity or as an absolute totality: every realized instance requires domain, boundary or equivalent limit, identity, support, trace, residual and return. Biological life is distinguished from the formal life of an instance. The former requires the specific conditions of living systems, whereas the latter names the appearance, deployment, persistence, traceable inscription and local closure of an observable under a declared domain. From this distinction, the closure of a person, a species, a star, a galaxy or a domain-universe does not by itself exhaust the fiber that makes it possible, the higher domain that contains it, or the circularity of return that prevents local closure from being confused with absolute closure.
 Two formal movements are articulated on that chain: circularity of return and spiral reactivation; transduced measurement of magnitudes is added only when the declared domain allows it. Circularity does not operate as external geometry or as an autonomous auxiliary figure; it may serve, within a strictly contextual scope, as a conceptual orientation resource, but its formal function is to express a regime of clausural return. Spiral reactivation does not express physical chronology or linear progress, but a non-identical new reading of closure under preserved trace. Transduced measurement of an observable magnitude is admissible only when domain, transducer, native unit, external unit, residual and trace have been declared. The observable universe is introduced as the physical limit of reading, with horizon, signal, metric, content, residual and return; not as EVERYTHING/NOTHING —the formal articulation between totality and non-totality in the foundational plane (Lloret Egea, 2026b)—, not as the age of absolute totality and not as a substitute for that plane. The sutural boundary of the realized physical universe is introduced as a sharper determination of the physical limit of the domain: admitted effective gravitational sutures, when they satisfy domain, support, boundary, inventory, observable, transduction, return, residual, compatible verdict, thermodynamic balance and entropic irreversibility, constitute effective physical limits of the realized physical universe. They are not limits of space, not a boundary of Totality, not an absolute edge, not renamed dark matter and not a closure of EVERYTHING/NOTHING. The formulation does not biologize the universe, does not turn geometry into foundation, does not transform Fourier into a cause, does not convert gravitational return into dark material substance, and does not degrade `U` into a resource for interpretive closure. The thesis establishes a physically transduced formal theorem of sutural boundary of the realized physical universe under thermodynamic and entropic restriction, with a material basis for contrast, an executed discriminant matrix of measured disagreement, a criterion of refutation and explicit preservation of what remains unresolved.
 
+---
 ## Índice
 
-0. Planteamiento general
-I. Estado del arte y delimitación del problema
-II. Observable realizado, instancia y fibra
-III. Dominio, frontera, identidad y soporte
-IV. Clausura local, traza, residual y conservación de `U`
-V. Circularidad de retorno y ciclo acotado de instancia
-VI. Reactivación espiral y lectura no idéntica de la clausura
-VII. Medición transducida, horizonte de retorno y referencia raigal
-VIII. Cuerpos, organismos, especies y linajes
-IX. Estrellas, galaxias y dominios físicos de gran escala
-X. Universo observable, dominio-universo y no identificación con totalidad absoluta
-XI. Frontera sutural del universo físico realizado: sutura gravitatoria, balance termodinámico, irreversibilidad entrópica y no identificación con el límite del espacio
-XII. Fórmula rectora de comparecencia, clausura, frontera sutural, retorno y medición transducida
-XIII. Prueba inversa contra conjuntos de contraste
-XIV. Teorema de frontera sutural del universo físico realizado bajo restricción termodinámica y entrópica
-XV. Criterio de refutación, límites de alcance y conservación de `U`
-XVI. Conclusión general
-XVII. Bibliografía
-Anexo A. Ruptura polar, momento y circulación de retorno: de ε−0 y la frontera común (μ,λ)=(0,0) a energía, masa, gravedad y frontera sutural del dominio-universo
+<details open>
+<summary><strong>Contenido</strong></summary>
+
+- [0. Planteamiento general](#0-planteamiento-general)
+- [I. Estado del arte y delimitación del problema](#i-estado-del-arte-y-delimitación-del-problema)
+- [II. Observable realizado, instancia y fibra](#ii-observable-realizado-instancia-y-fibra)
+- [III. Dominio, frontera, identidad y soporte](#iii-dominio-frontera-identidad-y-soporte)
+- [IV. Clausura local, traza, residual y conservación de U](#iv-clausura-local-traza-residual-y-conservación-de-u)
+- [V. Circularidad de retorno y ciclo acotado de instancia](#v-circularidad-de-retorno-y-ciclo-acotado-de-instancia)
+- [VI. Reactivación espiral y lectura no idéntica de la clausura](#vi-reactivación-espiral-y-lectura-no-idéntica-de-la-clausura)
+- [VII. Medición transducida, horizonte de retorno y referencia raigal](#vii-medición-transducida-horizonte-de-retorno-y-referencia-raigal)
+- [VIII. Cuerpos, organismos, especies y linajes](#viii-cuerpos-organismos-especies-y-linajes)
+- [IX. Estrellas, galaxias y dominios físicos de gran escala](#ix-estrellas-galaxias-y-dominios-físicos-de-gran-escala)
+- [X. Universo observable, dominio-universo y no identificación con totalidad absoluta](#x-universo-observable-dominio-universo-y-no-identificación-con-totalidad-absoluta)
+- [XI. Frontera sutural del universo físico realizado: sutura gravitatoria, balance termodinámico, irreversibilidad entrópica y no identificación con el límite del espacio](#xi-frontera-sutural-del-universo-físico-realizado-sutura-gravitatoria-balance-termodinámico-irreversibilidad-entrópica-y-no-identificación-con-el-límite-del-espacio)
+- [XII. Fórmula rectora de comparecencia, clausura, frontera sutural, retorno y medición transducida](#xii-fórmula-rectora-de-comparecencia-clausura-frontera-sutural-retorno-y-medición-transducida)
+- [XIII. Prueba inversa contra conjuntos de contraste](#xiii-prueba-inversa-contra-conjuntos-de-contraste)
+- [XIV. Teorema de frontera sutural del universo físico realizado bajo restricción termodinámica y entrópica](#xiv-teorema-de-frontera-sutural-del-universo-físico-realizado-bajo-restricción-termodinámica-y-entrópica)
+- [XV. Criterio de refutación, límites de alcance y conservación de U](#xv-criterio-de-refutación-límites-de-alcance-y-conservación-de-u)
+- [XVI. Conclusión general](#xvi-conclusión-general)
+- [XVII. Bibliografía](#xvii-bibliografía)
+- [Anexo A. Ruptura polar, momento y circulación de retorno: de ε−0 y la frontera común (μ,λ)=(0,0) a energía, masa, gravedad y frontera sutural del dominio-universo](#anexo-a-ruptura-polar-momento-y-circulación-de-retorno-de-ε0-y-la-frontera-común-μλ00-a-energía-masa-gravedad-y-frontera-sutural-del-dominio-universo)
+
+</details>
+
+---
+
 
 ## 0. Planteamiento general
 
