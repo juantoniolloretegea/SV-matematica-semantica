@@ -8,6 +8,8 @@
 
 <p align="center"><em>Portada conceptual de “Vida y clausura de los observables realizados”. La imagen representa la instancia observable situada en dominio declarado, con frontera, identidad, soporte, traza, residual y retorno; circularidad de retorno, reactivación espiral y medición transducida convergen hacia la frontera sutural del dominio-universo, sin identificarla con TODO/NADA, Totalidad absoluta, materia oscura sustancial ni límite del espacio.</em></p>
 
+---
+
 © 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | DOI [el asignado a la publicación] | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 03/06/2026 |
 
 ## Resumen
