@@ -978,6 +978,47 @@ La anulación no depende de la fuerza intuitiva de una imagen ni de la proximida
 
 La ruptura polar permite situar el giro sin reducirlo a rotación física. Desde ε−0 se obtiene la condición preformal de primera distinguibilidad; desde (μ,λ)=(0,0), la frontera común de equipotencialidad formal; desde la ruptura (μ,λ)≠(0,0), la diferencia polar; desde la diferencia polar con eficacia, frontera, residual y retorno, la orientación persistente; desde la orientación persistente con traza y retorno, el momento de retorno; desde el momento que vuelve sin repetición idéntica, la circulación de retorno. La energía comparece como eficacia estructural no nula de diferencia en dominio; la masa como energía de dominio retenida por frontera compatible; la gravedad como respuesta organizada del dominio de separación ante persistencia material; G como retorno local metrológico; Λ como régimen cosmológico separado; y B_ΩU como frontera sutural del dominio-universo sólo bajo construcción material, residual, transducción, balance e irreversibilidad. El resultado conserva la tesis principal: no hace girar la Totalidad, no clausura el espacio, no convierte la frontera sutural en horizonte visible, no sustancializa el retorno gravitatorio, no degrada U y no sustituye dominio por analogía.
 
+---
+## Bibliografía complementaria del Anexo A
+
+Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., Ballardini, M., Banday, A. J., Barreiro, R. B., Bartolo, N., Basak, S., Battye, R., Benabed, K., Bernard, J.-P., Bersanelli, M., Bielewicz, P., Bock, J. J., Bond, J. R., Borrill, J., Bouchet, F., ... Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6. https://doi.org/10.1051/0004-6361/201833910
+
+Armitage, P. J. (2011). Dynamics of protoplanetary disks. Annual Review of Astronomy and Astrophysics, 49, 195–236. https://doi.org/10.1146/annurev-astro-081710-102521
+
+Born, M. (1926). Zur Quantenmechanik der Stoßvorgänge. Zeitschrift für Physik, 37, 863–867. https://doi.org/10.1007/BF01397477
+
+Clowe, D., Bradač, M., Gonzalez, A. H., Markevitch, M., Randall, S. W., Jones, C., & Zaritsky, D. (2006). A direct empirical proof of the existence of dark matter. The Astrophysical Journal Letters, 648(2), L109–L113. https://doi.org/10.1086/508162
+
+DESI Collaboration, Abdul Karim, M., Aguilar, J., Ahlen, S., Alam, S., Allen, L., Allende Prieto, C., Alves, O., Anand, A., Andrade, U., Armengaud, E., Aviles, A., Bailey, S., Baltay, C., Bansal, P., Bault, A., Behera, J., BenZvi, S., Bianchi, D., Blake, C., ... Zou, H. (2025). DESI DR2 results II: Measurements of baryon acoustic oscillations and cosmological constraints. arXiv. https://arxiv.org/abs/2503.14738
+
+Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften, 844–847.
+
+Kramida, A., Ralchenko, Yu., Reader, J., & NIST ASD Team. (2024). NIST Atomic Spectra Database (version 5.12). National Institute of Standards and Technology. https://doi.org/10.18434/T4W30F
+
+Lloret Egea, J. A. (2026a). La materia oscura no existe como sustancia: demostración formal de nulidad sustancial, densidad gravitatoria efectiva de sutura y contraste físico escalable. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.7b41835f
+
+Lloret Egea, J. A. (2026b). De Bell a Tsirelson sin formalismo de Hilbert: aparato determinista no local del Sistema Vectorial SV con alfabeto ternario, unicidad del correlador angular factual acoplado y derivación estructural de la cota cuántica. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/1666c-c5g66
+
+Lloret Egea, J. A. (2026c). Fórmula de Campo Unificado 𝓕𝓐 = d𝓐 + 𝓐 ∧ 𝓐 con 𝓐 = ω ⊕ A: lo que Einstein y Bohr discutían, doble proyección de un aparato más profundo. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/gxfv3-qjj64
+
+Lloret Egea, J. A. (2026d). Fourier factual y ecuación de onda electromagnética en el Sistema Vectorial SV: desarrollo cíclico, transformada modal y propagación sobre ciclo y trayectoria poligonal. IA eñ™ — La Biblia de la IA™.
+
+Lloret Egea, J. A. (2026e). Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.9c57c046
+
+Lloret Egea, J. A. (2026f). Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable. IA eñ™ — La Biblia de la IA™. DOI pendiente.
+
+Lodha, K., et al. (2025). Extended dark energy analysis using DESI DR2 BAO measurements. arXiv. https://arxiv.org/abs/2503.14743
+
+Newton, I. (1999). The Principia: Mathematical principles of natural philosophy (I. B. Cohen & A. Whitman, Trans.). University of California Press. (Original work published 1687)
+
+Noether, E. (1918). Invariante Variationsprobleme. Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse, 1918, 235–257.
+
+Rubin, V. C., Ford, W. K., Jr., & Thonnard, N. (1980). Rotational properties of 21 Sc galaxies with a large range of luminosities and radii, from NGC 4605/R = 4 kpc to UGC 2885/R = 122 kpc. The Astrophysical Journal, 238, 471–487. https://doi.org/10.1086/158003
+
+Saadeh, D., Feeney, S. M., Pontzen, A., Peiris, H. V., & McEwen, J. D. (2016). How isotropic is the Universe? Physical Review Letters, 117(13), 131302. https://doi.org/10.1103/PhysRevLett.117.131302
+
+---
+
 
 ---
 
