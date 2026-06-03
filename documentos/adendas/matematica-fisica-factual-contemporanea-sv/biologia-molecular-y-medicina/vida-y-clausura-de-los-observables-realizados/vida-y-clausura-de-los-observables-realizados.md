@@ -4,6 +4,12 @@
 
 ![Portada](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p9c15d6fe-423f-49a5-bc88-4ffc29ec9ba6/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-71780489859341.png)
 
+<p align="center">
+  <img src="imagenes/portada.png" alt="Portada conceptual de Vida y clausura de los observables realizados: instancia observable en dominio declarado, con frontera, identidad, soporte, traza, residual, retorno, medición transducida y frontera sutural del dominio-universo." width="100%">
+</p>
+
+<p align="center"><em>Portada conceptual de “Vida y clausura de los observables realizados”. La imagen representa la instancia observable situada en dominio declarado, con frontera, identidad, soporte, traza, residual y retorno; circularidad de retorno, reactivación espiral y medición transducida convergen hacia la frontera sutural del dominio-universo, sin identificarla con TODO/NADA, Totalidad absoluta, materia oscura sustancial ni límite del espacio.</em></p>
+
 © 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | DOI [el asignado a la publicación] | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 03/06/2026 |
 
 ## Resumen
