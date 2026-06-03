@@ -1001,11 +1001,11 @@ Lloret Egea, J. A. (2026b). De Bell a Tsirelson sin formalismo de Hilbert: apara
 
 Lloret Egea, J. A. (2026c). Fórmula de Campo Unificado 𝓕𝓐 = d𝓐 + 𝓐 ∧ 𝓐 con 𝓐 = ω ⊕ A: lo que Einstein y Bohr discutían, doble proyección de un aparato más profundo. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/gxfv3-qjj64
 
-Lloret Egea, J. A. (2026d). Fourier factual y ecuación de onda electromagnética en el Sistema Vectorial SV: desarrollo cíclico, transformada modal y propagación sobre ciclo y trayectoria poligonal. IA eñ™ — La Biblia de la IA™.
+Lloret Egea, J. A. (2026d). Fourier factual y ecuación de onda electromagnética en el Sistema Vectorial SV: desarrollo cíclico, transformada modal y propagación sobre ciclo y trayectoria poligonal. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.0954ba30 
 
 Lloret Egea, J. A. (2026e). Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.9c57c046
 
-Lloret Egea, J. A. (2026f). Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable. IA eñ™ — La Biblia de la IA™. DOI pendiente.
+Lloret Egea, J. A. (2026f). Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.41afec0f.
 
 Lodha, K., et al. (2025). Extended dark energy analysis using DESI DR2 BAO measurements. arXiv. https://arxiv.org/abs/2503.14743
 
