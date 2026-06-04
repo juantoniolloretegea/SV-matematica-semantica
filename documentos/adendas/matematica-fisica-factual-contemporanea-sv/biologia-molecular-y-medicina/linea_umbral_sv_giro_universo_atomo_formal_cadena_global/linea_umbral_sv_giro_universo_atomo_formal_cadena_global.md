@@ -2,7 +2,7 @@
 
 ## De la persistencia energética estructural y el CPS-SV al teorema de circulación de retorno y lectura atómica del dominio-universo
 
-**© 2026. Todos los derechos reservados.** | [**DOI**: pendiente] | **Juan Antonio Lloret Egea** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 04/06/2026 |
+**© 2026. Todos los derechos reservados.** | [**DOI**: 10.21428/39829d0b.30dfd78b](https://doi.org/10.21428/39829d0b.30dfd78b) | **Juan Antonio Lloret Egea** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 04/06/2026 |
 
 ---
 **Advertencia**: Esta publicación está protegida por **[CEDRO](https://www.cedro.org/english?lng=en)** y su aplicación en el campo de la Física, así como cualquier forma de explotación, reproducción o uso por parte de empresas, queda sujeta al copyright del autor y a los términos de la licencia indicada; la reproducción, distribución, comunicación pública o transformación de esta obra solo puede ser realizada con la autorización de sus titulares, salvo excepción prevista por la ley, y cualquier uso comercial sin autorización expresa queda prohibido y supeditado estrictamente al licenciamiento permitido.
