@@ -2,6 +2,8 @@
 
 ## De la persistencia energética estructural y el CPS-SV al teorema de circulación de retorno y lectura atómica del dominio-universo
 
+![Portada — Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/biologia-molecular-y-medicina/linea_umbral_sv_giro_universo_atomo_formal_cadena_global/imagenes/portada.png)
+
 **© 2026. Todos los derechos reservados.** | [**DOI**: 10.21428/39829d0b.30dfd78b](https://doi.org/10.21428/39829d0b.30dfd78b) | **Juan Antonio Lloret Egea** | ORCID: [0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | **ISSN 2695-6411** | **Licencia CC BY-NC-ND 4.0** | Madrid, 04/06/2026 |
 
 ---
