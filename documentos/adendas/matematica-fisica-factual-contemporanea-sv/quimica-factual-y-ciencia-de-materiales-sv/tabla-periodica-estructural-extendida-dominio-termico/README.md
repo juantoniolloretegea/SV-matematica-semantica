@@ -64,14 +64,14 @@ Los registros siguientes permiten comprobar integridad, firma y existencia tempo
 
 ### Publicación principal
 
-| Archivo | Ruta prevista | SHA-256 |
+| Archivo | Ruta | SHA-256 |
 |---|---|---|
 | Markdown principal | [`tabla_periodica_estructural_extendida_dominio_termico_KTheta.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md) | `6bdc596ea86f5a3669c3c37261d5256fe2ef405f186c9913e5b5a8d7a1d3567b` |
 | Portada | [`imagenes/portada.png`](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png) | `082b4aa8679776efcaa11766f4c9f528c25ed455cb7241096991a170c42df06f` |
 
 ### PDF firmado y prueba temporal
 
-| Archivo | Ruta prevista | SHA-256 |
+| Archivo | Ruta | SHA-256 |
 |---|---|---|
 | PDF firmado | [`pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/pdf/Tabla%20peri%C3%B3dica%20estructural%20extendida%20del%20dominio%20t%C3%A9rmico%20K_%CE%98_signed.pdf) | `b46af2b038cbfd46ea07a526eddffad4adeb2f8497e8fc37fdfa1347e4c52bb2` |
 | Prueba OpenTimestamps del PDF firmado | [`pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf.ots`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/pdf/Tabla%20peri%C3%B3dica%20estructural%20extendida%20del%20dominio%20t%C3%A9rmico%20K_%CE%98_signed.pdf.ots) | `b9e768deca7acf9894b7d5451302ff92308482e2dd0c5363d5530c0357ed6b61` |
@@ -87,7 +87,7 @@ Signature validation: Signature is Valid
 
 ### ZIP firmado y prueba temporal
 
-| Archivo | Ruta prevista | SHA-256 |
+| Archivo | Ruta | SHA-256 |
 |---|---|---|
 | ZIP de preservación | [`descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip) | `263c0ccd5bfb1c0721255b051d9d9c19e7ba6d4bde22ec53b38ec32690fe88c8` |
 | Firma del ZIP | [`registros/tabla-periodica-estructural-extendida-dominio-termico.zip_signed.csig`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/tabla-periodica-estructural-extendida-dominio-termico.zip_signed.csig) | `12ed34a6cd3399158f229764181f92c4593a9ba5de480059c3d4e02f561ec85c` |
