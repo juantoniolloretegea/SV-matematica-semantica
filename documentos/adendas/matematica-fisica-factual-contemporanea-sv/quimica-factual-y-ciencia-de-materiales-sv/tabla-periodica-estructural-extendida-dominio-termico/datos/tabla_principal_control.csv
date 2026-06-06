@@ -1,0 +1,7 @@
+Elemento,rol,k,Z_SV,A_SV,Periodo,Grupo,Z_fis,Composicion,Sigma_Z,Sigma_A_ref,Regimen_A_ref,N_res,N,N_Z,Theta_max_C,Margen_C,R_ZSV,R_ASV,R_Zfis,R_A,R_Theta,resolución
+SV-119,principal,119,237,710,14,11,237,Rg+Og+O,237,592,A_ref_isotopico_rectores,118,473,1.9958,NO_APLICA,NO_APLICA,0,0,0,0,NO_APLICA,ADMISIBLE
+SV-120,control_adyacente,120,238,714,14,12,238,Cn+Og+O,238,595,A_ref_isotopico_rectores,119,476,2,NO_APLICA,NO_APLICA,0,0,0,0,NO_APLICA,ADMISIBLE
+SV-280,principal,280,398,1274,23,10,398,Ds+3Cm,398,1025,A_ref_isotopico_rectores,249,876,2.201,NO_APLICA,NO_APLICA,0,0,0,0,NO_APLICA,ADMISIBLE
+SV-281,control_adyacente,281,399,1277,23,11,399,Rg+3Cm,399,1026,A_ref_isotopico_rectores,251,878,2.2005,NO_APLICA,NO_APLICA,0,0,0,0,NO_APLICA,ADMISIBLE
+SV-442,control_adyacente,442,560,1841,32,10,560,Ds+3Og+Cm,560,1411,A_ref_isotopico_rectores,430,1281,2.2875,NO_APLICA,NO_APLICA,0,0,0,0,NO_APLICA,ADMISIBLE
+SV-443,principal_cierre,443,561,1844,32,11,561,Rg+3Og+Cm,561,1412,A_ref_isotopico_rectores,432,1283,2.287,NO_APLICA,NO_APLICA,0,0,0,0,NO_APLICA,ADMISIBLE

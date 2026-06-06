@@ -1,0 +1,35 @@
+{
+  "lecturas": [
+    {
+      "Lectura evaluada": "`Y_SV` como clasificador MP",
+      "TP": "1730",
+      "FP": "313",
+      "TN": "4",
+      "FN": "51",
+      "F1": "0.905",
+      "Exactitud": "0.827",
+      "Especificidad": "0.013",
+      "Exactitud balanceada": "0.492",
+      "MCC": "−0.036",
+      "Resolución": "lectura predictiva binaria refutada"
+    },
+    {
+      "Lectura evaluada": "Sello trivial: todo estable",
+      "TP": "1781",
+      "FP": "317",
+      "TN": "0",
+      "FN": "0",
+      "F1": "0.918",
+      "Exactitud": "0.849",
+      "Especificidad": "0.000",
+      "Exactitud balanceada": "0.500",
+      "MCC": "0.000",
+      "Resolución": "línea base trivial superior al CPS base"
+    }
+  ],
+  "dictamen": "LECTURA_PREDICTIVA_BINARIA_REFUTADA_PARA_Y_SV_NO_REFUTA_KTHETA",
+  "notas": [
+    "U_externa preservada fuera de matriz binaria",
+    "MCC=0.000 del sello trivial tratado como línea base con denominador nulo"
+  ]
+}

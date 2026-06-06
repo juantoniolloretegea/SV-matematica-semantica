@@ -1,0 +1,42 @@
+{
+  "titulo": "Tabla periódica estructural extendida del dominio térmico K_Θ",
+  "version_textual": "V.4 consolidada como entrega GitHub",
+  "github_folder_url": "https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico",
+  "raw_base_url": "https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico",
+  "archivo_markdown": "tabla_periodica_estructural_extendida_dominio_termico_KTheta.md",
+  "portada": "imagenes/portada.png",
+  "portada_url_absoluta_en_markdown": "https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png",
+  "sha256_markdown": "a1a54059643460015e53691e4f8e8a2085ae1cb8fa37050fbbdf104087950cf1",
+  "sha256_portada": "082b4aa8679776efcaa11766f4c9f528c25ed455cb7241096991a170c42df06f",
+  "tablas": {
+    "principal_control_filas": 6,
+    "KTheta_filas": 57,
+    "mp_metricas_filas": 2
+  },
+  "KTheta": {
+    "cardinal": 57,
+    "k_min": 381,
+    "k_max": 443,
+    "theta_min_C": 4510,
+    "theta_max_C": 5130
+  },
+  "adversarial": {
+    "errores": [],
+    "dictamen": "APTO_COMPLETO_GITHUB"
+  },
+  "sha256_datos": {
+    "contraste_externo_materials_project_metricas.csv": "43331278316b2d07214c126878a41ecbdb5f8a66479e81df10fa023a4a0cea99",
+    "tabla_KTheta.csv": "67eb074b5bb776e5602b0573321c575a67e8af06d49e82cae16b8bbc6c234f02",
+    "tabla_principal_control.csv": "090611bf5794bdf977188e639bfd19e04c4027046cb60bbf8cd3ad1ded69edd8"
+  },
+  "sha256_laboratorios": {
+    "verificador_columna_vertebral_ktheta.py": "cf7a4ff3cb17a356fc46a17c77e3e252bc30f214f39672b91833281523e9c6ec",
+    "verificador_contraste_externo_mp.py": "d68e60ccdbbce180d64dd8b34404bd090427a4af6a5e9f9e22930583b74abebf",
+    "verificador_pliego_final.py": "77e5ce369d6ba7fba77414c47910b289ef7cb468e623cb9097c4be1c84f78df1"
+  },
+  "sha256_salidas": {
+    "salida_contraste_externo_mp.json": "c37626264ae97c628f4125d4249d4ddf1bba250fcfa7567479f2d4470b7ceee3",
+    "salida_verificador_columna_vertebral_ktheta.json": "04ce0320ec2df1c8feada570c1016d44d998a32cc765ca83f34c2625c0751a72",
+    "salida_verificador_pliego_final.json": "3d1e5d23e5851b65d68fc514284ac21bc7530d86a1d21f4f6ec598926f979bdb"
+  }
+}
