@@ -6,7 +6,13 @@
 
 Autor: Juan Antonio Lloret Egea — ORCID: 0000-0002-6634-3351  
 Editor: IA eñ™ — La Biblia de la IA™ (Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español, ITVIA) — ISSN 2695-6411  
-Licencia: CC BY-NC-ND 4.0 — Protegida por CEDRO © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados. Madrid, 05/06/2026
+Licencia: CC BY-NC-ND 4.0 — Protegida por CEDRO © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados. Madrid, 06/06/2026  
+DOI PubPub/Crossref: https://doi.org/10.21428/39829d0b.5fd2b270  
+Release PubPub: https://www.itvia.online/pub/tabla-periodica-estructural-extendida-del-dominio-termico-ktheta-materiales-por-encima-de-4500-c/release/1  
+Repositorio GitHub: https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico
+
+> `SV-381` es la primera entrada térmica admitida, porque `Θ_max(381)=4.510 °C` y `M_Θ(381)=1`. `SV-443` ocupa el punto térmico extremo, porque `Θ_max(443)=5.130 °C` y `M_Θ(443)=1`.  
+> La unidad `°C` pertenece al retorno térmico declarado de `Θ_max`; no procede de Materials Project ni de una concesión de nomenclatura externa. Como contraste externo, la ciencia contemporánea sitúa el tungsteno como referencia máxima entre los metales puros, con punto de fusión en torno a `3.400–3.422 °C` (Royal Society of Chemistry, n.d.-b); si se toma el carbono/grafito como elemento en régimen de sublimación, NASA cita para el grafito una temperatura de fusión/sublimación de `3915 K`, aproximadamente `3.642 °C` (Stewart & Schnitzler, 2015), y la Royal Society of Chemistry recoge sublimación del carbono a `3.825 °C` (Royal Society of Chemistry, n.d.-a). En ambos casos, el umbral `4.500 °C` queda por encima de las referencias elementales ordinarias contemporáneas, mientras que algunos carburos refractarios se sitúan ya en el plano de compuestos y no de elementos puros. Quedan fuera del dominio térmico positivo: `SV-380`, porque `Θ_max(380)=4.500 °C` y el criterio exige superar estrictamente `4.500 °C`.
 
 ## Resumen
 
@@ -24,7 +30,7 @@ Tabla periódica estructural extendida; nuevos elementos; transducción física;
 
 ### Regla de dominio, transducción no confinante y criterio de validez
 
-Esta formulación se rige por una regla explícita:
+Esta formulación se rige por una regla explícita que se escribe como definición lógica:
 
 `validez_SV ≠ aceptación_IUPAC/SI/física_contemporánea`
 
@@ -34,7 +40,7 @@ En estas dos expresiones, `validez_SV` designa validez interna del resultado SV 
 
 La formulación no se presenta como solicitud de reconocimiento externo. El SV trabaja en su dominio, transduce, resuelve y retorna. La ciencia contemporánea puede operar como dominio de contraste, medición, materialización o refutación técnica frente a la formulación, pero no como criterio rector de validez interna.
 
-La transducción no confina el resultado al dominio auxiliar. En cálculo, la regla de la cadena resuelve una derivada de composición mediante una variable intermedia. El resultado retorna al dominio interrogado. La sustitución en integración modifica la variable de trabajo y conserva el retorno cuando la transformación y los límites quedan declarados (OpenStax, 2016a, 2016b). Del mismo modo, el tránsito SV no rebaja el resultado por haberlo resuelto en `D_SV`. Exige dominio de partida, dominio de resolución, transductor, regla, traza, residual y retorno. La forma compacta es `Problema(D_ext) --𝔛_SV--> Resolución(D_SV) --Ret,Res--> Resultado(D_ext)`. Esta exigencia mantiene continuidad con el corolario de transducción no confinante formulado para la Línea del Umbral SV (Lloret Egea, 2026j).
+La transducción no confina el resultado al dominio auxiliar. En cálculo, la regla de la cadena resuelve una derivada de composición mediante una variable intermedia. El resultado retorna al dominio interrogado. La sustitución en integración modifica la variable de trabajo y conserva el retorno cuando la transformación y los límites quedan declarados (OpenStax, 2016a, 2016b). Del mismo modo, el tránsito SV no reduce el resultado por haberlo resuelto en `D_SV`. Exige dominio de partida, dominio de resolución, transductor, regla, traza, residual y retorno. La forma compacta es `Problema(D_ext) --𝔛_SV--> Resolución(D_SV) --Ret,Res--> Resultado(D_ext)`. Esta exigencia mantiene continuidad con el corolario de transducción no confinante formulado para la Línea del Umbral SV (Lloret Egea, 2026j).
 
 Una objeción fundada en falta de reconocimiento externo no refuta la formulación. Sólo cabe refutación por contradicción interna, residual no nulo, fallo de comprobación reproducible, pérdida de traza, transductor mal declarado, retorno inconsistente o tabla que no corresponda a su regla.
 
@@ -53,7 +59,7 @@ El valor científico del trabajo se juega entonces en otro terreno: si el catál
 
 ### Estado del arte interno SV: de catálogo estructural a programa de contraste
 
-El estado del arte interno del SV no entra como autoridad sustituta de la ciencia contemporánea. Entra como trazabilidad de construcción. La tabla periódica estructural extendida se apoya en una secuencia previa: generación de dominio, admisibilidad prequímica, transición química operatoria, catálogo de elementos, catálogo de pares, termodinámica estructural, entropía factual, tránsito por dominios y corolario de transducción no confinante. Esta cadena impide que el presente trabajo aparezca como una propuesta aislada.
+El estado del arte interno del SV no entra como autoridad sustituta de la ciencia contemporánea. Entra como trazabilidad de construcción. La tabla periódica estructural extendida se apoya en una secuencia previa: generación de dominio, admisibilidad prequímica, transición química operatoria, catálogo de elementos, catálogo de pares, termodinámica estructural, entropía factual, tránsito por dominios y corolario de transducción no confinante. Esta cadena impide que este trabajo aparezca como una propuesta aislada.
 
 El catálogo de elementos y materiales de nueva generación fija el dominio `Ω₄₄₃` y distingue el subdominio reconocido `Ω₁₁₈={1,…,118}` del dominio extendido `Ω_ext={119,…,443}`. La frontera no se formula como proclamación empírica, sino como dominio estructural de candidatos. El aparato generativo trabaja con doce familias tipológicas `Σ₁–Σ₁₂`, célula `SV(3,9)`, ecuación de persistencia `𝔓_min(Γ,n)>0`, restricciones de admisibilidad y criterios `Q.1–Q.5`. La consecuencia es fuerte: `443` no comparece como número accesorio ni como extensión no técnica; comparece como resultado de un dominio generado, filtrado y recorrido.
 
@@ -99,7 +105,7 @@ Si no hay transductor, la crítica procede. Si el residual queda oculto, la crí
 
 `Ref_conc(Q)=1 ⇔ Conc_Q no se sigue de Sol_SV(Q) ∧ Res_Q ∧ Ret_Q`
 
-Esta sección no convierte el SV en instancia absoluta de validación. Al contrario: le impone carga adicional. Debe declarar dominios, conservar frontera, mostrar residual, formular retorno y aceptar conclusión. La diferencia entre audacia científica y arbitrariedad se decide aquí: audacia es sostener una conclusión cuando dominio, transductor, residual y retorno están declarados; arbitrariedad es saltar de dominio sin transductor, ocultar residual o presentar como medición lo que sólo es definición interna.
+Esto no convierte el SV en instancia absoluta de validación. Al contrario: le impone carga adicional. Debe declarar dominios, conservar frontera, mostrar residual, formular retorno y aceptar conclusión. La diferencia entre audacia científica y arbitrariedad se decide aquí: audacia es sostener una conclusión cuando dominio, transductor, residual y retorno están declarados; arbitrariedad es saltar de dominio sin transductor, ocultar residual o presentar como medición lo que sólo es definición interna.
 
 ### Protocolo de crítica científica contemporánea
 
@@ -150,7 +156,7 @@ Este trabajo nace para aportar, no para dividir. No pretende restar autoridad a 
 
 ### Dependencia documental SV
 
-Este trabajo se apoya en una cadena documental previa que debe leerse como soporte técnico, no como ornamentación bibliográfica. El catálogo SV-443 proporciona el dominio generativo de `443` elementos, la tabla periódica extendida, las fórmulas de `Z_SV`, `A_SV`, periodo y grupo, y el laboratorio reproducible de `443/443` elementos. El Catálogo de Pares Estructurales SV amplía el tránsito desde elemento aislado hacia enlace, aleación, compatibilidad y material estructural mediante el análisis de `97.903` pares no ordenados. La fórmula termodinámica factual única aporta el marco de lectura de temperatura, trabajo, calor, fuerza y entalpía como proyecciones de dominio. La entropía factual e irreversibilidad estructural aporta trazabilidad, conservación de historial, no reescritura y estabilidad de recorrido. Los documentos de imperfección preformal, metrología, clases factuales, campo, tránsito por dominios y fundamentos algebraico-semánticos aportan separación, magnitud, unidad, frontera, residual, retorno y transducción.
+Este trabajo se apoya en una cadena documental previa que debe leerse como soporte técnico, no como ornamentación bibliográfica. El catálogo SV-443 proporciona el dominio generativo de `443` elementos, la tabla periódica extendida, las fórmulas de `Z_SV`, `A_SV`, periodo y grupo, y el laboratorio reproducible de `443/443` elementos. El Catálogo de Pares Estructurales SV amplía el tránsito desde elemento aislado hacia enlace, aleación, compatibilidad y material estructural mediante el análisis de `97.903` pares no ordenados. La fórmula termodinámica única aporta el marco de lectura de temperatura, trabajo, calor, fuerza y entalpía como proyecciones de dominio. La entropía e irreversibilidad estructural aporta trazabilidad, conservación de historial, no reescritura y estabilidad de recorrido. Los documentos de imperfección preformal, metrología, clases factuales, campo, tránsito por dominios y fundamentos algebraico-semánticos aportan separación, magnitud, unidad, frontera, residual, retorno y transducción.
 
 ### CPS-SV como prueba de no arbitrariedad
 
@@ -188,7 +194,7 @@ El trabajo evita presentar la indeterminación interna del Sistema Vectorial SV 
 
 El SV entrega una tabla periódica estructural extendida del dominio térmico `K_Θ`. Es reproducible y computable. Incluye materiales por encima de `4500 °C` y columna rectora `119/280/443`. No opera como solicitud de autorización externa ni como minería de datos. Su contenido es un dominio estructural con funciones declaradas, entradas rectoras y composiciones exactas. También fija cierre de carga, cierre de masa, temperatura máxima formal retornada en grados Celsius y residuales nulos. El dominio térmico, los positivos, los negativos y la falsación quedan declarados en apartados propios. La admisión interna no depende de IUPAC, SI ni de la física contemporánea. Depende de regla, dominio, transductor, residual, retorno y comprobación reproducible. El apartado 11.1 retoma este cierre como entrega formal a la ciencia contemporánea. El apartado 10 especifica su confrontación material.
 
-Los resultados son:
+Los resultados son en especificación formal:
 
 `K_principal={119,280,443}`
 
@@ -198,11 +204,11 @@ Los resultados son:
 
 `|K_Θ|=57`
 
-`Θ_min=4510 °C`
+`Θ_min=4.510 °C`
 
-`Θ_max=5130 °C`
+`Θ_max=5.130 °C`
 
-`SV-443=5130 °C`
+`SV-443=5.130 °C`
 
 `R_ZSV=R_ASV=R_Zfís=R_A=R_Θ=0`
 
@@ -228,7 +234,7 @@ Para `k∈{1,…,443}`, el SV declara las funciones generativas del dominio. En 
 
 `Θ_max(k)=(700+10k) °C`.
 
-La transducción adoptada es:
+La transducción lógica adoptada es:
 
 `T_Z(Z_SV)=Z_fís objetivo`.
 
@@ -423,7 +429,7 @@ Como `Θ_max(k)=(700+10k) °C`, se obtiene:
 
 `|K_Θ^pre|=63`
 
-El dominio térmico positivo admitido añade la máscara estructural declarada:
+El dominio térmico positivo admitido añade la máscara estructural declarada con especificación formal:
 
 `M_Θ(k)=1 ⇔ k∈{381,…,394}∪{397,…,412}∪{415,…,430}∪{433,…,443}`
 
@@ -433,17 +439,13 @@ Por tanto:
 
 `K_Θ={381,…,394}∪{397,…,412}∪{415,…,430}∪{433,…,443}`
 
-El recuento exacto es:
+El recuento exacto es: `14+16+16+11=57` (cardinal de `K_Θ`: 57 entradas térmicas positivas admitidas; es decir, 57 valores de `k` que superan estrictamente `4.500 °C` y además cumplen `M_Θ(k)=1`).
 
-`14+16+16+11=57`
-
-`SV-381` es la primera entrada térmica admitida, porque `Θ_max(381)=4510 °C` y `M_Θ(381)=1`.
-
-`SV-443` ocupa el punto térmico extremo, porque `Θ_max(443)=5130 °C` y `M_Θ(443)=1`. La unidad `°C` pertenece al retorno térmico declarado de `Θ_max`; no procede de Materials Project ni de una concesión de nomenclatura externa.
+`SV-381` es la primera entrada térmica admitida, porque `Θ_max(381)=4.510 °C` y `M_Θ(381)=1`. `SV-443` ocupa el punto térmico extremo, porque `Θ_max(443)=5.130 °C` y `M_Θ(443)=1`. La unidad `°C` pertenece al retorno térmico declarado de `Θ_max`; no procede de Materials Project ni de una concesión de nomenclatura externa. Como contraste externo, la ciencia contemporánea sitúa el tungsteno como referencia máxima entre los metales puros, con punto de fusión en torno a `3.400–3.422 °C` (Royal Society of Chemistry, n.d.-b); si se toma el carbono/grafito como elemento en régimen de sublimación, NASA cita para el grafito una temperatura de fusión/sublimación de `3915 K`, aproximadamente `3.642 °C` (Stewart & Schnitzler, 2015), y la Royal Society of Chemistry recoge sublimación del carbono a `3.825 °C` (Royal Society of Chemistry, n.d.-a). En ambos casos, el umbral `4.500 °C` queda por encima de las referencias elementales ordinarias contemporáneas, mientras que algunos carburos refractarios se sitúan ya en el plano de compuestos y no de elementos puros.
 
 Quedan fuera del dominio térmico positivo:
 
-`SV-380`, porque `Θ_max(380)=4500 °C` y el criterio exige superar estrictamente `4500 °C`.
+`SV-380`, porque `Θ_max(380)=4.500 °C` y el criterio exige superar estrictamente `4.500 °C`.
 
 `SV-395`, `SV-396`, `SV-413`, `SV-414`, `SV-431` y `SV-432`, porque cumplen el umbral bruto pero tienen `M_Θ=0` y pertenecen a discontinuidades declaradas del dominio térmico admitido. La tabla del apartado 7 despliega las filas admitidas. La comprobación del apartado 9 revisa el recuento, el umbral y el residual térmico. La confrontación material no se decide en este apartado, sino bajo las condiciones del apartado 10.
 
@@ -540,7 +542,7 @@ La falsación interna se decide por regla, máscara, residual, retorno y comprob
 
 La comprobación reproducible queda incorporada como control separado del argumento verbal. No sustituye el razonamiento formal ni la confrontación material descrita en el apartado 10. Revisa que las tablas activas respeten las funciones declaradas, que la máscara `M_Θ` seleccione exactamente el dominio térmico positivo y que los residuales exigidos retornen a cero en sus planos de definición.
 
-La comprobación revisa la tríada principal, los controles adyacentes y los residuales estructurales nulos. También revisa `|K_Θ|=57`, `Θ_min=4510 °C`, `Θ_max=5130 °C`, `K_Θ>4500 °C`, `R_Θ=0` y `SV-443=5130 °C`. La salida obtenida es `ADMISIBLE_COMPLETO_FUERTE`.
+La comprobación revisa la tríada principal, los controles adyacentes y los residuales estructurales nulos. También revisa `|K_Θ|=57`, `Θ_min=4.510 °C`, `Θ_max=5.130 °C`, `K_Θ>4500 °C`, `R_Θ=0` y `SV-443=5.130 °C`. La salida obtenida es `ADMISIBLE_COMPLETO_FUERTE`.
 
 ### 10. Especificación técnica de confrontación material
 
@@ -576,7 +578,7 @@ Este resultado anula una identificación concreta: `Y_SV` no debe presentarse co
 
 Como se ha construido en los apartados 2 a 8 y se comprueba en el apartado 9, este desarrollo resuelve la estructura extendida del dominio `Ω_443^SV`. La resolución incluye la columna vertebral `SV-119 → SV-280 → SV-443` y los controles adyacentes `SV-120`, `SV-281` y `SV-442`. También incluye el dominio térmico positivo `K_Θ`, el umbral bruto `K_Θ^pre`, la máscara estructural `M_Θ`, el régimen de masa de referencia diferenciado y el residual nulo en las magnitudes declaradas. En esta notación, `Ω_443^SV` designa el dominio estructural SV extendido hasta el índice `443`. `K_Θ` designa el dominio térmico admitido. `K_Θ^pre` designa los candidatos que superan el umbral térmico bruto. `M_Θ` designa la función de admisión estructural que selecciona los tramos positivos. Residual nulo significa que la magnitud calculada retorna sin resto no explicado dentro de la regla que la define.
 
-El resultado material queda fijado por las igualdades de trabajo ya verificadas. La tríada rectora es `K_principal={119,280,443}`. Los controles son `K_control={120,281,442}`. El dominio térmico es `K_Θ={381,…,394}∪{397,…,412}∪{415,…,430}∪{433,…,443}`. Su cardinalidad es `|K_Θ|=57`. Sus extremos son `Θ_min=4510 °C` y `Θ_max=5130 °C`; además, `Θ_max(443)=5130 °C`. Los residuales quedan anulados como `R_ZSV=R_ASV=R_Zfís=R_A=R_Θ=0` en los planos donde cada residual se declara. Aquí `Θ` designa temperatura máxima formal del dominio térmico. `R_ZSV` es residual de índice estructural. `R_ASV` es residual de masa estructural. `R_Zfís` es residual de retorno físico de carga. `R_A` es residual de balance de masa de referencia. `R_Θ` es residual de condición térmica.
+El resultado material queda fijado por las igualdades de trabajo ya verificadas. La tríada rectora es `K_principal={119,280,443}`. Los controles son `K_control={120,281,442}`. El dominio térmico es `K_Θ={381,…,394}∪{397,…,412}∪{415,…,430}∪{433,…,443}`. Su cardinalidad es `|K_Θ|=57`. Sus extremos son `Θ_min=4.510 °C` y `Θ_max=5.130 °C`; además, `Θ_max(443)=5130 °C`. Los residuales quedan anulados como `R_ZSV=R_ASV=R_Zfís=R_A=R_Θ=0` en los planos donde cada residual se declara. Aquí `Θ` designa temperatura máxima formal del dominio térmico. `R_ZSV` es residual de índice estructural. `R_ASV` es residual de masa estructural. `R_Zfís` es residual de retorno físico de carga. `R_A` es residual de balance de masa de referencia. `R_Θ` es residual de condición térmica.
 
 La entrega del SV a la ciencia contemporánea no consiste en una solicitud de reconocimiento institucional. Tampoco convierte la admisión estructural en predictor binario de estabilidad Materials Project, como se ha delimitado en el apartado 10.1. Consiste en una tabla periódica estructural extendida del dominio térmico `K_Θ`, con materiales por encima de `4500 °C` y columna `119/280/443`. Aporta tablas, composiciones, reglas generativas, transductor de retorno, residuales, criterios de falsación y comprobaciones reproducibles. La ciencia contemporánea recibe así un objeto preciso de contraste. Puede simular, materializar, medir, refutar o dejar en `U` cada entrada bajo protocolo trazable. `U` no significa aceptación ni rechazo. Significa indeterminación honesta cuando falta dominio experimental suficiente, retorno material concluyente, medición trazable o refutación técnica.
 
@@ -700,6 +702,12 @@ Jain, A., Ong, S. P., Hautier, G., Chen, W., Richards, W. D., Dacek, S., Cholia,
 OpenStax. (2016a). *The chain rule*. En *Calculus Volume 1*. OpenStax. https://openstax.org/books/calculus-volume-1/pages/3-6-the-chain-rule
 
 OpenStax. (2016b). *Substitution*. En *Calculus Volume 1*. OpenStax. https://openstax.org/books/calculus-volume-1/pages/5-5-substitution
+
+Royal Society of Chemistry. (n.d.-a). *Carbon — Element information, properties and uses*. Periodic Table. https://periodic-table.rsc.org/element/6/carbon
+
+Royal Society of Chemistry. (n.d.-b). *Tungsten — Element information, properties and uses*. Periodic Table. https://periodic-table.rsc.org/element/74/tungsten
+
+Stewart, M. E. M., & Schnitzler, B. G. (2015). *Multidisciplinary simulation of graphite-composite and cermet fuel elements for NTP point of departure designs*. NASA Technical Reports Server. https://ntrs.nasa.gov/api/citations/20150021512/downloads/20150021512.pdf
 
 Audi, G., Kondev, F. G., Wang, M., Huang, W. J., & Naimi, S. (2017). The NUBASE2016 evaluation of nuclear properties. *Chinese Physics C, 41*(3), 030001. https://doi.org/10.1088/1674-1137/41/3/030001
 
