@@ -1,39 +1,15 @@
-# Adenda I. Extensión del dominio térmico K_Θ⁺ más allá de SV-443: crecimiento transductivo formal, frontera controlada y contraste ultra-refractario
+# Adenda I. Extensión del dominio térmico K_Θ⁺ más allá de SV-443: crecimiento transductivo, frontera formal y contraste ultra-refractario
 
 ![Portada](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png)
-
-## Suplemento técnico autocontenido de la publicación matriz sobre el dominio térmico K_Θ
 
 Autor: Juan Antonio Lloret Egea — ORCID: 0000-0002-6634-3351  
 Editor: IA eñ™ — La Biblia de la IA™ (Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español, ITVIA) — ISSN 2695-6411  
 Licencia: CC BY-NC-ND 4.0 — Protegida por CEDRO © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados. Madrid, 06/06/2026  
-DOI PubPub/Crossref de esta adenda: pendiente de asignación  
-Estado editorial: documento preparado para carga en GitHub  
-Colección PubPub: *Química factual y ciencia de materiales en el Sistema Vectorial SV*  
-DOI de colección: https://doi.org/10.21428/39829d0b.4bddaa2f  
-Publicación matriz: *Tabla periódica estructural extendida del dominio térmico K_Θ: materiales por encima de 4500 °C, columna 119/280/443 y retorno transductivo no subordinado*  
-DOI matriz: https://doi.org/10.21428/39829d0b.5fd2b270  
-Ruta técnica prevista: `documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda`  
-Relación: esta adenda es suplemento técnico subordinado de la publicación matriz; no la rectifica, no la sustituye y no la amplía retroactivamente.
-
-**Advertencia y reserva de derechos.** Esta publicación, incluyendo su texto, formulación, estructura expositiva, tablas, gráficos, imágenes, selección y disposición de contenidos, archivos auxiliares, código, laboratorios, salidas de verificación y documentación asociada, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO. Cualquier forma de explotación de la obra o de partes sustanciales de ella —incluidas su reproducción, distribución, comunicación pública, puesta a disposición, transformación, traducción, adaptación, incorporación a bases de datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas o desarrollos empresariales— sólo podrá realizarse conforme a la licencia indicada, con autorización expresa y por escrito de los titulares de derechos, o al amparo de una excepción legal aplicable. La licencia indicada no autoriza usos comerciales, explotación empresarial, transformación distribuida ni reutilización sustancial de la obra fuera de sus términos. La aplicación, implementación, explotación técnica o incorporación de los resultados, fórmulas, tablas, nomenclatura, metodología, transductores, criterios de admisión, dominios, laboratorios o conclusiones de esta obra en el campo de la Física, la Química, la ciencia de materiales, la ingeniería, la inteligencia artificial u otras ciencias derivadas queda reservada a la autorización expresa del autor cuando implique reproducción, transformación, comunicación pública, distribución, integración sustancial de la obra protegida, explotación comercial, desarrollo empresarial o uso no cubierto por la licencia. Nada de lo anterior limita los usos permitidos imperativamente por la ley.
-
-**Notice and reservation of rights.** This publication, including its text, formulation, expository structure, tables, graphics, images, selection and arrangement of contents, auxiliary files, code, laboratories, verification outputs and associated documentation, is protected by the author’s intellectual property rights and, where applicable, by the corresponding rights management through CEDRO. Any form of exploitation of the work or of substantial parts thereof —including reproduction, distribution, public communication, making available, transformation, translation, adaptation, incorporation into databases, training or evaluation of automated systems, integration into products, services, reports, software, models, catalogues, teaching materials, industrial materials, technical publications or business developments— may only be carried out in accordance with the indicated license, with the express written authorization of the rights holders, or under an applicable statutory exception. The indicated license does not authorize commercial uses, business exploitation, distributed transformation or substantial reuse of the work outside its terms. The application, implementation, technical exploitation or incorporation of the results, formulas, tables, nomenclature, methodology, transducers, admission criteria, domains, laboratories or conclusions of this work in the field of Physics, Chemistry, materials science, engineering, artificial intelligence or other derived sciences is reserved to the express authorization of the author where it entails reproduction, transformation, public communication, distribution, substantial integration of the protected work, commercial exploitation, business development or any use not covered by the license. Nothing herein shall limit uses that are mandatorily permitted by law.
-
-**Nota de materialidad del archivo.** Esta adenda se constituye como documento Markdown autocontenido. No incorpora README propio, laboratorios independientes, CSV externos, salidas separadas ni verificadores ajenos al cuerpo del texto. Las tablas rectoras, los cálculos de umbral, las entradas-guía, los casos negativos, las condiciones de admisión y los residuales quedan integrados en el propio `.md`. El README principal de la publicación matriz incorporará después la existencia de esta adenda, su relación subordinada, su DOI propio cuando se asigne y su enlace técnico en GitHub.
-
-| Elemento material | Decisión editorial de la adenda |
-|---|---|
-| Documento principal | Un único `.md` autocontenido. |
-| README propio | No se crea; la referencia se incorporará al README principal de la publicación matriz. |
-| Laboratorios separados | No se crean en esta adenda. |
-| CSV externos | No se crean; las tablas necesarias quedan dentro del `.md`. |
-| Verificadores externos | No se crean; el control queda expresado por fórmulas, tablas y casos negativos internos. |
-| DOI | DOI propio pendiente, subordinado al DOI matriz. |
+DOI PubPub/Crossref de esta adenda: https://doi.org/10.21428/39829d0b.c5e1621c
 
 ## Resumen
 
-Esta adenda estudia la prolongación controlada del dominio térmico `K_Θ` más allá de la frontera publicada `SV-443`. La publicación matriz queda intacta: `SV-443` conserva su función de frontera depositada para el dominio `k∈{1,…,443}` y para el retorno térmico máximo `Θ_max(443)=5130 °C` (Lloret Egea, 2026). La adenda no declara nuevos elementos físicos, no propone una tabla IUPAC alternativa, no proclama síntesis material y no convierte la prolongación aritmética de `Θ_max(k)=700+10k` en hecho experimental. Su objeto es más estrecho: re-declarar de forma condicionada una extensión posterior `K_Θ⁺`, sometida a admisibilidad, trazabilidad, residuales de coherencia, casos negativos, ventanas finitas de umbral y contraste externo frente a materiales ultra-refractarios conocidos.
+Esta adenda estudia la prolongación controlada del dominio térmico `K_Θ` más allá de la frontera publicada `SV-443`. La publicación matriz (https://doi.org/10.21428/39829d0b.5fd2b270) queda intacta: `SV-443` conserva su función de frontera depositada para el dominio `k∈{1,…,443}` y para el retorno térmico máximo `Θ_max(443)=5130 °C` (Lloret Egea, 2026). La adenda no declara nuevos elementos físicos, no propone una tabla IUPAC alternativa, no proclama síntesis material y no convierte la prolongación aritmética de `Θ_max(k)=700+10k` en hecho experimental. Su objeto es más estrecho: re-declarar de forma condicionada una extensión posterior `K_Θ⁺`, sometida a admisibilidad, trazabilidad, residuales de coherencia, casos negativos, ventanas finitas de umbral y contraste externo frente a materiales ultra-refractarios conocidos.
 
 ## Abstract
 
