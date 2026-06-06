@@ -26,6 +26,7 @@ El trabajo queda situado ante la ciencia contemporánea en tres planos: formal, 
 | Ruta | Función |
 |---|---|
 | [`tabla_periodica_estructural_extendida_dominio_termico_KTheta.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md) | Archivo principal de la publicación en Markdown. |
+| [`adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md) | Adenda I subordinada: extensión formal `K_Θ⁺` más allá de `SV-443`, con ventanas térmicas, residuales, casos negativos y contraste ultra-refractario. |
 | [`imagenes/portada.png`](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png) | Portada de la publicación. |
 | [`datos/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/datos) | Tablas CSV: tabla principal, dominio térmico `K_Θ` y métricas de contraste externo. |
 | [`calculos/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/calculos) | Archivos JSON de cálculo y resumen de verificación. |
@@ -69,6 +70,14 @@ Los registros siguientes permiten comprobar integridad, firma y existencia tempo
 | Markdown principal | [`tabla_periodica_estructural_extendida_dominio_termico_KTheta.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md) | `6bdc596ea86f5a3669c3c37261d5256fe2ef405f186c9913e5b5a8d7a1d3567b` |
 | Portada | [`imagenes/portada.png`](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png) | `082b4aa8679776efcaa11766f4c9f528c25ed455cb7241096991a170c42df06f` |
 
+### Adenda I — suplemento técnico subordinado
+
+| Archivo | Ruta | SHA-256 |
+|---|---|---|
+| Markdown de la adenda | [`adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md) | `642c47dd6d98746eebb0db3011637d03c3273d4f4b19887f446c0702970b555b` |
+| Firma de la adenda | [`registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md_signed.csig`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md_signed.csig) | `3ffac926d1f50410a0b77ec1b67b8c2a587ca14b6c154ec6be6b365e403ee0ac` |
+| Prueba OpenTimestamps de la adenda | [`registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots) | `f9135aad59d74472f9995bd1eb1e65096d7db124d5c6e6352d1341aebdbe4dd9` |
+
 ### PDF firmado y prueba temporal
 
 | Archivo | Ruta | SHA-256 |
@@ -103,6 +112,9 @@ sha256sum "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_
 sha256sum descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip
 sha256sum registros/tabla-periodica-estructural-extendida-dominio-termico.zip_signed.csig
 sha256sum registros/tabla-periodica-estructural-extendida-dominio-termico.zip.ots
+sha256sum adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md
+sha256sum registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md_signed.csig
+sha256sum registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots
 ```
 
 ### Comprobación de firma PDF
@@ -118,6 +130,7 @@ La prueba `.ots` debe verificarse siempre contra el archivo exacto al que corres
 ```bash
 ots verify "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf.ots" -f "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf"
 ots verify registros/tabla-periodica-estructural-extendida-dominio-termico.zip.ots -f descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip
+ots verify registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots -f adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md
 ```
 
 ## Registros históricos en Internet Archive
@@ -126,6 +139,20 @@ ots verify registros/tabla-periodica-estructural-extendida-dominio-termico.zip.o
 |---|---|
 | Publicación Markdown en GitHub | https://web.archive.org/web/20260606104921/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md |
 | Carpeta del repositorio en GitHub | https://web.archive.org/web/20260606105140/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico |
+| Adenda I Markdown en GitHub | https://web.archive.org/web/20260606154514/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md |
+
+## Adenda I: extensión formal `K_Θ⁺` más allá de `SV-443`
+
+La publicación matriz conserva `SV-443` como extremo térmico publicado dentro del dominio `k∈{1,…,443}`, con `Θ_max(443)=5.130 °C`. La adenda no rectifica ni sustituye ese resultado: estudia una prolongación formal posterior, subordinada y condicionada, definida como `K_Θ⁺`, para preguntar qué ocurre si la frontera `443` se somete a presión térmica controlada.
+
+La adenda fija ventanas finitas de umbral `>5.130 °C`, `>6.000 °C`, `>8.000 °C` y `>10.000 °C`; declara entradas-guía `k=444`, `531`, `731` y `931`; exige residuales de coherencia nulos; incorpora casos negativos `k=443`, `530`, `730` y `930`; y contrasta la extensión con materiales ultra-refractarios contemporáneos como el sistema `TaC-HfC`, sin proclamar síntesis, elemento IUPAC ni material realizado.
+
+| Campo | Valor |
+|---|---|
+| DOI PubPub/Crossref de la adenda | https://doi.org/10.21428/39829d0b.c5e1621c |
+| Archivo Markdown | [`adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md) |
+| Relación con la matriz | Suplemento técnico subordinado; no rectifica, no sustituye y no amplía retroactivamente la publicación matriz. |
+| Registro histórico Internet Archive | https://web.archive.org/web/20260606154514/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md |
 
 ## Licencia, reserva de derechos y uso
 
