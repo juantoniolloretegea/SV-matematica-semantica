@@ -152,6 +152,7 @@ ots verify registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.m
 | Publicación Markdown en GitHub | https://web.archive.org/web/20260606104921/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md |
 | Carpeta del repositorio en GitHub | https://web.archive.org/web/20260606105140/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico |
 | Adenda I Markdown en GitHub | https://web.archive.org/web/20260606154514/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md |
+| README actualizado con registros administrativos OEPM/RPI | https://web.archive.org/web/20260608131333/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/README.md |
 
 ## Adenda I: extensión formal `K_Θ⁺` más allá de `SV-443`
 
