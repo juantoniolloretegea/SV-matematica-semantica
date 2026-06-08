@@ -13,6 +13,18 @@
 **Release PubPub:** https://www.itvia.online/pub/tabla-periodica-estructural-extendida-del-dominio-termico-ktheta-materiales-por-encima-de-4500-c/release/1  
 **Repositorio GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico
 
+
+## Registros administrativos y trazabilidad jurídica
+
+Esta publicación forma parte del entorno editorial IA eñ™ / ITVIA y del Sistema Vectorial SV. Además de su DOI, repositorio, firma digital, registros criptográficos, prueba temporal OpenTimestamps e histórico en Internet Archive, queda vinculada a las siguientes actuaciones administrativas:
+
+| Ámbito | Actuación | Referencia | Fecha | Alcance |
+|---|---|---:|---:|---|
+| OEPM | Solicitud de marca figurativa `SISTEMA VECTORIAL SV` | `M4385335` | `08/06/2026` | Marca mixta solicitada para clases 09, 41 y 42, vinculada a software, publicaciones, educación, investigación, servicios científicos y tecnológicos. |
+| Registro Territorial de la Propiedad Intelectual de Madrid | Solicitud de inscripción de derechos de propiedad intelectual | `49/694035.9/26` | `08/06/2026` | Obra científica presentada como ejemplar identificativo: `Tabla periódica estructural extendida del dominio térmico K_Θ: materiales por encima de 4500 °C, columna 119/280/443 y retorno transductivo no subordinado`. |
+
+La solicitud ante el Registro Territorial de la Propiedad Intelectual se refiere al ejemplar científico paginado de 43 páginas, con autoría y titularidad de explotación declaradas al 100 % por Juan Antonio Lloret Egea. El trámite consta como solicitud enviada en la Cuenta Digital de la Comunidad de Madrid. No se publican códigos seguros de verificación, justificantes de pago, datos de identificación personal ni documentos administrativos internos.
+
 ## Introducción
 
 Esta publicación formula una tabla periódica estructural extendida como dominio científico de exploración, no como sustitución de la tabla periódica reconocida ni como proclamación experimental de elementos no detectados. El dominio de trabajo es finito, `k∈{1,2,…,443}`, y se construye mediante funciones generativas explícitas, transducción física declarada, cierre compositivo, cierre de masa, residuales nulos y comprobación reproducible.
