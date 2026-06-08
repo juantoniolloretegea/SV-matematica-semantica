@@ -23,7 +23,7 @@ Esta publicación forma parte del entorno editorial IA eñ™ / ITVIA y del Sist
 | OEPM | Solicitud de marca figurativa `SISTEMA VECTORIAL SV` | `M4385335` | `08/06/2026` | Marca mixta solicitada para clases 09, 41 y 42, vinculada a software, publicaciones, educación, investigación, servicios científicos y tecnológicos. |
 | Registro Territorial de la Propiedad Intelectual de Madrid | Solicitud de inscripción de derechos de propiedad intelectual | `49/694035.9/26` | `08/06/2026` | Obra científica presentada como ejemplar identificativo: `Tabla periódica estructural extendida del dominio térmico K_Θ: materiales por encima de 4500 °C, columna 119/280/443 y retorno transductivo no subordinado`. |
 
-La solicitud ante el Registro Territorial de la Propiedad Intelectual se refiere al ejemplar científico paginado de 43 páginas, con autoría y titularidad de explotación declaradas al 100 % por Juan Antonio Lloret Egea.
+La solicitud ante el Registro Territorial de la Propiedad Intelectual [se refiere al ejemplar científico paginado de 43 páginas](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/pdf/Tabla%20peri%C3%B3dica%20estructural%20extendida%20del%20dominio%20t%C3%A9rmico%20K_%CE%98_signed.pdf), con autoría y titularidad de explotación declaradas al 100 % por Juan Antonio Lloret Egea.
 
 ## Introducción
 
