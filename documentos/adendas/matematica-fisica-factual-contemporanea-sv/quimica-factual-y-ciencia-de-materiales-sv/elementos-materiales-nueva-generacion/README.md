@@ -1,162 +1,159 @@
-# Materiales extremos del Sistema Vectorial SV
+# Tabla periódica estructural extendida del dominio térmico `K_Θ`: materiales por encima de 4500 °C, columna `119/280/443` y retorno transductivo no subordinado
 
-![Portada de la colección](imagenes/portada.png)
+![Portada](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png)
 
-## Regímenes térmicos ampliados, protección aeroespacial, ciclos frío-calor, radiación y alta exigencia estructural
+## Identificación
 
-**Autor:** Juan Antonio Lloret Egea  
-**ORCID:** 0000-0002-6634-3351  
-**Editor:** IA eñ™ — La Biblia de la IA™  
-**Institución editorial:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)  
-**ISSN:** 2695-6411  
-**Licencia:** CC BY-NC-ND 4.0  
-**DOI de la colección:** https://doi.org/10.21428/39829d0b.bf37c83a  
-**Sede editorial:** https://www.itvia.online/materiales-extremos  
-**Repositorio canónico:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/materiales-extremos  
+**Autor:** Juan Antonio Lloret Egea — ORCID: `0000-0002-6634-3351`  
+**Editor:** IA eñ™ — La Biblia de la IA™ — Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español, ITVIA  
+**ISSN:** `2695-6411`  
+**Licencia:** `CC BY-NC-ND 4.0` — Protegida por CEDRO  
+**Fecha:** Madrid, `06/06/2026`  
+**DOI PubPub/Crossref:** https://doi.org/10.21428/39829d0b.5fd2b270  
+**Release PubPub:** https://www.itvia.online/pub/tabla-periodica-estructural-extendida-del-dominio-termico-ktheta-materiales-por-encima-de-4500-c/release/1  
+**Repositorio GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico
 
----
+## Introducción
 
-## Objeto de la colección
+Esta publicación formula una tabla periódica estructural extendida como dominio científico de exploración, no como sustitución de la tabla periódica reconocida ni como proclamación experimental de elementos no detectados. El dominio de trabajo es finito, `k∈{1,2,…,443}`, y se construye mediante funciones generativas explícitas, transducción física declarada, cierre compositivo, cierre de masa, residuales nulos y comprobación reproducible.
 
-**Materiales extremos del Sistema Vectorial SV** reúne trabajos dedicados a la exploración estructural de materiales sometidos a exigencias térmicas, mecánicas, radiativas, aeroespaciales, hipersónicas, cíclicas y transductivas. La colección no queda reducida a una tabla periódica ni a una lista cerrada de candidatos: organiza un campo de investigación donde los dominios estructurales publicados, los regímenes térmicos ampliados, las restricciones de admisión, los pares compatibles, las familias materiales y los usos de alta exigencia se leen de forma conjunta.
+La investigación articula tres elementos principales —`SV-119`, `SV-280` y `SV-443`—, tres controles adyacentes —`SV-120`, `SV-281` y `SV-442`— y un dominio térmico estructural `K_Θ` de `57` entradas térmicas positivas admitidas, con resistencia superior a `4500 °C`, rango `4510–5130 °C` y máximo declarado en `SV-443`. La tesis térmica no procede de Materials Project ni de una concesión de nomenclatura externa: pertenece al retorno térmico declarado de `Θ_max(k)=700+10k` y queda sometida a contraste material por fases.
 
-El punto de partida visible es el dominio `Ω₄₄₃`, con su subdominio térmico `K_Θ` por encima de `4500 °C` y su extensión `K_Θ⁺`, pero esos dominios no clausuran la tabla periódica estructural SV ni agotan la investigación en materiales extremos. En el SV, una frontera publicada es una frontera de trabajo: permite fijar resultados auditables, reproducibles y trazables sin transformar una fase finita en límite universal. El número `443` designa el dominio actualmente publicado y recorrido en esta línea, no la cifra final de elementos estructurales posibles.
+El trabajo queda situado ante la ciencia contemporánea en tres planos: formal, porque entrega fórmulas, tablas, residuales y verificación reproducible; físico-teórico, porque permite contrastar estabilidad, composición, enlace, propiedades y límites de transducción; y práctico, porque habilita selección computacional de candidatos, priorización térmica, diseño inicial de familias de materiales, crítica externa y programas de validación. La frontera convencional asociada a núcleos finitos, estructura electrónica relativista, cálculos Dirac–Fock y efectos QED se conserva como límite de lectura atómica ordinaria; la frontera `443` queda definida como límite del catálogo estructural SV.
 
-Bajo esta lectura, la colección da soporte a una investigación más amplia: materiales ultra-refractarios, protección aeroespacial e hipersónica, ciclos frío-calor, choque térmico, contención radiotérmica, estructuras ultraligeras, componentes de alto rendimiento, contraste con grafeno, acero, UHTC, carburos, nitruros, nuevas familias de materiales y compatibilidad estructural de pares. La formulación estructural no se confunde con síntesis experimental, aceptación IUPAC, fabricación industrial ni disponibilidad técnica inmediata.
+## Contenido del directorio
 
----
-
-## Alcance general
-
-La colección se organiza sobre cuatro planos complementarios.
-
-| Plano | Función |
+| Ruta | Función |
 |---|---|
-| Extensión periódica estructural | Formula dominios finitos sucesivos `Ω_M` sin declarar un número absoluto y definitivo de elementos estructurales. |
-| Dominio térmico | Identifica regiones de alta exigencia térmica, empezando por `K_Θ` y su extensión `K_Θ⁺`. |
-| Compatibilidad material | Evalúa pares, enlace, aleación, transición hacia familias materiales y restricciones de admisión estructural. |
-| Aplicación de alta exigencia | Orienta el contraste hacia aeroespacial, hipersónica, ciclos térmicos, radiación, ligereza estructural y rendimiento extremo. |
+| [`tabla_periodica_estructural_extendida_dominio_termico_KTheta.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md) | Archivo principal de la publicación en Markdown. |
+| [`adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md) | Adenda I subordinada: extensión formal `K_Θ⁺` más allá de `SV-443`, con ventanas térmicas, residuales, casos negativos y contraste ultra-refractario. |
+| [`imagenes/portada.png`](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png) | Portada de la publicación. |
+| [`datos/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/datos) | Tablas CSV: tabla principal, dominio térmico `K_Θ` y métricas de contraste externo. |
+| [`calculos/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/calculos) | Archivos JSON de cálculo y resumen de verificación. |
+| [`laboratorios/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/laboratorios) | Scripts de verificación de columna, pliego final y contraste externo. |
+| [`salidas/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/salidas) | Salidas JSON de los verificadores. |
+| [`pdf/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/pdf) | PDF firmado y prueba temporal `.ots` asociada al PDF firmado. |
+| [`descargar-zip/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/descargar-zip) | Archivo ZIP de preservación y descarga. |
+| [`registros/`](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros) | Registros criptográficos y temporales asociados al ZIP. |
 
-La colección opera, por tanto, como matriz de investigación para materiales extremos: parte de dominios publicados, conserva restricciones explícitas y permite nuevas extensiones si cada ampliación mantiene dominio, frontera, residual, trazabilidad, compatibilidad y retorno.
+## Resultados de verificación reproducible
 
----
+Los verificadores incluidos en `laboratorios/` devuelven los siguientes dictámenes:
 
-## Dominio publicado y campo no clausurado
+| Verificador | Dictamen |
+|---|---|
+| `laboratorios/verificador_pliego_final.py` | `APTO_COMPLETO_GITHUB` |
+| `laboratorios/verificador_columna_vertebral_ktheta.py` | `APTO_COLUMNA_KTHETA` |
+| `laboratorios/verificador_contraste_externo_mp.py` | `APTO_CON_CONTRASTE_EXTERNO_NEGATIVO_REPORTADO` |
 
-El dominio `Ω₄₄₃` corresponde al catálogo estructural actualmente publicado hasta `443` candidatos. Este dominio permite ordenar resultados, evaluar compatibilidades y construir subdominios especializados, pero no debe leerse como cierre definitivo de la extensión periódica estructural SV.
+Resultados materiales fijados por la verificación:
 
-El dominio `K_Θ` selecciona las entradas con umbral térmico superior a `4500 °C`, y `K_Θ⁺` estudia la prolongación formal hacia ventanas superiores bajo crecimiento transductivo y contraste ultra-refractario. Ambos dominios tienen valor rector para esta colección, pero no reducen el alcance de la investigación a una sola tabla ni impiden posteriores dominios `Ω_M` si las restricciones del SV lo permiten.
+| Magnitud | Resultado |
+|---|---:|
+| `K_principal` | `{119,280,443}` |
+| `K_control` | `{120,281,442}` |
+| `K_Θ` | `{381,…,394}∪{397,…,412}∪{415,…,430}∪{433,…,443}` |
+| `|K_Θ|` | `57` |
+| `Θ_min` | `4.510 °C` |
+| `Θ_max` | `5.130 °C` |
+| `SV-443` | `5.130 °C` |
+| Residuales | `R_ZSV=R_ASV=R_Zfís=R_A=R_Θ=0` |
 
-En consecuencia, la pregunta por el número total de elementos estructurales no se responde mediante una cifra absoluta. Se responde mediante dominios finitos declarados, publicados, filtrados y sometidos a restricciones de validez. Esta colección presenta una fase fuerte y trazable del campo, no su clausura final.
+## Registros criptográficos y temporales
 
----
+Los registros siguientes permiten comprobar integridad, firma y existencia temporal de los archivos de publicación. Cualquier modificación material del archivo cambia su `SHA-256` y rompe la correspondencia con los registros asociados.
 
-## Mapa térmico rector
+### Publicación principal
 
-El dominio térmico inicial queda fijado por la tabla periódica estructural extendida del dominio `K_Θ`:
-
-`K_Θ = {381,…,394} ∪ {397,…,412} ∪ {415,…,430} ∪ {433,…,443}`
-
-`|K_Θ| = 57`
-
-`Θ_min = 4510 °C`
-
-`Θ_max = 5130 °C`
-
-`SV-381 = 4510 °C`
-
-`SV-443 = 5130 °C`
-
-La extensión `K_Θ⁺` permite estudiar, bajo restricciones de validez, umbrales superiores a `6000 °C`, `8000 °C` y `10000 °C`, con contraste ultra-refractario frente a familias contemporáneas de materiales de alta temperatura.
-
----
-
-## Ámbitos de investigación
-
-### Protección aeroespacial e hipersónica
-
-La colección permite orientar el análisis hacia bordes de ataque, escudos térmicos, superficies hipersónicas, toberas, cámaras, barreras de reentrada, estructuras sometidas a plasma, fricción extrema, radiación, gradientes térmicos y pérdida de integridad por redistribución energética. La lectura SV no sustituye ensayos físicos, pero permite fijar restricciones estructurales previas para ordenar candidatos, pares y familias materiales.
-
-### Ciclos frío-calor y choque térmico
-
-Los materiales extremos no se agotan en la temperatura máxima soportada. También requieren estabilidad frente a ciclos, gradientes, fatiga térmica, transición brusca entre frío y calor, expansión diferencial, pérdida de frontera, residual acumulado y degradación de identidad material. La colección incorpora este problema como ámbito propio.
-
-### Contención radiotérmica
-
-La colección contempla barreras radiotérmicas, protección frente a radiación, persistencia de frontera, disipación, absorción, residual y retorno. La contención radiotérmica se trata como problema estructural de compatibilidad, no como simple acumulación de resistencia térmica.
-
-### Materiales ultraligeros y alto rendimiento
-
-El régimen extremo exige articular resistencia térmica, baja masa estructural, estabilidad de frontera, compatibilidad de pares, enlace, aleación, retorno transductivo y persistencia bajo carga. La colección abre ese campo sin declarar fabricación inmediata ni usos industriales no contrastados.
-
-### Comparación con materiales contemporáneos
-
-El contraste con grafeno, acero, UHTC, carburos, nitruros y nuevas familias de materiales opera como referencia externa. El SV no absorbe esas familias como prueba automática de sus resultados; las utiliza como plano de comparación para evaluar umbral, límite, diferencia de dominio, residual y retorno.
-
----
-
-## Publicaciones vinculadas
-
-### 1. Tabla periódica estructural extendida del dominio térmico `K_Θ`
-
-**Título:** *Tabla periódica estructural extendida del dominio térmico K_theta: materiales por encima de 4500 °C*  
-**Fecha de publicación:** 06/06/2026  
-**Función:** fija el dominio térmico estructural positivo `K_Θ`, la columna vertebral `SV-119 → SV-280 → SV-443`, los controles adyacentes `SV-120`, `SV-281` y `SV-442`, el criterio de admisión térmica por encima de `4500 °C`, los residuales nulos y la frontera publicada en `SV-443 = 5130 °C`.
-
-### 2. Extensión del dominio térmico `K_Θ⁺`
-
-**Título:** *Adenda I. Extensión del dominio térmico K_Θ⁺ más allá de SV-443: crecimiento transductivo, frontera formal y contraste ultra-refractario*  
-**Fecha de publicación:** 06/06/2026  
-**Función:** estudia la prolongación formal del dominio térmico más allá de `SV-443`, con umbrales ampliados, crecimiento transductivo, frontera formal, casos negativos, residuales y contraste ultra-refractario frente a UHTC, sin proclamar síntesis ni materiales realizados.
-
-### 3. Catálogo de Pares Estructurales SV
-
-**Título:** *Catálogo de Pares Estructurales SV (CPS-SV): enlace, aleación y compatibilidad posicional desde los 118 elementos base hasta los 443 candidatos del dominio extendido*  
-**Fecha de publicación:** 10/05/2026  
-**Función:** analiza la compatibilidad estructural de pares entre los `118` elementos base y los `443` candidatos del dominio extendido, con lectura de enlace, aleación, compatibilidad posicional, admisión, rechazo y transición desde entrada aislada hacia familia material.
-
----
-
-## Tabla de orientación de dominios
-
-| Dominio | Estado | Función en la colección |
+| Archivo | Ruta | SHA-256 |
 |---|---|---|
-| `Ω₁₁₈` | Referencia externa de elementos reconocidos y base comparativa. | Permite distinguir tabla química contemporánea y extensión estructural SV. |
-| `Ω₄₄₃` | Dominio estructural publicado y recorrido. | Ordena candidatos, compatibilidades, pares y subdominios materiales. |
-| `K_Θ` | Subdominio térmico positivo publicado. | Agrupa las 57 entradas por encima de `4500 °C`. |
-| `K_Θ⁺` | Régimen ampliado de estudio. | Explora umbrales superiores y contraste ultra-refractario. |
-| `CPS-SV` | Catálogo de pares estructurales. | Evalúa enlace, aleación, compatibilidad posicional y tránsito hacia familias materiales. |
-| `Ω_M` | Dominio finito general no clausurado. | Permite futuras extensiones si atraviesan restricciones explícitas de validez. |
+| Markdown principal | [`tabla_periodica_estructural_extendida_dominio_termico_KTheta.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md) | `6bdc596ea86f5a3669c3c37261d5256fe2ef405f186c9913e5b5a8d7a1d3567b` |
+| Portada | [`imagenes/portada.png`](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/imagenes/portada.png) | `082b4aa8679776efcaa11766f4c9f528c25ed455cb7241096991a170c42df06f` |
 
----
+### Adenda I — suplemento técnico subordinado
 
-## Criterio de lectura
+| Archivo | Ruta | SHA-256 |
+|---|---|---|
+| Markdown de la adenda | [`adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md) | `642c47dd6d98746eebb0db3011637d03c3273d4f4b19887f446c0702970b555b` |
+| Firma de la adenda | [`registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md_signed.csig`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md_signed.csig) | `3ffac926d1f50410a0b77ec1b67b8c2a587ca14b6c154ec6be6b365e403ee0ac` |
+| Prueba OpenTimestamps de la adenda | [`registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots) | `f9135aad59d74472f9995bd1eb1e65096d7db124d5c6e6352d1341aebdbe4dd9` |
 
-La admisión estructural dentro del SV no equivale a aceptación IUPAC, síntesis experimental ni disponibilidad industrial. Cada resultado debe leerse por capas: dominio, regla generativa, transducción, residual, retorno, caso negativo, compatibilidad y eventual contraste material. La colección conserva esa separación para evitar confusión entre formulación estructural, hipótesis técnica, validación computacional, ensayo físico y aplicación industrial.
+### PDF firmado y prueba temporal
 
-La tabla periódica reconocida por la ciencia contemporánea, las hipótesis físico-relativistas sobre elementos superpesados y la tabla periódica estructural SV pertenecen a planos distintos. El SV no declara automáticamente que un candidato estructural sea elemento químico observado, sintetizado o aceptado por organismos externos. Declara condiciones de estructura, compatibilidad y retorno dentro de dominios formalmente especificados.
+| Archivo | Ruta | SHA-256 |
+|---|---|---|
+| PDF firmado | [`pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/pdf/Tabla%20peri%C3%B3dica%20estructural%20extendida%20del%20dominio%20t%C3%A9rmico%20K_%CE%98_signed.pdf) | `b46af2b038cbfd46ea07a526eddffad4adeb2f8497e8fc37fdfa1347e4c52bb2` |
+| Prueba OpenTimestamps del PDF firmado | [`pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf.ots`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/pdf/Tabla%20peri%C3%B3dica%20estructural%20extendida%20del%20dominio%20t%C3%A9rmico%20K_%CE%98_signed.pdf.ots) | `b9e768deca7acf9894b7d5451302ff92308482e2dd0c5363d5530c0357ed6b61` |
 
----
+Control local realizado sobre el PDF firmado:
 
-## Trazabilidad editorial
+```text
+Signature type: ETSI.CAdES.detached
+Signing hash algorithm: SHA-256
+Signed range: total document signed
+Signature validation: Signature is Valid
+```
 
-- **Colección PubPub / ITVIA:** https://www.itvia.online/materiales-extremos  
-- **DOI de la colección:** https://doi.org/10.21428/39829d0b.bf37c83a  
-- **Repositorio GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/materiales-extremos  
-- **Portada:** `imagenes/portada.png`
+### ZIP firmado y prueba temporal
 
----
+| Archivo | Ruta | SHA-256 |
+|---|---|---|
+| ZIP de preservación | [`descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip) | `263c0ccd5bfb1c0721255b051d9d9c19e7ba6d4bde22ec53b38ec32690fe88c8` |
+| Firma del ZIP | [`registros/tabla-periodica-estructural-extendida-dominio-termico.zip_signed.csig`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/tabla-periodica-estructural-extendida-dominio-termico.zip_signed.csig) | `12ed34a6cd3399158f229764181f92c4593a9ba5de480059c3d4e02f561ec85c` |
+| Prueba OpenTimestamps del ZIP | [`registros/tabla-periodica-estructural-extendida-dominio-termico.zip.ots`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/registros/tabla-periodica-estructural-extendida-dominio-termico.zip.ots) | `1d9cf49325354583678e396cc7e4b00076c6999da47fecb3e137330cb32187d1` |
 
-## Advertencia y reserva de derechos
+### Comprobación local de integridad
 
-Esta colección, sus textos, formulaciones, imágenes, tablas, estructuras de datos, nomenclatura, criterios de admisión, dominios, transductores, documentación asociada, selección y disposición de contenidos quedan protegidos por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO. Cualquier reproducción, distribución, comunicación pública, transformación, traducción, adaptación, incorporación a bases de datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas o desarrollos empresariales deberá ajustarse a la licencia indicada, contar con autorización expresa y por escrito de los titulares de derechos, o ampararse en una excepción legal aplicable.
+```bash
+sha256sum tabla_periodica_estructural_extendida_dominio_termico_KTheta.md
+sha256sum imagenes/portada.png
+sha256sum "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf"
+sha256sum "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf.ots"
+sha256sum descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip
+sha256sum registros/tabla-periodica-estructural-extendida-dominio-termico.zip_signed.csig
+sha256sum registros/tabla-periodica-estructural-extendida-dominio-termico.zip.ots
+sha256sum adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md
+sha256sum registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md_signed.csig
+sha256sum registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots
+```
 
-La licencia CC BY-NC-ND 4.0 no autoriza usos comerciales, explotación empresarial, transformación distribuida ni reutilización sustancial fuera de sus términos. La aplicación, implementación o explotación técnica de resultados, fórmulas, tablas, metodología, transductores, criterios de admisión, dominios, laboratorios o conclusiones en física, química, ciencia de materiales, ingeniería, inteligencia artificial u otros campos derivados queda reservada a la autorización expresa del autor cuando implique reproducción, transformación, comunicación pública, distribución, integración sustancial de la obra protegida, explotación comercial, desarrollo empresarial o uso no cubierto por la licencia. Nada de lo anterior limita los usos permitidos imperativamente por la ley.
+### Comprobación de firma PDF
 
----
+```bash
+pdfsig "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf"
+```
 
-## Notice and reservation of rights
+### Comprobación OpenTimestamps
 
-This collection, including its texts, formulations, images, tables, data structures, nomenclature, admission criteria, domains, transducers, associated documentation, selection and arrangement of contents, is protected by the author’s intellectual property rights and, where applicable, by the corresponding rights management through CEDRO. Any reproduction, distribution, public communication, transformation, translation, adaptation, incorporation into databases, training or evaluation of automated systems, integration into products, services, reports, software, models, catalogues, teaching materials, industrial materials, technical publications or business developments shall be carried out only in accordance with the indicated license, with the express written authorization of the rights holders, or under an applicable statutory exception.
+La prueba `.ots` debe verificarse siempre contra el archivo exacto al que corresponde:
 
-The CC BY-NC-ND 4.0 license does not authorize commercial use, business exploitation, distributed transformation or substantial reuse outside its terms. The application, implementation or technical exploitation of results, formulas, tables, methodology, transducers, admission criteria, domains, laboratories or conclusions in physics, chemistry, materials science, engineering, artificial intelligence or other derived fields is reserved to the express authorization of the author where it entails reproduction, transformation, public communication, distribution, substantial integration of the protected work, commercial exploitation, business development or any use not covered by the license. Nothing herein shall limit uses that are mandatorily permitted by law.
+```bash
+ots verify "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf.ots" -f "pdf/Tabla periódica estructural extendida del dominio térmico K_Θ_signed.pdf"
+ots verify registros/tabla-periodica-estructural-extendida-dominio-termico.zip.ots -f descargar-zip/tabla-periodica-estructural-extendida-dominio-termico.zip
+ots verify registros/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md.ots -f adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md
+```
+
+## Registros históricos en Internet Archive
+
+| Objeto preservado | URL histórica |
+|---|---|
+| Publicación Markdown en GitHub | https://web.archive.org/web/20260606104921/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/tabla_periodica_estructural_extendida_dominio_termico_KTheta.md |
+| Carpeta del repositorio en GitHub | https://web.archive.org/web/20260606105140/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico |
+| Adenda I Markdown en GitHub | https://web.archive.org/web/20260606154514/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md |
+
+## Adenda I: extensión formal `K_Θ⁺` más allá de `SV-443`
+
+La publicación matriz conserva `SV-443` como extremo térmico publicado dentro del dominio `k∈{1,…,443}`, con `Θ_max(443)=5.130 °C`. La adenda no rectifica ni sustituye ese resultado: estudia una prolongación formal posterior, subordinada y condicionada, definida como `K_Θ⁺`, para preguntar qué ocurre si la frontera `443` se somete a presión térmica controlada.
+
+La adenda fija ventanas finitas de umbral `>5.130 °C`, `>6.000 °C`, `>8.000 °C` y `>10.000 °C`; declara entradas-guía `k=444`, `531`, `731` y `931`; exige residuales de coherencia nulos; incorpora casos negativos `k=443`, `530`, `730` y `930`; y contrasta la extensión con materiales ultra-refractarios contemporáneos como el sistema `TaC-HfC`, sin proclamar síntesis, elemento IUPAC ni material realizado.
+
+| Campo | Valor |
+|---|---|
+| DOI PubPub/Crossref de la adenda | https://doi.org/10.21428/39829d0b.c5e1621c |
+| Archivo Markdown | [`adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md`](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md) |
+| Relación con la matriz | Suplemento técnico subordinado; no rectifica, no sustituye y no amplía retroactivamente la publicación matriz. |
+| Registro histórico Internet Archive | https://web.archive.org/web/20260606154514/https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico/adenda/adenda-i-extension-dominio-termico-ktheta-mas-alla-sv-443.md |
+
+## Licencia, reserva de derechos y uso
+
+La publicación se distribuye bajo licencia `CC BY-NC-ND 4.0`, con protección CEDRO y reserva expresa de derechos del autor. El uso comercial, la explotación empresarial, la transformación distribuida, la integración sustancial de la obra protegida o la incorporación de sus resultados, fórmulas, tablas, nomenclatura, metodología, transductores, criterios de admisión, dominios, laboratorios o conclusiones en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas o desarrollos empresariales requiere autorización expresa del autor cuando no quede cubierto por la licencia o por una excepción legal aplicable.
