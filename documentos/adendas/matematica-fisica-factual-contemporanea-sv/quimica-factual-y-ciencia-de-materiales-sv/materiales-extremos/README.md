@@ -18,17 +18,36 @@
 
 ## Objeto de la colección
 
-**Materiales extremos del Sistema Vectorial SV** reúne trabajos dedicados a la formulación, extensión, contraste y aplicación científica de dominios estructurales de alta exigencia térmica, mecánica, radiativa y transductiva dentro del Sistema Vectorial SV. La colección toma `Ω₄₄₃`, `K_Θ` y `K_Θ⁺` como dominios publicados de arranque, no como clausura final de la tabla periódica estructural SV. El Sistema Vectorial SV no declara un número absoluto y definitivo de elementos estructurales: trabaja mediante dominios finitos sucesivos, generados, filtrados y sometidos a restricciones explícitas de admisión, frontera, residual, trazabilidad, compatibilidad y retorno. En consecuencia, `443` designa una frontera publicada de esta fase, no un límite universal del campo.
+**Materiales extremos del Sistema Vectorial SV** reúne trabajos dedicados a la exploración estructural de materiales sometidos a exigencias térmicas, mecánicas, radiativas, aeroespaciales, hipersónicas, cíclicas y transductivas. La colección no queda reducida a una tabla periódica ni a una lista cerrada de candidatos: organiza un campo de investigación donde los dominios estructurales publicados, los regímenes térmicos ampliados, las restricciones de admisión, los pares compatibles, las familias materiales y los usos de alta exigencia se leen de forma conjunta.
 
-Bajo esta lectura, los materiales extremos no quedan reducidos al intervalo térmico inicialmente recorrido. `K_Θ` fija el dominio positivo por encima de `4500 °C`; `K_Θ⁺` permite estudiar extensiones superiores bajo crecimiento transductivo, contraste ultra-refractario y restricciones de validez; y el catálogo de pares estructurales aporta el tránsito desde entrada aislada hacia compatibilidad, enlace, aleación y familia material. La colección queda así orientada a regímenes térmicos ampliados, protección aeroespacial e hipersónica, ciclos frío-calor, contención radiotérmica, materiales ultraligeros y estructuras de alto rendimiento, sin confundir formulación estructural con síntesis experimental ni disponibilidad industrial inmediata.
+El punto de partida visible es el dominio `Ω₄₄₃`, con su subdominio térmico `K_Θ` por encima de `4500 °C` y su extensión `K_Θ⁺`, pero esos dominios no clausuran la tabla periódica estructural SV ni agotan la investigación en materiales extremos. En el SV, una frontera publicada es una frontera de trabajo: permite fijar resultados auditables, reproducibles y trazables sin transformar una fase finita en límite universal. El número `443` designa el dominio actualmente publicado y recorrido en esta línea, no la cifra final de elementos estructurales posibles.
+
+Bajo esta lectura, la colección da soporte a una investigación más amplia: materiales ultra-refractarios, protección aeroespacial e hipersónica, ciclos frío-calor, choque térmico, contención radiotérmica, estructuras ultraligeras, componentes de alto rendimiento, contraste con grafeno, acero, UHTC, carburos, nitruros, nuevas familias de materiales y compatibilidad estructural de pares. La formulación estructural no se confunde con síntesis experimental, aceptación IUPAC, fabricación industrial ni disponibilidad técnica inmediata.
+
+---
+
+## Alcance general
+
+La colección se organiza sobre cuatro planos complementarios.
+
+| Plano | Función |
+|---|---|
+| Extensión periódica estructural | Formula dominios finitos sucesivos `Ω_M` sin declarar un número absoluto y definitivo de elementos estructurales. |
+| Dominio térmico | Identifica regiones de alta exigencia térmica, empezando por `K_Θ` y su extensión `K_Θ⁺`. |
+| Compatibilidad material | Evalúa pares, enlace, aleación, transición hacia familias materiales y restricciones de admisión estructural. |
+| Aplicación de alta exigencia | Orienta el contraste hacia aeroespacial, hipersónica, ciclos térmicos, radiación, ligereza estructural y rendimiento extremo. |
+
+La colección opera, por tanto, como matriz de investigación para materiales extremos: parte de dominios publicados, conserva restricciones explícitas y permite nuevas extensiones si cada ampliación mantiene dominio, frontera, residual, trazabilidad, compatibilidad y retorno.
 
 ---
 
 ## Dominio publicado y campo no clausurado
 
-La colección se apoya en dominios finitos declarados. Esta decisión permite publicar resultados auditables, reproducibles y trazables sin convertir una frontera de trabajo en límite absoluto del Sistema Vectorial SV. El dominio `Ω₄₄₃` corresponde al catálogo estructural publicado hasta `443` candidatos; `K_Θ` identifica el subdominio térmico positivo por encima de `4500 °C`; y `K_Θ⁺` estudia la prolongación formal de ese régimen hacia umbrales térmicos superiores.
+El dominio `Ω₄₄₃` corresponde al catálogo estructural actualmente publicado hasta `443` candidatos. Este dominio permite ordenar resultados, evaluar compatibilidades y construir subdominios especializados, pero no debe leerse como cierre definitivo de la extensión periódica estructural SV.
 
-La extensión periódica estructural del SV admite formulación general mediante dominios `Ω_M` y operadores de prolongación sometidos a restricciones de persistencia, frontera, residual, identidad, trazabilidad, compatibilidad superior y retorno. Por tanto, la pregunta por el número total de elementos estructurales no se responde mediante una cifra absoluta, sino mediante el dominio finito declarado en cada fase de trabajo. Hasta ahora, esta línea publica `Ω₄₄₃`, `K_Θ` y `K_Θ⁺`; el campo estructural no queda agotado por esos dominios.
+El dominio `K_Θ` selecciona las entradas con umbral térmico superior a `4500 °C`, y `K_Θ⁺` estudia la prolongación formal hacia ventanas superiores bajo crecimiento transductivo y contraste ultra-refractario. Ambos dominios tienen valor rector para esta colección, pero no reducen el alcance de la investigación a una sola tabla ni impiden posteriores dominios `Ω_M` si las restricciones del SV lo permiten.
+
+En consecuencia, la pregunta por el número total de elementos estructurales no se responde mediante una cifra absoluta. Se responde mediante dominios finitos declarados, publicados, filtrados y sometidos a restricciones de validez. Esta colección presenta una fase fuerte y trazable del campo, no su clausura final.
 
 ---
 
@@ -48,7 +67,31 @@ El dominio térmico inicial queda fijado por la tabla periódica estructural ext
 
 `SV-443 = 5130 °C`
 
-El crecimiento ampliado `K_Θ⁺` permite estudiar, bajo régimen transductivo y contraste ultra-refractario, ventanas superiores a `6000 °C`, `8000 °C` y `10000 °C`, sin convertir la extensión formal en síntesis material proclamada.
+La extensión `K_Θ⁺` permite estudiar, bajo restricciones de validez, umbrales superiores a `6000 °C`, `8000 °C` y `10000 °C`, con contraste ultra-refractario frente a familias contemporáneas de materiales de alta temperatura.
+
+---
+
+## Ámbitos de investigación
+
+### Protección aeroespacial e hipersónica
+
+La colección permite orientar el análisis hacia bordes de ataque, escudos térmicos, superficies hipersónicas, toberas, cámaras, barreras de reentrada, estructuras sometidas a plasma, fricción extrema, radiación, gradientes térmicos y pérdida de integridad por redistribución energética. La lectura SV no sustituye ensayos físicos, pero permite fijar restricciones estructurales previas para ordenar candidatos, pares y familias materiales.
+
+### Ciclos frío-calor y choque térmico
+
+Los materiales extremos no se agotan en la temperatura máxima soportada. También requieren estabilidad frente a ciclos, gradientes, fatiga térmica, transición brusca entre frío y calor, expansión diferencial, pérdida de frontera, residual acumulado y degradación de identidad material. La colección incorpora este problema como ámbito propio.
+
+### Contención radiotérmica
+
+La colección contempla barreras radiotérmicas, protección frente a radiación, persistencia de frontera, disipación, absorción, residual y retorno. La contención radiotérmica se trata como problema estructural de compatibilidad, no como simple acumulación de resistencia térmica.
+
+### Materiales ultraligeros y alto rendimiento
+
+El régimen extremo exige articular resistencia térmica, baja masa estructural, estabilidad de frontera, compatibilidad de pares, enlace, aleación, retorno transductivo y persistencia bajo carga. La colección abre ese campo sin declarar fabricación inmediata ni usos industriales no contrastados.
+
+### Comparación con materiales contemporáneos
+
+El contraste con grafeno, acero, UHTC, carburos, nitruros y nuevas familias de materiales opera como referencia externa. El SV no absorbe esas familias como prueba automática de sus resultados; las utiliza como plano de comparación para evaluar umbral, límite, diferencia de dominio, residual y retorno.
 
 ---
 
@@ -70,25 +113,20 @@ El crecimiento ampliado `K_Θ⁺` permite estudiar, bajo régimen transductivo y
 
 **Título:** *Catálogo de Pares Estructurales SV (CPS-SV): enlace, aleación y compatibilidad posicional desde los 118 elementos base hasta los 443 candidatos del dominio extendido*  
 **Fecha de publicación:** 10/05/2026  
-**Función:** analiza la compatibilidad estructural de pares entre los `118` elementos base y los `443` candidatos del dominio extendido, con lectura de enlace, aleación, compatibilidad posicional, admisión, rechazo y transición desde elemento aislado hacia familias materiales.
+**Función:** analiza la compatibilidad estructural de pares entre los `118` elementos base y los `443` candidatos del dominio extendido, con lectura de enlace, aleación, compatibilidad posicional, admisión, rechazo y transición desde entrada aislada hacia familia material.
 
 ---
 
-## Alcance técnico
+## Tabla de orientación de dominios
 
-Esta colección organiza la investigación en materiales extremos desde una secuencia de dominios y retornos:
-
-| Plano | Función |
-|---|---|
-| Dominio `Ω₄₄₃` | Catálogo estructural publicado hasta `443` candidatos, sin clausura universal del campo. |
-| Dominio térmico `K_Θ` | Identificación estructural de entradas por encima de `4500 °C`. |
-| Extensión `K_Θ⁺` | Proyección transductiva hacia umbrales superiores a `6000 °C`, `8000 °C` y `10000 °C`. |
-| CPS-SV | Compatibilidad de pares, enlace, aleación y transición hacia familias materiales. |
-| Protección aeroespacial | Bordes de ataque, escudos, superficies hipersónicas, toberas, cámaras y sistemas sometidos a exigencia térmica extrema. |
-| Ciclos frío-calor | Choque térmico, gradientes extremos, estabilidad estructural y fatiga térmica. |
-| Contención radiotérmica | Protección radiativa, seguridad humana y barreras de alto rendimiento. |
-| Materiales ultraligeros | Resistencia específica, estructuras de baja masa y aplicaciones aeroespaciales. |
-| Comparación técnica | Contraste con grafeno, acero, UHTC, carburos, nitruros y nuevas familias de materiales. |
+| Dominio | Estado | Función en la colección |
+|---|---|---|
+| `Ω₁₁₈` | Referencia externa de elementos reconocidos y base comparativa. | Permite distinguir tabla química contemporánea y extensión estructural SV. |
+| `Ω₄₄₃` | Dominio estructural publicado y recorrido. | Ordena candidatos, compatibilidades, pares y subdominios materiales. |
+| `K_Θ` | Subdominio térmico positivo publicado. | Agrupa las 57 entradas por encima de `4500 °C`. |
+| `K_Θ⁺` | Régimen ampliado de estudio. | Explora umbrales superiores y contraste ultra-refractario. |
+| `CPS-SV` | Catálogo de pares estructurales. | Evalúa enlace, aleación, compatibilidad posicional y tránsito hacia familias materiales. |
+| `Ω_M` | Dominio finito general no clausurado. | Permite futuras extensiones si atraviesan restricciones explícitas de validez. |
 
 ---
 
