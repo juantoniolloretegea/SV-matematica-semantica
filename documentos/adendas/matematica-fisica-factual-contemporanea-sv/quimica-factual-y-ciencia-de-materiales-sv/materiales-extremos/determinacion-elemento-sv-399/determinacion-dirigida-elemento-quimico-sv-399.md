@@ -2,7 +2,7 @@
 
 (Microdominios de transición de Tungsteno/Wolframio (W), situados en contactos, bordes, inclusiones, venillas, halos o zonas de reemplazo, asociados a Uranio (U), Torio (Th), tierras raras —REE/ETR, Rare Earth Elements / Elementos de Tierras Raras— y Zirconio (Zr): protocolo piloto de 16 semanas, medios técnicos, plantilla científica, controles NORM —naturally occurring radioactive material / materiales radiactivos de origen natural— y coste estimado)
 
-© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea |[DOI: 10.21428/39829d0b.5211d837](https://doi.org/10.21428/39829d0b.5211d837) ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 09/06/2026 |
+© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea |[DOI: 10.21428/39829d0b.5211d837](https://doi.org/10.21428/39829d0b.5211d837) | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 09/06/2026 |
 
 URL canónica: https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/materiales-extremos/determinacion-elemento-sv-399/determinacion-dirigida-elemento-quimico-sv-399.md
 
