@@ -1426,50 +1426,42 @@ La Ruta 2 ofrece mayor profundidad de localización porque no presupone que la p
 <thead>
 <tr class="header">
 <th><ul>
-<li></li>
-<li>C r i t e r i o</li>
-<li></li>
-<li></li>
-</ul></th>
+<li>Criterio</li>
+</th>
 <th><strong>Ruta 1</strong></th>
 <th><ul>
-<li></li>
-<li>R u t a 2</li>
-<li></li>
-<li></li>
+<li>Ruta 2</li>
 </ul></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>P r e g u n t a r e c t o r a</td>
+<td>Pregunta rectora</td>
 <td>¿Existe residual actínico-refractario SV-399 en microfronteras de scheelita/wolframita?</td>
-<td>¿ D ó n d e p u e d e a l o j a r s e <code>S V - 3 9 9 _ Ψ</code> c o m o p r e s e n c i a r e s i d u a l u l t r a m i n o r i t a r i a e n a n f i t r i o n e s c o m p u e s t o s ?</td>
+<td>¿ ¿Dónde puede alojarse SV-399_Ψ como presencia residual ultraminoritaria en anfitriones compuestos?</td>
 </tr>
 <tr class="even">
-<td>P u n t o d e p a r t i d a</td>
+<td>Punto de partida</td>
 <td>Diana SV-399 definida por <code>Ac+3Og+W</code>.</td>
-<td>P e r s i s t e n c i a m a t e r i a l , r e d a n f i t r i o n a y a l o j a m i e n t o <code>Ψ</code> .</td>
+<td>Persistencia material, red anfitriona y alojamiento Ψ.</td>
 </tr>
 <tr class="odd">
-<td>S o p o r t e m a t e r i a l i n i c i a l</td>
+<td>Soporte material inicial</td>
 <td>Scheelita, wolframita y microdominios W–U/Th–REE/Zr.</td>
-<td>m o l é c u l a s c o m p u e s t a s , c o m p l e j o s l o c a l e s y r e d e s m i n e r a l e s a n f i t r i o n a s , d e f e c t o s , i n c l u s i o n e s , b o r d e s y s u s t i t u c i o n e s .</td>
+<td>moléculas compuestas, complejos locales y redes minerales anfitrionas, defectos, inclusiones, bordes y sustituciones.</td>
 </tr>
 <tr class="even">
-<td>R i e s g o p r i n c i p a l</td>
+<td>Riesgo principal</td>
 <td>No mirar fuera de la matriz inicial si el residual está alojado en otro anfitrión.</td>
-<td>A b r i r d e m a s i a d o e l c a m p o y c o n f u n d i r t r a z a s o r d i n a r i a s c o n <code>S V - 3 9 9 _ Ψ</code> .</td>
-</tr>
+<td>Abrir demasiado el campo y confundir trazas ordinarias con SV-399_Ψ.</tr>
 <tr class="odd">
-<td>F o r t a l e z a p r i n c i p a l</td>
+<td>Fortaleza principal</td>
 <td>Cierre instrumental inmediato y diana mineralógica fuerte.</td>
-<td>P r o f u n d i d a d d e l o c a l i z a c i ó n y r e d u c c i ó n d e p u n t o s c i e g o s d e a l o j a m i e n t o .</td>
-</tr>
+<td>Profundidad de localización y reducción de puntos ciegos de alojamiento.</tr>
 <tr class="even">
-<td>D i c t a m e n e s p e r a d o</td>
+<td>Dictamen esperado</td>
 <td>Candidato, descarte o <code>U</code> por microdominio.</td>
-<td>C a n d i d a t o , d e s c a r t e o <code>U</code> p o r a n f i t r i ó n y r e g i ó n i n t e r n a .</td>
+<td>Candidato, descarte o U por anfitrión y región interna.</td>
 </tr>
 </tbody>
 </table>
