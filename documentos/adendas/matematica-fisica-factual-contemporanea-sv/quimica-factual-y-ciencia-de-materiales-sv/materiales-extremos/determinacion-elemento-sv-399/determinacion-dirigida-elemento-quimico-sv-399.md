@@ -1425,13 +1425,13 @@ La Ruta 2 ofrece mayor profundidad de localización porque no presupone que la p
 </colgroup>
 <thead>
 <tr class="header">
+<th>
+<th><strong>Criterio</strong></th>
 <th><ul>
-<li>Criterio</li>
-</th>
 <th><strong>Ruta 1</strong></th>
 <th><ul>
-<li>Ruta 2</li>
-</ul></th>
+<th><strong>Ruta 2</strong></th>
+<th><ul>
 </tr>
 </thead>
 <tbody>
