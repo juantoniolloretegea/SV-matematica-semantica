@@ -104,8 +104,7 @@ VIII.6. Anexo A. Tabla de restricciones de admisión
 VIII.7. Anexo B. Matriz de exclusión  
 VIII.8. Anexo C. Glosario técnico del estudio  
 VIII.9. Anexo D. Secuencia lógica de dictamen  
-VIII.10. Anexo E. Corolario geológico-gasífero de las microfronteras W–U/Th–REE/Zr: hidrógeno natural, helio radiogénico y dominios W–Sn/W
-
+VIII.10. Anexo E. Corolario geológico-gasífero de las microfronteras W–U/Th–REE/Zr: hidrógeno natural, helio radiogénico y dominios W–Sn/W 
 ## Clásulas legales
 
 ---
