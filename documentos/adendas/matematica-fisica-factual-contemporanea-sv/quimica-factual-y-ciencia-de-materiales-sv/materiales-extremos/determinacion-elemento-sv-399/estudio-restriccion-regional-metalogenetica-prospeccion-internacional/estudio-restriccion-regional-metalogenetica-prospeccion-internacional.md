@@ -1,4 +1,4 @@
-# Directed determination of the chemical element SV-399 — Actinium (Ac) + 3 Oganesson (Og) + Tungsten/Wolfram (W)
+# Directed determination of the chemical element SV-399 — Actinium (Ac) + 3 Oganesson (Og) + Tungsten/Wolfram (W): Spain and Portugal as priority prospecting targets
 
 ### Regional-metallogenetic restriction, credibility index, Ω118 exclusion matrix and geological admissibility protocol for international prospecting.
 
