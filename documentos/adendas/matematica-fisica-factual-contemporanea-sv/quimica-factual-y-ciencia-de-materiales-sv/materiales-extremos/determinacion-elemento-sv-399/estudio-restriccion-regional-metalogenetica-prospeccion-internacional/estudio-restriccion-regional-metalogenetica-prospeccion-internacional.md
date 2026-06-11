@@ -21,7 +21,7 @@
 
 **Objeto.** Ordenar dominios internacionales W–Sn/W y microfronteras W–U/Th–REE/Zr para determinar dónde debe comenzar una prospección dirigida de SV-399_Ψ. Su función queda limitada a la admisión regional, geológico-mineralógica y analítica previa al ensayo material: ordena dominios, restricciones, técnicas, exclusiones y salidas de decisión bajo sustracción Ω118 y confirmación instrumental no redundante, sin declarar hallazgo ni reconocimiento institucional de un elemento ordinario.
 
-**Alcance.** Se conserva un núcleo ibérico de máxima prioridad —Barruecopardo–Salamanca, Panasqueira–Beira Baixa / Zona Centroibérica, La Parrilla–Cáceres y Galicia—, pero no queda limitado a España y Portugal. Incorpora dominios europeos W–Sn/W, extensiones extraeuropeas con conjunto externo de datos, junto con criterios de exclusión para países, regiones o muestras que no alcancen dominio concreto, portador W, microfrontera, ventana W–U/Th–REE/Zr, trazabilidad y confirmación no redundante.
+**Alcance.** **Se conserva un núcleo ibérico de máxima prioridad —Barruecopardo–Salamanca, Panasqueira–Beira Baixa / Zona Centroibérica, La Parrilla–Cáceres y Galicia**—, pero no queda limitado a España y Portugal. Incorpora dominios europeos W–Sn/W, extensiones extraeuropeas con conjunto externo de datos, junto con criterios de exclusión para países, regiones o muestras que no alcancen dominio concreto, portador W, microfrontera, ventana W–U/Th–REE/Zr, trazabilidad y confirmación no redundante.
 
 ## Índice
 
