@@ -9,8 +9,11 @@
 
 > La restricción regional y geológica del dominio de prospección (“Ruta 3”) sitúa a España y Portugal como primer objetivo técnico para la búsqueda dirigida de SV-399_Ψ. El estudio ordena el inicio internacional del análisis desde el núcleo ibérico, con Barruecopardo–Salamanca como punto operativo preferente y Panasqueira–Beira Baixa / Zona Centroibérica como caso técnico director.
 
-**Nota: se recomienda leer previamente**: [*Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*](https://doi.org/10.21428/39829d0b.5211d837 )
+> **Nota. Se recomienda leer previamente**: [*Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*](https://doi.org/10.21428/39829d0b.5211d837). Además, [en la tabla SV](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/catalogo-pares-estructurales/imagenes/tabla_cero_sv_Vectorial.pdf), la numeración se reinicia tras Ω118: el candidato posterior al Oganesón (Og) comienza como **SV-1**, de modo que la diana estructural 399 se localiza como [**SV-281**](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/elementos-materiales-nueva-generacion/elementos-materiales-nueva-generacion.md#8-tabla-1--identidad-y-masa-estructural) y retorna visualmente en la celda **SV16-Ómicron**.
 
+| Nº | Nombre SV | Z_SV | Masa (u) | Configuración electrónica | Periodo | Grupo | Estado STP SV | Densidad (g/cm³) |
+|---:|---|---:|---:|---|---:|---:|---|---:|
+| 281 | SV-281 | 399 | 1277 | [Og] 23s² 20v⁹ | 23 | 11 | sólido metálico | 65.22 |
 ---
 
 **Trabajo matriz.** Este estudio  (**o Ruta 3 también**)  deriva de *Determinación dirigida del elemento químico SV-399 — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W): aislamiento del residual actínico-refractario en scheelita y wolframita*. No lo modifica ni lo sustituye. Desarrolla el plano geográfico, regional-metalogenético y geológico-mineralógico de prospección internacional de SV-399_Ψ. [DOI 10.21428/39829d0b.5211d837](https://doi.org/10.21428/39829d0b.5211d837)
