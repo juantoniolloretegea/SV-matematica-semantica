@@ -9,7 +9,7 @@
 
 > La restricción regional y geológica del dominio de prospección (“Ruta 3”) sitúa a España y Portugal como primer objetivo técnico para la búsqueda dirigida de SV-399_Ψ. El estudio ordena el inicio internacional del análisis desde el núcleo ibérico, con Barruecopardo–Salamanca como punto operativo preferente y Panasqueira–Beira Baixa / Zona Centroibérica como caso técnico director.
 
-** Nota: se recomienda leer previamente**: [*Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*](https://doi.org/10.21428/39829d0b.5211d837 )
+**Nota: se recomienda leer previamente**: [*Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*](https://doi.org/10.21428/39829d0b.5211d837 )
 
 ---
 
