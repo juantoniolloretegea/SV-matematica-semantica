@@ -13,7 +13,7 @@
 
 ---
 
-**Trabajo matriz.** Este estudio deriva de *Determinación dirigida del elemento químico SV-399 — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W): aislamiento del residual actínico-refractario en scheelita y wolframita*. No lo modifica ni lo sustituye. Desarrolla el plano geográfico, regional-metalogenético y geológico-mineralógico de prospección internacional de SV-399_Ψ. [DOI 10.21428/39829d0b.5211d837](https://doi.org/10.21428/39829d0b.5211d837)
+**Trabajo matriz.** Este estudio  (**o Ruta 3 también**)  deriva de *Determinación dirigida del elemento químico SV-399 — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W): aislamiento del residual actínico-refractario en scheelita y wolframita*. No lo modifica ni lo sustituye. Desarrolla el plano geográfico, regional-metalogenético y geológico-mineralógico de prospección internacional de SV-399_Ψ. [DOI 10.21428/39829d0b.5211d837](https://doi.org/10.21428/39829d0b.5211d837)
 
 **Objeto.** Ordenar dominios internacionales W–Sn/W y microfronteras W–U/Th–REE/Zr para determinar dónde debe comenzar una prospección dirigida de SV-399_Ψ. Su función queda limitada a la admisión regional, geológico-mineralógica y analítica previa al ensayo material: ordena dominios, restricciones, técnicas, exclusiones y salidas de decisión bajo sustracción Ω118 y confirmación instrumental no redundante, sin declarar hallazgo ni reconocimiento institucional de un elemento ordinario.
 
