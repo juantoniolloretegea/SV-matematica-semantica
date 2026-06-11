@@ -1,15 +1,13 @@
 # Directed determination of the chemical element SV-399 — Actinium (Ac) + 3 Oganesson (Og) + Tungsten/Wolfram (W)
 
-Regional-metallogenetic restriction, credibility index, Ω118 exclusion matrix and geological admissibility protocol for international prospecting.
+### Regional-metallogenetic restriction, credibility index, Ω118 exclusion matrix and geological admissibility protocol for international prospecting.
+
+<sub/>© 2026. Juan Antonio Lloret Egea. Obra protegida bajo licencia CC BY-NC-ND 4.0; quedan reservados todos los derechos no concedidos expresamente por dicha licencia. | DOI: 10.21428/39829d0b.5211d837 | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 11/06/2026 </sub>
 
 ---
 ![Portada de la publicación](portada.png)
 
 ----
-
-<sub/>© 2026. Juan Antonio Lloret Egea. Obra protegida bajo licencia CC BY-NC-ND 4.0; quedan reservados todos los derechos no concedidos expresamente por dicha licencia. | DOI: 10.21428/39829d0b.5211d837 | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 11/06/2026 </sub>
-
----
 
 > Se recomienda leer previamente: [*Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*](https://doi.org/10.21428/39829d0b.5211d837 )
 
@@ -108,8 +106,7 @@ VIII.8. Anexo C. Glosario técnico del estudio
 VIII.9. Anexo D. Secuencia lógica de dictamen  
 VIII.10. Anexo E. Corolario geológico-gasífero de las microfronteras W–U/Th–REE/Zr: hidrógeno natural, helio radiogénico y dominios W–Sn/W
 
-## ** Clásulas legales**
-
+## Clásulas legales
 
 ---
 
