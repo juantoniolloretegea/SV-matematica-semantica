@@ -7,8 +7,6 @@
 ---
 ![Portada de la publicación](portada.png)
 
-----
-
 > Se recomienda leer previamente: [*Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*](https://doi.org/10.21428/39829d0b.5211d837 )
 
 ---
