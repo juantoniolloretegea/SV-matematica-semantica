@@ -2,8 +2,8 @@
 
 ### Route 3 — Regional-metallogenetic restriction, credibility index, Ω118 exclusion matrix and geological admissibility protocol for international prospecting.
 
-<sub/>© 2026. Juan Antonio Lloret Egea. Obra protegida bajo licencia CC BY-NC-ND 4.0; quedan reservados todos los derechos no concedidos expresamente por dicha licencia. | DOI: 10.21428/39829d0b.5211d837 | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 11/06/2026 </sub>
-
+<sub/>© 2026. Juan Antonio Lloret Egea. [DOI 10.21428/39829d0b.11d9224e](https://doi.org/10.21428/39829d0b.11d9224e) Obra protegida bajo licencia CC BY-NC-ND 4.0; quedan reservados todos los derechos no concedidos expresamente por dicha licencia. | DOI: 10.21428/39829d0b.5211d837 | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Madrid, 11/06/2026 </sub>
+ 
 ---
 ![Portada de la publicación](portada.png)
 
