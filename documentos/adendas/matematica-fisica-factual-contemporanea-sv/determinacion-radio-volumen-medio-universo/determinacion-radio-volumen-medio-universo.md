@@ -21,24 +21,6 @@ Madrid, 12/06/2026
 
 ## Índice
 
-- [0. Prefacio](#0-prefacio)
-- [I. Resumen](#i-resumen)
-- [II. Abstract](#ii-abstract)
-- [III. Introducción al problema](#iii-introducción-al-problema)
-- [IV. Estado del arte](#iv-estado-del-arte)
-- [V. Alcance formal](#v-alcance-formal)
-- [VI. Teorema de la recta generatriz del Universo Físico observable](#vi-teorema-de-la-recta-generatriz-del-universo-físico-observable)
-- [VII. Ecuación del teorema](#vii-ecuación-del-teorema)
-- [VIII. Demostración](#viii-demostración)
-- [IX. Radio medio equivalente del Universo Físico observable](#ix-radio-medio-equivalente-del-universo-físico-observable)
-- [X. Patrón lunar](#x-patrón-lunar)
-- [XI. Distancia relativa media desde el centro de la Tierra hasta el límite de la esfera equivalente del Universo Físico observable](#xi-distancia-relativa-media-desde-el-centro-de-la-tierra-hasta-el-límite-de-la-esfera-equivalente-del-universo-físico-observable)
-- [XII. Conclusión](#xii-conclusión)
-- [XIII. Anexo A. Nodo exo-Ω, dominios heredados y parametrización formal no operacional desde la Recta-Ómicron SV16](#xiii-anexo-a-nodo-exo-ω-dominios-heredados-y-parametrización-formal-no-operacional-desde-la-recta-ómicron-sv16)
-- [XIV. Bibliografía](#xiv-bibliografía)
-  - [XIV.I. Referencias internas del Corpus SV citadas](#xivi-referencias-internas-del-corpus-sv-citadas)
-  - [XIV.II. Referencias externas de contraste y estado del arte](#xivii-referencias-externas-de-contraste-y-estado-del-arte)
-
 # 0. Prefacio 
 
 ## I. Resumen
