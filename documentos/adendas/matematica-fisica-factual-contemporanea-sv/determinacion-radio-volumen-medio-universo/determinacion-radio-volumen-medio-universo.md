@@ -1,6 +1,6 @@
 # Determinación formal del radio y del volumen medio equivalente del universo observable: clausura geométrica auxiliar, patrón lunar, Recta-Ómicron SV16 y nodo exo-Ω
 
-![Portada](portada.png)
+![Portada](portada.png) 
 ------------------------------------------------------------------------
 
 > **En síntesis**: **el radio** medio equivalente del Universo Físico
