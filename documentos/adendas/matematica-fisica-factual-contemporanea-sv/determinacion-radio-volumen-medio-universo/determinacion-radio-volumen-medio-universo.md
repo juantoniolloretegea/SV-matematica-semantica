@@ -1,28 +1,6 @@
----
-article:
-  elocation-id: determinacion-del-radio-y-del-volumen-medio-del-universo-observable
-author:
-- Juan Antonio Lloret Egea
-bibliography: /tmp/tmp-20x6Dw1Q5HFB1Z.json
-copyright:
-  link: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-  text: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-    International License
-  type: CC-BY-NC-ND
-csl: /app/dist/server/server/utils/citations/citeStyles/apa-7th-edition.csl
-journal:
-  publisher-name: IA eñ™ --- La Biblia de la IA™ · ISSN 2695-6411 ·
-    Instituto Tecnológico Virtual de la Inteligencia Artificial para el
-    Español (ITVIA).
-  title: IA eñ ™
-link-citations: true
-title: "Determinación formal del radio y del volumen medio equivalente del universo
-  observable: clausura geométrica auxiliar, patrón lunar, Recta-Ómicron SV16 y nodo exo-Ω"
-uri: "https://www.itvia.online/pub/determinacion-del-radio-y-del-volumen-medio-del-universo-observable"
----
+# Determinación formal del radio y del volumen medio equivalente del universo observable: clausura geométrica auxiliar, patrón lunar, Recta-Ómicron SV16 y nodo exo-Ω
 
-![](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p22342cee-7bd4-4b50-a2f2-75bc9f7196c2/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-31781377842206.png){#ngyhdct7zag}
-
+![Portada](portada.png)
 ------------------------------------------------------------------------
 
 > **En síntesis**: **el radio** medio equivalente del Universo Físico
@@ -34,51 +12,52 @@ uri: "https://www.itvia.online/pub/determinacion-del-radio-y-del-volumen-medio-d
 
 © 2026. Juan Antonio Lloret Egea. Obra protegida bajo licencia CC
 BY-NC-ND 4.0; quedan reservados todos los derechos no concedidos
-expresamente por esta licencia. \| ORCID: 0000-0002-6634-3351 \|
+expresamente por esta licencia. | ORCID: 0000-0002-6634-3351 |
 Instituto Tecnológico Virtual de la Inteligencia Artificial para el
-Español (ITVIA) \| IA eñ™ --- La Biblia de la IA™ \| ISSN 2695-6411 \|
+Español (ITVIA) | IA eñ™ --- La Biblia de la IA™ | ISSN 2695-6411 |
 Madrid, 12/06/2026
 
 ------------------------------------------------------------------------
 
-# **Índice** {#ndice}
+## Índice
 
-## 0. Prefacio 
+- [0. Prefacio](#0-prefacio)
+- [I. Resumen](#i-resumen)
+- [II. Abstract](#ii-abstract)
+- [III. Introducción al problema](#iii-introducción-al-problema)
+- [IV. Estado del arte](#iv-estado-del-arte)
+- [V. Alcance formal](#v-alcance-formal)
+- [VI. Teorema de la recta generatriz del Universo Físico observable](#vi-teorema-de-la-recta-generatriz-del-universo-físico-observable)
+- [VII. Ecuación del teorema](#vii-ecuación-del-teorema)
+- [VIII. Demostración](#viii-demostración)
+- [IX. Radio medio equivalente del Universo Físico observable](#ix-radio-medio-equivalente-del-universo-físico-observable)
+- [X. Patrón lunar](#x-patrón-lunar)
+- [XI. Distancia relativa media desde el centro de la Tierra hasta el límite de la esfera equivalente del Universo Físico observable](#xi-distancia-relativa-media-desde-el-centro-de-la-tierra-hasta-el-límite-de-la-esfera-equivalente-del-universo-físico-observable)
+- [XII. Conclusión](#xii-conclusión)
+- [XIII. Anexo A. Nodo exo-Ω, dominios heredados y parametrización formal no operacional desde la Recta-Ómicron SV16](#xiii-anexo-a-nodo-exo-ω-dominios-heredados-y-parametrización-formal-no-operacional-desde-la-recta-ómicron-sv16)
+- [XIV. Bibliografía](#xiv-bibliografía)
+  - [XIV.I. Referencias internas del Corpus SV citadas](#xivi-referencias-internas-del-corpus-sv-citadas)
+  - [XIV.II. Referencias externas de contraste y estado del arte](#xivii-referencias-externas-de-contraste-y-estado-del-arte)
 
-## I. Resumen  {#i-resumen}
+# 0. Prefacio 
 
-## II. Abstract  {#ii-abstract}
-
-## III. Introducción al problema  {#iii-introduccin-al-problema}
-
-## IV. Estado del arte  {#iv-estado-del-arte}
-
-## V. Alcance formal  {#v-alcance-formal}
-
-## VI. Teorema de la recta generatriz del Universo Físico observable  {#vi-teorema-de-la-recta-generatriz-del-universo-fsico-observable}
-
-## VII. Ecuación del teorema  {#vii-ecuacin-del-teorema}
-
-## VIII. Demostración  {#viii-demostracin}
-
-## IX. Radio medio equivalente del Universo Físico observable  {#ix-radio-medio-equivalente-del-universo-fsico-observable}
-
-## X. Patrón lunar  {#x-patrn-lunar}
-
-## XI. Distancia relativa media desde el centro de la Tierra hasta el límite de la esfera equivalente del Universo Físico observable  {#xi-distancia-relativa-media-desde-el-centro-de-la-tierra-hasta-el-lmite-de-la-esfera-equivalente-del-universo-fsico-observable}
-
-## XII. Conclusión  {#xii-conclusin}
-
-## XIII. Anexo A. Nodo exo-Ω, dominios heredados y parametrización formal no operacional desde la Recta-Ómicron SV16 {#xiii-anexo-a-nodo-exo-omega-dominios-heredados-y-parametrizacion-formal-no-operacional-desde-la-recta-omicron-sv16}
-
-## XIV. Bibliografía  {#xiv-bibliografa}
-
-## XIV.I. Referencias internas del Corpus SV citadas  {#xivi-referencias-internas-del-corpus-sv-citadas}
-
-## XIV.II. Referencias externas de contraste y estado del arte {#xivii-referencias-externas-de-contraste-y-estado-del-arte}
-
-# 0. Prefacio {#prefacio}
-
+## I. Resumen
+## II. Abstract
+## III. Introducción al problema
+## IV. Estado del arte
+## V. Alcance formal
+## VI. Teorema de la recta generatriz del Universo Físico observable
+## VII. Ecuación del teorema
+## VIII. Demostración
+## IX. Radio medio equivalente del Universo Físico observable
+## X. Patrón lunar
+## XI. Distancia relativa media desde el centro de la Tierra hasta el límite de la esfera equivalente del Universo Físico observable
+## XII. Conclusión
+## XIII. Anexo A. Nodo exo-Ω, dominios heredados y parametrización formal no operacional desde la Recta-Ómicron SV16
+## XIV. Bibliografía
+## XIV.I. Referencias internas del Corpus SV citadas
+## XIV.II. Referencias externas de contraste y estado del arte
+# 0. Prefacio
 Se fija una determinación cosmométrica formal del Universo Físico observable dentro del Sistema Vectorial SV y se prolonga, mediante anexo propio, hacia una parametrización no operacional de observables, dominios heredados y nodo `exo-Ω` sobre la `Recta-Ómicron SV16` (`Recta_Οmi_SV16`). El desarrollo no se presenta como descubrimiento originario del tamaño cosmológico del universo observable: adopta un diámetro externo de contraste, declara su dominio, fija una clausura geométrica auxiliar, deriva el radio medio equivalente, calcula el volumen esférico asociado, devuelve el resultado mediante patrón lunar y otras escalas de lectura, y sitúa el límite equivalente como nodo formal de transición hacia dominios heredados o descendentes.
 
 En este marco, la fuente de validez del SV no es una autorización tomada de la cosmología contemporánea ni una cautela importada desde un marco externo; véase, a este respecto, el `Anexo A. Trivialización, TODO/NADA e Imperfección: la terna (1-0-U), la U honesta y el corolario de transducción no confinante`. En el régimen propio del SV, la validez procede de la declaración del dominio, la restricción `Ω_F ≠ 𝓣`, la tipificación del espacio, la definición del vector director, el cierre proyectivo, la conservación del residual, el retorno metrológico y el cálculo. Los datos externos —diámetro observable de contraste, año luz juliano, distancia media Tierra–Luna, unidad astronómica, parsec, cosmometría contemporánea, navegación espacial, catálogos y técnicas de seguimiento— entran como materiales de contraste y transducción. El SV no se subordina a ellos como fuente constitutiva de verdad: los sitúa en su plano, declara su función y explicita las condiciones bajo las cuales pueden retornar sin confundirse con fundamento.
@@ -89,8 +68,7 @@ El anexo no formula un sistema de guiado, navegación, seguimiento, efemérides,
 
 Por ello, conviene leer el desarrollo como una unidad. No hay un cálculo cosmométrico por un lado y una aplicación aeroespacial operacional por otro; hay una misma arquitectura de distancia absoluta formal, coordenada auxiliar, distancia relativa, recta generatriz, tramo operativo, herencia de dominios y retorno. La historia de la ciencia ya mostró con Eratóstenes, Hiparco, Al-Biruni y Newton que se pueden calcular dominios sin recorrerlos materialmente. El SV asume esa tradición y la lleva a una formulación propia: dominio declarado, frontera, transducción, residual, retorno y resultado calculado. La aportación no consiste en descubrir el diámetro externo del universo observable, sino en gobernar su admisión formal, su clausura auxiliar y su posible lectura como unidad formal de dominio sin confundirla con la totalidad absoluta.
 
-# I. Resumen {#i-resumen}
-
+# I. Resumen
 Se determinan el radio medio equivalente, el volumen esférico auxiliar, el patrón lunar y la distancia relativa media desde el centro de la Tierra hasta el límite de la esfera perfecta equivalente del Universo Físico observable, bajo la restricción formal `Ω_F ≠ 𝓣`. La determinación no mide la totalidad absoluta ni transforma el horizonte observable en borde ontológico; declara un dominio físico observable retornado, una clausura geométrica auxiliar, un modelo esférico equivalente, un transductor metrológico y un residual de lectura. En ese marco, el diámetro de contraste `93.000.000.000 ly`, el año luz juliano `1 ly = 9.460.730.472.580,8 km` y la distancia media Tierra–Luna `LD := 384.400 km` operan como magnitudes externas de contraste, no como fundamentos del Sistema Vectorial SV (Encyclopaedia Britannica, 2026b; International Astronomical Union, s. f.; National Aeronautics and Space Administration, s. f.-b).
 
 La aportación formal se articula mediante el teorema de la recta generatriz del Universo Físico observable, denominada internamente `Recta-Ómicron SV16` (`Recta_Οmi_SV16`). Se declara un espacio afín tipado `𝔼_Ω^SV := E_A^SV × E_R^SV × E_D^SV`, un espacio vectorial residual asociado `𝓡_Ω^SV := V_A^SV × V_R^SV × V_D^SV`, un origen formal tipado `O_∅`, un punto terminal interno `P_Ω^SV`, un vector director `v_Ω := Δ(O_∅→P_Ω^SV)` y un tramo operativo `ℓ_{Ω,[0,1]}^SV`. La ecuación local `𝓖_Ω^SV(O;s)=0_Ω` no sustituye la ecuación rectora del SV en la Teoría del TODO y de la NADA: solo declara cierre proyectivo dentro del dominio observable retornado, con pertenencia proyectiva `π_Ω(O) ∈ ℓ_{Ω,[0,1]}^SV` y no pertenencia material directa del objeto físico no proyectado a la recta (Lloret Egea, 2026a, 2026f, 2026g).
@@ -99,16 +77,14 @@ El resultado metrológico adoptado en esta clausura es `R̄_Ω = 46.500.000.000 
 
 La esfera `∂S_Ω` no se declara como forma física demostrada del universo completo, sino como clausura geométrica auxiliar del dominio observable. La tesis fuerte del SV queda situada en otro plano: un dominio observable declarado, cerrado y devuelto puede comparecer como unidad formal de clausura ante una lectura superior, conforme a la publicación `Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada` (Lloret Egea, 2026g). El Anexo A no propone navegación, efemérides, seguimiento ni posicionamiento físico; introduce el nodo `exo-Ω` como punto formal de enlace hacia dominios heredados o descendentes, siempre bajo declaración de dominio, escala, vector, frontera, residual y retorno.
 
-# II. Abstract {#ii-abstract}
-
+# II. Abstract
 This work determines the equivalent mean radius, auxiliary spherical volume, lunar-distance pattern, and mean relative distance from Earth’s centre to the boundary of the equivalent sphere assigned to the observable physical Universe, under the formal restriction `Ω_F ≠ 𝓣`. The calculation does not measure absolute totality and does not convert the observable horizon into an ontological edge. It declares a returned observable domain, an auxiliary geometric closure, an equivalent spherical model, a metrological transducer, and a controlled residual of reading. The adopted contrast values — `93,000,000,000 ly`, `1 ly = 9,460,730,472,580.8 km`, and `LD := 384,400 km` — are external metrological references and do not ground the Vectorial System SV (Encyclopaedia Britannica, 2026b; International Astronomical Union, s. f.; National Aeronautics and Space Administration, s. f.-b).
 
 The formal core is the theorem of the generating line of the observable physical Universe, internally named `Recta-Ómicron SV16` (`Recta_Οmi_SV16`). The theorem declares a typed affine space, an associated residual vector space, a typed formal origin, an internal terminal point, a director vector and an operative return segment. Its local equation, `𝓖_Ω^SV(O;s)=0_Ω`, does not replace the governing equation of SV; it only states projective closure inside the declared observable domain. The result is an equivalent mean radius of `46,500,000,000 ly`, equivalent to `439,923,966,975,007,200,000,000 km`, with an auxiliary spherical volume determined by `V_Ω = (4π/3)(R̄_Ω)^3`. Expressed in mean Earth–Moon distances, the exact form is `(35,477,739,272,178,000,000 / 31) LD`, approximately `1.14 × 10^18` mean Earth–Moon distances — `1.14` trillones in the Spanish long scale.
 
 The equivalent sphere is not presented as an empirically demonstrated material shape of the whole universe. It is an auxiliary geometric closure for the declared observable domain. The distinctive SV claim is formal: a declared, closed and returned domain may be read as a formal unit of closure under a higher-order reading, in continuity with the previously published SV thesis of the domain-universe as a formal atom of closure. The appendix does not propose spacecraft navigation, ephemerides, tracking or operational positioning; it introduces `Nodo_exoΩ` as a formal transition node towards inherited or descendant domains, only when domain, scale, vector, boundary, residual and return have been explicitly declared.
 
-# III. Introducción al problema {#iii-introduccin-al-problema}
-
+# III. Introducción al problema
 El problema de determinar el radio y el volumen medio del universo observable no puede formularse como una medición directa de una totalidad física recorrible. El universo observable se define por horizonte de observación, historia de propagación luminosa, expansión cosmológica y condiciones instrumentales de retorno; no por una frontera rígida accesible desde fuera. Por ello, toda determinación responsable debe distinguir entre totalidad absoluta, dominio observable, modelo geométrico auxiliar, unidad metrológica, transductor, residual y retorno. Esta distinción resulta especialmente necesaria cuando se adopta un diámetro de contraste ampliamente usado —aproximadamente `93.000.000.000 ly`—, porque dicho valor no convierte el universo observable en totalidad de lo real ni en esfera material cerrada; solo habilita una clausura esférica equivalente para cálculo, contraste y comunicación metrológica (Encyclopaedia Britannica, 2026b).
 
 La cuestión se sitúa en una tradición científica antigua y muy sólida: calcular y acotar dominios que no se recorren materialmente. Eratóstenes no caminó la circunferencia terrestre para estimarla; utilizó diferencia angular, distancia entre lugares y una hipótesis geométrica sobre la curvatura terrestre. Hiparco no necesitó alcanzar la Luna para aproximar su distancia; trabajó con paralaje y relaciones geométricas. Al-Biruni no recorrió el diámetro terrestre; lo infirió desde altura, horizonte y trigonometría. Newton tampoco necesitó desplazarse por el sistema planetario para formular una ley de gravitación universal: convirtió observación, geometría, dinámica y formalización matemática en una proyección general de alcance físico (Encyclopaedia Britannica, 2026a, 2026c; Royal Society, 2014; Sparavigna, 2014).
@@ -121,10 +97,8 @@ En esta notación, `D_rel^Ω` significa distancia relativa en el dominio `Ω`; `
 
 El propósito es triple. Primero, fijar matemáticamente la recta generatriz y su tramo operativo de retorno para el Universo Físico observable, evitando toda confusión entre punto afín, vector director, residual y objeto físico no proyectado. Segundo, calcular de forma explícita el radio medio equivalente, el volumen esférico auxiliar y la distancia relativa en años luz, kilómetros, metros y distancias medias Tierra–Luna. Tercero, declarar el nodo `exo-Ω` como enlace formal de dominio, no como destino navegable ni coordenada física operacional. De este modo, se obtiene un resultado legible para la metrología ordinaria sin abandonar las restricciones propias del SV: `Ω_F ≠ 𝓣`, no espacialización de `0_SV`, no clausura ontológica del horizonte observable, no conversión del patrón lunar en unidad constitutiva interna y no sustitución de la navegación física por una recta formal.
 
-# IV. Estado del arte {#iv-estado-del-arte}
-
-## IV.I. Medición indirecta de dominios no recorridos {#ivi-medicin-indirecta-de-dominios-no-recorridos}
-
+# IV. Estado del arte
+## IV.I. Medición indirecta de dominios no recorridos
 La historia de la ciencia muestra que la medición rigurosa no exige
 siempre recorrido material del dominio medido. Muchas magnitudes
 fundamentales han sido inferidas por sombra, ángulo, paralaje,
@@ -139,8 +113,7 @@ añade la restricción SV: ningún retorno metrológico externo puede
 confundirse con totalidad absoluta, fundamento ontológico o cierre
 físico no declarado (Lloret Egea, 2026a, 2026b).
 
-## IV.II. Eratóstenes y la clausura geométrica de un dominio terrestre {#ivii-eratstenes-y-la-clausura-geomtrica-de-un-dominio-terrestre}
-
+## IV.II. Eratóstenes y la clausura geométrica de un dominio terrestre
 Eratóstenes constituye el antecedente clásico más nítido para este
 análisis porque calculó una magnitud global terrestre sin recorrer
 físicamente la circunferencia de la Tierra. Según la tradición
@@ -165,8 +138,7 @@ clausura esférica auxiliar del Universo Físico observable tampoco exige
 recorrer su límite; exige declarar el dominio `Ω_F`, el modelo `𝓜_sph`,
 el radio equivalente `R̄_Ω`, la unidad externa y el residual de retorno.
 
-## IV.III. Medición astronómica por ángulo, paralaje y horizonte {#iviii-medicin-astronmica-por-ngulo-paralaje-y-horizonte}
-
+## IV.III. Medición astronómica por ángulo, paralaje y horizonte
 La tradición antigua y medieval ofrece otros ejemplos de acotación de
 dominios no recorridos. Hiparco calculó la distancia lunar mediante
 paralaje, y Britannica recoge que determinó una distancia de
@@ -188,8 +160,7 @@ estructura, no por posesión física del borde. En lenguaje SV, ello exige
 dominio, coordenación, unidad, frontera o límite equivalente, residual y
 retorno.
 
-## IV.IV. Newton y la proyección matemática de leyes universales {#iviv-newton-y-la-proyeccin-matemtica-de-leyes-universales}
-
+## IV.IV. Newton y la proyección matemática de leyes universales
 Newton representa un segundo antecedente decisivo, no geodésico sino
 dinámico: la formulación matemática puede proyectar una ley física de
 alcance universal sin exigir presencia material en todos los puntos del
@@ -216,8 +187,7 @@ director `v_Ω`, el tramo operativo `ℓ_{Ω,[0,1]}^SV`, la ecuación de
 cierre `𝓖_Ω^SV(O;s)=0_Ω` y la clausura esférica auxiliar que permite
 calcular `R̄_Ω` y `V_Ω`.
 
-## IV.V. Universo observable, horizonte de observación y diámetro de contraste {#ivv-universo-observable-horizonte-de-observacin-y-dimetro-de-contraste}
-
+## IV.V. Universo observable, horizonte de observación y diámetro de contraste
 La cosmología contemporánea distingue entre universo observable y universo completo. El universo observable designa la región accesible a observación efectiva o teórica desde nuestra posición, bajo historia de propagación luminosa, expansión espacial, modelo cosmológico e instrumentos disponibles. No designa la totalidad absoluta ni permite afirmar, por sí solo, que el conjunto de lo real posea una frontera física. En ese marco, Britannica sitúa el diámetro del universo observable en aproximadamente `93.000 millones de años luz`, con radio de algo más de `46.000 millones de años luz` desde la Tierra por efecto de la expansión espacial (Encyclopaedia Britannica, 2026b). Esta distinción coincide con la restricción principal de esta determinación: `Ω_F ≠ 𝓣`.
 
 Así, el valor `93.000.000.000 ly` no se presenta aquí como descubrimiento cosmológico propio. Se adopta como dato externo de contraste para el dominio observable retornado y se somete a una formulación SV: dominio declarado `Ω_F`, exclusión de la totalidad absoluta, modelo geométrico auxiliar, transductor metrológico, residual y dictamen. La mitad aritmética exacta del diámetro adoptado, `R̄_Ω = 46.500.000.000 ly`, no introduce un nuevo valor cosmológico frente al estado del arte; fija el radio medio equivalente de la clausura esférica auxiliar adoptada para el cálculo. La esfera perfecta equivalente `∂S_Ω` no es una superficie física rígida ni un borde ontológico del universo: es una forma de cierre geométrico declarada para devolver el dato externo en una estructura calculable, tipada y no confundida con la totalidad.
@@ -228,8 +198,7 @@ La diferencia específica del SV no reside en repetir el tamaño conocido del un
 
 Por tanto, la diferencia formal decisiva no está en el dato `93.000.000.000 ly`, ni tampoco en la esfericidad auxiliar por sí sola. Está en la conjunción entre dato cosmométrico externo, declaración de dominio, clausura geométrica auxiliar, retorno metrológico y lectura SV del dominio-universo como unidad formal de clausura. El diámetro de contraste aporta la magnitud externa; la clausura esférica permite calcular radio y volumen; el SV fija el régimen de admisión, impide la identificación con `𝓣` y sitúa el dominio observable como unidad formal de lectura superior sin convertirlo en sustancia, átomo químico ni frontera última de la totalidad.
 
-## IV.VI. Cosmometría contemporánea: CMB, expansión, BAO, cartografía 3D y misiones de gran escala {#ivvi-cosmometra-contempornea-cmb-expansin-bao-cartografa-3d-y-misiones-de-gran-escala}
-
+## IV.VI. Cosmometría contemporánea: CMB, expansión, BAO, cartografía 3D y misiones de gran escala
 La ciencia actual estudia el tamaño, la historia y la estructura del universo observable mediante retornos indirectos y modelos de interpretación: fondo cósmico de microondas, parámetros cosmológicos, supernovas, oscilaciones acústicas bariónicas, lentes gravitacionales, cartografía de galaxias y grandes sondeos espectroscópicos. Planck 2018 consolidó un conjunto de parámetros cosmológicos de alta precisión dentro del modelo ΛCDM, incluyendo `H₀ = 67,4 ± 0,5 km s−1 Mpc−1` y `Ω_m = 0,315 ± 0,007`, lo que muestra que la lectura del tamaño observable depende de un aparato cosmológico declarado y no de una regla física extendida hasta un borde material accesible (Planck Collaboration et al., 2020).
 
 Euclid está diseñado para explorar la composición y evolución del universo oscuro mediante un mapa tridimensional de la estructura a gran escala, observando miles de millones de galaxias hasta `10.000 millones de años luz` y más de un tercio del cielo; ESA explicita que la misión estudia cómo se ha expandido el universo y cómo se ha formado la estructura cósmica, con el fin de inferir propiedades de energía oscura, materia oscura y gravedad (European Space Agency, s. f.-a, s. f.-b). DESI, desde otro plano instrumental, utiliza las oscilaciones acústicas bariónicas como regla estándar cosmológica, y sus resultados DR2 de 2025 reúnen mediciones basadas en tres años de operación, con atención específica a la historia de expansión y a las tensiones abiertas en la interpretación de la energía oscura (Dark Energy Spectroscopic Instrument, 2025).
@@ -238,8 +207,7 @@ Planck, Euclid y DESI no quedan desplazados ni corregidos por esta determinació
 
 Sobre ese plano de contraste, el SV no introduce otro diámetro físico del universo observable: declara cómo admitir el dato externo, cómo impedir su confusión con la totalidad absoluta y cómo devolverlo como clausura geométrica auxiliar de un dominio que, conforme a la tesis SV ya publicada, puede comparecer ante lectura superior como átomo formal de clausura. Todo retorno externo queda así tipado por dominio, unidad, modelo, transductor, residual y exclusión expresa de `𝓣`.
 
-## IV.VII. Metrología astronómica: año luz juliano, parsec/Gpc, patrón lunar, prefijos SI y retorno raigal {#ivvii-metrologa-astronmica-ao-luz-juliano-parsecgpc-patrn-lunar-prefijos-si-y-retorno-raigal}
-
+## IV.VII. Metrología astronómica: año luz juliano, parsec/Gpc, patrón lunar, prefijos SI y retorno raigal
 La metrología externa se organiza por jerarquía de lectura, no por
 acumulación de unidades. La primera referencia es el año luz juliano: la
 IAU define el año luz como la distancia recorrida por la luz en vacío
@@ -292,8 +260,7 @@ externas no gobiernan el resultado: lo devuelven en escalas legibles. El
 SV conserva el cierre en el dominio declarado; la metrología externa
 conserva la comunicación del resultado.
 
-## IV.VIII. Posición del Sistema Vectorial SV ante la tradición de cálculo indirecto {#ivviii-posicin-del-sistema-vectorial-sv-ante-la-tradicin-de-clculo-indirecto}
-
+## IV.VIII. Posición del Sistema Vectorial SV ante la tradición de cálculo indirecto
 El SV no se limita a repetir el gesto histórico de la medición
 indirecta. Lo formaliza mediante una disciplina de admisibilidad: toda
 magnitud debe declarar dominio, tipo, frontera o límite equivalente,
@@ -316,8 +283,7 @@ radio, el volumen, el patrón lunar y la distancia relativa se formulan
 como clausura geométrica auxiliar dentro del dominio observable
 retornado, no como medición del TODO.
 
-## **V. Alcance formal** {#v-alcance-formal}
-
+## **V. Alcance formal**
 Esta determinación pertenece a la teoría de la distancia absoluta y
 relativa entre observables del Universo. Su objeto no es medir la
 totalidad absoluta, ni convertir el Universo Físico observable en
@@ -412,8 +378,7 @@ en fundamento. La cadena correcta de lectura es: dominio estructural
 declarado → medida etaria rectora transducida → parámetro de la recta →
 coordenada auxiliar o distancia relativa.
 
-## **VI. Teorema de la recta generatriz del Universo Físico observable** {#vi-teorema-de-la-recta-generatriz-del-universo-fsico-observable}
-
+## **VI. Teorema de la recta generatriz del Universo Físico observable**
 La recta generatriz definida en este teorema recibe, dentro de la
 nomenclatura interna del Sistema Vectorial SV, la denominación
 `Recta-Ómicron SV16`, con forma abreviada `Recta_Οmi_SV16`. Esta
@@ -800,8 +765,7 @@ funda este resultado; solo puede contrastarlo, traducirlo o devolverlo
 en unidades externas cuando el SV declare el transductor
 correspondiente.
 
-## **VII. Ecuación del teorema** {#vii-ecuacin-del-teorema}
-
+## **VII. Ecuación del teorema**
 La ecuación local única que sostiene el teorema de la recta generatriz
 del Universo Físico observable es:
 
@@ -882,8 +846,7 @@ radio y profundidad como magnitudes materiales iguales; declara que, una
 vez normalizadas por sus terminales propios, las tres razones internas
 de retorno coinciden en un mismo parámetro estructural.
 
-## **VIII. Demostración** {#viii-demostracin}
-
+## **VIII. Demostración**
 Sea:
 
 `𝔼_Ω^SV := E_A^SV × E_R^SV × E_D^SV`
@@ -1272,8 +1235,7 @@ contemporánea no funda el resultado; solo podrá aportar conjunto de
 datos de contraste, retorno metrológico o transducción externa cuando el
 SV declare el operador correspondiente. c.q.d. del teorema.
 
-## **IX. Radio medio equivalente del Universo Físico observable** {#ix-radio-medio-equivalente-del-universo-fsico-observable}
-
+## **IX. Radio medio equivalente del Universo Físico observable**
 Una vez fijado el teorema de la recta generatriz del Universo Físico
 observable, la determinación del radio medio debe formularse como
 clausura geométrica auxiliar, no como fundamento externo del SV. El
@@ -1451,8 +1413,7 @@ Con el retorno metrológico externo declarado, el valor final es:
 
 `R̄_Ω = 46.500.000.000 ly = 439.923.966.975.007.200.000.000 km = 439.923.966.975.007.200.000.000.000 m`.
 
-## **X. Patrón lunar** {#x-patrn-lunar}
-
+## **X. Patrón lunar**
 El patrón lunar se incorpora como patrón auxiliar de distancia relativa, no como fuente del valor cosmológico ni como fundamento del SV. Su función es expresar el radio medio equivalente del Universo Físico observable en unidades de distancia media Tierra–Luna, de modo que el retorno metrológico externo pueda leerse mediante una escala astronómica próxima, intuitiva y controlada.
 
 Se adopta como distancia media Tierra–Luna:
@@ -1585,8 +1546,7 @@ Bajo esta convención, `1 DU_Ω` equivale a `46.500.000.000 ly`. Leído con el p
 
 En dominios heredados o descendentes, la forma `D_h = n · DU_Ω` solo será admisible si el nuevo dominio declara su escala, vector, frontera, residual y retorno. El nodo `exo-Ω` no añade una distancia física nueva: nombra el punto formal de enlace que aparece cuando el dominio `Ω_F` se toma como unidad cerrada de referencia para una lectura heredera.
 
-## **XI. Distancia relativa media desde el centro de la Tierra hasta el límite de la esfera equivalente del Universo Físico observable** {#xi-distancia-relativa-media-desde-el-centro-de-la-tierra-hasta-el-lmite-de-la-esfera-equivalente-del-universo-fsico-observable}
-
+## **XI. Distancia relativa media desde el centro de la Tierra hasta el límite de la esfera equivalente del Universo Físico observable**
 La distancia relativa se introduce para cerrar explícitamente el
 componente anunciado en el título. No constituye una magnitud
 fundacional nueva del SV, ni sustituye el radio medio equivalente `R̄_Ω`,
@@ -1767,8 +1727,7 @@ En escala larga española, equivale aproximadamente a `1,14` trillones de
 distancias medias Tierra--Luna; en lectura no técnica, algo más de un
 trillón de veces la distancia media entre la Tierra y la Luna.
 
-## **XII. Conclusión** {#xii-conclusin}
-
+## **XII. Conclusión**
 La determinación realizada fija un resultado matemático y metrológico bajo una restricción principal: `Ω_F ≠ 𝓣`. El Universo Físico observable se trata como dominio retornado y no como totalidad absoluta. El horizonte observable no se convierte en borde ontológico, el origen formal `0_SV` no se espacializa y el centro de la Tierra `C_⊕` no se declara centro cosmológico, sino punto metrológico externo para la lectura relativa de una clausura esférica auxiliar. Así quedan separadas tres capas que no deben confundirse: la formulación interna SV, la geometría auxiliar de retorno y los datos externos de contraste.
 
 El resultado numérico no se presenta como hallazgo cosmológico originario. El diámetro externo de contraste `D̄_Ω^contraste := 93.000.000.000 ly` se adopta como entrada metrológica externa para el dominio observable retornado. A partir de esa entrada declarada, el radio medio equivalente queda fijado como `R̄_Ω = 46.500.000.000 ly`, equivalente a `439.923.966.975.007.200.000.000 km` y a `439.923.966.975.007.200.000.000.000 m`. El volumen medio equivalente se expresa por `V_Ω = (4π/3)(R̄_Ω)^3`, con resultado en `ly³`, `km³` y `m³`. Ninguno de estos valores afirma que el Universo Físico observable sea materialmente una esfera perfecta; todos ellos pertenecen a la clausura geométrica auxiliar declarada.
@@ -1785,10 +1744,8 @@ La distancia relativa media desde `C_⊕` hasta `∂S_Ω` queda incorporada sin 
 
 El anexo final no convierte la `Recta-Ómicron SV16` en navegación física, efemérides, seguimiento, guiado, control ni posicionamiento de vehículos. Su función es declarar una parametrización formal no operacional: el tramo `[0,1]` cierra el dominio observable `Ω_F`; el límite `∂S_Ω` puede nombrarse como nodo formal de clausura; y `Nodo_exoΩ` designa el punto de enlace hacia dominios heredados o descendentes cuando estos declaren escala, vector, frontera, residual y retorno. La Recta-Ómicron no sustituye a catálogos, sensores, rangos, Doppler, `Delta-DOR`, GNSS, DSN, ESTRACK ni propagadores orbitales. Sitúa formalmente el cierre de un dominio y la condición bajo la cual una lectura posterior puede empezar sin convertir lo no observado en totalidad absoluta.
 
-## **XIII. Anexo A. Nodo exo-Ω, dominios heredados y parametrización formal no operacional desde la Recta-Ómicron SV16** {#xiii-anexo-a-nodo-exo-omega-dominios-heredados-y-parametrizacion-formal-no-operacional-desde-la-recta-omicron-sv16}
-
-### **A.I. Introducción y régimen no operacional** {#ai-introduccion-y-regimen-no-operacional}
-
+## **XIII. Anexo A. Nodo exo-Ω, dominios heredados y parametrización formal no operacional desde la Recta-Ómicron SV16**
+### **A.I. Introducción y régimen no operacional**
 Este anexo formula una parametrización formal no operacional de observables y dominios heredados a partir de la recta generatriz del Universo Físico observable, denominada internamente `Recta-Ómicron SV16` (`Recta_Οmi_SV16`). Su objeto no es reconstruir efemérides externas, sustituir navegación espacial, convertir un catálogo observacional en fundamento del Sistema Vectorial SV ni proporcionar coordenadas físicas de guiado para satélites, sondas, vehículos aeroespaciales o aeronaves. Su objeto es declarar cómo el cierre del dominio observable `Ω_F`, representado por el tramo operativo `[0,1]`, puede producir un nodo formal de enlace, `Nodo_exoΩ`, cuando se pretende pasar a un dominio heredero o descendente `D_h`.
 
 La tesis operativa del anexo es estrictamente formal: la `Recta-Ómicron SV16` no guía una nave, no localiza un satélite y no sustituye rangos, Doppler, `Delta-DOR`, GNSS, sensores estelares, radar, propagadores orbitales, catálogos, DSN, ESTRACK ni dinámica orbital. La navegación aeroespacial contemporánea trabaja con marcos de referencia, señales, sensores, radiometría, dinámica, determinación de actitud, determinación orbital, estaciones terrestres y correcciones instrumentales. El SV toma ese aparato como plano externo de contraste y conserva una separación de régimen: los datos físicos externos pueden retornar al SV solo como contraste declarado; la recta solo ordena formalmente dominio, tramo, vector, residual y nodo de transición.
@@ -1799,16 +1756,14 @@ La restricción central se conserva íntegra:
 
 En consecuencia, ningún nodo de este anexo mide la totalidad absoluta, ningún vehículo se orienta respecto del TODO, ninguna frontera observable se transforma en borde ontológico y ningún catálogo externo se convierte en fundamento del SV. La referencia absoluta admisible conserva su sentido formal restringido, `D_abs^{SV}(X,0_SV)`, sin convertir `0_SV` en punto espacial. La coordenada radial auxiliar, la distancia relativa y el nodo `exo-Ω` pertenecen a la lectura formal de dominios; no son posiciones físicas operacionales.
 
-### **A.II. Estado del arte externo: navegación física y distancias cosmológicas** {#aii-estado-del-arte-externo-navegacion-fisica-y-distancias-cosmologicas}
-
+### **A.II. Estado del arte externo: navegación física y distancias cosmológicas**
 La navegación espacial contemporánea distingue entre determinación de actitud, determinación orbital, guiado, navegación y control. En satélites y vehículos espaciales, la actitud puede determinarse mediante sensores de estrellas, sensores solares, magnetómetros, giróscopos, unidades inerciales, receptores GNSS cuando el régimen lo permite, actuadores y software de control. NASA describe el subsistema `Guidance, Navigation and Control` como el conjunto de componentes empleados para determinar posición y actitud; en órbita terrestre, la posición puede obtenerse con GPS o mediante seguimiento terrestre y propagación orbital (National Aeronautics and Space Administration, s. f.-a). En términos SV, este plano proporciona señal, traza instrumental, estado técnico y retorno externo, pero no funda la recta.
 
 En misiones interplanetarias y de espacio profundo, la navegación no se reduce a una referencia visual ni a una edad rectora. Se emplean seguimiento radiométrico, medidas de rango, Doppler, interferometría de base muy larga y técnicas como `Delta-DOR`, mediante las cuales estaciones terrestres separadas comparan señales de la nave y de fuentes de radio celestes para mejorar la localización angular. ESA describe `Delta-DOR` como una técnica empleada para localizar con precisión naves interplanetarias (European Space Agency, s. f.-c, s. f.-d). En términos SV, este procedimiento muestra que la navegación real ya opera mediante diferencia, señal, geometría de estación, residual y retorno; por tanto, la recta formal no debe invadir ese plano.
 
 La cosmometría contemporánea también exige separación de magnitudes. La literatura de distancias cosmológicas distingue distancia comóvil, distancia de diámetro angular, distancia de luminosidad, tiempo de mirada atrás y volumen comóvil, entre otras medidas (Hogg, 1999). Esta pluralidad refuerza la exigencia SV de declarar dominio, unidad, modelo, transductor, residual y retorno antes de convertir una magnitud en lectura formal. El anexo no añade una nueva distancia física cosmológica; declara una parametrización formal para leer cierres de dominio y enlaces de herencia.
 
-### **A.III. Dominio formal del anexo** {#aiii-dominio-formal-del-anexo}
-
+### **A.III. Dominio formal del anexo**
 Sea `Ω_F` el Universo Físico observable considerado como dominio observable retornado dentro del Sistema Vectorial SV. Sea `∂S_Ω` el límite de la esfera perfecta equivalente adoptada como clausura geométrica auxiliar del dominio, y sea:
 
 `R̄_Ω = 46.500.000.000 ly`
@@ -1829,8 +1784,7 @@ El punto `s=0` no es un lugar físico, un instante cosmológico, el Big Bang ni 
 
 La igualdad anterior no introduce una nueva entidad física. Nombra el punto formal en el que el dominio `Ω_F` queda cerrado como unidad de referencia y desde el cual solo puede hablarse de dominio heredero o descendente si se declara un nuevo régimen `D_h` con escala, vector, frontera, residual y retorno propios, conforme a la ley SV de tránsito por dominios (Lloret Egea, 2026h).
 
-### **A.IV. Nodo exo-Ω y tránsito a dominio heredero** {#aiv-nodo-exo-omega-y-transito-a-dominio-heredero}
-
+### **A.IV. Nodo exo-Ω y tránsito a dominio heredero**
 Se llama `Nodo_exoΩ` al nodo formal de enlace situado en el cierre proyectivo del dominio observable `Ω_F`. Su función es impedir dos errores simétricos: tratar `∂S_Ω` como borde absoluto y tratar lo que quede más allá de la clausura observable como totalidad informe sin condición de dominio. El nodo conserva el cierre del dominio actual y, al mismo tiempo, exige que cualquier lectura posterior declare otro dominio.
 
 La forma mínima de paso queda:
@@ -1857,8 +1811,7 @@ La relación entre `Ω_F` y `D_h` no se obtiene por extensión automática del m
 
 Esta condición permite conservar la forma operatoria sin convertir el cierre del observable en totalidad absoluta.
 
-### **A.V. Coordenada auxiliar, distancia relativa y lectura de dominio** {#av-coordenada-auxiliar-distancia-relativa-y-lectura-de-dominio}
-
+### **A.V. Coordenada auxiliar, distancia relativa y lectura de dominio**
 Para un observable `X` perteneciente al dominio observable `Ω_F`, la coordenada radial auxiliar puede escribirse como:
 
 `D_coord,Ω^aux(X)=s_X R̄_Ω`,
@@ -1883,8 +1836,7 @@ Para un dominio heredero `D_h`, la forma análoga será:
 
 si y solo si `D_h` declara `R_h`, vector, frontera, residual y retorno propios. En consecuencia, la forma se conserva, pero la escala y el dominio cambian.
 
-### **A.VI. Nodo exo-Ω y escala universal observable `DU_Ω`** {#avi-nodo-exo-omega-y-escala-universal-observable-du_omega}
-
+### **A.VI. Nodo exo-Ω y escala universal observable `DU_Ω`**
 La escala `DU_Ω` se define como distancia universal observable de referencia:
 
 `DU_Ω := R̄_Ω`.
@@ -1903,8 +1855,7 @@ Esta correspondencia no convierte `DU_Ω` en distancia navegable ni `Nodo_exoΩ`
 
 Pero esa escritura solo pasa si `D_h` ha sido declarado. Sin dominio heredero, `n · DU_Ω` es una notación vacía y debe quedar en `U`.
 
-### **A.VI.bis. Nodo singular solar como control de resolución interna no operacional** {#avibis-nodo-singular-solar-como-control-de-resolucion-interna-no-operacional}
-
+### **A.VI.bis. Nodo singular solar como control de resolución interna no operacional**
 La parametrización formal por dominio puede entregar un mismo nodo de enlace para varios cuerpos cuando éstos se leen desde un dominio común. En el Sistema Solar, si los planetas principales se consideran por pertenencia al dominio sistémico `Ω_SS` y no por una carta singular interna, comparten el nodo formal asociado a la medida etaria del dominio solar. Esa coincidencia no constituye una deficiencia de la `Recta-Ómicron SV16`: expresa que la recta está leyendo primero pertenencia de dominio, no separación orbital interna.
 
 La medida etaria del Sistema Solar fija el parámetro común:
@@ -1953,8 +1904,7 @@ La distancia relativa interna entre dos planetas `P_i` y `P_j` se obtiene por ca
 
 Este control recupera lo útil del desarrollo anterior sin reintroducir una promesa operacional: no calcula efemérides, no sustituye observaciones, no reemplaza dinámica orbital y no guía vehículos. Solo muestra que la `Recta-Ómicron SV16` lee dominio común, mientras que una carta singular declarada aporta resolución interna dentro de ese dominio. Cambia la resolución; no cambia la fórmula ni el régimen no operacional del anexo.
 
-### **A.VII. Tabla de usos permitidos y usos prohibidos** {#avii-tabla-de-usos-permitidos-y-usos-prohibidos}
-
+### **A.VII. Tabla de usos permitidos y usos prohibidos**
 | Expresión | Uso admisible | Uso prohibido |
 |---|---|---|
 | `∂S_Ω` | Límite de la esfera auxiliar equivalente del dominio observable | Borde físico del ser o pared del universo |
@@ -1968,8 +1918,7 @@ Este control recupera lo útil del desarrollo anterior sin reintroducir una prom
 
 Esta tabla fija el cerrojo semántico del anexo. La potencia formal de la recta no autoriza a usarla como instrumento físico. Su función consiste en ordenar dominio, cierre, escala, transición y retorno.
 
-### **A.VIII. Corolario condicionado de herencia por dominio** {#aviii-corolario-condicionado-de-herencia-por-dominio}
-
+### **A.VIII. Corolario condicionado de herencia por dominio**
 Si `Ω_F` es un dominio observable retornado con cierre auxiliar `∂S_Ω`, radio medio equivalente `R̄_Ω`, tramo operativo `ℓ_{Ω,[0,1]}^SV` y nodo `Nodo_exoΩ`, entonces toda extensión formal hacia un dominio heredero `D_h` exige declarar un nuevo conjunto de condiciones de dominio:
 
 `D_h := (O_h,P_h,v_h,R_h,𝔛_h,Res_h,Ret_h)`.
@@ -1998,18 +1947,15 @@ Y también:
 
 Por tanto, el nodo `exo-Ω` permite hablar de transición formal sin confundir el cierre del observable con la totalidad absoluta.
 
-### **A.IX. Dictamen del anexo** {#aix-dictamen-del-anexo}
-
+### **A.IX. Dictamen del anexo**
 El anexo queda cerrado como parametrización formal no operacional. No declara navegación exo-universal, no orienta vehículos reales, no calcula efemérides, no sustituye dinámica orbital, no sustituye sensores, no sustituye `Delta-DOR`, no sustituye GNSS, no sustituye catálogos y no sustituye marcos físicos de referencia. Declara una función más restringida y más fuerte dentro del SV: fijar el cierre formal del dominio observable, nombrar el nodo `exo-Ω` y establecer las condiciones bajo las cuales una lectura heredera puede conservar forma sin convertir el dominio observable en totalidad absoluta.
 
 La `Recta-Ómicron SV16` adquiere así relevancia extrema en su plano propio. No porque permita guiar una nave más allá del universo físico observable, sino porque impide que ese “más allá” se formule sin dominio. Su valor consiste en establecer que toda prolongación exige nuevo dominio, nueva escala, nuevo vector, nuevo residual y nuevo retorno. El SV no deja el exterior como fantasía informe; tampoco lo convierte en hecho físico observado. Lo trata como dominio pendiente de declaración.
 
 Este dictamen conserva la ambición formal del SV y elimina la promesa operacional impropia. El resultado es una extensión admisible: `Ω_F` se clausura mediante `∂S_Ω`; la clausura puede compactarse como `DU_Ω`; el cierre se nombra como `Nodo_exoΩ`; y toda herencia posterior queda condicionada por dominio, frontera, escala, vector, residual y retorno.
 
-## **XIV. Bibliografía** {#xiv-bibliografa}
-
-### **XIV.I. Referencias internas del Corpus SV citadas** {#xivi-referencias-internas-del-corpus-sv-citadas}
-
+## **XIV. Bibliografía**
+### **XIV.I. Referencias internas del Corpus SV citadas**
 Lloret Egea, J. A. (2026a). *Distancia absoluta y relativa entre
 observables del Universo*. IA eñ™ --- La Biblia de la IA™.
 <https://doi.org/10.21428/39829d0b.c394e160>
@@ -2055,8 +2001,7 @@ transducible de cuerpos, especies, estrellas y dominios-universo*. IA
 eñ™ --- La Biblia de la IA™.
 <https://doi.org/10.21428/39829d0b.bfd86036>
 
-### **XIV.II. Referencias externas de contraste y estado del arte** {#xivii-referencias-externas-de-contraste-y-estado-del-arte}
-
+### **XIV.II. Referencias externas de contraste y estado del arte**
 American Physical Society. (2006, junio). *Eratosthenes measures Earth*.
 APS News.
 <https://www.aps.org/apsnews/2006/06/eratosthenes-measures-earth>
@@ -2137,8 +2082,7 @@ Royal Society. (2014, 16 de julio). *Principia*. The Royal Society.
 Sparavigna, A. C. (2014). *Al-Biruni and the mathematical geography*.
 HAL Open Science. <https://hal.science/hal-02264631/document>
 
-# **Cláusulas legales** {#clausulas-legales}
-
+# **Cláusulas legales**
 **Advertencia y reserva de derechos.** Esta publicación, incluyendo su
 texto, formulación, estructura expositiva, tablas, gráficos, imágenes,
 selección y disposición de contenidos, archivos auxiliares, código,
@@ -2196,8 +2140,7 @@ integration of the protected work, commercial exploitation, business
 development or any use not covered by the license. Nothing herein shall
 limit uses that are mandatorily permitted by law.*
 
-## **Disposición sobre propiedad industrial potencial, colaboración técnica y reserva de explotación** {#disposicin-sobre-propiedad-industrial-potencial-colaboracin-tcnica-y-reserva-de-explotacin}
-
+## **Disposición sobre propiedad industrial potencial, colaboración técnica y reserva de explotación**
 La formulación científica y técnica asociada a SV-399 puede dar lugar a
 desarrollo industrial posterior, especialmente en lo relativo al método
 de determinación dirigida de residuales actínico-refractarios en
@@ -2285,8 +2228,7 @@ traceability, the integrity of the method, possible subsequent
 industrial protection and the legal organisation of future technical
 collaborations.*
 
-## **Justificación científica de la publicación previa al ensayo material** {#justificacin-cientfica-de-la-publicacin-previa-al-ensayo-material}
-
+## **Justificación científica de la publicación previa al ensayo material**
 La determinación dirigida de SV-399 no puede plantearse como una prueba
 privada, opaca o meramente instrumental. La diana pertenece a un dominio
 estructural que formula entradas no reconocidas por la tabla periódica
@@ -2380,7 +2322,7 @@ international contrast and ordered technical collaboration.*
 
 ------------------------------------------------------------------------
 
-![](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p5211d837-30f8-4238-b85a-4b296dad5871/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/image-51781116774664.png){#natgd60fzsi}
+![](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p5211d837-30f8-4238-b85a-4b296dad5871/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/image-51781116774664.png)
 
 URL canónica:
 <https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/determinacion-radio-volumen-medio-universo/determinacion-radio-volumen-medio-universo-md>
