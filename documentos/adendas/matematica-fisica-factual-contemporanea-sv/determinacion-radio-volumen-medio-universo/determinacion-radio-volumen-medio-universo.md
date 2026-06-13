@@ -1532,7 +1532,7 @@ El resultado es correcto porque el cálculo pregunta por pertenencia de dominio,
 
 **Tabla A.VI.bis-2. Paso del nodo central al nodo singular solar**
 
-| Cuerpo | Nodo central `N_LD^age(Ω_SS)` | Coordenada singular solar `q_{P|☉}` | Coordenada compuesta `Π_Ω^{age+☉}(P)` | Variación introducida por el nodo singular |
+| Cuerpo | Nodo central `N_LD^age(Ω_SS)` | Coordenada singular solar `q_{P∣☉}` | Coordenada compuesta `Π_Ω^{age+☉}(P)` | Variación introducida por el nodo singular |
 |---|---:|---:|---:|---:|
 | Mercurio | `378.827.286.104.041.851,332398 LD` | `150,647858 LD` | `378.827.286.104.042.001,980256 LD` | `+150,647858 LD` |
 | Venus | `378.827.286.104.041.851,332398 LD` | `281,500851 LD` | `378.827.286.104.042.132,833249 LD` | `+281,500851 LD` |
@@ -1549,14 +1549,14 @@ La segunda tabla muestra el refinamiento. La columna central permanece fija porq
 
 | Par de cuerpos | Diferencia por edad rectora pura | Cálculo por nodo singular solar | Distancia relativa singular |
 |---|---:|---|---:|
-| Tierra–Marte | `0 LD` | `|592,973814 − 389,172400| LD` | `203,801413 LD` |
-| Tierra–Júpiter | `0 LD` | `|2.024,708330 − 389,172400| LD` | `1.635,535930 LD` |
-| Marte–Júpiter | `0 LD` | `|2.024,708330 − 592,973814| LD` | `1.431,734516 LD` |
-| Mercurio–Neptuno | `0 LD` | `|11.718,136644 − 150,647858| LD` | `11.567,488786 LD` |
-| Venus–Saturno | `0 LD` | `|3.718,503368 − 281,500851| LD` | `3.437,002517 LD` |
-| Saturno–Neptuno | `0 LD` | `|11.718,136644 − 3.718,503368| LD` | `7.999,633276 LD` |
+| Tierra–Marte | `0 LD` | `∣592,973814 − 389,172400∣ LD` | `203,801413 LD` |
+| Tierra–Júpiter | `0 LD` | `∣2.024,708330 − 389,172400∣ LD` | `1.635,535930 LD` |
+| Marte–Júpiter | `0 LD` | `∣2.024,708330 − 592,973814∣ LD` | `1.431,734516 LD` |
+| Mercurio–Neptuno | `0 LD` | `∣11.718,136644 − 150,647858∣ LD` | `11.567,488786 LD` |
+| Venus–Saturno | `0 LD` | `∣3.718,503368 − 281,500851∣ LD` | `3.437,002517 LD` |
+| Saturno–Neptuno | `0 LD` | `∣11.718,136644 − 3.718,503368∣ LD` | `7.999,633276 LD` |
 
-Esta tercera tabla demuestra la diferencia formal entre ambos planos. En el plano de edad rectora pura, la distancia relativa entre planetas principales del Sistema Solar es nula porque todos comparten el nodo `Ω_SS`. En la carta singular solar, la distancia relativa aparece al restar las coordenadas locales `q_{P|☉}`. El nodo común no se abandona; se cancela al comparar dos elementos internos del mismo dominio.
+Esta tercera tabla demuestra la diferencia formal entre ambos planos. En el plano de edad rectora pura, la distancia relativa entre planetas principales del Sistema Solar es nula porque todos comparten el nodo `Ω_SS`. En la carta singular solar, la distancia relativa aparece al restar las coordenadas locales `q_{P∣☉}`. El nodo común no se abandona; se cancela al comparar dos elementos internos del mismo dominio.
 
 La prueba de separación queda inmediata. Entre Tierra y Marte:
 
