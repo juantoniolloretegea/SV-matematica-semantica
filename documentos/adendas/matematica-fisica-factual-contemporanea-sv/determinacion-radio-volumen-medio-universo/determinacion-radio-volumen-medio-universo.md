@@ -19,10 +19,9 @@ Madrid, 12/06/2026
 
 ------------------------------------------------------------------------
 
-## Índice
+# Índice
 
-# 0. Prefacio 
-
+## 0. Prefacio 
 ## I. Resumen
 ## II. Abstract
 ## III. Introducción al problema
