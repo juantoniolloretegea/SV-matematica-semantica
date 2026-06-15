@@ -4,7 +4,7 @@
 
 Autor: Juan Antonio Lloret Egea
 ORCID: 0000-0002-6634-3351
-Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)
+Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) 
 IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411
 Licencia: CC BY-NC-ND 4.0
 Fecha: Madrid, 15 de junio de 2026
