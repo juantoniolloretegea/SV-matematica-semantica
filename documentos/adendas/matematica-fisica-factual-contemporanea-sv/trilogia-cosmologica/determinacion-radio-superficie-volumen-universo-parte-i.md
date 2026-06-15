@@ -810,7 +810,13 @@ El dictamen del anexo es:
 
 ## C.1. Objeto de la auditoría
 
-Este anexo verifica que las magnitudes principales conservan unidad, dimensión y lectura semántica coherentes. La auditoría no reabre el cálculo aritmético del Anexo B; controla que cada resultado se exprese en el régimen adecuado: longitud, superficie, volumen o cociente adimensional. También fija la semántica española de escala larga empleada en los retornos metrológicos.
+C.1. Objeto de la auditoría
+
+Este anexo verifica que las magnitudes principales conservan unidad, dimensión y lectura semántica coherentes. 
+
+> Ciertamente son precisiones y necesidades que el autor considera importantes, y, como tal: lo manifiesta y la realiza.  [La precisión matemática y el término preciso son capitales para el desarrollo en Ciencia y en cualquier disciplina o área que se quiera ejercer con rigor. (Wikipedia contributors. (s. f.). El dardo en la palabra. Wikipedia, The Free Encyclopedia. https://es.wikipedia.org/w/index.php?title=El_dardo_en_la_palabra&oldid=166132754 )]. 
+
+La auditoría no reabre el cálculo aritmético del Anexo B; controla que cada resultado se exprese en el régimen adecuado: longitud, superficie, volumen o cociente adimensional. También fija la semántica española de escala larga empleada en los retornos metrológicos. 
 
 ## C.2. Dimensión de la constante cosmológica calculada
 
