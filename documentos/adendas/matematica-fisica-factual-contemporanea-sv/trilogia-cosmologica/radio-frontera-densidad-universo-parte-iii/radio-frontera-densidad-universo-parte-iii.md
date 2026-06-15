@@ -11,7 +11,9 @@ Fecha: Madrid, 15 de junio de 2026
 Colección: Trilogía Cosmológica
 DOI de la colección: https://doi.org/10.21428/39829d0b.2a152990
 Parte I de la colección: https://doi.org/10.21428/39829d0b.101f1d12
-Parte II de la colección: https://doi.org/10.21428/39829d0b.db21f00e  
+
+Parte II de la colección: https://doi.org/10.21428/39829d0b.db21f00e 
+
 Parte III de la colección (esta parte):    © 2026.Juan Antonio Lloret Egea. Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.
 
 
