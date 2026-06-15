@@ -1,6 +1,6 @@
 # Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III
 
-**Constante cosmológica Λ del modelo ΛCDM, radio comóvil, materia oscura no sustancial y energía oscura como curvatura ciclo-distancial**
+## **Constante cosmológica Λ del modelo ΛCDM, radio comóvil, materia oscura no sustancial y energía oscura como curvatura ciclo-distancial**
 
 Autor: Juan Antonio Lloret Egea
 ORCID: 0000-0002-6634-3351
