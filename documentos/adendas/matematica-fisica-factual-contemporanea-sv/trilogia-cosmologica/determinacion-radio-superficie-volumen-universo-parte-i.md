@@ -1,6 +1,6 @@
 # Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I
 
-**Subtítulo:** Radio de la circunferencia perfecta y de la esfera ideal del Universo a partir de la constante cosmológica: retorno metrológico en radios de Bohr y distancias medias Tierra–Luna, con separación expresa del radio comóvil externo.
+Radio de la circunferencia perfecta y de la esfera ideal del Universo a partir de la constante cosmológica: retorno metrológico en radios de Bohr y distancias medias Tierra–Luna, con separación expresa del radio comóvil externo.
 
 **Autor:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
@@ -9,7 +9,8 @@
 **Licencia:** CC BY-NC-ND 4.0  
 **Fecha:** Madrid, 15 de junio de 2026  
 **Colección:** Trilogía Cosmológica  
-**DOI de la colección:** https://doi.org/10.21428/39829d0b.2a152990  
+**DOI de la colección:** https://doi.org/10.21428/39829d0b.2a152990 
+**DOI de la publicación:** https://doi.org/10.21428/39829d0b.101f1d12 
 **© 2026. Juan Antonio Lloret Egea. Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.**  
 
 <details>
