@@ -2,7 +2,7 @@
 
 **Colección** · DOI: [https://doi.org/10.21428/39829d0b.2a152990](https://doi.org/10.21428/39829d0b.2a152990 "_blank")
 
-**Autor:** Juan Antonio Lloret Egea · ORCID: 0000-0002-6634-3351 · Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) · IA eñ™ — *La Biblia de la IA*™ · ISSN 2695-6411 · Licencia: CC BY-NC-ND 4.0
+**Autor:** Juan Antonio Lloret Egea · ORCID: 0000-0002-6634-3351 · Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) · IA eñ™ — *La Biblia de la IA*™ · ISSN 2695-6411 · Licencia: CC BY-NC-ND 4.0 | [**Internet Archive**. Registro histórico](https://web.archive.org/web/20260616182051/https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-cosmologica)
 
 ---
 
@@ -15,7 +15,7 @@
 </td>
 <td width="65%">
 
-### Parte I — [Determinación del radio, la superficie y el volumen del Universo](https://doi.org/10.21428/39829d0b.101f1d12 "_blank")
+### Parte I — [*Determinación del radio, la superficie y el volumen del Universo*](https://doi.org/10.21428/39829d0b.101f1d12 "_blank")
 
 DOI: [https://doi.org/10.21428/39829d0b.101f1d12](https://doi.org/10.21428/39829d0b.101f1d12 "_blank")
 
@@ -31,7 +31,7 @@ Determina el radio, la superficie y el volumen del Universo mediante una circunf
 </td>
 <td width="65%">
 
-### Parte II — [Recta-Ómicron](https://doi.org/10.21428/39829d0b.db21f00e "_blank")
+### Parte II — [*Recta-Ómicron*](https://doi.org/10.21428/39829d0b.db21f00e "_blank")
 
 DOI: [https://doi.org/10.21428/39829d0b.db21f00e](https://doi.org/10.21428/39829d0b.db21f00e "_blank")
 
@@ -47,7 +47,7 @@ Desarrolla la Recta-Ómicron o Lanzadera Ómicron: una directriz nodal-etaria qu
 </td>
 <td width="65%">
 
-### Parte III — [Radio, frontera y densidad del universo observable](https://doi.org/10.21428/39829d0b.0430adc0 "_blank")
+### Parte III — [*Radio, frontera y densidad del universo observable*](https://doi.org/10.21428/39829d0b.0430adc0 "_blank")
 
 DOI: [https://doi.org/10.21428/39829d0b.0430adc0](https://doi.org/10.21428/39829d0b.0430adc0 "_blank")
 
