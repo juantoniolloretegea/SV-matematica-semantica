@@ -20,7 +20,7 @@ Parte III de la colección (esta parte):    © 2026.Juan Antonio Lloret Egea. To
 > **Siguiendo la gnoseología de René Descartes** (Renatus Cartesius), la investigación rigurosa exige gestionar la disparidad entre el entendimiento (la capacidad limitada de procesar e interpretar datos) y la voluntad (la facultad indeterminada y célere de validar o refutar hipótesis). Epistemológicamente, el investigador corre el riesgo de viciar su objeto de estudio si su voluntad convalida una conclusión antes de que el entendimiento la haya verificado con evidencia suficiente. Por consiguiente, ante la insuficiencia de un marco conceptual global o de un corpus de datos completo, la metodología científica debe subordinar la interpretación empírica a la formalización matemática, que debe articularse estrechamente con la evidencia experimental pero manteniéndose como el criterio lógico rector. **Esto responde a que la observación empírica dentro de un dominio local puede inducir a errores interpretativos** —como inferir una trayectoria rectilínea a partir de tres puntos aislados—, mientras que sólo el análisis matemático global es capaz de revelar la verdadera topología del fenómeno, como una trayectoria circular u otra. Por ejemplo: poligonal, bidimensional, tridimensional, geométrica o abstracción de ésta/s, **etc.**.
 
 
-> ####  **El dominio del análisis, y el análisis del dominio es la clave de toda CIENCIA**. (15 palabras)
+> ####  **El dominio del análisis, y el análisis del dominio es la clave de toda CIENCIA**. (**15** palabras)
 
 <details>
 <summary>Índice</summary>
