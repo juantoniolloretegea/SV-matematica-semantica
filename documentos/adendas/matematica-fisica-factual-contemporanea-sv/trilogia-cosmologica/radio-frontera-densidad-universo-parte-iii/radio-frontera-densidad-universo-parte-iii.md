@@ -75,7 +75,7 @@ Anexo F. Condiciones de no contradicción entre magnitudes cosmológicas
 
 Bibliografía
 
-Clásulas legales
+Cláusulas legales
 
 </details>
 
@@ -2589,7 +2589,7 @@ Función en este estudio: contraste histórico de curvas de rotación y retorno 
 Clowe, Douglas; Bradač, Maruša; Gonzalez, Anthony H.; Markevitch, Maxim; Randall, Scott W.; Jones, Christine; Zaritsky, Dennis. (2006). **A Direct Empirical Proof of the Existence of Dark Matter**. *The Astrophysical Journal Letters*, 648, L109–L113, 2006. DOI: https://doi.org/10.1086/508162.
 Función en este estudio: contraste externo fuerte de separación gravitatoria en cúmulos. Su uso se limita a fenómeno gravitatorio y contraste; no sustituye la formulación interna de sutura gravitatoria efectiva.
 
-## Clásulas legales
+## Cláusulas legales
 
 Advertencia y reserva de derechos. Esta publicación, incluyendo su texto, formulación, estructura expositiva, tablas, gráficos, imágenes, selección y disposición de contenidos, archivos auxiliares, código, laboratorios, salidas de verificación y documentación asociada, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO. Cualquier forma de explotación de la obra o de partes sustanciales de ella —incluidas su reproducción, distribución, comunicación pública, puesta a disposición, transformación, traducción, adaptación, incorporación a bases de datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas o desarrollos empresariales— sólo podrá realizarse conforme a la licencia indicada, con autorización expresa y por escrito de los titulares de derechos, o al amparo de una excepción legal aplicable. La licencia indicada no autoriza usos comerciales, explotación empresarial, transformación distribuida ni reutilización sustancial de la obra fuera de sus términos. La aplicación, implementación, explotación técnica o incorporación de los resultados, fórmulas, tablas, nomenclatura, metodología, transductores, criterios de admisión, dominios, laboratorios o conclusiones de esta obra en el campo de la Física, la Química, la ciencia de materiales, la ingeniería, la inteligencia artificial u otras ciencias derivadas queda reservada a la autorización expresa del autor cuando implique reproducción, transformación, comunicación pública, distribución, integración sustancial de la obra protegida, explotación comercial, desarrollo empresarial o uso no cubierto por la licencia. Nada de lo anterior limita los usos permitidos imperativamente por la ley.
 
