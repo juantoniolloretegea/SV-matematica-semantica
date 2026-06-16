@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="./portada-coleccion.png" alt="Trilogía Cosmológica — Radio · frontera · densidad del universo observable" width="100%">
+</p>
+
+
+
 <table>
 <tr>
 <td width="35%">
