@@ -20,6 +20,36 @@
 
 **URL canónica:** [SV-matematica-semantica / Trilogía Cosmológica / carta radial](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-cosmologica/carta-radial-desde-origen-tierra-sistema-solar-universo)
 
+## Índice
+Mapa rector del corolario
+Diccionario formal de símbolos, dominios y funciones
+2.1. Símbolos rectores
+2.2. Símbolos cosmológicos del radio estructural
+2.3. Símbolos de la Lanzadera Ómicron
+2.4. Símbolos del cambio de origen
+2.5. Símbolos de cartas auxiliares radiales
+2.6. Símbolos de registro etario y dominio
+2.7. Datos externos y dictámenes
+2.8. Tabla de equivalencias funcionales mínimas
+Línea del Umbral SV como raíz del origen O_U=(0,0)
+Radio estructural R_U como lectura radial desde O_U=(0,0)
+Lanzadera Ómicron y tramo situado Tierra → ∂Ωobs
+Contraste del radio estructural por cambio de origen
+Cartas auxiliares radiales para objetos internos del Sistema Solar
+Retornos externos calculados, cartas auxiliares radiales y control superior de compatibilidad
+8.1. Patrones externos aplicables y anclajes primeros
+8.2. Coordenada radial de la Tierra desde O_U=(0,0)
+8.3. Sol y Luna desde O_U=(0,0) bajo directriz auxiliar
+8.4. Carta de escala orbital de planetas principales
+8.5. Escalas locales en patrones Tierra–Luna y Tierra–Sol
+8.6. Rama saliente desde O_U en patrones Tierra–Luna y Tierra–Sol
+8.7. Datos externos fuertes: cómo se calculan y qué confusiones bloquean
+8.8. Estado de admisión de cartas auxiliares
+8.9. Control superior desde la Teoría del TODO y de la NADA
+8.10. Regla general de cierre para datos externos
+Criterio de elección de base de cálculo: Tierra, Sol, O_U=(0,0) y Lanzadera Ómicron
+Bibliografía APA7
+
 ### 1. Mapa rector del corolario
 
 La continuidad formal queda establecida entre *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* (Lloret Egea, 2026b), el radio estructural del universo observable determinado en *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* (Lloret Egea, 2026c), la lectura situada de *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* (Lloret Egea, 2026d), y la construcción auxiliar de cartas radiales aplicables a objetos internos del Sistema Solar. La finalidad no es rectificar el cálculo del radio estructural, sustituir la Lanzadera Ómicron ni introducir una nueva física local, sino declarar con precisión el cambio de origen que permite leer una misma frontera desde dos bases distintas: el origen formal-material `O_U=(0,0)` y la Tierra como origen situado de lectura.
