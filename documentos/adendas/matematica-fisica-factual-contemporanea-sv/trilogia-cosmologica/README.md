@@ -7,7 +7,6 @@
 ---
 
 <table>
-<table>
 <tr>
 <td width="35%">
 
@@ -15,6 +14,7 @@
 
 </td>
 <td width="65%">
+
 
 ### Parte I — [Determinación del radio, la superficie y el volumen del Universo](https://doi.org/10.21428/39829d0b.101f1d12 "_blank")
 
