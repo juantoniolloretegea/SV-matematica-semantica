@@ -1,12 +1,24 @@
 # Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable: distancias absolutas, retornos metrológicos y criterio de elección de base de cálculo
 
 ## Corolario de cambio de origen `(0,0) → Tierra`: Línea del Umbral SV, Lanzadera Ómicron y cartas auxiliares radiales
- 
-© 2026. Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 |  |Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia: CC BY-NC-ND 4.0 | Fecha: Madrid, 17 de junio de 2026 | (Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.)
 
-Colección: Trilogía Cosmológica. [DOI](https://doi.org/10.21428/39829d0b.2a152990)
-Adscrito a: Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III [DOI](https://doi.org/10.21428/39829d0b.0430adc0)
+© 2026. Juan Antonio Lloret Egea. Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.
 
+**Autor:** Juan Antonio Lloret Egea  
+**ORCID:** 0000-0002-6634-3351  
+**Institución:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)  
+**Publicación:** IA eñ™ — La Biblia de la IA™  
+**ISSN:** 2695-6411  
+**Licencia:** CC BY-NC-ND 4.0  
+**Fecha:** Madrid, 17 de junio de 2026
+
+**Colección:** Trilogía Cosmológica  
+**DOI:** [10.21428/39829d0b.2a152990](https://doi.org/10.21428/39829d0b.2a152990)
+
+**Publicación de adscripción:** *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*  
+**DOI de adscripción:** [10.21428/39829d0b.0430adc0](https://doi.org/10.21428/39829d0b.0430adc0)
+
+**URL canónica:** [SV-matematica-semantica / Trilogía Cosmológica / carta radial](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-cosmologica/carta-radial-desde-origen-tierra-sistema-solar-universo)
 
 ### 1. Mapa rector del corolario
 
@@ -16,27 +28,17 @@ En la Línea del Umbral SV queda fijado `O_U=(0,0)` como origen formal-material 
 
 En la Lanzadera Ómicron no se vuelve a calcular `R_U`. La operación propia consiste en determinar una magnitud situada desde la Tierra hacia la frontera etaria/proyectada del universo observable. Esa salida, designada como `R_aux,loc^SV` cuando se proyecta bajo restricción geométrica auxiliar, debe leerse como el tramo `Tierra→∂Ωobs`, no como sustituto del radio estructural de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.
 
-El vínculo entre ambas lecturas se formula mediante cambio de origen:
+El vínculo entre ambas lecturas se formula mediante cambio de origen `R_U = D(O_U,Tierra) + D(Tierra,∂Ωobs)`.
 
-`R_U = D(O_U,Tierra) + D(Tierra,∂Ωobs)`.
+Como `D(Tierra,∂Ωobs)=R_aux,loc^SV`,
 
-Como:
-
-`D(Tierra,∂Ωobs)=R_aux,loc^SV`,
-
-se obtiene:
-
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+se obtiene `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
 La no coincidencia directa entre `R_U` y `R_aux,loc^SV` no expresa fallo de la Lanzadera, sino diferencia de origen. El radio estructural se lee desde `O_U=(0,0)`; la Lanzadera lee desde la Tierra. Al recomponer ambos tramos, se recupera `R_U` con residual algebraico nulo. Por tanto, la Lanzadera contrasta el radio estructural por una segunda ruta interna al SV: no por repetición del cálculo, sino por cambio de origen.
 
-Desde la coordenada `D(O_U,Tierra)`, quedan habilitadas cartas auxiliares radiales para objetos del Sistema Solar. La forma general es:
+Desde la coordenada `D(O_U,Tierra)`, quedan habilitadas cartas auxiliares radiales para objetos del Sistema Solar. La forma general es `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
 
-`vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
-
-Cuando convenga usar el Sol como referencia local, la composición podrá escribirse como:
-
-`vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+Cuando convenga usar el Sol como referencia local, la composición podrá escribirse como `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
 
 Estas cartas auxiliares no convierten a la Ciencia Contemporánea en fundamento del SV. Las posiciones, distancias, efemérides y unidades externas sólo entran como retorno cartográfico, metrológico o de contraste, siempre con fuente, época, marco de referencia, unidad y residual declarados. Del mismo modo, el SV no sustituye la cartografía física contemporánea ni sus efemérides: define el origen, el dominio, la frontera, el cambio de origen, la composición auxiliar y el dictamen de admisibilidad de uso.
 
@@ -154,21 +156,11 @@ Se fija la semántica mínima necesaria para no mezclar origen, radio, frontera,
 
 No se introduce `O_U=(0,0)` como un cero auxiliar añadido a la Trilogía Cosmológica. Lo recibe de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*, donde el origen queda determinado como punto de potencial nulo e intensidad nula. Esta procedencia es imprescindible: si `O_U=(0,0)` se tratara como una convención gráfica, como un centro geométrico indiferente o como una coordenada externa importada, el cambio de origen perdería su raíz SV y la continuidad entre Línea del Umbral, radio estructural y Lanzadera Ómicron quedaría debilitada.
 
-La Línea del Umbral SV se expresa mediante la igualdad polar:
+La Línea del Umbral SV se expresa mediante la igualdad polar `μ=λ`. Sobre esa línea, el potencial polar queda anulado: `P=μ−λ=0`.
 
-`μ=λ`.
+Sin embargo, la igualdad polar no identifica por sí sola el origen. Todo punto de la forma `(a,a)` conserva `P=0`, pero mantiene intensidad positiva cuando `a>0`: `I=μ+λ=2a`.
 
-Sobre esa línea, el potencial polar queda anulado:
-
-`P=μ−λ=0`.
-
-Sin embargo, la igualdad polar no identifica por sí sola el origen. Todo punto de la forma `(a,a)` conserva `P=0`, pero mantiene intensidad positiva cuando `a>0`:
-
-`I=μ+λ=2a`.
-
-Por tanto, sólo el punto `(0,0)` cumple simultáneamente:
-
-`P=0`.
+Por tanto, sólo el punto `(0,0)` cumple simultáneamente `P=0`.
 
 `I=0`.
 
@@ -176,27 +168,15 @@ Esta distinción separa tres planos que deben conservarse sin mezcla. Primero, l
 
 `O_U=(0,0)` se define como origen formal-material de lectura del dominio-universo físico realizado. La expresión “formal-material” es necesaria. Es formal porque procede de la estructura polar de la Línea del Umbral, no de una medición astronómica local. Es material de lectura porque desde él se organiza la lectura radial de un dominio físico realizado, no una abstracción sin retorno. No se trata de un cuerpo ordinario situado dentro del universo, ni de un punto empírico local, ni de un cero meramente convencional. Se trata del origen SV desde el que puede leerse la frontera `∂Ωobs` en la forma radial determinada por *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.
 
-La función de `O_U=(0,0)` es triple. Primero, fija el origen desde el que se lee el radio estructural:
+La función de `O_U=(0,0)` es triple. Primero, fija el origen desde el que se lee el radio estructural `R_U = D(O_U,∂Ωobs)`.
 
-`R_U = D(O_U,∂Ωobs)`.
+Segundo, permite distinguir esa lectura de la lectura situada de la Lanzadera `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
 
-Segundo, permite distinguir esa lectura de la lectura situada de la Lanzadera:
-
-`R_aux,loc^SV = D(Tierra,∂Ωobs)`.
-
-Tercero, permite formular el cambio de origen:
-
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Tercero, permite formular el cambio de origen `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
 Con ello, la Línea del Umbral SV deja de operar como antecedente implícito y pasa a ser la condición de inteligibilidad del cambio de origen. El radio estructural lee la frontera desde `O_U`; la Lanzadera lee la frontera desde la Tierra; se recomponen ambas lecturas y se muestra que la diferencia entre sus salidas no es contradicción, sino traslado de base.
 
-La directriz asociada a la Línea del Umbral puede expresarse como:
-
-`υ_U^SV=(1,1)`.
-
-Esa directriz conserva la igualdad polar. La normal asociada puede expresarse como:
-
-`n_U^SV=(1,−1)`.
+La directriz asociada a la Línea del Umbral puede expresarse como `υ_U^SV=(1,1)`. Esa directriz conserva la igualdad polar. La normal asociada puede expresarse como `n_U^SV=(1,−1)`.
 
 La normal marca la salida de esa igualdad. Estas expresiones no convierten la Línea del Umbral en una métrica espacial clásica; sirven para fijar orientación formal. La lectura radial no nace de una distancia espacial importada, sino de la articulación entre el origen `O_U`, el radio estructural y la lectura situada de la Lanzadera.
 
@@ -212,21 +192,13 @@ Así, el vínculo entre Línea del Umbral y Trilogía Cosmológica queda explíc
 
 El radio `R_U` procede de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. Su función no es representar una distancia local desde la Tierra, ni replicar el radio comóvil externo de la cosmología contemporánea, ni adoptar la mitad de un diámetro observable convencional. Su función es fijar la magnitud radial interna de la esfera ideal del universo observable en el dominio declarado.
 
-La cadena de determinación se expresa así:
+La cadena de determinación se expresa así `Λ = 3/(c²T_obs²)`.
 
-`Λ = 3/(c²T_obs²)`.
+De esa constante cosmológica calculada se obtiene `R_U = √(3/Λ)`.
 
-De esa constante cosmológica calculada se obtiene:
+Al sustituir `Λ` por `3/(c²T_obs²)`, la relación queda reducida a `R_U = cT_obs`.
 
-`R_U = √(3/Λ)`.
-
-Al sustituir `Λ` por `3/(c²T_obs²)`, la relación queda reducida a:
-
-`R_U = cT_obs`.
-
-En el régimen declarado, con:
-
-`c = 299.792.458 m·s^-1`.
+En el régimen declarado, con `c = 299.792.458 m·s^-1`.
 
 `T_obs = 435.494.880.000.000.000 s`.
 
@@ -234,27 +206,19 @@ El radio resultante es:
 
 `R_U = 130.558.080.521.615.040.000.000.000 m`.
 
-En años luz julianos:
+En años luz julianos, `R_U = 13.800.000.000 ly`.
 
-`R_U = 13.800.000.000 ly`.
-
-La lectura formal de ese resultado queda fijada como:
-
-`R_U = D(O_U,∂Ωobs)`.
+La lectura formal de ese resultado queda fijada como `R_U = D(O_U,∂Ωobs)`.
 
 `R_U` designa el tramo radial desde el origen formal-material `O_U=(0,0)` hasta la frontera `∂Ωobs` de la esfera ideal del universo observable. La obra que determina el radio fija esa magnitud por la cadena `Λ → R_U`; se añade su lectura de origen, vinculándola explícitamente con la Línea del Umbral SV. No se añade un segundo cálculo de `R_U`; se declara desde qué origen formal-material debe leerse el radio ya determinado.
 
 La expresión `D(O_U,∂Ωobs)` no convierte `∂Ωobs` en una pared física ni en un borde ontológico absoluto. La frontera designa el límite de lectura de la esfera ideal asociada al radio estructural. Del mismo modo, `O_U=(0,0)` no es un cuerpo físico ordinario situado dentro del universo ni una coordenada observacional de la Ciencia Contemporánea. Es el origen SV de lectura radial recibido de la Línea del Umbral.
 
-Se separan tres planos. Primero, el plano de determinación interna:
-
-`Λ = 3/(c²T_obs²)`.
+Se separan tres planos. Primero, el plano de determinación interna `Λ = 3/(c²T_obs²)`.
 
 `R_U = √(3/Λ) = cT_obs`.
 
-Segundo, el plano de lectura radial fijado:
-
-`R_U = D(O_U,∂Ωobs)`.
+Segundo, el plano de lectura radial fijado `R_U = D(O_U,∂Ωobs)`.
 
 Tercero, el plano de contraste externo o metrológico, en el que pueden aparecer unidades, retornos o magnitudes de la Ciencia Contemporánea, sin que ninguna de ellas funde `R_U`.
 
@@ -274,13 +238,9 @@ Por tanto, `R_U` queda definido bajo las siguientes condiciones:
 | Plano | SV, radio estructural de esfera ideal |
 | Lecturas excluidas | Radio comóvil externo, distancia local desde Tierra, pared física absoluta, ajuste observacional posterior |
 
-Desde esta fijación, puede compararse `R_U` con la salida local de la Lanzadera sin enfrentar ambos resultados. El radio estructural lee la frontera desde `O_U=(0,0)`. La Lanzadera lee la frontera desde la Tierra. Por ello, la no coincidencia directa entre `R_U` y `R_aux,loc^SV` no constituye una contradicción, sino la condición para formular el cambio de origen:
+Desde esta fijación, puede compararse `R_U` con la salida local de la Lanzadera sin enfrentar ambos resultados. El radio estructural lee la frontera desde `O_U=(0,0)`. La Lanzadera lee la frontera desde la Tierra. Por ello, la no coincidencia directa entre `R_U` y `R_aux,loc^SV` no constituye una contradicción, sino la condición para formular el cambio de origen `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
-
-La función de `R_U` es doble. Primero, conserva el radio estructural calculado. Segundo, actúa como magnitud total que permite contrastar la lectura situada de la Lanzadera por recomposición:
-
-`R_U = D(O_U,Tierra)+R_aux,loc^SV`.
+La función de `R_U` es doble. Primero, conserva el radio estructural calculado. Segundo, actúa como magnitud total que permite contrastar la lectura situada de la Lanzadera por recomposición `R_U = D(O_U,Tierra)+R_aux,loc^SV`.
 
 Esta identidad no recalcula `R_U` desde una fuente externa. Lo contrasta internamente mediante cambio de origen: el mismo límite `∂Ωobs` queda leído desde dos bases distintas y se recompone sin residual algebraico.
 
@@ -292,17 +252,13 @@ La cadena funcional de la Lanzadera puede escribirse así:
 
 `λ_acc → κ_∂←acc^SV → λ_∂ → Brazo_∂Ωobs^SV(Tierra) → R_aux,loc^SV`.
 
-En esta cadena, `λ_acc` designa una magnitud de acceso nodal al universo observable retornado. El coeficiente `κ_∂←acc^SV` transforma ese acceso en brazo fronterizo etario. La salida `λ_∂` se interpreta como brazo de frontera y, bajo restricción geométrica auxiliar, puede leerse como `R_aux,loc^SV`. Esta última magnitud no es el radio estructural `R_U`; es la lectura situada:
-
-`R_aux,loc^SV = D(Tierra,∂Ωobs)`.
+En esta cadena, `λ_acc` designa una magnitud de acceso nodal al universo observable retornado. El coeficiente `κ_∂←acc^SV` transforma ese acceso en brazo fronterizo etario. La salida `λ_∂` se interpreta como brazo de frontera y, bajo restricción geométrica auxiliar, puede leerse como `R_aux,loc^SV`. Esta última magnitud no es el radio estructural `R_U`; es la lectura situada `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
 
 La distinción es esencial. Si `R_aux,loc^SV` se leyera como sustituto de `R_U`, la Lanzadera quedaría falsamente enfrentada al radio estructural. Si se leyera como fallo por no coincidir directamente con `R_U`, se perdería la información principal: la Lanzadera no estaba leyendo la frontera desde `O_U=(0,0)`, sino desde la Tierra. La no coincidencia directa entre ambas magnitudes no revela error; revela cambio de origen.
 
 La Tierra cumple una función situada. No actúa como centro absoluto del dominio-universo ni como origen formal de la lectura radial total. Ese origen sigue siendo `O_U=(0,0)`, recibido de la Línea del Umbral SV. La Tierra actúa como referencia local desde la cual la Lanzadera mide o construye el tramo hacia `∂Ωobs`.
 
-La formulación correcta es:
-
-`R_U = D(O_U,∂Ωobs)`.
+La formulación correcta es `R_U = D(O_U,∂Ωobs)`.
 
 `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
 
@@ -310,9 +266,7 @@ Por tanto, ambas magnitudes no compiten. Leen la misma frontera desde dos bases 
 
 La Lanzadera tampoco debe confundirse con una herramienta destinada a resolver nodos singulares interiores. Su función es troncal: tránsito nodal, acceso, corte etario, brazo fronterizo y proyección auxiliar. No calcula por sí misma el radio singular del Sol, de la Tierra, de la Luna ni de cada planeta. Para esos objetos hacen falta cartas auxiliares radiales construidas después, mediante composición con vectores locales declarados.
 
-Esta delimitación conserva la fuerza de la Lanzadera. No se reduce su alcance; se precisa su dominio. La Lanzadera no falla al no cerrar directamente el Sol o la Luna como nodos singulares. Su salida pertenece al tramo situado `Tierra → ∂Ωobs`. Una vez obtenido ese tramo y fijado `R_U`, puede recuperarse la coordenada de la Tierra respecto de `O_U`:
-
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Esta delimitación conserva la fuerza de la Lanzadera. No se reduce su alcance; se precisa su dominio. La Lanzadera no falla al no cerrar directamente el Sol o la Luna como nodos singulares. Su salida pertenece al tramo situado `Tierra → ∂Ωobs`. Una vez obtenido ese tramo y fijado `R_U`, puede recuperarse la coordenada de la Tierra respecto de `O_U` `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
 A partir de ahí, las cartas auxiliares radiales pueden ubicar objetos internos por composición local. La Lanzadera entrega el tramo troncal que permite situar la Tierra dentro de la lectura radial; las cartas auxiliares añaden después los vectores locales de cada objeto.
 
@@ -328,9 +282,7 @@ La función de la Lanzadera queda acotada así:
 | `R_U` | Radio estructural leído desde `O_U=(0,0)` |
 | `D(O_U,Tierra)` | Coordenada radial de la Tierra obtenida por cambio de origen |
 
-La lectura final es la siguiente: la Lanzadera no recalcula `R_U`, pero permite contrastarlo. El radio estructural da la lectura total desde `O_U` hasta `∂Ωobs`. La Lanzadera da la lectura situada desde la Tierra hasta `∂Ωobs`. La recomposición de ambas lecturas muestra que el radio estructural se recupera por cambio de origen:
-
-`R_U = D(O_U,Tierra)+R_aux,loc^SV`.
+La lectura final es la siguiente: la Lanzadera no recalcula `R_U`, pero permite contrastarlo. El radio estructural da la lectura total desde `O_U` hasta `∂Ωobs`. La Lanzadera da la lectura situada desde la Tierra hasta `∂Ωobs`. La recomposición de ambas lecturas muestra que el radio estructural se recupera por cambio de origen `R_U = D(O_U,Tierra)+R_aux,loc^SV`.
 
 Así, la Lanzadera queda vinculada al radio estructural sin invadir su función. No lo sustituye; lo contrasta desde otra base.
 
@@ -338,21 +290,13 @@ Así, la Lanzadera queda vinculada al radio estructural sin invadir su función.
 
 La relación entre el radio estructural y la salida local de la Lanzadera Ómicron no debe formularse como discrepancia entre dos radios concurrentes. Debe formularse como contraste por cambio de origen. El radio estructural lee la frontera `∂Ωobs` desde el origen formal-material `O_U=(0,0)`. La Lanzadera lee esa misma frontera desde la Tierra como origen situado. Si ambas lecturas se mantienen en su plano propio, la diferencia entre sus magnitudes no expresa contradicción, sino traslado de base.
 
-El radio estructural fija:
+El radio estructural fija `R_U = D(O_U,∂Ωobs)`.
 
-`R_U = D(O_U,∂Ωobs)`.
+La Lanzadera fija `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
 
-La Lanzadera fija:
+Si la frontera de lectura es la misma, la directriz es común, la orientación queda declarada y la unidad se conserva, entonces la coordenada radial de la Tierra respecto de `O_U` queda determinada por diferencia `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
-`R_aux,loc^SV = D(Tierra,∂Ωobs)`.
-
-Si la frontera de lectura es la misma, la directriz es común, la orientación queda declarada y la unidad se conserva, entonces la coordenada radial de la Tierra respecto de `O_U` queda determinada por diferencia:
-
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
-
-De ahí se obtiene la identidad de recomposición:
-
-`R_U = D(O_U,Tierra)+R_aux,loc^SV`.
+De ahí se obtiene la identidad de recomposición `R_U = D(O_U,Tierra)+R_aux,loc^SV`.
 
 Esta igualdad es el núcleo del contraste. El radio estructural no se recalcula desde la Lanzadera. Se recupera desde ella mediante cambio de origen. La Lanzadera aporta el tramo situado `Tierra→∂Ωobs`; el cálculo del radio aporta el tramo total `O_U→∂Ωobs`; se obtiene el tramo complementario `O_U→Tierra` y recompone la magnitud total.
 
@@ -370,55 +314,25 @@ La recomposición queda:
 
 `130.557.437.070.596.709.960.033.921,011878727 m + 643.451.018.330.039.966.078,988121273 m = 130.558.080.521.615.040.000.000.000 m`.
 
-Por tanto:
+Por tanto: `D(O_U,Tierra)+R_aux,loc^SV = R_U`.
 
-`D(O_U,Tierra)+R_aux,loc^SV = R_U`.
+El residual algebraico de la recomposición es `0`.
 
-El residual algebraico de la recomposición es:
-
-`0`.
-
-La misma identidad puede escribirse mediante coordenadas de origen:
-
-`x_F^(O_U)=R_U`.
-
-`x_F^(Tierra)=R_aux,loc^SV`.
-
-`x_Tierra^(O_U)=R_U−R_aux,loc^SV`.
-
-Y por tanto:
-
-`x_F^(O_U)=x_Tierra^(O_U)+x_F^(Tierra)`.
+La misma identidad puede escribirse mediante coordenadas de origen: `x_F^(O_U)=R_U`, `x_F^(Tierra)=R_aux,loc^SV` y `x_Tierra^(O_U)=R_U−R_aux,loc^SV`. Por tanto, `x_F^(O_U)=x_Tierra^(O_U)+x_F^(Tierra)`.
 
 Donde `F` designa la frontera `∂Ωobs`. Esta notación no introduce una frontera nueva ni un segundo universo. Sólo expresa que una misma frontera se lee desde dos orígenes distintos.
 
 El contraste tiene tres consecuencias. Primera: `R_aux,loc^SV` no sustituye a `R_U`; es el tramo situado desde la Tierra hasta la frontera etaria/proyectada del universo observable. Segunda: la no coincidencia directa entre `R_U` y `R_aux,loc^SV` no es una anomalía; es la condición necesaria para que aparezca la coordenada radial de la Tierra respecto de `O_U`. Tercera: el radio estructural queda contrastado por una ruta interna distinta.
 
-La ruta directa es:
-
-`O_U → ∂Ωobs`.
-
-La ruta por cambio de origen es:
-
-`O_U → Tierra → ∂Ωobs`.
-
-Ambas devuelven la misma magnitud total:
-
-`R_U`.
+La ruta directa es `O_U → ∂Ωobs`; la ruta por cambio de origen es `O_U → Tierra → ∂Ωobs`. Ambas devuelven la misma magnitud total: `R_U`.
 
 No se necesita introducir un transductor nuevo para esta operación. La transformación es un cambio de origen sobre una lectura radial ya declarada. En la Línea del Umbral queda fijado `O_U=(0,0)`. En el cálculo del radio queda fijado `R_U`. En la Lanzadera queda fijado `R_aux,loc^SV`. La recomposición demuestra que la salida local de la Lanzadera encaja con el radio estructural cuando se interpreta correctamente como tramo situado.
 
-La forma conclusiva del contraste es:
+La forma conclusiva del contraste es `R_U = D(O_U,Tierra)+D(Tierra,∂Ωobs)`.
 
-`R_U = D(O_U,Tierra)+D(Tierra,∂Ωobs)`.
+Y, como `D(Tierra,∂Ωobs)=R_aux,loc^SV`,
 
-Y, como:
-
-`D(Tierra,∂Ωobs)=R_aux,loc^SV`,
-
-queda:
-
-`R_U = (R_U−R_aux,loc^SV)+R_aux,loc^SV`.
+queda `R_U = (R_U−R_aux,loc^SV)+R_aux,loc^SV`.
 
 Esta igualdad es matemáticamente cerrada dentro del dominio declarado. No prueba una distancia física externa adicional ni sustituye las convenciones cosmológicas contemporáneas. Prueba que, en el Sistema Vectorial SV, la lectura del radio estructural y la lectura situada de la Lanzadera son compatibles por cambio de origen y recomponen el mismo radio estructural con residual algebraico nulo.
 
@@ -426,23 +340,15 @@ Esta igualdad es matemáticamente cerrada dentro del dominio declarado. No prueb
 
 Una vez fijada la coordenada radial de la Tierra respecto de `O_U=(0,0)`, quedan habilitadas cartas auxiliares radiales para objetos internos del Sistema Solar. Esta habilitación no modifica la función de la Lanzadera Ómicron. La Lanzadera conserva su dominio propio: lectura troncal situada desde la Tierra hacia la frontera etaria/proyectada del universo observable. Las cartas auxiliares operan después, sobre el tramo local, mediante composición con vectores declarados.
 
-La coordenada obtenida en el cambio de origen es:
+La coordenada obtenida en el cambio de origen es `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Desde esa coordenada, cualquier objeto interno `X` puede situarse mediante una composición auxiliar si se conoce y se declara su vector local respecto de la Tierra `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
 
-Desde esa coordenada, cualquier objeto interno `X` puede situarse mediante una composición auxiliar si se conoce y se declara su vector local respecto de la Tierra:
-
-`vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
-
-Cuando sea más adecuado trabajar desde el Sol como referencia local, la composición puede escribirse así:
-
-`vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+Cuando sea más adecuado trabajar desde el Sol como referencia local, la composición puede escribirse así `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
 
 Estas expresiones no significan que el SV produzca por sí mismo las efemérides de cada objeto. Significan que, una vez fijado el origen `O_U` y la coordenada radial de la Tierra, el SV puede incorporar vectores locales ya determinados por fuentes externas de alta fiabilidad para construir una carta auxiliar. La Ciencia Contemporánea aporta el vector local; el SV aporta el origen, el dominio, la regla de composición, la condición de admisión y el dictamen.
 
-La regla general de admisión es:
-
-`CartaAux_SV(X)=APTO`
+La regla general de admisión es `CartaAux_SV(X)=APTO`
 
 si se cumplen simultáneamente las siguientes condiciones:
 
@@ -468,27 +374,17 @@ Residual visible.
 
 Si falta alguna de estas condiciones, el dictamen no se fuerza. El caso conserva `U`.
 
-La carta auxiliar puede adoptar dos formas. La primera es una forma escalar dirigida, apta sólo cuando todos los tramos están sobre una misma directriz, con orientación declarada y unidad común:
+La carta auxiliar puede adoptar dos formas. La primera es una forma escalar dirigida, apta sólo cuando todos los tramos están sobre una misma directriz, con orientación declarada y unidad común `D(O_U,X)=D(O_U,Tierra)+D(Tierra,X)`.
 
-`D(O_U,X)=D(O_U,Tierra)+D(Tierra,X)`.
-
-Esta forma puede ser suficiente para anclajes simples, como el uso declarado de una distancia Tierra–Sol o Tierra–Luna en una recta local. La segunda es una forma vectorial. Es la forma general y debe usarse cuando el objeto tiene posición orbital variable, inclinación, excentricidad, época de referencia o dependencia de efeméride:
-
-`vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Esta forma puede ser suficiente para anclajes simples, como el uso declarado de una distancia Tierra–Sol o Tierra–Luna en una recta local. La segunda es una forma vectorial. Es la forma general y debe usarse cuando el objeto tiene posición orbital variable, inclinación, excentricidad, época de referencia o dependencia de efeméride `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
 
 En esta forma, el vector externo no se reduce a una distancia media salvo que se declare expresamente que se trabaja con un valor medio, convencional o de orientación preliminar. Para publicación fuerte, el dato debe incluir época, marco y fuente.
 
-El Sol puede incorporarse por composición local:
+El Sol puede incorporarse por composición local `vector(O_U→Sol)=vector(O_U→Tierra)+vector(Tierra→Sol)`.
 
-`vector(O_U→Sol)=vector(O_U→Tierra)+vector(Tierra→Sol)`.
+La Luna puede incorporarse del mismo modo `vector(O_U→Luna)=vector(O_U→Tierra)+vector(Tierra→Luna)`.
 
-La Luna puede incorporarse del mismo modo:
-
-`vector(O_U→Luna)=vector(O_U→Tierra)+vector(Tierra→Luna)`.
-
-Los planetas, satélites, asteroides y cometas requieren una carta auxiliar con vector local declarado para la época correspondiente:
-
-`vector(O_U→Planeta)=vector(O_U→Tierra)+vector(Tierra→Planeta)`.
+Los planetas, satélites, asteroides y cometas requieren una carta auxiliar con vector local declarado para la época correspondiente `vector(O_U→Planeta)=vector(O_U→Tierra)+vector(Tierra→Planeta)`.
 
 `vector(O_U→Asteroide)=vector(O_U→Tierra)+vector(Tierra→Asteroide)`.
 
@@ -519,9 +415,7 @@ La regla de cierre queda así:
 
 Se declara cerrada sólo cuando la composición está bien formada y el vector local cumple las condiciones de fuente, época, marco, unidad, orientación y residual.
 
-La regla de indeterminación queda así:
-
-`CartaAux_SV(X)=U`
+La regla de indeterminación queda así `CartaAux_SV(X)=U`
 
 cuando falta el vector local, cuando la época no está declarada, cuando el marco de referencia no está especificado, cuando la unidad no está normalizada o cuando el residual no puede controlarse.
 
@@ -533,53 +427,35 @@ Pueden incorporarse datos externos cuando éstos actúan como retorno cartográf
 
 La lógica de admisión es estricta: el Sistema Solar es un dominio físico suficientemente estudiado y acotado por la Ciencia Contemporánea como para que sus distancias de referencia, efemérides, unidades, elementos orbitales y anclajes puedan entrar en la carta auxiliar con residual de plano nulo. Esa expresión no significa error físico cero, ni eliminación de incertidumbre orbital, ni sustitución de la metrología contemporánea. Significa que no hay invasión de planos: el dato externo entra como vector auxiliar, unidad, efeméride, elemento orbital o retorno cartográfico, no como fundamento del SV.
 
-La regla general de composición es:
+La regla general de composición es `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
 
-`vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Cuando el cálculo se organiza desde el Sol como referencia local `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
 
-Cuando el cálculo se organiza desde el Sol como referencia local:
-
-`vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
-
-El primer tramo procede de la propia formulación:
-
-`vector(O_U→Tierra)=D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+El primer tramo procede de la propia formulación `vector(O_U→Tierra)=D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
 El segundo tramo procede de un retorno externo cuando el objeto `X` exige distancia local, efeméride, unidad, elemento orbital o marco de referencia.
 
 #### 8.1. Patrones externos aplicables y anclajes primeros
 
-La unidad astronómica entra como unidad convencional exacta:
-
-`P_TS = 1 au = 149.597.870.700 m`.
+La unidad astronómica entra como unidad convencional exacta `P_TS = 1 au = 149.597.870.700 m`.
 
 `P_TS` se usa como patrón Tierra–Sol. Su exactitud corresponde a la definición de la unidad astronómica, no a una distancia instantánea entre la Tierra y el Sol. Cuando se requiera posición real Tierra–Sol en una fecha concreta, deberá usarse efeméride.
 
-La Lanzadera utiliza también el anclaje Tierra–Luna, adoptado como distancia media externa de referencia:
-
-`P_TL = D(Tierra,Luna) = 384.400.000 m`.
+La Lanzadera utiliza también el anclaje Tierra–Luna, adoptado como distancia media externa de referencia `P_TL = D(Tierra,Luna) = 384.400.000 m`.
 
 `P_TL` se usa como patrón Tierra–Luna. Su función es metrológica y de escala; no sustituye una efeméride lunar cuando se exija posición real por fecha.
 
-De ambos patrones se obtiene el tramo local Tierra–Luna–Sol usado como referencia de escala:
+De ambos patrones se obtiene el tramo local Tierra–Luna–Sol usado como referencia de escala `A_LS|Tierra = P_TS − P_TL`.
 
-`A_LS|Tierra = P_TS − P_TL`.
+Sustituyendo `A_LS|Tierra = 149.597.870.700 m − 384.400.000 m`.
 
-Sustituyendo:
-
-`A_LS|Tierra = 149.597.870.700 m − 384.400.000 m`.
-
-Resultado:
-
-`A_LS|Tierra = 149.213.470.700 m`.
+Resultado: `A_LS|Tierra = 149.213.470.700 m`.
 
 Este cálculo no funda la Lanzadera. Explicita el valor local que permite ordenar el tramo Tierra–Luna–Sol dentro de la carta auxiliar.
 
 #### 8.2. Coordenada radial de la Tierra desde `O_U=(0,0)`
 
-Queda fijado:
-
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Queda fijado `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
 Con los valores declarados:
 
@@ -595,13 +471,9 @@ Esta magnitud es la coordenada radial de la Tierra respecto del origen formal-ma
 
 #### 8.3. Sol y Luna desde `O_U=(0,0)` bajo directriz auxiliar
 
-Si se incorpora el patrón Tierra–Sol como anclaje de escala:
+Si se incorpora el patrón Tierra–Sol como anclaje de escala `P_TS = 149.597.870.700 m`.
 
-`P_TS = 149.597.870.700 m`.
-
-Entonces, bajo la directriz auxiliar declarada:
-
-`D^+(O_U,Sol)=D(O_U,Tierra)+P_TS`.
+Entonces, bajo la directriz auxiliar declarada `D^+(O_U,Sol)=D(O_U,Tierra)+P_TS`.
 
 Sustituyendo:
 
@@ -613,37 +485,25 @@ Resultado:
 
 El superíndice `+` indica que se adopta la rama saliente de la directriz auxiliar. No designa posición solar instantánea ni efeméride; designa el anclaje radial de escala usado para la carta.
 
-El tramo restante desde ese anclaje solar hasta la frontera etaria/proyectada queda:
-
-`D^+(Sol,∂Ωobs)=R_U−D^+(O_U,Sol)`.
+El tramo restante desde ese anclaje solar hasta la frontera etaria/proyectada queda `D^+(Sol,∂Ωobs)=R_U−D^+(O_U,Sol)`.
 
 Resultado:
 
 `D^+(Sol,∂Ωobs) = 643.451.018.180.442.095.378,988121273 m`.
 
-La recomposición verifica:
+La recomposición verifica `D^+(O_U,Sol)+D^+(Sol,∂Ωobs)=R_U`.
 
-`D^+(O_U,Sol)+D^+(Sol,∂Ωobs)=R_U`.
+Residual algebraico: `0`.
 
-Residual algebraico:
+Con el patrón Tierra–Luna `P_TL = 384.400.000 m`.
 
-`0`.
-
-Con el patrón Tierra–Luna:
-
-`P_TL = 384.400.000 m`.
-
-Bajo la misma directriz local y con orientación declarada:
-
-`D^+(O_U,Luna)=D(O_U,Tierra)+P_TL`.
+Bajo la misma directriz local y con orientación declarada `D^+(O_U,Luna)=D(O_U,Tierra)+P_TL`.
 
 Resultado:
 
 `D^+(O_U,Luna) = 130.557.437.070.596.710.344.433.921,011878727 m`.
 
-El tramo restante hasta la frontera es:
-
-`D^+(Luna,∂Ωobs)=R_U−D^+(O_U,Luna)`.
+El tramo restante hasta la frontera es `D^+(Luna,∂Ωobs)=R_U−D^+(O_U,Luna)`.
 
 Resultado:
 
@@ -655,33 +515,21 @@ La lectura lunar queda limitada al anclaje declarado. Si se exige posición luna
 
 Para los planetas principales se admite una carta de escala orbital por semieje mayor. En esta carta, el retorno externo no es la posición instantánea del planeta, sino el valor `a_X` del semieje mayor heliocéntrico aproximado en unidades astronómicas, tomado de los elementos JPL/J2000.
 
-La fórmula de escala local es:
+La fórmula de escala local es `D(Sol,X)_a = a_X · au`.
 
-`D(Sol,X)_a = a_X · au`.
-
-Donde:
-
-`a_X` es el semieje mayor heliocéntrico del planeta `X`.
-
-`au = 149.597.870.700 m`.
+Donde `a_X` es el semieje mayor heliocéntrico del planeta `X` y `au = 149.597.870.700 m`.
 
 Esta carta no sustituye una efeméride. Sirve para ubicar la escala orbital de los cuerpos principales dentro de la lectura radial auxiliar. Si se quiere posición real de un planeta en una fecha, debe sustituirse `a_X · au` por el vector efemérico correspondiente.
 
-La carta radial completa no debe reducirse a una sola suma sin declarar directriz. La forma rigurosa es el intervalo auxiliar:
-
-`D_a^−(O_U,X)=D^+(O_U,Sol)−a_X·au`.
+La carta radial completa no debe reducirse a una sola suma sin declarar directriz. La forma rigurosa es el intervalo auxiliar `D_a^−(O_U,X)=D^+(O_U,Sol)−a_X·au`.
 
 `D_a^+(O_U,X)=D^+(O_U,Sol)+a_X·au`.
 
-Y, por simetría de frontera:
-
-`D_a^+(X,∂Ωobs)=R_U−D_a^+(O_U,X)`.
+Y, por simetría de frontera `D_a^+(X,∂Ωobs)=R_U−D_a^+(O_U,X)`.
 
 `D_a^−(X,∂Ωobs)=R_U−D_a^−(O_U,X)`.
 
-El intervalo radial auxiliar queda:
-
-`D_a(O_U,X) ∈ [D_a^−(O_U,X), D_a^+(O_U,X)]`.
+El intervalo radial auxiliar queda `D_a(O_U,X) ∈ [D_a^−(O_U,X), D_a^+(O_U,X)]`.
 
 `D_a(X,∂Ωobs) ∈ [D_a^+(X,∂Ωobs), D_a^−(X,∂Ωobs)]`.
 
@@ -702,9 +550,7 @@ La fila “Órbita media Tierra/Baricentro Tierra–Luna” no debe confundirse 
 
 #### 8.5. Escalas locales en patrones Tierra–Luna y Tierra–Sol
 
-Para hacer legibles las magnitudes locales, se introducen dos patrones externos de escala:
-
-`P_TL = 384.400.000 m`.
+Para hacer legibles las magnitudes locales, se introducen dos patrones externos de escala `P_TL = 384.400.000 m`.
 
 `P_TS = 149.597.870.700 m`.
 
@@ -756,9 +602,7 @@ El valor Tierra–Luna entra como patrón de escala y anclaje auxiliar. No susti
 
 Los elementos keplerianos aproximados de JPL entran como retornos de escala orbital. El semieje mayor `a_X` no es una posición real del planeta, ni una efeméride instantánea, ni un vector completo. Es una forma de construir una carta de escala orbital. Por eso la tabla planetaria no debe leerse como posición de Mercurio, Venus, Marte, Júpiter, Saturno, Urano o Neptuno en una fecha concreta.
 
-Las efemérides de JPL Horizons o SPICE/NAIF entran cuando se exige posición real por fecha. En ese caso, el dato debe incluir objeto, época, marco, unidad y residual. La fórmula general no cambia:
-
-`vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Las efemérides de JPL Horizons o SPICE/NAIF entran cuando se exige posición real por fecha. En ese caso, el dato debe incluir objeto, época, marco, unidad y residual. La fórmula general no cambia `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
 
 Pero el término `vector(Tierra→X)` deja de ser un semieje mayor y pasa a ser un vector efemérico declarado.
 
@@ -811,7 +655,7 @@ La verificación de compatibilidad es la siguiente:
 
 La relación correcta es:
 
-`𝓔★_TODO,SV(Γ_U;τ)= 0 → O_U=(0,0) → R_U → D(O_U,Tierra) → CartaAux_SV(X)`.
+`𝓔★_TODO,SV(Γ_U;τ)=0 → O_U=(0,0) → R_U → D(O_U,Tierra) → CartaAux_SV(X)`.
 
 Y, en el plano del dato externo:
 
@@ -821,9 +665,7 @@ La Ciencia Contemporánea no abre la cadena. Entra después, como retorno local 
 
 #### 8.10. Regla general de cierre para datos externos
 
-La regla general queda:
-
-`CartaAux_SV(X)=APTO`
+La regla general queda `CartaAux_SV(X)=APTO`
 
 si se cumplen simultáneamente:
 
@@ -843,7 +685,7 @@ Unidad declarada.
 
 Residual visible.
 
-Compatibilidad con `𝓔★_TODO,SV(Γ_U;τ)=0`.
+`𝓔★_TODO,SV(Γ_U;τ)=0` compatible.
 
 Si falta alguna de estas condiciones, la salida conserva `U`.
 
@@ -855,25 +697,17 @@ La regla general es la siguiente. Cuando el objeto pertenece al Sistema Solar y 
 
 El registro etario no se presupone como dato disponible sin más. Se calcula mediante *Edades relativas del universo observable y de sus objetos físicos* (Lloret Egea, 2026f), que formula la regla metrológico-transductiva aplicable a objetos físicos del dominio observable. Esa publicación no atribuye etaria a la totalidad absoluta; opera sobre objetos físicos internos `O_i⊂Ω_obs` y exige dominio, identidad, frontera, unidad, residual y retorno. Por tanto, la expresión “registro etario suficiente” significa: valor etario calculable o ya calculado por la regla de esa publicación, con dominio y residual declarados.
 
-La Tierra se usa como base situada cuando el objeto `X` puede recibirse por carta local desde la Tierra. La forma general es:
-
-`vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+La Tierra se usa como base situada cuando el objeto `X` puede recibirse por carta local desde la Tierra. La forma general es `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
 
 Esta base es adecuada para la Luna, planetas en fecha concreta, satélites, asteroides, cometas, baricentros y objetos con vector local disponible. Si el dato externo es sólido y el plano está bien declarado, el residual de plano es nulo: la Ciencia Contemporánea no funda el SV, y el SV no reemplaza la efeméride. El residual que pueda quedar será métrico, efemérico, instrumental o de época, no de fundamento.
 
-El Sol se usa como base local cuando el objeto se organiza mejor en una carta heliocéntrica. La forma general es:
-
-`vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+El Sol se usa como base local cuando el objeto se organiza mejor en una carta heliocéntrica. La forma general es `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
 
 Esta base es adecuada para planetas, capas orbitales, semiejes mayores, baricentros solares y familias de objetos cuya descripción primaria procede del entorno solar. Si se usa un semieje mayor, el resultado no es posición instantánea: es escala orbital. Si se usa efeméride, deben declararse fecha, marco, unidad y residual. La base solar permite ordenar los objetos internos del Sistema Solar sin convertir el Sol en origen formal del dominio-universo.
 
-`O_U=(0,0)` se usa como base estructural cuando la operación no depende de una distancia local ya medida, sino del origen formal-material de lectura del dominio-universo físico realizado. Esta base procede de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* y conserva raíz en la arquitectura superior de *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. No es punto astronómico ordinario, no es centro físico de expansión, no es Big Bang, no es lugar métrico externo y no es un cero gráfico. Su función consiste en fijar la lectura radial estructural:
+`O_U=(0,0)` se usa como base estructural cuando la operación no depende de una distancia local ya medida, sino del origen formal-material de lectura del dominio-universo físico realizado. Esta base procede de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* y conserva raíz en la arquitectura superior de *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. No es punto astronómico ordinario, no es centro físico de expansión, no es Big Bang, no es lugar métrico externo y no es un cero gráfico. Su función consiste en fijar la lectura radial estructural `R_U = D(O_U,∂Ωobs)`.
 
-`R_U = D(O_U,∂Ωobs)`.
-
-Desde el contraste con *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* se obtiene:
-
-`D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Desde el contraste con *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* se obtiene `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
 
 Esa coordenada permite después construir cartas auxiliares por composición local. La operación no convierte `O_U` en objeto físico medible; lo conserva como origen formal-material de lectura radial. Por ello, toda distancia respecto de `O_U` debe leerse como distancia formal restringida dentro del aparato SV, no como distancia física a un centro del Universo.
 
@@ -954,10 +788,9 @@ NASA Science. (2026, 12 de febrero). *Moon facts*. National Aeronautics and Spac
 
 Navigation and Ancillary Information Facility. (s. f.). *SPICE kernels*. NASA Jet Propulsion Laboratory. https://naif.jpl.nasa.gov/naif/data.html
 
-### 11. Clásulas legales
+### 11. Cláusulas legales
 
 Advertencia y reserva de derechos. Esta publicación, incluyendo su texto, formulación, estructura expositiva, tablas, gráficos, imágenes, selección y disposición de contenidos, archivos auxiliares, código, laboratorios, salidas de verificación y documentación asociada, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO. Cualquier forma de explotación de la obra o de partes sustanciales de ella —incluidas su reproducción, distribución, comunicación pública, puesta a disposición, transformación, traducción, adaptación, incorporación a bases de datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas o desarrollos empresariales— sólo podrá realizarse conforme a la licencia indicada, con autorización expresa y por escrito de los titulares de derechos, o al amparo de una excepción legal aplicable. La licencia indicada no autoriza usos comerciales, explotación empresarial, transformación distribuida ni reutilización sustancial de la obra fuera de sus términos. La aplicación, implementación, explotación técnica o incorporación de los resultados, fórmulas, tablas, nomenclatura, metodología, transductores, criterios de admisión, dominios, laboratorios o conclusiones de esta obra en el campo de la Física, la Química, la ciencia de materiales, la ingeniería, la inteligencia artificial u otras ciencias derivadas queda reservada a la autorización expresa del autor cuando implique reproducción, transformación, comunicación pública, distribución, integración sustancial de la obra protegida, explotación comercial, desarrollo empresarial o uso no cubierto por la licencia. Nada de lo anterior limita los usos permitidos imperativamente por la ley.
 
 Notice and reservation of rights. This publication, including its text, formulation, expository structure, tables, graphics, images, selection and arrangement of contents, auxiliary files, code, laboratories, verification outputs and associated documentation, is protected by the author’s intellectual property rights and, where applicable, by the corresponding rights management through CEDRO. Any form of exploitation of the work or of substantial parts thereof —including reproduction, distribution, public communication, making available, transformation, translation, adaptation, incorporation into databases, training or evaluation of automated systems, integration into products, services, reports, software, models, catalogues, teaching materials, industrial materials, technical publications or business developments— may only be carried out in accordance with the indicated license, with the express written authorization of the rights holders, or under an applicable statutory exception. The indicated license does not authorize commercial uses, business exploitation, distributed transformation or substantial reuse of the work outside its terms. The application, implementation, technical exploitation or incorporation of the results, formulas, tables, nomenclature, transducers, admission criteria, domains, laboratories or conclusions of this work in the field of Physics, Chemistry, materials science, engineering, artificial intelligence or other derived sciences is reserved to the express authorization of the author where it entails reproduction, transformation, public communication, distribution, substantial integration of the protected work, commercial exploitation, business development or any use not covered by the license. Nothing herein shall limit uses that are mandatorily permitted by law.
 
-|URL canónica:
