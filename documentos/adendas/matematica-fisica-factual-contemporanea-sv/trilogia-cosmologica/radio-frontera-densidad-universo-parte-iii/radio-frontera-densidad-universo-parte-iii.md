@@ -1,17 +1,18 @@
 # Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III
 
-**© 2026. Autor:** [Juan Antonio Lloret Egea](https://www.linkedin.com/in/juanantoniolloretegea) | [ORCID: 0000-0002-6634-3351](https://orcid.org/0000-0002-6634-3351) . [DOI: 10.21428/39829d0b.0430adc0](https://doi.org/10.21428/39829d0b.0430adc0) . [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)](https://www.itvia.online/) | IA eñ™ — *La Biblia de la IA*™ | [ISSN 2695-6411](https://portal.issn.org/resource/ISSN/2695-6411) **| Licencia**: CC BY-NC-ND 4.0 | Fecha: Madrid, 17 de junio de 2026 | (Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.)
+<p><img src="https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p0430adc0-813e-42b0-bbfa-f820886b0efd/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/image-11781591541777.png" alt="ITVIA" width="36" /> © 2026. Autor: Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | DOI: <a href="https://doi.org/10.21428/39829d0b.0430adc0">10.21428/39829d0b.0430adc0</a> | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia: CC BY-NC-ND 4.0 | Fecha: Madrid, 17 de junio de 2026 | (Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.)</p>
 
-![Portada — Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III. DOI: https://doi.org/10.21428/39829d0b.0430adc0](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p0430adc0-813e-42b0-bbfa-f820886b0efd/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-41781561875868.png?width=1920&fit=bounds)
+<p align="center">
+  <img src="https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p0430adc0-813e-42b0-bbfa-f820886b0efd/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-41781561875868.png" alt="Portada — Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III. DOI: https://doi.org/10.21428/39829d0b.0430adc0" width="900" />
+</p>
 
+Siguiendo la gnoseología de René Descartes (*Renatus Cartesius*), la investigación rigurosa exige gestionar la disparidad entre el **entendimiento** —la capacidad limitada de procesar e interpretar datos— y la **voluntad** —la facultad indeterminada y célere de validar o refutar hipótesis—. Epistemológicamente, el investigador corre el riesgo de viciar su objeto de estudio si su voluntad convalida una conclusión antes de que el entendimiento la haya verificado con evidencia suficiente. Por consiguiente, ante la insuficiencia de un marco conceptual global o de un conjunto de datos completo, la metodología científica debe subordinar la interpretación empírica a la **formalización matemática**, que debe articularse estrechamente con la evidencia experimental, pero mantenerse como criterio lógico rector. La observación empírica dentro de un dominio local puede inducir errores interpretativos —como inferir una trayectoria rectilínea a partir de tres puntos aislados—, mientras que sólo el análisis matemático global puede revelar la verdadera topología del fenómeno: circular, poligonal, bidimensional, tridimensional, geométrica o abstracta, según el dominio de lectura.
 
-> Siguiendo la gnoseología de René Descartes (*Renatus Cartesius*), la investigación rigurosa exige gestionar la disparidad entre el **entendimiento** —la capacidad limitada de procesar e interpretar datos— y la **voluntad** —la facultad indeterminada y célere de validar o refutar hipótesis—. Epistemológicamente, el investigador corre el riesgo de viciar su objeto de estudio si su voluntad convalida una conclusión antes de que el entendimiento la haya verificado con evidencia suficiente. Por consiguiente, ante la insuficiencia de un marco conceptual global o de un conjunto de datos completo, la metodología científica debe subordinar la interpretación empírica a la **formalización matemática**, que debe articularse estrechamente con la evidencia experimental, pero mantenerse como criterio lógico rector. La observación empírica dentro de un dominio local puede inducir errores interpretativos —como inferir una trayectoria rectilínea a partir de tres puntos aislados—, mientras que sólo el análisis matemático global puede revelar la verdadera topología del fenómeno: circular, poligonal, bidimensional, tridimensional, geométrica o abstracta, según el dominio de lectura.
-
-> **El dominio del análisis,** y el análisis del dominio es la clave de toda ciencia. **15** palabras. [TODO y NADA](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md "_blank"). La ciencia falla si se usan técnicas avanzadas sin entender el problema real. La ciencia también falla si se entiende el problema pero no se sabe cómo medirlo. El éxito exige cruzar ambas destrezas de forma exacta.
+> **El dominio del análisis,** y el análisis del dominio es la clave de toda ciencia. **15** palabras. [TODO y NADA](https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/teoria-todo-nada-sv/teoria_todo_nada_sv.md). La ciencia falla si se usan técnicas avanzadas sin entender el problema real. La ciencia también falla si se entiende el problema pero no se sabe cómo medirlo. El éxito exige cruzar ambas destrezas de forma exacta.
 
 ---
 
-# Índice
+## Índice
 
 0. Resumen
 
@@ -54,11 +55,11 @@ Anexo F. Condiciones de no contradicción entre magnitudes cosmológicas
 
 17.2. Diccionario formal de símbolos, dominios y funciones
 
-17.3. Línea del Umbral SV como raíz del origen `O_U=(0,0)`
+17.3. Línea del Umbral SV como raíz del origen O_U=(0,0)
 
-17.4. Radio estructural `R_U` como lectura radial desde `O_U=(0,0)`
+17.4. Radio estructural R_U como lectura radial desde O_U=(0,0)
 
-17.5. Lanzadera Ómicron y tramo situado `Tierra → ∂Ωobs`
+17.5. Lanzadera Ómicron y tramo situado Tierra → ∂Ωobs
 
 17.6. Contraste del radio estructural por cambio de origen
 
@@ -66,7 +67,7 @@ Anexo F. Condiciones de no contradicción entre magnitudes cosmológicas
 
 17.8. Retornos externos calculados, cartas auxiliares radiales y control superior de compatibilidad
 
-17.9. Criterio de elección de base de cálculo: Tierra, Sol, `O_U=(0,0)` y Lanzadera Ómicron
+17.9. Criterio de elección de base de cálculo: Tierra, Sol, O_U=(0,0) y Lanzadera Ómicron
 
 17.10. Bibliografía APA7
 
@@ -82,7 +83,7 @@ Cláusulas legales
 
 Este estudio aborda de forma integrada tres problemas que suelen aparecer separados en la cosmología contemporánea: el radio del universo observable, la interpretación de la materia oscura y la naturaleza física de la energía oscura asociada a la constante cosmológica Λ en el modelo ΛCDM. La exposición distingue el radio interno estructural calculado desde la constante cosmológica, la proyección fronteriza obtenida por una lectura etaria del observable y el radio comóvil externo empleado en cosmología observacional. Esa separación impide reducir todas las distancias cosmológicas a una sola magnitud y permite tratar cada una bajo su dominio propio. A partir de esa distinción, el trabajo formula una lectura no sustancial de la materia oscura: no como masa oculta añadida, sino como diferencia entre capacidad estructural del dominio, materialidad retornada, sutura gravitatoria efectiva y residual de no clausura. La energía oscura tampoco se introduce como fluido material, sino como régimen de curvatura ciclo-distancial asociado a la constante cosmológica y a su retorno observacional. Los grupos de datos externos se emplean únicamente para contraste, ejemplificación y retorno metrológico; no sustituyen el dominio formal de las magnitudes ni fuerzan la equivalencia entre radio interno, radio auxiliar y radio comóvil. El resultado es una lectura unificada, pero no indiferenciada, del universo observable: geometría, frontera, densidad, materia ordinaria, materia oscura y energía oscura quedan coordinadas sin convertir ninguna de esas capas en fundamento absoluto de las demás.
 
-> Para situar con precisión el concepto de ‘sutura’, conviene leer ***[La materia oscura no existe como sustancia](https://doi.org/10.21428/39829d0b.7b41835f "_blank")***.
+> Para situar con precisión el concepto de ‘sutura’, conviene leer ***[La materia oscura no existe como sustancia](https://doi.org/10.21428/39829d0b.7b41835f)***.
 
 ## 0.1. Abstract
 
@@ -100,7 +101,7 @@ La materia oscura presenta una dificultad análoga. En la cosmología estándar,
 
 La energía oscura exige una precaución paralela. Su presencia en la cosmología contemporánea expresa la aceleración observada de la expansión y se formaliza, en el marco ΛCDM, mediante Λ y la fracción de densidad asociada a ese término. No obstante, la palabra energía puede inducir una lectura material o sustancial que no se sigue de forma inmediata del aparato observacional. La energía oscura puede funcionar como componente efectiva en las ecuaciones cosmológicas sin quedar automáticamente convertida en fluido material ordinario. En este punto, la distinción entre valor de contraste, retorno observacional y naturaleza física resulta obligada: una magnitud puede operar correctamente en un modelo y, al mismo tiempo, exigir una lectura más estricta de dominio, unidad, residual y retorno.
 
-Junto al plano cosmológico global, la astronomía contemporánea aporta referencias nodales útiles para evitar una abstracción excesiva. El centro galáctico asociado a Sgr A\*, las galaxias del Grupo Local como M31 y los catálogos astrométricos de Gaia permiten recordar que la ciencia observacional trabaja con posiciones, movimientos propios, paralajes, velocidades radiales, fuentes compactas, incertidumbres, trazas y marcos de referencia (Event Horizon Telescope Collaboration, 2022a, 2022b; Gaia Collaboration et al., 2023; Rubin & Ford, 1970). Estos objetos y catálogos no se introducen como prueba de la Lanzadera Ómicron ni como cartografía total del universo observable. Su función es más limitada y más precisa: sirven como grupos de datos y referencias de contraste para mostrar que una lectura por nodos exige dominio, nodo de precedencia, nodo de llegada, traza, residual y retorno. Si el subdominio no está definido, no hay salto legítimo hacia una localización interna; queda U (entendida ésta en adelante también como indeterminación).
+Junto al plano cosmológico global, la astronomía contemporánea aporta referencias nodales útiles para evitar una abstracción excesiva. El centro galáctico asociado a Sgr A&#42;, las galaxias del Grupo Local como M31 y los catálogos astrométricos de Gaia permiten recordar que la ciencia observacional trabaja con posiciones, movimientos propios, paralajes, velocidades radiales, fuentes compactas, incertidumbres, trazas y marcos de referencia (Event Horizon Telescope Collaboration, 2022a, 2022b; Gaia Collaboration et al., 2023; Rubin & Ford, 1970). Estos objetos y catálogos no se introducen como prueba de la Lanzadera Ómicron ni como cartografía total del universo observable. Su función es más limitada y más precisa: sirven como grupos de datos y referencias de contraste para mostrar que una lectura por nodos exige dominio, nodo de precedencia, nodo de llegada, traza, residual y retorno. Si el subdominio no está definido, no hay salto legítimo hacia una localización interna; queda U (entendida ésta en adelante también como indeterminación).
 
 El estado del arte necesario para el problema tratado no consiste en repetir la historia de la constante cosmológica, la determinación del radio o la construcción etaria ya desarrolladas en estudios anteriores. Su función es acotar el punto físico que aparece cuando esas magnitudes se colocan juntas: cómo coordinar radio interno, frontera etaria, radio comóvil externo, densidad, materia ordinaria, materia oscura, energía oscura y constante cosmológica sin que una de esas capas absorba a las demás. El punto de partida no es la sustitución de la cosmología contemporánea, sino su lectura por dominios: cada grupo de datos conserva su utilidad como contraste, ejemplificación y retorno, pero ninguna cifra externa puede ocupar el lugar de una magnitud interna si no declara dominio, unidad, frontera, residual y traza.
 
@@ -122,28 +123,28 @@ El punto físico central puede formularse como sigue: el universo observable no 
 
 La coordinación entre radio, frontera, densidad y retorno cosmológico exige separar desde el inicio las magnitudes que comparten símbolo, nombre aproximado o función aparente. La confusión más peligrosa aparece entre **Λ** y **λ**: la primera pertenece al régimen de la constante cosmológica, mientras la segunda pertenece al tránsito nodal-etario de la Recta-Ómicron. También debe separarse R_U, radio interno estructural; R_aux, radio auxiliar por proyección fronteriza; y el radio comóvil externo, magnitud propia de la cosmología observacional. En densidad ocurre algo análogo: ρ_cap, ρ_ret, ρ_sut,grav y ρ_C no son nombres alternativos de una misma materia, sino capas distintas de capacidad, materialidad retornada, sutura y residual. La edad A tampoco actúa como tiempo rector universal: designa un corte etario declarado dentro de un dominio.
 
-| **Magnitud** | **Dominio** | **Definición funcional** | **Uso admisible** | **Uso no admisible** |
-|---|---|---|---|---|
-| Λ | Cosmología | Constante cosmológica o término cosmológico asociado al modelo ΛCDM | Valor de contraste y retorno cosmológico cuando se declara grupo de datos, unidad, residual y traza | Identificarla con λ_acc, λ_∂, energía material ordinaria o fuerza local |
-| Λ_puro(T_obs) | Dominio cosmológico declarado | Valor cerrado de la constante cosmológica para la edad declarada del observable | Determinar el radio interno estructural mediante R_U = √(3/Λ) = cT_obs | Corregir el radio comóvil externo o absorber la frontera etaria |
-| Λ(T) | Familia etaria | Familia analítica Λ(T)=3/(c²T²) para cortes etarios declarados | Estudiar dependencia por corte si T tiene dominio, unidad, frontera, residual y retorno | Reescribir retroactivamente el valor cerrado ya calculado para T_obs |
-| Λ_obs[B] | Grupo de datos externo | Valor observacional asociado a parámetros cosmológicos de un grupo de datos B | Contraste con cosmología contemporánea | Sustituir la magnitud interna sin transductor |
-| Λ_ret[B] | Retorno observacional | Retorno transductivo de Λ_obs[B] con unidad y residual | Comparar valores bajo grupo de datos declarado | Convertir un ajuste observacional en fundamento interno |
-| λ_acc | Recta-Ómicron | Acceso nodal al dominio observable retornado | Entrada de la Lanzadera desde un nodo de precedencia | Tratarlo como frontera o constante cosmológica |
-| λ_∂ | Recta-Ómicron | Brazo fronterizo etario obtenido desde λ_acc mediante coeficiente de tránsito | Determinar frontera etaria y habilitar proyección auxiliar | Igualarlo a λ_acc, Λ o radio comóvil |
-| κ_∂←acc | Recta-Ómicron | Coeficiente exacto de tránsito desde acceso a frontera | Transformar λ_acc en λ_∂ bajo dominio etario declarado | Usarlo como parámetro cosmológico externo |
-| R_U | Geometría interna estructural | Radio interno de la esfera ideal del universo observable | Fijar radio, superficie y volumen internos del dominio geométrico declarado | Medir contenido material, radio comóvil externo o distribución de estructuras |
-| R_aux | Proyección auxiliar | Radio auxiliar obtenido al proyectar geométricamente el brazo fronterizo etario | Comparar frontera etaria con otros planos de distancia | Sustituir R_U o presentarse como radio cosmológico primario |
-| R_comóvil | Cosmología observacional | Radio comóvil externo del universo observable en el régimen cosmológico contemporáneo | Contraste externo de distancia cosmológica | Corregir automáticamente R_U o R_aux |
-| ρ_cap | Densidad estructural | Capacidad estructural retornada del dominio | Medir capacidad del dominio con eficacia gravitatoria | Identificarla con inventario material |
-| ρ_ret | Materialidad retornada | Densidad de materia admitida por inventario físico declarado | Recoger materia ordinaria y materialidad retornada por grupo de datos | Agotar por sí sola la capacidad estructural |
-| ρ_sut,grav | Sutura gravitatoria | Diferencia estructural con eficacia gravitatoria no agotada por materialidad retornada | Releer el retorno atribuido a materia oscura sin sustancialización | Nombrarla como nueva sustancia oscura |
-| ρ_C | Residual | No clausura visible del dominio | Mantener abierto lo no resuelto por inventario, retorno o contraste | Ocultarlo para producir cierre aparente |
-| A_Ωobs | Edad del observable | Edad declarada del universo observable retornado | Fijar corte etario del dominio | Confundirla con edad de totalidad absoluta |
-| A_fin(Ωobs) | Ciclo observable | Límite etario de clausura del ciclo declarado | Construir el tramo de semiclausura y frontera | Tratarlo como distancia espacial directa |
-| A_SS | Dominio sistémico solar | Edad del Sistema Solar como dominio de referencia | Usarla como nodo etario sistémico cuando el dominio declarado sea el sistema solar | Sustituirla por la edad de un objeto individual sin justificación |
-| A_☉ | Objeto solar | Edad del Sol como estrella individual | Controlar diferencias entre objeto y sistema | Sustituir automáticamente A_SS |
-| U | No clausura | Marca de indeterminación honesta por falta de dominio, retorno, traza o cierre | Conservar lo no resuelto sin forzar afirmación ni negación | Convertirlo en probabilidad, causa, sustancia o permiso de cierre favorable |
+| Magnitud | Dominio | Definición funcional | Uso admisible | Uso no admisible |
+| --- | --- | --- | --- | --- |
+| Λ             | Cosmología                    | Constante cosmológica o término cosmológico asociado al modelo ΛCDM                    | Valor de contraste y retorno cosmológico cuando se declara grupo de datos, unidad, residual y traza | Identificarla con λ_acc, λ_∂, energía material ordinaria o fuerza local      |
+| Λ_puro(T_obs) | Dominio cosmológico declarado | Valor cerrado de la constante cosmológica para la edad declarada del observable        | Determinar el radio interno estructural mediante R_U = √(3/Λ) = cT_obs                              | Corregir el radio comóvil externo o absorber la frontera etaria               |
+| Λ(T)          | Familia etaria                | Familia analítica Λ(T)=3/(c²T²) para cortes etarios declarados                         | Estudiar dependencia por corte si T tiene dominio, unidad, frontera, residual y retorno             | Reescribir retroactivamente el valor cerrado ya calculado para T_obs          |
+| Λ_obs[B]    | Grupo de datos externo        | Valor observacional asociado a parámetros cosmológicos de un grupo de datos B          | Contraste con cosmología contemporánea                                                              | Sustituir la magnitud interna sin transductor                                 |
+| Λ_ret[B]    | Retorno observacional         | Retorno transductivo de Λ_obs[B] con unidad y residual                               | Comparar valores bajo grupo de datos declarado                                                      | Convertir un ajuste observacional en fundamento interno                       |
+| λ_acc         | Recta-Ómicron                 | Acceso nodal al dominio observable retornado                                           | Entrada de la Lanzadera desde un nodo de precedencia                                                | Tratarlo como frontera o constante cosmológica                                |
+| λ_∂          | Recta-Ómicron                 | Brazo fronterizo etario obtenido desde λ_acc mediante coeficiente de tránsito          | Determinar frontera etaria y habilitar proyección auxiliar                                          | Igualarlo a λ_acc, Λ o radio comóvil                                          |
+| κ_∂←acc      | Recta-Ómicron                 | Coeficiente exacto de tránsito desde acceso a frontera                                 | Transformar λ_acc en λ_∂ bajo dominio etario declarado                                             | Usarlo como parámetro cosmológico externo                                     |
+| R_U           | Geometría interna estructural | Radio interno de la esfera ideal del universo observable                               | Fijar radio, superficie y volumen internos del dominio geométrico declarado                         | Medir contenido material, radio comóvil externo o distribución de estructuras |
+| R_aux         | Proyección auxiliar           | Radio auxiliar obtenido al proyectar geométricamente el brazo fronterizo etario        | Comparar frontera etaria con otros planos de distancia                                              | Sustituir R_U o presentarse como radio cosmológico primario                   |
+| R_comóvil     | Cosmología observacional      | Radio comóvil externo del universo observable en el régimen cosmológico contemporáneo  | Contraste externo de distancia cosmológica                                                          | Corregir automáticamente R_U o R_aux                                          |
+| ρ_cap         | Densidad estructural          | Capacidad estructural retornada del dominio                                            | Medir capacidad del dominio con eficacia gravitatoria                                               | Identificarla con inventario material                                         |
+| ρ_ret         | Materialidad retornada        | Densidad de materia admitida por inventario físico declarado                           | Recoger materia ordinaria y materialidad retornada por grupo de datos                               | Agotar por sí sola la capacidad estructural                                   |
+| ρ_sut,grav    | Sutura gravitatoria           | Diferencia estructural con eficacia gravitatoria no agotada por materialidad retornada | Releer el retorno atribuido a materia oscura sin sustancialización                                  | Nombrarla como nueva sustancia oscura                                         |
+| ρ_C           | Residual                      | No clausura visible del dominio                                                        | Mantener abierto lo no resuelto por inventario, retorno o contraste                                 | Ocultarlo para producir cierre aparente                                       |
+| A_Ωobs        | Edad del observable           | Edad declarada del universo observable retornado                                       | Fijar corte etario del dominio                                                                      | Confundirla con edad de totalidad absoluta                                    |
+| A_fin(Ωobs)   | Ciclo observable              | Límite etario de clausura del ciclo declarado                                          | Construir el tramo de semiclausura y frontera                                                       | Tratarlo como distancia espacial directa                                      |
+| A_SS          | Dominio sistémico solar       | Edad del Sistema Solar como dominio de referencia                                      | Usarla como nodo etario sistémico cuando el dominio declarado sea el sistema solar                  | Sustituirla por la edad de un objeto individual sin justificación             |
+| A_☉          | Objeto solar                  | Edad del Sol como estrella individual                                                  | Controlar diferencias entre objeto y sistema                                                        | Sustituir automáticamente A_SS                                                |
+| U             | No clausura                   | Marca de indeterminación honesta por falta de dominio, retorno, traza o cierre         | Conservar lo no resuelto sin forzar afirmación ni negación                                          | Convertirlo en probabilidad, causa, sustancia o permiso de cierre favorable   |
 
 La tabla impide tres reducciones. La primera reducción consistiría en tratar todo radio como una misma distancia. Esa lectura queda excluida: R_U, R_aux y R_comóvil sólo pueden compararse si cada uno conserva dominio, unidad, frontera y retorno. La segunda reducción consistiría en tratar toda lambda como una misma magnitud. También queda excluida: Λ pertenece al plano cosmológico y λ al tránsito de la Lanzadera. La tercera reducción consistiría en tratar toda densidad gravitatoria como materia. La ecuación de densidad debe conservar capacidad, materialidad retornada, sutura y residual: ρ_cap = ρ_ret + ρ_sut,grav + ρ_C.
 
@@ -151,31 +152,31 @@ La salida U cumple una función de seguridad formal. No designa ignorancia vaga 
 
 ## 3. Radio interno estructural del universo observable
 
-El radio interno estructural del universo observable designa una magnitud geométrica propia: el radio de una esfera ideal asociada a un dominio cosmológico declarado (Lloret Egea, 2026a, 2026b). Su función no consiste en medir la distribución de galaxias, la masa total, la radiación, la energía acumulada ni la distancia comóvil reconstruida por la cosmología observacional. Tampoco actúa como sustituto de las distancias luminosas, angulares o comóviles usadas en el modelo `ΛCDM`. Su alcance es más preciso: fija una medida interna de clausura geométrica bajo una constante cosmológica pura y una edad declarada del observable. La relación rectora se expresa mediante la cadena:
+El radio interno estructural del universo observable designa una magnitud geométrica propia: el radio de una esfera ideal asociada a un dominio cosmológico declarado (Lloret Egea, 2026a, 2026b). Su función no consiste en medir la distribución de galaxias, la masa total, la radiación, la energía acumulada ni la distancia comóvil reconstruida por la cosmología observacional. Tampoco actúa como sustituto de las distancias luminosas, angulares o comóviles usadas en el modelo ΛCDM. Su alcance es más preciso: fija una medida interna de clausura geométrica bajo una constante cosmológica pura y una edad declarada del observable. La relación rectora se expresa mediante la cadena:
 
-`Λ_puro(T_obs) = 3/(c²T_obs²)`
+Λ_puro(T_obs) = 3/(c²T_obs²)
 
-`R_U = √(3/Λ_puro) = cT_obs`
+R_U = √(3/Λ_puro) = cT_obs
 
-En esta formulación, `T_obs` no opera como tiempo absoluto ni como fundamento universal, sino como edad declarada del universo observable dentro del dominio tratado. La constante `c` actúa como constante metrológica de retorno, no como autorización para convertir el cálculo en una historia física completa del contenido cósmico. La salida `R_U` expresa el radio interno de la esfera ideal que corresponde al dominio; no expresa por sí sola volumen material efectivo, masa contenida, inventario bariónico, materia oscura, energía oscura ni estructura a gran escala.
+En esta formulación, T_obs no opera como tiempo absoluto ni como fundamento universal, sino como edad declarada del universo observable dentro del dominio tratado. La constante c actúa como constante metrológica de retorno, no como autorización para convertir el cálculo en una historia física completa del contenido cósmico. La salida R_U expresa el radio interno de la esfera ideal que corresponde al dominio; no expresa por sí sola volumen material efectivo, masa contenida, inventario bariónico, materia oscura, energía oscura ni estructura a gran escala.
 
-Una vez determinado `R_U`, la magnitud puede devolverse a patrones de escala reconocibles (Bureau International des Poids et Mesures, 2019; International Astronomical Union, 2012; Tiesinga et al., 2022). En los desarrollos previos de radio interno y frontera etaria se emplearon patrones como la distancia media Tierra–Luna, la distancia media Tierra–Sol y, en escala microfísica, el radio de Bohr. Esos patrones no producen el radio ni sustituyen el dominio que lo origina: comunican escala. Su función es metrológica y cognitiva, porque permiten que una magnitud cosmológica extrema pueda leerse frente a referencias conocidas sin quedar absorbida por ellas. La regla permanece estricta: el patrón orienta la magnitud ante una lectura; no funda la magnitud.
+Una vez determinado R_U, la magnitud puede devolverse a patrones de escala reconocibles (Bureau International des Poids et Mesures, 2019; International Astronomical Union, 2012; Tiesinga et al., 2022). En los desarrollos previos de radio interno y frontera etaria se emplearon patrones como la distancia media Tierra–Luna, la distancia media Tierra–Sol y, en escala microfísica, el radio de Bohr. Esos patrones no producen el radio ni sustituyen el dominio que lo origina: comunican escala. Su función es metrológica y cognitiva, porque permiten que una magnitud cosmológica extrema pueda leerse frente a referencias conocidas sin quedar absorbida por ellas. La regla permanece estricta: el patrón orienta la magnitud ante una lectura; no funda la magnitud.
 
-La consecuencia inmediata es que `R_U` queda cerrado para el corte `T_obs` declarado. Si se adopta `T_obs = 13.800.000.000 a_J`, el radio interno estructural se obtiene como retorno metrológico de ese corte bajo `c`. El valor resultante puede expresarse en metros, años luz o mediante cocientes frente a patrones declarados, pero esa devolución de unidad no modifica su naturaleza: sigue siendo radio interno estructural, no radio comóvil externo. La conversión de unidad y el retorno por patrón no cambian el dominio de la magnitud.
+La consecuencia inmediata es que R_U queda cerrado para el corte T_obs declarado. Si se adopta T_obs = 13.800.000.000 a_J, el radio interno estructural se obtiene como retorno metrológico de ese corte bajo c. El valor resultante puede expresarse en metros, años luz o mediante cocientes frente a patrones declarados, pero esa devolución de unidad no modifica su naturaleza: sigue siendo radio interno estructural, no radio comóvil externo. La conversión de unidad y el retorno por patrón no cambian el dominio de la magnitud.
 
-La diferencia con el radio comóvil externo es esencial. El radio comóvil pertenece a la reconstrucción cosmológica contemporánea y depende de un modelo de expansión, de parámetros observacionales y de un grupo de datos. `R_U`, en cambio, nace de la relación entre `Λ_puro(T_obs)` y el corte etario declarado. Por ello, la eventual diferencia numérica entre ambos radios no constituye, por sí misma, una contradicción. Sólo habría contradicción si ambas magnitudes pretendieran medir el mismo dominio con la misma regla de retorno. No es el caso: una magnitud pertenece a la clausura geométrica interna; la otra pertenece al régimen observacional comóvil.
+La diferencia con el radio comóvil externo es esencial. El radio comóvil pertenece a la reconstrucción cosmológica contemporánea y depende de un modelo de expansión, de parámetros observacionales y de un grupo de datos. R_U, en cambio, nace de la relación entre Λ_puro(T_obs) y el corte etario declarado. Por ello, la eventual diferencia numérica entre ambos radios no constituye, por sí misma, una contradicción. Sólo habría contradicción si ambas magnitudes pretendieran medir el mismo dominio con la misma regla de retorno. No es el caso: una magnitud pertenece a la clausura geométrica interna; la otra pertenece al régimen observacional comóvil.
 
-La diferencia con `R_aux` también debe conservarse. `R_aux` no nace de `Λ_puro(T_obs)`, sino de la proyección geométrica auxiliar de una frontera etaria obtenida mediante la Recta-Ómicron. Su aparición presupone antes un tránsito nodal-etario: acceso, coeficiente de paso, brazo fronterizo y sólo después proyección. `R_U` no contiene ese tránsito; `R_aux` no sustituye el cálculo de `R_U`. Ambos pueden coordinarse, pero no identificarse.
+La diferencia con R_aux también debe conservarse. R_aux no nace de Λ_puro(T_obs), sino de la proyección geométrica auxiliar de una frontera etaria obtenida mediante la Recta-Ómicron. Su aparición presupone antes un tránsito nodal-etario: acceso, coeficiente de paso, brazo fronterizo y sólo después proyección. R_U no contiene ese tránsito; R_aux no sustituye el cálculo de R_U. Ambos pueden coordinarse, pero no identificarse.
 
-La esfera ideal asociada a `R_U` permite calcular superficie y volumen internos:
+La esfera ideal asociada a R_U permite calcular superficie y volumen internos:
 
-`S_U = 4πR_U²`
+S_U = 4πR_U²
 
-`V_U = (4π/3)R_U³`
+V_U = (4π/3)R_U³
 
-Estas magnitudes conservan el mismo límite: son superficie y volumen geométricos de la esfera ideal, no medidas directas de contenido físico. Usar `V_U` para densidad material exige una operación adicional de dominio, inventario, unidad, residual y retorno. Sin esa operación, el volumen geométrico no autoriza por sí solo una densidad física de materia ordinaria, materia oscura o energía oscura.
+Estas magnitudes conservan el mismo límite: son superficie y volumen geométricos de la esfera ideal, no medidas directas de contenido físico. Usar V_U para densidad material exige una operación adicional de dominio, inventario, unidad, residual y retorno. Sin esa operación, el volumen geométrico no autoriza por sí solo una densidad física de materia ordinaria, materia oscura o energía oscura.
 
-La forma segura de uso queda fijada: `R_U` puede compararse con otras magnitudes cosmológicas sólo si se declara el dominio de cada una. Puede contrastarse con el radio comóvil externo como diferencia de régimen; puede coordinarse con `R_aux` como diferencia entre radio interno y frontera etaria proyectada; puede entrar en cálculos geométricos internos; puede devolverse a patrones de escala cuando se conserve su unidad. No puede convertirse en cartografía total del universo observable ni en recipiente material sin transductor.
+La forma segura de uso queda fijada: R_U puede compararse con otras magnitudes cosmológicas sólo si se declara el dominio de cada una. Puede contrastarse con el radio comóvil externo como diferencia de régimen; puede coordinarse con R_aux como diferencia entre radio interno y frontera etaria proyectada; puede entrar en cálculos geométricos internos; puede devolverse a patrones de escala cuando se conserve su unidad. No puede convertirse en cartografía total del universo observable ni en recipiente material sin transductor.
 
 El radio interno estructural cumple, por tanto, una función de clausura geométrica controlada. Da una magnitud clara, reproducible y retornable, pero no absorbe el resto del problema cosmológico. La densidad, la materia ordinaria, la sutura gravitatoria, el residual y la constante cosmológica observacional pertenecen a operaciones posteriores. La coordinación entre esas capas exige conservar la diferencia entre radio calculado, frontera proyectada, distancia comóvil reconstruida y patrón de escala.
 
@@ -261,7 +262,7 @@ El punto decisivo es que λ_∂ no queda indeterminada en este desarrollo (Llore
 
 λ_∂ ≈ 6,434510183300399660789881212730024 × 10^20 UFE.
 
-La diferencia entre ambas magnitudes es positiva: Δ_∂|acc = λ_∂ − λ_acc > 0.
+La diferencia entre ambas magnitudes es positiva: Δ_∂∣acc = λ_∂ − λ_acc > 0.
 
 Ese residual positivo impide identificar acceso y frontera. La frontera no es el acceso prolongado por lenguaje; es una magnitud distinta, obtenida mediante tránsito. Si se confundieran λ_acc y λ_∂, la Lanzadera perdería precisamente aquello que debe aportar: la separación entre entrada nodal y brazo fronterizo.
 
@@ -287,9 +288,9 @@ La Recta-Ómicron cumple, por tanto, una función intermedia y precisa. No funda
 
 Los nodos astronómicos de contraste no fundan el radio interno estructural, no calculan la constante cosmológica, no generan la frontera etaria y no sustituyen el radio comóvil externo. Su función es más limitada y, precisamente por ello, más útil: permiten comprobar cómo se comporta el lenguaje de dominio, nodo, traza, retorno e incertidumbre cuando se enfrenta a objetos físicos reconocidos por la astronomía contemporánea. Un nodo astronómico no decide Λ; tampoco transforma λ_∂ en dato observacional directo. Sirve para situar una lectura, no para reemplazar la cadena que produce la magnitud.
 
-El centro galáctico ofrece el primer caso de contraste (Event Horizon Telescope Collaboration, 2022a, 2022b). **Sgr A\*** es un nodo físicamente reconocido por observaciones astronómicas independientes: dinámica estelar, radiointerferometría de muy larga base y resultados del Event Horizon Telescope. Su valor para este análisis no consiste en convertirlo en centro cosmológico, sino en mostrar qué significa un nodo fuerte dentro de un dominio declarado. En el dominio galáctico, Sgr A\* puede funcionar como centro dinámico de referencia; en el dominio cosmológico observable, no puede ocupar el lugar de R_U, Λ ni R_aux. La potencia del nodo depende de su dominio, no de una extrapolación verbal.
+El centro galáctico ofrece el primer caso de contraste (Event Horizon Telescope Collaboration, 2022a, 2022b). **Sgr A&#42;** es un nodo físicamente reconocido por observaciones astronómicas independientes: dinámica estelar, radiointerferometría de muy larga base y resultados del Event Horizon Telescope. Su valor para este análisis no consiste en convertirlo en centro cosmológico, sino en mostrar qué significa un nodo fuerte dentro de un dominio declarado. En el dominio galáctico, Sgr A&#42; puede funcionar como centro dinámico de referencia; en el dominio cosmológico observable, no puede ocupar el lugar de R_U, Λ ni R_aux. La potencia del nodo depende de su dominio, no de una extrapolación verbal.
 
-El uso de Sgr A\* exige una restricción clara. Como nodo galáctico, puede ordenar trayectorias, posiciones, escalas y retornos dentro de la Vía Láctea. Como objeto físico, admite datos observacionales con incertidumbre. Como ejemplo formal, muestra que un nodo puede estar muy bien trazado sin convertirse en fundamento de todos los dominios. Por ello, su entrada en este desarrollo debe limitarse a contraste de nodo y traza. Si se usara para sostener una magnitud cosmológica, se produciría salto ilegítimo de dominio.
+El uso de Sgr A&#42; exige una restricción clara. Como nodo galáctico, puede ordenar trayectorias, posiciones, escalas y retornos dentro de la Vía Láctea. Como objeto físico, admite datos observacionales con incertidumbre. Como ejemplo formal, muestra que un nodo puede estar muy bien trazado sin convertirse en fundamento de todos los dominios. Por ello, su entrada en este desarrollo debe limitarse a contraste de nodo y traza. Si se usara para sostener una magnitud cosmológica, se produciría salto ilegítimo de dominio.
 
 El nodo externo puede ejemplificarse mediante **M31, la galaxia de Andrómeda**. Su función no es completar la cartografía del universo observable ni servir como frontera cosmológica. Opera como referencia externa del Grupo Local: un objeto suficientemente cercano en escala extragaláctica, suficientemente independiente de la Vía Láctea y suficientemente estudiado para mostrar que una posición externa no equivale a una frontera del observable. **M31** permite pensar el contraste entre nodo interno galáctico y nodo externo local, pero no decide el radio comóvil ni el radio interno estructural.
 
@@ -299,7 +300,7 @@ La traza observacional queda representada por catálogos astrométricos como Gai
 
 La traza no debe confundirse con clausura. Una gran cantidad de datos astrométricos no equivale a cartografía total del universo observable. El catálogo amplía el retorno observacional dentro de su régimen instrumental, pero no elimina la necesidad de dominio, unidad, incertidumbre, residual y dictamen. La calidad de la traza aumenta la exigencia formal: cuanto más rico es el grupo de datos, más preciso debe ser el uso de sus límites. Gaia DR3 permite leer posiciones y movimientos; no autoriza a derivar de ellos una constante cosmológica ni una frontera etaria.
 
-Los tres casos —**Sgr A\*, M31 y Gaia DR3**— permiten fijar una regla común: el dato externo entra como contraste situado. Sgr A\* sirve como nodo central galáctico; M31 como nodo externo del Grupo Local; Gaia DR3 como grupo de trazas astrométricas. Ninguno de ellos ocupa el lugar del Teorema que calcula Λ, ni de la Parte I que aplica esa Λ al radio interno, ni de la Parte II que calcula las λ de la Recta-Ómicron. Su papel consiste en impedir que el análisis quede en fórmulas sin anclaje observacional, pero sin convertir ese anclaje en fundamento de las magnitudes internas.
+Los tres casos —**Sgr A&#42;, M31 y Gaia DR3**— permiten fijar una regla común: el dato externo entra como contraste situado. Sgr A&#42; sirve como nodo central galáctico; M31 como nodo externo del Grupo Local; Gaia DR3 como grupo de trazas astrométricas. Ninguno de ellos ocupa el lugar del Teorema que calcula Λ, ni de la Parte I que aplica esa Λ al radio interno, ni de la Parte II que calcula las λ de la Recta-Ómicron. Su papel consiste en impedir que el análisis quede en fórmulas sin anclaje observacional, pero sin convertir ese anclaje en fundamento de las magnitudes internas.
 
 Esta distinción evita dos errores opuestos. El primero sería excluir los nodos observacionales por no formar parte del cálculo interno; eso dejaría el análisis sin contraste físico suficiente. El segundo sería introducirlos como autoridad fundante; eso colapsaría dominio interno, régimen galáctico, escala extragaláctica y grupo de datos astrométrico. La vía correcta conserva los nodos como objetos de contraste: visibles, medibles, útiles, pero subordinados a su dominio.
 
@@ -313,7 +314,7 @@ La magnitud rectora de este apartado es la capacidad estructural del dominio cos
 
 Esta cifra no significa que haya esa cantidad de materia ordinaria por metro cúbico. Significa que la capacidad estructural del dominio, al transducirse a unidad física comparable, devuelve una densidad equivalente. La palabra equivalente es decisiva: la magnitud permite comparación gravitatoria y cosmológica, pero no autoriza por sí sola un inventario material. La capacidad no es materia contenida; es capacidad del dominio leída en unidad de densidad.
 
-Conviene precisar el alcance de esta equivalencia para evitar una identificación externa indebida. La forma `3/(8πGT_obs²)` no introduce `H₀`, no adopta el radio comóvil y no reescribe la densidad crítica del modelo `ΛCDM`. Puede parecer formalmente próxima a la expresión contemporánea `3H²/(8πG)` si se define un parámetro etario auxiliar `H_et := 1/T_obs`; sin embargo, `H_et` no es la constante de Hubble observacional. Para el corte usado en este estudio, `H_et ≈ 70,85450881744849 km·s^-1·Mpc^-1`, mientras que Planck 2018 devuelve, bajo `ΛCDM` base, `H₀ = 67,4 ± 0,5 km·s^-1·Mpc^-1` (Aghanim et al., 2020). La cercanía de familia dimensional no autoriza identidad de régimen: aquí `ρ_cap` conserva rango de capacidad estructural transducida; en cosmología observacional, la densidad crítica depende de un parámetro de expansión inferido por grupo de datos, modelo e incertidumbre.
+Conviene precisar el alcance de esta equivalencia para evitar una identificación externa indebida. La forma 3/(8πGT_obs²) no introduce H₀, no adopta el radio comóvil y no reescribe la densidad crítica del modelo ΛCDM. Puede parecer formalmente próxima a la expresión contemporánea 3H²/(8πG) si se define un parámetro etario auxiliar H_et := 1/T_obs; sin embargo, H_et no es la constante de Hubble observacional. Para el corte usado en este estudio, H_et ≈ 70,85450881744849 km·s^-1·Mpc^-1, mientras que Planck 2018 devuelve, bajo ΛCDM base, H₀ = 67,4 ± 0,5 km·s^-1·Mpc^-1 (Aghanim et al., 2020). La cercanía de familia dimensional no autoriza identidad de régimen: aquí ρ_cap conserva rango de capacidad estructural transducida; en cosmología observacional, la densidad crítica depende de un parámetro de expansión inferido por grupo de datos, modelo e incertidumbre.
 
 La descomposición rectora queda formulada como ρ_cap = ρ_ret + ρ_sut,grav + ρ_C. En esta ecuación, ρ_ret designa materialidad retornada o inventariada bajo un grupo de datos declarado; ρ_sut,grav designa sutura gravitatoria efectiva, es decir, diferencia estructural con eficacia gravitatoria; ρ_C designa residual de no clausura. La ecuación no dice que la sutura sea una sustancia, ni que el residual sea error oculto, ni que la materialidad retornada agote el dominio. Dice que la capacidad estructural, una vez devuelta como densidad equivalente, debe separarse en materialidad admitida, sutura y residual.
 
@@ -335,7 +336,7 @@ La formulación final queda declarada: la densidad cosmológica de este régimen
 
 La materia ordinaria no equivale a la capacidad estructural total del dominio. Su presencia debe formularse como materialidad retornada, no como cierre completo de la densidad cosmológica. La ecuación anterior separa ρ_cap, ρ_ret, ρ_sut,grav y ρ_C; por tanto, el paso a la materia ordinaria exige declarar qué parte del dominio comparece como contenido físico inventariable, bajo qué grupo de datos, con qué unidad, con qué frontera y con qué residual. Si esa operación se omite, la materia ordinaria se convierte en una palabra demasiado amplia: puede significar bariones, átomos, gas, estrellas, polvo, plasma, moléculas, neutrinos masivos o cualquier contenido físico admitido sin criterio común. El inventario debe impedir esa expansión impropia.
 
-El régimen H–He ocupa aquí una posición primera, pero no absoluta (Lloret Egea, 2026e). Hidrógeno (H) y Helio (He) constituyen la primera organización material ordinaria retornable del universo observable cuando se los lee bajo composición ligera, masa, frontera, traza, transición, estabilidad, residual y retorno. Esa prioridad no significa que H sea ε₋₀, que He clausure la materia, que el par H–He sustituya el espacio o que la abundancia física se convierta en fundamento total. Significa algo más preciso: dentro del dominio material ordinario, H abre identidad material ligera y He aporta estabilización nuclear local. El régimen aparece cuando ambas funciones se leen juntas, no cuando se convierte a uno de los elementos en principio absoluto. (**Se recomienda la lectura de** [*Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible*](https://doi.org/10.21428/39829d0b.9c57c046 "_blank")).
+El régimen H–He ocupa aquí una posición primera, pero no absoluta (Lloret Egea, 2026e). Hidrógeno (H) y Helio (He) constituyen la primera organización material ordinaria retornable del universo observable cuando se los lee bajo composición ligera, masa, frontera, traza, transición, estabilidad, residual y retorno. Esa prioridad no significa que H sea ε₋₀, que He clausure la materia, que el par H–He sustituya el espacio o que la abundancia física se convierta en fundamento total. Significa algo más preciso: dentro del dominio material ordinario, H abre identidad material ligera y He aporta estabilización nuclear local. El régimen aparece cuando ambas funciones se leen juntas, no cuando se convierte a uno de los elementos en principio absoluto. (**Se recomienda la lectura de** *[Imperfección preformal y espacio: ε−0, primera distinguibilidad y dominio estructural completo de separación factual recorrible](https://doi.org/10.21428/39829d0b.9c57c046)*).
 
 La nucleosíntesis primordial ofrece el contraste físico externo más directo (Coc & Vangioni, 2017; Pitrou et al., 2018). En el marco cosmológico contemporáneo, la materia ligera temprana queda dominada por Hidrógeno (H) y Helio (He), con trazas de deuterio, Helio-3 y Litio-7. Ese resultado tiene fuerza observacional y teórica, pero no basta por sí solo para cerrar la materialidad del dominio. La abundancia no equivale a fundamento; la dominancia ligera no equivale a inventario total; la presencia cosmológica no equivale a clausura de la densidad. El régimen H–He debe entrar como materialidad ordinaria primaria, no como totalidad del contenido físico.
 
@@ -467,7 +468,7 @@ La literatura técnica sobre distancias cosmológicas cumple otra función: impi
 
 Gaia DR3 cumple función de traza astrométrica. Su valor está en la densidad de posiciones, paralajes, movimientos propios, fotometría, velocidades radiales y parámetros asociados. Permite trabajar con nodos, trayectorias locales, posiciones, incertidumbres y estructuras galácticas. Su límite es igualmente claro: una traza astrométrica, por grande que sea, no calcula Λ, no funda R_U, no produce λ_∂, no decide R_aux y no clausura el universo observable. Gaia permite ejemplificar cómo se sostiene una traza observacional con incertidumbre; no sustituye una magnitud cosmológica de otro régimen.
 
-EHT/Sgr A\* cumple función de nodo astronómico reconocido. El centro galáctico permite mostrar qué significa un nodo fuerte dentro de un dominio físico concreto: posición, masa compacta, imagen interferométrica, escala angular, variabilidad y traza dinámica. Su utilidad no consiste en convertir Sgr A\* en centro cosmológico, sino en mostrar que un nodo puede estar fuertemente determinado dentro de un dominio sin por ello gobernar todos los dominios. Sgr A\* puede funcionar como nodo galáctico de contraste; no como fuente de la constante cosmológica ni como frontera del universo observable.
+EHT/Sgr A&#42; cumple función de nodo astronómico reconocido. El centro galáctico permite mostrar qué significa un nodo fuerte dentro de un dominio físico concreto: posición, masa compacta, imagen interferométrica, escala angular, variabilidad y traza dinámica. Su utilidad no consiste en convertir Sgr A&#42; en centro cosmológico, sino en mostrar que un nodo puede estar fuertemente determinado dentro de un dominio sin por ello gobernar todos los dominios. Sgr A&#42; puede funcionar como nodo galáctico de contraste; no como fuente de la constante cosmológica ni como frontera del universo observable.
 
 DESI y otros grupos de datos contemporáneos sobre expansión, BAO y energía oscura deben entrar con especial cautela. Su valor es alto precisamente porque presionan la lectura estándar de la energía oscura, permiten examinar posibles evoluciones del régimen oscuro y devuelven distancias cosmológicas con gran precisión. Pero esa potencia no altera la jerarquía interna. Si un resultado DESI sugiere evolución de la energía oscura o desviación respecto de una constante cosmológica estricta en el régimen observacional, esa información entra como contraste externo. No reescribe automáticamente la Λ calculada para T_obs.
 
@@ -481,7 +482,7 @@ Esta disciplina evita tres errores. El primero sería aislar el desarrollo de la
 
 Los patrones de escala entran en el mismo régimen. Distancia Tierra–Luna, distancia Tierra–Sol, radio de Bohr, unidad astronómica u otros patrones metrológicos comunican escala; no producen la magnitud. Cuando R_U, λ_∂ o R_aux se devuelven a patrones reconocibles, la operación ayuda a situar órdenes de magnitud. Pero el patrón no funda el cálculo. Primero se obtiene la magnitud; después se devuelve a patrón. Invertir el orden transformaría la lectura de escala en origen ficticio.
 
-La formulación final es la siguiente: los grupos de datos externos son indispensables para contraste físico, trazabilidad observacional y lectura metrológica; no son fuentes constitutivas de las magnitudes internas. Planck contrasta ΛCDM; Hogg ordena distancias cosmológicas; Gaia aporta traza astrométrica; EHT/Sgr A\* aporta nodo galáctico reconocido; DESI presiona la lectura contemporánea de energía oscura y expansión. Ninguno de ellos sustituye Λ, R_U, λ_∂, R_aux, ρ_cap, ρ_ret, ρ_sut,grav o ρ_C. La fuerza del contraste externo reside en mantenerse externo.
+La formulación final es la siguiente: los grupos de datos externos son indispensables para contraste físico, trazabilidad observacional y lectura metrológica; no son fuentes constitutivas de las magnitudes internas. Planck contrasta ΛCDM; Hogg ordena distancias cosmológicas; Gaia aporta traza astrométrica; EHT/Sgr A&#42; aporta nodo galáctico reconocido; DESI presiona la lectura contemporánea de energía oscura y expansión. Ninguno de ellos sustituye Λ, R_U, λ_∂, R_aux, ρ_cap, ρ_ret, ρ_sut,grav o ρ_C. La fuerza del contraste externo reside en mantenerse externo.
 
 ## 15. Coordinación final de planos: radio interno, frontera etaria, radio comóvil, sutura y curvatura
 
@@ -549,7 +550,7 @@ La materia oscura queda rechazada como sustancia material independiente, pero no
 
 La energía oscura queda sometida a una restricción equivalente. La expresión se conserva como nombre contemporáneo de un régimen efectivo asociado a la aceleración cósmica, pero no se admite como fluido sustancial, presión material, temperatura cósmica, depósito de energía ordinaria o contenido oculto. Su correlato rector es Λ como curvatura ciclo-distancial del dominio cosmológico observable retornado. La energía oscura no se fusiona con la materia oscura: una pertenece al régimen de curvatura y expansión; la otra al retorno gravitatorio estructural no sustancial.
 
-Los grupos de datos externos quedan integrados sin usurpar el cálculo. Planck contrasta ΛCDM; Gaia aporta traza astrométrica; EHT/Sgr A\* aporta nodo galáctico reconocido; DESI y otros grupos de expansión o BAO presionan la lectura contemporánea de la energía oscura; la literatura técnica de distancias cosmológicas ordena el uso de distancia comóvil, angular, de luminosidad y otras medidas. Ninguno de esos grupos calcula la Λ rectora, ni produce R_U, ni determina λ_∂, ni funda R_aux, ni decide por sí solo la sustancialidad de la materia oscura.
+Los grupos de datos externos quedan integrados sin usurpar el cálculo. Planck contrasta ΛCDM; Gaia aporta traza astrométrica; EHT/Sgr A&#42; aporta nodo galáctico reconocido; DESI y otros grupos de expansión o BAO presionan la lectura contemporánea de la energía oscura; la literatura técnica de distancias cosmológicas ordena el uso de distancia comóvil, angular, de luminosidad y otras medidas. Ninguno de esos grupos calcula la Λ rectora, ni produce R_U, ni determina λ_∂, ni funda R_aux, ni decide por sí solo la sustancialidad de la materia oscura.
 
 La condición final de no contradicción queda expresada así: toda magnitud debe conservar dominio, unidad, ecuación de origen, residual y retorno. Toda comparación entre planos exige transductor declarado. Toda ausencia real de clausura queda marcada como U. Toda identificación entre magnitudes de distinto dominio queda rechazada si no declara la operación que la hace admisible. Bajo esas condiciones, la pluralidad de magnitudes no debilita el análisis; lo hace físicamente controlado.
 
@@ -565,103 +566,103 @@ Este anexo reúne las magnitudes principales empleadas en la coordinación entre
 
 ### A.1. Magnitudes de curvatura cosmológica
 
-| **Magnitud** | **Expresión** | **Dominio** | **Unidad** | **Retorno** | **Restricción** |
-|---|---|---|---|---|---|
-| Λ | Λ = 3/(c²T_obs²) | Curvatura ciclo-distancial del dominio cosmológico observable retornado | m^-2 | Valor calculado: 1,7600043527547774 × 10^-52 m^-2 | No procede de grupo de datos externo |
-| Λ(T) | Λ(T) = 3/(c²T²) | Familia etaria bajo corte declarado | m^-2 | Permite lectura de otros cortes T | No reescribe Λ(T_obs) |
-| Λ_obs[B] | 3Ω_Λ[B]H₀[B]²/c² | Grupo de datos cosmológico externo | m^-2 | Retorno observacional dependiente de B | Contraste, no fuente de Λ |
-| Λ_ret[B] | ⟨Λ_obs[B], u, B, σ_B, Δ_Λ[B], d_Λ[B]⟩ | Retorno auditado de valor observacional | m^-2 | Conserva unidad, grupo de datos, incertidumbre, residual y dictamen | No sustituye Λ calculada |
-| Energía oscura | Régimen efectivo asociado a Λ | Cosmología contemporánea / curvatura ciclo-distancial | Según modelo de lectura | Nombre contemporáneo de régimen efectivo | No fluido sustancial, no materia oculta |
+| Magnitud | Expresión | Dominio | Unidad | Retorno | Restricción |
+| --- | --- | --- | --- | --- | --- |
+| Λ              | Λ = 3/(c²T_obs²)                            | Curvatura ciclo-distancial del dominio cosmológico observable retornado | m^-2                    | Valor calculado: 1,7600043527547774 × 10^-52 m^-2                   | No procede de grupo de datos externo    |
+| Λ(T)           | Λ(T) = 3/(c²T²)                             | Familia etaria bajo corte declarado                                     | m^-2                    | Permite lectura de otros cortes T                                   | No reescribe Λ(T_obs)                   |
+| Λ_obs[B]     | 3Ω_Λ[B]H₀[B]²/c²                        | Grupo de datos cosmológico externo                                      | m^-2                    | Retorno observacional dependiente de B                              | Contraste, no fuente de Λ               |
+| Λ_ret[B]     | ⟨Λ_obs[B], u, B, σ_B, Δ_Λ[B], d_Λ[B]⟩ | Retorno auditado de valor observacional                                 | m^-2                    | Conserva unidad, grupo de datos, incertidumbre, residual y dictamen | No sustituye Λ calculada                |
+| Energía oscura | Régimen efectivo asociado a Λ               | Cosmología contemporánea / curvatura ciclo-distancial                   | Según modelo de lectura | Nombre contemporáneo de régimen efectivo                            | No fluido sustancial, no materia oculta |
 
 La constante Λ empleada para determinar R_U tiene fuente interna de cálculo: el Teorema de resolución física de la constante cosmológica. Los valores observacionales contemporáneos se sitúan en Λ_obs[B] o Λ_ret[B]. Esta separación impide que un grupo de datos externo sustituya la magnitud rectora.
 
 ### A.2. Magnitudes geométricas internas
 
-| **Magnitud** | **Expresión** | **Dominio** | **Unidad** | **Retorno** | **Restricción** |
-|---|---|---|---|---|---|
-| R_U | R_U = √(3/Λ) = cT_obs | Radio interno estructural | m, ly | 1,3055808052161504 × 10^26 m = 13.800.000.000 ly | No radio comóvil externo |
-| S_U | S_U = 4πR_U² | Superficie geométrica interna | m² | ≈ 2,1419896936090226 × 10^53 m² | No piel física del universo |
-| V_U | V_U = (4π/3)R_U³ | Volumen geométrico interno | m³ | ≈ 9,321802096489209 × 10^78 m³ | No contenido material total |
-| R_comóvil | Según integral cosmológica de distancia | Cosmología observacional externa | ly, Mpc, Gpc | Radio comóvil externo de régimen ΛCDM | Contraste, no corrección de R_U |
+| Magnitud | Expresión | Dominio | Unidad | Retorno | Restricción |
+| --- | --- | --- | --- | --- | --- |
+| R_U          | R_U = √(3/Λ) = cT_obs                   | Radio interno estructural        | m, ly        | 1,3055808052161504 × 10^26 m = 13.800.000.000 ly | No radio comóvil externo        |
+| S_U          | S_U = 4πR_U²                            | Superficie geométrica interna    | m²           | ≈ 2,1419896936090226 × 10^53 m²                  | No piel física del universo     |
+| V_U          | V_U = (4π/3)R_U³                        | Volumen geométrico interno       | m³           | ≈ 9,321802096489209 × 10^78 m³                   | No contenido material total     |
+| R_comóvil    | Según integral cosmológica de distancia | Cosmología observacional externa | ly, Mpc, Gpc | Radio comóvil externo de régimen ΛCDM            | Contraste, no corrección de R_U |
 
 La cadena interna es Λ → R_U → S_U → V_U. La cadena observacional comóvil pertenece a otro régimen. La diferencia entre R_U y radio comóvil externo no es contradicción mientras se conserve que una magnitud pertenece al radio interno estructural y la otra a distancias cosmológicas reconstruidas por modelo y grupo de datos.
 
 ### A.3. Magnitudes de frontera etaria y proyección auxiliar
 
-| **Magnitud** | **Expresión o valor** | **Dominio** | **Unidad** | **Retorno** | **Restricción** |
-|---|---|---|---|---|---|
-| λ_acc | 257.916.802.762.371.004.117,8021159948054130965383279286041549868367802475908620127745896778575090806844476 | Acceso nodal | UFE | Acceso a dominio observable retornado | No frontera |
-| κ_∂←acc | (A_fin(Ωobs) − A_SS)/(A_Ωobs − A_SS) | Coeficiente de tránsito acceso-frontera | Adimensional | 2879/1154 ≈ 2,494800693240901 | No constante cosmológica |
-| λ_∂ | 643.451.018.330.039.966.078,988121273002412742576989693632029642203717792733181745908183433753698997652101074870017331022530328 | Brazo fronterizo etario | UFE | Frontera etaria calculada | No Λ, no energía oscura |
-| Δ_{∂\|acc} | λ_∂ − λ_acc | Residual acceso-frontera | UFE | 385.534.215.567.668.961.961,186005278196999646038661765027874655366937545142319733133593755896189916967653474870017331022530328 > 0 | No identidad entre acceso y frontera |
-| R_aux | R_aux(Ωobs) := Brazo_∂Ωobs(Tierra) | Proyección geométrica auxiliar | UFE, m, ly si se declara retorno | ≈ 68.012,8263 ly bajo 1 UFE ↦ 1 m | No radio interno, no radio comóvil |
-| S_aux | 4πR_aux² | Superficie auxiliar | UFE² | ≈ 5,2028445356033567 × 10^42 UFE² | No piel física |
-| V_aux | (4π/3)R_aux³ | Volumen auxiliar | UFE³ | ≈ 1,1159252048822879 × 10^63 UFE³ | No contenido material |
+| Magnitud | Expresión o valor | Dominio | Unidad | Retorno | Restricción |
+| --- | --- | --- | --- | --- | --- |
+| λ_acc        | 257.916.802.762.371.004.117,8021159948054130965383279286041549868367802475908620127745896778575090806844476                     | Acceso nodal                            | UFE                              | Acceso a dominio observable retornado                                                                                                | No frontera                          |
+| κ_∂←acc     | (A_fin(Ωobs) − A_SS)/(A_Ωobs − A_SS)                                                                                            | Coeficiente de tránsito acceso-frontera | Adimensional                     | 2879/1154 ≈ 2,494800693240901                                                                                                        | No constante cosmológica             |
+| λ_∂         | 643.451.018.330.039.966.078,988121273002412742576989693632029642203717792733181745908183433753698997652101074870017331022530328 | Brazo fronterizo etario                 | UFE                              | Frontera etaria calculada                                                                                                            | No Λ, no energía oscura              |
+| Δ_{∂∣acc}  | λ_∂ − λ_acc                                                                                                                    | Residual acceso-frontera                | UFE                              | 385.534.215.567.668.961.961,186005278196999646038661765027874655366937545142319733133593755896189916967653474870017331022530328 > 0 | No identidad entre acceso y frontera |
+| R_aux        | R_aux(Ωobs) := Brazo_∂Ωobs(Tierra)                                                                                             | Proyección geométrica auxiliar          | UFE, m, ly si se declara retorno | ≈ 68.012,8263 ly bajo 1 UFE ↦ 1 m                                                                                                    | No radio interno, no radio comóvil   |
+| S_aux        | 4πR_aux²                                                                                                                        | Superficie auxiliar                     | UFE²                             | ≈ 5,2028445356033567 × 10^42 UFE²                                                                                                    | No piel física                       |
+| V_aux        | (4π/3)R_aux³                                                                                                                    | Volumen auxiliar                        | UFE³                             | ≈ 1,1159252048822879 × 10^63 UFE³                                                                                                    | No contenido material                |
 
-La cadena fronteriza queda formulada como λ_acc → κ_∂←acc → λ_∂ → R_aux → S_aux → V_aux. El residual positivo Δ_∂|acc conserva la diferencia entre acceso y frontera. La proyección auxiliar sólo aparece después del brazo fronterizo etario; no produce λ_∂.
+La cadena fronteriza queda formulada como λ_acc → κ_∂←acc → λ_∂ → R_aux → S_aux → V_aux. El residual positivo Δ_∂∣acc conserva la diferencia entre acceso y frontera. La proyección auxiliar sólo aparece después del brazo fronterizo etario; no produce λ_∂.
 
 ### A.4. Edades y cortes de dominio
 
 Los cortes etarios se apoyan en la distinción entre edad del observable, edad de objeto y edad de dominio (Lloret Egea, 2026f).
 
-| **Magnitud** | **Valor** | **Dominio** | **Unidad** | **Retorno** | **Restricción** |
-|---|---|---|---|---|---|
-| T_obs | 435.494.880.000.000.000 | Edad declarada del universo observable retornado | s | Equivale a 13.800.000.000 a_J | No tiempo absoluto |
-| A_Ωobs | 13.800.000.000 | Edad observable declarada | a_J | Corte etario usado para Λ y R_U | No Totalidad absoluta |
-| A_fin(Ωobs) | 27.600.000.000 | Fin de ciclo observable | a_J | Referencia de frontera etaria | No predicción material cerrada |
-| A_SS | 4.568.000.000 | Edad del Sistema Solar como dominio | a_J | Anclaje sistémico para tránsito | No edad del Sol individual |
-| A_☉ | 4.570.000.000 | Edad del Sol como objeto | a_J | Control de distinción objeto/sistema | No sustituye A_SS |
+| Magnitud | Valor | Dominio | Unidad | Retorno | Restricción |
+| --- | --- | --- | --- | --- | --- |
+| T_obs        | 435.494.880.000.000.000 | Edad declarada del universo observable retornado | s          | Equivale a 13.800.000.000 a_J        | No tiempo absoluto             |
+| A_Ωobs       | 13.800.000.000          | Edad observable declarada                        | a_J        | Corte etario usado para Λ y R_U      | No Totalidad absoluta          |
+| A_fin(Ωobs)  | 27.600.000.000          | Fin de ciclo observable                          | a_J        | Referencia de frontera etaria        | No predicción material cerrada |
+| A_SS         | 4.568.000.000           | Edad del Sistema Solar como dominio              | a_J        | Anclaje sistémico para tránsito      | No edad del Sol individual     |
+| A_☉         | 4.570.000.000           | Edad del Sol como objeto                         | a_J        | Control de distinción objeto/sistema | No sustituye A_SS              |
 
 El uso de edades queda subordinado al dominio. El corte T_obs permite calcular Λ; A_SS sirve para la cadena de frontera etaria cuando el dominio declarado es el Sistema Solar; A_☉ funciona como control de no sustitución entre objeto y sistema.
 
 ### A.5. Patrones de retorno y lectura de escala
 
-| **Magnitud retornada** | **Patrón** | **Valor patrón** | **Cociente** | **Función** | **Restricción** |
-|---|---|---|---|---|---|
-| R_U | Radio de Bohr a₀ | 5,29177210544 × 10^-11 m | R_U/a₀ ≈ 2,4671901571006788 × 10^36 | Lectura microfísica extrema | No produce R_U |
-| R_U | Distancia media Tierra–Luna D_TL | 384.400.000 m | R_U/D_TL ≈ 3,3964120843292154 × 10^17 | Lectura astronómica local | No convierte la Tierra en centro |
-| R_U | Distancia Tierra–Sol D_TS = 1 au | 149.597.870.700 m | R_U/D_TS ≈ 8,727268637628746 × 10^14 | Lectura heliocéntrica convencional | No sustituye el dominio cosmológico |
-| λ_∂ | Distancia media Tierra–Luna D_TL | 384.400.000 UFE | λ_∂/D_TL ≈ 1.673.910.037.278,980... | Retorno local del brazo fronterizo | No produce λ_∂ |
-| λ_∂ | Distancia Tierra–Sol D_TS | 149.597.870.700 UFE | λ_∂/D_TS ≈ 4.301.204.390,939... | Retorno heliocéntrico de frontera | No convierte el Sol en fundamento |
-| A_LS(Tierra) | D_TS − D_TL | 149.213.470.700 UFE | — | Patrón local compuesto | Lectura Tierra–Luna–Sol; no produce la magnitud primaria |
+| Magnitud retornada | Patrón | Valor patrón | Cociente | Función | Restricción |
+| --- | --- | --- | --- | --- | --- |
+| R_U                    | Radio de Bohr a₀                 | 5,29177210544 × 10^-11 m | R_U/a₀ ≈ 2,4671901571006788 × 10^36   | Lectura microfísica extrema        | No produce R_U                                           |
+| R_U                    | Distancia media Tierra–Luna D_TL | 384.400.000 m            | R_U/D_TL ≈ 3,3964120843292154 × 10^17 | Lectura astronómica local          | No convierte la Tierra en centro                         |
+| R_U                    | Distancia Tierra–Sol D_TS = 1 au | 149.597.870.700 m        | R_U/D_TS ≈ 8,727268637628746 × 10^14  | Lectura heliocéntrica convencional | No sustituye el dominio cosmológico                      |
+| λ_∂                   | Distancia media Tierra–Luna D_TL | 384.400.000 UFE          | λ_∂/D_TL ≈ 1.673.910.037.278,980...  | Retorno local del brazo fronterizo | No produce λ_∂                                          |
+| λ_∂                   | Distancia Tierra–Sol D_TS        | 149.597.870.700 UFE      | λ_∂/D_TS ≈ 4.301.204.390,939...      | Retorno heliocéntrico de frontera  | No convierte el Sol en fundamento                        |
+| A_LS(Tierra)           | D_TS − D_TL                      | 149.213.470.700 UFE      | —                                     | Patrón local compuesto             | Lectura Tierra–Luna–Sol; no produce la magnitud primaria |
 
 Los patrones de retorno comunican escala (Bureau International des Poids et Mesures, 2019; International Astronomical Union, 2012; Tiesinga et al., 2022). No fundan las magnitudes. Primero se obtiene R_U o λ_∂; después se devuelve a patrón. Invertir el orden convertiría una lectura cognitiva en origen ficticio.
 
 ### A.6. Magnitudes de densidad cosmológica
 
-| **Magnitud** | **Expresión** | **Dominio** | **Unidad** | **Retorno** | **Restricción** |
-|---|---|---|---|---|---|
-| ρ_cap | Λc²/(8πG) = 3/(8πGT_obs²) | Capacidad estructural transducida | kg·m^-3 | 9,429953786784435 × 10^-27 kg·m^-3 | No materia contenida |
-| ρ_ret | Inventario material admitido | Materialidad retornada | kg·m^-3 | Depende de grupo de datos e inventario | No agota ρ_cap |
-| ρ_sut,grav | ρ_cap − ρ_ret − ρ_C | Sutura gravitatoria efectiva | kg·m^-3 | Diferencia gravitatoria no sustancial | No materia oscura sustancial |
-| ρ_C | Residual de no clausura | Residual cosmológico | kg·m^-3 | Visible cuando no hay cierre | No error oculto |
-| ρ_DM,sustancia | 0 | Materia oscura como sustancia | kg·m^-3 | Nulidad sustancial | No niega retorno gravitatorio |
-| m_DM,sustancia | 0 | Masa de materia oscura sustancial | kg | Nulidad sustancial | No niega fenómeno gravitatorio |
+| Magnitud | Expresión | Dominio | Unidad | Retorno | Restricción |
+| --- | --- | --- | --- | --- | --- |
+| ρ_cap          | Λc²/(8πG) = 3/(8πGT_obs²)    | Capacidad estructural transducida | kg·m^-3    | 9,429953786784435 × 10^-27 kg·m^-3     | No materia contenida           |
+| ρ_ret          | Inventario material admitido | Materialidad retornada            | kg·m^-3    | Depende de grupo de datos e inventario | No agota ρ_cap                 |
+| ρ_sut,grav     | ρ_cap − ρ_ret − ρ_C          | Sutura gravitatoria efectiva      | kg·m^-3    | Diferencia gravitatoria no sustancial  | No materia oscura sustancial   |
+| ρ_C            | Residual de no clausura      | Residual cosmológico              | kg·m^-3    | Visible cuando no hay cierre           | No error oculto                |
+| ρ_DM,sustancia | 0                            | Materia oscura como sustancia     | kg·m^-3    | Nulidad sustancial                     | No niega retorno gravitatorio  |
+| m_DM,sustancia | 0                            | Masa de materia oscura sustancial | kg         | Nulidad sustancial                     | No niega fenómeno gravitatorio |
 
-La cadena de densidad es Λ → ρ_cap → ρ_ret + ρ_sut,grav + ρ_C. La forma equivalente `ρ_cap = 3/(8πGT_obs²)` se mantiene como retorno de capacidad estructural del dominio declarado. No debe confundirse con la densidad crítica externa obtenida mediante `H₀`; si se usa el auxiliar `H_et := 1/T_obs`, su función es sólo mostrar la homología dimensional, no trasladar el dominio observacional de `H₀` al cálculo interno. La capacidad estructural transducida no equivale a inventario material. La sutura conserva diferencia gravitatoria efectiva sin sustancializarla. El residual conserva no clausura cuando el inventario o la comparación no cierran.
+La cadena de densidad es Λ → ρ_cap → ρ_ret + ρ_sut,grav + ρ_C. La forma equivalente ρ_cap = 3/(8πGT_obs²) se mantiene como retorno de capacidad estructural del dominio declarado. No debe confundirse con la densidad crítica externa obtenida mediante H₀; si se usa el auxiliar H_et := 1/T_obs, su función es sólo mostrar la homología dimensional, no trasladar el dominio observacional de H₀ al cálculo interno. La capacidad estructural transducida no equivale a inventario material. La sutura conserva diferencia gravitatoria efectiva sin sustancializarla. El residual conserva no clausura cuando el inventario o la comparación no cierran.
 
 ### A.7. Materialidad ordinaria
 
-| **Magnitud o régimen** | **Dominio** | **Función** | **Retorno** | **Restricción** |
-|---|---|---|---|---|
-| Hidrógeno (H) | Materia ordinaria ligera | Apertura material ordinaria | Firma material, espectral, atómica, estelar y molecular | No fundamento absoluto |
-| Helio (He) | Materia ordinaria ligera | Estabilización nuclear local | Firma material, primordial y estelar | No cierre total de la materia |
-| Régimen H–He | Primera organización material ordinaria retornable | Apertura + estabilización | Base de materialidad ordinaria | No agota ρ_ret |
-| Materia ordinaria posterior | Elementos, gas, polvo, estrellas, planetas, moléculas | Desarrollo de materialidad | Inventario físico admitido | No reescribe H–He |
-| ρ_H-He | Subconjunto de ρ_ret | Materialidad ligera primaria | Entrada inventarial si procede | No equivale a ρ_cap |
+| Magnitud o régimen | Dominio | Función | Retorno | Restricción |
+| --- | --- | --- | --- | --- |
+| Hidrógeno (H)               | Materia ordinaria ligera                              | Apertura material ordinaria  | Firma material, espectral, atómica, estelar y molecular | No fundamento absoluto        |
+| Helio (He)                  | Materia ordinaria ligera                              | Estabilización nuclear local | Firma material, primordial y estelar                    | No cierre total de la materia |
+| Régimen H–He                | Primera organización material ordinaria retornable    | Apertura + estabilización    | Base de materialidad ordinaria                          | No agota ρ_ret                |
+| Materia ordinaria posterior | Elementos, gas, polvo, estrellas, planetas, moléculas | Desarrollo de materialidad   | Inventario físico admitido                              | No reescribe H–He             |
+| ρ_H-He                      | Subconjunto de ρ_ret                                  | Materialidad ligera primaria | Entrada inventarial si procede                          | No equivale a ρ_cap           |
 
 La relación de inclusión queda: ρ_H-He ⊂ ρ_ret ⊂ ρ_cap. La prioridad H–He no convierte Hidrógeno (H) ni Helio (He) en fundamento absoluto. Declara una primera organización material ordinaria bajo dominio físico, traza, frontera y retorno.
 
 ### A.8. Grupos de datos externos
 
-| **Grupo de datos** | **Magnitud o función** | **Dominio** | **Uso permitido** | **Uso prohibido** |
-|---|---|---|---|---|
-| Planck 2018 | Parámetros ΛCDM, CMB, densidades relativas, expansión | Cosmología observacional | Contraste de ΛCDM, radio comóvil y densidades | Sustituir Λ calculada |
-| Hogg / distancias cosmológicas | Distancia comóvil, angular, luminosidad, propia | Tipología de distancias | Ordenar régimen de R_comóvil | Corregir R_U |
-| Gaia DR3 | Posiciones, paralajes, movimientos propios, fotometría, velocidades radiales | Astrometría | Traza, nodos, movimientos locales | Fundar Λ, R_U o λ_∂ |
-| EHT / Sgr A\* | Nodo compacto del centro galáctico | Nodo astronómico local | Contraste de centro galáctico | Centro cosmológico |
-| DESI / BAO | Expansión, distancias, energía oscura dinámica | Cosmología observacional | Contraste contemporáneo de energía oscura | Reescribir Λ(T_obs) |
-| Supernovas Ia | Expansión acelerada, distancia de luminosidad | Cosmología observacional | Contraste de aceleración | Sustancializar energía oscura |
+| Grupo de datos | Magnitud o función | Dominio | Uso permitido | Uso prohibido |
+| --- | --- | --- | --- | --- |
+| Planck 2018                    | Parámetros ΛCDM, CMB, densidades relativas, expansión                        | Cosmología observacional | Contraste de ΛCDM, radio comóvil y densidades | Sustituir Λ calculada         |
+| Hogg / distancias cosmológicas | Distancia comóvil, angular, luminosidad, propia                              | Tipología de distancias  | Ordenar régimen de R_comóvil                  | Corregir R_U                  |
+| Gaia DR3                       | Posiciones, paralajes, movimientos propios, fotometría, velocidades radiales | Astrometría              | Traza, nodos, movimientos locales             | Fundar Λ, R_U o λ_∂          |
+| EHT / Sgr A&#42;                  | Nodo compacto del centro galáctico                                           | Nodo astronómico local   | Contraste de centro galáctico                 | Centro cosmológico            |
+| DESI / BAO                     | Expansión, distancias, energía oscura dinámica                               | Cosmología observacional | Contraste contemporáneo de energía oscura     | Reescribir Λ(T_obs)           |
+| Supernovas Ia                  | Expansión acelerada, distancia de luminosidad                                | Cosmología observacional | Contraste de aceleración                      | Sustancializar energía oscura |
 
 La regla común es la siguiente:
 
@@ -671,30 +672,30 @@ La regla común es la siguiente:
 
 ### A.9. Salidas de no clausura y rechazo
 
-| **Caso** | **Salida** | **Motivo** |
-|---|---|---|
-| Falta dominio declarado | U (indeterminación) | No hay operación admisible |
-| Falta unidad | U | No hay retorno metrológico |
-| Falta frontera | U | No hay límite operativo |
-| Falta traza | U | No hay auditabilidad |
-| Falta residual | U | No hay cierre controlado |
-| Contradicción dimensional | Rechazo | Magnitudes incompatibles |
-| Contradicción de dominio | Rechazo | Una magnitud ocupa plano ajeno |
-| Doble cómputo | Rechazo | Una misma magnitud entra dos veces |
-| Grupo de datos usado como fundamento interno | Rechazo | Invade magnitud constitutiva |
-| Patrón de escala usado como origen | Rechazo | Invierte el orden de cálculo |
+| Caso | Salida | Motivo |
+| --- | --- | --- |
+| Falta dominio declarado                      | U (indeterminación) | No hay operación admisible         |
+| Falta unidad                                 | U                   | No hay retorno metrológico         |
+| Falta frontera                               | U                   | No hay límite operativo            |
+| Falta traza                                  | U                   | No hay auditabilidad               |
+| Falta residual                               | U                   | No hay cierre controlado           |
+| Contradicción dimensional                    | Rechazo             | Magnitudes incompatibles           |
+| Contradicción de dominio                     | Rechazo             | Una magnitud ocupa plano ajeno     |
+| Doble cómputo                                | Rechazo             | Una misma magnitud entra dos veces |
+| Grupo de datos usado como fundamento interno | Rechazo             | Invade magnitud constitutiva       |
+| Patrón de escala usado como origen           | Rechazo             | Invierte el orden de cálculo       |
 
 U no es probabilidad, ni ignorancia vaga, ni permiso de cierre favorable. Designa no clausura honesta. El rechazo, en cambio, aparece cuando existe contradicción formal entre magnitudes, dominios o usos.
 
 ### A.10. Tabla de cadenas rectoras
 
-| **Cadena** | **Expresión** | **Función** | **Límite** |
-|---|---|---|---|
-| Curvatura-radio interno | Λ → R_U → S_U → V_U | Cierre geométrico interno | No contenido material |
-| Frontera-proyección | λ_acc → κ_∂←acc → λ_∂ → R_aux → S_aux → V_aux | Tránsito nodal-etario y proyección auxiliar | No radio comóvil |
-| Densidad | Λ → ρ_cap → ρ_ret + ρ_sut,grav + ρ_C | Capacidad, materialidad, sutura, residual | No sustancialización |
-| Contraste externo | grupo de datos → Λ_obs[B] / R_comóvil / traza / nodo | Lectura observacional | No fundamento interno |
-| Retorno de escala | magnitud calculada → patrón | Orientación cognitiva y metrológica | No origen de magnitud |
+| Cadena | Expresión | Función | Límite |
+| --- | --- | --- | --- |
+| Curvatura-radio interno | Λ → R_U → S_U → V_U                                    | Cierre geométrico interno                   | No contenido material |
+| Frontera-proyección     | λ_acc → κ_∂←acc → λ_∂ → R_aux → S_aux → V_aux        | Tránsito nodal-etario y proyección auxiliar | No radio comóvil      |
+| Densidad                | Λ → ρ_cap → ρ_ret + ρ_sut,grav + ρ_C                   | Capacidad, materialidad, sutura, residual   | No sustancialización  |
+| Contraste externo       | grupo de datos → Λ_obs[B] / R_comóvil / traza / nodo | Lectura observacional                       | No fundamento interno |
+| Retorno de escala       | magnitud calculada → patrón                            | Orientación cognitiva y metrológica         | No origen de magnitud |
 
 La arquitectura completa exige conservar el orden de generación. R_aux no produce Λ; R_U no produce λ_∂; ρ_sut,grav no produce materia oscura sustancial; el radio comóvil no reescribe la constante calculada; los patrones de escala no producen magnitudes.
 
@@ -732,15 +733,15 @@ Los grupos de datos cosmológicos externos pueden devolver valores observacional
 
 El retorno auditado de un valor observacional externo se formula como Λ_SV,ret[B] = ⟨Λ_obs[B], u=m^-2, B, σ_B, R_Λ[B], Ret_Λ[B], d_Λ[B]⟩. Cada componente cumple una función:
 
-| **Componente** | **Función** |
-|---|---|
-| Λ_obs[B] | Valor observacional devuelto por el grupo de datos |
-| u=m^-2 | Unidad física de curvatura inversa cuadrática |
-| B | Grupo de datos declarado |
-| σ_B | Incertidumbre asociada al grupo de datos |
-| R_Λ[B] | Residual entre valor observacional y dominio receptor |
-| Ret_Λ[B] | Operación de retorno metrológico |
-| d_Λ[B] | Dictamen del retorno |
+| Componente | Función |
+| --- | --- |
+| Λ_obs[B]     | Valor observacional devuelto por el grupo de datos    |
+| u=m^-2         | Unidad física de curvatura inversa cuadrática         |
+| B              | Grupo de datos declarado                              |
+| σ_B            | Incertidumbre asociada al grupo de datos              |
+| R_Λ[B]       | Residual entre valor observacional y dominio receptor |
+| Ret_Λ[B]     | Operación de retorno metrológico                      |
+| d_Λ[B]       | Dictamen del retorno                                  |
 
 El dictamen lógico formal puede adoptar los valores: d_Λ[B] ∈ {APTO, PARCIAL, NO_APTO, U}. APTO exige unidad, grupo de datos, incertidumbre, residual y retorno suficientes. PARCIAL indica que el retorno conserva utilidad, pero no cierra todos los requisitos. NO_APTO aparece cuando se pretende convertir Λ_obs[B] en fundamento de Λ_SV,puro o cuando hay contradicción de dominio. U sólo se admite cuando falta un dato material concreto que impide clausura honesta.
 
@@ -752,15 +753,15 @@ R_Λ[B] = Δ_dom ⊕ Δ_B ⊕ Δ_mag ⊕ Δ_u ⊕ Δ_eq ⊕ Δ_ret ⊕ Δ_fund.
 
 Donde:
 
-| **Componente** | **Control** |
-|---|---|
-| Δ_dom | Diferencia de dominio |
-| Δ_B | Declaración del grupo de datos |
-| Δ_mag | Naturaleza de la magnitud |
-| Δ_u | Unidad |
-| Δ_eq | Ecuación usada |
-| Δ_ret | Retorno metrológico |
-| Δ_fund | Riesgo de convertir contraste en fundamento |
+| Componente | Control |
+| --- | --- |
+| Δ_dom          | Diferencia de dominio                       |
+| Δ_B            | Declaración del grupo de datos              |
+| Δ_mag          | Naturaleza de la magnitud                   |
+| Δ_u            | Unidad                                      |
+| Δ_eq           | Ecuación usada                              |
+| Δ_ret          | Retorno metrológico                         |
+| Δ_fund         | Riesgo de convertir contraste en fundamento |
 
 El retorno sólo puede ser fuerte si esas diferencias quedan controladas. Si Δ_fund ≠ 0, el grupo de datos externo está intentando ocupar el lugar de la magnitud interna. En tal caso, el dictamen no puede ser APTO.
 
@@ -782,14 +783,14 @@ La constante cosmológica Λ no debe confundirse con las λ minúsculas de la Re
 
 ### B.12. Usos permitidos y usos prohibidos
 
-| **Magnitud** | **Uso permitido** | **Uso prohibido** |
-|---|---|---|
-| Λ_SV,puro(T_obs) | Calcular R_U, alimentar ρ_cap, fijar curvatura ciclo-distancial | Sustituirla por valores observacionales |
-| Λ_SV(T) | Analizar cortes etarios declarados | Reescribir Λ_SV,puro(T_obs) |
-| Λ_obs[B] | Contraste externo de ΛCDM u otros grupos cosmológicos | Fundar R_U |
-| Λ_SV,ret[B] | Recibir valor observacional con unidad, grupo, incertidumbre, residual y dictamen | Convertirse en segundo escalar constitutivo |
-| R_Λ[B] | Conservar diferencia de dominio | Ocultar discrepancia o forzar identidad |
-| d_Λ[B] | Dictaminar retorno | Cerrar sin datos materiales |
+| Magnitud | Uso permitido | Uso prohibido |
+| --- | --- | --- |
+| Λ_SV,puro(T_obs) | Calcular R_U, alimentar ρ_cap, fijar curvatura ciclo-distancial                   | Sustituirla por valores observacionales     |
+| Λ_SV(T)          | Analizar cortes etarios declarados                                                | Reescribir Λ_SV,puro(T_obs)                 |
+| Λ_obs[B]       | Contraste externo de ΛCDM u otros grupos cosmológicos                             | Fundar R_U                                  |
+| Λ_SV,ret[B]    | Recibir valor observacional con unidad, grupo, incertidumbre, residual y dictamen | Convertirse en segundo escalar constitutivo |
+| R_Λ[B]         | Conservar diferencia de dominio                                                   | Ocultar discrepancia o forzar identidad     |
+| d_Λ[B]         | Dictaminar retorno                                                                | Cerrar sin datos materiales                 |
 
 ### B.13. Secuencia de cálculo y retorno
 
@@ -811,19 +812,19 @@ D ∧ N_i ∧ N_j ∧ M ∧ F_D ∧ I_D ∧ C_D ∧ R_D ∧ Tr_D.
 
 Donde:
 
-| **Símbolo** | **Significado** |
-|---|---|
-| L_Ω | Operación de Lanzadera sobre el dominio Ω |
-| N_i | Nodo de precedencia |
-| N_j | Nodo de llegada |
-| D | Dominio declarado |
-| M | Métrica o magnitud de lectura |
-| F_D | Frontera del dominio |
-| I_D | Identidad del dominio |
-| C_D | Condición de canal o continuidad admisible |
-| R_D | Residual declarado |
-| Tr_D | Traza disponible |
-| salida | Acceso, frontera, horizonte, proyección auxiliar, U o rechazo |
+| Símbolo | Significado |
+| --- | --- |
+| L_Ω         | Operación de Lanzadera sobre el dominio Ω                     |
+| N_i         | Nodo de precedencia                                           |
+| N_j         | Nodo de llegada                                               |
+| D           | Dominio declarado                                             |
+| M           | Métrica o magnitud de lectura                                 |
+| F_D         | Frontera del dominio                                          |
+| I_D         | Identidad del dominio                                         |
+| C_D         | Condición de canal o continuidad admisible                    |
+| R_D         | Residual declarado                                            |
+| Tr_D        | Traza disponible                                              |
+| salida      | Acceso, frontera, horizonte, proyección auxiliar, U o rechazo |
 
 La operación sólo es admisible cuando el dominio está declarado y las condiciones materiales de lectura no quedan sustituidas por analogía. La Lanzadera no inventa nodos. No completa subdominios ausentes. No convierte un patrón de escala en origen de magnitud. No transforma una traza externa en fundamento interno.
 
@@ -831,13 +832,13 @@ La operación sólo es admisible cuando el dominio está declarado y las condici
 
 El nodo de precedencia N_i designa el punto formal desde el que se inicia el tránsito. No equivale a causa física absoluta, origen ontológico ni punto de creación. Su función es fijar desde dónde se lee el paso hacia otro nodo dentro de un dominio declarado. Un nodo de precedencia debe cumplir al menos estas condiciones:
 
-| **Condición** | **Exigencia** |
-|---|---|
-| Declaración | El nodo debe estar nombrado o formalmente definido |
-| Dominio | Debe pertenecer al dominio D o tener transductor declarado hacia él |
-| Métrica | Debe admitir lectura bajo M |
-| Traza | Debe conservar registro suficiente para operar |
-| No contradicción | No debe ocupar simultáneamente otro plano incompatible |
+| Condición | Exigencia |
+| --- | --- |
+| Declaración      | El nodo debe estar nombrado o formalmente definido                  |
+| Dominio          | Debe pertenecer al dominio D o tener transductor declarado hacia él |
+| Métrica          | Debe admitir lectura bajo M                                         |
+| Traza            | Debe conservar registro suficiente para operar                      |
+| No contradicción | No debe ocupar simultáneamente otro plano incompatible              |
 
 Si falta el nodo de precedencia, no hay operación. La salida queda en U si la ausencia es falta material de definición; queda en rechazo si se pretende usar como nodo algo incompatible con el dominio.
 
@@ -845,13 +846,13 @@ Si falta el nodo de precedencia, no hay operación. La salida queda en U si la a
 
 El nodo de llegada N_j designa el punto formal hacia el que se dirige la operación. No equivale a destino físico, predicción cerrada ni resultado garantizado. Puede funcionar como frontera, horizonte, estado de llegada o posición formal de comparación, siempre que el dominio lo admita. Un nodo de llegada debe cumplir:
 
-| **Condición** | **Exigencia** |
-|---|---|
-| Definición | Debe estar declarado como nodo, frontera u horizonte |
+| Condición | Exigencia |
+| --- | --- |
+| Definición     | Debe estar declarado como nodo, frontera u horizonte        |
 | Compatibilidad | Debe pertenecer al mismo dominio o a un dominio transducido |
-| Lectura | Debe admitir la métrica M |
-| Residual | Debe permitir evaluar diferencia respecto de N_i |
-| Retorno | Debe devolver una salida interpretable |
+| Lectura        | Debe admitir la métrica M                                   |
+| Residual       | Debe permitir evaluar diferencia respecto de N_i            |
+| Retorno        | Debe devolver una salida interpretable                      |
 
 Si el nodo de llegada no está definido, la Lanzadera no lo fabrica. La salida queda en U. Si el nodo de llegada contradice el dominio, la operación se rechaza.
 
@@ -863,13 +864,13 @@ El dominio D es la condición que impide que la Lanzadera se convierta en una op
 
 La métrica M determina qué clase de magnitud se está leyendo. Puede ser etaria, geométrica, metrológica, fronteriza, astronómica de contraste o de retorno de escala. La métrica no es un adorno: decide qué operación es admisible.
 
-| **Métrica** | **Uso admisible** | **Uso excluido** |
-|---|---|---|
-| Etaria | Tránsito entre edades o cortes declarados | Tiempo absoluto |
-| Fronteriza | Acceso, brazo, frontera, horizonte | Radio cosmológico primario |
-| Geométrica auxiliar | Proyección de frontera ya calculada | Producción de frontera |
-| Metrológica | Retorno a unidades o patrones | Fundación de magnitud |
-| Observacional externa | Contraste con grupos de datos | Sustitución del cálculo interno |
+| Métrica | Uso admisible | Uso excluido |
+| --- | --- | --- |
+| Etaria                | Tránsito entre edades o cortes declarados | Tiempo absoluto                 |
+| Fronteriza            | Acceso, brazo, frontera, horizonte        | Radio cosmológico primario      |
+| Geométrica auxiliar   | Proyección de frontera ya calculada       | Producción de frontera          |
+| Metrológica           | Retorno a unidades o patrones             | Fundación de magnitud           |
+| Observacional externa | Contraste con grupos de datos             | Sustitución del cálculo interno |
 
 Cuando cambia M, cambia la salida. Un resultado obtenido bajo métrica etaria no puede leerse automáticamente como distancia comóvil. Una proyección geométrica auxiliar no puede ocupar el lugar de una magnitud observacional externa. Un patrón local no puede transformarse en fundamento cosmológico.
 
@@ -877,22 +878,22 @@ Cuando cambia M, cambia la salida. Un resultado obtenido bajo métrica etaria no
 
 La Lanzadera puede devolver distintos tipos de salida:
 
-| **Salida** | **Significado** | **Restricción** |
-|---|---|---|
-| λ_acc | Acceso nodal | No frontera |
-| κ_∂←acc | Coeficiente de tránsito acceso-frontera | No constante cosmológica |
-| λ_∂ | Brazo fronterizo etario | No Λ, no energía oscura |
+| Salida | Significado | Restricción |
+| --- | --- | --- |
+| λ_acc                | Acceso nodal                            | No frontera                             |
+| κ_∂←acc             | Coeficiente de tránsito acceso-frontera | No constante cosmológica                |
+| λ_∂                 | Brazo fronterizo etario                 | No Λ, no energía oscura                 |
 | Brazo_∂Ωobs(Tierra) | Frontera situada bajo anclaje declarado | No centralidad cosmológica de la Tierra |
-| R_aux | Proyección geométrica auxiliar | No R_U, no radio comóvil |
-| Horizonte | Lectura de llegada condicionada | No predicción fatalista |
-| U | No clausura honesta | No probabilidad |
-| Rechazo | Contradicción formal | No salida parcial |
+| R_aux                | Proyección geométrica auxiliar          | No R_U, no radio comóvil                |
+| Horizonte            | Lectura de llegada condicionada         | No predicción fatalista                 |
+| U                    | No clausura honesta                     | No probabilidad                         |
+| Rechazo              | Contradicción formal                    | No salida parcial                       |
 
 La salida depende del dominio y de la métrica. La Lanzadera no produce una única clase de resultado para todos los casos. Devuelve aquello que el dominio permite devolver.
 
 ### C.7. Cadena de la Parte II de la trilogía
 
-En el caso de la frontera etaria del universo observable retornado, la cadena ya calculada es λ_acc → κ_∂←acc → λ_∂ → Brazo_∂Ωobs(Tierra) → R_aux(Ωobs). Los valores centrales son λ_acc = 257.916.802.762.371.004.117,8021159948054130965383279286041549868367802475908620127745896778575090806844476 UFE. κ_∂←acc = 2879/1154 ≈ 2,494800693240901. λ_∂ = 643.451.018.330.039.966.078,988121273002412742576989693632029642203717792733181745908183433753698997652101074870017331022530328 UFE. El residual entre acceso y frontera Δ_∂|acc = λ_∂ − λ_acc. Con valor positivo: Δ_∂|acc = 385.534.215.567.668.961.961,186005278196999646038661765027874655366937545142319733133593755896189916967653474870017331022530328 UFE > 0.
+En el caso de la frontera etaria del universo observable retornado, la cadena ya calculada es λ_acc → κ_∂←acc → λ_∂ → Brazo_∂Ωobs(Tierra) → R_aux(Ωobs). Los valores centrales son λ_acc = 257.916.802.762.371.004.117,8021159948054130965383279286041549868367802475908620127745896778575090806844476 UFE. κ_∂←acc = 2879/1154 ≈ 2,494800693240901. λ_∂ = 643.451.018.330.039.966.078,988121273002412742576989693632029642203717792733181745908183433753698997652101074870017331022530328 UFE. El residual entre acceso y frontera Δ_∂∣acc = λ_∂ − λ_acc. Con valor positivo: Δ_∂∣acc = 385.534.215.567.668.961.961,186005278196999646038661765027874655366937545142319733133593755896189916967653474870017331022530328 UFE > 0.
 
 Ese residual impide identificar acceso y frontera. La operación no dice que λ_acc sea una forma incompleta de λ_∂, ni que la frontera sea una prolongación verbal del acceso. Dice que, bajo dominio y coeficiente de tránsito, la frontera etaria queda calculada como magnitud distinta.
 
@@ -908,11 +909,11 @@ La Lanzadera puede devolver sus magnitudes a patrones de escala, como distancia 
 
 La distinción entre traza pasada, estado presente y horizonte condicionado se apoya en el régimen de retorno y no reescritura de observables (Lloret Egea, 2026g). La Lanzadera Ómicron puede leerse en tres regímenes, siempre bajo restricción de dominio:
 
-| **Régimen** | **Lectura admisible** | **Uso prohibido** |
-|---|---|---|
-| Pasado | Nodo de precedencia con traza suficiente | Reescritura de sucesos |
-| Presente | Estado nodal o fronterizo declarado | Cierre sin residual |
-| Futuro | Horizonte formal condicionado | Predicción fatalista |
+| Régimen | Lectura admisible | Uso prohibido |
+| --- | --- | --- |
+| Pasado      | Nodo de precedencia con traza suficiente | Reescritura de sucesos |
+| Presente    | Estado nodal o fronterizo declarado      | Cierre sin residual    |
+| Futuro      | Horizonte formal condicionado            | Predicción fatalista   |
 
 En régimen pasado, la Lanzadera no modifica el registro. Sólo puede leer trazas disponibles. En régimen presente, puede declarar estado nodal, acceso, frontera o retorno si el dominio cierra. En régimen futuro, sólo puede ofrecer horizonte condicionado; no determina acontecimientos materiales ni elimina intervención, cambio de dominio o residual.
 
@@ -920,16 +921,16 @@ En régimen pasado, la Lanzadera no modifica el registro. Sólo puede leer traza
 
 La salida U aparece cuando falta una condición real de clausura. Los casos principales son:
 
-| **Falta** | **Salida** |
-|---|---|
-| Falta nodo de precedencia | U |
-| Falta nodo de llegada | U |
-| Falta dominio | U |
-| Falta métrica | U |
-| Falta frontera | U |
-| Falta residual | U |
-| Falta traza | U |
-| Falta subdominio interno | U |
+| Falta | Salida |
+| --- | --- |
+| Falta nodo de precedencia | U          |
+| Falta nodo de llegada     | U          |
+| Falta dominio             | U          |
+| Falta métrica             | U          |
+| Falta frontera            | U          |
+| Falta residual            | U          |
+| Falta traza               | U          |
+| Falta subdominio interno  | U          |
 
 U no es ignorancia genérica ni probabilidad. No autoriza a cerrar favorablemente una hipótesis. Tampoco debe mantenerse cuando la magnitud ya está calculada. Si λ_∂ está calculada, no procede declararla U. Si falta un subdominio nuevo no calculado, sí procede U. La regla queda fijada así: condición ausente sin contradicción → U; contradicción formal → rechazo; condiciones completas → salida admisible.
 
@@ -937,31 +938,31 @@ U no es ignorancia genérica ni probabilidad. No autoriza a cerrar favorablement
 
 La operación debe rechazarse cuando la magnitud invade un dominio incompatible. Casos principales:
 
-| **Contradicción** | **Motivo de rechazo** |
-|---|---|
-| λ_∂ = Λ | Confunde frontera etaria con constante cosmológica |
-| R_aux = R_U | Confunde proyección auxiliar con radio interno |
-| R_aux = R_comóvil | Confunde frontera proyectada con distancia observacional |
-| Patrón local = origen de magnitud | Invierte el orden de cálculo |
-| Grupo de datos externo = fundamento interno | Sustituye fuente de cálculo |
-| Salida sin residual | Finge clausura |
-| Doble uso de una magnitud | Produce doble cómputo |
+| Contradicción | Motivo de rechazo |
+| --- | --- |
+| λ_∂ = Λ                                    | Confunde frontera etaria con constante cosmológica       |
+| R_aux = R_U                                 | Confunde proyección auxiliar con radio interno           |
+| R_aux = R_comóvil                           | Confunde frontera proyectada con distancia observacional |
+| Patrón local = origen de magnitud           | Invierte el orden de cálculo                             |
+| Grupo de datos externo = fundamento interno | Sustituye fuente de cálculo                              |
+| Salida sin residual                         | Finge clausura                                           |
+| Doble uso de una magnitud                   | Produce doble cómputo                                    |
 
 El rechazo no es una salida negativa provisional; es dictamen formal cuando hay contradicción de dominio, dimensión, origen o retorno.
 
 ### C.13. Relación con los nodos astronómicos de contraste
 
-Los nodos astronómicos externos pueden ejemplificar dominio y traza, pero no producir la cadena. Sgr A\* puede funcionar como nodo galáctico reconocido. M31 puede funcionar como nodo externo del Grupo Local. Gaia DR3 puede aportar traza astrométrica. Ninguno de ellos calcula λ_acc, λ_∂ o R_aux. La regla es nodo externo → contraste de nodo y traza. No: nodo externo → fuente de frontera etaria. Esta diferencia impide convertir un objeto astronómico real en fundamento de una operación que pertenece a otro dominio.
+Los nodos astronómicos externos pueden ejemplificar dominio y traza, pero no producir la cadena. Sgr A&#42; puede funcionar como nodo galáctico reconocido. M31 puede funcionar como nodo externo del Grupo Local. Gaia DR3 puede aportar traza astrométrica. Ninguno de ellos calcula λ_acc, λ_∂ o R_aux. La regla es nodo externo → contraste de nodo y traza. No: nodo externo → fuente de frontera etaria. Esta diferencia impide convertir un objeto astronómico real en fundamento de una operación que pertenece a otro dominio.
 
 ### C.14. Relación con Λ, R_U y radio comóvil
 
 La Lanzadera queda separada de tres planos:
 
-| **Plano** | **Magnitud** | **Relación con Lanzadera** |
-|---|---|---|
-| Curvatura ciclo-distancial | Λ | Separación completa |
-| Radio interno estructural | R_U | Coordinación posible, no identidad |
-| Radio comóvil externo | R_comóvil | Contraste externo, no sustitución |
+| Plano | Magnitud | Relación con Lanzadera |
+| --- | --- | --- |
+| Curvatura ciclo-distancial | Λ            | Separación completa                |
+| Radio interno estructural  | R_U          | Coordinación posible, no identidad |
+| Radio comóvil externo      | R_comóvil    | Contraste externo, no sustitución  |
 
 La cadena de la Lanzadera no calcula Λ. La cadena de Λ no calcula λ_∂. El radio comóvil externo no corrige R_aux. La coordinación sólo es admisible si se declara el transductor o la comparación.
 
@@ -977,12 +978,12 @@ Fija la ecuación de densidad cosmológica usada para separar capacidad estructu
 
 La ecuación rectora es ρ_cap = ρ_ret + ρ_sut,grav + ρ_C. Donde:
 
-| **Término** | **Lectura** | **Función** |
-|---|---|---|
-| ρ_cap | Capacidad estructural transducida | Densidad equivalente del dominio |
-| ρ_ret | Materialidad retornada | Inventario físico admitido |
-| ρ_sut,grav | Sutura gravitatoria efectiva | Diferencia gravitatoria no sustancial |
-| ρ_C | Residual de no clausura | Diferencia no cerrada o no distribuida |
+| Término | Lectura | Función |
+| --- | --- | --- |
+| ρ_cap       | Capacidad estructural transducida | Densidad equivalente del dominio       |
+| ρ_ret       | Materialidad retornada            | Inventario físico admitido             |
+| ρ_sut,grav  | Sutura gravitatoria efectiva      | Diferencia gravitatoria no sustancial  |
+| ρ_C         | Residual de no clausura           | Diferencia no cerrada o no distribuida |
 
 La ecuación no declara que todo sea materia. Declara que la capacidad estructural del dominio, una vez devuelta a unidad de densidad, debe repartirse entre materialidad admitida, sutura gravitatoria efectiva y residual. Si los términos se confunden, la densidad se convierte en una etiqueta única y pierde dominio.
 
@@ -1002,15 +1003,15 @@ La materialidad retornada designa la parte de ρ_cap admitida como contenido fí
 
 ρ_ret(x) = 1 ⇔ D_x ∧ M_x ∧ F_x ∧ I_x ∧ Tr_x ∧ Ret_x ∧ R_x. Donde:
 
-| **Condición** | **Significado** |
-|---|---|
-| D_x | Dominio físico declarado |
-| M_x | Magnitud material compatible |
-| F_x | Frontera de admisión |
-| I_x | Identidad material |
-| Tr_x | Traza observacional o metrológica |
-| Ret_x | Retorno físico controlado |
-| R_x | Residual declarado |
+| Condición | Significado |
+| --- | --- |
+| D_x           | Dominio físico declarado          |
+| M_x           | Magnitud material compatible      |
+| F_x           | Frontera de admisión              |
+| I_x           | Identidad material                |
+| Tr_x          | Traza observacional o metrológica |
+| Ret_x         | Retorno físico controlado         |
+| R_x           | Residual declarado                |
 
 Si esas condiciones se cumplen, el componente puede entrar en ρ_ret. Si falta una condición sin contradicción, queda en U. Si hay contradicción de dominio, se rechaza. La materialidad retornada no debe confundirse con visibilidad: materia ordinaria no luminosa puede ser materialidad admitida si cumple condiciones; retorno gravitatorio sin soporte material suficiente no entra automáticamente como materia.
 
@@ -1022,11 +1023,11 @@ El régimen H–He entra como primera organización material ordinaria retornabl
 
 La sutura gravitatoria efectiva se define como diferencia estructural con eficacia gravitatoria no cerrada como materia sustancial: ρ_sut,grav = ρ_cap − ρ_ret − ρ_C. Esta magnitud no es materia oscura sustancial. No designa una partícula oculta, un fluido, un depósito de masa invisible ni una sustancia repartida por el universo. Designa la diferencia entre capacidad estructural y materialidad retornada cuando esa diferencia conserva eficacia gravitatoria, pero no queda admitida como materia. La sutura cumple tres funciones:
 
-| **Función** | **Descripción** |
-|---|---|
-| Gravitatoria | Conserva la diferencia que aparece en el retorno dinámico |
-| No sustancial | No la convierte en materia independiente |
-| Estructural | La liga al dominio y a su capacidad transducida |
+| Función | Descripción |
+| --- | --- |
+| Gravitatoria  | Conserva la diferencia que aparece en el retorno dinámico |
+| No sustancial | No la convierte en materia independiente                  |
+| Estructural   | La liga al dominio y a su capacidad transducida           |
 
 Por tanto ρ_sut,grav ≠ ρ_DM,sustancia. La sutura puede contrastarse con el componente de materia oscura del modelo contemporáneo, pero no se identifica con él como sustancia.
 
@@ -1034,14 +1035,14 @@ Por tanto ρ_sut,grav ≠ ρ_DM,sustancia. La sutura puede contrastarse con el c
 
 El residual ρ_C conserva la parte no cerrada de la operación. No es error oculto, resto indiferenciado, ignorancia favorable ni licencia para completar el cálculo por analogía. Es marca formal de no clausura. Casos típicos de activación de ρ_C:
 
-| **Caso** | **Motivo** |
-|---|---|
-| Inventario material incompleto | No puede cerrarse ρ_ret |
-| Grupo de datos insuficiente | Falta contraste o incertidumbre |
-| Dominio parcial | La frontera no cubre toda la operación |
-| Doble cómputo posible | Un componente podría estar contado dos veces |
-| Separación no estable | No se distingue materialidad, sutura y residual |
-| Falta de retorno | No hay unidad o traza suficiente |
+| Caso | Motivo |
+| --- | --- |
+| Inventario material incompleto | No puede cerrarse ρ_ret                         |
+| Grupo de datos insuficiente    | Falta contraste o incertidumbre                 |
+| Dominio parcial                | La frontera no cubre toda la operación          |
+| Doble cómputo posible          | Un componente podría estar contado dos veces    |
+| Separación no estable          | No se distingue materialidad, sutura y residual |
+| Falta de retorno               | No hay unidad o traza suficiente                |
 
 Si ρ_C = 0, la descomposición queda cerrada para el dominio declarado. Si ρ_C ≠ 0, el cierre queda pendiente y debe conservarse la diferencia. El residual no debilita la ecuación; impide un cierre ficticio.
 
@@ -1049,11 +1050,11 @@ Si ρ_C = 0, la descomposición queda cerrada para el dominio declarado. Si ρ_C
 
 La ecuación permite tres casos principales.
 
-| **Caso** | **Condición** | **Resultado** |
-|---|---|---|
-| Clausura completa | ρ_C = 0 | ρ_cap = ρ_ret + ρ_sut,grav |
-| Clausura material plena | ρ_C = 0 ∧ ρ_sut,grav = 0 | ρ_cap = ρ_ret |
-| No clausura | ρ_C ≠ 0 | ρ_cap = ρ_ret + ρ_sut,grav + ρ_C |
+| Caso | Condición | Resultado |
+| --- | --- | --- |
+| Clausura completa       | ρ_C = 0                  | ρ_cap = ρ_ret + ρ_sut,grav       |
+| Clausura material plena | ρ_C = 0 ∧ ρ_sut,grav = 0 | ρ_cap = ρ_ret                    |
+| No clausura             | ρ_C ≠ 0                  | ρ_cap = ρ_ret + ρ_sut,grav + ρ_C |
 
 La clausura material plena sólo sería admisible si el inventario material agotara la capacidad estructural del dominio. Ese caso no debe imponerse por defecto. La forma general conserva sutura y residual porque el dominio cosmológico no puede cerrarse como materia ordinaria sin una operación de inventario completa.
 
@@ -1073,13 +1074,13 @@ Un grupo de datos externo puede devolver densidades relativas, parámetros cosmo
 
 La ecuación exige impedir doble cómputo. Un mismo componente no puede entrar simultáneamente en ρ_ret, ρ_sut,grav y ρ_C. Reglas:
 
-| **Regla** | **Consecuencia** |
-|---|---|
-| Si un componente entra en ρ_ret | No puede contarse en ρ_sut,grav |
-| Si una diferencia entra en ρ_sut,grav | No puede contarse como materia sustancial |
-| Si una parte queda en ρ_C | No puede presentarse como clausura |
+| Regla | Consecuencia |
+| --- | --- |
+| Si un componente entra en ρ_ret                    | No puede contarse en ρ_sut,grav               |
+| Si una diferencia entra en ρ_sut,grav              | No puede contarse como materia sustancial     |
+| Si una parte queda en ρ_C                          | No puede presentarse como clausura            |
 | Si un grupo de datos externo devuelve un parámetro | No puede ser magnitud interna sin transductor |
-| Si un patrón devuelve escala | No puede producir densidad |
+| Si un patrón devuelve escala                       | No puede producir densidad                    |
 
 El doble cómputo debe rechazarse, no marcarse como U, cuando la contradicción sea formalmente visible.
 
@@ -1087,12 +1088,12 @@ El doble cómputo debe rechazarse, no marcarse como U, cuando la contradicción 
 
 La ecuación permite dictámenes:
 
-| **Dictamen** | **Condición** |
-|---|---|
-| APTO | Dominio, unidad, inventario, residual y retorno completos |
-| APTO_PARCIAL | Comparación útil con residual visible |
-| U | Falta condición real de clausura |
-| RECHAZO | Contradicción de dominio, unidad, doble cómputo o sustancialización indebida |
+| Dictamen | Condición |
+| --- | --- |
+| APTO         | Dominio, unidad, inventario, residual y retorno completos                    |
+| APTO_PARCIAL | Comparación útil con residual visible                                        |
+| U            | Falta condición real de clausura                                             |
+| RECHAZO      | Contradicción de dominio, unidad, doble cómputo o sustancialización indebida |
 
 U no se usa cuando la contradicción ya está determinada. Si una magnitud se usa en plano incompatible, procede rechazo. Si falta información suficiente sin contradicción, procede U. Si la operación cierra con residual visible, procede APTO o APTO_PARCIAL.
 
@@ -1100,14 +1101,14 @@ U no se usa cuando la contradicción ya está determinada. Si una magnitud se us
 
 La descomposición puede expresarse de forma expandida ρ_cap(D) = ρ_ret(D,B_ret) + ρ_sut,grav(D,B_grav) + ρ_C(D,B_ret,B_grav). Donde:
 
-| **Elemento** | **Función** |
-|---|---|
-| D | Dominio cosmológico declarado |
-| B_ret | Grupo de datos de inventario material |
-| B_grav | Grupo de datos de retorno gravitatorio |
-| ρ_ret(D,B_ret) | Materialidad admitida en el dominio |
-| ρ_sut,grav(D,B_grav) | Diferencia gravitatoria efectiva |
-| ρ_C(D,B_ret,B_grav) | Residual entre inventario y retorno |
+| Elemento | Función |
+| --- | --- |
+| D                    | Dominio cosmológico declarado          |
+| B_ret                | Grupo de datos de inventario material  |
+| B_grav               | Grupo de datos de retorno gravitatorio |
+| ρ_ret(D,B_ret)       | Materialidad admitida en el dominio    |
+| ρ_sut,grav(D,B_grav) | Diferencia gravitatoria efectiva       |
+| ρ_C(D,B_ret,B_grav)  | Residual entre inventario y retorno    |
 
 Esta forma impide que el inventario material y el retorno gravitatorio se mezclen sin control. Cada entrada conserva su grupo de datos, su dominio y su residual.
 
@@ -1143,18 +1144,18 @@ Se fija el régimen de entrada de los grupos de datos externos. Su función no c
 
 Todo grupo de datos externo debe entrar mediante una ficha mínima:
 
-| **Campo** | **Exigencia** |
-|---|---|
-| Nombre del grupo de datos | Identificación precisa de la fuente o conjunto |
-| Dominio | Cosmológico, astrométrico, interferométrico, espectral, metrológico u otro |
-| Magnitud devuelta | Parámetro, distancia, traza, posición, imagen, densidad, patrón o señal |
-| Unidad | Unidad física explícita |
-| Modelo de lectura | Procedimiento, ecuación, catálogo, ajuste o marco interpretativo |
-| Incertidumbre | Error, intervalo, dispersión o límite declarado |
-| Retorno | Modo en que la magnitud se compara con el dominio receptor |
-| Residual | Diferencia no absorbida por la comparación |
-| Uso permitido | Contraste, ejemplificación, retorno, traza o patrón |
-| Uso prohibido | Sustitución de magnitud interna, fundamento indebido o cierre sustancial |
+| Campo | Exigencia |
+| --- | --- |
+| Nombre del grupo de datos | Identificación precisa de la fuente o conjunto                             |
+| Dominio                   | Cosmológico, astrométrico, interferométrico, espectral, metrológico u otro |
+| Magnitud devuelta         | Parámetro, distancia, traza, posición, imagen, densidad, patrón o señal    |
+| Unidad                    | Unidad física explícita                                                    |
+| Modelo de lectura         | Procedimiento, ecuación, catálogo, ajuste o marco interpretativo           |
+| Incertidumbre             | Error, intervalo, dispersión o límite declarado                            |
+| Retorno                   | Modo en que la magnitud se compara con el dominio receptor                 |
+| Residual                  | Diferencia no absorbida por la comparación                                 |
+| Uso permitido             | Contraste, ejemplificación, retorno, traza o patrón                        |
+| Uso prohibido             | Sustitución de magnitud interna, fundamento indebido o cierre sustancial   |
 
 La ausencia de cualquiera de estos elementos no invalida necesariamente el grupo de datos, pero limita su uso. Si falta dominio, unidad o modelo de lectura, la entrada queda en U. Si el grupo de datos pretende ocupar el lugar de una magnitud interna ya calculada, el uso debe rechazarse.
 
@@ -1166,17 +1167,17 @@ B_ext admisible ⇔ D_B ∧ M_B ∧ u_B ∧ Eq_B ∧ σ_B ∧ Ret_B ∧ R_B ∧ 
 
 Donde:
 
-| **Símbolo** | **Significado** |
-|---|---|
-| B_ext | Grupo de datos externo |
-| D_B | Dominio del grupo |
-| M_B | Magnitud devuelta |
-| u_B | Unidad |
-| Eq_B | Ecuación, modelo o procedimiento |
-| σ_B | Incertidumbre |
-| Ret_B | Operación de retorno |
-| R_B | Residual |
-| L_B | Límite de uso |
+| Símbolo | Significado |
+| --- | --- |
+| B_ext       | Grupo de datos externo           |
+| D_B         | Dominio del grupo                |
+| M_B         | Magnitud devuelta                |
+| u_B         | Unidad                           |
+| Eq_B        | Ecuación, modelo o procedimiento |
+| σ_B         | Incertidumbre                    |
+| Ret_B       | Operación de retorno             |
+| R_B         | Residual                         |
+| L_B         | Límite de uso                    |
 
 La salida puede ser B_ext → contraste. B_ext → ejemplificación. B_ext → retorno metrológico. B_ext → traza. No es B_ext → fundamento interno. No como B_ext → sustitución de Λ, R_U, λ_∂, R_aux o ρ_cap.
 
@@ -1184,13 +1185,13 @@ La salida puede ser B_ext → contraste. B_ext → ejemplificación. B_ext → r
 
 Planck 2018 aplica como grupo de datos cosmológico de contraste (Aghanim et al., 2020). Su dominio es el fondo cósmico de microondas y el ajuste de parámetros dentro del marco ΛCDM. Puede usarse para contrastar parámetros como H₀, Ω_m, Ω_b, Ω_c, Ω_Λ, amplitudes de perturbación, consistencia del modelo base y lectura contemporánea de densidades relativas.
 
-| **Campo** | **Planck 2018** |
-|---|---|
-| Dominio | Cosmología observacional / CMB |
-| Magnitudes | Parámetros ΛCDM, densidades relativas, expansión, amplitudes |
+| Campo | Planck 2018 |
+| --- | --- |
+| Dominio       | Cosmología observacional / CMB                                         |
+| Magnitudes    | Parámetros ΛCDM, densidades relativas, expansión, amplitudes           |
 | Uso permitido | Contraste de ΛCDM, radio comóvil, densidades y energía oscura efectiva |
-| Uso prohibido | Sustituir Λ_SV,puro(T_obs) |
-| Dictamen | Apto como contraste externo |
+| Uso prohibido | Sustituir Λ_SV,puro(T_obs)                                             |
+| Dictamen      | Apto como contraste externo                                            |
 
 Planck no calcula la Λ rectora usada para R_U. Si devuelve un valor observacional de constante cosmológica, ese valor pertenece a Λ_obs[B] o Λ_SV,ret[B]. Entra como contraste, no como fuente del cálculo interno.
 
@@ -1198,13 +1199,13 @@ Planck no calcula la Λ rectora usada para R_U. Si devuelve un valor observacion
 
 La literatura técnica sobre distancias cosmológicas entra como grupo de control conceptual. Su función es impedir que distancia comóvil, distancia angular, distancia de luminosidad, distancia propia y tiempo de viaje de la luz se traten como nombres equivalentes.
 
-| **Campo** | **Distancias cosmológicas** |
-|---|---|
-| Dominio | Cosmología observacional / geometría FLRW |
-| Magnitudes | Distancia comóvil, angular, luminosidad, propia, tiempo de viaje |
-| Uso permitido | Ordenar el régimen de R_comóvil |
-| Uso prohibido | Corregir R_U o R_aux |
-| Dictamen | Apto como tipología de contraste |
+| Campo | Distancias cosmológicas |
+| --- | --- |
+| Dominio       | Cosmología observacional / geometría FLRW                        |
+| Magnitudes    | Distancia comóvil, angular, luminosidad, propia, tiempo de viaje |
+| Uso permitido | Ordenar el régimen de R_comóvil                                  |
+| Uso prohibido | Corregir R_U o R_aux                                             |
+| Dictamen      | Apto como tipología de contraste                                 |
 
 El radio comóvil externo pertenece a este régimen. Puede contrastarse con R_U, pero no sustituirlo. Puede situar R_aux, pero no absorberlo. Su valor depende de modelo, parámetros, redshift e integral de distancia; no nace de la cadena Λ → R_U.
 
@@ -1212,41 +1213,41 @@ El radio comóvil externo pertenece a este régimen. Puede contrastarse con R_U,
 
 Gaia DR3 entra como grupo de datos astrométrico (Gaia Collaboration et al., 2023). Su dominio es la medición de posiciones, paralajes, movimientos propios, fotometría, velocidades radiales, parámetros astrofísicos, objetos variables, sistemas múltiples, objetos del Sistema Solar y otros productos derivados.
 
-| **Campo** | **Gaia DR3** |
-|---|---|
-| Dominio | Astrometría y fotometría espacial |
-| Magnitudes | Posición, paralaje, movimiento propio, fotometría, velocidad radial, parámetros |
-| Uso permitido | Traza astrométrica, nodos, movimientos, contraste galáctico |
-| Uso prohibido | Fundar Λ, R_U, λ_∂, R_aux o ρ_cap |
-| Dictamen | Apto como traza observacional |
+| Campo | Gaia DR3 |
+| --- | --- |
+| Dominio       | Astrometría y fotometría espacial                                               |
+| Magnitudes    | Posición, paralaje, movimiento propio, fotometría, velocidad radial, parámetros |
+| Uso permitido | Traza astrométrica, nodos, movimientos, contraste galáctico                     |
+| Uso prohibido | Fundar Λ, R_U, λ_∂, R_aux o ρ_cap                                              |
+| Dictamen      | Apto como traza observacional                                                   |
 
 Gaia DR3 no es una cartografía total del universo observable. Aporta traza muy rica dentro de su régimen instrumental y astrométrico. Su potencia se conserva precisamente al no usarla fuera de dominio. Puede ejemplificar nodo, posición, movimiento e incertidumbre; no puede decidir magnitudes cosmológicas internas.
 
-### E.6. EHT / Sgr A\*
+### E.6. EHT / Sgr A&#42;
 
-EHT/Sgr A\* se aplica como grupo de datos interferométrico y como nodo astronómico reconocido (Event Horizon Telescope Collaboration, 2022a, 2022b). Su dominio es el centro galáctico, la imagen a escala de horizonte, la estructura compacta y el contraste con dinámica estelar y modelos relativistas.
+EHT/Sgr A&#42; se aplica como grupo de datos interferométrico y como nodo astronómico reconocido (Event Horizon Telescope Collaboration, 2022a, 2022b). Su dominio es el centro galáctico, la imagen a escala de horizonte, la estructura compacta y el contraste con dinámica estelar y modelos relativistas.
 
-| **Campo** | **EHT / Sgr A\*** |
-|---|---|
-| Dominio | Interferometría VLBI / centro galáctico |
-| Magnitudes | Imagen de anillo, escala angular, masa compatible, variabilidad |
-| Uso permitido | Nodo galáctico de contraste |
-| Uso prohibido | Centro cosmológico o fuente de frontera universal |
-| Dictamen | Apto como nodo externo de contraste |
+| Campo | EHT / Sgr A&#42; |
+| --- | --- |
+| Dominio       | Interferometría VLBI / centro galáctico                         |
+| Magnitudes    | Imagen de anillo, escala angular, masa compatible, variabilidad |
+| Uso permitido | Nodo galáctico de contraste                                     |
+| Uso prohibido | Centro cosmológico o fuente de frontera universal               |
+| Dictamen      | Apto como nodo externo de contraste                             |
 
-Sgr A\* puede funcionar como nodo fuerte dentro del dominio galáctico. No puede convertirse en centro del universo observable. No produce Λ, no calcula R_U, no entrega λ_∂ y no proyecta R_aux. Su valor consiste en mostrar cómo un nodo observacional puede estar muy bien determinado sin ocupar todos los dominios.
+Sgr A&#42; puede funcionar como nodo fuerte dentro del dominio galáctico. No puede convertirse en centro del universo observable. No produce Λ, no calcula R_U, no entrega λ_∂ y no proyecta R_aux. Su valor consiste en mostrar cómo un nodo observacional puede estar muy bien determinado sin ocupar todos los dominios.
 
 ### E.7. DESI / BAO
 
 DESI y los grupos de datos de oscilaciones acústicas bariónicas también se aplican como contraste cosmológico de expansión y distancia (Calderon et al., 2024; DESI Collaboration et al., 2024; Lodha et al., 2024). Su dominio son las cartografías de galaxias y cuásares, las escalas BAO, la expansión cósmica y la posible evolución de la energía oscura.
 
-| **Campo** | **DESI / BAO** |
-|---|---|
-| Dominio | Cosmología observacional / expansión |
-| Magnitudes | Distancias, BAO, parámetros de energía oscura, evolución cosmológica |
-| Uso permitido | Contraste contemporáneo sobre expansión y energía oscura |
-| Uso prohibido | Reescribir Λ_SV,puro(T_obs) |
-| Dictamen | Apto como contraste externo condicionado |
+| Campo | DESI / BAO |
+| --- | --- |
+| Dominio       | Cosmología observacional / expansión                                 |
+| Magnitudes    | Distancias, BAO, parámetros de energía oscura, evolución cosmológica |
+| Uso permitido | Contraste contemporáneo sobre expansión y energía oscura             |
+| Uso prohibido | Reescribir Λ_SV,puro(T_obs)                                          |
+| Dictamen      | Apto como contraste externo condicionado                             |
 
 Si DESI sugiere tensión, evolución o debilitamiento de la energía oscura, esa información pertenece al plano externo de contraste. No corrige automáticamente la Λ calculada en el Teorema. Puede motivar comparación, residual y discusión de régimen; no sustituye el escalar rector.
 
@@ -1254,13 +1255,13 @@ Si DESI sugiere tensión, evolución o debilitamiento de la energía oscura, esa
 
 Las supernovas Ia entran como grupo de datos de distancia de luminosidad y expansión acelerada (Perlmutter et al., 1999; Riess et al., 1998). Su dominio es observacional y cosmológico.
 
-| **Campo** | **Supernovas Ia** |
-|---|---|
-| Dominio | Cosmología observacional / distancia de luminosidad |
-| Magnitudes | Flujo, luminosidad, módulo de distancia, expansión |
-| Uso permitido | Contraste de aceleración cósmica |
-| Uso prohibido | Sustancializar energía oscura |
-| Dictamen | Apto como contraste histórico y observacional |
+| Campo | Supernovas Ia |
+| --- | --- |
+| Dominio       | Cosmología observacional / distancia de luminosidad |
+| Magnitudes    | Flujo, luminosidad, módulo de distancia, expansión  |
+| Uso permitido | Contraste de aceleración cósmica                    |
+| Uso prohibido | Sustancializar energía oscura                       |
+| Dictamen      | Apto como contraste histórico y observacional       |
 
 Las supernovas Ia pueden sostener la lectura contemporánea de expansión acelerada y energía oscura efectiva. No convierten la energía oscura en fluido material. No sustituyen la Λ calculada. Su uso correcto requiere distinguir distancia de luminosidad, modelo de calibración, incertidumbre y retorno.
 
@@ -1268,13 +1269,13 @@ Las supernovas Ia pueden sostener la lectura contemporánea de expansión aceler
 
 El fondo cósmico de microondas se elige como grupo de datos cosmológico de alta potencia (Aghanim et al., 2020; Bennett et al., 2013). Su función es contrastar geometría, composición, fluctuaciones, densidades relativas, parámetros de expansión y consistencia del modelo ΛCDM.
 
-| **Campo** | **CMB** |
-|---|---|
-| Dominio | Cosmología temprana / radiación relicta |
-| Magnitudes | Espectro angular, anisotropías, parámetros cosmológicos |
+| Campo | CMB |
+| --- | --- |
+| Dominio       | Cosmología temprana / radiación relicta                  |
+| Magnitudes    | Espectro angular, anisotropías, parámetros cosmológicos  |
 | Uso permitido | Contraste de ΛCDM, densidades, radio comóvil y expansión |
-| Uso prohibido | Fundar directamente Λ_SV,puro(T_obs) |
-| Dictamen | Apto como grupo de contraste |
+| Uso prohibido | Fundar directamente Λ_SV,puro(T_obs)                     |
+| Dictamen      | Apto como grupo de contraste                             |
 
 El CMB puede alimentar grupos de datos como Planck. No ocupa por sí mismo el lugar del Teorema que calcula Λ. Si devuelve parámetros observacionales, éstos pertenecen al plano Λ_obs[B], ρ_obs[B] o retorno externo equivalente.
 
@@ -1282,28 +1283,28 @@ El CMB puede alimentar grupos de datos como Planck. No ocupa por sí mismo el lu
 
 No son grupos cosmológicos, pero cumplen función de retorno de escala. Incluyen, entre otros, c, unidad astronómica, distancia media Tierra–Luna y radio de Bohr.
 
-| **Patrón** | **Dominio** | **Uso permitido** | **Uso prohibido** |
-|---|---|---|---|
-| c | Metrología SI / retorno físico | Cierre de R_U = cT_obs, unidades | Convertir c en causa total del dominio |
-| Unidad astronómica | Metrología astronómica | Patrón Tierra–Sol | Fundar frontera etaria |
-| Distancia Tierra–Luna | Patrón astronómico local | Lectura de escala | Convertir la Tierra en centro cosmológico |
-| Radio de Bohr | Patrón microfísico | Lectura extrema de escala | Fundar radio cosmológico |
+| Patrón | Dominio | Uso permitido | Uso prohibido |
+| --- | --- | --- | --- |
+| c                     | Metrología SI / retorno físico | Cierre de R_U = cT_obs, unidades | Convertir c en causa total del dominio    |
+| Unidad astronómica    | Metrología astronómica         | Patrón Tierra–Sol                | Fundar frontera etaria                    |
+| Distancia Tierra–Luna | Patrón astronómico local       | Lectura de escala                | Convertir la Tierra en centro cosmológico |
+| Radio de Bohr         | Patrón microfísico             | Lectura extrema de escala        | Fundar radio cosmológico                  |
 
 El patrón se aplica después de obtener la magnitud. No antes. La regla es magnitud calculada → patrón. No patrón → magnitud.
 
 ### E.11. Clasificación de usos
 
-| **Uso** | **Admisión** | **Ejemplo** |
-|---|---|---|
-| Contraste | Admitido | Planck frente a ΛCDM; DESI frente a energía oscura |
-| Ejemplificación | Admitido | Sgr A\* como nodo galáctico |
-| Traza | Admitido | Gaia DR3 como astrometría |
-| Retorno metrológico | Admitido | Tierra–Luna, Tierra–Sol, radio de Bohr |
-| Sustitución de magnitud interna | Rechazado | Λ_obs[B] como fuente de R_U |
-| Fundación de frontera | Rechazado | Patrón Tierra–Luna como origen de λ_∂ |
-| Cierre sustancial | Rechazado | Energía oscura como fluido material |
-| Doble cómputo | Rechazado | Un componente contado en ρ_ret y ρ_sut,grav |
-| Falta de dominio | U | Grupo externo sin unidad o modelo declarado |
+| Uso | Admisión | Ejemplo |
+| --- | --- | --- |
+| Contraste                       | Admitido     | Planck frente a ΛCDM; DESI frente a energía oscura |
+| Ejemplificación                 | Admitido     | Sgr A&#42; como nodo galáctico                        |
+| Traza                           | Admitido     | Gaia DR3 como astrometría                          |
+| Retorno metrológico             | Admitido     | Tierra–Luna, Tierra–Sol, radio de Bohr             |
+| Sustitución de magnitud interna | Rechazado    | Λ_obs[B] como fuente de R_U                      |
+| Fundación de frontera           | Rechazado    | Patrón Tierra–Luna como origen de λ_∂             |
+| Cierre sustancial               | Rechazado    | Energía oscura como fluido material                |
+| Doble cómputo                   | Rechazado    | Un componente contado en ρ_ret y ρ_sut,grav        |
+| Falta de dominio                | U            | Grupo externo sin unidad o modelo declarado        |
 
 ### E.12. Residual de grupo externo
 
@@ -1311,43 +1312,43 @@ Todo grupo externo debe conservar residual. Su forma formal lógica general es, 
 
 Donde:
 
-| **Componente** | **Control** |
-|---|---|
-| D_int | Dominio interno receptor |
-| D_B | Dominio del grupo externo |
-| M_int | Magnitud interna |
-| M_B | Magnitud externa |
-| u_int | Unidad interna o de retorno |
-| u_B | Unidad externa |
-| Eq_int | Ecuación interna |
-| Eq_B | Modelo externo |
-| Ret | Operación de retorno |
+| Componente | Control |
+| --- | --- |
+| D_int          | Dominio interno receptor    |
+| D_B            | Dominio del grupo externo   |
+| M_int          | Magnitud interna            |
+| M_B            | Magnitud externa            |
+| u_int          | Unidad interna o de retorno |
+| u_B            | Unidad externa              |
+| Eq_int         | Ecuación interna            |
+| Eq_B           | Modelo externo              |
+| Ret            | Operación de retorno        |
 
 El residual impide que el contraste externo se convierta en identidad no declarada. Si R_B = 0 bajo condiciones completas, el retorno es fuerte. Si R_B ≠ 0, el contraste sigue siendo útil, pero no cierra identidad. Si R_B se oculta, el uso se debilita o se rechaza.
 
 ### E.13. Dictámenes
 
-| **Dictamen** | **Condición** |
-|---|---|
-| APTO | Grupo declarado, unidad, modelo, incertidumbre, residual y límite de uso completos |
-| APTO_PARCIAL | Contraste útil con residual visible |
-| U | Falta condición real de clausura |
-| RECHAZO | El grupo externo intenta sustituir una magnitud interna o produce contradicción |
+| Dictamen | Condición |
+| --- | --- |
+| APTO         | Grupo declarado, unidad, modelo, incertidumbre, residual y límite de uso completos |
+| APTO_PARCIAL | Contraste útil con residual visible                                                |
+| U            | Falta condición real de clausura                                                   |
+| RECHAZO      | El grupo externo intenta sustituir una magnitud interna o produce contradicción    |
 
 El dictamen APTO no significa fundamento interno. Significa que el grupo puede usarse en su función declarada. El dictamen RECHAZO procede cuando se invierte el orden de cálculo o se colapsan dominios incompatibles.
 
 ### E.14. Tabla de límites por magnitud interna
 
-| **Magnitud interna** | **Grupo externo admisible** | **Uso permitido** | **Uso prohibido** |
-|---|---|---|---|
-| Λ_SV,puro(T_obs) | Planck, DESI, CMB, BAO | Contraste Λ_obs[B] | Sustitución del Teorema |
-| R_U | Distancias cosmológicas, Planck | Comparación con radio comóvil | Corrección automática |
-| λ_∂ | Patrones Tierra–Luna/Tierra–Sol | Retorno de escala | Producción de frontera |
-| R_aux | Distancias externas | Comparación auxiliar | Identificación con R_comóvil |
-| ρ_cap | Planck, CMB, densidades cosmológicas | Contraste de densidades | Reemplazo por parámetro externo |
-| ρ_ret | Inventarios astrofísicos | Materialidad admitida | Doble cómputo |
-| ρ_sut,grav | Lentes, dinámica, estructura | Contraste gravitatorio | Sustancialización |
-| ρ_C | Todos los anteriores | Conservación de no clausura | Ocultación del residual |
+| Magnitud interna | Grupo externo admisible | Uso permitido | Uso prohibido |
+| --- | --- | --- | --- |
+| Λ_SV,puro(T_obs)     | Planck, DESI, CMB, BAO               | Contraste Λ_obs[B]          | Sustitución del Teorema         |
+| R_U                  | Distancias cosmológicas, Planck      | Comparación con radio comóvil | Corrección automática           |
+| λ_∂                 | Patrones Tierra–Luna/Tierra–Sol      | Retorno de escala             | Producción de frontera          |
+| R_aux                | Distancias externas                  | Comparación auxiliar          | Identificación con R_comóvil    |
+| ρ_cap                | Planck, CMB, densidades cosmológicas | Contraste de densidades       | Reemplazo por parámetro externo |
+| ρ_ret                | Inventarios astrofísicos             | Materialidad admitida         | Doble cómputo                   |
+| ρ_sut,grav           | Lentes, dinámica, estructura         | Contraste gravitatorio        | Sustancialización               |
+| ρ_C                  | Todos los anteriores                 | Conservación de no clausura   | Ocultación del residual         |
 
 ### E.15. Secuencia correcta de uso
 
@@ -1355,7 +1356,7 @@ La secuencia correcta es magnitud interna calculada → selección de grupo exte
 
 ### E.16. Dictamen del Anexo E
 
-Los grupos de datos externos son admitidos como contraste, ejemplificación, traza y retorno metrológico. Planck 2018 contrasta ΛCDM; las distancias cosmológicas ordenan el radio comóvil; Gaia DR3 aporta traza astrométrica; EHT/Sgr A\* aporta nodo galáctico reconocido; DESI/BAO contrasta expansión y energía oscura; supernovas Ia contrastan distancia de luminosidad y aceleración; CMB sostiene parámetros cosmológicos; los patrones metrológicos devuelven escala. Ninguno de esos grupos o patrones sustituye la Λ calculada, el radio interno estructural, la frontera etaria, la proyección auxiliar ni la ecuación de densidad. Su potencia científica se conserva precisamente porque no invade el dominio que no le corresponde. El resultado es una arquitectura de contraste externo fuerte, pero no fundacional: los datos externos iluminan, verifican, presionan y devuelven escala; pero no gobiernan el cálculo interno.
+Los grupos de datos externos son admitidos como contraste, ejemplificación, traza y retorno metrológico. Planck 2018 contrasta ΛCDM; las distancias cosmológicas ordenan el radio comóvil; Gaia DR3 aporta traza astrométrica; EHT/Sgr A&#42; aporta nodo galáctico reconocido; DESI/BAO contrasta expansión y energía oscura; supernovas Ia contrastan distancia de luminosidad y aceleración; CMB sostiene parámetros cosmológicos; los patrones metrológicos devuelven escala. Ninguno de esos grupos o patrones sustituye la Λ calculada, el radio interno estructural, la frontera etaria, la proyección auxiliar ni la ecuación de densidad. Su potencia científica se conserva precisamente porque no invade el dominio que no le corresponde. El resultado es una arquitectura de contraste externo fuerte, pero no fundacional: los datos externos iluminan, verifican, presionan y devuelven escala; pero no gobiernan el cálculo interno.
 
 ## Anexo F. Condiciones de no contradicción entre magnitudes cosmológicas
 
@@ -1379,11 +1380,11 @@ La constante cosmológica mayúscula Λ y las magnitudes minúsculas λ de la Re
 
 Los radios principales no son intercambiables: R_U ≠ R_aux. R_U ≠ R_comóvil. R_aux ≠ R_comóvil. La diferencia de origen impide la identidad:
 
-| **Magnitud** | **Origen** | **Régimen** |
-|---|---|---|
-| R_U | R_U = √(3/Λ) = cT_obs | Radio interno estructural |
-| R_aux | R_aux := Brazo_∂Ωobs(Tierra) | Proyección geométrica auxiliar |
-| R_comóvil | Integral o reconstrucción cosmológica externa | Distancia observacional comóvil |
+| Magnitud | Origen | Régimen |
+| --- | --- | --- |
+| R_U          | R_U = √(3/Λ) = cT_obs                         | Radio interno estructural       |
+| R_aux        | R_aux := Brazo_∂Ωobs(Tierra)                 | Proyección geométrica auxiliar  |
+| R_comóvil    | Integral o reconstrucción cosmológica externa | Distancia observacional comóvil |
 
 La comparación entre ellos puede ser útil, pero sólo bajo transductor declarado. Si se escribe R_U frente a R_comóvil, debe declararse que uno procede de curvatura interna calculada y el otro de régimen observacional de distancia cosmológica. Si se escribe R_aux frente a R_U, debe indicarse que uno es proyección auxiliar de frontera y el otro radio interno estructural. Sin esa declaración, la comparación se vuelve contradicción.
 
@@ -1395,12 +1396,12 @@ Las superficies y volúmenes derivados no son contenido físico S_U ≠ piel fí
 
 La capacidad estructural no equivale a materialidad retornada ρ_cap ≠ ρ_ret. La relación correcta es ρ_cap = ρ_ret + ρ_sut,grav + ρ_C. Cada término conserva función propia:
 
-| **Término** | **Función** |
-|---|---|
-| ρ_cap | Capacidad estructural transducida |
-| ρ_ret | Materialidad física admitida |
-| ρ_sut,grav | Sutura gravitatoria efectiva no sustancial |
-| ρ_C | Residual de no clausura |
+| Término | Función |
+| --- | --- |
+| ρ_cap       | Capacidad estructural transducida          |
+| ρ_ret       | Materialidad física admitida               |
+| ρ_sut,grav  | Sutura gravitatoria efectiva no sustancial |
+| ρ_C         | Residual de no clausura                    |
 
 Queda prohibido leerse ρ_cap = materia total. ρ_ret = capacidad completa. ρ_sut,grav = materia oscura sustancial. ρ_C = error oculto. La densidad sólo es correcta si mantiene la diferencia entre capacidad, inventario, sutura y residual.
 
@@ -1418,7 +1419,7 @@ La energía oscura se conserva como nombre contemporáneo de régimen efectivo a
 
 ### F.9. Condición de grupo de datos externo
 
-Un grupo de datos externo no sustituye una magnitud interna. B_ext → contraste. B_ext → ejemplificación. B_ext → traza. B_ext → retorno metrológico. Pero B_ext ↛ fundamento interno. Por lo tanto Planck ↛ Λ_SV,puro. DESI ↛ Λ_SV,puro. Gaia ↛ R_U. EHT/Sgr A\* ↛ centro cosmológico. BAO ↛ R_aux. Supernovas Ia ↛ sustancia de energía oscura. Su aplicación sólo es admisible si conserva grupo de datos, unidad, modelo, incertidumbre, residual y límite de uso.
+Un grupo de datos externo no sustituye una magnitud interna. B_ext → contraste. B_ext → ejemplificación. B_ext → traza. B_ext → retorno metrológico. Pero B_ext ↛ fundamento interno. Por lo tanto Planck ↛ Λ_SV,puro. DESI ↛ Λ_SV,puro. Gaia ↛ R_U. EHT/Sgr A&#42; ↛ centro cosmológico. BAO ↛ R_aux. Supernovas Ia ↛ sustancia de energía oscura. Su aplicación sólo es admisible si conserva grupo de datos, unidad, modelo, incertidumbre, residual y límite de uso.
 
 ### F.10. Condición de patrón de retorno
 
@@ -1434,14 +1435,14 @@ El patrón comunica escala pero no funda el cálculo.
 
 La salida U sólo aparece cuando falta una condición real de clausura sin contradicción formal. U ⇔ falta D ∨ falta u ∨ falta F ∨ falta Tr ∨ falta R ∨ falta Ret. Donde:
 
-| **Símbolo** | **Falta** |
-|---|---|
-| D | Dominio |
-| u | Unidad |
-| F | Frontera |
-| Tr | Traza |
-| R | Residual |
-| Ret | Retorno |
+| Símbolo | Falta |
+| --- | --- |
+| D           | Dominio   |
+| u           | Unidad    |
+| F           | Frontera  |
+| Tr          | Traza     |
+| R           | Residual  |
+| Ret         | Retorno   |
 
 U no es probabilidad, ignorancia vaga, margen favorable, hipótesis pendiente ni permiso de cierre. Si una magnitud ya está calculada y el dominio está declarado, no procede U. Si hay contradicción formal, no procede U; procede rechazo.
 
@@ -1449,17 +1450,17 @@ U no es probabilidad, ignorancia vaga, margen favorable, hipótesis pendiente ni
 
 El rechazo aparece cuando hay contradicción formal:
 
-| **Caso** | **Dictamen** |
-|---|---|
-| Confundir Λ con λ_∂ | Rechazo |
-| Confundir R_U con R_aux | Rechazo |
-| Confundir R_U con radio comóvil | Rechazo |
-| Convertir patrón en origen | Rechazo |
-| Convertir grupo externo en fundamento interno | Rechazo |
-| Contar dos veces una magnitud | Rechazo |
-| Sustancializar sutura gravitatoria | Rechazo |
-| Sustancializar energía oscura | Rechazo |
-| Elevar universo observable a Totalidad absoluta | Rechazo |
+| Caso | Dictamen |
+| --- | --- |
+| Confundir Λ con λ_∂                            | Rechazo      |
+| Confundir R_U con R_aux                         | Rechazo      |
+| Confundir R_U con radio comóvil                 | Rechazo      |
+| Convertir patrón en origen                      | Rechazo      |
+| Convertir grupo externo en fundamento interno   | Rechazo      |
+| Contar dos veces una magnitud                   | Rechazo      |
+| Sustancializar sutura gravitatoria              | Rechazo      |
+| Sustancializar energía oscura                   | Rechazo      |
+| Elevar universo observable a Totalidad absoluta | Rechazo      |
 
 El rechazo no es una forma fuerte de U. La indeterminación U se usa ante falta de clausura y rechazo se usa ante contradicción.
 
@@ -1481,15 +1482,24 @@ El orden forma parte de la verdad formal de la operación. Alterarlo modifica el
 
 El universo observable retornado no equivale a la Totalidad absoluta. Ninguna de estas magnitudes mide la Totalidad:
 
-1. R_U.
-2. R_aux.
-3. R_comóvil.
-4. V_U.
-5. V_aux.
-6. Λ.
-7. ρ_cap.
-8. ρ_ret.
-9. ρ_sut,grav.
+1.  R_U.
+
+2.  R_aux.
+
+3.  R_comóvil.
+
+4.  V_U.
+
+5.  V_aux.
+
+6.  Λ.
+
+7.  ρ_cap.
+
+8.  ρ_ret.
+
+9.  ρ_sut,grav.
+
 10. ρ_C.
 
 La condición queda: Ω_obs ≠ 𝓣. El dominio tratado es físico, observable, retornado y declarado. Si se lo eleva a Totalidad absoluta, la operación queda fuera de dominio y debe rechazarse.
@@ -1500,20 +1510,20 @@ Una comparación entre magnitudes de distinto plano es admisible si cumple Comp(
 
 ### F.17. Tabla final de condiciones
 
-| **Relación** | **Dictamen** | **Motivo** |
-|---|---|---|
-| Λ = λ_∂ | Rechazo | Dominio y dimensión incompatibles |
-| R_U = R_aux | Rechazo | Origen distinto |
-| R_U = R_comóvil | Rechazo | Distancia interna frente a distancia observacional |
-| R_aux = R_comóvil | Rechazo | Proyección auxiliar frente a distancia cosmológica |
-| ρ_cap = ρ_ret | Sólo si ρ_sut,grav=0 ∧ ρ_C=0 | Caso excepcional de clausura material plena |
-| ρ_sut,grav = materia oscura sustancial | Rechazo | Sustancialización indebida |
-| energía oscura = fluido material | Rechazo | Sustancialización indebida |
-| grupo externo = fuente interna | Rechazo | Invasión de dominio |
-| patrón = origen de magnitud | Rechazo | Inversión de cadena |
-| falta subdominio | U | No clausura honesta |
-| falta inventario material | U o ρ_C | Residual no cerrado |
-| comparación con dominio declarado | Apto | Retorno controlado |
+| Relación | Dictamen | Motivo |
+| --- | --- | --- |
+| Λ = λ_∂                               | Rechazo                      | Dominio y dimensión incompatibles                  |
+| R_U = R_aux                            | Rechazo                      | Origen distinto                                    |
+| R_U = R_comóvil                        | Rechazo                      | Distancia interna frente a distancia observacional |
+| R_aux = R_comóvil                      | Rechazo                      | Proyección auxiliar frente a distancia cosmológica |
+| ρ_cap = ρ_ret                          | Sólo si ρ_sut,grav=0 ∧ ρ_C=0 | Caso excepcional de clausura material plena        |
+| ρ_sut,grav = materia oscura sustancial | Rechazo                      | Sustancialización indebida                         |
+| energía oscura = fluido material       | Rechazo                      | Sustancialización indebida                         |
+| grupo externo = fuente interna         | Rechazo                      | Invasión de dominio                                |
+| patrón = origen de magnitud            | Rechazo                      | Inversión de cadena                                |
+| falta subdominio                       | U                            | No clausura honesta                                |
+| falta inventario material              | U o ρ_C                      | Residual no cerrado                                |
+| comparación con dominio declarado      | Apto                         | Retorno controlado                                 |
 
 ### F.18. Dictamen del Anexo F
 
@@ -1525,57 +1535,56 @@ Si falta una condición real de clausura: NoContradicción = U. Si hay invasión
 
 Con estas condiciones, la coordinación entre radio interno, frontera etaria, radio comóvil, densidad, materialidad ordinaria, sutura gravitatoria y curvatura ciclo-distancial queda formalmente admisible sin colapsar planos.
 
+---
+
 ## 17. Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable
 
-### Corolario de cambio de origen `(0,0) → Tierra`: Línea del Umbral SV, Lanzadera Ómicron y cartas auxiliares radiales
+### Corolario de cambio de origen (0,0) → Tierra: Línea del Umbral SV, Lanzadera Ómicron y cartas auxiliares radiales
 
-![Portada — Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable. DOI: https://doi.org/10.21428/39829d0b.5ac7e261](https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p5ac7e261-4454-43f4-9420-c2bf520202c4/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-11781686448082.png?width=1920&fit=bounds)
+<p align="center">
+  <img src="https://assets.pubpub.org/c39829d0b-6cf2-4c57-8562-04aa66068f1d/p5ac7e261-4454-43f4-9420-c2bf520202c4/u8d2bc69d-73c6-4669-a7e7-fb07fdba4171/portada-11781686448082.png?width=1920&amp;fit=bounds" alt="Portada — Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable. DOI: https://doi.org/10.21428/39829d0b.5ac7e261" width="900" />
+</p>
 
-© 2026. Juan Antonio Lloret Egea. Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.
-
-**Autor:** Juan Antonio Lloret Egea  
-**ORCID:** 0000-0002-6634-3351  
-**Institución:** Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)  
-**Publicación:** IA eñ™ — La Biblia de la IA™  
-**ISSN:** 2695-6411  
-**Licencia:** CC BY-NC-ND 4.0  
-**Fecha:** Madrid, 17 de junio de 2026
+---
 
 **Colección:** Trilogía Cosmológica  
-**DOI:** [10.21428/39829d0b.5ac7e261](https://doi.org/10.21428/39829d0b.5ac7e261)
+**DOI de colección:** [10.21428/39829d0b.2a152990](https://doi.org/10.21428/39829d0b.2a152990)
+**DOI Carta radial:** [10.21428/39829d0b.5ac7e261](https://doi.org/10.21428/39829d0b.5ac7e261)
 
-**Publicación de adscripción:** *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*  
+**Publicación de adscripción:** *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*
 **DOI de adscripción:** [10.21428/39829d0b.0430adc0](https://doi.org/10.21428/39829d0b.0430adc0)
 
 **URL canónica:** [SV-matematica-semantica / Trilogía Cosmológica / carta radial](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-cosmologica/carta-radial-desde-origen-tierra-sistema-solar-universo)
 
+---
+
 ### 17.1. Mapa rector del corolario
 
-La continuidad formal queda establecida entre *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* (Lloret Egea, 2026b), el radio estructural del universo observable determinado en *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* (Lloret Egea, 2026c), la lectura situada de *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* (Lloret Egea, 2026d), y la construcción auxiliar de cartas radiales aplicables a objetos internos del Sistema Solar. La finalidad no es rectificar el cálculo del radio estructural, sustituir la Lanzadera Ómicron ni introducir una nueva física local, sino declarar con precisión el cambio de origen que permite leer una misma frontera desde dos bases distintas: el origen formal-material `O_U=(0,0)` y la Tierra como origen situado de lectura.
+La continuidad formal queda establecida entre *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* (Lloret Egea, 2026b), el radio estructural del universo observable determinado en *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* (Lloret Egea, 2026c), la lectura situada de *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* (Lloret Egea, 2026d), y la construcción auxiliar de cartas radiales aplicables a objetos internos del Sistema Solar. La finalidad no es rectificar el cálculo del radio estructural, sustituir la Lanzadera Ómicron ni introducir una nueva física local, sino declarar con precisión el cambio de origen que permite leer una misma frontera desde dos bases distintas: el origen formal-material O_U=(0,0) y la Tierra como origen situado de lectura.
 
-En la Línea del Umbral SV queda fijado `O_U=(0,0)` como origen formal-material de lectura del dominio-universo físico realizado. Ese origen no es una convención gráfica ni un cuerpo físico ordinario situado dentro del universo, sino el punto de potencial nulo e intensidad nula desde el cual se organiza la lectura radial del dominio. Desde ese origen, *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* determina el radio estructural `R_U` como lectura de la frontera `∂Ωobs` bajo la esfera ideal del universo observable.
+En la Línea del Umbral SV queda fijado O_U=(0,0) como origen formal-material de lectura del dominio-universo físico realizado. Ese origen no es una convención gráfica ni un cuerpo físico ordinario situado dentro del universo, sino el punto de potencial nulo e intensidad nula desde el cual se organiza la lectura radial del dominio. Desde ese origen, *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* determina el radio estructural R_U como lectura de la frontera ∂Ωobs bajo la esfera ideal del universo observable.
 
-En la Lanzadera Ómicron no se vuelve a calcular `R_U`. La operación propia consiste en determinar una magnitud situada desde la Tierra hacia la frontera etaria/proyectada del universo observable. Esa salida, designada como `R_aux,loc^SV` cuando se proyecta bajo restricción geométrica auxiliar, debe leerse como el tramo `Tierra→∂Ωobs`, no como sustituto del radio estructural de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.
+En la Lanzadera Ómicron no se vuelve a calcular R_U. La operación propia consiste en determinar una magnitud situada desde la Tierra hacia la frontera etaria/proyectada del universo observable. Esa salida, designada como R_aux,loc^SV cuando se proyecta bajo restricción geométrica auxiliar, debe leerse como el tramo Tierra→∂Ωobs, no como sustituto del radio estructural de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.
 
-El vínculo entre ambas lecturas se formula mediante cambio de origen `R_U = D(O_U,Tierra) + D(Tierra,∂Ωobs)`.
+El vínculo entre ambas lecturas se formula mediante cambio de origen R_U = D(O_U,Tierra) + D(Tierra,∂Ωobs).
 
-Como `D(Tierra,∂Ωobs)=R_aux,loc^SV`,
+Como D(Tierra,∂Ωobs)=R_aux,loc^SV,
 
-se obtiene `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+se obtiene D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-La no coincidencia directa entre `R_U` y `R_aux,loc^SV` no expresa fallo de la Lanzadera, sino diferencia de origen. El radio estructural se lee desde `O_U=(0,0)`; la Lanzadera lee desde la Tierra. Al recomponer ambos tramos, se recupera `R_U` con residual algebraico nulo. Por tanto, la Lanzadera contrasta el radio estructural por una segunda ruta interna al SV: no por repetición del cálculo, sino por cambio de origen.
+La no coincidencia directa entre R_U y R_aux,loc^SV no expresa fallo de la Lanzadera, sino diferencia de origen. El radio estructural se lee desde O_U=(0,0); la Lanzadera lee desde la Tierra. Al recomponer ambos tramos, se recupera R_U con residual algebraico nulo. Por tanto, la Lanzadera contrasta el radio estructural por una segunda ruta interna al SV: no por repetición del cálculo, sino por cambio de origen.
 
-Desde la coordenada `D(O_U,Tierra)`, quedan habilitadas cartas auxiliares radiales para objetos del Sistema Solar. La forma general es `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Desde la coordenada D(O_U,Tierra), quedan habilitadas cartas auxiliares radiales para objetos del Sistema Solar. La forma general es vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X).
 
-Cuando convenga usar el Sol como referencia local, la composición podrá escribirse como `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+Cuando convenga usar el Sol como referencia local, la composición podrá escribirse como vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X).
 
 Estas cartas auxiliares no convierten a la Ciencia Contemporánea en fundamento del SV. Las posiciones, distancias, efemérides y unidades externas sólo entran como retorno cartográfico, metrológico o de contraste, siempre con fuente, época, marco de referencia, unidad y residual declarados. Del mismo modo, el SV no sustituye la cartografía física contemporánea ni sus efemérides: define el origen, el dominio, la frontera, el cambio de origen, la composición auxiliar y el dictamen de admisibilidad de uso.
 
 La cadena de prevalencia queda fijada así:
 
-`Sistema Vectorial SV → Teoría del TODO y de la NADA en el Sistema Vectorial SV → Línea del Umbral SV → radio estructural de Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I → Lanzadera Ómicron → continuidad radial de Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III → cartas auxiliares radiales → datos externos validados`.
+Sistema Vectorial SV → Teoría del TODO y de la NADA en el Sistema Vectorial SV → Línea del Umbral SV → radio estructural de Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I → Lanzadera Ómicron → continuidad radial de Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III → cartas auxiliares radiales → datos externos validados.
 
-Queda cerrada la identidad de cambio de origen entre `O_U=(0,0)`, Tierra y `∂Ωobs`; se contrasta el radio estructural `R_U` desde la Lanzadera mediante recomposición de tramos; y se habilita, sin cierre universal, la ubicación auxiliar de objetos internos cuando exista vector local suficientemente declarado. Todo caso sin fuente externa suficiente, sin época, sin marco de referencia, sin unidad o sin orientación declarada conserva dictamen `U`.
+Queda cerrada la identidad de cambio de origen entre O_U=(0,0), Tierra y ∂Ωobs; se contrasta el radio estructural R_U desde la Lanzadera mediante recomposición de tramos; y se habilita, sin cierre universal, la ubicación auxiliar de objetos internos cuando exista vector local suficientemente declarado. Todo caso sin fuente externa suficiente, sin época, sin marco de referencia, sin unidad o sin orientación declarada conserva dictamen U.
 
 ### 17.2. Diccionario formal de símbolos, dominios y funciones
 
@@ -1584,324 +1593,324 @@ Se fija la semántica mínima necesaria para no mezclar origen, radio, frontera,
 #### 17.2.1. Símbolos rectores
 
 | Símbolo | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `O_U=(0,0)` | Origen formal-material de lectura del dominio-universo físico realizado. Es el punto de potencial nulo e intensidad nula desde el que se organiza la lectura radial de `R_U`. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No es un cuerpo físico ordinario, no es una coordenada astronómica local y no es una convención gráfica externa. Tampoco queda desvinculado del dominio físico realizado: gobierna la lectura radial SV. |
-| `0_SV` | Origen formal de distancia absoluta restringida entre observable declarado y origen SV. | *Distancia absoluta y relativa entre observables del Universo* (Lloret Egea, 2026h). | No es punto espacial, instante físico, centro del Universo ni objeto astronómico. Sólo opera como referencia formal bajo dominio, observable, transductor, residual y retorno declarados. |
-| `μ` | Componente polar de afirmación, presencia o positividad estructural dentro de la Línea del Umbral SV. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No se usa como magnitud métrica externa ni como probabilidad. |
-| `λ` | Componente polar de negación, ausencia o contrapolo estructural dentro de la Línea del Umbral SV. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No debe confundirse con `λ_acc` ni con `λ_∂` de la Lanzadera. |
-| `P=μ−λ` | Potencial polar. En la Línea del Umbral, `P=0` cuando `μ=λ`. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | `P=0` no basta para identificar el origen; cualquier `(a,a)` conserva `P=0`. |
-| `I=μ+λ` | Intensidad polar. Permite distinguir el origen `(0,0)` de los puntos no nulos `(a,a)` de la Línea del Umbral. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No debe sustituirse por energía física externa ni por intensidad metrológica clásica. |
-| `υ_U^SV=(1,1)` | Vector directriz de la Línea del Umbral SV. Conserva la igualdad polar `μ=λ` bajo desplazamientos de la forma `(a,a)`. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No es vector de posición de un objeto físico; es directriz formal de neutralización e intensidad positiva. |
-| `n_U^SV=(1,−1)` | Vector normal polar asociado a la salida de la igualdad `μ=λ`. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No mide una distancia espacial; mide salida formal de la igualdad polar. |
+| --- | --- | --- | --- |
+| O_U=(0,0)     | Origen formal-material de lectura del dominio-universo físico realizado. Es el punto de potencial nulo e intensidad nula desde el que se organiza la lectura radial de R_U. | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No es un cuerpo físico ordinario, no es una coordenada astronómica local y no es una convención gráfica externa. Tampoco queda desvinculado del dominio físico realizado: gobierna la lectura radial SV. |
+| 0_SV          | Origen formal de distancia absoluta restringida entre observable declarado y origen SV.                                                                                       | *Distancia absoluta y relativa entre observables del Universo* (Lloret Egea, 2026h).                         | No es punto espacial, instante físico, centro del Universo ni objeto astronómico. Sólo opera como referencia formal bajo dominio, observable, transductor, residual y retorno declarados.                |
+| μ             | Componente polar de afirmación, presencia o positividad estructural dentro de la Línea del Umbral SV.                                                                         | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No se usa como magnitud métrica externa ni como probabilidad.                                                                                                                                            |
+| λ             | Componente polar de negación, ausencia o contrapolo estructural dentro de la Línea del Umbral SV.                                                                             | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No debe confundirse con λ_acc ni con λ_∂ de la Lanzadera.                                                                                                                                            |
+| P=μ−λ         | Potencial polar. En la Línea del Umbral, P=0 cuando μ=λ.                                                                                                                  | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | P=0 no basta para identificar el origen; cualquier (a,a) conserva P=0.                                                                                                                             |
+| I=μ+λ         | Intensidad polar. Permite distinguir el origen (0,0) de los puntos no nulos (a,a) de la Línea del Umbral.                                                                 | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No debe sustituirse por energía física externa ni por intensidad metrológica clásica.                                                                                                                    |
+| υ_U^SV=(1,1)  | Vector directriz de la Línea del Umbral SV. Conserva la igualdad polar μ=λ bajo desplazamientos de la forma (a,a).                                                        | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No es vector de posición de un objeto físico; es directriz formal de neutralización e intensidad positiva.                                                                                               |
+| n_U^SV=(1,−1) | Vector normal polar asociado a la salida de la igualdad μ=λ.                                                                                                                | *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. | No mide una distancia espacial; mide salida formal de la igualdad polar.                                                                                                                                 |
 
 #### 17.2.2. Símbolos cosmológicos del radio estructural
 
 | Símbolo | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `Ωobs` | Dominio del universo observable en la lectura SV de la Trilogía Cosmológica. | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. | No equivale sin más al universo total absoluto ni al radio comóvil externo de la cosmología contemporánea. |
-| `∂Ωobs` | Frontera etaria/proyectada del universo observable bajo la lectura radial declarada. | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* y *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No debe leerse como pared física material absoluta ni como borde empírico local. |
-| `F` | Abreviatura operativa de `∂Ωobs` cuando se formula la identidad de cambio de origen. | Cambio de origen radial. | Sólo se usa como notación auxiliar para aligerar las fórmulas; no introduce una frontera nueva. |
-| `R_U` | Radio estructural del universo observable leído desde `O_U=(0,0)` hasta `∂Ωobs`. | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. | No es distancia local desde la Tierra, no es `R_aux,loc^SV` y no se obtiene de una fuente externa de la Ciencia Contemporánea. |
-| `Λ_SV` | Magnitud cosmológica interna que permite fijar `R_U`. | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. | No debe mezclarse con `λ`, `λ_acc` ni `λ_∂`. |
-| `D(A,B)` | Distancia, tramo o coordenada radial entre dos referencias declaradas `A` y `B`, según la directriz y el dominio declarados. | Definición radial auxiliar. | No se usa sin declarar origen, destino, unidad, orientación y plano de lectura. |
-| `D(O_U,∂Ωobs)` | Lectura radial desde el origen `O_U=(0,0)` hasta la frontera `∂Ωobs`. | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*, con lectura radial derivada. | Es igual a `R_U`; no debe confundirse con el tramo Tierra-frontera. |
+| --- | --- | --- | --- |
+| Ωobs         | Dominio del universo observable en la lectura SV de la Trilogía Cosmológica.                                                 | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.                                                                | No equivale sin más al universo total absoluto ni al radio comóvil externo de la cosmología contemporánea.                     |
+| ∂Ωobs        | Frontera etaria/proyectada del universo observable bajo la lectura radial declarada.                                         | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* y *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No debe leerse como pared física material absoluta ni como borde empírico local.                                               |
+| F            | Abreviatura operativa de ∂Ωobs cuando se formula la identidad de cambio de origen.                                         | Cambio de origen radial.                                                                                                                                           | Sólo se usa como notación auxiliar para aligerar las fórmulas; no introduce una frontera nueva.                                |
+| R_U          | Radio estructural del universo observable leído desde O_U=(0,0) hasta ∂Ωobs.                                             | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.                                                                | No es distancia local desde la Tierra, no es R_aux,loc^SV y no se obtiene de una fuente externa de la Ciencia Contemporánea. |
+| Λ_SV         | Magnitud cosmológica interna que permite fijar R_U.                                                                        | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.                                                                | No debe mezclarse con λ, λ_acc ni λ_∂.                                                                                   |
+| D(A,B)       | Distancia, tramo o coordenada radial entre dos referencias declaradas A y B, según la directriz y el dominio declarados. | Definición radial auxiliar.                                                                                                                                        | No se usa sin declarar origen, destino, unidad, orientación y plano de lectura.                                                |
+| D(O_U,∂Ωobs) | Lectura radial desde el origen O_U=(0,0) hasta la frontera ∂Ωobs.                                                        | *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*, con lectura radial derivada.                                   | Es igual a R_U; no debe confundirse con el tramo Tierra-frontera.                                                            |
 
 #### 17.2.3. Símbolos de la Lanzadera Ómicron
 
 | Símbolo | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `T` | Tierra como origen situado de lectura local en la Lanzadera Ómicron. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No es el origen formal del dominio-universo; ese origen es `O_U=(0,0)`. |
-| `λ_acc` | Acceso nodal al dominio observable retornado. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No designa frontera, no es radio estructural y no debe confundirse con `λ` de la Línea del Umbral. |
-| `λ_acc,loc^SV` | Acceso nodal local de la Lanzadera, obtenido desde la calibración situada Tierra–Luna–Sol. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II* y cambio de origen radial. | No es acceso de confluencia con `R_U` salvo que se defina expresamente otra lectura. |
-| `κ_∂←acc^SV` | Coeficiente de tránsito desde acceso nodal hacia brazo fronterizo etario. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No es una constante física externa ni una corrección posterior; opera dentro de la cadena de la Lanzadera. |
-| `λ_∂` | Brazo fronterizo etario obtenido por la acción de `κ_∂←acc^SV` sobre `λ_acc`. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No es todavía radio estructural primario. |
-| `Brazo_∂Ωobs^SV(Tierra)` | Magnitud nodal-etaria situada: tramo leído desde la Tierra hacia la frontera etaria/proyectada del universo observable. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. | No sustituye a `R_U`; expresa lectura desde origen situado. |
-| `R_aux,loc^SV` | Lectura auxiliar de `Brazo_∂Ωobs^SV(Tierra)` como radio auxiliar bajo restricción geométrica. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II* y cambio de origen radial. | No es el radio estructural de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. Es el tramo `D(Tierra,∂Ωobs)`. |
-| `D(Tierra,∂Ωobs)` | Tramo situado desde la Tierra hasta la frontera etaria/proyectada del universo observable. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II* y cambio de origen radial. | Es igual a `R_aux,loc^SV` cuando se activa la lectura auxiliar; no equivale a `R_U`. |
+| --- | --- | --- | --- |
+| T                      | Tierra como origen situado de lectura local en la Lanzadera Ómicron.                                                    | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*.                           | No es el origen formal del dominio-universo; ese origen es O_U=(0,0).                                                                                          |
+| λ_acc                  | Acceso nodal al dominio observable retornado.                                                                           | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*.                           | No designa frontera, no es radio estructural y no debe confundirse con λ de la Línea del Umbral.                                                               |
+| λ_acc,loc^SV           | Acceso nodal local de la Lanzadera, obtenido desde la calibración situada Tierra–Luna–Sol.                              | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II* y cambio de origen radial. | No es acceso de confluencia con R_U salvo que se defina expresamente otra lectura.                                                                             |
+| κ_∂←acc^SV             | Coeficiente de tránsito desde acceso nodal hacia brazo fronterizo etario.                                               | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*.                           | No es una constante física externa ni una corrección posterior; opera dentro de la cadena de la Lanzadera.                                                       |
+| λ_∂                    | Brazo fronterizo etario obtenido por la acción de κ_∂←acc^SV sobre λ_acc.                                           | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*.                           | No es todavía radio estructural primario.                                                                                                                        |
+| Brazo_∂Ωobs^SV(Tierra) | Magnitud nodal-etaria situada: tramo leído desde la Tierra hacia la frontera etaria/proyectada del universo observable. | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*.                           | No sustituye a R_U; expresa lectura desde origen situado.                                                                                                      |
+| R_aux,loc^SV           | Lectura auxiliar de Brazo_∂Ωobs^SV(Tierra) como radio auxiliar bajo restricción geométrica.                           | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II* y cambio de origen radial. | No es el radio estructural de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. Es el tramo D(Tierra,∂Ωobs). |
+| D(Tierra,∂Ωobs)        | Tramo situado desde la Tierra hasta la frontera etaria/proyectada del universo observable.                              | *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II* y cambio de origen radial. | Es igual a R_aux,loc^SV cuando se activa la lectura auxiliar; no equivale a R_U.                                                                             |
 
 #### 17.2.4. Símbolos del cambio de origen
 
 | Símbolo | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `D(O_U,Tierra)` | Coordenada radial de la Tierra respecto de `O_U=(0,0)`. | Cambio de origen radial. | No procede de una medición externa directa; se obtiene por diferencia entre `R_U` y `R_aux,loc^SV`. |
-| `R_U−R_aux,loc^SV` | Operación de cambio de origen: devuelve el tramo `O_U→Tierra`. | Cambio de origen radial. | No es un nuevo radio del universo ni una corrección del cálculo del radio estructural o de la Lanzadera. |
-| `R_U = D(O_U,Tierra)+R_aux,loc^SV` | Identidad de recomposición. Contrasta `R_U` desde la Lanzadera mediante cambio de origen. | Cambio de origen radial. | Sólo pasa si ambas lecturas comparten frontera, orientación, unidad y directriz declaradas. |
-| `x_F^(O_U)` | Coordenada de la frontera `F` leída desde `O_U`. | Notación coordenada del cambio de origen. | Equivale a `R_U`; no introduce una magnitud nueva. |
-| `x_F^(T)` | Coordenada de la frontera `F` leída desde la Tierra. | Notación coordenada del cambio de origen. | Equivale a `R_aux,loc^SV`; no introduce un segundo universo. |
-| `x_T^(O_U)` | Coordenada de la Tierra leída desde `O_U`. | Notación coordenada del cambio de origen. | Equivale a `R_U−R_aux,loc^SV`. |
-| `x_F^(O_U)=x_T^(O_U)+x_F^(T)` | Forma coordenada del cambio de origen. | Notación coordenada del cambio de origen. | No es una hipótesis física adicional; es la identidad lineal de recomposición bajo el dominio declarado. |
+| --- | --- | --- | --- |
+| D(O_U,Tierra)                    | Coordenada radial de la Tierra respecto de O_U=(0,0).                                   | Cambio de origen radial.                  | No procede de una medición externa directa; se obtiene por diferencia entre R_U y R_aux,loc^SV.      |
+| R_U−R_aux,loc^SV                 | Operación de cambio de origen: devuelve el tramo O_U→Tierra.                            | Cambio de origen radial.                  | No es un nuevo radio del universo ni una corrección del cálculo del radio estructural o de la Lanzadera. |
+| R_U = D(O_U,Tierra)+R_aux,loc^SV | Identidad de recomposición. Contrasta R_U desde la Lanzadera mediante cambio de origen. | Cambio de origen radial.                  | Sólo pasa si ambas lecturas comparten frontera, orientación, unidad y directriz declaradas.              |
+| x_F^(O_U)                        | Coordenada de la frontera F leída desde O_U.                                          | Notación coordenada del cambio de origen. | Equivale a R_U; no introduce una magnitud nueva.                                                       |
+| x_F^(T)                          | Coordenada de la frontera F leída desde la Tierra.                                      | Notación coordenada del cambio de origen. | Equivale a R_aux,loc^SV; no introduce un segundo universo.                                             |
+| x_T^(O_U)                        | Coordenada de la Tierra leída desde O_U.                                                | Notación coordenada del cambio de origen. | Equivale a R_U−R_aux,loc^SV.                                                                           |
+| x_F^(O_U)=x_T^(O_U)+x_F^(T)      | Forma coordenada del cambio de origen.                                                    | Notación coordenada del cambio de origen. | No es una hipótesis física adicional; es la identidad lineal de recomposición bajo el dominio declarado. |
 
 #### 17.2.5. Símbolos de cartas auxiliares radiales
 
 | Símbolo | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `X` | Objeto interno del Sistema Solar: Sol, Luna, planeta, satélite, asteroide, cometa u otro observable con posición local declarable. | Carta auxiliar radial. | No se calcula por Lanzadera directa; requiere carta auxiliar. |
-| `vector(Tierra→X)` | Vector local desde la Tierra hasta el objeto `X`, tomado de fuente externa validada o de anclaje local ya declarado. | Carta auxiliar radial. | No funda SV. Entra como retorno cartográfico externo con fuente, época, marco, unidad y residual. |
-| `vector(Sol→X)` | Vector local desde el Sol hasta el objeto `X`, cuando convenga usar una carta heliocéntrica auxiliar. | Carta auxiliar radial. | Requiere fuente externa o anclaje declarado; no sustituye la definición SV del origen. |
-| `vector(O_U→X)` | Coordenada radial o vectorial auxiliar del objeto `X` respecto de `O_U=(0,0)`. | Carta auxiliar radial. | No la calcula la Lanzadera por sí sola; resulta de composición. |
-| `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)` | Regla general de carta auxiliar desde Tierra. | Carta auxiliar radial. | Pasa como composición vectorial si el vector local está declarado; como suma escalar sólo si hay misma directriz y orientación. |
-| `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)` | Regla general de carta auxiliar heliocéntrica. | Carta auxiliar radial. | Requiere haber fijado previamente `vector(O_U→Sol)` y el vector local solar. |
-| `D(X,∂Ωobs)` | Tramo restante desde el objeto `X` hasta la frontera etaria/proyectada. | Carta auxiliar radial. | Sólo puede formularse después de obtener `vector(O_U→X)` y declarar orientación. |
-| `CartaAux_SV(X)` | Carta auxiliar radial SV de un objeto `X`, construida por composición con datos locales declarados. | Carta auxiliar radial. | No es una nueva Lanzadera ni una efeméride astronómica propia del SV. |
+| --- | --- | --- | --- |
+| X                                                 | Objeto interno del Sistema Solar: Sol, Luna, planeta, satélite, asteroide, cometa u otro observable con posición local declarable. | Carta auxiliar radial. | No se calcula por Lanzadera directa; requiere carta auxiliar.                                                                   |
+| vector(Tierra→X)                                  | Vector local desde la Tierra hasta el objeto X, tomado de fuente externa validada o de anclaje local ya declarado.               | Carta auxiliar radial. | No funda SV. Entra como retorno cartográfico externo con fuente, época, marco, unidad y residual.                               |
+| vector(Sol→X)                                     | Vector local desde el Sol hasta el objeto X, cuando convenga usar una carta heliocéntrica auxiliar.                              | Carta auxiliar radial. | Requiere fuente externa o anclaje declarado; no sustituye la definición SV del origen.                                          |
+| vector(O_U→X)                                     | Coordenada radial o vectorial auxiliar del objeto X respecto de O_U=(0,0).                                                     | Carta auxiliar radial. | No la calcula la Lanzadera por sí sola; resulta de composición.                                                                 |
+| vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X) | Regla general de carta auxiliar desde Tierra.                                                                                      | Carta auxiliar radial. | Pasa como composición vectorial si el vector local está declarado; como suma escalar sólo si hay misma directriz y orientación. |
+| vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)       | Regla general de carta auxiliar heliocéntrica.                                                                                     | Carta auxiliar radial. | Requiere haber fijado previamente vector(O_U→Sol) y el vector local solar.                                                    |
+| D(X,∂Ωobs)                                        | Tramo restante desde el objeto X hasta la frontera etaria/proyectada.                                                            | Carta auxiliar radial. | Sólo puede formularse después de obtener vector(O_U→X) y declarar orientación.                                                |
+| CartaAux_SV(X)                                    | Carta auxiliar radial SV de un objeto X, construida por composición con datos locales declarados.                                | Carta auxiliar radial. | No es una nueva Lanzadera ni una efeméride astronómica propia del SV.                                                           |
 
 #### 17.2.6. Símbolos de registro etario y dominio
 
 | Símbolo | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `A_i` | Registro etario físico contemporáneo del observable o dominio `i`, expresado en años julianos cuando proceda. | *Edades relativas del universo observable y de sus objetos físicos*. | No es distancia por sí mismo. |
-| `A_i^SV` | Etaria SV correspondiente al observable o dominio `i`, obtenida por la regla interna de *Edades relativas del universo observable y de sus objetos físicos*. | *Edades relativas del universo observable y de sus objetos físicos*. | No sustituye al vector radial local; sólo fija registro etario. |
-| `A_SS` | Registro etario del Sistema Solar como dominio sistémico. | *Edades relativas del universo observable y de sus objetos físicos*. | No absorbe sin matiz el registro singular de todos sus objetos. |
-| `A_☉` | Registro etario del Sol como objeto con registro propio. | *Edades relativas del universo observable y de sus objetos físicos*. | No genera por sí mismo la distancia al Sol; sirve para impedir absorción indebida en `A_SS`. |
-| `A_☉−A_SS` | Diferencia de registro entre valor etario solar y valor etario sistémico solar. | *Edades relativas del universo observable y de sus objetos físicos* y control de dominio radial. | No es vector métrico directo; es control de dominio y singularidad de registro. |
+| --- | --- | --- | --- |
+| A_i       | Registro etario físico contemporáneo del observable o dominio i, expresado en años julianos cuando proceda.                                                | *Edades relativas del universo observable y de sus objetos físicos*.                             | No es distancia por sí mismo.                                                                |
+| A_i^SV    | Etaria SV correspondiente al observable o dominio i, obtenida por la regla interna de *Edades relativas del universo observable y de sus objetos físicos*. | *Edades relativas del universo observable y de sus objetos físicos*.                             | No sustituye al vector radial local; sólo fija registro etario.                              |
+| A_SS      | Registro etario del Sistema Solar como dominio sistémico.                                                                                                    | *Edades relativas del universo observable y de sus objetos físicos*.                             | No absorbe sin matiz el registro singular de todos sus objetos.                              |
+| A_☉       | Registro etario del Sol como objeto con registro propio.                                                                                                     | *Edades relativas del universo observable y de sus objetos físicos*.                             | No genera por sí mismo la distancia al Sol; sirve para impedir absorción indebida en A_SS. |
+| A_☉−A_SS  | Diferencia de registro entre valor etario solar y valor etario sistémico solar.                                                                              | *Edades relativas del universo observable y de sus objetos físicos* y control de dominio radial. | No es vector métrico directo; es control de dominio y singularidad de registro.              |
 
 #### 17.2.7. Datos externos y dictámenes
 
 | Símbolo o expresión | Lectura formal | Procedencia | Restricción de uso |
-|---|---|---|---|
-| `Dato_CC(X)` | Dato externo de la Ciencia Contemporánea relativo al objeto `X`: distancia, posición, efeméride, unidad o parámetro local. | Fuente externa declarada. | No funda SV. Sólo entra como retorno externo estabilizado. |
-| `Fuente_CC` | Fuente externa usada para un dato local: JPL Horizons, SPICE/NAIF, IAU u otra fuente técnica suficientemente identificable. | Ciencia Contemporánea. | Debe declararse con URL o DOI cuando exista, fecha o versión si procede, marco, unidad y alcance. |
-| `Marco_ref` | Sistema de referencia o marco de cálculo del dato externo. | Fuente externa. | Sin marco declarado, la carta auxiliar no cierra y conserva `U`. |
-| `Época_ref` | Fecha, instante o intervalo al que corresponde un vector local o efeméride. | Fuente externa. | Sin época declarada, las posiciones variables no pueden fijarse con rigor. |
-| `Unidad` | Unidad en la que se expresa la magnitud local: metro, unidad astronómica, año luz juliano u otra unidad admitida. | SV o Ciencia Contemporánea, según el caso. | No se mezclan unidades sin conversión declarada. |
-| `Residual` | Diferencia, incertidumbre, condición pendiente o defecto de cierre de una operación. | Criterio de dictamen SV. | No se oculta ni se transforma en cierre favorable. |
-| `APTO` | Dictamen de admisión: la operación cumple dominio, procedencia, unidad, orientación y residual. | Criterio de dictamen SV. | No equivale a verdad física externa universal; significa cierre dentro del dominio declarado. |
-| `NO_APTO` | Dictamen de rechazo: la operación no cumple una condición material necesaria. | Criterio de dictamen SV. | No equivale a falsedad general del objeto; sólo bloquea esa operación. |
-| `U` | Indeterminación honesta: falta dato, fuente, marco, orientación, unidad, dominio o residual suficiente. | Sistema Vectorial SV. | No es probabilidad, no es ignorancia maquillada y no debe cerrarse por plausibilidad. |
+| --- | --- | --- | --- |
+| Dato_CC(X)            | Dato externo de la Ciencia Contemporánea relativo al objeto X: distancia, posición, efeméride, unidad o parámetro local.  | Fuente externa declarada.                  | No funda SV. Sólo entra como retorno externo estabilizado.                                        |
+| Fuente_CC             | Fuente externa usada para un dato local: JPL Horizons, SPICE/NAIF, IAU u otra fuente técnica suficientemente identificable. | Ciencia Contemporánea.                     | Debe declararse con URL o DOI cuando exista, fecha o versión si procede, marco, unidad y alcance. |
+| Marco_ref             | Sistema de referencia o marco de cálculo del dato externo.                                                                  | Fuente externa.                            | Sin marco declarado, la carta auxiliar no cierra y conserva U.                                  |
+| Época_ref             | Fecha, instante o intervalo al que corresponde un vector local o efeméride.                                                 | Fuente externa.                            | Sin época declarada, las posiciones variables no pueden fijarse con rigor.                        |
+| Unidad                | Unidad en la que se expresa la magnitud local: metro, unidad astronómica, año luz juliano u otra unidad admitida.           | SV o Ciencia Contemporánea, según el caso. | No se mezclan unidades sin conversión declarada.                                                  |
+| Residual              | Diferencia, incertidumbre, condición pendiente o defecto de cierre de una operación.                                        | Criterio de dictamen SV.                   | No se oculta ni se transforma en cierre favorable.                                                |
+| APTO                  | Dictamen de admisión: la operación cumple dominio, procedencia, unidad, orientación y residual.                             | Criterio de dictamen SV.                   | No equivale a verdad física externa universal; significa cierre dentro del dominio declarado.     |
+| NO_APTO               | Dictamen de rechazo: la operación no cumple una condición material necesaria.                                               | Criterio de dictamen SV.                   | No equivale a falsedad general del objeto; sólo bloquea esa operación.                            |
+| U                     | Indeterminación honesta: falta dato, fuente, marco, orientación, unidad, dominio o residual suficiente.                     | Sistema Vectorial SV.                      | No es probabilidad, no es ignorancia maquillada y no debe cerrarse por plausibilidad.             |
 
 #### 17.2.8. Tabla de equivalencias funcionales mínimas
 
 | Expresión | Significado funcional | Lectura bloqueada |
-|---|---|---|
-| `R_U` | Radio estructural desde `O_U` hasta `∂Ωobs`. | No es distancia desde Tierra. |
-| `R_aux,loc^SV` | Tramo Tierra-frontera bajo lectura auxiliar. | No es sustituto de `R_U`. |
-| `R_U−R_aux,loc^SV` | Coordenada de Tierra respecto de `O_U`. | No es nuevo radio cosmológico. |
-| `D(O_U,Tierra)+R_aux,loc^SV` | Recomposición del radio estructural por cambio de origen. | No es doble conteo. |
-| `vector(O_U→X)` | Coordenada auxiliar de un objeto interno. | No es cálculo directo de Lanzadera. |
-| `vector(Tierra→X)` | Retorno cartográfico externo o anclaje local declarado. | No es fundamento SV. |
-| `CartaAux_SV(X)` | Construcción auxiliar por composición. | No es efeméride propia de la Ciencia Contemporánea ni sustitución de JPL/SPICE/IAU. |
-| `U` | Indeterminación honesta por falta de condición. | No es probabilidad ni cierre negativo automático. |
+| --- | --- | --- |
+| R_U                        | Radio estructural desde O_U hasta ∂Ωobs.              | No es distancia desde Tierra.                                                       |
+| R_aux,loc^SV               | Tramo Tierra-frontera bajo lectura auxiliar.              | No es sustituto de R_U.                                                           |
+| R_U−R_aux,loc^SV           | Coordenada de Tierra respecto de O_U.                   | No es nuevo radio cosmológico.                                                      |
+| D(O_U,Tierra)+R_aux,loc^SV | Recomposición del radio estructural por cambio de origen. | No es doble conteo.                                                                 |
+| vector(O_U→X)              | Coordenada auxiliar de un objeto interno.                 | No es cálculo directo de Lanzadera.                                                 |
+| vector(Tierra→X)           | Retorno cartográfico externo o anclaje local declarado.   | No es fundamento SV.                                                                |
+| CartaAux_SV(X)             | Construcción auxiliar por composición.                    | No es efeméride propia de la Ciencia Contemporánea ni sustitución de JPL/SPICE/IAU. |
+| U                          | Indeterminación honesta por falta de condición.           | No es probabilidad ni cierre negativo automático.                                   |
 
-### 17.3. Línea del Umbral SV como raíz del origen `O_U=(0,0)`
+### 17.3. Línea del Umbral SV como raíz del origen O_U=(0,0)
 
-No se introduce `O_U=(0,0)` como un cero auxiliar añadido a la Trilogía Cosmológica. Lo recibe de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*, donde el origen queda determinado como punto de potencial nulo e intensidad nula. Esta procedencia es imprescindible: si `O_U=(0,0)` se tratara como una convención gráfica, como un centro geométrico indiferente o como una coordenada externa importada, el cambio de origen perdería su raíz SV y la continuidad entre Línea del Umbral, radio estructural y Lanzadera Ómicron quedaría debilitada.
+No se introduce O_U=(0,0) como un cero auxiliar añadido a la Trilogía Cosmológica. Lo recibe de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*, donde el origen queda determinado como punto de potencial nulo e intensidad nula. Esta procedencia es imprescindible: si O_U=(0,0) se tratara como una convención gráfica, como un centro geométrico indiferente o como una coordenada externa importada, el cambio de origen perdería su raíz SV y la continuidad entre Línea del Umbral, radio estructural y Lanzadera Ómicron quedaría debilitada.
 
-La Línea del Umbral SV se expresa mediante la igualdad polar `μ=λ`. Sobre esa línea, el potencial polar queda anulado: `P=μ−λ=0`.
+La Línea del Umbral SV se expresa mediante la igualdad polar μ=λ. Sobre esa línea, el potencial polar queda anulado: P=μ−λ=0.
 
-Sin embargo, la igualdad polar no identifica por sí sola el origen. Todo punto de la forma `(a,a)` conserva `P=0`, pero mantiene intensidad positiva cuando `a>0`: `I=μ+λ=2a`.
+Sin embargo, la igualdad polar no identifica por sí sola el origen. Todo punto de la forma (a,a) conserva P=0, pero mantiene intensidad positiva cuando a>0: I=μ+λ=2a.
 
-Por tanto, sólo el punto `(0,0)` cumple simultáneamente `P=0`.
+Por tanto, sólo el punto (0,0) cumple simultáneamente P=0.
 
-`I=0`.
+I=0.
 
-Esta distinción separa tres planos que deben conservarse sin mezcla. Primero, la Línea del Umbral como estructura de neutralización polar. Segundo, el origen `O_U=(0,0)` como punto singular de potencial nulo e intensidad nula. Tercero, los puntos no nulos de la misma línea, que permanecen en equilibrio polar pero ya no son origen, porque conservan intensidad positiva.
+Esta distinción separa tres planos que deben conservarse sin mezcla. Primero, la Línea del Umbral como estructura de neutralización polar. Segundo, el origen O_U=(0,0) como punto singular de potencial nulo e intensidad nula. Tercero, los puntos no nulos de la misma línea, que permanecen en equilibrio polar pero ya no son origen, porque conservan intensidad positiva.
 
-`O_U=(0,0)` se define como origen formal-material de lectura del dominio-universo físico realizado. La expresión “formal-material” es necesaria. Es formal porque procede de la estructura polar de la Línea del Umbral, no de una medición astronómica local. Es material de lectura porque desde él se organiza la lectura radial de un dominio físico realizado, no una abstracción sin retorno. No se trata de un cuerpo ordinario situado dentro del universo, ni de un punto empírico local, ni de un cero meramente convencional. Se trata del origen SV desde el que puede leerse la frontera `∂Ωobs` en la forma radial determinada por *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.
+O_U=(0,0) se define como origen formal-material de lectura del dominio-universo físico realizado. La expresión “formal-material” es necesaria. Es formal porque procede de la estructura polar de la Línea del Umbral, no de una medición astronómica local. Es material de lectura porque desde él se organiza la lectura radial de un dominio físico realizado, no una abstracción sin retorno. No se trata de un cuerpo ordinario situado dentro del universo, ni de un punto empírico local, ni de un cero meramente convencional. Se trata del origen SV desde el que puede leerse la frontera ∂Ωobs en la forma radial determinada por *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*.
 
-La función de `O_U=(0,0)` es triple. Primero, fija el origen desde el que se lee el radio estructural `R_U = D(O_U,∂Ωobs)`.
+La función de O_U=(0,0) es triple. Primero, fija el origen desde el que se lee el radio estructural R_U = D(O_U,∂Ωobs).
 
-Segundo, permite distinguir esa lectura de la lectura situada de la Lanzadera `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
+Segundo, permite distinguir esa lectura de la lectura situada de la Lanzadera R_aux,loc^SV = D(Tierra,∂Ωobs).
 
-Tercero, permite formular el cambio de origen `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Tercero, permite formular el cambio de origen D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-Con ello, la Línea del Umbral SV deja de operar como antecedente implícito y pasa a ser la condición de inteligibilidad del cambio de origen. El radio estructural lee la frontera desde `O_U`; la Lanzadera lee la frontera desde la Tierra; se recomponen ambas lecturas y se muestra que la diferencia entre sus salidas no es contradicción, sino traslado de base.
+Con ello, la Línea del Umbral SV deja de operar como antecedente implícito y pasa a ser la condición de inteligibilidad del cambio de origen. El radio estructural lee la frontera desde O_U; la Lanzadera lee la frontera desde la Tierra; se recomponen ambas lecturas y se muestra que la diferencia entre sus salidas no es contradicción, sino traslado de base.
 
-La directriz asociada a la Línea del Umbral puede expresarse como `υ_U^SV=(1,1)`. Esa directriz conserva la igualdad polar. La normal asociada puede expresarse como `n_U^SV=(1,−1)`.
+La directriz asociada a la Línea del Umbral puede expresarse como υ_U^SV=(1,1). Esa directriz conserva la igualdad polar. La normal asociada puede expresarse como n_U^SV=(1,−1).
 
-La normal marca la salida de esa igualdad. Estas expresiones no convierten la Línea del Umbral en una métrica espacial clásica; sirven para fijar orientación formal. La lectura radial no nace de una distancia espacial importada, sino de la articulación entre el origen `O_U`, el radio estructural y la lectura situada de la Lanzadera.
+La normal marca la salida de esa igualdad. Estas expresiones no convierten la Línea del Umbral en una métrica espacial clásica; sirven para fijar orientación formal. La lectura radial no nace de una distancia espacial importada, sino de la articulación entre el origen O_U, el radio estructural y la lectura situada de la Lanzadera.
 
-El uso de `O_U=(0,0)` queda así acotado. Puede actuar como origen formal-material de lectura del dominio-universo. Puede servir para leer `R_U` como tramo `O_U→∂Ωobs`. Puede servir para obtener la coordenada radial de la Tierra mediante `R_U−R_aux,loc^SV`. Puede servir después para construir cartas auxiliares radiales de objetos internos por composición con vectores locales declarados. No puede usarse como objeto astronómico ordinario, como punto físico medido por la Ciencia Contemporánea, como sustituto de una efeméride ni como licencia para cerrar posiciones sin vector, fecha, marco, unidad y residual.
+El uso de O_U=(0,0) queda así acotado. Puede actuar como origen formal-material de lectura del dominio-universo. Puede servir para leer R_U como tramo O_U→∂Ωobs. Puede servir para obtener la coordenada radial de la Tierra mediante R_U−R_aux,loc^SV. Puede servir después para construir cartas auxiliares radiales de objetos internos por composición con vectores locales declarados. No puede usarse como objeto astronómico ordinario, como punto físico medido por la Ciencia Contemporánea, como sustituto de una efeméride ni como licencia para cerrar posiciones sin vector, fecha, marco, unidad y residual.
 
 La prevalencia interna queda fijada de este modo:
 
-`Línea del Umbral SV → O_U=(0,0) → lectura radial de R_U → cambio de origen → cartas auxiliares radiales`.
+Línea del Umbral SV → O_U=(0,0) → lectura radial de R_U → cambio de origen → cartas auxiliares radiales.
 
-Así, el vínculo entre Línea del Umbral y Trilogía Cosmológica queda explícito: el origen no se presupone, se declara desde la Línea del Umbral. El radio estructural no queda suspendido en una geometría sin raíz, sino leído desde `O_U=(0,0)`. La Lanzadera no queda enfrentada al radio estructural, sino situada como lectura de la misma frontera desde la Tierra. El cambio de origen permite recomponer ambas lecturas en una identidad lineal con residual algebraico nulo.
+Así, el vínculo entre Línea del Umbral y Trilogía Cosmológica queda explícito: el origen no se presupone, se declara desde la Línea del Umbral. El radio estructural no queda suspendido en una geometría sin raíz, sino leído desde O_U=(0,0). La Lanzadera no queda enfrentada al radio estructural, sino situada como lectura de la misma frontera desde la Tierra. El cambio de origen permite recomponer ambas lecturas en una identidad lineal con residual algebraico nulo.
 
-### 17.4. Radio estructural `R_U` como lectura radial desde `O_U=(0,0)`
+### 17.4. Radio estructural R_U como lectura radial desde O_U=(0,0)
 
-El radio `R_U` procede de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. Su función no es representar una distancia local desde la Tierra, ni replicar el radio comóvil externo de la cosmología contemporánea, ni adoptar la mitad de un diámetro observable convencional. Su función es fijar la magnitud radial interna de la esfera ideal del universo observable en el dominio declarado.
+El radio R_U procede de *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. Su función no es representar una distancia local desde la Tierra, ni replicar el radio comóvil externo de la cosmología contemporánea, ni adoptar la mitad de un diámetro observable convencional. Su función es fijar la magnitud radial interna de la esfera ideal del universo observable en el dominio declarado.
 
-La cadena de determinación se expresa así `Λ = 3/(c²T_obs²)`.
+La cadena de determinación se expresa así Λ = 3/(c²T_obs²).
 
-De esa constante cosmológica calculada se obtiene `R_U = √(3/Λ)`.
+De esa constante cosmológica calculada se obtiene R_U = √(3/Λ).
 
-Al sustituir `Λ` por `3/(c²T_obs²)`, la relación queda reducida a `R_U = cT_obs`.
+Al sustituir Λ por 3/(c²T_obs²), la relación queda reducida a R_U = cT_obs.
 
-En el régimen declarado, con `c = 299.792.458 m·s^-1`.
+En el régimen declarado, con c = 299.792.458 m·s^-1.
 
-`T_obs = 435.494.880.000.000.000 s`.
+T_obs = 435.494.880.000.000.000 s.
 
 El radio resultante es:
 
-`R_U = 130.558.080.521.615.040.000.000.000 m`.
+R_U = 130.558.080.521.615.040.000.000.000 m.
 
-En años luz julianos, `R_U = 13.800.000.000 ly`.
+En años luz julianos, R_U = 13.800.000.000 ly.
 
-La lectura formal de ese resultado queda fijada como `R_U = D(O_U,∂Ωobs)`.
+La lectura formal de ese resultado queda fijada como R_U = D(O_U,∂Ωobs).
 
-`R_U` designa el tramo radial desde el origen formal-material `O_U=(0,0)` hasta la frontera `∂Ωobs` de la esfera ideal del universo observable. La obra que determina el radio fija esa magnitud por la cadena `Λ → R_U`; se añade su lectura de origen, vinculándola explícitamente con la Línea del Umbral SV. No se añade un segundo cálculo de `R_U`; se declara desde qué origen formal-material debe leerse el radio ya determinado.
+R_U designa el tramo radial desde el origen formal-material O_U=(0,0) hasta la frontera ∂Ωobs de la esfera ideal del universo observable. La obra que determina el radio fija esa magnitud por la cadena Λ → R_U; se añade su lectura de origen, vinculándola explícitamente con la Línea del Umbral SV. No se añade un segundo cálculo de R_U; se declara desde qué origen formal-material debe leerse el radio ya determinado.
 
-La expresión `D(O_U,∂Ωobs)` no convierte `∂Ωobs` en una pared física ni en un borde ontológico absoluto. La frontera designa el límite de lectura de la esfera ideal asociada al radio estructural. Del mismo modo, `O_U=(0,0)` no es un cuerpo físico ordinario situado dentro del universo ni una coordenada observacional de la Ciencia Contemporánea. Es el origen SV de lectura radial recibido de la Línea del Umbral.
+La expresión D(O_U,∂Ωobs) no convierte ∂Ωobs en una pared física ni en un borde ontológico absoluto. La frontera designa el límite de lectura de la esfera ideal asociada al radio estructural. Del mismo modo, O_U=(0,0) no es un cuerpo físico ordinario situado dentro del universo ni una coordenada observacional de la Ciencia Contemporánea. Es el origen SV de lectura radial recibido de la Línea del Umbral.
 
-Se separan tres planos. Primero, el plano de determinación interna `Λ = 3/(c²T_obs²)`.
+Se separan tres planos. Primero, el plano de determinación interna Λ = 3/(c²T_obs²).
 
-`R_U = √(3/Λ) = cT_obs`.
+R_U = √(3/Λ) = cT_obs.
 
-Segundo, el plano de lectura radial fijado `R_U = D(O_U,∂Ωobs)`.
+Segundo, el plano de lectura radial fijado R_U = D(O_U,∂Ωobs).
 
-Tercero, el plano de contraste externo o metrológico, en el que pueden aparecer unidades, retornos o magnitudes de la Ciencia Contemporánea, sin que ninguna de ellas funde `R_U`.
+Tercero, el plano de contraste externo o metrológico, en el que pueden aparecer unidades, retornos o magnitudes de la Ciencia Contemporánea, sin que ninguna de ellas funde R_U.
 
-La diferencia entre estos planos es imprescindible. Si `R_U` se leyera como radio comóvil externo, se desplazaría a un régimen cosmológico distinto. Si se leyera como distancia desde la Tierra, se confundiría con la lectura situada de la Lanzadera Ómicron. Si se leyera como borde físico material, se convertiría indebidamente una esfera ideal en un recipiente físico. Quedan bloqueadas esas tres lecturas.
+La diferencia entre estos planos es imprescindible. Si R_U se leyera como radio comóvil externo, se desplazaría a un régimen cosmológico distinto. Si se leyera como distancia desde la Tierra, se confundiría con la lectura situada de la Lanzadera Ómicron. Si se leyera como borde físico material, se convertiría indebidamente una esfera ideal en un recipiente físico. Quedan bloqueadas esas tres lecturas.
 
-Por tanto, `R_U` queda definido bajo las siguientes condiciones:
+Por tanto, R_U queda definido bajo las siguientes condiciones:
 
 | Aspecto | Determinación |
-|---|---|
-| Nombre funcional | Radio estructural de la esfera ideal del universo observable |
-| Origen de lectura | `O_U=(0,0)` |
-| Frontera de lectura | `∂Ωobs` |
-| Forma radial | `R_U = D(O_U,∂Ωobs)` |
-| Cadena de cálculo | `Λ = 3/(c²T_obs²)`; `R_U = √(3/Λ) = cT_obs` |
-| Valor en metros | `130.558.080.521.615.040.000.000.000 m` |
-| Valor en años luz julianos | `13.800.000.000 ly` |
-| Plano | SV, radio estructural de esfera ideal |
-| Lecturas excluidas | Radio comóvil externo, distancia local desde Tierra, pared física absoluta, ajuste observacional posterior |
+| --- | --- |
+| Nombre funcional           | Radio estructural de la esfera ideal del universo observable                                               |
+| Origen de lectura          | O_U=(0,0)                                                                                                |
+| Frontera de lectura        | ∂Ωobs                                                                                                    |
+| Forma radial               | R_U = D(O_U,∂Ωobs)                                                                                       |
+| Cadena de cálculo          | Λ = 3/(c²T_obs²); R_U = √(3/Λ) = cT_obs                                                                |
+| Valor en metros            | 130.558.080.521.615.040.000.000.000 m                                                                    |
+| Valor en años luz julianos | 13.800.000.000 ly                                                                                        |
+| Plano                      | SV, radio estructural de esfera ideal                                                                      |
+| Lecturas excluidas         | Radio comóvil externo, distancia local desde Tierra, pared física absoluta, ajuste observacional posterior |
 
-Desde esta fijación, puede compararse `R_U` con la salida local de la Lanzadera sin enfrentar ambos resultados. El radio estructural lee la frontera desde `O_U=(0,0)`. La Lanzadera lee la frontera desde la Tierra. Por ello, la no coincidencia directa entre `R_U` y `R_aux,loc^SV` no constituye una contradicción, sino la condición para formular el cambio de origen `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Desde esta fijación, puede compararse R_U con la salida local de la Lanzadera sin enfrentar ambos resultados. El radio estructural lee la frontera desde O_U=(0,0). La Lanzadera lee la frontera desde la Tierra. Por ello, la no coincidencia directa entre R_U y R_aux,loc^SV no constituye una contradicción, sino la condición para formular el cambio de origen D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-La función de `R_U` es doble. Primero, conserva el radio estructural calculado. Segundo, actúa como magnitud total que permite contrastar la lectura situada de la Lanzadera por recomposición `R_U = D(O_U,Tierra)+R_aux,loc^SV`.
+La función de R_U es doble. Primero, conserva el radio estructural calculado. Segundo, actúa como magnitud total que permite contrastar la lectura situada de la Lanzadera por recomposición R_U = D(O_U,Tierra)+R_aux,loc^SV.
 
-Esta identidad no recalcula `R_U` desde una fuente externa. Lo contrasta internamente mediante cambio de origen: el mismo límite `∂Ωobs` queda leído desde dos bases distintas y se recompone sin residual algebraico.
+Esta identidad no recalcula R_U desde una fuente externa. Lo contrasta internamente mediante cambio de origen: el mismo límite ∂Ωobs queda leído desde dos bases distintas y se recompone sin residual algebraico.
 
-### 17.5. Lanzadera Ómicron y tramo situado `Tierra → ∂Ωobs`
+### 17.5. Lanzadera Ómicron y tramo situado Tierra → ∂Ωobs
 
-La Lanzadera Ómicron no opera como segunda fórmula del radio estructural. Su función es distinta. *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* determina el radio `R_U` desde `O_U=(0,0)` hasta la frontera `∂Ωobs`. La Lanzadera, en cambio, trabaja una lectura situada: toma la Tierra como origen operativo de acceso y determina el tramo desde esa referencia local hacia la frontera etaria/proyectada del universo observable.
+La Lanzadera Ómicron no opera como segunda fórmula del radio estructural. Su función es distinta. *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I* determina el radio R_U desde O_U=(0,0) hasta la frontera ∂Ωobs. La Lanzadera, en cambio, trabaja una lectura situada: toma la Tierra como origen operativo de acceso y determina el tramo desde esa referencia local hacia la frontera etaria/proyectada del universo observable.
 
 La cadena funcional de la Lanzadera puede escribirse así:
 
-`λ_acc → κ_∂←acc^SV → λ_∂ → Brazo_∂Ωobs^SV(Tierra) → R_aux,loc^SV`.
+λ_acc → κ_∂←acc^SV → λ_∂ → Brazo_∂Ωobs^SV(Tierra) → R_aux,loc^SV.
 
-En esta cadena, `λ_acc` designa una magnitud de acceso nodal al universo observable retornado. El coeficiente `κ_∂←acc^SV` transforma ese acceso en brazo fronterizo etario. La salida `λ_∂` se interpreta como brazo de frontera y, bajo restricción geométrica auxiliar, puede leerse como `R_aux,loc^SV`. Esta última magnitud no es el radio estructural `R_U`; es la lectura situada `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
+En esta cadena, λ_acc designa una magnitud de acceso nodal al universo observable retornado. El coeficiente κ_∂←acc^SV transforma ese acceso en brazo fronterizo etario. La salida λ_∂ se interpreta como brazo de frontera y, bajo restricción geométrica auxiliar, puede leerse como R_aux,loc^SV. Esta última magnitud no es el radio estructural R_U; es la lectura situada R_aux,loc^SV = D(Tierra,∂Ωobs).
 
-La distinción es esencial. Si `R_aux,loc^SV` se leyera como sustituto de `R_U`, la Lanzadera quedaría falsamente enfrentada al radio estructural. Si se leyera como fallo por no coincidir directamente con `R_U`, se perdería la información principal: la Lanzadera no estaba leyendo la frontera desde `O_U=(0,0)`, sino desde la Tierra. La no coincidencia directa entre ambas magnitudes no revela error; revela cambio de origen.
+La distinción es esencial. Si R_aux,loc^SV se leyera como sustituto de R_U, la Lanzadera quedaría falsamente enfrentada al radio estructural. Si se leyera como fallo por no coincidir directamente con R_U, se perdería la información principal: la Lanzadera no estaba leyendo la frontera desde O_U=(0,0), sino desde la Tierra. La no coincidencia directa entre ambas magnitudes no revela error; revela cambio de origen.
 
-La Tierra cumple una función situada. No actúa como centro absoluto del dominio-universo ni como origen formal de la lectura radial total. Ese origen sigue siendo `O_U=(0,0)`, recibido de la Línea del Umbral SV. La Tierra actúa como referencia local desde la cual la Lanzadera mide o construye el tramo hacia `∂Ωobs`.
+La Tierra cumple una función situada. No actúa como centro absoluto del dominio-universo ni como origen formal de la lectura radial total. Ese origen sigue siendo O_U=(0,0), recibido de la Línea del Umbral SV. La Tierra actúa como referencia local desde la cual la Lanzadera mide o construye el tramo hacia ∂Ωobs.
 
-La formulación correcta es `R_U = D(O_U,∂Ωobs)`.
+La formulación correcta es R_U = D(O_U,∂Ωobs).
 
-`R_aux,loc^SV = D(Tierra,∂Ωobs)`.
+R_aux,loc^SV = D(Tierra,∂Ωobs).
 
 Por tanto, ambas magnitudes no compiten. Leen la misma frontera desde dos bases distintas. El cálculo del radio estructural ofrece la lectura desde el origen formal-material. La Lanzadera ofrece la lectura desde el origen situado terrestre.
 
 La Lanzadera tampoco debe confundirse con una herramienta destinada a resolver nodos singulares interiores. Su función es troncal: tránsito nodal, acceso, corte etario, brazo fronterizo y proyección auxiliar. No calcula por sí misma el radio singular del Sol, de la Tierra, de la Luna ni de cada planeta. Para esos objetos hacen falta cartas auxiliares radiales construidas después, mediante composición con vectores locales declarados.
 
-Esta delimitación conserva la fuerza de la Lanzadera. No se reduce su alcance; se precisa su dominio. La Lanzadera no falla al no cerrar directamente el Sol o la Luna como nodos singulares. Su salida pertenece al tramo situado `Tierra → ∂Ωobs`. Una vez obtenido ese tramo y fijado `R_U`, puede recuperarse la coordenada de la Tierra respecto de `O_U` `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Esta delimitación conserva la fuerza de la Lanzadera. No se reduce su alcance; se precisa su dominio. La Lanzadera no falla al no cerrar directamente el Sol o la Luna como nodos singulares. Su salida pertenece al tramo situado Tierra → ∂Ωobs. Una vez obtenido ese tramo y fijado R_U, puede recuperarse la coordenada de la Tierra respecto de O_U D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
 A partir de ahí, las cartas auxiliares radiales pueden ubicar objetos internos por composición local. La Lanzadera entrega el tramo troncal que permite situar la Tierra dentro de la lectura radial; las cartas auxiliares añaden después los vectores locales de cada objeto.
 
 La función de la Lanzadera queda acotada así:
 
 | Elemento | Función |
-|---|---|
-| `λ_acc` | Magnitud de acceso nodal al universo observable retornado |
-| `κ_∂←acc^SV` | Coeficiente de tránsito desde acceso hacia frontera |
-| `λ_∂` | Brazo fronterizo etario |
-| `Brazo_∂Ωobs^SV(Tierra)` | Tramo situado desde Tierra hacia la frontera etaria/proyectada |
-| `R_aux,loc^SV` | Proyección geométrica auxiliar del tramo `Tierra → ∂Ωobs` |
-| `R_U` | Radio estructural leído desde `O_U=(0,0)` |
-| `D(O_U,Tierra)` | Coordenada radial de la Tierra obtenida por cambio de origen |
+| --- | --- |
+| λ_acc                  | Magnitud de acceso nodal al universo observable retornado      |
+| κ_∂←acc^SV             | Coeficiente de tránsito desde acceso hacia frontera            |
+| λ_∂                    | Brazo fronterizo etario                                        |
+| Brazo_∂Ωobs^SV(Tierra) | Tramo situado desde Tierra hacia la frontera etaria/proyectada |
+| R_aux,loc^SV           | Proyección geométrica auxiliar del tramo Tierra → ∂Ωobs      |
+| R_U                    | Radio estructural leído desde O_U=(0,0)                      |
+| D(O_U,Tierra)          | Coordenada radial de la Tierra obtenida por cambio de origen   |
 
-La lectura final es la siguiente: la Lanzadera no recalcula `R_U`, pero permite contrastarlo. El radio estructural da la lectura total desde `O_U` hasta `∂Ωobs`. La Lanzadera da la lectura situada desde la Tierra hasta `∂Ωobs`. La recomposición de ambas lecturas muestra que el radio estructural se recupera por cambio de origen `R_U = D(O_U,Tierra)+R_aux,loc^SV`.
+La lectura final es la siguiente: la Lanzadera no recalcula R_U, pero permite contrastarlo. El radio estructural da la lectura total desde O_U hasta ∂Ωobs. La Lanzadera da la lectura situada desde la Tierra hasta ∂Ωobs. La recomposición de ambas lecturas muestra que el radio estructural se recupera por cambio de origen R_U = D(O_U,Tierra)+R_aux,loc^SV.
 
 Así, la Lanzadera queda vinculada al radio estructural sin invadir su función. No lo sustituye; lo contrasta desde otra base.
 
 ### 17.6. Contraste del radio estructural por cambio de origen
 
-La relación entre el radio estructural y la salida local de la Lanzadera Ómicron no debe formularse como discrepancia entre dos radios concurrentes. Debe formularse como contraste por cambio de origen. El radio estructural lee la frontera `∂Ωobs` desde el origen formal-material `O_U=(0,0)`. La Lanzadera lee esa misma frontera desde la Tierra como origen situado. Si ambas lecturas se mantienen en su plano propio, la diferencia entre sus magnitudes no expresa contradicción, sino traslado de base.
+La relación entre el radio estructural y la salida local de la Lanzadera Ómicron no debe formularse como discrepancia entre dos radios concurrentes. Debe formularse como contraste por cambio de origen. El radio estructural lee la frontera ∂Ωobs desde el origen formal-material O_U=(0,0). La Lanzadera lee esa misma frontera desde la Tierra como origen situado. Si ambas lecturas se mantienen en su plano propio, la diferencia entre sus magnitudes no expresa contradicción, sino traslado de base.
 
-El radio estructural fija `R_U = D(O_U,∂Ωobs)`.
+El radio estructural fija R_U = D(O_U,∂Ωobs).
 
-La Lanzadera fija `R_aux,loc^SV = D(Tierra,∂Ωobs)`.
+La Lanzadera fija R_aux,loc^SV = D(Tierra,∂Ωobs).
 
-Si la frontera de lectura es la misma, la directriz es común, la orientación queda declarada y la unidad se conserva, entonces la coordenada radial de la Tierra respecto de `O_U` queda determinada por diferencia `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Si la frontera de lectura es la misma, la directriz es común, la orientación queda declarada y la unidad se conserva, entonces la coordenada radial de la Tierra respecto de O_U queda determinada por diferencia D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-De ahí se obtiene la identidad de recomposición `R_U = D(O_U,Tierra)+R_aux,loc^SV`.
+De ahí se obtiene la identidad de recomposición R_U = D(O_U,Tierra)+R_aux,loc^SV.
 
-Esta igualdad es el núcleo del contraste. El radio estructural no se recalcula desde la Lanzadera. Se recupera desde ella mediante cambio de origen. La Lanzadera aporta el tramo situado `Tierra→∂Ωobs`; el cálculo del radio aporta el tramo total `O_U→∂Ωobs`; se obtiene el tramo complementario `O_U→Tierra` y recompone la magnitud total.
+Esta igualdad es el núcleo del contraste. El radio estructural no se recalcula desde la Lanzadera. Se recupera desde ella mediante cambio de origen. La Lanzadera aporta el tramo situado Tierra→∂Ωobs; el cálculo del radio aporta el tramo total O_U→∂Ωobs; se obtiene el tramo complementario O_U→Tierra y recompone la magnitud total.
 
 Con los valores declarados:
 
-`R_U = 130.558.080.521.615.040.000.000.000 m`.
+R_U = 130.558.080.521.615.040.000.000.000 m.
 
-`R_aux,loc^SV = 643.451.018.330.039.966.078,988121273 m`.
+R_aux,loc^SV = 643.451.018.330.039.966.078,988121273 m.
 
 La diferencia es:
 
-`D(O_U,Tierra) = 130.557.437.070.596.709.960.033.921,011878727 m`.
+D(O_U,Tierra) = 130.557.437.070.596.709.960.033.921,011878727 m.
 
 La recomposición queda:
 
-`130.557.437.070.596.709.960.033.921,011878727 m + 643.451.018.330.039.966.078,988121273 m = 130.558.080.521.615.040.000.000.000 m`.
+130.557.437.070.596.709.960.033.921,011878727 m + 643.451.018.330.039.966.078,988121273 m = 130.558.080.521.615.040.000.000.000 m.
 
-Por tanto: `D(O_U,Tierra)+R_aux,loc^SV = R_U`.
+Por tanto: D(O_U,Tierra)+R_aux,loc^SV = R_U.
 
-El residual algebraico de la recomposición es `0`.
+El residual algebraico de la recomposición es 0.
 
-La misma identidad puede escribirse mediante coordenadas de origen `x_F^(O_U)=R_U`.
+La misma identidad puede escribirse mediante coordenadas de origen x_F^(O_U)=R_U.
 
-`x_F^(Tierra)=R_aux,loc^SV`.
+x_F^(Tierra)=R_aux,loc^SV.
 
-`x_Tierra^(O_U)=R_U−R_aux,loc^SV`.
+x_Tierra^(O_U)=R_U−R_aux,loc^SV.
 
-Y por tanto `x_F^(O_U)=x_Tierra^(O_U)+x_F^(Tierra)`.
+Y por tanto x_F^(O_U)=x_Tierra^(O_U)+x_F^(Tierra).
 
-Donde `F` designa la frontera `∂Ωobs`. Esta notación no introduce una frontera nueva ni un segundo universo. Sólo expresa que una misma frontera se lee desde dos orígenes distintos.
+Donde F designa la frontera ∂Ωobs. Esta notación no introduce una frontera nueva ni un segundo universo. Sólo expresa que una misma frontera se lee desde dos orígenes distintos.
 
-El contraste tiene tres consecuencias. Primera: `R_aux,loc^SV` no sustituye a `R_U`; es el tramo situado desde la Tierra hasta la frontera etaria/proyectada del universo observable. Segunda: la no coincidencia directa entre `R_U` y `R_aux,loc^SV` no es una anomalía; es la condición necesaria para que aparezca la coordenada radial de la Tierra respecto de `O_U`. Tercera: el radio estructural queda contrastado por una ruta interna distinta.
+El contraste tiene tres consecuencias. Primera: R_aux,loc^SV no sustituye a R_U; es el tramo situado desde la Tierra hasta la frontera etaria/proyectada del universo observable. Segunda: la no coincidencia directa entre R_U y R_aux,loc^SV no es una anomalía; es la condición necesaria para que aparezca la coordenada radial de la Tierra respecto de O_U. Tercera: el radio estructural queda contrastado por una ruta interna distinta.
 
 La ruta directa es:
 
-`O_U → ∂Ωobs`.
+O_U → ∂Ωobs.
 
 La ruta por cambio de origen es:
 
-`O_U → Tierra → ∂Ωobs`.
+O_U → Tierra → ∂Ωobs.
 
-Ambas devuelven la misma magnitud total `R_U`.
+Ambas devuelven la misma magnitud total R_U.
 
-No se necesita introducir un transductor nuevo para esta operación. La transformación es un cambio de origen sobre una lectura radial ya declarada. En la Línea del Umbral queda fijado `O_U=(0,0)`. En el cálculo del radio queda fijado `R_U`. En la Lanzadera queda fijado `R_aux,loc^SV`. La recomposición demuestra que la salida local de la Lanzadera encaja con el radio estructural cuando se interpreta correctamente como tramo situado.
+No se necesita introducir un transductor nuevo para esta operación. La transformación es un cambio de origen sobre una lectura radial ya declarada. En la Línea del Umbral queda fijado O_U=(0,0). En el cálculo del radio queda fijado R_U. En la Lanzadera queda fijado R_aux,loc^SV. La recomposición demuestra que la salida local de la Lanzadera encaja con el radio estructural cuando se interpreta correctamente como tramo situado.
 
-La forma conclusiva del contraste es `R_U = D(O_U,Tierra)+D(Tierra,∂Ωobs)`.
+La forma conclusiva del contraste es R_U = D(O_U,Tierra)+D(Tierra,∂Ωobs).
 
-Y, como `D(Tierra,∂Ωobs)=R_aux,loc^SV`,
+Y, como D(Tierra,∂Ωobs)=R_aux,loc^SV,
 
-queda `R_U = (R_U−R_aux,loc^SV)+R_aux,loc^SV`.
+queda R_U = (R_U−R_aux,loc^SV)+R_aux,loc^SV.
 
 Esta igualdad es matemáticamente cerrada dentro del dominio declarado. No prueba una distancia física externa adicional ni sustituye las convenciones cosmológicas contemporáneas. Prueba que, en el Sistema Vectorial SV, la lectura del radio estructural y la lectura situada de la Lanzadera son compatibles por cambio de origen y recomponen el mismo radio estructural con residual algebraico nulo.
 
 ### 17.7. Cartas auxiliares radiales para objetos internos del Sistema Solar
 
-Una vez fijada la coordenada radial de la Tierra respecto de `O_U=(0,0)`, quedan habilitadas cartas auxiliares radiales para objetos internos del Sistema Solar. Esta habilitación no modifica la función de la Lanzadera Ómicron. La Lanzadera conserva su dominio propio: lectura troncal situada desde la Tierra hacia la frontera etaria/proyectada del universo observable. Las cartas auxiliares operan después, sobre el tramo local, mediante composición con vectores declarados.
+Una vez fijada la coordenada radial de la Tierra respecto de O_U=(0,0), quedan habilitadas cartas auxiliares radiales para objetos internos del Sistema Solar. Esta habilitación no modifica la función de la Lanzadera Ómicron. La Lanzadera conserva su dominio propio: lectura troncal situada desde la Tierra hacia la frontera etaria/proyectada del universo observable. Las cartas auxiliares operan después, sobre el tramo local, mediante composición con vectores declarados.
 
-La coordenada obtenida en el cambio de origen es `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+La coordenada obtenida en el cambio de origen es D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-Desde esa coordenada, cualquier objeto interno `X` puede situarse mediante una composición auxiliar si se conoce y se declara su vector local respecto de la Tierra `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Desde esa coordenada, cualquier objeto interno X puede situarse mediante una composición auxiliar si se conoce y se declara su vector local respecto de la Tierra vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X).
 
-Cuando sea más adecuado trabajar desde el Sol como referencia local, la composición puede escribirse así `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+Cuando sea más adecuado trabajar desde el Sol como referencia local, la composición puede escribirse así vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X).
 
-Estas expresiones no significan que el SV produzca por sí mismo las efemérides de cada objeto. Significan que, una vez fijado el origen `O_U` y la coordenada radial de la Tierra, el SV puede incorporar vectores locales ya determinados por fuentes externas de alta fiabilidad para construir una carta auxiliar. La Ciencia Contemporánea aporta el vector local; el SV aporta el origen, el dominio, la regla de composición, la condición de admisión y el dictamen.
+Estas expresiones no significan que el SV produzca por sí mismo las efemérides de cada objeto. Significan que, una vez fijado el origen O_U y la coordenada radial de la Tierra, el SV puede incorporar vectores locales ya determinados por fuentes externas de alta fiabilidad para construir una carta auxiliar. La Ciencia Contemporánea aporta el vector local; el SV aporta el origen, el dominio, la regla de composición, la condición de admisión y el dictamen.
 
-La regla general de admisión es `CartaAux_SV(X)=APTO`
+La regla general de admisión es CartaAux_SV(X)=APTO
 
 si se cumplen simultáneamente las siguientes condiciones:
 
-`O_U=(0,0)` declarado.
+O_U=(0,0) declarado.
 
-`D(O_U,Tierra)` declarado.
+D(O_U,Tierra) declarado.
 
-`X` identificado.
+X identificado.
 
-`vector(Tierra→X)` o `vector(Sol→X)` declarado.
+vector(Tierra→X) o vector(Sol→X) declarado.
 
 Fuente externa identificada.
 
@@ -1915,227 +1924,227 @@ Orientación o régimen vectorial declarado.
 
 Residual visible.
 
-Si falta alguna de estas condiciones, el dictamen no se fuerza. El caso conserva `U`.
+Si falta alguna de estas condiciones, el dictamen no se fuerza. El caso conserva U.
 
-La carta auxiliar puede adoptar dos formas. La primera es una forma escalar dirigida, apta sólo cuando todos los tramos están sobre una misma directriz, con orientación declarada y unidad común `D(O_U,X)=D(O_U,Tierra)+D(Tierra,X)`.
+La carta auxiliar puede adoptar dos formas. La primera es una forma escalar dirigida, apta sólo cuando todos los tramos están sobre una misma directriz, con orientación declarada y unidad común D(O_U,X)=D(O_U,Tierra)+D(Tierra,X).
 
-Esta forma puede ser suficiente para anclajes simples, como el uso declarado de una distancia Tierra–Sol o Tierra–Luna en una recta local. La segunda es una forma vectorial. Es la forma general y debe usarse cuando el objeto tiene posición orbital variable, inclinación, excentricidad, época de referencia o dependencia de efeméride `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Esta forma puede ser suficiente para anclajes simples, como el uso declarado de una distancia Tierra–Sol o Tierra–Luna en una recta local. La segunda es una forma vectorial. Es la forma general y debe usarse cuando el objeto tiene posición orbital variable, inclinación, excentricidad, época de referencia o dependencia de efeméride vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X).
 
 En esta forma, el vector externo no se reduce a una distancia media salvo que se declare expresamente que se trabaja con un valor medio, convencional o de orientación preliminar. Para publicación fuerte, el dato debe incluir época, marco y fuente.
 
-El Sol puede incorporarse por composición local `vector(O_U→Sol)=vector(O_U→Tierra)+vector(Tierra→Sol)`.
+El Sol puede incorporarse por composición local vector(O_U→Sol)=vector(O_U→Tierra)+vector(Tierra→Sol).
 
-La Luna puede incorporarse del mismo modo `vector(O_U→Luna)=vector(O_U→Tierra)+vector(Tierra→Luna)`.
+La Luna puede incorporarse del mismo modo vector(O_U→Luna)=vector(O_U→Tierra)+vector(Tierra→Luna).
 
-Los planetas, satélites, asteroides y cometas requieren una carta auxiliar con vector local declarado para la época correspondiente `vector(O_U→Planeta)=vector(O_U→Tierra)+vector(Tierra→Planeta)`.
+Los planetas, satélites, asteroides y cometas requieren una carta auxiliar con vector local declarado para la época correspondiente vector(O_U→Planeta)=vector(O_U→Tierra)+vector(Tierra→Planeta).
 
-`vector(O_U→Asteroide)=vector(O_U→Tierra)+vector(Tierra→Asteroide)`.
+vector(O_U→Asteroide)=vector(O_U→Tierra)+vector(Tierra→Asteroide).
 
-`vector(O_U→Cometa)=vector(O_U→Tierra)+vector(Tierra→Cometa)`.
+vector(O_U→Cometa)=vector(O_U→Tierra)+vector(Tierra→Cometa).
 
-La diferencia entre estos casos no está en la regla SV de composición, sino en el tipo de vector local que se necesita. Sol y Luna pueden entrar inicialmente por anclajes declarados si el dominio se limita a una lectura auxiliar. Un planeta exige normalmente efeméride por fecha. Un asteroide o un cometa exigen, con más razón, fuente, época, marco y residual explícitos. Si el objeto carece de datos suficientes, el resultado no se aproxima por conveniencia: queda en `U`.
+La diferencia entre estos casos no está en la regla SV de composición, sino en el tipo de vector local que se necesita. Sol y Luna pueden entrar inicialmente por anclajes declarados si el dominio se limita a una lectura auxiliar. Un planeta exige normalmente efeméride por fecha. Un asteroide o un cometa exigen, con más razón, fuente, época, marco y residual explícitos. Si el objeto carece de datos suficientes, el resultado no se aproxima por conveniencia: queda en U.
 
-La función de las fuentes externas queda acotada. Una fuente externa puede aportar posición, distancia, efeméride, unidad, constante metrológica o marco de referencia. No funda `O_U=(0,0)`, no funda `R_U`, no define la Línea del Umbral SV y no sustituye la función de la Lanzadera. En sentido inverso, el SV no reemplaza las efemérides de la Ciencia Contemporánea cuando se usan datos locales ya estabilizados. La operación sólo compone esos datos dentro de su sistema de lectura radial.
+La función de las fuentes externas queda acotada. Una fuente externa puede aportar posición, distancia, efeméride, unidad, constante metrológica o marco de referencia. No funda O_U=(0,0), no funda R_U, no define la Línea del Umbral SV y no sustituye la función de la Lanzadera. En sentido inverso, el SV no reemplaza las efemérides de la Ciencia Contemporánea cuando se usan datos locales ya estabilizados. La operación sólo compone esos datos dentro de su sistema de lectura radial.
 
 La tabla operativa mínima es la siguiente:
 
-| Objeto `X` | Composición auxiliar | Dato local necesario | Estado |
-|---|---|---|---|
-| Tierra | `D(O_U,Tierra)=R_U−R_aux,loc^SV` | Cálculo del radio estructural y Lanzadera Ómicron | Cerrado algebraicamente |
-| Sol | `vector(O_U→Sol)=vector(O_U→Tierra)+vector(Tierra→Sol)` | Vector o anclaje Tierra–Sol | `APTO` si fuente, unidad y orientación están declaradas |
-| Luna | `vector(O_U→Luna)=vector(O_U→Tierra)+vector(Tierra→Luna)` | Vector o anclaje Tierra–Luna | `APTO` si fuente, unidad y orientación están declaradas |
-| Planeta | `vector(O_U→Planeta)=vector(O_U→Tierra)+vector(Tierra→Planeta)` | Efeméride por época | `APTO` si fuente, época, marco, unidad y residual están declarados |
-| Satélite planetario | `vector(O_U→Satélite)=vector(O_U→Tierra)+vector(Tierra→Satélite)` | Efeméride por época | `APTO` si fuente, época, marco, unidad y residual están declarados |
-| Asteroide | `vector(O_U→Asteroide)=vector(O_U→Tierra)+vector(Tierra→Asteroide)` | Efeméride por época | `APTO` si fuente, época, marco, unidad y residual están declarados |
-| Cometa | `vector(O_U→Cometa)=vector(O_U→Tierra)+vector(Tierra→Cometa)` | Efeméride por época | `APTO` si fuente, época, marco, unidad y residual están declarados |
-| Objeto sin vector suficiente | — | Falta dato local admisible | `U` |
+| Objeto** **X | Composición auxiliar | Dato local necesario | Estado |
+| --- | --- | --- | --- |
+| Tierra                       | D(O_U,Tierra)=R_U−R_aux,loc^SV                                    | Cálculo del radio estructural y Lanzadera Ómicron | Cerrado algebraicamente                                            |
+| Sol                          | vector(O_U→Sol)=vector(O_U→Tierra)+vector(Tierra→Sol)             | Vector o anclaje Tierra–Sol                       | APTO si fuente, unidad y orientación están declaradas            |
+| Luna                         | vector(O_U→Luna)=vector(O_U→Tierra)+vector(Tierra→Luna)           | Vector o anclaje Tierra–Luna                      | APTO si fuente, unidad y orientación están declaradas            |
+| Planeta                      | vector(O_U→Planeta)=vector(O_U→Tierra)+vector(Tierra→Planeta)     | Efeméride por época                               | APTO si fuente, época, marco, unidad y residual están declarados |
+| Satélite planetario          | vector(O_U→Satélite)=vector(O_U→Tierra)+vector(Tierra→Satélite)   | Efeméride por época                               | APTO si fuente, época, marco, unidad y residual están declarados |
+| Asteroide                    | vector(O_U→Asteroide)=vector(O_U→Tierra)+vector(Tierra→Asteroide) | Efeméride por época                               | APTO si fuente, época, marco, unidad y residual están declarados |
+| Cometa                       | vector(O_U→Cometa)=vector(O_U→Tierra)+vector(Tierra→Cometa)       | Efeméride por época                               | APTO si fuente, época, marco, unidad y residual están declarados |
+| Objeto sin vector suficiente | —                                                                   | Falta dato local admisible                        | U                                                                |
 
 La carta auxiliar radial no convierte una distancia local en verdad absoluta. Su salida queda condicionada al dato de entrada y al marco declarado. Por eso deben distinguirse valores exactos, valores medios, valores de efeméride, valores convencionales y valores orientativos. Cada uno puede tener uso distinto, pero no todos tienen el mismo grado de cierre.
 
 La regla de cierre queda así:
 
-`CartaAux_SV(X)` no se declara cerrada por el solo hecho de existir un objeto `X`.
+CartaAux_SV(X) no se declara cerrada por el solo hecho de existir un objeto X.
 
 Se declara cerrada sólo cuando la composición está bien formada y el vector local cumple las condiciones de fuente, época, marco, unidad, orientación y residual.
 
-La regla de indeterminación queda así `CartaAux_SV(X)=U`
+La regla de indeterminación queda así CartaAux_SV(X)=U
 
 cuando falta el vector local, cuando la época no está declarada, cuando el marco de referencia no está especificado, cuando la unidad no está normalizada o cuando el residual no puede controlarse.
 
-Con esta arquitectura quedan habilitadas futuras distancias sin introducir una nueva Lanzadera para cada objeto. El cambio de origen fija `O_U→Tierra`; las cartas auxiliares añaden vectores locales; las fuentes externas aportan la cartografía estabilizada; y el SV conserva su función propia: origen, dominio, frontera, composición y dictamen.
+Con esta arquitectura quedan habilitadas futuras distancias sin introducir una nueva Lanzadera para cada objeto. El cambio de origen fija O_U→Tierra; las cartas auxiliares añaden vectores locales; las fuentes externas aportan la cartografía estabilizada; y el SV conserva su función propia: origen, dominio, frontera, composición y dictamen.
 
 ### 17.8. Retornos externos calculados, cartas auxiliares radiales y control superior de compatibilidad
 
-Pueden incorporarse datos externos cuando éstos actúan como retorno cartográfico, metrológico o de contraste. Esa incorporación no desplaza el fundamento del Sistema Vectorial SV. La Línea del Umbral fija `O_U=(0,0)`, el cálculo del radio estructural fija `R_U`, la Lanzadera Ómicron fija el tramo situado `Tierra→∂Ωobs`, y las fuentes externas aportan valores locales cuando éstos son necesarios para una carta auxiliar radial.
+Pueden incorporarse datos externos cuando éstos actúan como retorno cartográfico, metrológico o de contraste. Esa incorporación no desplaza el fundamento del Sistema Vectorial SV. La Línea del Umbral fija O_U=(0,0), el cálculo del radio estructural fija R_U, la Lanzadera Ómicron fija el tramo situado Tierra→∂Ωobs, y las fuentes externas aportan valores locales cuando éstos son necesarios para una carta auxiliar radial.
 
 La lógica de admisión es estricta: el Sistema Solar es un dominio físico suficientemente estudiado y acotado por la Ciencia Contemporánea como para que sus distancias de referencia, efemérides, unidades, elementos orbitales y anclajes puedan entrar en la carta auxiliar con residual de plano nulo. Esa expresión no significa error físico cero, ni eliminación de incertidumbre orbital, ni sustitución de la metrología contemporánea. Significa que no hay invasión de planos: el dato externo entra como vector auxiliar, unidad, efeméride, elemento orbital o retorno cartográfico, no como fundamento del SV.
 
-La regla general de composición es `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+La regla general de composición es vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X).
 
-Cuando el cálculo se organiza desde el Sol como referencia local `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+Cuando el cálculo se organiza desde el Sol como referencia local vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X).
 
-El primer tramo procede de la propia formulación `vector(O_U→Tierra)=D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+El primer tramo procede de la propia formulación vector(O_U→Tierra)=D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-El segundo tramo procede de un retorno externo cuando el objeto `X` exige distancia local, efeméride, unidad, elemento orbital o marco de referencia.
+El segundo tramo procede de un retorno externo cuando el objeto X exige distancia local, efeméride, unidad, elemento orbital o marco de referencia.
 
 #### 17.8.1. Patrones externos aplicables y anclajes primeros
 
-La unidad astronómica entra como unidad convencional exacta `P_TS = 1 au = 149.597.870.700 m`.
+La unidad astronómica entra como unidad convencional exacta P_TS = 1 au = 149.597.870.700 m.
 
-`P_TS` se usa como patrón Tierra–Sol. Su exactitud corresponde a la definición de la unidad astronómica, no a una distancia instantánea entre la Tierra y el Sol. Cuando se requiera posición real Tierra–Sol en una fecha concreta, deberá usarse efeméride.
+P_TS se usa como patrón Tierra–Sol. Su exactitud corresponde a la definición de la unidad astronómica, no a una distancia instantánea entre la Tierra y el Sol. Cuando se requiera posición real Tierra–Sol en una fecha concreta, deberá usarse efeméride.
 
-La Lanzadera utiliza también el anclaje Tierra–Luna, adoptado como distancia media externa de referencia `P_TL = D(Tierra,Luna) = 384.400.000 m`.
+La Lanzadera utiliza también el anclaje Tierra–Luna, adoptado como distancia media externa de referencia P_TL = D(Tierra,Luna) = 384.400.000 m.
 
-`P_TL` se usa como patrón Tierra–Luna. Su función es metrológica y de escala; no sustituye una efeméride lunar cuando se exija posición real por fecha.
+P_TL se usa como patrón Tierra–Luna. Su función es metrológica y de escala; no sustituye una efeméride lunar cuando se exija posición real por fecha.
 
-De ambos patrones se obtiene el tramo local Tierra–Luna–Sol usado como referencia de escala `A_LS|Tierra = P_TS − P_TL`.
+De ambos patrones se obtiene el tramo local Tierra–Luna–Sol usado como referencia de escala A_LS∣Tierra = P_TS − P_TL.
 
-Sustituyendo `A_LS|Tierra = 149.597.870.700 m − 384.400.000 m`.
+Sustituyendo A_LS∣Tierra = 149.597.870.700 m − 384.400.000 m.
 
-Resultado: `A_LS|Tierra = 149.213.470.700 m`.
+Resultado: A_LS∣Tierra = 149.213.470.700 m.
 
 Este cálculo no funda la Lanzadera. Explicita el valor local que permite ordenar el tramo Tierra–Luna–Sol dentro de la carta auxiliar.
 
-#### 17.8.2. Coordenada radial de la Tierra desde `O_U=(0,0)`
+#### 17.8.2. Coordenada radial de la Tierra desde O_U=(0,0)
 
-Queda fijado `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Queda fijado D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
 Con los valores declarados:
 
-`R_U = 130.558.080.521.615.040.000.000.000 m`.
+R_U = 130.558.080.521.615.040.000.000.000 m.
 
-`R_aux,loc^SV = 643.451.018.330.039.966.078,988121273 m`.
+R_aux,loc^SV = 643.451.018.330.039.966.078,988121273 m.
 
 Resultado:
 
-`D(O_U,Tierra) = 130.557.437.070.596.709.960.033.921,011878727 m`.
+D(O_U,Tierra) = 130.557.437.070.596.709.960.033.921,011878727 m.
 
-Esta magnitud es la coordenada radial de la Tierra respecto del origen formal-material `O_U=(0,0)`. No procede de una fuente externa. Procede de la recomposición interna entre el cálculo del radio estructural y la Lanzadera.
+Esta magnitud es la coordenada radial de la Tierra respecto del origen formal-material O_U=(0,0). No procede de una fuente externa. Procede de la recomposición interna entre el cálculo del radio estructural y la Lanzadera.
 
-#### 17.8.3. Sol y Luna desde `O_U=(0,0)` bajo directriz auxiliar
+#### 17.8.3. Sol y Luna desde O_U=(0,0) bajo directriz auxiliar
 
-Si se incorpora el patrón Tierra–Sol como anclaje de escala `P_TS = 149.597.870.700 m`.
+Si se incorpora el patrón Tierra–Sol como anclaje de escala P_TS = 149.597.870.700 m.
 
-Entonces, bajo la directriz auxiliar declarada `D^+(O_U,Sol)=D(O_U,Tierra)+P_TS`.
+Entonces, bajo la directriz auxiliar declarada D^+(O_U,Sol)=D(O_U,Tierra)+P_TS.
 
 Sustituyendo:
 
-`D^+(O_U,Sol) = 130.557.437.070.596.709.960.033.921,011878727 m + 149.597.870.700 m`.
+D^+(O_U,Sol) = 130.557.437.070.596.709.960.033.921,011878727 m + 149.597.870.700 m.
 
 Resultado:
 
-`D^+(O_U,Sol) = 130.557.437.070.596.859.557.904.621,011878727 m`.
+D^+(O_U,Sol) = 130.557.437.070.596.859.557.904.621,011878727 m.
 
-El superíndice `+` indica que se adopta la rama saliente de la directriz auxiliar. No designa posición solar instantánea ni efeméride; designa el anclaje radial de escala usado para la carta.
+El superíndice + indica que se adopta la rama saliente de la directriz auxiliar. No designa posición solar instantánea ni efeméride; designa el anclaje radial de escala usado para la carta.
 
-El tramo restante desde ese anclaje solar hasta la frontera etaria/proyectada queda `D^+(Sol,∂Ωobs)=R_U−D^+(O_U,Sol)`.
-
-Resultado:
-
-`D^+(Sol,∂Ωobs) = 643.451.018.180.442.095.378,988121273 m`.
-
-La recomposición verifica `D^+(O_U,Sol)+D^+(Sol,∂Ωobs)=R_U`.
-
-Residual algebraico: `0`.
-
-Con el patrón Tierra–Luna `P_TL = 384.400.000 m`.
-
-Bajo la misma directriz local y con orientación declarada `D^+(O_U,Luna)=D(O_U,Tierra)+P_TL`.
+El tramo restante desde ese anclaje solar hasta la frontera etaria/proyectada queda D^+(Sol,∂Ωobs)=R_U−D^+(O_U,Sol).
 
 Resultado:
 
-`D^+(O_U,Luna) = 130.557.437.070.596.710.344.433.921,011878727 m`.
+D^+(Sol,∂Ωobs) = 643.451.018.180.442.095.378,988121273 m.
 
-El tramo restante hasta la frontera es `D^+(Luna,∂Ωobs)=R_U−D^+(O_U,Luna)`.
+La recomposición verifica D^+(O_U,Sol)+D^+(Sol,∂Ωobs)=R_U.
+
+Residual algebraico: 0.
+
+Con el patrón Tierra–Luna P_TL = 384.400.000 m.
+
+Bajo la misma directriz local y con orientación declarada D^+(O_U,Luna)=D(O_U,Tierra)+P_TL.
 
 Resultado:
 
-`D^+(Luna,∂Ωobs) = 643.451.018.329.655.566.078,988121273 m`.
+D^+(O_U,Luna) = 130.557.437.070.596.710.344.433.921,011878727 m.
+
+El tramo restante hasta la frontera es D^+(Luna,∂Ωobs)=R_U−D^+(O_U,Luna).
+
+Resultado:
+
+D^+(Luna,∂Ωobs) = 643.451.018.329.655.566.078,988121273 m.
 
 La lectura lunar queda limitada al anclaje declarado. Si se exige posición lunar real, fase orbital o fecha concreta, debe usarse efeméride con época y marco de referencia.
 
 #### 17.8.4. Carta de escala orbital de planetas principales
 
-Para los planetas principales se admite una carta de escala orbital por semieje mayor. En esta carta, el retorno externo no es la posición instantánea del planeta, sino el valor `a_X` del semieje mayor heliocéntrico aproximado en unidades astronómicas, tomado de los elementos JPL/J2000.
+Para los planetas principales se admite una carta de escala orbital por semieje mayor. En esta carta, el retorno externo no es la posición instantánea del planeta, sino el valor a_X del semieje mayor heliocéntrico aproximado en unidades astronómicas, tomado de los elementos JPL/J2000.
 
-La fórmula de escala local es `D(Sol,X)_a = a_X · au`.
+La fórmula de escala local es D(Sol,X)_a = a_X · au.
 
 Donde:
 
-`a_X` es el semieje mayor heliocéntrico del planeta `X`.
+a_X es el semieje mayor heliocéntrico del planeta X.
 
-`au = 149.597.870.700 m`.
+au = 149.597.870.700 m.
 
-Esta carta no sustituye una efeméride. Sirve para ubicar la escala orbital de los cuerpos principales dentro de la lectura radial auxiliar. Si se quiere posición real de un planeta en una fecha, debe sustituirse `a_X · au` por el vector efemérico correspondiente.
+Esta carta no sustituye una efeméride. Sirve para ubicar la escala orbital de los cuerpos principales dentro de la lectura radial auxiliar. Si se quiere posición real de un planeta en una fecha, debe sustituirse a_X · au por el vector efemérico correspondiente.
 
-La carta radial completa no debe reducirse a una sola suma sin declarar directriz. La forma rigurosa es el intervalo auxiliar `D_a^−(O_U,X)=D^+(O_U,Sol)−a_X·au`.
+La carta radial completa no debe reducirse a una sola suma sin declarar directriz. La forma rigurosa es el intervalo auxiliar D_a^−(O_U,X)=D^+(O_U,Sol)−a_X·au.
 
-`D_a^+(O_U,X)=D^+(O_U,Sol)+a_X·au`.
+D_a^+(O_U,X)=D^+(O_U,Sol)+a_X·au.
 
-Y, por simetría de frontera `D_a^+(X,∂Ωobs)=R_U−D_a^+(O_U,X)`.
+Y, por simetría de frontera D_a^+(X,∂Ωobs)=R_U−D_a^+(O_U,X).
 
-`D_a^−(X,∂Ωobs)=R_U−D_a^−(O_U,X)`.
+D_a^−(X,∂Ωobs)=R_U−D_a^−(O_U,X).
 
-El intervalo radial auxiliar queda `D_a(O_U,X) ∈ [D_a^−(O_U,X), D_a^+(O_U,X)]`.
+El intervalo radial auxiliar queda D_a(O_U,X) ∈ [D_a^−(O_U,X), D_a^+(O_U,X)].
 
-`D_a(X,∂Ωobs) ∈ [D_a^+(X,∂Ωobs), D_a^−(X,∂Ωobs)]`.
+D_a(X,∂Ωobs) ∈ [D_a^+(X,∂Ωobs), D_a^−(X,∂Ωobs)].
 
 Los valores adoptados son los semiejes mayores de la tabla JPL para posiciones aproximadas de los planetas. La fuente advierte que estos elementos no sustituyen las efemérides de alta precisión; por tanto, el resultado se declara como carta de escala orbital, no como posición planetaria fechada.
 
-| Objeto `X` | `a_X` en au | `D(Sol,X)_a = a_X·au` | Intervalo auxiliar `D_a(O_U,X)` |
-|---|---:|---:|---:|
-| Mercurio | `0,38709927` | `57.909.226.541,524 m` | `[130.557.437.070.596.801.648.678.079,487 m ; 130.557.437.070.596.917.467.131.162,536 m]` |
-| Venus | `0,72333566` | `108.209.474.537,379 m` | `[130.557.437.070.596.751.348.430.083,633 m ; 130.557.437.070.596.967.767.379.158,391 m]` |
-| Órbita media Tierra/Baricentro Tierra–Luna | `1,00000261` | `149.598.261.150,443 m` | `[130.557.437.070.596.709.959.643.470,569 m ; 130.557.437.070.597.009.156.165.771,454 m]` |
-| Marte | `1,52371034` | `227.943.822.427,573 m` | `[130.557.437.070.596.631.614.082.193,439 m ; 130.557.437.070.597.087.501.727.048,585 m]` |
-| Júpiter | `5,20288700` | `778.340.816.692,711 m` | `[130.557.437.070.596.081.217.087.928,301 m ; 130.557.437.070.597.637.898.721.313,723 m]` |
-| Saturno | `9,53667594` | `1.426.666.414.179,921 m` | `[130.557.437.070.595.432.891.490.441,091 m ; 130.557.437.070.598.286.224.318.800,933 m]` |
-| Urano | `19,18916464` | `2.870.658.170.655,732 m` | `[130.557.437.070.593.988.899.733.965,280 m ; 130.557.437.070.599.730.216.075.276,744 m]` |
-| Neptuno | `30,06992276` | `4.498.396.417.009,467 m` | `[130.557.437.070.592.361.161.487.611,545 m ; 130.557.437.070.601.357.954.321.630,479 m]` |
+| Objeto** **X | a_X** **en au | D(Sol,X)_a = a_X·au | Intervalo auxiliar** **D_a(O_U,X) |
+| --- | --- | --- | --- |
+| Mercurio                                   | 0,38709927        | 57.909.226.541,524 m    | [130.557.437.070.596.801.648.678.079,487 m ; 130.557.437.070.596.917.467.131.162,536 m] |
+| Venus                                      | 0,72333566        | 108.209.474.537,379 m   | [130.557.437.070.596.751.348.430.083,633 m ; 130.557.437.070.596.967.767.379.158,391 m] |
+| Órbita media Tierra/Baricentro Tierra–Luna | 1,00000261        | 149.598.261.150,443 m   | [130.557.437.070.596.709.959.643.470,569 m ; 130.557.437.070.597.009.156.165.771,454 m] |
+| Marte                                      | 1,52371034        | 227.943.822.427,573 m   | [130.557.437.070.596.631.614.082.193,439 m ; 130.557.437.070.597.087.501.727.048,585 m] |
+| Júpiter                                    | 5,20288700        | 778.340.816.692,711 m   | [130.557.437.070.596.081.217.087.928,301 m ; 130.557.437.070.597.637.898.721.313,723 m] |
+| Saturno                                    | 9,53667594        | 1.426.666.414.179,921 m | [130.557.437.070.595.432.891.490.441,091 m ; 130.557.437.070.598.286.224.318.800,933 m] |
+| Urano                                      | 19,18916464       | 2.870.658.170.655,732 m | [130.557.437.070.593.988.899.733.965,280 m ; 130.557.437.070.599.730.216.075.276,744 m] |
+| Neptuno                                    | 30,06992276       | 4.498.396.417.009,467 m | [130.557.437.070.592.361.161.487.611,545 m ; 130.557.437.070.601.357.954.321.630,479 m] |
 
-La fila “Órbita media Tierra/Baricentro Tierra–Luna” no debe confundirse con `D(O_U,Tierra)` obtenido por cambio de origen. `D(O_U,Tierra)` fija la Tierra como origen situado de la Lanzadera. La fila orbital fija una escala de semieje mayor heliocéntrico. Ambas lecturas tienen funciones distintas y no deben fusionarse.
+La fila “Órbita media Tierra/Baricentro Tierra–Luna” no debe confundirse con D(O_U,Tierra) obtenido por cambio de origen. D(O_U,Tierra) fija la Tierra como origen situado de la Lanzadera. La fila orbital fija una escala de semieje mayor heliocéntrico. Ambas lecturas tienen funciones distintas y no deben fusionarse.
 
 #### 17.8.5. Escalas locales en patrones Tierra–Luna y Tierra–Sol
 
-Para hacer legibles las magnitudes locales, se introducen dos patrones externos de escala `P_TL = 384.400.000 m`.
+Para hacer legibles las magnitudes locales, se introducen dos patrones externos de escala P_TL = 384.400.000 m.
 
-`P_TS = 149.597.870.700 m`.
+P_TS = 149.597.870.700 m.
 
-La tabla siguiente expresa los anclajes y semiejes mayores en metros y en ambos patrones. Esta tabla es la más adecuada para lectura metrológica, porque evita que las magnitudes enormes de `O_U` oculten la escala local de los cuerpos.
+La tabla siguiente expresa los anclajes y semiejes mayores en metros y en ambos patrones. Esta tabla es la más adecuada para lectura metrológica, porque evita que las magnitudes enormes de O_U oculten la escala local de los cuerpos.
 
-| Objeto o anclaje | Magnitud local | En metros | En patrón Tierra–Luna `P_TL` | En patrón Tierra–Sol `P_TS` |
-|---|---:|---:|---:|---:|
-| Tierra–Luna | `P_TL` | `384.400.000,000 m` | `1,000000` | `0,00256956` |
-| Tierra–Sol | `P_TS` | `149.597.870.700,000 m` | `389,172400` | `1,000000` |
-| Tierra–Luna–Sol | `P_TS−P_TL` | `149.213.470.700,000 m` | `388,172400` | `0,99743044` |
-| Mercurio | `a_X·au` | `57.909.226.541,524 m` | `150,648352` | `0,387099` |
-| Venus | `a_X·au` | `108.209.474.537,379 m` | `281,502275` | `0,723336` |
-| Órbita media Tierra/Baricentro Tierra–Luna | `a_X·au` | `149.598.261.150,443 m` | `389,173416` | `1,000003` |
-| Marte | `a_X·au` | `227.943.822.427,573 m` | `592,986010` | `1,523710` |
-| Júpiter | `a_X·au` | `778.340.816.692,711 m` | `2.024,820023` | `5,202887` |
-| Saturno | `a_X·au` | `1.426.666.414.179,921 m` | `3.711,411067` | `9,536676` |
-| Urano | `a_X·au` | `2.870.658.170.655,732 m` | `7.467,893264` | `19,189165` |
-| Neptuno | `a_X·au` | `4.498.396.417.009,467 m` | `11.702,384019` | `30,069923` |
+| Objeto o anclaje | Magnitud local | En metros | En patrón Tierra–Luna** **P_TL | En patrón Tierra–Sol** **P_TS |
+| --- | --- | --- | --- | --- |
+| Tierra–Luna                                | P_TL             | 384.400.000,000 m       | 1,000000                           | 0,00256956                        |
+| Tierra–Sol                                 | P_TS             | 149.597.870.700,000 m   | 389,172400                         | 1,000000                          |
+| Tierra–Luna–Sol                            | P_TS−P_TL        | 149.213.470.700,000 m   | 388,172400                         | 0,99743044                        |
+| Mercurio                                   | a_X·au           | 57.909.226.541,524 m    | 150,648352                         | 0,387099                          |
+| Venus                                      | a_X·au           | 108.209.474.537,379 m   | 281,502275                         | 0,723336                          |
+| Órbita media Tierra/Baricentro Tierra–Luna | a_X·au           | 149.598.261.150,443 m   | 389,173416                         | 1,000003                          |
+| Marte                                      | a_X·au           | 227.943.822.427,573 m   | 592,986010                         | 1,523710                          |
+| Júpiter                                    | a_X·au           | 778.340.816.692,711 m   | 2.024,820023                       | 5,202887                          |
+| Saturno                                    | a_X·au           | 1.426.666.414.179,921 m | 3.711,411067                       | 9,536676                          |
+| Urano                                      | a_X·au           | 2.870.658.170.655,732 m | 7.467,893264                       | 19,189165                         |
+| Neptuno                                    | a_X·au           | 4.498.396.417.009,467 m | 11.702,384019                      | 30,069923                         |
 
 Los cocientes son retornos metrológicos auxiliares; no son probabilidades, no son estimadores y no son frecuencias.
 
-#### 17.8.6. Rama saliente desde `O_U` en patrones Tierra–Luna y Tierra–Sol
+#### 17.8.6. Rama saliente desde O_U en patrones Tierra–Luna y Tierra–Sol
 
-Cuando se adopta expresamente la rama saliente de la directriz auxiliar, pueden expresarse también las coordenadas `D^+(O_U,X)` y los tramos restantes `D^+(X,∂Ωobs)` en los dos patrones. Esta tabla no representa posición instantánea planetaria; representa la rama saliente de la carta radial auxiliar.
+Cuando se adopta expresamente la rama saliente de la directriz auxiliar, pueden expresarse también las coordenadas D^+(O_U,X) y los tramos restantes D^+(X,∂Ωobs) en los dos patrones. Esta tabla no representa posición instantánea planetaria; representa la rama saliente de la carta radial auxiliar.
 
-| Objeto | `D^+(O_U,X)/P_TL` | `D^+(O_U,X)/P_TS` | `D^+(X,∂Ωobs)/P_TL` | `D^+(X,∂Ωobs)/P_TS` |
-|---|---:|---:|---:|---:|
-| Tierra situada | `339.639.534.522.884.261,082` | `872.722.562.558.483,728` | `1.673.910.037.278,980` | `4.301.204.390,940` |
-| Sol | `339.639.534.522.884.650,255` | `872.722.562.558.484,728` | `1.673.910.036.889,808` | `4.301.204.389,940` |
-| Luna | `339.639.534.522.884.262,082` | `872.722.562.558.483,731` | `1.673.910.037.277,980` | `4.301.204.390,937` |
-| Mercurio | `339.639.534.522.884.800,903` | `872.722.562.558.485,115` | `1.673.910.036.739,159` | `4.301.204.389,552` |
-| Venus | `339.639.534.522.884.931,757` | `872.722.562.558.485,452` | `1.673.910.036.608,305` | `4.301.204.389,216` |
-| Órbita media Tierra/Baricentro Tierra–Luna | `339.639.534.522.885.039,428` | `872.722.562.558.485,728` | `1.673.910.036.500,634` | `4.301.204.388,940` |
-| Marte | `339.639.534.522.885.243,241` | `872.722.562.558.486,252` | `1.673.910.036.296,822` | `4.301.204.388,416` |
-| Júpiter | `339.639.534.522.886.675,075` | `872.722.562.558.489,931` | `1.673.910.034.864,988` | `4.301.204.384,737` |
-| Saturno | `339.639.534.522.888.361,666` | `872.722.562.558.494,265` | `1.673.910.033.178,397` | `4.301.204.380,403` |
-| Urano | `339.639.534.522.892.118,148` | `872.722.562.558.503,917` | `1.673.910.029.421,914` | `4.301.204.370,750` |
-| Neptuno | `339.639.534.522.896.352,639` | `872.722.562.558.514,798` | `1.673.910.025.187,424` | `4.301.204.359,870` |
+| Objeto | D^+(O_U,X)/P_TL | D^+(O_U,X)/P_TS | D^+(X,∂Ωobs)/P_TL | D^+(X,∂Ωobs)/P_TS |
+| --- | --- | --- | --- | --- |
+| Tierra situada                             | 339.639.534.522.884.261,082 | 872.722.562.558.483,728 | 1.673.910.037.278,980 | 4.301.204.390,940     |
+| Sol                                        | 339.639.534.522.884.650,255 | 872.722.562.558.484,728 | 1.673.910.036.889,808 | 4.301.204.389,940     |
+| Luna                                       | 339.639.534.522.884.262,082 | 872.722.562.558.483,731 | 1.673.910.037.277,980 | 4.301.204.390,937     |
+| Mercurio                                   | 339.639.534.522.884.800,903 | 872.722.562.558.485,115 | 1.673.910.036.739,159 | 4.301.204.389,552     |
+| Venus                                      | 339.639.534.522.884.931,757 | 872.722.562.558.485,452 | 1.673.910.036.608,305 | 4.301.204.389,216     |
+| Órbita media Tierra/Baricentro Tierra–Luna | 339.639.534.522.885.039,428 | 872.722.562.558.485,728 | 1.673.910.036.500,634 | 4.301.204.388,940     |
+| Marte                                      | 339.639.534.522.885.243,241 | 872.722.562.558.486,252 | 1.673.910.036.296,822 | 4.301.204.388,416     |
+| Júpiter                                    | 339.639.534.522.886.675,075 | 872.722.562.558.489,931 | 1.673.910.034.864,988 | 4.301.204.384,737     |
+| Saturno                                    | 339.639.534.522.888.361,666 | 872.722.562.558.494,265 | 1.673.910.033.178,397 | 4.301.204.380,403     |
+| Urano                                      | 339.639.534.522.892.118,148 | 872.722.562.558.503,917 | 1.673.910.029.421,914 | 4.301.204.370,750     |
+| Neptuno                                    | 339.639.534.522.896.352,639 | 872.722.562.558.514,798 | 1.673.910.025.187,424 | 4.301.204.359,870     |
 
 La tabla cumple una función metrológica y semántica: permite expresar las cartas auxiliares en patrón Tierra–Luna y en patrón Tierra–Sol. El patrón no sustituye el cálculo; lo hace legible.
 
@@ -2143,84 +2152,84 @@ La tabla cumple una función metrológica y semántica: permite expresar las car
 
 La Ciencia Contemporánea no aporta una sola clase de dato. Aporta clases distintas, con alcances distintos. Debe declararse cuál se está usando en cada caso.
 
-La unidad astronómica entra como definición exacta: `1 au = 149.597.870.700 m`. Por tanto, cuando se usa `1 au`, se emplea una unidad convencional exacta del SI. Su residual de definición es nulo. Su residual de plano también es nulo, porque la unidad no funda el SV; sólo normaliza una distancia.
+La unidad astronómica entra como definición exacta: 1 au = 149.597.870.700 m. Por tanto, cuando se usa 1 au, se emplea una unidad convencional exacta del SI. Su residual de definición es nulo. Su residual de plano también es nulo, porque la unidad no funda el SV; sólo normaliza una distancia.
 
 El valor Tierra–Luna entra como patrón de escala y anclaje auxiliar. No sustituye una efeméride lunar. Si se exige posición real de la Luna, deben declararse fecha, marco, unidad y fuente efemérica.
 
-Los elementos keplerianos aproximados de JPL entran como retornos de escala orbital. El semieje mayor `a_X` no es una posición real del planeta, ni una efeméride instantánea, ni un vector completo. Es una forma de construir una carta de escala orbital. Por eso la tabla planetaria no debe leerse como posición de Mercurio, Venus, Marte, Júpiter, Saturno, Urano o Neptuno en una fecha concreta.
+Los elementos keplerianos aproximados de JPL entran como retornos de escala orbital. El semieje mayor a_X no es una posición real del planeta, ni una efeméride instantánea, ni un vector completo. Es una forma de construir una carta de escala orbital. Por eso la tabla planetaria no debe leerse como posición de Mercurio, Venus, Marte, Júpiter, Saturno, Urano o Neptuno en una fecha concreta.
 
-Las efemérides de JPL Horizons o SPICE/NAIF entran cuando se exige posición real por fecha. En ese caso, el dato debe incluir objeto, época, marco, unidad y residual. La fórmula general no cambia `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+Las efemérides de JPL Horizons o SPICE/NAIF entran cuando se exige posición real por fecha. En ese caso, el dato debe incluir objeto, época, marco, unidad y residual. La fórmula general no cambia vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X).
 
-Pero el término `vector(Tierra→X)` deja de ser un semieje mayor y pasa a ser un vector efemérico declarado.
+Pero el término vector(Tierra→X) deja de ser un semieje mayor y pasa a ser un vector efemérico declarado.
 
 Quedan bloqueadas las siguientes confusiones:
 
 | Confusión posible | Corrección formal |
-|---|---|
-| Confundir `R_U` con radio comóvil externo | `R_U` es radio estructural SV leído desde `O_U=(0,0)` hasta `∂Ωobs`. |
-| Confundir `R_aux,loc^SV` con un segundo radio del universo | `R_aux,loc^SV` es el tramo situado `Tierra→∂Ωobs`. |
-| Confundir patrón Tierra–Sol con distancia instantánea Tierra–Sol | `P_TS = 1 au` es unidad exacta y patrón de escala; la distancia real exige efeméride. |
-| Confundir semieje mayor con posición instantánea | El semieje mayor sólo da escala orbital; la posición real exige efeméride. |
-| Confundir radio físico de un cuerpo con distancia orbital | Radio medio, radio ecuatorial, radio polar y distancia orbital son magnitudes distintas. |
-| Confundir dato externo sólido con fundamento SV | El dato externo entra como retorno; no funda `O_U`, `R_U` ni la Lanzadera. |
-| Confundir `(0,0)` con cero gráfico | `(0,0)` procede de la arquitectura SV del TODO/NADA y de la Línea del Umbral. |
-| Cerrar por disponibilidad de datos | Si falta fuente, fecha, marco, unidad o residual, el dictamen conserva `U`. |
+| --- | --- |
+| Confundir R_U con radio comóvil externo                        | R_U es radio estructural SV leído desde O_U=(0,0) hasta ∂Ωobs.                     |
+| Confundir R_aux,loc^SV con un segundo radio del universo       | R_aux,loc^SV es el tramo situado Tierra→∂Ωobs.                                       |
+| Confundir patrón Tierra–Sol con distancia instantánea Tierra–Sol | P_TS = 1 au es unidad exacta y patrón de escala; la distancia real exige efeméride.    |
+| Confundir semieje mayor con posición instantánea                 | El semieje mayor sólo da escala orbital; la posición real exige efeméride.               |
+| Confundir radio físico de un cuerpo con distancia orbital        | Radio medio, radio ecuatorial, radio polar y distancia orbital son magnitudes distintas. |
+| Confundir dato externo sólido con fundamento SV                  | El dato externo entra como retorno; no funda O_U, R_U ni la Lanzadera.               |
+| Confundir (0,0) con cero gráfico                               | (0,0) procede de la arquitectura SV del TODO/NADA y de la Línea del Umbral.            |
+| Cerrar por disponibilidad de datos                               | Si falta fuente, fecha, marco, unidad o residual, el dictamen conserva U.              |
 
 La diferencia entre radio, diámetro, semieje, distancia orbital, distancia comóvil, distancia luminosa y distancia angular debe mantenerse visible. Cuando se usa un dato externo, se declara su clase. Si la clase no está clara, el resultado no se cierra.
 
 #### 17.8.8. Estado de admisión de cartas auxiliares
 
 | Caso | Tipo de dato | Estado SV | Alcance |
-|---|---|---|---|
-| Tierra situada | `D(O_U,Tierra)=R_U−R_aux,loc^SV` | `APTO` | Cerrado internamente por cambio de origen. |
-| Sol | `D^+(O_U,Sol)=D(O_U,Tierra)+P_TS` | `APTO` como anclaje de escala | Apto con au exacta como patrón; no es efeméride instantánea. |
-| Luna | `D^+(O_U,Luna)=D(O_U,Tierra)+P_TL` | `APTO condicionado` | Apto bajo directriz local declarada; para posición real exige efeméride. |
-| Mercurio a Neptuno | `D_a^±(O_U,X)=D^+(O_U,Sol)±a_X·au` | `APTO` como carta de escala orbital | No es posición instantánea; para fecha concreta exige Horizons/SPICE. |
-| Planeta en fecha concreta | `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)` | `APTO` si hay efeméride | Exige época, marco, unidad y residual. |
-| Asteroide, cometa, satélite o baricentro | Vector local efemérico | `APTO` si hay fuente suficiente | JPL Horizons, SPICE/NAIF u otra fuente técnica. |
-| Objeto sin vector local suficiente | — | `U` | No se cierra por plausibilidad. |
+| --- | --- | --- | --- |
+| Tierra situada                           | D(O_U,Tierra)=R_U−R_aux,loc^SV                    | APTO                              | Cerrado internamente por cambio de origen.                               |
+| Sol                                      | D^+(O_U,Sol)=D(O_U,Tierra)+P_TS                   | APTO como anclaje de escala       | Apto con au exacta como patrón; no es efeméride instantánea.             |
+| Luna                                     | D^+(O_U,Luna)=D(O_U,Tierra)+P_TL                  | APTO condicionado                 | Apto bajo directriz local declarada; para posición real exige efeméride. |
+| Mercurio a Neptuno                       | D_a^±(O_U,X)=D^+(O_U,Sol)±a_X·au                  | APTO como carta de escala orbital | No es posición instantánea; para fecha concreta exige Horizons/SPICE.    |
+| Planeta en fecha concreta                | vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X) | APTO si hay efeméride             | Exige época, marco, unidad y residual.                                   |
+| Asteroide, cometa, satélite o baricentro | Vector local efemérico                              | APTO si hay fuente suficiente     | JPL Horizons, SPICE/NAIF u otra fuente técnica.                          |
+| Objeto sin vector local suficiente       | —                                                   | U                                 | No se cierra por plausibilidad.                                          |
 
 #### 17.8.9. Control superior desde la Teoría del TODO y de la NADA
 
-La *Teoría del TODO y de la NADA en el Sistema Vectorial SV: refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K3n, frontera común (μ, λ) = (0, 0) y verificador ternario fuerte* actúa como criterio superior de compatibilidad. No comparece como adorno bibliográfico ni como mención de autoridad, sino como condición de lectura: la formulación debe poder proyectarse bajo la ley rectora `𝓔★_TODO,SV(Γ_U;τ)=0` sin introducir contradicción en origen, frontera, dato externo, tiempo rector, residual o `U`.
+La *Teoría del TODO y de la NADA en el Sistema Vectorial SV: refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K3n, frontera común (μ, λ) = (0, 0) y verificador ternario fuerte* actúa como criterio superior de compatibilidad. No comparece como adorno bibliográfico ni como mención de autoridad, sino como condición de lectura: la formulación debe poder proyectarse bajo la ley rectora 𝓔★_TODO,SV(Γ_U;τ)=0 sin introducir contradicción en origen, frontera, dato externo, tiempo rector, residual o U.
 
-El punto `(0,0)` no se introduce como cero gráfico. Su raíz última se vincula con la arquitectura del TODO/NADA y con la Línea del Umbral. La teoría superior fija dos lecturas internas de la NADA admisible: `𝓔∅`, como rango mínimo sin contenido positivo, y `(μ,λ)=(0,0)`, como cierre interno sin resto exterior formulable. Se toma `O_U=(0,0)` como origen formal-material de lectura radial, sin identificarlo de forma bruta con una pared física, con un vacío sustancial ni con un punto astronómico ordinario.
+El punto (0,0) no se introduce como cero gráfico. Su raíz última se vincula con la arquitectura del TODO/NADA y con la Línea del Umbral. La teoría superior fija dos lecturas internas de la NADA admisible: 𝓔∅, como rango mínimo sin contenido positivo, y (μ,λ)=(0,0), como cierre interno sin resto exterior formulable. Se toma O_U=(0,0) como origen formal-material de lectura radial, sin identificarlo de forma bruta con una pared física, con un vacío sustancial ni con un punto astronómico ordinario.
 
 La verificación de compatibilidad es la siguiente:
 
 | Condición superior | Resultado |
-|---|---|
-| No tiempo rector | Pasa: el cambio de origen es formal y radial; no introduce sucesión cronológica. |
-| No probabilidad | Pasa: las tablas calculan por composición, cociente metrológico y residual; no usan inferencia probabilística. |
-| No cierre por plausibilidad | Pasa: sin fuente, época, marco, unidad o residual, el caso conserva `U`. |
-| No vacío sustancial | Pasa: `(0,0)` no se interpreta como vacío físico. |
-| No frontera física absoluta | Pasa: `∂Ωobs` es frontera de lectura de la esfera ideal, no pared ontológica. |
-| No sustitución de la Ciencia Contemporánea | Pasa: JPL, IAU y SPICE/NAIF conservan su función técnica. |
-| No usurpación del SV por la Ciencia Contemporánea | Pasa: los datos externos no fundan `O_U`, `R_U`, `R_aux,loc^SV` ni la Lanzadera. |
-| Conservación de `U` | Pasa: la falta de condición material no se cierra por disponibilidad parcial de datos. |
-| Absorción por proyección | Pasa si cada dato externo conserva fuente, unidad, dominio, retorno y residual. |
+| --- | --- |
+| No tiempo rector                                  | Pasa: el cambio de origen es formal y radial; no introduce sucesión cronológica.                               |
+| No probabilidad                                   | Pasa: las tablas calculan por composición, cociente metrológico y residual; no usan inferencia probabilística. |
+| No cierre por plausibilidad                       | Pasa: sin fuente, época, marco, unidad o residual, el caso conserva U.                                       |
+| No vacío sustancial                               | Pasa: (0,0) no se interpreta como vacío físico.                                                              |
+| No frontera física absoluta                       | Pasa: ∂Ωobs es frontera de lectura de la esfera ideal, no pared ontológica.                                  |
+| No sustitución de la Ciencia Contemporánea        | Pasa: JPL, IAU y SPICE/NAIF conservan su función técnica.                                                      |
+| No usurpación del SV por la Ciencia Contemporánea | Pasa: los datos externos no fundan O_U, R_U, R_aux,loc^SV ni la Lanzadera.                               |
+| Conservación de U                               | Pasa: la falta de condición material no se cierra por disponibilidad parcial de datos.                         |
+| Absorción por proyección                          | Pasa si cada dato externo conserva fuente, unidad, dominio, retorno y residual.                                |
 
 La relación correcta es:
 
-`𝓔★_TODO,SV(Γ_U;τ)=0 → O_U=(0,0) → R_U → D(O_U,Tierra) → CartaAux_SV(X)`.
+𝓔★_TODO,SV(Γ_U;τ)=0 → O_U=(0,0) → R_U → D(O_U,Tierra) → CartaAux_SV(X).
 
 Y, en el plano del dato externo:
 
-`Dato_CC(X) → vector local declarado → composición auxiliar → residual visible → dictamen`.
+Dato_CC(X) → vector local declarado → composición auxiliar → residual visible → dictamen.
 
-La Ciencia Contemporánea no abre la cadena. Entra después, como retorno local suficientemente definido. Por eso el uso de `1 au`, de semiejes planetarios, de Horizons o de SPICE/NAIF no contradice la Teoría del TODO y de la NADA: ninguno de esos datos pretende fundar el origen ni la frontera del SV.
+La Ciencia Contemporánea no abre la cadena. Entra después, como retorno local suficientemente definido. Por eso el uso de 1 au, de semiejes planetarios, de Horizons o de SPICE/NAIF no contradice la Teoría del TODO y de la NADA: ninguno de esos datos pretende fundar el origen ni la frontera del SV.
 
 #### 17.8.10. Regla general de cierre para datos externos
 
-La regla general queda `CartaAux_SV(X)=APTO`
+La regla general queda CartaAux_SV(X)=APTO
 
 si se cumplen simultáneamente:
 
-`D(O_U,Tierra)` declarado.
+D(O_U,Tierra) declarado.
 
-`X` identificado.
+X identificado.
 
-`vector(Tierra→X)` o `vector(Sol→X)` declarado.
+vector(Tierra→X) o vector(Sol→X) declarado.
 
 Fuente externa identificada.
 
@@ -2232,44 +2241,44 @@ Unidad declarada.
 
 Residual visible.
 
-`𝓔★_TODO,SV(Γ_U;τ)=0` compatible.
+𝓔★_TODO,SV(Γ_U;τ)=0 compatible.
 
-Si falta alguna de estas condiciones, la salida conserva `U`.
+Si falta alguna de estas condiciones, la salida conserva U.
 
-### 17.9. Criterio de elección de base de cálculo: Tierra, Sol, `O_U=(0,0)` y Lanzadera Ómicron
+### 17.9. Criterio de elección de base de cálculo: Tierra, Sol, O_U=(0,0) y Lanzadera Ómicron
 
-Debe distinguirse con precisión cuándo procede usar la Tierra como base de cálculo, cuándo procede usar el Sol, cuándo procede usar `O_U=(0,0)` y cuándo procede activar la Lanzadera Ómicron. La elección de base no es una decisión formal menor: determina el tipo de dato admisible, el grado de cierre, el residual, el alcance del dictamen y la relación entre el plano SV y el plano de la Ciencia Contemporánea.
+Debe distinguirse con precisión cuándo procede usar la Tierra como base de cálculo, cuándo procede usar el Sol, cuándo procede usar O_U=(0,0) y cuándo procede activar la Lanzadera Ómicron. La elección de base no es una decisión formal menor: determina el tipo de dato admisible, el grado de cierre, el residual, el alcance del dictamen y la relación entre el plano SV y el plano de la Ciencia Contemporánea.
 
-La regla general es la siguiente. Cuando el objeto pertenece al Sistema Solar y la Ciencia Contemporánea dispone de vector, distancia, efeméride, unidad o anclaje suficientemente declarado, el SV no debe duplicar esa medición ni competir con ella. Debe incorporarla como retorno cartográfico o metrológico bajo fuente, época, marco, unidad, orientación y residual. Cuando el objeto no dispone de distancia contemporánea estabilizada, pero sí puede recibir registro etario calculable dentro del SV, la Lanzadera Ómicron puede operar como fórmula de acceso a nodo central, siempre que también estén declarados dominio, frontera, acceso, regla de tránsito y residual. Cuando la operación exige lectura estructural del dominio-universo, la base no es Tierra ni Sol, sino `O_U=(0,0)`.
+La regla general es la siguiente. Cuando el objeto pertenece al Sistema Solar y la Ciencia Contemporánea dispone de vector, distancia, efeméride, unidad o anclaje suficientemente declarado, el SV no debe duplicar esa medición ni competir con ella. Debe incorporarla como retorno cartográfico o metrológico bajo fuente, época, marco, unidad, orientación y residual. Cuando el objeto no dispone de distancia contemporánea estabilizada, pero sí puede recibir registro etario calculable dentro del SV, la Lanzadera Ómicron puede operar como fórmula de acceso a nodo central, siempre que también estén declarados dominio, frontera, acceso, regla de tránsito y residual. Cuando la operación exige lectura estructural del dominio-universo, la base no es Tierra ni Sol, sino O_U=(0,0).
 
-El registro etario no se presupone como dato disponible sin más. Se calcula mediante *Edades relativas del universo observable y de sus objetos físicos* (Lloret Egea, 2026f), que formula la regla metrológico-transductiva aplicable a objetos físicos del dominio observable. Esa publicación no atribuye etaria a la totalidad absoluta; opera sobre objetos físicos internos `O_i⊂Ω_obs` y exige dominio, identidad, frontera, unidad, residual y retorno. Por tanto, la expresión “registro etario suficiente” significa: valor etario calculable o ya calculado por la regla de esa publicación, con dominio y residual declarados.
+El registro etario no se presupone como dato disponible sin más. Se calcula mediante *Edades relativas del universo observable y de sus objetos físicos* (Lloret Egea, 2026f), que formula la regla metrológico-transductiva aplicable a objetos físicos del dominio observable. Esa publicación no atribuye etaria a la totalidad absoluta; opera sobre objetos físicos internos O_i⊂Ω_obs y exige dominio, identidad, frontera, unidad, residual y retorno. Por tanto, la expresión “registro etario suficiente” significa: valor etario calculable o ya calculado por la regla de esa publicación, con dominio y residual declarados.
 
-La Tierra se usa como base situada cuando el objeto `X` puede recibirse por carta local desde la Tierra. La forma general es `vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X)`.
+La Tierra se usa como base situada cuando el objeto X puede recibirse por carta local desde la Tierra. La forma general es vector(O_U→X)=vector(O_U→Tierra)+vector(Tierra→X).
 
 Esta base es adecuada para la Luna, planetas en fecha concreta, satélites, asteroides, cometas, baricentros y objetos con vector local disponible. Si el dato externo es sólido y el plano está bien declarado, el residual de plano es nulo: la Ciencia Contemporánea no funda el SV, y el SV no reemplaza la efeméride. El residual que pueda quedar será métrico, efemérico, instrumental o de época, no de fundamento.
 
-El Sol se usa como base local cuando el objeto se organiza mejor en una carta heliocéntrica. La forma general es `vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X)`.
+El Sol se usa como base local cuando el objeto se organiza mejor en una carta heliocéntrica. La forma general es vector(O_U→X)=vector(O_U→Sol)+vector(Sol→X).
 
 Esta base es adecuada para planetas, capas orbitales, semiejes mayores, baricentros solares y familias de objetos cuya descripción primaria procede del entorno solar. Si se usa un semieje mayor, el resultado no es posición instantánea: es escala orbital. Si se usa efeméride, deben declararse fecha, marco, unidad y residual. La base solar permite ordenar los objetos internos del Sistema Solar sin convertir el Sol en origen formal del dominio-universo.
 
-`O_U=(0,0)` se usa como base estructural cuando la operación no depende de una distancia local ya medida, sino del origen formal-material de lectura del dominio-universo físico realizado. Esta base procede de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* y conserva raíz en la arquitectura superior de *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. No es punto astronómico ordinario, no es centro físico de expansión, no es Big Bang, no es lugar métrico externo y no es un cero gráfico. Su función consiste en fijar la lectura radial estructural `R_U = D(O_U,∂Ωobs)`.
+O_U=(0,0) se usa como base estructural cuando la operación no depende de una distancia local ya medida, sino del origen formal-material de lectura del dominio-universo físico realizado. Esta base procede de *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada* y conserva raíz en la arquitectura superior de *Teoría del TODO y de la NADA en el Sistema Vectorial SV*. No es punto astronómico ordinario, no es centro físico de expansión, no es Big Bang, no es lugar métrico externo y no es un cero gráfico. Su función consiste en fijar la lectura radial estructural R_U = D(O_U,∂Ωobs).
 
-Desde el contraste con *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* se obtiene `D(O_U,Tierra)=R_U−R_aux,loc^SV`.
+Desde el contraste con *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado* se obtiene D(O_U,Tierra)=R_U−R_aux,loc^SV.
 
-Esa coordenada permite después construir cartas auxiliares por composición local. La operación no convierte `O_U` en objeto físico medible; lo conserva como origen formal-material de lectura radial. Por ello, toda distancia respecto de `O_U` debe leerse como distancia formal restringida dentro del aparato SV, no como distancia física a un centro del Universo.
+Esa coordenada permite después construir cartas auxiliares por composición local. La operación no convierte O_U en objeto físico medible; lo conserva como origen formal-material de lectura radial. Por ello, toda distancia respecto de O_U debe leerse como distancia formal restringida dentro del aparato SV, no como distancia física a un centro del Universo.
 
 La Lanzadera Ómicron se usa cuando el objetivo es un nodo central para el que no basta una carta local de la Ciencia Contemporánea y, sin embargo, el SV puede calcular o declarar un registro etario suficientemente tipado mediante *Edades relativas del universo observable y de sus objetos físicos*. Su función no es resolver objetos locales ya cartografiados por efemérides. Su función es trazar una vía principal hacia nodos centrales. Por eso no sustituye a JPL, IAU, SPICE, Horizons ni a las mediciones contemporáneas cuando éstas ya existen. La Lanzadera resulta pertinente precisamente cuando la Ciencia Contemporánea no dispone de distancia estabilizada, pero el SV sí dispone de cálculo etario, dominio, acceso, frontera y regla de lectura.
 
 La distinción puede expresarse así:
 
 | Base de cálculo | Uso propio | Dato necesario | Dictamen posible |
-|---|---|---|---|
-| Tierra | Carta local situada | `vector(Tierra→X)` o anclaje local | `APTO` si fuente, época, marco, unidad, orientación y residual están declarados |
-| Sol | Carta heliocéntrica | `vector(Sol→X)`, semieje mayor o efeméride solar | `APTO` como escala orbital o efeméride, según el dato |
-| `O_U=(0,0)` | Lectura estructural del dominio-universo | Origen SV, dominio, frontera y regla declarada | `APTO` si conserva fundamento, unidad de lectura y residual |
-| Lanzadera Ómicron | Tránsito hacia nodo central | Registro etario calculado, dominio, acceso, frontera y coeficiente de tránsito | `APTO` si la ruta queda cerrada; `U` si falta condición |
-| Ciencia Contemporánea | Retorno cartográfico o metrológico | Dato observado, calculado, medido o efemérico | No funda SV; aporta vector, unidad, anclaje o contraste |
-| Nodo no observado | Proyección SV condicionada | Registro etario calculable, dominio, frontera, regla y residual | `APTO formal SV` si cierra internamente; no equivale a observación empírica contemporánea |
+| --- | --- | --- | --- |
+| Tierra                | Carta local situada                      | vector(Tierra→X) o anclaje local                                             | APTO si fuente, época, marco, unidad, orientación y residual están declarados           |
+| Sol                   | Carta heliocéntrica                      | vector(Sol→X), semieje mayor o efeméride solar                               | APTO como escala orbital o efeméride, según el dato                                     |
+| O_U=(0,0)           | Lectura estructural del dominio-universo | Origen SV, dominio, frontera y regla declarada                                 | APTO si conserva fundamento, unidad de lectura y residual                               |
+| Lanzadera Ómicron     | Tránsito hacia nodo central              | Registro etario calculado, dominio, acceso, frontera y coeficiente de tránsito | APTO si la ruta queda cerrada; U si falta condición                                   |
+| Ciencia Contemporánea | Retorno cartográfico o metrológico       | Dato observado, calculado, medido o efemérico                                  | No funda SV; aporta vector, unidad, anclaje o contraste                                   |
+| Nodo no observado     | Proyección SV condicionada               | Registro etario calculable, dominio, frontera, regla y residual                | APTO formal SV si cierra internamente; no equivale a observación empírica contemporánea |
 
 La regla de elección queda fijada así:
 
@@ -2277,63 +2286,63 @@ Si el objeto está dentro del Sistema Solar y la Ciencia Contemporánea dispone 
 
 Si el objeto pertenece a una familia orbital, capa heliocéntrica, semieje mayor o retorno solar, se usa el Sol como base local.
 
-Si el objeto exige lectura estructural del dominio-universo, se usa `O_U=(0,0)`.
+Si el objeto exige lectura estructural del dominio-universo, se usa O_U=(0,0).
 
 Si el objetivo es un nodo central sin distancia contemporánea estabilizada, pero con registro etario calculable por *Edades relativas del universo observable y de sus objetos físicos*, dominio, frontera, acceso y regla de tránsito suficientes, se activa la Lanzadera Ómicron.
 
-Si el dato externo es sólido, se incorpora como retorno. Si el dato externo falta o no declara época, marco, unidad, orientación o residual, el caso conserva `U`.
+Si el dato externo es sólido, se incorpora como retorno. Si el dato externo falta o no declara época, marco, unidad, orientación o residual, el caso conserva U.
 
-Si el SV proyecta un nodo todavía no observado, el dictamen puede ser `APTO formal SV` dentro del dominio declarado, pero no debe presentarse como observación empírica de la Ciencia Contemporánea.
+Si el SV proyecta un nodo todavía no observado, el dictamen puede ser APTO formal SV dentro del dominio declarado, pero no debe presentarse como observación empírica de la Ciencia Contemporánea.
 
-La relación entre estas bases no es competitiva. La Ciencia Contemporánea aporta precisión local donde ya ha medido, calculado o estabilizado datos con suficiente rigor. La Lanzadera aporta capacidad de tránsito hacia nodos centrales donde la distancia no está disponible pero el registro etario y el dominio permiten determinación SV. `O_U=(0,0)` conserva la base estructural. Tierra y Sol conservan la base local. Cada base actúa donde corresponde.
+La relación entre estas bases no es competitiva. La Ciencia Contemporánea aporta precisión local donde ya ha medido, calculado o estabilizado datos con suficiente rigor. La Lanzadera aporta capacidad de tránsito hacia nodos centrales donde la distancia no está disponible pero el registro etario y el dominio permiten determinación SV. O_U=(0,0) conserva la base estructural. Tierra y Sol conservan la base local. Cada base actúa donde corresponde.
 
-El criterio anterior se refuerza por *Distancia absoluta y relativa entre observables del Universo*. La distancia absoluta respecto del origen formal sólo es admisible como relación restringida entre un observable declarado y el origen `0_SV`, sin convertir ese origen en punto espacial, instante físico, singularidad o centro del Universo. La distancia relativa entre observables exige magnitud, unidad, modelo, ecuación, régimen, transductor, residual y retorno físico. Por tanto, no se autorizan frases como “distancia física al origen” si no se declara la condición formal de ese origen, ni se autoriza mezclar distancia orbital, semieje mayor, radio físico, distancia comóvil, distancia de luminosidad o distancia angular como si fueran una sola magnitud.
+El criterio anterior se refuerza por *Distancia absoluta y relativa entre observables del Universo*. La distancia absoluta respecto del origen formal sólo es admisible como relación restringida entre un observable declarado y el origen 0_SV, sin convertir ese origen en punto espacial, instante físico, singularidad o centro del Universo. La distancia relativa entre observables exige magnitud, unidad, modelo, ecuación, régimen, transductor, residual y retorno físico. Por tanto, no se autorizan frases como “distancia física al origen” si no se declara la condición formal de ese origen, ni se autoriza mezclar distancia orbital, semieje mayor, radio físico, distancia comóvil, distancia de luminosidad o distancia angular como si fueran una sola magnitud.
 
-El criterio también se refuerza por *Medición, reconstrucción e incertidumbre estructural en la física contemporánea sin probabilidad ni tiempo soberano* (Lloret Egea, 2026i). La existencia de un número disponible no basta para cerrar un caso. Cierre legítimo exige trayectoria, residual, frontera, dictamen y trazabilidad. Si la estructura no autoriza cierre, el resultado conserva `U`; si aparece nueva información, la reapertura añade una nueva trayectoria sin reescribir lo ya fijado. Por tanto, una carta auxiliar no queda cerrada porque exista un dato aproximado: queda cerrada sólo si el dato conserva fuente, unidad, marco, época, orientación, residual y compatibilidad con la cadena superior SV.
+El criterio también se refuerza por *Medición, reconstrucción e incertidumbre estructural en la física contemporánea sin probabilidad ni tiempo soberano* (Lloret Egea, 2026i). La existencia de un número disponible no basta para cerrar un caso. Cierre legítimo exige trayectoria, residual, frontera, dictamen y trazabilidad. Si la estructura no autoriza cierre, el resultado conserva U; si aparece nueva información, la reapertura añade una nueva trayectoria sin reescribir lo ya fijado. Por tanto, una carta auxiliar no queda cerrada porque exista un dato aproximado: queda cerrada sólo si el dato conserva fuente, unidad, marco, época, orientación, residual y compatibilidad con la cadena superior SV.
 
 La regla final puede expresarse en dos cadenas:
 
-`Dato_CC(X) → vector local declarado → composición auxiliar → residual visible → dictamen`.
+Dato_CC(X) → vector local declarado → composición auxiliar → residual visible → dictamen.
 
-`Registro_etario_SV(X) → Lanzadera Ómicron → nodo central proyectado → residual visible → dictamen`.
+Registro_etario_SV(X) → Lanzadera Ómicron → nodo central proyectado → residual visible → dictamen.
 
-La primera cadena pertenece a cartas auxiliares locales. La segunda pertenece a tránsito hacia nodos centrales. Ambas pueden convivir sin contradicción porque no actúan sobre el mismo plano. La Ciencia Contemporánea entra por retorno local. La Lanzadera entra por tránsito estructural. `O_U=(0,0)` conserva el origen formal-material de lectura. La separación de bases impide que una herramienta fuerte se use fuera de su dominio y permite que cada una aporte su potencia propia sin invadir a las demás.
+La primera cadena pertenece a cartas auxiliares locales. La segunda pertenece a tránsito hacia nodos centrales. Ambas pueden convivir sin contradicción porque no actúan sobre el mismo plano. La Ciencia Contemporánea entra por retorno local. La Lanzadera entra por tránsito estructural. O_U=(0,0) conserva el origen formal-material de lectura. La separación de bases impide que una herramienta fuerte se use fuera de su dominio y permite que cada una aporte su potencia propia sin invadir a las demás.
 
 ### 17.10. Bibliografía APA7
 
-Lloret Egea, J. A. (2026a). *Teoría del TODO y de la NADA en el Sistema Vectorial SV: refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K3n, frontera común (μ, λ) = (0, 0) y verificador ternario fuerte*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.17613/k3q1d-fjj45
+Lloret Egea, J. A. (2026a). *Teoría del TODO y de la NADA en el Sistema Vectorial SV: refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K3n, frontera común (μ, λ) = (0, 0) y verificador ternario fuerte*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.17613/k3q1d-fjj45>
 
-Lloret Egea, J. A. (2026b). *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.30dfd78b
+Lloret Egea, J. A. (2026b). *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.30dfd78b>
 
-Lloret Egea, J. A. (2026c). *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.101f1d12
+Lloret Egea, J. A. (2026c). *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.101f1d12>
 
-Lloret Egea, J. A. (2026d). *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.db21f00e
+Lloret Egea, J. A. (2026d). *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II: Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.db21f00e>
 
-Lloret Egea, J. A. (2026e). *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.0430adc0
+Lloret Egea, J. A. (2026e). *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.0430adc0>
 
-Lloret Egea, J. A. (2026f). *Edades relativas del universo observable y de sus objetos físicos*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.b56ed853
+Lloret Egea, J. A. (2026f). *Edades relativas del universo observable y de sus objetos físicos*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.b56ed853>
 
-Lloret Egea, J. A. (2026g). *Primitivos metrológicos del Sistema Vectorial SV: instanciaciones contingentes de las constantes fundacionales del Sistema Internacional, justificación algebraica y tabla de equivalencias factuales*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.c8ec692e
+Lloret Egea, J. A. (2026g). *Primitivos metrológicos del Sistema Vectorial SV: instanciaciones contingentes de las constantes fundacionales del Sistema Internacional, justificación algebraica y tabla de equivalencias factuales*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.c8ec692e>
 
-Lloret Egea, J. A. (2026h). *Distancia absoluta y relativa entre observables del Universo*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.c394e160
+Lloret Egea, J. A. (2026h). *Distancia absoluta y relativa entre observables del Universo*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.c394e160>
 
-Lloret Egea, J. A. (2026i). *Medición, reconstrucción e incertidumbre estructural en la física contemporánea sin probabilidad ni tiempo soberano*. IA eñ™ — La Biblia de la IA™. https://doi.org/10.21428/39829d0b.755ad0eb
+Lloret Egea, J. A. (2026i). *Medición, reconstrucción e incertidumbre estructural en la física contemporánea sin probabilidad ni tiempo soberano*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.755ad0eb>
 
-Acton, C. H., Jr. (1996). Ancillary data services of NASA’s Navigation and Ancillary Information Facility. *Planetary and Space Science, 44*(1), 65–70. https://doi.org/10.1016/0032-0633(95)00107-7
+Acton, C. H., Jr. (1996). Ancillary data services of NASA’s Navigation and Ancillary Information Facility. *Planetary and Space Science, 44*(1), 65–70. <https://doi.org/10.1016/0032-0633(95)00107-7>
 
-Hogg, D. W. (1999). *Distance measures in cosmology*. arXiv. https://arxiv.org/abs/astro-ph/9905116
+Hogg, D. W. (1999). *Distance measures in cosmology*. arXiv. <https://arxiv.org/abs/astro-ph/9905116>
 
-International Astronomical Union. (2012). *Resolution B2 on the re-definition of the astronomical unit of length*. International Astronomical Union. https://www.iau.org/static/resolutions/IAU2012_English.pdf
+International Astronomical Union. (2012). *Resolution B2 on the re-definition of the astronomical unit of length*. International Astronomical Union. <https://www.iau.org/static/resolutions/IAU2012_English.pdf>
 
-Jet Propulsion Laboratory. (s. f.). *Approximate positions of the planets*. NASA Solar System Dynamics. https://ssd.jpl.nasa.gov/planets/approx_pos.html
+Jet Propulsion Laboratory. (s. f.). *Approximate positions of the planets*. NASA Solar System Dynamics. <https://ssd.jpl.nasa.gov/planets/approx_pos.html>
 
-Jet Propulsion Laboratory. (s. f.). *Horizons system*. NASA Solar System Dynamics. https://ssd.jpl.nasa.gov/horizons/
+Jet Propulsion Laboratory. (s. f.). *Horizons system*. NASA Solar System Dynamics. <https://ssd.jpl.nasa.gov/horizons/>
 
-Jet Propulsion Laboratory. (s. f.). *Astrodynamic parameters*. NASA Solar System Dynamics. https://ssd.jpl.nasa.gov/astro_par.html
+Jet Propulsion Laboratory. (s. f.). *Astrodynamic parameters*. NASA Solar System Dynamics. <https://ssd.jpl.nasa.gov/astro_par.html>
 
-NASA Science. (2026, 12 de febrero). *Moon facts*. National Aeronautics and Space Administration. https://science.nasa.gov/moon/facts/
+NASA Science. (2026, 12 de febrero). *Moon facts*. National Aeronautics and Space Administration. <https://science.nasa.gov/moon/facts/>
 
-Navigation and Ancillary Information Facility. (s. f.). *SPICE kernels*. NASA Jet Propulsion Laboratory. https://naif.jpl.nasa.gov/naif/data.html
+Navigation and Ancillary Information Facility. (s. f.). *SPICE kernels*. NASA Jet Propulsion Laboratory. <https://naif.jpl.nasa.gov/naif/data.html>
 
 ## 18. Postura y reflexión final del autor
 
@@ -2363,75 +2372,77 @@ La tercera parte de la Trilogía Cosmológica se sitúa en ese punto de exigenci
 
 ### Bibliografía interna de los fundamentos SV
 
-Lloret Egea, Juan Antonio. (2026a). **Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable**. Incluye el **Anexo A. Teorema de resolución física de la constante cosmológica: transducción ciclo-distancial SV de Λ, energía oscura y expansión cosmológica**. DOI: [https://doi.org/10.21428/39829d0b.41afec0f](https://doi.org/10.21428/39829d0b.41afec0f "_blank"). Función en este estudio: fuente real del cálculo de `Λ = 3/(c²T_obs²)` y de la lectura de `Λ` como curvatura ciclo-distancial del dominio cosmológico observable retornado.
+Lloret Egea, Juan Antonio. (2026a). **Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable**. Incluye el **Anexo A. Teorema de resolución física de la constante cosmológica: transducción ciclo-distancial SV de Λ, energía oscura y expansión cosmológica**. DOI: <https://doi.org/10.21428/39829d0b.41afec0f>. Función en este estudio: fuente real del cálculo de Λ = 3/(c²T_obs²) y de la lectura de Λ como curvatura ciclo-distancial del dominio cosmológico observable retornado.
 
-Lloret Egea, Juan Antonio. (2026b). **Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I**. DOI: [https://doi.org/10.21428/39829d0b.101f1d12](https://doi.org/10.21428/39829d0b.101f1d12 "_blank"). Función en este estudio: aplicación de la `Λ` calculada al cierre del radio interno estructural `R_U`, y derivación geométrica de `S_U` y `V_U`.
+Lloret Egea, Juan Antonio. (2026b). **Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I**. DOI: <https://doi.org/10.21428/39829d0b.101f1d12>. Función en este estudio: aplicación de la Λ calculada al cierre del radio interno estructural R_U, y derivación geométrica de S_U y V_U.
 
-Lloret Egea, Juan Antonio. (2026c). **Recta-Ómicron — Trilogía Cosmológica, Parte II. Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado**. DOI: [https://doi.org/10.21428/39829d0b.db21f00e](https://doi.org/10.21428/39829d0b.db21f00e "_blank"). Función en este estudio: fuente de la cadena `λ_acc → κ_∂←acc → λ_∂ → Brazo_∂Ωobs(Tierra) → R_aux(Ωobs)`, de la distinción entre acceso y frontera, y de los retornos de escala Tierra–Luna / Tierra–Sol.
+Lloret Egea, Juan Antonio. (2026c). **Recta-Ómicron — Trilogía Cosmológica, Parte II. Brazo fronterizo etario, Lanzadera Ómicron y proyección geométrica auxiliar del universo observable retornado**. DOI: <https://doi.org/10.21428/39829d0b.db21f00e>. Función en este estudio: fuente de la cadena λ_acc → κ_∂←acc → λ_∂ → Brazo_∂Ωobs(Tierra) → R_aux(Ωobs), de la distinción entre acceso y frontera, y de los retornos de escala Tierra–Luna / Tierra–Sol.
 
-Lloret Egea, Juan Antonio. (2026d). **La materia oscura no existe como sustancia**. DOI: [https://doi.org/10.21428/39829d0b.7b41835f](https://doi.org/10.21428/39829d0b.7b41835f "_blank"). Función en este estudio: soporte de la nulidad sustancial `ρ_DM,sustancia = 0`, `m_DM,sustancia = 0`, y de la relectura de la diferencia gravitatoria como sutura gravitatoria efectiva y residual de no clausura.
+Lloret Egea, Juan Antonio. (2026d). **La materia oscura no existe como sustancia**. DOI: <https://doi.org/10.21428/39829d0b.7b41835f>. Función en este estudio: soporte de la nulidad sustancial ρ_DM,sustancia = 0, m_DM,sustancia = 0, y de la relectura de la diferencia gravitatoria como sutura gravitatoria efectiva y residual de no clausura.
 
-Lloret Egea, Juan Antonio. (2026e). **El origen material ordinario del Universo observable y la relación entre física contemporánea y Sistema Vectorial SV en el tránsito por dominios**. DOI: [https://doi.org/10.21428/39829d0b.90fce13d](https://doi.org/10.21428/39829d0b.90fce13d "_blank"). Función en este estudio: soporte del régimen H–He como primera organización material ordinaria retornable y del tránsito por dominios entre materialidad cosmológica, física elemental, química y continuidad material posterior.
+Lloret Egea, Juan Antonio. (2026e). **El origen material ordinario del Universo observable y la relación entre física contemporánea y Sistema Vectorial SV en el tránsito por dominios**. DOI: <https://doi.org/10.21428/39829d0b.90fce13d>. Función en este estudio: soporte del régimen H–He como primera organización material ordinaria retornable y del tránsito por dominios entre materialidad cosmológica, física elemental, química y continuidad material posterior.
 
-Lloret Egea, Juan Antonio. (2026f). **Edades relativas del universo observable y de sus objetos físicos**. DOI: [https://doi.org/10.21428/39829d0b.b56ed853](https://doi.org/10.21428/39829d0b.b56ed853 "_blank"). Función en este estudio: soporte de la edad declarada del universo observable, de los cortes etarios y de la distinción entre edad del observable, edad de objeto y edad de dominio.
+Lloret Egea, Juan Antonio. (2026f). **Edades relativas del universo observable y de sus objetos físicos**. DOI: <https://doi.org/10.21428/39829d0b.b56ed853>. Función en este estudio: soporte de la edad declarada del universo observable, de los cortes etarios y de la distinción entre edad del observable, edad de objeto y edad de dominio.
 
-Lloret Egea, Juan Antonio. (2026g). **Raigal, apertura de imperfección y horizonte de retorno de los observables**. DOI: [https://doi.org/10.21428/39829d0b.bfd86036](https://doi.org/10.21428/39829d0b.bfd86036 "_blank"). Función en este estudio: soporte de la noción de horizonte de retorno, dominio declarado, función de arraigo, salida `U` y retorno metrológico sin sustancialización.
+Lloret Egea, Juan Antonio. (2026g). **Raigal, apertura de imperfección y horizonte de retorno de los observables**. DOI: <https://doi.org/10.21428/39829d0b.bfd86036>. Función en este estudio: soporte de la noción de horizonte de retorno, dominio declarado, función de arraigo, salida U y retorno metrológico sin sustancialización.
 
-Lloret Egea, Juan Antonio. (2026h). **Primitivos metrológicos del Sistema Vectorial SV: instanciaciones contingentes de las constantes fundacionales del Sistema Internacional, justificación algebraica y tabla de equivalencias factuales**. DOI: [https://doi.org/10.21428/39829d0b.c8ec692e](https://doi.org/10.21428/39829d0b.c8ec692e "_blank"). Función en este estudio: soporte interno de la disciplina metrológica, de la distinción entre unidad, retorno y fundamento, y de la entrada controlada de constantes y patrones externos.
+Lloret Egea, Juan Antonio. (2026h). **Primitivos metrológicos del Sistema Vectorial SV: instanciaciones contingentes de las constantes fundacionales del Sistema Internacional, justificación algebraica y tabla de equivalencias factuales**. DOI: <https://doi.org/10.21428/39829d0b.c8ec692e>. Función en este estudio: soporte interno de la disciplina metrológica, de la distinción entre unidad, retorno y fundamento, y de la entrada controlada de constantes y patrones externos.
 
-Lloret Egea, Juan Antonio. (2026i). **Teoría del TODO y de la NADA en el Sistema Vectorial SV**. DOI: [https://doi.org/10.17613/k3q1d-fjj45](https://doi.org/10.17613/k3q1d-fjj45 "_blank"). Función en este estudio: soporte de la distinción entre universo observable retornado y Totalidad absoluta; ningún radio, volumen, densidad o grupo de datos externo se interpreta como medida de la Totalidad.
+Lloret Egea, Juan Antonio. (2026i). **Teoría del TODO y de la NADA en el Sistema Vectorial SV**. DOI: <https://doi.org/10.17613/k3q1d-fjj45>. Función en este estudio: soporte de la distinción entre universo observable retornado y Totalidad absoluta; ningún radio, volumen, densidad o grupo de datos externo se interpreta como medida de la Totalidad.
 
-Lloret Egea, Juan Antonio. (2026j). **Imperfección preformal y espacio**. DOI: [https://doi.org/10.21428/39829d0b.9c57c046](https://doi.org/10.21428/39829d0b.9c57c046 "_blank"). Función en este estudio: soporte de la distinción entre dominio físico realizado, imperfección, espacio, vacío, materia oscura, energía oscura y Totalidad, sin reducción de planos.
+Lloret Egea, Juan Antonio. (2026j). **Imperfección preformal y espacio**. DOI: <https://doi.org/10.21428/39829d0b.9c57c046>. Función en este estudio: soporte de la distinción entre dominio físico realizado, imperfección, espacio, vacío, materia oscura, energía oscura y Totalidad, sin reducción de planos.
 
-Lloret Egea, Juan Antonio. (2026k). **Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable: Corolario de cambio de origen (0,0) → Tierra, Línea del Umbral SV, Lanzadera Ómicron y cartas auxiliares radiales. Distancias absolutas, retornos metrológicos y criterio de elección de base de cálculo**. DOI: [https://doi.org/10.21428/39829d0b.5ac7e261](https://doi.org/10.21428/39829d0b.5ac7e261 "_blank"). Función en este estudio: desarrollo adscrito del cambio de origen `O_U=(0,0) → Tierra`, recomposición entre `R_U` y `R_aux,loc^SV`, cartas auxiliares radiales del Sistema Solar y criterio de elección de base de cálculo.
+Lloret Egea, Juan Antonio. (2026k). **Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable: Corolario de cambio de origen (0,0) → Tierra, Línea del Umbral SV, Lanzadera Ómicron y cartas auxiliares radiales. Distancias absolutas, retornos metrológicos y criterio de elección de base de cálculo**. DOI: <https://doi.org/10.21428/39829d0b.5ac7e261>. Función en este estudio: desarrollo adscrito del cambio de origen O_U=(0,0) → Tierra, recomposición entre R_U y R_aux,loc^SV, cartas auxiliares radiales del Sistema Solar y criterio de elección de base de cálculo.
 
 ### Fuentes externas de contraste, metrología y cosmología contemporánea
 
-Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., et al. (2020). **Planck 2018 results. VI. Cosmological parameters**. *Astronomy & Astrophysics*, 641, A6, 2020. DOI: [https://doi.org/10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910 "_blank"). arXiv: [https://arxiv.org/abs/1807.06209](https://arxiv.org/abs/1807.06209 "_blank"). Función en este estudio: grupo de datos externo de contraste `ΛCDM`, parámetros cosmológicos, densidades relativas, CMB, radio comóvil y energía oscura efectiva. No se usa como fuente de la `Λ` rectora.
+Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., et al. (2020). **Planck 2018 results. VI. Cosmological parameters**. *Astronomy & Astrophysics*, 641, A6, 2020. DOI: <https://doi.org/10.1051/0004-6361/201833910>. arXiv: <https://arxiv.org/abs/1807.06209>. Función en este estudio: grupo de datos externo de contraste ΛCDM, parámetros cosmológicos, densidades relativas, CMB, radio comóvil y energía oscura efectiva. No se usa como fuente de la Λ rectora.
 
-Hogg, David W. (1999). **Distance measures in cosmology**. arXiv: [https://arxiv.org/abs/astro-ph/9905116](https://arxiv.org/abs/astro-ph/9905116 "_blank"), 1999. Función en este estudio: control técnico para distinguir distancia comóvil, distancia angular, distancia de luminosidad, distancia propia, tiempo de viaje de la luz y volumen comóvil. No se usa para corregir `R_U` ni `R_aux`.
+Hogg, David W. (1999). **Distance measures in cosmology**. arXiv: <https://arxiv.org/abs/astro-ph/9905116>, 1999. Función en este estudio: control técnico para distinguir distancia comóvil, distancia angular, distancia de luminosidad, distancia propia, tiempo de viaje de la luz y volumen comóvil. No se usa para corregir R_U ni R_aux.
 
-Gaia Collaboration; Vallenari, A.; Brown, A. G. A.; Prusti, T.; de Bruijne, J. H. J.; Arenou, F.; et al. (2023). **Gaia Data Release 3: Summary of the content and survey properties**. *Astronomy & Astrophysics*, 674, A1, 2023. DOI: [https://doi.org/10.1051/0004-6361/202243940](https://doi.org/10.1051/0004-6361/202243940 "_blank"). arXiv: [https://arxiv.org/abs/2208.00211](https://arxiv.org/abs/2208.00211 "_blank"). Función en este estudio: grupo externo de traza astrométrica, posiciones, paralajes, movimientos propios, fotometría, velocidades radiales, parámetros astrofísicos y productos asociados. No se usa para fundar `Λ`, `R_U`, `λ_∂` ni `R_aux`.
+Gaia Collaboration; Vallenari, A.; Brown, A. G. A.; Prusti, T.; de Bruijne, J. H. J.; Arenou, F.; et al. (2023). **Gaia Data Release 3: Summary of the content and survey properties**. *Astronomy & Astrophysics*, 674, A1, 2023. DOI: <https://doi.org/10.1051/0004-6361/202243940>. arXiv: <https://arxiv.org/abs/2208.00211>. Función en este estudio: grupo externo de traza astrométrica, posiciones, paralajes, movimientos propios, fotometría, velocidades radiales, parámetros astrofísicos y productos asociados. No se usa para fundar Λ, R_U, λ_∂ ni R_aux.
 
-Event Horizon Telescope Collaboration. (2022a). *First Sagittarius A\* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way*. *The Astrophysical Journal Letters*, 930, L12, 2022. DOI: [https://doi.org/10.3847/2041-8213/ac6674](https://doi.org/10.3847/2041-8213/ac6674 "_blank"). Función en este estudio: nodo galáctico de contraste; `Sgr A\*` se usa como ejemplo de nodo físico reconocido dentro de dominio galáctico, no como centro cosmológico.
+Event Horizon Telescope Collaboration. (2022a). *First Sagittarius A&#42; Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way*. *The Astrophysical Journal Letters*, 930, L12, 2022. DOI: <https://doi.org/10.3847/2041-8213/ac6674>. Función en este estudio: nodo galáctico de contraste; Sgr A&#42; se usa como ejemplo de nodo físico reconocido dentro de dominio galáctico, no como centro cosmológico.
 
-Event Horizon Telescope Collaboration. (2022b). *First Sagittarius A\* Event Horizon Telescope Results. III. Imaging of the Galactic Center Supermassive Black Hole*. *The Astrophysical Journal Letters*, 930, L14, 2022. DOI: [https://doi.org/10.3847/2041-8213/ac6429](https://doi.org/10.3847/2041-8213/ac6429 "_blank"). Función en este estudio: soporte de la imagen interferométrica de `Sgr A\*` y de su uso como nodo de contraste observacional, no como fuente de frontera cosmológica.
+Event Horizon Telescope Collaboration. (2022b). *First Sagittarius A&#42; Event Horizon Telescope Results. III. Imaging of the Galactic Center Supermassive Black Hole*. *The Astrophysical Journal Letters*, 930, L14, 2022. DOI: <https://doi.org/10.3847/2041-8213/ac6429>. Función en este estudio: soporte de la imagen interferométrica de Sgr A&#42; y de su uso como nodo de contraste observacional, no como fuente de frontera cosmológica.
 
-DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.; et al. (2024). **DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**. arXiv: [https://arxiv.org/abs/2404.03000](https://arxiv.org/abs/2404.03000 "_blank"), 2024. Función en este estudio: grupo externo de contraste sobre BAO, expansión, distancias cosmológicas y régimen contemporáneo de energía oscura. No se usa para reescribir `Λ_SV,puro(T_obs)`.
+DESI Collaboration; Adame, A. G.; Aguilar, J.; Ahlen, S.; Alam, S.; Alexander, D. M.; et al. (2024). **DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**. arXiv: <https://arxiv.org/abs/2404.03000>, 2024. Función en este estudio: grupo externo de contraste sobre BAO, expansión, distancias cosmológicas y régimen contemporáneo de energía oscura. No se usa para reescribir Λ_SV,puro(T_obs).
 
-Lodha, K.; Shafieloo, A.; Calderon, R.; Linder, E.; Sohn, W.; Cervantes-Cota, J. L.; et al. (2024). **DESI 2024: Constraints on Physics-Focused Aspects of Dark Energy using DESI DR1 BAO Data**. arXiv: [https://arxiv.org/abs/2405.13588](https://arxiv.org/abs/2405.13588 "_blank"), 2024. Función en este estudio: contraste contemporáneo sobre posibles clases dinámicas de energía oscura. No se usa como fuente de la `Λ` calculada.
+Lodha, K.; Shafieloo, A.; Calderon, R.; Linder, E.; Sohn, W.; Cervantes-Cota, J. L.; et al. (2024). **DESI 2024: Constraints on Physics-Focused Aspects of Dark Energy using DESI DR1 BAO Data**. arXiv: <https://arxiv.org/abs/2405.13588>, 2024. Función en este estudio: contraste contemporáneo sobre posibles clases dinámicas de energía oscura. No se usa como fuente de la Λ calculada.
 
-Calderon, R.; Lodha, K.; Shafieloo, A.; Linder, E.; Sohn, W.; de Mattia, A.; et al. (2024). **DESI 2024: Reconstructing Dark Energy using Crossing Statistics with DESI DR1 BAO data**. arXiv: [https://arxiv.org/abs/2405.04216](https://arxiv.org/abs/2405.04216 "_blank"), 2024. Función en este estudio: contraste externo sobre reconstrucciones de energía oscura y evolución cosmológica. No se usa como fundamento interno.
+Calderon, R.; Lodha, K.; Shafieloo, A.; Linder, E.; Sohn, W.; de Mattia, A.; et al. (2024). **DESI 2024: Reconstructing Dark Energy using Crossing Statistics with DESI DR1 BAO data**. arXiv: <https://arxiv.org/abs/2405.04216>, 2024. Función en este estudio: contraste externo sobre reconstrucciones de energía oscura y evolución cosmológica. No se usa como fundamento interno.
 
-Riess, Adam G.; Filippenko, Alexei V.; Challis, Peter; Clocchiatti, Alejandro; Diercks, Alan; Garnavich, Peter M.; et al. (1998). **Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant**. *The Astronomical Journal*, 116, 1009–1038, 1998. DOI: [https://doi.org/10.1086/300499](https://doi.org/10.1086/300499 "_blank"). Función en este estudio: contraste histórico y observacional de la expansión acelerada mediante supernovas Ia. No se usa para sustancializar energía oscura.
+Riess, Adam G.; Filippenko, Alexei V.; Challis, Peter; Clocchiatti, Alejandro; Diercks, Alan; Garnavich, Peter M.; et al. (1998). **Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant**. *The Astronomical Journal*, 116, 1009–1038, 1998. DOI: <https://doi.org/10.1086/300499>. Función en este estudio: contraste histórico y observacional de la expansión acelerada mediante supernovas Ia. No se usa para sustancializar energía oscura.
 
-Perlmutter, Saul; Aldering, Greg; Goldhaber, Gerson; Knop, Robert A.; Nugent, Peter; Castro, Patricia G.; et al. (1999). **Measurements of Ω and Λ from 42 High-Redshift Supernovae**. *The Astrophysical Journal*, 517, 565–586, 1999. DOI: [https://doi.org/10.1086/307221](https://doi.org/10.1086/307221 "_blank"). Función en este estudio: contraste histórico y observacional de la expansión acelerada y del uso cosmológico de `Ω` y `Λ`. No se usa como fuente de `Λ_SV,puro`.
+Perlmutter, Saul; Aldering, Greg; Goldhaber, Gerson; Knop, Robert A.; Nugent, Peter; Castro, Patricia G.; et al. (1999). **Measurements of Ω and Λ from 42 High-Redshift Supernovae**. *The Astrophysical Journal*, 517, 565–586, 1999. DOI: <https://doi.org/10.1086/307221>. Función en este estudio: contraste histórico y observacional de la expansión acelerada y del uso cosmológico de Ω y Λ. No se usa como fuente de Λ_SV,puro.
 
-Pitrou, Cyril; Coc, Alain; Uzan, Jean-Philippe; Vangioni, Elisabeth. (2018). **Precision big bang nucleosynthesis with improved Helium-4 predictions**. *Physics Reports*, 754, 1–66, 2018. DOI: [https://doi.org/10.1016/j.physrep.2018.04.005](https://doi.org/10.1016/j.physrep.2018.04.005 "_blank"). arXiv: [https://arxiv.org/abs/1801.08023](https://arxiv.org/abs/1801.08023 "_blank"). Función en este estudio: contraste externo del régimen material ligero H–He, nucleosíntesis primordial, Helio-4, deuterio y elementos ligeros. No se usa para fundar el régimen H–He interno, sino para contrastarlo físicamente.
+Pitrou, Cyril; Coc, Alain; Uzan, Jean-Philippe; Vangioni, Elisabeth. (2018). **Precision big bang nucleosynthesis with improved Helium-4 predictions**. *Physics Reports*, 754, 1–66, 2018. DOI: <https://doi.org/10.1016/j.physrep.2018.04.005>. arXiv: <https://arxiv.org/abs/1801.08023>. Función en este estudio: contraste externo del régimen material ligero H–He, nucleosíntesis primordial, Helio-4, deuterio y elementos ligeros. No se usa para fundar el régimen H–He interno, sino para contrastarlo físicamente.
 
-Coc, Alain; Vangioni, Elisabeth. (2017). **Primordial nucleosynthesis**. *International Journal of Modern Physics E*, 26, 1741002, 2017. arXiv: [https://arxiv.org/abs/1707.01004](https://arxiv.org/abs/1707.01004 "_blank"). Función en este estudio: contraste general de nucleosíntesis primordial, producción de elementos ligeros y límites del problema del Litio-7. No sustituye el criterio de materialidad retornada.
+Coc, Alain; Vangioni, Elisabeth. (2017). **Primordial nucleosynthesis**. *International Journal of Modern Physics E*, 26, 1741002, 2017. arXiv: <https://arxiv.org/abs/1707.01004>. Función en este estudio: contraste general de nucleosíntesis primordial, producción de elementos ligeros y límites del problema del Litio-7. No sustituye el criterio de materialidad retornada.
 
-Bureau International des Poids et Mesures. (2019). **The International System of Units (SI Brochure), 9th edition**. BIPM. DOI: [https://doi.org/10.59161/AUEZ1291](https://doi.org/10.59161/AUEZ1291 "_blank"). Función en este estudio: soporte metrológico externo para unidades SI, definición del metro por el valor exacto de `c`, y disciplina de unidades físicas. No se usa como fundamento cosmológico.
+Bureau International des Poids et Mesures. (2019). **The International System of Units (SI Brochure), 9th edition**. BIPM. DOI: <https://doi.org/10.59161/AUEZ1291>. Función en este estudio: soporte metrológico externo para unidades SI, definición del metro por el valor exacto de c, y disciplina de unidades físicas. No se usa como fundamento cosmológico.
 
-Tiesinga, Eite; Mohr, Peter J.; Newell, David B.; Taylor, Barry N. (2022). **CODATA Recommended Values of the Fundamental Physical Constants: 2022**. NIST / CODATA. URL: [https://physics.nist.gov/cuu/Constants/](https://physics.nist.gov/cuu/Constants/ "_blank"). Función en este estudio: soporte metrológico externo para constantes físicas y patrones como el radio de Bohr. No se usa como origen de `R_U` ni de `λ_∂`.
+Tiesinga, Eite; Mohr, Peter J.; Newell, David B.; Taylor, Barry N. (2022). **CODATA Recommended Values of the Fundamental Physical Constants: 2022**. NIST / CODATA. URL: <https://physics.nist.gov/cuu/Constants/>. Función en este estudio: soporte metrológico externo para constantes físicas y patrones como el radio de Bohr. No se usa como origen de R_U ni de λ_∂.
 
-International Astronomical Union. (2012). **Resolution B2 on the re-definition of the astronomical unit of length**. IAU XXVIII General Assembly, Beijing. URL: [https://www.iau.org/static/resolutions/IAU2012_English.pdf](https://www.iau.org/static/resolutions/IAU2012_English.pdf "_blank"). Función en este estudio: soporte metrológico externo de la unidad astronómica `1 au = 149.597.870.700 m`. No se usa como fuente de radio interno ni de frontera etaria.
+International Astronomical Union. (2012). **Resolution B2 on the re-definition of the astronomical unit of length**. IAU XXVIII General Assembly, Beijing. URL: <https://www.iau.org/static/resolutions/IAU2012_English.pdf>. Función en este estudio: soporte metrológico externo de la unidad astronómica 1 au = 149.597.870.700 m. No se usa como fuente de radio interno ni de frontera etaria.
 
-Bennett, C. L.; Larson, D.; Weiland, J. L.; Jarosik, N.; Hinshaw, G.; Odegard, N.; et al. (2013). **Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results**. *The Astrophysical Journal Supplement Series*, 208, 20, 2013. DOI: [https://doi.org/10.1088/0067-0049/208/2/20](https://doi.org/10.1088/0067-0049/208/2/20 "_blank"). Función en este estudio: contraste complementario histórico de CMB y parámetros cosmológicos anteriores a Planck. Su uso es secundario frente a Planck 2018.
+Bennett, C. L.; Larson, D.; Weiland, J. L.; Jarosik, N.; Hinshaw, G.; Odegard, N.; et al. (2013). **Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Final Maps and Results**. *The Astrophysical Journal Supplement Series*, 208, 20, 2013. DOI: <https://doi.org/10.1088/0067-0049/208/2/20>. Función en este estudio: contraste complementario histórico de CMB y parámetros cosmológicos anteriores a Planck. Su uso es secundario frente a Planck 2018.
 
-Peebles, P. J. E.; Ratra, Bharat. (2003). **The cosmological constant and dark energy**. *Reviews of Modern Physics*, 75, 559–606, 2003. DOI: [https://doi.org/10.1103/RevModPhys.75.559](https://doi.org/10.1103/RevModPhys.75.559 "_blank"). Función en este estudio: contraste conceptual externo sobre constante cosmológica y energía oscura. No se usa para sustancializar energía oscura ni para sustituir la lectura de curvatura ciclo-distancial.
+Peebles, P. J. E.; Ratra, Bharat. (2003). **The cosmological constant and dark energy**. *Reviews of Modern Physics*, 75, 559–606, 2003. DOI: <https://doi.org/10.1103/RevModPhys.75.559>. Función en este estudio: contraste conceptual externo sobre constante cosmológica y energía oscura. No se usa para sustancializar energía oscura ni para sustituir la lectura de curvatura ciclo-distancial.
 
-Bertone, Gianfranco; Hooper, Dan; Silk, Joseph. (2005). **Particle dark matter: evidence, candidates and constraints**. *Physics Reports*, 405, 279–390, 2005. DOI: [https://doi.org/10.1016/j.physrep.2004.08.031](https://doi.org/10.1016/j.physrep.2004.08.031 "_blank"). Función en este estudio: contraste externo sobre la lectura contemporánea de materia oscura como componente de modelo y como búsqueda de candidatos materiales. No se usa para admitir sustancia oscura en el régimen interno.
+Bertone, Gianfranco; Hooper, Dan; Silk, Joseph. (2005). **Particle dark matter: evidence, candidates and constraints**. *Physics Reports*, 405, 279–390, 2005. DOI: <https://doi.org/10.1016/j.physrep.2004.08.031>. Función en este estudio: contraste externo sobre la lectura contemporánea de materia oscura como componente de modelo y como búsqueda de candidatos materiales. No se usa para admitir sustancia oscura en el régimen interno.
 
-Rubin, Vera C.; Ford, W. Kent Jr. (1970). **Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions**. *The Astrophysical Journal*, 159, 379, 1970. DOI: [https://doi.org/10.1086/150317](https://doi.org/10.1086/150317 "_blank"). Función en este estudio: contraste histórico de curvas de rotación y retorno gravitatorio no explicado por inventario luminoso ordinario. No se usa para cerrar materia oscura como sustancia.
+Rubin, Vera C.; Ford, W. Kent Jr. (1970). **Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions**. *The Astrophysical Journal*, 159, 379, 1970. DOI: <https://doi.org/10.1086/150317>. Función en este estudio: contraste histórico de curvas de rotación y retorno gravitatorio no explicado por inventario luminoso ordinario. No se usa para cerrar materia oscura como sustancia.
 
-Clowe, Douglas; Bradač, Maruša; Gonzalez, Anthony H.; Markevitch, Maxim; Randall, Scott W.; Jones, Christine; Zaritsky, Dennis. (2006). **A Direct Empirical Proof of the Existence of Dark Matter**. *The Astrophysical Journal Letters*, 648, L109–L113, 2006. DOI: [https://doi.org/10.1086/508162](https://doi.org/10.1086/508162 "_blank"). Función en este estudio: contraste externo fuerte de separación gravitatoria en cúmulos. Su uso se limita a fenómeno gravitatorio y contraste; no sustituye la formulación interna de sutura gravitatoria efectiva.
+Clowe, Douglas; Bradač, Maruša; Gonzalez, Anthony H.; Markevitch, Maxim; Randall, Scott W.; Jones, Christine; Zaritsky, Dennis. (2006). **A Direct Empirical Proof of the Existence of Dark Matter**. *The Astrophysical Journal Letters*, 648, L109–L113, 2006. DOI: <https://doi.org/10.1086/508162>. Función en este estudio: contraste externo fuerte de separación gravitatoria en cúmulos. Su uso se limita a fenómeno gravitatorio y contraste; no sustituye la formulación interna de sutura gravitatoria efectiva.
 
-# Cláusulas legales
+---
 
-## Advertencia y reserva de derechos
+## Cláusulas legales
 
-Esta publicación, titulada *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*, incluida su Release 2, el corolario adscrito *Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable*, sus textos, formulaciones, estructura expositiva, tablas, gráficos, imágenes, selección y disposición de contenidos, fórmulas, nomenclatura, transductores, criterios de admisión, dominios, retornos metrológicos, cálculos, archivos auxiliares, salidas de verificación, documentación asociada y cualquier material complementario que forme parte de la obra o se publique vinculado a ella, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO u otra entidad competente.
+### Advertencia y reserva de derechos
+
+Esta publicación, titulada *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*, incluida esta versión integrada, el corolario adscrito *Carta radial desde el origen formal-material hacia Tierra, Sistema Solar y frontera del universo observable*, sus textos, formulaciones, estructura expositiva, tablas, gráficos, imágenes, selección y disposición de contenidos, fórmulas, nomenclatura, transductores, criterios de admisión, dominios, retornos metrológicos, cálculos, archivos auxiliares, salidas de verificación, documentación asociada y cualquier material complementario que forme parte de la obra o se publique vinculado a ella, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO u otra entidad competente.
 
 Cualquier forma de explotación de la obra o de partes sustanciales de ella —incluidas su reproducción, distribución, comunicación pública, puesta a disposición, transformación, traducción, adaptación, incorporación a bases de datos, minería de textos y datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas, desarrollos empresariales, sistemas de inteligencia artificial o herramientas de análisis científico— sólo podrá realizarse conforme a la licencia indicada, con autorización expresa y por escrito de los titulares de derechos, o al amparo de una excepción legal aplicable.
 
@@ -2441,9 +2452,9 @@ La aplicación, implementación, explotación técnica o incorporación de los r
 
 La presente reserva se formula sin perjuicio de los límites, excepciones y usos permitidos imperativamente por la ley. En la medida permitida por la legislación aplicable, cualquier controversia relativa a la explotación no autorizada, transformación, reutilización sustancial, comunicación pública, distribución, integración técnica, uso comercial, uso automatizado no autorizado, atribución indebida, alteración sustancial o vulneración de derechos sobre esta obra se someterá a la jurisdicción de los órganos competentes conforme al ordenamiento jurídico aplicable.
 
-## Notice and reservation of rights
+### Notice and reservation of rights
 
-This publication, entitled *Radius, Boundary and Density of the Observable Universe — Cosmological Trilogy, Part III*, including its Release 2, the attached corollary *Radial Chart from the Formal-Material Origin towards Earth, the Solar System and the Boundary of the Observable Universe*, its texts, formulations, expository structure, tables, graphics, images, selection and arrangement of contents, formulas, nomenclature, transducers, admission criteria, domains, metrological returns, calculations, auxiliary files, verification outputs, associated documentation and any supplementary material forming part of the work or published in connection with it, is protected by the author’s intellectual property rights and, where applicable, by the corresponding rights management through CEDRO or any other competent entity.
+This publication, entitled *Radius, Boundary and Density of the Observable Universe — Cosmological Trilogy, Part III*, including this integrated version, the attached corollary *Radial Chart from the Formal-Material Origin towards Earth, the Solar System and the Boundary of the Observable Universe*, its texts, formulations, expository structure, tables, graphics, images, selection and arrangement of contents, formulas, nomenclature, transducers, admission criteria, domains, metrological returns, calculations, auxiliary files, verification outputs, associated documentation and any supplementary material forming part of the work or published in connection with it, is protected by the author’s intellectual property rights and, where applicable, by the corresponding rights management through CEDRO or any other competent entity.
 
 Any form of exploitation of the work or of substantial parts thereof —including reproduction, distribution, public communication, making available, transformation, translation, adaptation, incorporation into databases, text and data mining, training or evaluation of automated systems, integration into products, services, reports, software, models, catalogues, teaching materials, industrial materials, technical publications, business developments, artificial intelligence systems or scientific analysis tools— may only be carried out in accordance with the indicated licence, with the express written authorisation of the rights holders, or under an applicable statutory exception.
 
@@ -2453,42 +2464,42 @@ The application, implementation, technical exploitation or incorporation of the 
 
 This reservation is made without prejudice to limitations, exceptions and uses that are mandatorily permitted by law. To the extent permitted by applicable law, any dispute concerning unauthorised exploitation, transformation, substantial reuse, public communication, distribution, technical integration, commercial use, unauthorised automated use, improper attribution, substantial alteration or infringement of rights over this work shall be subject to the jurisdiction of the competent courts and authorities under the applicable legal order.
 
-## Disposición sobre propiedad intelectual, desarrollos derivados, colaboración técnica y reserva de explotación
+### Disposición sobre propiedad intelectual, desarrollos derivados, colaboración técnica y reserva de explotación
 
 La formulación científica y técnica asociada a esta publicación puede dar lugar a desarrollos posteriores en cosmología formal, metrología, modelización matemática, análisis de dominios, herramientas computacionales, sistemas de representación, transductores, criterios de admisión de datos externos, cartas auxiliares radiales, aplicaciones docentes avanzadas, sistemas de evaluación científica o integraciones técnicas en entornos de inteligencia artificial. La publicación no constituye cesión, licencia, autorización de explotación técnica ni renuncia a derechos de propiedad intelectual, industrial o de explotación sobre métodos, procedimientos, criterios técnicos, matrices de análisis, secuencias de cálculo, modelos de transducción, sistemas de decisión, estructuras de retorno, aplicaciones científicas o desarrollos derivados que puedan resultar registrables, protegibles, explotables mediante licencia, transferencia, acuerdo de colaboración, investigación conjunta o secreto empresarial.
 
-Cualquier universidad, laboratorio, centro tecnológico, entidad pública o privada, empresa, grupo de investigación, editor técnico, desarrollador de software, proveedor de sistemas de inteligencia artificial o institución que pretenda ejecutar, validar, ampliar, adaptar, automatizar, integrar, explotar técnicamente o reutilizar sustancialmente la metodología, las fórmulas, las tablas, los criterios de admisión, la Lanzadera Ómicron, las cartas auxiliares radiales, el cambio de origen `(0,0) → Tierra`, las reglas de residual, los transductores o la arquitectura general de esta obra deberá formalizar previamente un acuerdo escrito con el autor o con la entidad designada por éste cuando el uso proyectado exceda la cita, la crítica, la revisión académica, la lectura privada o el contraste independiente permitido por la ley y por la licencia.
+Cualquier universidad, laboratorio, centro tecnológico, entidad pública o privada, empresa, grupo de investigación, editor técnico, desarrollador de software, proveedor de sistemas de inteligencia artificial o institución que pretenda ejecutar, validar, ampliar, adaptar, automatizar, integrar, explotar técnicamente o reutilizar sustancialmente la metodología, las fórmulas, las tablas, los criterios de admisión, la Lanzadera Ómicron, las cartas auxiliares radiales, el cambio de origen (0,0) → Tierra, las reglas de residual, los transductores o la arquitectura general de esta obra deberá formalizar previamente un acuerdo escrito con el autor o con la entidad designada por éste cuando el uso proyectado exceda la cita, la crítica, la revisión académica, la lectura privada o el contraste independiente permitido por la ley y por la licencia.
 
 El acuerdo podrá reconocer, según corresponda, participación técnica, preferencia de colaboración, coautoría científica, licencia, derechos de explotación, opción de desarrollo, cotitularidad de resultados derivados o condiciones específicas de transferencia científica y tecnológica, siempre que la contribución material de la parte colaboradora quede documentada y aceptada por escrito. La aceptación de archivos, lectura de la obra, comentario técnico, revisión interna, comunicación informal, cita, análisis automatizado no autorizado, uso interno no autorizado o recepción de materiales no generará por sí sola derechos de explotación, prioridad técnica, licencia implícita ni expectativa jurídica sobre los métodos, formulaciones, estructuras, criterios o desarrollos derivados.
 
 Esta disposición no limita la crítica científica, la revisión académica, la comprobación independiente, la cita legítima ni los usos permitidos por la ley. Su finalidad es preservar la trazabilidad de autoría, la integridad formal de la obra, la eventual protección jurídica de desarrollos posteriores y la ordenación de futuras colaboraciones técnicas.
 
-## Provision on intellectual property, derived developments, technical collaboration and reservation of exploitation rights
+### Provision on intellectual property, derived developments, technical collaboration and reservation of exploitation rights
 
 The scientific and technical formulation associated with this publication may give rise to subsequent developments in formal cosmology, metrology, mathematical modelling, domain analysis, computational tools, representation systems, transducers, criteria for admitting external data, radial auxiliary charts, advanced teaching applications, scientific assessment systems or technical integrations in artificial intelligence environments. Publication does not constitute assignment, licence, authorisation for technical exploitation or waiver of intellectual, industrial or exploitation rights over methods, procedures, technical criteria, analytical matrices, calculation sequences, transduction models, decision systems, return structures, scientific applications or derived developments that may be registrable, protectable, exploitable through licensing, transfer, collaboration agreements, joint research or trade secrets.
 
-Any university, laboratory, technology centre, public or private entity, company, research group, technical publisher, software developer, artificial intelligence system provider or institution intending to execute, validate, expand, adapt, automate, integrate, technically exploit or substantially reuse the methodology, formulas, tables, admission criteria, Omicron Launcher, radial auxiliary charts, `(0,0) → Earth` origin shift, residual rules, transducers or general architecture of this work must first formalise a written agreement with the author or with the entity designated by him where the intended use exceeds quotation, criticism, academic review, private reading or independent contrast permitted by law and by the licence.
+Any university, laboratory, technology centre, public or private entity, company, research group, technical publisher, software developer, artificial intelligence system provider or institution intending to execute, validate, expand, adapt, automate, integrate, technically exploit or substantially reuse the methodology, formulas, tables, admission criteria, Omicron Launcher, radial auxiliary charts, (0,0) → Earth origin shift, residual rules, transducers or general architecture of this work must first formalise a written agreement with the author or with the entity designated by him where the intended use exceeds quotation, criticism, academic review, private reading or independent contrast permitted by law and by the licence.
 
 The agreement may recognise, as appropriate, technical participation, collaboration preference, scientific co-authorship, licence, exploitation rights, development option, co-ownership of derived results or specific scientific and technology-transfer conditions, provided that the material contribution of the collaborating party is documented and accepted in writing. Acceptance of files, reading of the work, technical comment, internal review, informal communication, citation, unauthorised automated analysis, unauthorised internal use or receipt of materials shall not by itself generate exploitation rights, technical priority, implied licence or legal expectation over the methods, formulations, structures, criteria or derived developments.
 
 This provision does not limit scientific criticism, academic review, independent verification, legitimate quotation or uses permitted by law. Its purpose is to preserve authorship traceability, the formal integrity of the work, possible legal protection of subsequent developments and the organisation of future technical collaborations.
 
-## Justificación científica de la publicación previa a contraste, implementación o explotación técnica
+### Justificación científica de la publicación previa a contraste, implementación o explotación técnica
 
-La formulación de *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III* y de su corolario adscrito no puede plantearse como un desarrollo privado, opaco o meramente instrumental. El trabajo fija públicamente una arquitectura formal que coordina radio estructural, frontera etaria, radio comóvil externo, constante cosmológica, densidad de capacidad, materialidad retornada, sutura gravitatoria efectiva, residual de no clausura, Línea del Umbral SV, Lanzadera Ómicron, cambio de origen `(0,0) → Tierra`, cartas auxiliares radiales y criterios de admisión de datos externos. Esa fijación previa permite que cualquier contraste posterior, crítica, implementación, lectura computacional, desarrollo técnico o revisión académica pueda cotejarse con una formulación anterior y trazable, sin reconstrucciones oportunistas ni desplazamientos de autoría.
+La formulación de *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III* y de su corolario adscrito no puede plantearse como un desarrollo privado, opaco o meramente instrumental. El trabajo fija públicamente una arquitectura formal que coordina radio estructural, frontera etaria, radio comóvil externo, constante cosmológica, densidad de capacidad, materialidad retornada, sutura gravitatoria efectiva, residual de no clausura, Línea del Umbral SV, Lanzadera Ómicron, cambio de origen (0,0) → Tierra, cartas auxiliares radiales y criterios de admisión de datos externos. Esa fijación previa permite que cualquier contraste posterior, crítica, implementación, lectura computacional, desarrollo técnico o revisión académica pueda cotejarse con una formulación anterior y trazable, sin reconstrucciones oportunistas ni desplazamientos de autoría.
 
 La relevancia científica de los resultados no reside en proclamar reconocimiento externo inmediato ni en sustituir los procedimientos de la Ciencia Contemporánea. Reside en abrir una región de contraste formal donde cosmología observacional, metrología, geometría, datos externos estabilizados, registros etarios, dominios SV y retorno matemático puedan confrontarse bajo criterios declarados. El valor del desarrollo consiste precisamente en esa frontera: no negar la práctica científica vigente, no usurpar su plano instrumental y no permitir que ésta sustituya el plano formal del Sistema Vectorial SV. La publicación previa fija las condiciones de esa confrontación antes de que se produzcan usos derivados, implementaciones, validaciones parciales o aplicaciones externas.
 
-La publicación previa también cumple una función de ordenación científica y jurídica. Permite que cualquier entidad interesada conozca con exactitud qué se formula, qué se calcula, qué se admite como dato externo, qué queda en residual, qué no se sustancializa, qué se mantiene como `U`, qué resultados son internos, qué retornos son metrológicos y qué usos exigen autorización. Al mismo tiempo, preserva la trazabilidad de autoría, delimita la reserva de propiedad intelectual y evita que una implementación técnica posterior quede separada de la formulación que la hace posible. Sin esta fijación pública, la fase posterior podría confundirse con una aplicación genérica de datos cosmológicos o con una recomposición externa de resultados; con ella, todo uso posterior queda situado frente a una arquitectura previamente definida.
+La publicación previa también cumple una función de ordenación científica y jurídica. Permite que cualquier entidad interesada conozca con exactitud qué se formula, qué se calcula, qué se admite como dato externo, qué queda en residual, qué no se sustancializa, qué se mantiene como U, qué resultados son internos, qué retornos son metrológicos y qué usos exigen autorización. Al mismo tiempo, preserva la trazabilidad de autoría, delimita la reserva de propiedad intelectual y evita que una implementación técnica posterior quede separada de la formulación que la hace posible. Sin esta fijación pública, la fase posterior podría confundirse con una aplicación genérica de datos cosmológicos o con una recomposición externa de resultados; con ella, todo uso posterior queda situado frente a una arquitectura previamente definida.
 
-La eventual utilización de la Lanzadera Ómicron, de las cartas auxiliares radiales, de la lectura desde `O_U=(0,0)`, de la separación entre `R_U`, `R_aux,loc^SV`, radio comóvil externo, densidad de capacidad, sutura gravitatoria efectiva y residual de no clausura no afectaría sólo a un cálculo aislado. Implicaría trabajar con una cadena formal completa y con sus restricciones de dominio. Por esa razón, la publicación previa no es una cortesía editorial ni un gesto de difusión: es condición de claridad científica, trazabilidad, contraste internacional, preservación de autoría y colaboración técnica ordenada.
+La eventual utilización de la Lanzadera Ómicron, de las cartas auxiliares radiales, de la lectura desde O_U=(0,0), de la separación entre R_U, R_aux,loc^SV, radio comóvil externo, densidad de capacidad, sutura gravitatoria efectiva y residual de no clausura no afectaría sólo a un cálculo aislado. Implicaría trabajar con una cadena formal completa y con sus restricciones de dominio. Por esa razón, la publicación previa no es una cortesía editorial ni un gesto de difusión: es condición de claridad científica, trazabilidad, contraste internacional, preservación de autoría y colaboración técnica ordenada.
 
-## Scientific justification for publication prior to contrast, implementation or technical exploitation
+### Scientific justification for publication prior to contrast, implementation or technical exploitation
 
-The formulation of *Radius, Boundary and Density of the Observable Universe — Cosmological Trilogy, Part III* and its attached corollary cannot be framed as a private, opaque or merely instrumental development. The work publicly fixes a formal architecture coordinating structural radius, age-boundary, external comoving radius, cosmological constant, capacity density, returned materiality, effective gravitational suture, residual non-closure, the SV Threshold Line, Omicron Launcher, `(0,0) → Earth` origin shift, radial auxiliary charts and criteria for admitting external data. This prior fixation enables any subsequent contrast, criticism, implementation, computational reading, technical development or academic review to be compared against a prior and traceable formulation, without opportunistic reconstructions or displacement of authorship.
+The formulation of *Radius, Boundary and Density of the Observable Universe — Cosmological Trilogy, Part III* and its attached corollary cannot be framed as a private, opaque or merely instrumental development. The work publicly fixes a formal architecture coordinating structural radius, age-boundary, external comoving radius, cosmological constant, capacity density, returned materiality, effective gravitational suture, residual non-closure, the SV Threshold Line, Omicron Launcher, (0,0) → Earth origin shift, radial auxiliary charts and criteria for admitting external data. This prior fixation enables any subsequent contrast, criticism, implementation, computational reading, technical development or academic review to be compared against a prior and traceable formulation, without opportunistic reconstructions or displacement of authorship.
 
 The scientific relevance of the results does not lie in proclaiming immediate external recognition or in replacing the procedures of Contemporary Science. It lies in opening a region of formal contrast where observational cosmology, metrology, geometry, stabilised external data, age-related records, SV domains and mathematical return may be confronted under declared criteria. The value of the development lies precisely at that boundary: not in denying current scientific practice, not in usurping its instrumental plane and not in allowing it to replace the formal plane of the Vectorial System SV. Prior publication fixes the conditions of that confrontation before derived uses, implementations, partial validations or external applications arise.
 
-Prior publication also fulfils a function of scientific and legal ordering. It enables any interested entity to know exactly what is formulated, what is calculated, what is admitted as external data, what remains residual, what is not substantialised, what remains as `U`, which results are internal, which returns are metrological and which uses require authorisation. At the same time, it preserves authorship traceability, delimits the reservation of intellectual property rights and prevents subsequent technical implementation from being separated from the formulation that makes it possible. Without this public fixation, any later phase could be confused with a generic application of cosmological data or with an external recomposition of results; with it, every subsequent use is situated in relation to a previously defined architecture.
+Prior publication also fulfils a function of scientific and legal ordering. It enables any interested entity to know exactly what is formulated, what is calculated, what is admitted as external data, what remains residual, what is not substantialised, what remains as U, which results are internal, which returns are metrological and which uses require authorisation. At the same time, it preserves authorship traceability, delimits the reservation of intellectual property rights and prevents subsequent technical implementation from being separated from the formulation that makes it possible. Without this public fixation, any later phase could be confused with a generic application of cosmological data or with an external recomposition of results; with it, every subsequent use is situated in relation to a previously defined architecture.
 
-The possible use of the Omicron Launcher, radial auxiliary charts, the reading from `O_U=(0,0)`, the separation between `R_U`, `R_aux,loc^SV`, external comoving radius, capacity density, effective gravitational suture and residual non-closure would not affect only an isolated calculation. It would entail working with a complete formal chain and with its domain restrictions. For that reason, prior publication is neither an editorial courtesy nor a gesture of dissemination: it is a condition of scientific clarity, traceability, international contrast, preservation of authorship and ordered technical collaboration.
+The possible use of the Omicron Launcher, radial auxiliary charts, the reading from O_U=(0,0), the separation between R_U, R_aux,loc^SV, external comoving radius, capacity density, effective gravitational suture and residual non-closure would not affect only an isolated calculation. It would entail working with a complete formal chain and with its domain restrictions. For that reason, prior publication is neither an editorial courtesy nor a gesture of dissemination: it is a condition of scientific clarity, traceability, international contrast, preservation of authorship and ordered technical collaboration.
