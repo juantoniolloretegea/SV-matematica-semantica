@@ -7,6 +7,7 @@
 ---
 
 <table>
+<table>
 <tr>
 <td width="35%">
 
