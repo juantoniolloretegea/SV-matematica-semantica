@@ -20,8 +20,6 @@ el final de la fase de gigante roja. La unidad aⱼ es el año juliano: 1 aⱼ =
 Estas abreviaturas son instrumentos de cálculo, no autoridades externas ni sustitutos del dominio físico
 declarado.
 
-
-
 ---
 
 # Índice
@@ -94,7 +92,7 @@ VII.7. Criterio de precisión y condiciones de no determinación
 
 **VIII. Contraste SV–NASA**
 VIII.1. Qué dice NASA en formulación divulgativa
-VIII.2. Qué formalizal Sistema Vectorial SV
+VIII.2. Qué formaliza el Sistema Vectorial SV
 VIII.3. Secuencia principal y diferencia entre redondeo y cálculo de dominio
 VIII.4. Gigante roja, duración relativa y porcentaje calculado
 VIII.5. Transición final hacia enana blanca
@@ -228,9 +226,7 @@ conserva su valor, mientras el SV precisa su formulación mediante cálculo estr
 # 0.1. Resumen técnico ampliado
 
 Se trabaja con dos dominios. En dominio sistémico, Ωₛₛ, el punto de partida es Aₛₛ = 4.568.000.000 aⱼ; en
-dominio solar individual, Ω☉, el punto de partida es A☉ = 4.570.000.000 aⱼ. Los tramos admitidos como contraste
-externo son
-Δ_MS,resto = 5.000.000.000 aⱼ, Δ_RG = 1.000.000.000 aⱼ y Δ_PN→WD = 10.000 aⱼ. La entrada en régimen de enana blanca
+dominio solar individual, Ω☉, el punto de partida es A☉ = 4.570.000.000 aⱼ. Los tramos admitidos como contraste externo son Δ_MS,resto = 5.000.000.000 aⱼ, Δ_RG = 1.000.000.000 aⱼ y Δ_PN→WD = 10.000 aⱼ. La entrada en régimen de enana blanca
 se calcula por recomposición formal: A_WD^(O_D) = A_actual,D + Δ_MS,resto + Δ_RG + Δ_PN→WD. En dominio
 sistémico, esta cadena devuelve A_WD(Oₛₛ) = 10.568.010.000 aⱼ; en dominio solar individual, devuelve A_WD(O☉) =
 10.570.010.000 aⱼ.
@@ -248,7 +244,7 @@ permanencia restante de 5.000.000.000 aⱼ, fase gigante roja de 1.000.000.000 a
 el corte externo compuesto sería 10.600.010.000 aⱼ. Frente al resultado SV sistémico, 10.568.010.000 aⱼ, la
 diferencia baja a 32.000.000 aⱼ; frente al dominio solar individual, 10.570.010.000 aⱼ, baja a 30.000.000 aⱼ.
 Esa doble comparación es importante: el SV no sólo señala el error del bloque redondeado de 10.000.000.000 aⱼ,
-sino que muestra cómo cambial residual cuando se explicital encadenamiento externo y el dominio de partida.
+sino que muestra cómo cambia el residual cuando se explicita el encadenamiento externo y el dominio de partida.
 
 El porcentaje de la fase gigante roja en el bloque SV sistémico es 9,462519 %; el porcentaje de la secuencia
 principal es 90,537386 %; y el de la transición final hacia enana blanca es 0,0000946 %. En el bloque NASA de
@@ -265,7 +261,7 @@ estelar y las bases de datos físicas aportan retornos externos, vocabulario té
 observadas o modelizadas y magnitudes de orientación. Su función es imprescindible para saber qué se está
 contrastando, pero no sustituye la validación interna del cálculo. El SV no pregunta a NASA si una magnitud del
 SV se admite; toma las formulaciones externas, declara su dominio, las devuelve a una estructura de cálculo y
-evalúal residual que dejan.
+evalúa el residual que dejan.
 
 Los porcentajes empleados no son estadísticas ni probabilidades. Son cocientes deterministas entre magnitudes ya
 declaradas sobre un denominador explícito: fase frente a bloque total, tramo futuro frente a tramo restante o
@@ -285,7 +281,7 @@ del SV. El segundo consistiría en usar el cálculo SV como negación simplista 
 Ninguno de los dos procede. La descripción astrofísica contemporánea incluye procesos físicos reales: fusión de
 hidrógeno, agotamiento de combustible, expansión de capas externas, contracción del núcleo, expulsión de
 envoltura y enfriamiento del remanente. El Sistema Vectorial SV no niega esa secuencia. Lo que hace es formular
-con mayor disciplinal tránsito etario cuando el enunciado externo se presenta con magnitudes redondeadas.
+con mayor disciplina el tránsito etario cuando el enunciado externo se presenta con magnitudes redondeadas.
 
 Además, se distingue entre objeto y dominio. El Sol como estrella individual no equivale al Sistema Solar como
 dominio sistémico. Por ello se trabajan dos cortes: A☉ = 4.570.000.000 aⱼ para el objeto solar y Aₛₛ =
@@ -361,7 +357,7 @@ cifra redondeada puede ser suficiente para divulgación y, al mismo tiempo, insu
 exacta. Por eso este análisis no convierte el redondeo NASA en error de contenido; muestra que el redondeo no
 equivale a admisión formal. El valor científico del contraste consiste precisamente en distinguir esos planos
 sin enfrentarlos: el plano astrofísico contemporáneo describe la evolución solar; el Sistema Vectorial SV
-formalizal tránsito etario bajo sus condiciones propias.
+formaliza el tránsito etario bajo sus condiciones propias.
 
 ## I.5. Límites de expresiones como “unos”, “casi” y “mucho menos tiempo” en un cálculo de precisión
 
@@ -435,7 +431,7 @@ declara si el punto de partida es la edad del Sol individual, la edad del Sistem
 de vida total.
 
 Una frase así puede tener valor pedagógico y, al mismo tiempo, ser insuficiente como dato formal. El cálculo SV
-no rechazal contenido físico de la frase; rechaza que la frase opere como determinación. Para adquirir rango formal,
+no rechaza el contenido físico de la frase; rechaza que la frase opere como determinación. Para adquirir rango formal,
 la magnitud debe transformarse en una cadena: corte actual declarado, tramo restante de secuencia principal,
 duración de la fase gigante roja, transición final hacia enana blanca y suma bajo origen. Sin esa cadena, el
 lector sabe la orientación general del destino solar, pero no conoce el porcentaje real, el error absoluto, el
@@ -503,7 +499,7 @@ permite ordenar el corte actual y el tramo situado sin convertir la magnitud ext
 
 La forma general de recomposición es A_destino(O_D) = A_actual,D + Δ_destino,D; en ella, D designal dominio
 declarado. Si D = SS, el origen formal es (0,0)_SS; si D = ☉, el origen formal es (0,0)_☉. Esta escritura evita
-una confusión central: el mismo tramo externo de contraste puede producir cortes distintos si cambial dominio
+una confusión central: el mismo tramo externo de contraste puede producir cortes distintos si cambia el dominio
 de partida. La recomposición sólo es formalmente limpia cuando el dominio aparece escrito desde el inicio y
 cuando el residual de la suma se anula.
 
@@ -561,7 +557,7 @@ A_RG,fin,D → Δ_PN→WD → A_WD,inicio,D
 
 Cada flecha representa tránsito de régimen o de tramo, no simple yuxtaposición verbal. La operación mantiene
 visible cuándo el Sol sigue en secuencia principal, cuándo entra en gigante roja, cuándo alcanza su término esa
-fase y cuándo entra en régimen de enana blanca. La Lanzadera, en este uso, disciplinal tránsito: no permite
+fase y cuándo entra en régimen de enana blanca. La Lanzadera, en este uso, disciplina el tránsito: no permite
 que “futuro del Sol” se diga como bloque indiferenciado.
 
 ## III.6. Residual algebraico y criterio de admisión formal
@@ -577,11 +573,11 @@ declarado, el resultado continúa siendo inválido por error de plano. Si el res
 correcto, la salida alcanza validez formal en el plano SV. Esta regla es la que diferencial cálculo formal de
 una frase aproximada: la frase puede orientar; el residual decide si la recomposición resulta válida.
 
-Paral dominio sistémico, la determinación se escribe.
+Para el dominio sistémico, la determinación se escribe.
 
 R_WD,SS = A_WD(Oₛₛ) − (Aₛₛ + Δ_MS,resto + Δ_RG + Δ_PN→WD)
 
-Paral dominio solar individual, la determinación se escribe.
+Para el dominio solar individual, la determinación se escribe.
 
 R_WD,☉ = A_WD(O☉) − (A☉ + Δ_MS,resto + Δ_RG + Δ_PN→WD)
 
@@ -589,7 +585,7 @@ Ambas formas pueden ser aptas, siempre que no se mezclen sus dominios.
 
 ## III.7. Restricción de no contaminación entre SV y bancos externos de contraste
 
-No se rechazal plano astrofísico contemporáneo, pero tampoco se interioriza sin control. Las magnitudes
+No se rechaza el plano astrofísico contemporáneo, pero tampoco se interioriza sin control. Las magnitudes
 externas se tratan como bancos de contraste: aportan tramos, descripciones físicas y nombres de régimen. No
 aportan fundamento del SV. Por ello, una cifra externa como “casi diez mil millones de años” debe entrar con su
 naturaleza visible: redondeo divulgativo, estimación general o descripción de orden de magnitud. No puede entrar
@@ -659,7 +655,7 @@ gigante roja. Se toma.
 
 Esta magnitud no entra como fundamento del SV. Entra como dato externo redondeado de contraste, procedente de la
 formulación contemporánea sobre el futuro solar. Su función consiste en permitir la construcción de una tabla
-formal: desde el corte actual declarado se sumal tramo restante de secuencia principal hasta la frontera de
+formal: desde el corte actual declarado se suma el tramo restante de secuencia principal hasta la frontera de
 gigante roja.
 
 En dominio sistémico.
@@ -678,7 +674,7 @@ El segundo tramo externo admitido como contraste es la duración de la fase de g
 
 Esta magnitud se incorpora como intervalo de régimen, no como descripción exhaustiva de todos los procesos
 físicos internos de la estrella. La fase de gigante roja puede incluir expansión, inestabilidad, pulsación,
-pérdida de capas externas y reordenación del núcleo. Paral cálculo etario, se toma como bloque de tránsito
+pérdida de capas externas y reordenación del núcleo. Para el cálculo etario, se toma como bloque de tránsito
 desde el inicio de gigante roja hastal término de esa fase.
 
 En dominio sistémico.
@@ -692,12 +688,12 @@ A_RG,fin(O☉) = A_RG,inicio(O☉) + Δ_RG
 ## IV.6. Tramo externo de contraste hacia enana blanca
 
 El tercer tramo externo admitido como contraste es la transición final desde la nebulosa planetaria hacia la
-enana blanca. Paral cálculo central se tomal tramo estrecho.
+enana blanca. Para el cálculo central se toma el tramo estrecho.
 
 Δ_PN→WD = 10.000 aⱼ
 
 Además, se conserva una sensibilidad lateral de 75.000 aⱼ procedente del mismo plano externo de contraste. Esa
-lectura amplia no sustituye el cálculo central: permite saber cuánto cambial corte de entrada en enana
+lectura amplia no sustituye el cálculo central: permite saber cuánto cambia el corte de entrada en enana
 blanca cuando el tramo final se interpreta con mayor amplitud. La diferencia entre ambas lecturas es 65.000 aⱼ,
 equivalente a 2.051.244.000.000 segundos.
 
@@ -834,7 +830,7 @@ régimen de enana blanca. La magnitud inicial es A☉ = 4.570.000.000 aⱼ, no A
 
 La declaración de dominio adopta esta forma: D = Ω☉ y A_actual,D = A☉.
 
-El cálculo conserva los mismos tramos externos de contraste que en el dominio sistémico, pero cambial origen
+El cálculo conserva los mismos tramos externos de contraste que en el dominio sistémico, pero cambia el origen
 de recomposición. Esta variación permite comprobar si el resultado final conserva limpiamente la diferencia
 entre objeto solar y dominio sistémico.
 
@@ -957,7 +953,7 @@ mantiene en U o se rechaza por error de plano cuando exista contradicción.
 ## VII.3. Horizonte raigal de régimen solar
 
 El horizonte raigal no equivale a duración efectiva fatalista. Aquí se usa como horizonte formal de retorno bajo
-dominio y métrica declarados. Paral tránsito solar hacia enana blanca, el corte formal de entrada en régimen
+dominio y métrica declarados. Para el tránsito solar hacia enana blanca, el corte formal de entrada en régimen
 remanente fija H_Ξ,WD(☉,Ωₛₛ,aⱼ) = A_WD(Oₛₛ) = 10.568.010.000 aⱼ y H_Ξ,WD(☉,Ω☉,aⱼ) = A_WD(O☉) = 10.570.010.000
 aⱼ. La fracción recorrida se expresa como f_Ξ(o,D,aⱼ)=m_D(o)/H_Ξ^aⱼ(o,D), y la apertura restante como
 α_Ξ(o,D,aⱼ)=1−f_Ξ(o,D,aⱼ).
@@ -1074,7 +1070,7 @@ condición de enana blanca. Estas cifras son útiles para comunicación general,
 una determinación formal de magnitudes. No declaran dominio, no distinguen siempre entre Sol individual y
 Sistema Solar, no expresan residual y no convierten el porcentaje de cada fase en resultado calculado.
 
-## VIII.2. Qué formalizal Sistema Vectorial SV
+## VIII.2. Qué formaliza el Sistema Vectorial SV
 
 El Sistema Vectorial SV toma esa secuencia externa como banco de contraste y la somete a una lectura de dominio.
 Primero separa el Sistema Solar como dominio sistémico, Ωₛₛ, del Sol como objeto físico individual, Ω☉. Después
