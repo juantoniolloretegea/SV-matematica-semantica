@@ -6,7 +6,7 @@
 
 **Autor:** Juan Antonio Lloret Egea  
 **ORCID:** 0000-0002-6634-3351  
-**Instituto Tecnológico Virtual de la Inteligencia Artificial paral Español (ITVIA)**  
+**Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)**  
 **IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411**  
 **Licencia:** CC BY-NC-ND 4.0  
 **Fecha:** Madrid, 2026
@@ -172,6 +172,12 @@ XV.4. Validación del cálculo y conservación del banco externo como contraste
 XVI.1. Fuentes internas del Sistema Vectorial SV
 XVI.2. Fuentes externas de contraste físico y astronómico
 
+**XVII. Cláusulas legales**
+XVII.1. Advertencia y reserva de derechos / Notice and reservation of rights
+XVII.2. Disposición sobre propiedad intelectual, desarrollos derivados, colaboración técnica y reserva de explotación / Provision on intellectual property
+XVII.3. Justificación científica de la publicación previa / Scientific justification for prior publication
+XVII.4. Imágenes externas: condiciones de uso / External images: terms of use
+
 ---
 
 # 0. Resumen
@@ -190,7 +196,7 @@ El problema se formula sobre dos dominios que no deben confundirse. El primero e
 sistémico, con edad Aₛₛ = 4.568.000.000 aⱼ. El segundo es el Sol como objeto físico individual, con edad A☉ =
 4.570.000.000 aⱼ. Esta diferencia, pequeña en escala astronómica ordinaria, es formalmente decisiva: el Sistema
 Solar no se sustituye por el Sol individual sin declarar cambio de dominio. A partir de esa distinción, se
-calculal tránsito solar hacia la fase de gigante roja y hacial régimen de enana blanca mediante origen
+calcula el tránsito solar hacia la fase de gigante roja y hacia el régimen de enana blanca mediante origen
 (0,0), tramo situado, patrón etario en años julianos y residual algebraico. La salida principal en dominio
 sistémico sitúa la entrada en régimen de enana blanca en 10.568.010.000 aⱼ; en dominio solar individual, en
 10.570.010.000 aⱼ.
@@ -209,7 +215,7 @@ comparan con el bloque externo; se calcula el error absoluto en años julianos; 
 recomposición bajo dominio. La fase de gigante roja ocupa, en la distribución SV sistémica, 9,462519 % del
 bloque hasta entrada en enana blanca, mientras la secuencia principal ocupa 90,537386 % y la transición final
 hacia enana blanca 0,0000946 %. La formulación no convierte el Sol en fundamento del SV ni eleva NASA a fuente
-de verdad: sitúa ambos lenguajes en su lugar, conserval material astrofísico contemporáneo como contraste y
+de verdad: sitúa ambos lenguajes en su lugar, conserva el material astrofísico contemporáneo como contraste y
 exige precisión donde hay redondeo.
 
 La conclusión es sobria. El relato físico y observacional del futuro solar se conserva disponible en el plano
@@ -241,7 +247,7 @@ demasiado simple. Si se toma la cadena divulgativa formada por edad solar redond
 permanencia restante de 5.000.000.000 aⱼ, fase gigante roja de 1.000.000.000 aⱼ y transición final de 10.000 aⱼ,
 el corte externo compuesto sería 10.600.010.000 aⱼ. Frente al resultado SV sistémico, 10.568.010.000 aⱼ, la
 diferencia baja a 32.000.000 aⱼ; frente al dominio solar individual, 10.570.010.000 aⱼ, baja a 30.000.000 aⱼ.
-Esa doble comparación es importante: el SV no sólo señalal error del bloque redondeado de 10.000.000.000 aⱼ,
+Esa doble comparación es importante: el SV no sólo señala el error del bloque redondeado de 10.000.000.000 aⱼ,
 sino que muestra cómo cambial residual cuando se explicital encadenamiento externo y el dominio de partida.
 
 El porcentaje de la fase gigante roja en el bloque SV sistémico es 9,462519 %; el porcentaje de la secuencia
@@ -282,8 +288,8 @@ envoltura y enfriamiento del remanente. El Sistema Vectorial SV no niega esa sec
 con mayor disciplinal tránsito etario cuando el enunciado externo se presenta con magnitudes redondeadas.
 
 Además, se distingue entre objeto y dominio. El Sol como estrella individual no equivale al Sistema Solar como
-dominio sistémico. Por ello se trabajan dos cortes: A☉ = 4.570.000.000 aⱼ paral objeto solar y Aₛₛ =
-4.568.000.000 aⱼ paral dominio sistémico. La diferencia de 2.000.000 aⱼ no debe ocultarse por parecer pequeña
+dominio sistémico. Por ello se trabajan dos cortes: A☉ = 4.570.000.000 aⱼ para el objeto solar y Aₛₛ =
+4.568.000.000 aⱼ para el dominio sistémico. La diferencia de 2.000.000 aⱼ no debe ocultarse por parecer pequeña
 frente a escalas de miles de millones de años. En un cálculo formal, toda sustitución de dominio debe
 declararse. Si se trabaja desde el Sistema Solar, se usa Aₛₛ; si se trabaja desde el Sol individual, se usa A☉.
 La mezcla silenciosa de ambos valores produciría una validación espuria.
@@ -303,21 +309,6 @@ ocupa cada fase y qué residual deja la recomposición.
 
 # I. Estado del arte físico contemporáneo sobre el futuro solar
 
-<table>
-<tr>
-<td width="40%">
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/The_Sun_NASA_SDO_AIA_20100819.jpg" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/The_Sun_NASA_SDO_AIA_20100819.jpg" alt="El Sol en secuencia principal captado por NASA/SDO/AIA, 19 de agosto de 2010" width="100%"></a>
-</td>
-<td width="60%">
-
-**El Sol en régimen de secuencia principal** — imagen del instrumento AIA (*Atmospheric Imaging Assembly*) del Observatorio de Dinámica Solar (SDO) de la NASA, captada el 19 de agosto de 2010 en ultravioleta extremo. Muestra el Sol en el estado físico que esta publicación toma como corte de partida del tránsito etario: el régimen ordinario de fusión de hidrógeno en helio que corresponde al corte actual Aₛₛ = 4.568.000.000 aⱼ (dominio sistémico) o A☉ = 4.570.000.000 aⱼ (objeto solar individual). Pulsa sobre la imagen para ver la resolución completa en GitHub.
-
-*Crédito: NASA/SDO/AIA. Dominio público (17 U.S.C. § 105).*
-
-</td>
-</tr>
-</table>
-
 ## I.1. El Sol como estrella de secuencia principal en la física contemporánea
 
 La física estelar contemporánea clasifica al Sol como una estrella de secuencia principal: una estrella que
@@ -332,21 +323,6 @@ y retorno de contraste. Aquí, el estado del arte externo se acepta en su plano 
 físico solar vigente y su evolución esperada; no decide la lectura interna del Sistema Vectorial SV.
 
 ## I.2. Entrada futura en fase de gigante roja
-
-<table>
-<tr>
-<td width="40%">
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Sun_red_giant_Mysid.png" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Sun_red_giant_Mysid.png" alt="Comparación a escala del Sol actual y el Sol como gigante roja. Autor: Mysid, CC BY-SA 3.0" width="100%"></a>
-</td>
-<td width="60%">
-
-**Comparación a escala: Sol actual y Sol como gigante roja** — diagrama vectorial que contrasta el tamaño del Sol en secuencia principal (diámetro ≈ 0,01 AU) con el tamaño proyectado en su fase de gigante roja (diámetro ≈ 2 AU), correspondiente al tramo Δ_MS,resto = 5.000.000.000 aⱼ desde el corte actual. Ilustra visualmente la frontera de régimen que el Sistema Vectorial SV formaliza como A_RG,inicio y la magnitud del tramo Δ_RG = 1.000.000.000 aⱼ declarado como contraste externo. Pulsa sobre la imagen para ver la resolución completa en GitHub.
-
-*Crédito: Mysid / Wikipedia / Wikimedia Commons. CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/*
-
-</td>
-</tr>
-</table>
 
 La física contemporánea sostiene que, cuando el Sol agote el hidrógeno disponible en el núcleo para sostener la
 fusión ordinaria, su estructura cambiará de régimen. El núcleo se contraerá y aumentará su temperatura, mientras
@@ -371,7 +347,7 @@ estrella ordinaria deja de sostenerse como objeto de secuencia principal, atravi
 pérdida de envoltura, y permanece reducida a un remanente compacto que se enfría progresivamente. En lenguaje
 SV, esta secuencia puede leerse como tránsito desde régimen activo ordinario hacia frontera de gigante roja y,
 después, hacia régimen remanente compacto. La expresión “enana blanca” entra como denominación física externa
-admitida en contraste; la determinación SV no la redefine, sino que calculal corte etario de entrada bajo
+admitida en contraste; la determinación SV no la redefine, sino que calcula el corte etario de entrada bajo
 dominio declarado.
 
 ## I.4. Diferencia entre divulgación científica, estimación astrofísica y determinación formal de magnitudes
@@ -406,7 +382,7 @@ recomposición. La tesis de esta sección es clara: la divulgación orienta; la 
 
 El objeto del cálculo no es la edad absoluta de la totalidad, ni una edad del Universo, ni una cronología total
 de lo real. El objeto tratado es más preciso: el tránsito del Sol desde su régimen ordinario de secuencia
-principal hacia la fase de gigante roja y, después, hacial régimen de enana blanca. Esa delimitación impide un
+principal hacia la fase de gigante roja y, después, hacia el régimen de enana blanca. Esa delimitación impide un
 primer error de plano. El Sol es un objeto físico interno, situado dentro de un dominio observable y
 perteneciente al Sistema Solar; por ello, puede recibir edad, fase, evolución y frontera de régimen. La
 totalidad absoluta, en cambio, no puede recibir edad física en el mismo sentido, porque no comparece como objeto
@@ -640,11 +616,7 @@ dominio declarado, que permite recomponer la edad de entrada en cada régimen si
 físico ordinario. La quinta es el residual algebraico de recomposición, que decide si la suma de corte actual y
 tramos declarados alcanza admisión formal.
 
-Las magnitudes de referencia principales son.
-
-Aₛₛ = 4.568.000.000 aⱼ
-
-A☉ = 4.570.000.000 aⱼ
+Las magnitudes de referencia principales son Aₛₛ = 4.568.000.000 aⱼ y A☉ = 4.570.000.000 aⱼ.
 
 La diferencia entre ambas es A☉ − Aₛₛ = 2.000.000 aⱼ.
 
@@ -849,7 +821,7 @@ hasta ese régimen es.
 
 La lectura final de este apartado es directa: en dominio sistémico, el tránsito solar hacia enana blanca se
 se calcula mediante suma de tramos declarados y residual algebraico nulo. El dato externo orienta los tramos; el SV
-ordenal dominio, la recomposición y el resultado.
+ordena el dominio, la recomposición y el resultado.
 
 # VI. Determinación SV del tránsito solar con dominio de objeto individual
 
@@ -860,11 +832,7 @@ La segunda determinación se formula sobre el Sol como objeto físico individual
 concreta que atraviesa la secuencia evolutiva: secuencia principal, fase de gigante roja, pérdida de envoltura y
 régimen de enana blanca. La magnitud inicial es A☉ = 4.570.000.000 aⱼ, no Aₛₛ = 4.568.000.000 aⱼ.
 
-La declaración de dominio adopta esta forma.
-
-D = Ω☉
-
-A_actual,D = A☉
+La declaración de dominio adopta esta forma: D = Ω☉ y A_actual,D = A☉.
 
 El cálculo conserva los mismos tramos externos de contraste que en el dominio sistémico, pero cambial origen
 de recomposición. Esta variación permite comprobar si el resultado final conserva limpiamente la diferencia
@@ -872,7 +840,7 @@ entre objeto solar y dominio sistémico.
 
 ## VI.2. Origen solar (0,0)_☉
 
-El origen solar (0,0)_☉ funciona como referencia formal de recomposición paral objeto solar. No se identifica
+El origen solar (0,0)_☉ funciona como referencia formal de recomposición para el objeto solar. No se identifica
 con el núcleo físico del Sol ni con un punto espacial dentro de la estrella. Su función es ordenar el corte
 etario del objeto y los tramos de tránsito hastal régimen de enana blanca. La forma general es.
 
@@ -949,27 +917,12 @@ La diferencia entre el resultado solar individual y el resultado sistémico es A
 10.570.010.000 − 10.568.010.000. La diferencia es A_WD(O☉) − A_WD(Oₛₛ) = 2.000.000 aⱼ.
 
 La diferencia final coincide exactamente con la diferencia inicial entre A☉ y Aₛₛ. Esto confirma que el cálculo
-conserval dominio y que no mezclal objeto solar con el Sistema Solar. La lectura final de este apartado es,
+conserva el dominio y que no mezcla el objeto solar con el Sistema Solar. La lectura final de este apartado es,
 en consecuencia, doble: en dominio solar individual, el Sol entra en régimen de enana blanca en 10.570.010.000
 aⱼ; en dominio sistémico, el corte correspondiente era 10.568.010.000 aⱼ. Ambas salidas son compatibles porque
 proceden de dominios distintos y residuales nulos.
 
 # VII. Matriz SV de tránsito por fases solares, horizonte raigal y precisión metrológica
-
-<table>
-<tr>
-<td width="40%">
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Evolution_of_a_Sun-Like_Star_SVS14906_NASA.png" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Evolution_of_a_Sun-Like_Star_SVS14906_NASA.png" alt="Evolución de una estrella de masa solar — NASA Goddard / Scientific Visualization Studio (SVS14906)" width="100%"></a>
-</td>
-<td width="60%">
-
-**Evolución completa de una estrella de masa solar** — ilustración científica del NASA Scientific Visualization Studio (Goddard Space Flight Center, SVS14906). Muestra la secuencia completa: secuencia principal → expansión hacia gigante roja → pérdida de envoltura → nebulosa planetaria → enana blanca. Corresponde exactamente a la cadena Δ_MS,resto + Δ_RG + Δ_PN→WD formalizada en esta publicación, y a los cortes A_RG,inicio, A_RG,fin y A_WD calculados en los dominios Ωₛₛ y Ω☉. Pulsa sobre la imagen para ver la resolución completa en GitHub.
-
-*Crédito: NASA Goddard Space Flight Center / Scientific Visualization Studio. Dominio público (17 U.S.C. § 105).*
-
-</td>
-</tr>
-</table>
 
 ## VII.1. Función formal de la matriz de tránsito
 
@@ -1110,7 +1063,7 @@ cuando falte dominio, unidad, frontera, canal, traza o retorno.
 
 ## VIII.1. Qué dice NASA en formulación divulgativa
 
-La formulación NASA presental futuro solar mediante una secuencia física reconocible, apoyada aquí en fuentes
+La formulación NASA presenta el futuro solar mediante una secuencia física reconocible, apoyada aquí en fuentes
 NASA sobre el Sol, estrellas semejantes al Sol, fase de gigante roja y transición a enana blanca: el Sol continúa
 en régimen de secuencia principal, agotará progresivamente el hidrógeno que sostiene su equilibrio ordinario,
 entrará en fase de gigante roja, expulsará capas externas, formará una nebulosa planetaria y terminará
@@ -1124,7 +1077,7 @@ Sistema Solar, no expresan residual y no convierten el porcentaje de cada fase e
 ## VIII.2. Qué formalizal Sistema Vectorial SV
 
 El Sistema Vectorial SV toma esa secuencia externa como banco de contraste y la somete a una lectura de dominio.
-Primero separal Sistema Solar como dominio sistémico, Ωₛₛ, del Sol como objeto físico individual, Ω☉. Después
+Primero separa el Sistema Solar como dominio sistémico, Ωₛₛ, del Sol como objeto físico individual, Ω☉. Después
 fija los cortes de partida: Aₛₛ = 4.568.000.000 aⱼ y A☉ = 4.570.000.000 aⱼ. A continuación declara los tramos
 externos admitidos como contraste. Δ_MS,resto = 5.000.000.000 aⱼ, Δ_RG = 1.000.000.000 aⱼ y Δ_PN→WD = 10.000 aⱼ.
 Finalmente recompone cada salida desde el origen formal del dominio y verifica residual nulo. La determinación
@@ -1232,7 +1185,7 @@ fijada, ya no basta con decir “casi”. El cálculo debe mostrar qué dominio 
 qué porcentaje ocupa cada fase y qué error absoluto aparece frente al bloque externo.
 
 La conclusión de este contraste es: la formulación NASA conserva valor como redondeo, pero ese redondeo no
-gobiernal cálculo SV. El relato físico del futuro solar se conserva disponible en el plano astrofísico
+gobierna el cálculo SV. El relato físico del futuro solar se conserva disponible en el plano astrofísico
 contemporáneo; el Sistema Vectorial SV devuelve precisión etaria, distribución porcentual, error absoluto y
 residual. La fórmula sintética del contraste se fija así.
 
@@ -1397,11 +1350,7 @@ visible lo que el redondeo oculta.
 El tramo futuro desde el corte actual hasta la entrada en enana blanca es el mismo en ambos dominios si se
 conservan los tramos de contraste.
 
-Δ_actual→WD = Δ_MS,resto + Δ_RG + Δ_PN→WD
-
-Δ_actual→WD = 5.000.000.000 + 1.000.000.000 + 10.000
-
-Δ_actual→WD = 6.000.010.000 aⱼ
+Δ_actual→WD = Δ_MS,resto + Δ_RG + Δ_PN→WD = 5.000.000.000 + 1.000.000.000 + 10.000 = 6.000.010.000 aⱼ.
 
 Su distribución interna es.
 
@@ -1520,7 +1469,7 @@ En dominio sistémico, el inicio de gigante roja se sitúa en 9.568.000.000 aⱼ
 10.568.000.000 aⱼ; la entrada en enana blanca se sitúa en 10.568.010.000 aⱼ. En dominio solar individual, los
 cortes son 9.570.000.000 aⱼ, 10.570.000.000 aⱼ y 10.570.010.000 aⱼ. La diferencia entre término de la fase gigante roja y
 entrada en enana blanca es de 10.000 aⱼ. Es un tramo menor frente a miles de millones de años, pero cumple una
-función formal: separal agotamiento de una fase de la entrada en el régimen siguiente.
+función formal: separa el agotamiento de una fase de la entrada en el régimen siguiente.
 
 La formulación externa puede condensar esa cadena en una frase única: el Sol será gigante roja y después enana
 blanca. La formalización SV no permite esa condensación cuando se exige cálculo. El inicio de una fase, la
@@ -1557,7 +1506,7 @@ El patrón etario se fija por el año juliano.
 1 aⱼ = 365,25 d = 31.557.600 s
 
 Esa definición permite convertir las magnitudes principales a segundos sin cambiar de dominio. La conversión no
-gobiernal cálculo; sólo devuelve una lectura metrológica externa. Bajo esa unidad, el error absoluto de
+gobierna el cálculo; sólo devuelve una lectura metrológica externa. Bajo esa unidad, el error absoluto de
 432.000.000 aⱼ equivale a.
 
 432.000.000 · 31.557.600 = 13.632.883.200.000.000 s
@@ -1575,7 +1524,7 @@ La lectura porcentual exige declarar denominador. Si el denominador es el total 
 0,0000946 %. Si el denominador es el total del bloque NASA de contraste, 11.000.010.000 aⱼ, la secuencia
 principal ocupa 90,909008 %, la gigante roja 9,090901 % y la transición final 0,0000909 %. No hay un porcentaje
 único si no se declara el denominador. Éste es uno de los puntos donde la precisión SV supera la frase
-cualitativa: no sólo calculal porcentaje, sino que declara de qué totalidad procede.
+cualitativa: no sólo calcula el porcentaje, sino que declara de qué totalidad procede.
 
 ## X.6. Contraste de error, diferencia absoluta, diferencia relativa y denominador declarado
 
@@ -1658,7 +1607,7 @@ resultado etario principal.
 
 La oportunidad de incorporar un dato depende de su capacidad para mejorar el resultado sin desviar la pregunta.
 En este estudio conserva tres planos complementarios. El primero es el plano de redondeo de edad inicial. NASA
-presental Sol como objeto de unos 4,5 miles de millones de años y también describe la formación solar en torno
+presenta el Sol como objeto de unos 4,5 miles de millones de años y también describe la formación solar en torno
 a 4,6 miles de millones de años; el SV trabaja con Aₛₛ = 4.568.000.000 aⱼ y A☉ = 4.570.000.000 aⱼ. Esa
 diferencia explica por qué un redondeo externo puede ser útil y, al mismo tiempo, no basta para determinar el
 dominio. El segundo es el plano de cadena divulgativa compuesta: si se encadenan 4.600.000.000 aⱼ +
@@ -1757,10 +1706,10 @@ su función propia: composición, masa, luminosidad, equilibrio hidrostático, f
 expansión de envoltura, remanente compacto y enfriamiento posterior. Esos procesos pertenecen al lenguaje físico
 externo y deben ser respetados como tales.
 
-Lo que el SV añade es distinto: ordenal dato externo bajo dominio declarado. Cuando el lenguaje astrofísico
+Lo que el SV añade es distinto: ordena el dato externo bajo dominio declarado. Cuando el lenguaje astrofísico
 indica que el Sol abandona la secuencia principal, la lectura SV exige precisar desde qué corte se mide, qué
 dominio se declara, qué tramo se suma y cuál es el residual. Cuando el lenguaje astrofísico indica que el Sol
-pasará a gigante roja y después a enana blanca, el SV separal inicio de la fase, su término y la entrada
+pasará a gigante roja y después a enana blanca, el SV separa el inicio de la fase, su término y la entrada
 en régimen remanente. La aportación del SV no consiste en negar el proceso físico, sino en formalizar la
 atribución etaria de ese proceso.
 
@@ -1789,7 +1738,7 @@ Por
 último, no se apoya en autoridad externa como fundamento. NASA no decide la validez SV; aporta la
 secuencia física de contraste y sus tramos redondeados.
 
-Esta distinción conserval alcance de cada plano: la formulación NASA conserva su función como comunicación
+Esta distinción conserva el alcance de cada plano: la formulación NASA conserva su función como comunicación
 científica redondeada y el SV conserva su admisión formal, sin permitir que una cifra externa sustituya la
 recomposición del dominio declarado. La validez formal no nace de autoridad, sino de declaración de magnitudes y
 residual nulo. Si faltara dominio, la salida permanecería sin determinación formal. Si faltara residual nulo, la
@@ -1805,7 +1754,7 @@ contracción del núcleo, expansión de capas externas y transformación del mod
 SV, ese tránsito no es una variación superficial: es paso de régimen.
 
 El cálculo lo recoge mediante A_RG,inicio y A_RG,fin. La entrada en gigante roja marca la frontera entre
-secuencia principal y fase posterior. El término de la fase gigante roja marcal agotamiento del bloque declarado para
+secuencia principal y fase posterior. El término de la fase gigante roja marca el agotamiento del bloque declarado para
 esa fase. Entre ambos cortes aparece Δ_RG = 1.000.000.000 aⱼ. La frase externa “mucho menos tiempo” se traduce
 aquí: no se abandona, se mide. En dominio sistémico, la gigante roja ocupa 9,462519 % del bloque hasta entrada
 en enana blanca. Ese porcentaje sustituye la vaguedad por magnitud.
@@ -1828,7 +1777,7 @@ distintos.
 ## XII.7. Valor científico del contraste coordinado con NASA
 
 El valor científico del contraste no consiste en oponer el SV a NASA. Consiste en colocar ambos planos en una
-relación ordenada. La formulación NASA presental futuro solar con lenguaje de divulgación y con cifras
+relación ordenada. La formulación NASA presenta el futuro solar con lenguaje de divulgación y con cifras
 redondeadas. El SV toma esa información como referencia externa y la somete a dominio, origen, tramo, porcentaje
 y residual. La consecuencia es una precisión que no destruye el dato externo, sino que lo mejora en el plano
 formal.
@@ -1837,7 +1786,7 @@ La frase “NASA redondea; el Sistema Vectorial SV formaliza” debe entenderse 
 confrontación; es una delimitación de funciones. El redondeo comunica; la formalización determina. La
 divulgación permite que un público amplio comprendal destino del Sol; el cálculo SV permite saber cuánto dura
 cada fase, qué porcentaje ocupa, qué error absoluto aparece frente al bloque externo y qué dominio se ha usado.
-La relación es aditiva: conserval fenómeno físico descrito por la astrofísica y añade una regla de precisión
+La relación es aditiva: conserva el fenómeno físico descrito por la astrofísica y añade una regla de precisión
 para que el dato no se presente con más precisión de la que realmente tiene.
 
 # XIII. Restricciones de interpretación
@@ -1938,21 +1887,6 @@ científica del SV: no simula precisión donde no hay determinación.
 
 # XIV. Resultado
 
-<table>
-<tr>
-<td width="40%">
-<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Solar_Life_Cycle_Oliverbeatson.png" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Solar_Life_Cycle_Oliverbeatson.png" alt="Ciclo de vida del Sol — Oliverbeatson, Wikimedia Commons, dominio público" width="100%"></a>
-</td>
-<td width="60%">
-
-**Ciclo de vida completo del Sol** — diagrama que recorre la secuencia completa: nebulosa → protoestrella → secuencia principal → subgigante → gigante roja → nebulosa planetaria → enana blanca. Sitúa visualmente el arco de la publicación: el corte actual en secuencia principal (Aₛₛ = 4.568.000.000 aⱼ), el tramo restante hasta la gigante roja (Δ_MS,resto = 5.000.000.000 aⱼ), la fase de gigante roja (Δ_RG = 1.000.000.000 aⱼ), la transición final (Δ_PN→WD = 10.000 aⱼ) y la entrada en régimen de enana blanca (A_WD(Oₛₛ) = 10.568.010.000 aⱼ). Pulsa sobre la imagen para ver la resolución completa en GitHub.
-
-*Crédito: Oliverbeatson / Wikimedia Commons. Dominio público (PD-self).*
-
-</td>
-</tr>
-</table>
-
 ## XIV.1. Resultado principal en dominio sistémico
 
 En dominio sistémico, el cálculo toma como corte actual Aₛₛ = 4.568.000.000 aⱼ. Los tramos declarados son
@@ -1989,23 +1923,9 @@ aⱼ.
 
 El contraste con el bloque NASA de contraste se establece sobre el bloque externo redondeado.
 
-Δ_MS,total^NASA = 10.000.000.000 aⱼ
+Con Δ_MS,total^NASA = 10.000.000.000 aⱼ, Δ_RG^NASA = 1.000.000.000 aⱼ y Δ_PN→WD^NASA = 10.000 aⱼ, se obtiene Δ_total^NASA = 11.000.010.000 aⱼ.
 
-Δ_RG^NASA = 1.000.000.000 aⱼ
-
-Δ_PN→WD^NASA = 10.000 aⱼ
-
-Así, Δ_total^NASA = 11.000.010.000 aⱼ.
-
-El SV, en dominio sistémico, devuelve.
-
-Δ_MS,total^SV = 9.568.000.000 aⱼ
-
-Δ_RG^SV = 1.000.000.000 aⱼ
-
-Δ_PN→WD^SV = 10.000 aⱼ
-
-Así, Δ_total^SV = 10.568.010.000 aⱼ.
+El SV, en dominio sistémico, devuelve Δ_MS,total^SV = 9.568.000.000 aⱼ, Δ_RG^SV = 1.000.000.000 aⱼ y Δ_PN→WD^SV = 10.000 aⱼ, lo que da Δ_total^SV = 10.568.010.000 aⱼ.
 
 La comparación principal se presenta.
 
@@ -2039,7 +1959,7 @@ debe declarar su campo de referencia. Frente al total del bloque NASA de contras
 4,515050 %.
 
 Estas lecturas no se contradicen. Cada una usa un denominador distinto y debe declararlo. La forma más directa
-paral cuerpo principal es que el redondeo NASA se separa del cálculo SV sistémico en 432.000.000 aⱼ,
+para el cuerpo principal es que el redondeo NASA se separa del cálculo SV sistémico en 432.000.000 aⱼ,
 equivalentes al 4,32 % de la secuencia principal redondeada por NASA y al 4,515050 % de la secuencia principal
 calculada por SV.
 
@@ -2061,7 +1981,7 @@ contraste; el Sistema Vectorial SV conserva la admisión formal de dominio.
 
 La conclusión principal puede formularse de manera directa: NASA redondea; el Sistema Vectorial SV formaliza.
 Esta frase debe leerse como distinción de función científica, no como confrontación. La formulación NASA
-presental futuro solar con un lenguaje orientado a la comprensión general: el Sol continuará durante miles de
+presenta el futuro solar con un lenguaje orientado a la comprensión general: el Sol continuará durante miles de
 millones de años en su régimen actual, entrará después en fase de gigante roja, expulsará sus capas externas y
 terminará finalmente como enana blanca. El Sistema Vectorial SV no rechaza esa secuencia; la toma como banco
 externo de contraste y la convierte en cálculo formal mediante dominio declarado, origen (0,0), tramo situado,
@@ -2100,7 +2020,7 @@ blanca ocupa 0,0000946
 
 Esa salida no agota la astrofísica solar. No pretende sustituir modelos de evolución estelar, ni observación
 instrumental, ni simulaciones físicas. Su valor está en otro plano: formaliza la atribución etaria del tránsito
-solar y separal dato externo de su posible sobrelectura. El SV no convierte el redondeo NASA en error material
+solar y separa el dato externo de su posible sobrelectura. El SV no convierte el redondeo NASA en error material
 general; precisa algo más fino: la formulación redondeada de NASA es útil como contraste, pero insuficiente como
 determinación formal de precisión.
 
@@ -2184,3 +2104,86 @@ https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html
 NASA Hubble Mission Team. (s. f.). *Hubble Witnesses the Final Blaze of Glory of Sun-Like Stars*. NASA Science.
 https://science.nasa.gov/missions/hubble/hubble-witnesses-the-final-blaze-of-glory-of-sun-like-stars/
 
+---
+
+# XVII. Cláusulas legales
+
+## Advertencia y reserva de derechos
+
+Esta publicación, titulada *Contraste de precisión etaria solar SV–NASA. NASA redondea; el Sistema Vectorial SV formaliza*, incluida la totalidad de sus textos, formulaciones, estructura expositiva, tablas, cálculos, criterios de admisión, nomenclatura, dominios, tramos, residuales, retornos metrológicos, porcentajes, errores absolutos, archivos auxiliares y cualquier material complementario que forme parte de la obra o se publique vinculado a ella, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO u otra entidad competente.
+
+Cualquier forma de explotación de la obra o de partes sustanciales de ella —incluidas su reproducción, distribución, comunicación pública, puesta a disposición, transformación, traducción, adaptación, incorporación a bases de datos, minería de textos y datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas, desarrollos empresariales, sistemas de inteligencia artificial o herramientas de análisis científico— sólo podrá realizarse conforme a la licencia indicada, con autorización expresa y por escrito de los titulares de derechos, o al amparo de una excepción legal aplicable.
+
+La licencia indicada, CC BY-NC-ND 4.0, no autoriza usos comerciales, explotación empresarial, transformación distribuida, publicación de obras derivadas ni reutilización sustancial de la obra fuera de sus términos. La cita, la crítica científica, la revisión académica, el comentario, la referencia bibliográfica y el contraste independiente quedan permitidos dentro de los límites legales aplicables y con respeto a la autoría, integridad de la obra, licencia y condiciones de uso.
+
+La aplicación, implementación, explotación técnica o incorporación de los resultados, fórmulas, tablas, nomenclatura, metodología, criterios de admisión, dominios, tramos, residuales, retornos, Lanzadera Ómicron, origen (0,0), recomposición etaria bajo dominio o estructuras formales de esta obra en el campo de la física, la astronomía, la cosmología, la matemática aplicada, la metrología, la ingeniería, la inteligencia artificial, la ciencia de datos, la docencia técnica, la edición científica, la modelización computacional u otras ciencias derivadas queda reservada a la autorización expresa del autor cuando implique reproducción, transformación, comunicación pública, distribución, integración sustancial de la obra protegida, explotación comercial, desarrollo empresarial o uso no cubierto por la licencia.
+
+La presente reserva se formula sin perjuicio de los límites, excepciones y usos permitidos imperativamente por la ley. En la medida permitida por la legislación aplicable, cualquier controversia relativa a la explotación no autorizada, transformación, reutilización sustancial, comunicación pública, distribución, integración técnica, uso comercial, uso automatizado no autorizado, atribución indebida, alteración sustancial o vulneración de derechos sobre esta obra se someterá a la jurisdicción de los órganos competentes conforme al ordenamiento jurídico aplicable.
+
+## Notice and reservation of rights
+
+This publication, entitled *Contrast of Solar Age Precision SV–NASA. NASA rounds; the Vectorial System SV formalises*, including the entirety of its texts, formulations, expository structure, tables, calculations, admission criteria, nomenclature, domains, intervals, residuals, metrological returns, percentages, absolute errors, auxiliary files and any supplementary material forming part of the work or published in connection with it, is protected by the author's intellectual property rights and, where applicable, by the corresponding rights management through CEDRO or any other competent entity.
+
+Any form of exploitation of the work or of substantial parts thereof —including reproduction, distribution, public communication, making available, transformation, translation, adaptation, incorporation into databases, text and data mining, training or evaluation of automated systems, integration into products, services, reports, software, models, catalogues, teaching materials, industrial materials, technical publications, business developments, artificial intelligence systems or scientific analysis tools— may only be carried out in accordance with the indicated licence, with the express written authorisation of the rights holders, or under an applicable statutory exception.
+
+The indicated licence, CC BY-NC-ND 4.0, does not authorise commercial uses, business exploitation, distributed transformation, publication of derivative works or substantial reuse of the work outside its terms. Quotation, scientific criticism, academic review, commentary, bibliographic reference and independent contrast remain permitted within the applicable legal limits and with due respect for authorship, integrity of the work, licence and terms of use.
+
+The application, implementation, technical exploitation or incorporation of the results, formulas, tables, nomenclature, methodology, admission criteria, domains, intervals, residuals, returns, Omicron Launcher, (0,0) origin, age recomposition under domain or formal structures of this work in the field of physics, astronomy, cosmology, applied mathematics, metrology, engineering, artificial intelligence, data science, technical teaching, scientific publishing, computational modelling or other derived sciences is reserved to the express authorisation of the author where it entails reproduction, transformation, public communication, distribution, substantial integration of the protected work, commercial exploitation, business development or any use not covered by the licence.
+
+This reservation is made without prejudice to limitations, exceptions and uses that are mandatorily permitted by law. To the extent permitted by applicable law, any dispute concerning unauthorised exploitation, transformation, substantial reuse, public communication, distribution, technical integration, commercial use, unauthorised automated use, improper attribution, substantial alteration or infringement of rights over this work shall be subject to the jurisdiction of the competent courts and authorities under the applicable legal order.
+
+## Disposición sobre propiedad intelectual, desarrollos derivados, colaboración técnica y reserva de explotación
+
+La formulación científica y técnica de esta publicación puede dar lugar a desarrollos posteriores en astronomía formal, metrología etaria, modelización matemática, análisis de dominios, herramientas computacionales de precisión etaria, sistemas de representación de tránsito estelar, transductores, criterios de admisión de datos externos, aplicaciones docentes avanzadas, sistemas de evaluación científica o integraciones técnicas en entornos de inteligencia artificial. La publicación no constituye cesión, licencia, autorización de explotación técnica ni renuncia a derechos de propiedad intelectual, industrial o de explotación sobre métodos, procedimientos, criterios técnicos, matrices de análisis, secuencias de cálculo, modelos de transducción, sistemas de decisión etaria, estructuras de retorno, aplicaciones científicas o desarrollos derivados que puedan resultar registrables, protegibles, explotables mediante licencia, transferencia, acuerdo de colaboración, investigación conjunta o secreto empresarial.
+
+Cualquier universidad, laboratorio, centro tecnológico, entidad pública o privada, empresa, grupo de investigación, editor técnico, desarrollador de software, proveedor de sistemas de inteligencia artificial o institución que pretenda ejecutar, validar, ampliar, adaptar, automatizar, integrar, explotar técnicamente o reutilizar sustancialmente la metodología, las fórmulas, las tablas, los criterios de admisión, la Lanzadera Ómicron, el origen (0,0), las reglas de residual, los transductores etarios o la arquitectura general de esta obra deberá formalizar previamente un acuerdo escrito con el autor o con la entidad designada por éste cuando el uso proyectado exceda la cita, la crítica, la revisión académica, la lectura privada o el contraste independiente permitido por la ley y por la licencia.
+
+El acuerdo podrá reconocer, según corresponda, participación técnica, preferencia de colaboración, coautoría científica, licencia, derechos de explotación, opción de desarrollo, cotitularidad de resultados derivados o condiciones específicas de transferencia científica y tecnológica, siempre que la contribución material de la parte colaboradora quede documentada y aceptada por escrito. La aceptación de archivos, lectura de la obra, comentario técnico, revisión interna, comunicación informal, cita, análisis automatizado no autorizado, uso interno no autorizado o recepción de materiales no generará por sí sola derechos de explotación, prioridad técnica, licencia implícita ni expectativa jurídica sobre los métodos, formulaciones, estructuras, criterios o desarrollos derivados.
+
+Esta disposición no limita la crítica científica, la revisión académica, la comprobación independiente, la cita legítima ni los usos permitidos por la ley. Su finalidad es preservar la trazabilidad de autoría, la integridad formal de la obra, la eventual protección jurídica de desarrollos posteriores y la ordenación de futuras colaboraciones técnicas.
+
+## Provision on intellectual property, derived developments, technical collaboration and reservation of exploitation rights
+
+The scientific and technical formulation of this publication may give rise to subsequent developments in formal astronomy, age metrology, mathematical modelling, domain analysis, computational tools for age precision, stellar transit representation systems, transducers, criteria for admitting external data, advanced teaching applications, scientific assessment systems or technical integrations in artificial intelligence environments. Publication does not constitute assignment, licence, authorisation for technical exploitation or waiver of intellectual, industrial or exploitation rights over methods, procedures, technical criteria, analytical matrices, calculation sequences, transduction models, age decision systems, return structures, scientific applications or derived developments that may be registrable, protectable, exploitable through licensing, transfer, collaboration agreements, joint research or trade secrets.
+
+Any university, laboratory, technology centre, public or private entity, company, research group, technical publisher, software developer, artificial intelligence system provider or institution intending to execute, validate, expand, adapt, automate, integrate, technically exploit or substantially reuse the methodology, formulas, tables, admission criteria, Omicron Launcher, (0,0) origin, residual rules, age transducers or general architecture of this work must first formalise a written agreement with the author or with the entity designated by him where the intended use exceeds quotation, criticism, academic review, private reading or independent contrast permitted by law and by the licence.
+
+The agreement may recognise, as appropriate, technical participation, collaboration preference, scientific co-authorship, licence, exploitation rights, development option, co-ownership of derived results or specific scientific and technology-transfer conditions, provided that the material contribution of the collaborating party is documented and accepted in writing. Acceptance of files, reading of the work, technical comment, internal review, informal communication, citation, unauthorised automated analysis, unauthorised internal use or receipt of materials shall not by itself generate exploitation rights, technical priority, implied licence or legal expectation over the methods, formulations, structures, criteria or derived developments.
+
+This provision does not limit scientific criticism, academic review, independent verification, legitimate quotation or uses permitted by law. Its purpose is to preserve authorship traceability, the formal integrity of the work, possible legal protection of subsequent developments and the organisation of future technical collaborations.
+
+## Justificación científica de la publicación previa a contraste, implementación o explotación técnica
+
+La formulación de *Contraste de precisión etaria solar SV–NASA* no puede plantearse como un desarrollo privado, opaco o meramente instrumental. El trabajo fija públicamente una arquitectura formal que coordina edad del Sistema Solar como dominio sistémico, edad del Sol como objeto físico individual, tramos externos de contraste, origen (0,0) de recomposición, Lanzadera Ómicron, residual algebraico de admisión, porcentajes de fase, error absoluto y retorno metrológico. Esa fijación previa permite que cualquier contraste posterior, crítica, implementación, lectura computacional, desarrollo técnico o revisión académica pueda cotejarse con una formulación anterior y trazable, sin reconstrucciones oportunistas ni desplazamientos de autoría.
+
+La relevancia científica de los resultados no reside en proclamar reconocimiento externo inmediato ni en sustituir los procedimientos de la ciencia contemporánea. Reside en abrir una región de contraste formal donde astronomía observacional, metrología, datos externos estabilizados, registros etarios, dominios SV y retorno matemático puedan confrontarse bajo criterios declarados. El valor del desarrollo consiste precisamente en esa frontera: no negar la práctica científica vigente, no usurpar su plano instrumental y no permitir que ésta sustituya el plano formal del Sistema Vectorial SV. La publicación previa fija las condiciones de esa confrontación antes de que se produzcan usos derivados, implementaciones, validaciones parciales o aplicaciones externas.
+
+Sin esta fijación pública, la fase posterior podría confundirse con una aplicación genérica de datos astronómicos o con una recomposición externa de resultados; con ella, todo uso posterior queda situado frente a una arquitectura previamente definida.
+
+## Scientific justification for publication prior to contrast, implementation or technical exploitation
+
+The formulation of *Contrast of Solar Age Precision SV–NASA* cannot be framed as a private, opaque or merely instrumental development. The work publicly fixes a formal architecture coordinating the age of the Solar System as systemic domain, the age of the Sun as an individual physical object, external contrast intervals, (0,0) origin of recomposition, Omicron Launcher, algebraic residual of admission, phase percentages, absolute error and metrological return. This prior fixation enables any subsequent contrast, criticism, implementation, computational reading, technical development or academic review to be compared against a prior and traceable formulation, without opportunistic reconstructions or displacement of authorship.
+
+The scientific relevance of the results does not lie in proclaiming immediate external recognition or in replacing the procedures of contemporary science. It lies in opening a region of formal contrast where observational astronomy, metrology, stabilised external data, age records, SV domains and mathematical return may be confronted under declared criteria. The value of the development lies precisely at that boundary: not in denying current scientific practice, not in usurping its instrumental plane and not in allowing it to replace the formal plane of the Vectorial System SV. Prior publication fixes the conditions of that confrontation before derived uses, implementations, partial validations or external applications arise.
+
+Without this public fixation, any later phase could be confused with a generic application of astronomical data or with an external recomposition of results; with it, every subsequent use is situated in relation to a previously defined architecture.
+
+## Imágenes externas: condiciones de uso
+
+Las imágenes de terceros incluidas en esta publicación se rigen exclusivamente por las condiciones de uso de sus respectivos titulares, con independencia de la licencia CC BY-NC-ND 4.0 aplicable al texto, las formulaciones formales, las tablas, los criterios de admisión, la nomenclatura, los dominios, los tramos, los residuales, los retornos metrológicos, la Lanzadera Ómicron y los demás elementos originales del Sistema Vectorial SV que forman parte de esta obra. La protección y reserva de derechos sobre dichos elementos no quedan afectadas ni limitadas por la licencia que rige cada imagen externa.
+
+**Imágenes de NASA.** Los contenidos de la NASA producidos por empleados de la agencia en el ejercicio de sus funciones no están sujetos a derechos de autor en los Estados Unidos (17 U.S.C. § 105). Su uso queda sujeto a las directrices de uso de imágenes y medios de la agencia (https://www.nasa.gov/nasa-brand-center/images-and-media/): el material puede utilizarse con fines educativos o informativos sin autorización expresa; el uso no debe implicar, directa ni indirectamente, el patrocinio o el aval de la NASA hacia esta publicación, sus autores, el Sistema Vectorial SV ni ningún producto o actividad asociados; el emblema, el logotipo y el sello de la NASA no se reproducen en esta obra; es ilegal reclamar derechos sobre material de la NASA. La inclusión de imágenes de la NASA no implica que la NASA avale, patrocine ni endose el Sistema Vectorial SV, sus formulaciones, resultados ni metodología.
+
+**Imágenes en dominio público (PD-self / Wikimedia Commons).** Las imágenes publicadas bajo declaración de dominio público por sus autores pueden utilizarse sin restricciones y no imponen condición alguna sobre la obra que las contiene. El crédito se indica como práctica científica, no como obligación legal.
+
+**Imagen bajo CC BY-SA 3.0.** La imagen *Sun red giant* (Mysid / Wikimedia Commons) está licenciada bajo Creative Commons Atribución-CompartirIgual 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Esta imagen mantiene su propia licencia con independencia de la licencia CC BY-NC-ND 4.0 del texto. No se transforma ni se redistribuye como obra derivada; se referencia en su forma original con el crédito requerido: Mysid / Wikipedia / Wikimedia Commons / CC BY-SA 3.0.
+
+## External images: terms of use
+
+Third-party images included in this publication are governed exclusively by the terms of use of their respective rights holders, independently of the CC BY-NC-ND 4.0 licence applicable to the text, formal formulations, tables, admission criteria, nomenclature, domains, intervals, residuals, metrological returns, the Omicron Launcher and the other original elements of the Vectorial System SV forming part of this work. The protection and reservation of rights over those elements are not affected or limited by the licence governing each external image.
+
+**NASA images.** NASA content produced by agency employees in the performance of their duties is generally not subject to copyright in the United States (17 U.S.C. § 105). Its use is subject to the agency's Media Usage Guidelines (https://www.nasa.gov/nasa-brand-center/images-and-media/): the material may be used for educational or informational purposes without explicit permission; use must not explicitly or implicitly convey NASA's endorsement, sponsorship or approval of this publication, its authors, the Vectorial System SV or any associated product or activity; NASA's insignia, logotype and seal are not reproduced in this work; it is unlawful to falsely claim rights in NASA material. The inclusion of NASA images does not imply that NASA endorses, sponsors or approves the Vectorial System SV, its formulations, results or methodology.
+
+**Public domain images (PD-self / Wikimedia Commons).** Images published under a public domain declaration by their authors may be used without restriction and impose no condition on the work containing them. Credit is indicated as a matter of scientific practice, not legal obligation.
+
+**Image under CC BY-SA 3.0.** The image *Sun red giant* (Mysid / Wikimedia Commons) is licensed under Creative Commons Attribution-ShareAlike 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). This image retains its own licence independently of the CC BY-NC-ND 4.0 licence of the text. It is not transformed or redistributed as a derivative work; it is referenced in its original form with the required credit: Mysid / Wikipedia / Wikimedia Commons / CC BY-SA 3.0.
