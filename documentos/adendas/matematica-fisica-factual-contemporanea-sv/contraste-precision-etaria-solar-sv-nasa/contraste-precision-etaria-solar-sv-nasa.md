@@ -19,7 +19,7 @@ significa edad de entrada en régimen de enana blanca; A_RG,inicio y A_RG,fin no
 fase de gigante roja. La unidad aⱼ es el año juliano: 1 aⱼ = 365,25 días = 31.557.600 segundos. Estas abreviaturas
 son instrumentos de cálculo, no autoridades externas ni sustitutos del dominio físico declarado.
 
--
+--
 
 ---
 
