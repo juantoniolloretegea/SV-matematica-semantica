@@ -303,6 +303,21 @@ ocupa cada fase y qué residual deja la recomposición.
 
 # I. Estado del arte físico contemporáneo sobre el futuro solar
 
+<table>
+<tr>
+<td width="40%">
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/The_Sun_NASA_SDO_AIA_20100819.jpg" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/The_Sun_NASA_SDO_AIA_20100819.jpg" alt="El Sol en secuencia principal captado por NASA/SDO/AIA, 19 de agosto de 2010" width="100%"></a>
+</td>
+<td width="60%">
+
+**El Sol en régimen de secuencia principal** — imagen del instrumento AIA (*Atmospheric Imaging Assembly*) del Observatorio de Dinámica Solar (SDO) de la NASA, captada el 19 de agosto de 2010 en ultravioleta extremo. Muestra el Sol en el estado físico que esta publicación toma como corte de partida del tránsito etario: el régimen ordinario de fusión de hidrógeno en helio que corresponde al corte actual Aₛₛ = 4.568.000.000 aⱼ (dominio sistémico) o A☉ = 4.570.000.000 aⱼ (objeto solar individual). Pulsa sobre la imagen para ver la resolución completa en GitHub.
+
+*Crédito: NASA/SDO/AIA. Dominio público (17 U.S.C. § 105).*
+
+</td>
+</tr>
+</table>
+
 ## I.1. El Sol como estrella de secuencia principal en la física contemporánea
 
 La física estelar contemporánea clasifica al Sol como una estrella de secuencia principal: una estrella que
@@ -317,6 +332,21 @@ y retorno de contraste. Aquí, el estado del arte externo se acepta en su plano 
 físico solar vigente y su evolución esperada; no decide la lectura interna del Sistema Vectorial SV.
 
 ## I.2. Entrada futura en fase de gigante roja
+
+<table>
+<tr>
+<td width="40%">
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Sun_red_giant_Mysid.png" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Sun_red_giant_Mysid.png" alt="Comparación a escala del Sol actual y el Sol como gigante roja. Autor: Mysid, CC BY-SA 3.0" width="100%"></a>
+</td>
+<td width="60%">
+
+**Comparación a escala: Sol actual y Sol como gigante roja** — diagrama vectorial que contrasta el tamaño del Sol en secuencia principal (diámetro ≈ 0,01 AU) con el tamaño proyectado en su fase de gigante roja (diámetro ≈ 2 AU), correspondiente al tramo Δ_MS,resto = 5.000.000.000 aⱼ desde el corte actual. Ilustra visualmente la frontera de régimen que el Sistema Vectorial SV formaliza como A_RG,inicio y la magnitud del tramo Δ_RG = 1.000.000.000 aⱼ declarado como contraste externo. Pulsa sobre la imagen para ver la resolución completa en GitHub.
+
+*Crédito: Mysid / Wikipedia / Wikimedia Commons. CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/*
+
+</td>
+</tr>
+</table>
 
 La física contemporánea sostiene que, cuando el Sol agote el hidrógeno disponible en el núcleo para sostener la
 fusión ordinaria, su estructura cambiará de régimen. El núcleo se contraerá y aumentará su temperatura, mientras
@@ -925,6 +955,21 @@ aⱼ; en dominio sistémico, el corte correspondiente era 10.568.010.000 aⱼ. A
 proceden de dominios distintos y residuales nulos.
 
 # VII. Matriz SV de tránsito por fases solares, horizonte raigal y precisión metrológica
+
+<table>
+<tr>
+<td width="40%">
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Evolution_of_a_Sun-Like_Star_SVS14906_NASA.png" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Evolution_of_a_Sun-Like_Star_SVS14906_NASA.png" alt="Evolución de una estrella de masa solar — NASA Goddard / Scientific Visualization Studio (SVS14906)" width="100%"></a>
+</td>
+<td width="60%">
+
+**Evolución completa de una estrella de masa solar** — ilustración científica del NASA Scientific Visualization Studio (Goddard Space Flight Center, SVS14906). Muestra la secuencia completa: secuencia principal → expansión hacia gigante roja → pérdida de envoltura → nebulosa planetaria → enana blanca. Corresponde exactamente a la cadena Δ_MS,resto + Δ_RG + Δ_PN→WD formalizada en esta publicación, y a los cortes A_RG,inicio, A_RG,fin y A_WD calculados en los dominios Ωₛₛ y Ω☉. Pulsa sobre la imagen para ver la resolución completa en GitHub.
+
+*Crédito: NASA Goddard Space Flight Center / Scientific Visualization Studio. Dominio público (17 U.S.C. § 105).*
+
+</td>
+</tr>
+</table>
 
 ## VII.1. Función formal de la matriz de tránsito
 
@@ -1892,6 +1937,21 @@ cálculo cuando la información disponible no permite decisión formal. Esa cons
 científica del SV: no simula precisión donde no hay determinación.
 
 # XIV. Resultado
+
+<table>
+<tr>
+<td width="40%">
+<a href="https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Solar_Life_Cycle_Oliverbeatson.png" target="_blank"><img src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/Solar_Life_Cycle_Oliverbeatson.png" alt="Ciclo de vida del Sol — Oliverbeatson, Wikimedia Commons, dominio público" width="100%"></a>
+</td>
+<td width="60%">
+
+**Ciclo de vida completo del Sol** — diagrama que recorre la secuencia completa: nebulosa → protoestrella → secuencia principal → subgigante → gigante roja → nebulosa planetaria → enana blanca. Sitúa visualmente el arco de la publicación: el corte actual en secuencia principal (Aₛₛ = 4.568.000.000 aⱼ), el tramo restante hasta la gigante roja (Δ_MS,resto = 5.000.000.000 aⱼ), la fase de gigante roja (Δ_RG = 1.000.000.000 aⱼ), la transición final (Δ_PN→WD = 10.000 aⱼ) y la entrada en régimen de enana blanca (A_WD(Oₛₛ) = 10.568.010.000 aⱼ). Pulsa sobre la imagen para ver la resolución completa en GitHub.
+
+*Crédito: Oliverbeatson / Wikimedia Commons. Dominio público (PD-self).*
+
+</td>
+</tr>
+</table>
 
 ## XIV.1. Resultado principal en dominio sistémico
 
