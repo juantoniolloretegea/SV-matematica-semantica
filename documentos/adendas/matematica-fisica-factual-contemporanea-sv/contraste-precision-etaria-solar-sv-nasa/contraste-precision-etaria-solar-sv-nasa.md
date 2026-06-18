@@ -10,6 +10,7 @@
 **IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411**  
 **Licencia:** CC BY-NC-ND 4.0  
 **Fecha:** Madrid, 2026
+[DOI 10.21428/39829d0b.22c326bf](https://doi.org/10.21428/39829d0b.22c326bf)
 
 ![Portada de la publicación Contraste de precisión etaria solar SV–NASA](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/portada.png)
 
