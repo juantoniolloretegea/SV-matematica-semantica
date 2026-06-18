@@ -60,7 +60,7 @@ IV.5. Tramo externo de contraste de fase gigante roja
 IV.6. Tramo externo de contraste hacia enana blanca  
 IV.7. Normalización de unidades y conservación del año juliano  
 
-V. Determinación SV del tránsito solar con dominio sistémico  
+**V. Determinación SV del tránsito solar con dominio sistémico**  
 V.1. Declaración del dominio Ωₛₛ  
 V.2. Origen sistémico (0,0)_SS  
 V.3. Corte actual del dominio sistémico  
@@ -70,7 +70,7 @@ V.6. Cálculo de entrada en régimen de enana blanca en dominio sistémico
 V.7. Residual de recomposición  
 V.8. Resultado sistémico A_WD(Oₛₛ)  
 
-VI. Determinación SV del tránsito solar con dominio de objeto individual  
+**VI. Determinación SV del tránsito solar con dominio de objeto individual**  
 VI.1. Declaración del dominio Ω☉  
 VI.2. Origen solar (0,0)_☉  
 VI.3. Corte actual del Sol como objeto físico  
@@ -80,7 +80,7 @@ VI.6. Cálculo de entrada en régimen de enana blanca en dominio solar
 VI.7. Residual de recomposición  
 VI.8. Resultado solar A_WD(O☉)  
 
-VII. Matriz SV de tránsito por fases solares, horizonte raigal y precisión metrológica  
+**VII. Matriz SV de tránsito por fases solares, horizonte raigal y precisión metrológica**  
 VII.1. Función formal de la matriz de tránsito  
 VII.2. Ley de tránsito por dominios aplicada al Sol  
 VII.3. Horizonte raigal de régimen solar  
@@ -89,7 +89,7 @@ VII.5. Medición exacta en años julianos y segundos
 VII.6. Fracción recorrida y apertura restante  
 VII.7. Criterio de precisión y condiciones de no determinación  
 
-VIII. Contraste SV–NASA  
+**VIII. Contraste SV–NASA**  
 VIII.1. Qué dice NASA en formulación divulgativa  
 VIII.2. Qué formaliza el Sistema Vectorial SV  
 VIII.3. Secuencia principal y diferencia entre redondeo y cálculo de dominio  
@@ -100,7 +100,7 @@ VIII.7. Diferencia porcentual entre la distribución NASA y la distribución SV
 VIII.8. Alcance legítimo del redondeo NASA  
 VIII.9. Límite formal del redondeo como clausura de dominio  
 
-IX. Datos, tablas de contraste y resultados calculados  
+**IX. Datos, tablas de contraste y resultados calculados**  
 IX.1. Tabla de magnitudes internas SV  
 IX.2. Tabla de datos externos admitidos sólo como contraste  
 IX.3. Tabla de fases solares por dominio sistémico  
@@ -115,7 +115,7 @@ IX.11. Tabla de tramos futuros desde el corte actual
 IX.12. Tabla de conservación de diferencia entre dominios  
 IX.13. Tabla de sensibilidad del tramo final hacia enana blanca  
 
-X. Análisis de evidencia y precisión comparada  
+**X. Análisis de evidencia y precisión comparada**  
 X.1. Evidencia externa admitida y zonas de indeterminación formal  
 X.2. Precisión SV de dominio, corte inicial, tramo y clausura  
 X.3. Precisión SV de fase, inicio, clausura y transición final  
@@ -124,7 +124,7 @@ X.5. Lectura metrológica en años julianos, segundos y porcentajes
 X.6. Contraste de error, diferencia absoluta, diferencia relativa y denominador declarado  
 X.7. Criterio de evidencia comparada  
 
-XI. Criterio de incorporación de lecturas complementarias  
+**XI. Criterio de incorporación de lecturas complementarias**  
 XI.1. Necesidad de incorporación al cálculo central  
 XI.2. Posibilidad de incorporación sin contaminación del cálculo  
 XI.3. Oportunidad de conservar planos complementarios  
@@ -132,7 +132,7 @@ XI.4. Lecturas externas no equivalentes y retorno SV
 XI.5. Retornos metrológicos de los contrastes complementarios  
 XI.6. Criterio de no incorporación en esta versión  
 
-XII. Discusión física  
+**XII. Discusión física**  
 XII.1. Por qué el redondeo orienta, pero no se clausura  
 XII.2. Por qué el SV no sustituye la astrofísica solar empírica  
 XII.3. Aporte del SV mediante dominio, origen, tramo, residual y retorno  
@@ -141,7 +141,7 @@ XII.5. Lectura de la fase gigante roja como frontera de régimen
 XII.6. Lectura de la enana blanca como régimen remanente compacto  
 XII.7. Valor científico del contraste coordinado con NASA  
 
-XIII. Restricciones de interpretación  
+**XIII. Restricciones de interpretación**  
 XIII.1. El SV no usa NASA como fuente de verdad  
 XIII.2. La formulación NASA no resulta invalidada por usar lenguaje redondeado  
 XIII.3. El cálculo SV no declara observación empírica nueva del Sol  
@@ -151,7 +151,7 @@ XIII.6. La Lanzadera no se reduce a metáfora ni a navegación física
 XIII.7. El porcentaje calculado no sustituye modelos de evolución estelar  
 XIII.8. U como no determinación honesta cuando falte dominio o retorno  
 
-XIV. Resultado  
+**XIV. Resultado**  
 XIV.1. Resultado principal en dominio sistémico  
 XIV.2. Resultado principal en dominio solar individual  
 XIV.3. Resultado comparativo SV–NASA  
@@ -159,13 +159,13 @@ XIV.4. Error absoluto principal
 XIV.5. Error porcentual principal  
 XIV.6. Fórmula sintética del resultado  
 
-XV. Conclusión  
+**XV. Conclusión**  
 XV.1. NASA redondea; el Sistema Vectorial SV formaliza  
 XV.2. Contraste científico y precisión de dominio  
 XV.3. Aporte formal del SV al futuro solar  
 XV.4. Clausura del cálculo y conservación del banco externo como contraste  
 
-XVI. Bibliografía  
+**XVI. Bibliografía**  
 XVI.1. Fuentes internas del Sistema Vectorial SV  
 XVI.2. Fuentes externas de contraste físico y astronómico  
 
