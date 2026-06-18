@@ -18,7 +18,9 @@ intervalo de tránsito; MS nombra la secuencia principal, RG la fase de gigante 
 blanca; A_WD significa edad de entrada en régimen de enana blanca; A_RG,inicio y A_RG,fin nombran el comienzo y
 el final de la fase de gigante roja. La unidad aⱼ es el año juliano: 1 aⱼ = 365,25 días = 31.557.600 segundos.
 Estas abreviaturas son instrumentos de cálculo, no autoridades externas ni sustitutos del dominio físico
-declarado.
+declarado. Cuando aparezca Δ_PN→WD, la notación designa en este estudio la convención estrecha de
+contraste hacia régimen de enana blanca, anclada en el retorno visible de nebulosa planetaria Δ_PN,vis =
+10.000 aⱼ; no designa el agotamiento astrofísico completo de toda la evolución postgigante roja.
 
 ---
 
@@ -96,9 +98,9 @@ VIII.2. Qué formaliza el Sistema Vectorial SV
 VIII.3. Secuencia principal y diferencia entre redondeo y cálculo de dominio
 VIII.4. Gigante roja, duración relativa y porcentaje calculado
 VIII.5. Transición final hacia enana blanca
-VIII.6. Error absoluto en años julianos
-VIII.7. Diferencia porcentual entre la distribución NASA y la distribución SV
-VIII.8. Alcance legítimo del redondeo NASA
+VIII.6. Diferencia formal absoluta en años julianos
+VIII.7. Diferencia porcentual entre la distribución externa redondeada y la distribución SV
+VIII.8. Alcance legítimo del redondeo externo
 VIII.9. Límite formal del redondeo como determinación de dominio
 
 **IX. Datos, tablas de contraste y resultados calculados**
@@ -107,9 +109,9 @@ IX.2. Tabla de datos externos admitidos sólo como contraste
 IX.3. Tabla de fases solares por dominio sistémico
 IX.4. Tabla de fases solares por dominio de objeto individual
 IX.5. Tabla de porcentajes SV
-IX.6. Tabla de porcentajes del bloque NASA de contraste
-IX.7. Tabla de error absoluto NASA–SV
-IX.8. Tabla de error porcentual NASA–SV
+IX.6. Tabla de porcentajes del conjunto externo redondeado de contraste
+IX.7. Tabla de diferencia formal absoluta entre conjunto externo redondeado y recomposición SV
+IX.8. Tabla de diferencia porcentual entre conjunto externo redondeado y distribución SV
 IX.9. Tabla de residual de recomposición
 IX.10. Tabla de admisión, rechazo o no determinación de cada magnitud
 IX.11. Tabla de tramos futuros desde el corte actual
@@ -122,7 +124,7 @@ X.2. Precisión SV de dominio, corte inicial, tramo y admisión formal
 X.3. Precisión SV de fase, inicio, final y transición posterior
 X.4. Matriz de ambigüedad externa frente a determinación SV
 X.5. Lectura metrológica en años julianos, segundos y porcentajes
-X.6. Contraste de error, diferencia absoluta, diferencia relativa y denominador declarado
+X.6. Contraste de diferencia formal absoluta, diferencia relativa y denominador declarado
 X.7. Criterio de evidencia comparada
 
 **XI. Criterio de incorporación de lecturas complementarias**
@@ -140,7 +142,7 @@ XII.3. Aporte del SV mediante dominio, origen, tramo, residual y retorno
 XII.4. Límites del cálculo, sin inferencia opaca, estadística fundante ni autoridad externa
 XII.5. Lectura de la fase gigante roja como frontera de régimen
 XII.6. Lectura de la enana blanca como régimen remanente compacto
-XII.7. Valor científico del contraste coordinado con NASA
+XII.7. Valor científico del contraste externo con NASA
 
 **XIII. Restricciones de interpretación**
 XIII.1. El SV no usa NASA como fuente de verdad
@@ -156,8 +158,8 @@ XIII.8. U como no determinación honesta cuando falte dominio o retorno
 XIV.1. Resultado principal en dominio sistémico
 XIV.2. Resultado principal en dominio solar individual
 XIV.3. Resultado comparativo SV–NASA
-XIV.4. Error absoluto principal
-XIV.5. Error porcentual principal
+XIV.4. Diferencia formal absoluta principal
+XIV.5. Diferencia porcentual principal
 XIV.6. Fórmula sintética del resultado
 
 **XV. Conclusión**
@@ -203,13 +205,13 @@ El análisis muestra que el redondeo externo no pierde valor por sí mismo, pero
 determinación formal. La formulación NASA puede ser defendible como comunicación científica de orden general,
 porque trabaja con magnitudes redondeadas y orientadas a comprensión pública. Sin embargo, cuando se exige
 precisión formal, el Sistema Vectorial SV devuelve diferencias concretas: la secuencia principal total calculada
-desde el patrón sistémico se sitúa en 9.568.000.000 aⱼ, frente al bloque redondeado externo de 10.000.000.000
-aⱼ. El error absoluto principal es, en consecuencia, 432.000.000 aⱼ. Esa diferencia se presenta como
+desde el patrón sistémico se sitúa en 9.568.000.000 aⱼ, frente al conjunto externo redondeado de 10.000.000.000
+aⱼ. La diferencia formal absoluta principal es, en consecuencia, 432.000.000 aⱼ. Esa diferencia se presenta como
 delimitación de planos. NASA redondea; el Sistema Vectorial SV formaliza.
 
 El núcleo técnico consiste en convertir en tabla y cálculo lo que la divulgación expresa de forma aproximada. Se
 calculan porcentajes de secuencia principal, fase de gigante roja y transición final hacia enana blanca; se
-comparan con el bloque externo; se calcula el error absoluto en años julianos; y se declara el residual de
+comparan con el conjunto externo; se calcula la diferencia formal absoluta en años julianos; y se declara el residual de
 recomposición bajo dominio. La fase de gigante roja ocupa, en la distribución SV sistémica, 9,462519 % del
 bloque hasta entrada en enana blanca, mientras la secuencia principal ocupa 90,537386 % y la transición final
 hacia enana blanca 0,0000946 %. La formulación no convierte el Sol en fundamento del SV ni eleva NASA a fuente
@@ -226,16 +228,16 @@ conserva su valor, mientras el SV precisa su formulación mediante cálculo estr
 # 0.1. Resumen técnico ampliado
 
 Se trabaja con dos dominios. En dominio sistémico, Ωₛₛ, el punto de partida es Aₛₛ = 4.568.000.000 aⱼ; en
-dominio solar individual, Ω☉, el punto de partida es A☉ = 4.570.000.000 aⱼ. Los tramos admitidos como contraste externo son Δ_MS,resto = 5.000.000.000 aⱼ, Δ_RG = 1.000.000.000 aⱼ y Δ_PN→WD = 10.000 aⱼ. La entrada en régimen de enana blanca
+dominio solar individual, Ω☉, el punto de partida es A☉ = 4.570.000.000 aⱼ. Los tramos admitidos como contraste externo son Δ_MS,resto = 5.000.000.000 aⱼ, Δ_RG = 1.000.000.000 aⱼ y Δ_PN,vis = 10.000 aⱼ como retorno visible estrecho de nebulosa planetaria. Para la recomposición central hacia régimen de enana blanca se conserva la convención estrecha Δ_PN→WD = 10.000 aⱼ. La entrada en régimen de enana blanca
 se calcula por recomposición formal: A_WD^(O_D) = A_actual,D + Δ_MS,resto + Δ_RG + Δ_PN→WD. En dominio
 sistémico, esta cadena devuelve A_WD(Oₛₛ) = 10.568.010.000 aⱼ; en dominio solar individual, devuelve A_WD(O☉) =
 10.570.010.000 aⱼ.
 
 El residual de recomposición se anula en ambos dominios: R_WD,SS = 0 y R_WD,☉ = 0. La diferencia entre ambos
 resultados es 2.000.000 aⱼ, exactamente la diferencia entre A☉ y Aₛₛ. Esa conservación demuestra que el cálculo
-no mezcla objeto solar y Sistema Solar. Frente al bloque NASA de contraste, que usa 10.000.000.000 aⱼ para la
+no mezcla objeto solar y Sistema Solar. Frente al conjunto externo redondeado de contraste, que usa 10.000.000.000 aⱼ para la
 secuencia principal, 1.000.000.000 aⱼ para la fase gigante roja y 10.000 aⱼ para la transición final, el SV
-sistémico devuelve un total de 10.568.010.000 aⱼ frente a 11.000.010.000 aⱼ. El error absoluto principal es
+sistémico devuelve un total de 10.568.010.000 aⱼ frente a 11.000.010.000 aⱼ. La diferencia formal absoluta principal es
 432.000.000 aⱼ.
 
 La comparación externa admite además una lectura complementaria que conviene conservar para evitar un contraste
@@ -243,11 +245,11 @@ demasiado simple. Si se toma la cadena divulgativa formada por edad solar redond
 permanencia restante de 5.000.000.000 aⱼ, fase gigante roja de 1.000.000.000 aⱼ y transición final de 10.000 aⱼ,
 el corte externo compuesto sería 10.600.010.000 aⱼ. Frente al resultado SV sistémico, 10.568.010.000 aⱼ, la
 diferencia baja a 32.000.000 aⱼ; frente al dominio solar individual, 10.570.010.000 aⱼ, baja a 30.000.000 aⱼ.
-Esa doble comparación es importante: el SV no sólo señala el error del bloque redondeado de 10.000.000.000 aⱼ,
+Esa doble comparación es importante: el SV no sólo señala la diferencia formal del conjunto redondeado de 10.000.000.000 aⱼ,
 sino que muestra cómo cambia el residual cuando se explicita el encadenamiento externo y el dominio de partida.
 
-El porcentaje de la fase gigante roja en el bloque SV sistémico es 9,462519 %; el porcentaje de la secuencia
-principal es 90,537386 %; y el de la transición final hacia enana blanca es 0,0000946 %. En el bloque NASA de
+El porcentaje de la fase gigante roja en el conjunto SV sistémico es 9,462519 %; el porcentaje de la secuencia
+principal es 90,537386 %; y el de la transición final hacia enana blanca es 0,0000946 %. En el conjunto externo redondeado de
 contraste, los porcentajes son 90,909008 %, 9,090901 % y 0,0000909 %. La diferencia absoluta entre las dos
 distribuciones es de 0,371622 puntos porcentuales para la secuencia principal, 0,371619 puntos para la fase
 gigante roja y 0,0000037 puntos para la transición final. La expresión divulgativa “mucho menos tiempo” se
@@ -300,7 +302,7 @@ De ahí surge una relación de contraste crítico. NASA redondea porque comunica
 evolución estelar admite formulaciones por escalas amplias. El Sistema Vectorial SV formaliza porque exige
 dominio, origen, fase, tramo, unidad, residual y retorno. Entre ambos planos no hay oposición necesaria; hay
 diferencia de función. El material físico contemporáneo ofrece el fenómeno y su descripción; el SV ofrece la
-estructura de precisión que permite saber cuánto redondeo hay, dónde está el error absoluto, qué porcentaje
+estructura de precisión que permite saber cuánto redondeo hay, dónde está la diferencia formal absoluta, qué porcentaje
 ocupa cada fase y qué residual deja la recomposición.
 
 # I. Estado del arte físico contemporáneo sobre el futuro solar
@@ -354,7 +356,7 @@ comunicación es legítima si su finalidad es orientar a un público amplio. Una
 conservar márgenes, modelos, incertidumbres y dependencia de parámetros físicos. Una admisión formal SV exige
 otra disciplina: dominio, origen, unidad, tramo, frontera, residual y retorno. La diferencia no es retórica. Una
 cifra redondeada puede ser suficiente para divulgación y, al mismo tiempo, insuficiente para una determinación
-exacta. Por eso este análisis no convierte el redondeo NASA en error de contenido; muestra que el redondeo no
+exacta. Por eso este análisis no convierte el redondeo externo en error de contenido; muestra que el redondeo no
 equivale a admisión formal. El valor científico del contraste consiste precisamente en distinguir esos planos
 sin enfrentarlos: el plano astrofísico contemporáneo describe la evolución solar; el Sistema Vectorial SV
 formaliza el tránsito etario bajo sus condiciones propias.
@@ -369,7 +371,7 @@ real de la fase gigante roja frente al bloque completo considerado. El Sistema V
 expresiones en magnitudes auditables. Bajo el patrón ya declarado, la secuencia principal total se calcula como
 9.568.000.000 aⱼ en dominio sistémico; la fase de gigante roja se toma como 1.000.000.000 aⱼ en el banco externo
 de contraste; y la transición final hacia enana blanca se incorpora como tramo menor cuando se declare la
-determinación de régimen. Sólo entonces puede hablarse con precisión de porcentaje, error absoluto y residual de
+determinación de régimen. Sólo entonces puede hablarse con precisión de porcentaje, diferencia formal absoluta y residual de
 recomposición. La tesis de esta sección es clara: la divulgación orienta; la formalización determina.
 
 # II. Análisis del problema
@@ -404,7 +406,7 @@ El Sistema Solar contiene al Sol, pero no es idéntico al Sol. El Sol es la estr
 el dominio formado por el Sol, sus cuerpos asociados, sus relaciones orbitales, su historia de formación y su
 régimen material conjunto. Por ello, una operación que use Aₛₛ no puede sustituir silenciosamente esa magnitud
 por A☉. Si el cálculo se declara sobre el objeto solar, procede A☉; si se declara sobre el dominio sistémico,
-procede Aₛₛ. Esta distinción no complical cálculo: conserva su dominio.
+procede Aₛₛ. Esta distinción no complica el cálculo: conserva su dominio.
 
 ## II.3. Distinción entre A☉ y Aₛₛ
 
@@ -415,7 +417,7 @@ individual, la entrada en enana blanca se calcula como A☉ + tramo situado. En 
 como Aₛₛ + tramo situado. Si el tramo situado es el mismo, los resultados finales conservarán exactamente la
 diferencia inicial entre ambos dominios.
 
-Esa conservación de la diferencia es una virtud formal. Muestra que el cálculo no ocultal cambio de base ni
+Esa conservación de la diferencia es una virtud formal. Muestra que el cálculo no oculta el cambio de base ni
 borra la frontera entre objeto y sistema. No se fuerza la igualdad de ambas magnitudes para obtener una salida
 única. Puede sostener dos lecturas paralelas: una sistémica y otra solar individual. La primera devuelve el
 corte en relación con el Sistema Solar; la segunda, en relación con el Sol como objeto físico. Ambas pueden
@@ -424,9 +426,9 @@ compararse, pero no deben fundirse.
 ## II.4. Por qué no basta con decir que el Sol “vivirá unos tantos miles de millones de años”
 
 La expresión “el Sol vivirá unos tantos miles de millones de años” es útil como aproximación divulgativa, pero
-no basta para un estudio de precisión. No declara si habla del tiempo restante hastal inicio de la fase de
-gigante roja, hastal final de la fase de gigante roja, hasta la expulsión de envoltura, hasta la formación de
-nebulosa planetaria, hasta la entrada en enana blanca o hastal enfriamiento posterior del remanente. Tampoco
+no basta para un estudio de precisión. No declara si habla del tiempo restante hasta el inicio de la fase de
+gigante roja, hasta el final de la fase de gigante roja, hasta la expulsión de envoltura, hasta la formación de
+nebulosa planetaria, hasta la entrada en enana blanca o hasta el enfriamiento posterior del remanente. Tampoco
 declara si el punto de partida es la edad del Sol individual, la edad del Sistema Solar o una cifra redondeada
 de vida total.
 
@@ -434,7 +436,7 @@ Una frase así puede tener valor pedagógico y, al mismo tiempo, ser insuficient
 no rechaza el contenido físico de la frase; rechaza que la frase opere como determinación. Para adquirir rango formal,
 la magnitud debe transformarse en una cadena: corte actual declarado, tramo restante de secuencia principal,
 duración de la fase gigante roja, transición final hacia enana blanca y suma bajo origen. Sin esa cadena, el
-lector sabe la orientación general del destino solar, pero no conoce el porcentaje real, el error absoluto, el
+lector sabe la orientación general del destino solar, pero no conoce el porcentaje real, la diferencia formal absoluta, el
 dominio ni el residual.
 
 ## II.5. Necesidad de declarar origen, tramo, fase, unidad, residual y retorno
@@ -447,7 +449,7 @@ residual exige que la suma se recomponga sin diferencia algebraica cuando se dec
 El retorno permite devolver el resultado al lenguaje físico como fecha relativa de tránsito solar sin perder su
 dominio.
 
-La recomposición general se escribe A_fase(O_D) = A_actual,D + Δ_fase,D, donde D designal dominio declarado.
+La recomposición general se escribe A_fase(O_D) = A_actual,D + Δ_fase,D, donde D designa el dominio declarado.
 En dominio sistémico, D = SS; en dominio solar individual, D = ☉. El residual de recomposición se expresa como
 R_rec =
 A_fase(O_D) − (A_actual,D + Δ_fase,D), y la admisión formal exige R_rec = 0.
@@ -458,16 +460,16 @@ formal pertenece al SV.
 
 ## II.6. Riesgo de error de plano por conversión de un redondeo divulgativo en determinación física
 
-El error principal que este análisis corrige no es que NASA redondee. El redondeo es admisible en divulgación
-científica. El error aparece cuando ese redondeo se lee como determinación física formal. “Casi diez mil
+El riesgo principal que este análisis corrige no es que NASA redondee. El redondeo es admisible en divulgación
+científica. La desviación aparece cuando ese redondeo se lee como determinación física formal. “Casi diez mil
 millones de años” puede orientar; no determina por sí mismo el dominio ni el porcentaje. “Unos cinco mil
 millones de años más” puede comunicar el futuro general del Sol; no distingue la entrada en gigante roja de la
 entrada en enana blanca. “Mucho menos tiempo” puede indicar una relación cualitativa; no devuelve la proporción
 entre secuencia principal y gigante roja.
 
 La lectura SV no convierte el redondeo en error de contenido. Lo somete a cálculo. Si el redondeo externo dice
-10.000.000.000 aⱼ para la secuencia principal y el patrón SV devuelve 9.568.000.000 aⱼ, el error absoluto se
-se cuantifica en 432.000.000 aⱼ. Ese dato no destruye la divulgación externa; delimita su precisión. Del mismo modo,
+10.000.000.000 aⱼ para la secuencia principal y el patrón SV devuelve 9.568.000.000 aⱼ, la diferencia formal absoluta se
+cuantifica en 432.000.000 aⱼ. Ese dato no destruye la divulgación externa; delimita su precisión. Del mismo modo,
 si la fase de gigante roja se toma como 1.000.000.000 aⱼ, puede calcularse su porcentaje real dentro del bloque
 considerado. La ganancia técnica aparece cuando cada plano conserva su alcance: el lenguaje divulgativo orienta,
 el modelo físico describe y el Sistema Vectorial SV formaliza bajo dominio.
@@ -497,7 +499,7 @@ del Sistema Solar y no es un lugar espacial desde el cual se mida una distancia 
 referencia formal de recomposición dentro del dominio declarado. Cuando se calcula un tránsito etario, el origen
 permite ordenar el corte actual y el tramo situado sin convertir la magnitud externa en fundamento del cálculo.
 
-La forma general de recomposición es A_destino(O_D) = A_actual,D + Δ_destino,D; en ella, D designal dominio
+La forma general de recomposición es A_destino(O_D) = A_actual,D + Δ_destino,D; en ella, D designa el dominio
 declarado. Si D = SS, el origen formal es (0,0)_SS; si D = ☉, el origen formal es (0,0)_☉. Esta escritura evita
 una confusión central: el mismo tramo externo de contraste puede producir cortes distintos si cambia el dominio
 de partida. La recomposición sólo es formalmente limpia cuando el dominio aparece escrito desde el inicio y
@@ -507,7 +509,7 @@ cuando el residual de la suma se anula.
 
 El patrón etario empleado es el año juliano aⱼ. Su uso permite conservar una unidad homogénea en todo el
 desarrollo: edad actual, tramo restante, fase gigante roja, transición final y corte de entrada en enana blanca
-se expresan en la misma unidad. Esta homogeneidad es necesaria para que el porcentaje y el error absoluto sean
+se expresan en la misma unidad. Esta homogeneidad es necesaria para que el porcentaje y la diferencia formal absoluta sean
 comparables.
 
 El cálculo no introduce tiempo como fundamento. El año juliano opera como unidad de medida, no como principio
@@ -533,7 +535,7 @@ La lectura de edad puede ordenarse de este modo.
 | Aₛₛ | Edad del Sistema Solar como dominio sistémico |
 | Δ_MS,resto | Tramo restante de secuencia principal admitido como contraste |
 | Δ_RG | Fase de gigante roja admitida como contraste |
-| Δ_PN→WD | Tramo final hacia régimen de enana blanca |
+| Δ_PN,vis / Δ_PN→WD | Retorno visible estrecho de nebulosa planetaria y convención estrecha de contraste hacia régimen de enana blanca |
 
 La salida no es una edad “del destino” en abstracto, sino una edad de entrada en un régimen físico concreto bajo
 dominio. La entrada en gigante roja y la entrada en enana blanca son cortes de régimen, no meros nombres de
@@ -547,7 +549,7 @@ una distancia, sino como regla de orden: hay un acceso situado, un tramo declara
 una recomposición desde el origen formal del dominio. Su función no es hacer del futuro solar una distancia
 cosmológica, sino impedir que una fase se añada sin declarar su condición de tramo y su frontera de destino.
 
-La secuencia formal aplicada al Sol puede expresarse así.
+La secuencia formal aplicada al Sol se expresa mediante tres pasos.
 
 A_actual,D → Δ_MS,resto → A_RG,inicio,D
 
@@ -570,7 +572,7 @@ La recomposición se admite sólo si R_WD,D = 0.
 
 Si el residual no se anula, el cálculo no alcanza validez formal. Si el residual se anula pero el dominio está mal
 declarado, el resultado continúa siendo inválido por error de plano. Si el residual se anula y el dominio es
-correcto, la salida alcanza validez formal en el plano SV. Esta regla es la que diferencial cálculo formal de
+correcto, la salida alcanza validez formal en el plano SV. Esta regla es la que diferencia el cálculo formal de
 una frase aproximada: la frase puede orientar; el residual decide si la recomposición resulta válida.
 
 Para el dominio sistémico, la determinación se escribe.
@@ -603,7 +605,7 @@ informa, el SV formaliza y el residual decide la validez interna.
 
 ## IV.1. Magnitudes de referencia SV empleadas
 
-El cálculo emplea magnitudes de referencia ya adoptadas y normalizadas en el aparato SV desde publicaciones
+El cálculo emplea magnitudes de referencia ya adoptadas y normalizadas en el Sistema Vectorial SV desde publicaciones
 previas. Aₛₛ y A☉ no se presentan aquí como mediciones físicas independientes realizadas por el SV, sino como
 cortes de dominio que el SV conserva y usa como base formal de recomposición. La primera magnitud operativa es
 el año juliano aⱼ, unidad etaria homogénea del cálculo. La segunda es Aₛₛ, edad del Sistema Solar como dominio
@@ -622,7 +624,7 @@ dominio, se usa Aₛₛ; si se trabaja con el Sol como objeto físico individual
 ## IV.2. Edad del Sistema Solar como dominio sistémico Aₛₛ = 4.568.000.000 aⱼ
 
 Aₛₛ = 4.568.000.000 aⱼ designa la edad del Sistema Solar como dominio sistémico. No designa la edad del Sol como
-objeto aislado, aunque el Sol seal cuerpo central del sistema. Su función en este cálculo es servir de corte
+objeto aislado, aunque el Sol sea el cuerpo central del sistema. Su función en este cálculo es servir de corte
 actual cuando el cálculo se declara sobre Ωₛₛ. En ese caso, todo tránsito posterior se recompone desde el origen
 formal del dominio sistémico.
 
@@ -643,7 +645,7 @@ La forma de recomposición es A_destino(O☉) = A☉ + Δ_destino,☉.
 
 Esta segunda lectura permite controlar el efecto de elegir el objeto solar frente al dominio sistémico. Si el
 tramo de contraste es el mismo, la diferencia entre los resultados finales será exactamente 2.000.000 aⱼ, la
-misma diferencia que existe entre A☉ y Aₛₛ. Esa conservación prueba que el cálculo no ocultal cambio de
+misma diferencia que existe entre A☉ y Aₛₛ. Esa conservación prueba que el cálculo no oculta el cambio de
 dominio.
 
 ## IV.4. Tramo externo de contraste hasta gigante roja
@@ -675,7 +677,7 @@ El segundo tramo externo admitido como contraste es la duración de la fase de g
 Esta magnitud se incorpora como intervalo de régimen, no como descripción exhaustiva de todos los procesos
 físicos internos de la estrella. La fase de gigante roja puede incluir expansión, inestabilidad, pulsación,
 pérdida de capas externas y reordenación del núcleo. Para el cálculo etario, se toma como bloque de tránsito
-desde el inicio de gigante roja hastal término de esa fase.
+desde el inicio de gigante roja hasta el término de esa fase.
 
 En dominio sistémico.
 
@@ -688,7 +690,11 @@ A_RG,fin(O☉) = A_RG,inicio(O☉) + Δ_RG
 ## IV.6. Tramo externo de contraste hacia enana blanca
 
 El tercer tramo externo admitido como contraste es la transición final desde la nebulosa planetaria hacia la
-enana blanca. Para el cálculo central se toma el tramo estrecho.
+enana blanca. Para el cálculo central se toma un tramo estrecho, declarado como convención de contraste y no como
+agotamiento astrofísico completo del tránsito postgigante roja. Su anclaje externo es el retorno visible de
+nebulosa planetaria.
+
+Δ_PN,vis = 10.000 aⱼ
 
 Δ_PN→WD = 10.000 aⱼ
 
@@ -724,11 +730,11 @@ La normalización adopta esta forma.
 | A☉ | 4.570.000.000 aⱼ |
 | Δ_MS,resto | 5.000.000.000 aⱼ |
 | Δ_RG | 1.000.000.000 aⱼ |
-| Δ_PN→WD | 10.000 aⱼ |
+| Δ_PN,vis / Δ_PN→WD | 10.000 aⱼ |
 
 Con estas magnitudes se calculan cuatro cortes esenciales: inicio de gigante roja, término de la fase gigante roja,
 entrada en enana blanca en dominio sistémico y entrada en enana blanca en dominio solar individual. También
-puede calcular porcentajes, error absoluto frente al bloque externo y residual algebraico de recomposición.
+puede calcular porcentajes, diferencia formal absoluta frente al conjunto externo y residual algebraico de recomposición.
 
 # V. Determinación SV del tránsito solar con dominio sistémico
 
@@ -762,7 +768,7 @@ ordenar el tránsito del cuerpo solar central dentro del dominio Ωₛₛ.
 
 ## V.4. Cálculo del inicio de fase gigante roja en dominio sistémico
 
-El tramo externo de contraste hastal inicio de la fase de gigante roja se declara como Δ_MS,resto =
+El tramo externo de contraste hasta el inicio de la fase de gigante roja se declara como Δ_MS,resto =
 5.000.000.000 aⱼ.
 
 La entrada en fase de gigante roja en dominio sistémico se expresa como A_RG,inicio(Oₛₛ) = Aₛₛ + Δ_MS,resto.
@@ -787,7 +793,7 @@ declarados.
 
 ## V.6. Cálculo de entrada en régimen de enana blanca en dominio sistémico
 
-La transición final desde la nebulosa planetaria hacia enana blanca se declara como Δ_PN→WD = 10.000 aⱼ.
+La transición final desde la nebulosa planetaria hacia enana blanca se declara como convención estrecha Δ_PN→WD = 10.000 aⱼ, anclada en Δ_PN,vis.
 
 La entrada en régimen de enana blanca se expresa como A_WD(Oₛₛ) = A_RG,fin(Oₛₛ) + Δ_PN→WD. Sustituyendo,
 A_WD(Oₛₛ) = 10.568.000.000 + 10.000. La suma da A_WD(Oₛₛ) = 10.568.010.000 aⱼ.
@@ -816,7 +822,7 @@ hasta ese régimen es.
 Δ_actual→WD,SS = 10.568.010.000 − 4.568.000.000 = 6.000.010.000 aⱼ.
 
 La lectura final de este apartado es directa: en dominio sistémico, el tránsito solar hacia enana blanca se
-se calcula mediante suma de tramos declarados y residual algebraico nulo. El dato externo orienta los tramos; el SV
+calcula mediante suma de tramos declarados y residual algebraico nulo. El dato externo orienta los tramos; el SV
 ordena el dominio, la recomposición y el resultado.
 
 # VI. Determinación SV del tránsito solar con dominio de objeto individual
@@ -838,7 +844,7 @@ entre objeto solar y dominio sistémico.
 
 El origen solar (0,0)_☉ funciona como referencia formal de recomposición para el objeto solar. No se identifica
 con el núcleo físico del Sol ni con un punto espacial dentro de la estrella. Su función es ordenar el corte
-etario del objeto y los tramos de tránsito hastal régimen de enana blanca. La forma general es.
+etario del objeto y los tramos de tránsito hasta el régimen de enana blanca. La forma general es.
 
 A_destino(O☉) = A☉ + Δ_destino,☉
 
@@ -858,7 +864,7 @@ Sol individual.
 
 ## VI.4. Cálculo del inicio de fase gigante roja en dominio solar
 
-El tramo externo de contraste hastal inicio de la fase de gigante roja se declara como.
+El tramo externo de contraste hasta el inicio de la fase de gigante roja se declara como.
 
 Δ_MS,resto = 5.000.000.000 aⱼ
 
@@ -884,7 +890,7 @@ El término de la fase gigante roja alcanza admisión formal en dominio solar in
 
 ## VI.6. Cálculo de entrada en régimen de enana blanca en dominio solar
 
-La transición final desde nebulosa planetaria hacia enana blanca se declara como Δ_PN→WD = 10.000 aⱼ.
+La transición final desde nebulosa planetaria hacia enana blanca se declara como convención estrecha Δ_PN→WD = 10.000 aⱼ, anclada en Δ_PN,vis.
 
 La entrada en régimen de enana blanca se expresa como A_WD(O☉) = A_RG,fin(O☉) + Δ_PN→WD. Sustituyendo,
 A_WD(O☉) = 10.570.000.000 + 10.000. La suma da A_WD(O☉) = 10.570.010.000 aⱼ.
@@ -899,7 +905,7 @@ El residual total de entrada en enana blanca en dominio solar individual se defi
 Δ_MS,resto + Δ_RG + Δ_PN→WD). Sustituyendo, R_WD,☉ = 10.570.010.000 − (4.570.000.000 + 5.000.000.000 +
 1.000.000.000 + 10.000). La resta devuelve R_WD,☉ = 0.
 
-La recomposición alcanza admisión formal. La salida no cancelal resultado sistémico ni lo corrige; lo
+La recomposición alcanza admisión formal. La salida no cancela el resultado sistémico ni lo corrige; lo
 complementa desde otro dominio declarado.
 
 ## VI.8. Resultado solar A_WD(O☉)
@@ -959,7 +965,7 @@ aⱼ. La fracción recorrida se expresa como f_Ξ(o,D,aⱼ)=m_D(o)/H_Ξ^aⱼ(o,D
 α_Ξ(o,D,aⱼ)=1−f_Ξ(o,D,aⱼ).
 
 Esta lectura no convierte el raigal en tiempo, energía, masa o sustancia. Sólo devuelve, bajo dominio solar y
-unidad etaria, la proporción de tránsito recorrida hastal horizonte formal declarado. La diferencia entre el
+unidad etaria, la proporción de tránsito recorrida hasta el horizonte formal declarado. La diferencia entre el
 horizonte sistémico y el horizonte solar individual conserva exactamente la diferencia de dominio: 2.000.000 aⱼ.
 
 ## VII.4. Matriz de fases, frontera, canal, traza y residual
@@ -974,10 +980,10 @@ régimen físico del observable solar.
 | S_RG,fin | Término de la fase gigante roja | Fin de Δ_RG | 0 |
 | S_WD,inicio | Entrada en enana blanca | Fin de Δ_PN→WD | 0 |
 
-El canal físico de contraste se lee así. En S_MS,actual domina la fusión ordinaria de hidrógeno en helio; en
+El canal físico de contraste se lee por fases. En S_MS,actual domina la fusión ordinaria de hidrógeno en helio; en
 S_RG,inicio comparece el agotamiento del régimen nuclear ordinario y la reorganización de la envoltura; en
 S_RG,fin se computa la fase de expansión y pérdida de capas externas; en S_WD,inicio se reconoce el núcleo
-remanente y la término del régimen anterior. La traza se devuelve en cortes A_RG,inicio, A_RG,fin y A_WD,
+remanente y el término del régimen anterior. La traza se devuelve en cortes A_RG,inicio, A_RG,fin y A_WD,
 siempre con retorno en aⱼ, segundos y dominio declarado.
 
 La matriz no obtiene su fuerza de una autoridad externa. Cierra porque cada tramo se recompone bajo dominio, y
@@ -1030,7 +1036,7 @@ En dominio solar individual.
 | Término de la fase gigante roja | 10.570.000.000 aⱼ | 10.570.010.000 aⱼ | 99,999905392710 % | 0,000094607290 % |
 | Entrada en enana blanca | 10.570.010.000 aⱼ | 10.570.010.000 aⱼ | 100 % | 0 % |
 
-Estas tablas precisan una diferencia importante. La fase gigante roja ocupa 9,462519 % del bloque sistémico
+Estas tablas precisan una diferencia importante. La fase gigante roja ocupa 9,462519 % del conjunto sistémico
 completo cuando se mide como duración de fase; pero la apertura restante tras la entrada en gigante roja es
 9,462614058844 %, porque todavía incluye la fase gigante roja completa más el tramo final de 10.000 aⱼ. Ambas
 cifras son correctas porque tienen denominadores distintos y funciones distintas.
@@ -1082,15 +1088,15 @@ residual algebraico.
 
 ## VIII.3. Secuencia principal y diferencia entre redondeo y cálculo de dominio
 
-El punto de mayor diferencia entre el bloque NASA de contraste y el SV aparece en la duración total de la
-secuencia principal. El banco externo trabaja con el bloque redondeado 10.000.000.000 aⱼ. El SV, en dominio
+El punto de mayor diferencia entre el conjunto externo redondeado de contraste y el SV aparece en la duración total de la
+secuencia principal. El banco externo trabaja con el conjunto redondeado 10.000.000.000 aⱼ. El SV, en dominio
 sistémico, no usa esa cifra como determinación; calcula la secuencia principal total desde el corte actual del
 Sistema Solar y el tramo restante hasta gigante roja mediante Δ_MS,total^SV = Aₛₛ + Δ_MS,resto = 4.568.000.000 +
 5.000.000.000 =
-9.568.000.000 aⱼ. La diferencia absoluta frente al bloque NASA de contraste es de 432.000.000 aⱼ, resultado de
+9.568.000.000 aⱼ. La diferencia formal absoluta frente al conjunto externo redondeado de contraste es de 432.000.000 aⱼ, resultado de
 restar 9.568.000.000 aⱼ a 10.000.000.000 aⱼ.
 
-Esta diferencia no convierte el redondeo externo en error material. Sí muestra que, al exigir precisión formal,
+Esta diferencia no convierte el redondeo externo en fallo material. Sí muestra que, al exigir precisión formal,
 el redondeo contiene un desplazamiento relevante.
 
 ## VIII.4. Gigante roja, duración relativa y porcentaje calculado
@@ -1100,36 +1106,36 @@ Para la fase de gigante roja, el banco externo y el cálculo SV toman el mismo t
 respecto del cual se calcula su porcentaje. En la distribución SV sistémica, el bloque completo hasta entrada en
 enana blanca es Δ_total^SV = 9.568.000.000 + 1.000.000.000 + 10.000 = 10.568.010.000 aⱼ; en consecuencia, %RG_SV
 =
-1.000.000.000 / 10.568.010.000 · 100 = 9,462519 %. En el bloque NASA de contraste, Δ_total^NASA = 10.000.000.000 +
+1.000.000.000 / 10.568.010.000 · 100 = 9,462519 %. En el conjunto externo redondeado de contraste, Δ_total^NASA = 10.000.000.000 +
 1.000.000.000 + 10.000 = 11.000.010.000 aⱼ; en consecuencia, %RG_NASA = 1.000.000.000 / 11.000.010.000 · 100 =
 9,090901 %. La diferencia entre ambos porcentajes es de 0,371619 puntos porcentuales.
 
 ## VIII.5. Transición final hacia enana blanca
 
-La transición final hacia enana blanca se conserva como tramo menor, Δ_PN→WD = 10.000 aⱼ. En el cálculo SV
+La transición final hacia enana blanca se conserva como tramo menor mediante la convención estrecha Δ_PN→WD = 10.000 aⱼ, anclada en el retorno visible Δ_PN,vis. En el cálculo SV
 sistémico, su porcentaje sobre el bloque total es %PN→WD_SV = 10.000 / 10.568.010.000 · 100 = 0,0000946 %. En el
-bloque NASA de contraste, %PN→WD_NASA = 10.000 / 11.000.010.000 · 100 = 0,0000909 %.
+conjunto externo redondeado de contraste, %PN→WD_NASA = 10.000 / 11.000.010.000 · 100 = 0,0000909 %.
 
 La diferencia es mínima en porcentaje, pero formalmente debe conservarse. Su presencia evita identificar de
-manera instantáneal término de la fase gigante roja con la entrada en régimen de enana blanca. En precisión SV,
+manera instantánea el término de la fase gigante roja con la entrada en régimen de enana blanca. En precisión SV,
 incluso el tramo pequeño conserva función si separa dos estados de régimen.
 
-## VIII.6. Error absoluto en años julianos
+## VIII.6. Diferencia formal absoluta en años julianos
 
-El error absoluto principal entre el bloque NASA de contraste y el SV aparece en la secuencia principal total y
+La diferencia formal absoluta principal entre el conjunto externo redondeado de contraste y el SV aparece en la secuencia principal total y
 se conserva en el total hasta entrada en enana blanca. La diferencia puede consultarse en la tabla siguiente.
 
-| Magnitud comparada | SV sistémico | Bloque NASA de contraste | Error absoluto |
+| Magnitud comparada | SV sistémico | Conjunto externo redondeado de contraste | Diferencia formal absoluta |
 |---|---:|---:|---:|
 | Secuencia principal total | 9.568.000.000 aⱼ | 10.000.000.000 aⱼ | 432.000.000 aⱼ |
 | Fase gigante roja | 1.000.000.000 aⱼ | 1.000.000.000 aⱼ | 0 aⱼ |
 | Transición hacia enana blanca | 10.000 aⱼ | 10.000 aⱼ | 0 aⱼ |
 | Total hasta entrada en enana blanca | 10.568.010.000 aⱼ | 11.000.010.000 aⱼ | 432.000.000 aⱼ |
 
-El bloque NASA de contraste no se separa del SV por la fase gigante roja ni por la transición final, sino por el
-bloque redondeado de secuencia principal.
+El conjunto externo redondeado de contraste no se separa del SV por la fase gigante roja ni por la transición final, sino por el
+conjunto redondeado de secuencia principal.
 
-## VIII.7. Diferencia porcentual entre la distribución NASA y la distribución SV
+## VIII.7. Diferencia porcentual entre la distribución externa redondeada y la distribución SV
 
 La diferencia porcentual se calcula comparando la distribución interna de fases. En SV sistémico.
 
@@ -1140,9 +1146,9 @@ La diferencia porcentual se calcula comparando la distribución interna de fases
 | Transición hacia enana blanca | 10.000 aⱼ | 0,0000946 % |
 | Total | 10.568.010.000 aⱼ | 100 % |
 
-En el bloque NASA de contraste.
+En el conjunto externo redondeado de contraste.
 
-| Fase | Duración bloque NASA de contraste | Porcentaje NASA de contraste |
+| Fase | Duración conjunto externo redondeado de contraste | Porcentaje externo de contraste |
 |---|---:|---:|
 | Secuencia principal total | 10.000.000.000 aⱼ | 90,909008 % |
 | Gigante roja | 1.000.000.000 aⱼ | 9,090901 % |
@@ -1151,7 +1157,7 @@ En el bloque NASA de contraste.
 
 La diferencia absoluta en puntos porcentuales se presenta en la tabla siguiente.
 
-| Fase | Porcentaje SV | Porcentaje NASA de contraste | Diferencia absoluta |
+| Fase | Porcentaje SV | Porcentaje externo de contraste | Diferencia absoluta |
 |---|---:|---:|---:|
 | Secuencia principal total | 90,537386 % | 90,909008 % | 0,371622 puntos |
 | Gigante roja | 9,462519 % | 9,090901 % | 0,371619 puntos |
@@ -1160,7 +1166,7 @@ La diferencia absoluta en puntos porcentuales se presenta en la tabla siguiente.
 La diferencia porcentual no es enorme, pero sí es materialmente visible. La precisión SV convierte una expresión
 cualitativa —“mucho menos tiempo”— en distribución calculada de fases.
 
-## VIII.8. Alcance legítimo del redondeo NASA
+## VIII.8. Alcance legítimo del redondeo externo
 
 El redondeo NASA conserva alcance legítimo cuando se entiende como comunicación divulgativa. Decir “casi diez
 mil millones de años” para una secuencia principal que el SV sitúa en 9.568.000.000 aⱼ conserva valor si el
@@ -1178,12 +1184,12 @@ plano, las cifras cumplen una función pedagógica.
 El límite aparece cuando se exige precisión formal. Una formulación redondeada no declara dominio, no anula
 residual y no distingue con exactitud entre Aₛₛ y A☉. Si se pretende usar el dato externo como magnitud
 fijada, ya no basta con decir “casi”. El cálculo debe mostrar qué dominio se usa, qué tramos se suman,
-qué porcentaje ocupa cada fase y qué error absoluto aparece frente al bloque externo.
+qué porcentaje ocupa cada fase y qué diferencia formal absoluta aparece frente al conjunto externo.
 
 La conclusión de este contraste es: la formulación NASA conserva valor como redondeo, pero ese redondeo no
 gobierna el cálculo SV. El relato físico del futuro solar se conserva disponible en el plano astrofísico
-contemporáneo; el Sistema Vectorial SV devuelve precisión etaria, distribución porcentual, error absoluto y
-residual. La fórmula sintética del contraste se fija así.
+contemporáneo; el Sistema Vectorial SV devuelve precisión etaria, distribución porcentual, diferencia formal absoluta y
+residual. La fórmula sintética del contraste adopta una forma directa.
 
 NASA aproxima; SV formaliza.
 
@@ -1221,9 +1227,9 @@ identifica con un punto astronómico ordinario. El año juliano conserva la unid
 | Duración de fase gigante roja | Tramo de régimen gigante roja | 1.000.000.000 aⱼ |
 | Transición final hacia enana blanca | Separa término RG y régimen WD | 10.000 aⱼ |
 | Transición amplia Imagine hacia WD | Sensibilidad tras expulsión de envoltura | 75.000 aⱼ |
-| Secuencia principal bloque NASA de contraste | Bloque redondeado de contraste | 10.000.000.000 aⱼ |
-| Gigante roja bloque NASA de contraste | Bloque redondeado de contraste | 1.000.000.000 aⱼ |
-| Transición final bloque NASA de contraste | Tramo menor de contraste | 10.000 aⱼ |
+| Secuencia principal conjunto externo redondeado de contraste | Conjunto redondeado de contraste | 10.000.000.000 aⱼ |
+| Gigante roja conjunto externo redondeado de contraste | Conjunto redondeado de contraste | 1.000.000.000 aⱼ |
+| Transición final conjunto externo redondeado de contraste | Tramo menor de contraste | 10.000 aⱼ |
 
 Estas magnitudes no entran como fundamento del Sistema Vectorial SV. Entran como banco externo de contraste. Su
 valor operativo consiste en permitir la comparación entre redondeo divulgativo y formalización por dominio.
@@ -1256,7 +1262,7 @@ respecto del dominio sistémico es 2.000.000 aⱼ, exactamente la diferencia ent
 
 ## IX.5. Tabla de porcentajes SV
 
-La distribución SV se calcula sobre el bloque sistémico completo hasta entrada en enana blanca.
+La distribución SV se calcula sobre el conjunto sistémico completo hasta entrada en enana blanca.
 
 Δ_total^SV = 9.568.000.000 + 1.000.000.000 + 10.000 = 10.568.010.000 aⱼ
 
@@ -1268,39 +1274,39 @@ La distribución SV se calcula sobre el bloque sistémico completo hasta entrada
 | Total | 10.568.010.000 aⱼ | 100 % |
 
 La frase externa “mucho menos tiempo” pasa aquí a una magnitud calculada: la fase gigante roja ocupa 9,462519
-% del bloque SV hasta entrada en enana blanca.
+% del conjunto SV hasta entrada en enana blanca.
 
-## IX.6. Tabla de porcentajes del bloque NASA de contraste
+## IX.6. Tabla de porcentajes del conjunto externo redondeado de contraste
 
-La distribución del bloque NASA de contraste se calcula sobre el bloque externo redondeado.
+La distribución del conjunto externo redondeado de contraste se calcula sobre el conjunto externo redondeado.
 
 Δ_total^NASA = 10.000.000.000 + 1.000.000.000 + 10.000 = 11.000.010.000 aⱼ
 
-| Fase | Duración bloque NASA de contraste | Porcentaje NASA de contraste |
+| Fase | Duración conjunto externo redondeado de contraste | Porcentaje externo de contraste |
 |---|---:|---:|
 | Secuencia principal total | 10.000.000.000 aⱼ | 90,909008 % |
 | Gigante roja | 1.000.000.000 aⱼ | 9,090901 % |
 | Transición final hacia enana blanca | 10.000 aⱼ | 0,0000909 % |
 | Total | 11.000.010.000 aⱼ | 100 % |
 
-El bloque externo devuelve una distribución ligeramente distinta porque su bloque de secuencia principal es más
+El conjunto externo devuelve una distribución ligeramente distinta porque su tramo redondeado de secuencia principal es más
 largo que el calculado por el patrón SV sistémico.
 
-## IX.7. Tabla de error absoluto NASA–SV
+## IX.7. Tabla de diferencia formal absoluta entre conjunto externo redondeado y recomposición SV
 
-| Magnitud comparada | SV sistémico | bloque NASA de contraste | Error absoluto |
+| Magnitud comparada | SV sistémico | conjunto externo redondeado de contraste | Diferencia formal absoluta |
 |---|---:|---:|---:|
 | Secuencia principal total | 9.568.000.000 aⱼ | 10.000.000.000 aⱼ | 432.000.000 aⱼ |
 | Gigante roja | 1.000.000.000 aⱼ | 1.000.000.000 aⱼ | 0 aⱼ |
 | Transición final hacia enana blanca | 10.000 aⱼ | 10.000 aⱼ | 0 aⱼ |
 | Total hasta entrada en enana blanca | 10.568.010.000 aⱼ | 11.000.010.000 aⱼ | 432.000.000 aⱼ |
 
-El error absoluto principal es 432.000.000 aⱼ. No aparece por la duración de la fase gigante roja ni por la
-transición final, sino por el bloque redondeado de secuencia principal.
+La diferencia formal absoluta principal es 432.000.000 aⱼ. No aparece por la duración de la fase gigante roja ni por la
+transición final, sino por el conjunto redondeado de secuencia principal.
 
-## IX.8. Tabla de error porcentual NASA–SV
+## IX.8. Tabla de diferencia porcentual entre conjunto externo redondeado y distribución SV
 
-| Fase | Porcentaje SV | Porcentaje NASA de contraste | Diferencia absoluta |
+| Fase | Porcentaje SV | Porcentaje externo de contraste | Diferencia absoluta |
 |---|---:|---:|---:|
 | Secuencia principal total | 90,537386 % | 90,909008 % | 0,371622 puntos porcentuales |
 | Gigante roja | 9,462519 % | 9,090901 % | 0,371619 puntos porcentuales |
@@ -1357,7 +1363,7 @@ Su distribución interna es.
 | Transición hacia enana blanca | 10.000 aⱼ | 0,0001667 % |
 | Total futuro hasta enana blanca | 6.000.010.000 aⱼ | 100 % |
 
-Esta tabla evita un despiste frecuente: la gigante roja ocupa 9,462519 % del bloque completo SV hasta entrada en
+Esta tabla evita un despiste frecuente: la gigante roja ocupa 9,462519 % del conjunto completo SV hasta entrada en
 enana blanca, pero ocupa 16,666639 % del tramo futuro restante desde el corte actual. Son lecturas distintas y
 ambas deben conservar su denominador.
 
@@ -1375,13 +1381,13 @@ fuerza una coincidencia artificial.
 
 ## IX.13. Tabla de sensibilidad del tramo final hacia enana blanca
 
-El cálculo central conserva Δ_PN→WD = 10.000 aⱼ como tramo Hubble estrecho de contraste, porque separa la
+El cálculo central conserva Δ_PN→WD = 10.000 aⱼ como convención estrecha de contraste, anclada en el retorno visible de nebulosa planetaria Δ_PN,vis, porque separa el
 término de la fase gigante roja de la entrada en régimen de enana blanca sin alterar la estructura
 principal. La lectura NASA/Imagine permite añadir una sensibilidad lateral de 75.000 aⱼ para estrellas
 comparables al Sol tras la expulsión de sus envolturas. Esta segunda lectura no sustituye el cálculo central;
 mide cuánto cambia la salida cuando el tramo final se toma en sentido amplio.
 
-| Lectura final | Δ_PN→WD | A_WD(Oₛₛ) | A_WD(O☉) | Diferencia | Segundos |
+| Lectura final | Tramo final declarado | A_WD(Oₛₛ) | A_WD(O☉) | Diferencia | Segundos |
 |---|---:|---:|---:|---:|---:|
 | Hubble estrecho | 10.000 aⱼ | 10.568.010.000 aⱼ | 10.570.010.000 aⱼ | 0 aⱼ | 0 s |
 | Imagine amplio | 75.000 aⱼ | 10.568.075.000 aⱼ | 10.570.075.000 aⱼ | 65.000 aⱼ | 2.051.244.000.000 s |
@@ -1400,7 +1406,7 @@ precisión, útil para contraste externo, pero no desplazal tramo central emplea
 | Total | 10.568.075.000 aⱼ | 100 % |
 
 La comparación confirma que la sensibilidad 75.000 aⱼ apenas desplaza los porcentajes principales, aunque mejora
-la precisión del contraste. Si se usa como lectura lateral, el error frente al bloque NASA de contraste
+la precisión del contraste. Si se usa como lectura lateral, la diferencia formal absoluta frente al conjunto externo redondeado de contraste
 11.000.010.000 aⱼ pasa de 432.000.000 aⱼ a 431.935.000 aⱼ. La diferencia es mínima frente al bloque de miles de
 millones de años, pero suficiente para declararse y no perder un matiz técnico que el lector especializado puede
 valorar.
@@ -1488,7 +1494,7 @@ que aporta el Sistema Vectorial SV.
 | Bloque de 1.000.000.000 aⱼ para gigante roja | No distingue por sí solo inicio, término y tránsito posterior | A_RG,fin(Oₛₛ) = 10.568.000.000 aⱼ y A_RG,fin(O☉) = 10.570.000.000 aⱼ |
 | Destino final como enana blanca | Declara régimen físico general, no corte de entrada | A_WD(Oₛₛ) = 10.568.010.000 aⱼ y A_WD(O☉) = 10.570.010.000 aⱼ |
 | Tramo final de 10.000 aⱼ o sensibilidad de 75.000 aⱼ | Distingue lectura estrecha y lectura amplia | A_WD(Oₛₛ) = 10.568.010.000 aⱼ y A_WD,75(Oₛₛ) = 10.568.075.000 aⱼ |
-| Secuencia principal de 10.000.000.000 aⱼ | Entrega un bloque redondeado útil, no una admisión formal | Error absoluto frente a SV sistémico: 432.000.000 aⱼ |
+| Secuencia principal de 10.000.000.000 aⱼ | Entrega un conjunto redondeado útil, no una admisión formal | Diferencia formal absoluta frente a SV sistémico: 432.000.000 aⱼ |
 | Expresiones “casi” o “unos” | Comunican escala sin fijar magnitud | Requieren dominio, unidad, tramo, residual y retorno |
 
 La ganancia formal aparece cuando cada formulación externa deja de operar como frase general y se convierte en
@@ -1502,7 +1508,7 @@ El patrón etario se fija por el año juliano.
 1 aⱼ = 365,25 d = 31.557.600 s
 
 Esa definición permite convertir las magnitudes principales a segundos sin cambiar de dominio. La conversión no
-gobierna el cálculo; sólo devuelve una lectura metrológica externa. Bajo esa unidad, el error absoluto de
+gobierna el cálculo; sólo devuelve una lectura metrológica externa. Bajo esa unidad, la diferencia formal absoluta de
 432.000.000 aⱼ equivale a.
 
 432.000.000 · 31.557.600 = 13.632.883.200.000.000 s
@@ -1517,27 +1523,27 @@ La transición final de 10.000 aⱼ equivale a.
 
 La lectura porcentual exige declarar denominador. Si el denominador es el total SV sistémico hasta enana blanca,
 10.568.010.000 aⱼ, la secuencia principal ocupa 90,537386 %, la gigante roja 9,462519 % y la transición final
-0,0000946 %. Si el denominador es el total del bloque NASA de contraste, 11.000.010.000 aⱼ, la secuencia
+0,0000946 %. Si el denominador es el total del conjunto externo redondeado de contraste, 11.000.010.000 aⱼ, la secuencia
 principal ocupa 90,909008 %, la gigante roja 9,090901 % y la transición final 0,0000909 %. No hay un porcentaje
 único si no se declara el denominador. Éste es uno de los puntos donde la precisión SV supera la frase
 cualitativa: no sólo calcula el porcentaje, sino que declara de qué totalidad procede.
 
-## X.6. Contraste de error, diferencia absoluta, diferencia relativa y denominador declarado
+## X.6. Contraste de diferencia formal absoluta, diferencia relativa y denominador declarado
 
 | Lectura | Resultado | Campo de referencia |
 |---|---:|---|
-| Error absoluto principal | 432.000.000 aⱼ | Total NASA menos total SV sistémico |
-| Error en segundos | 13.632.883.200.000.000 s | Retorno metrológico del error absoluto |
-| Error sobre total NASA | 3,927269 % | 432.000.000 / 11.000.010.000 |
-| Error sobre total SV | 4,087808 % | 432.000.000 / 10.568.010.000 |
-| Error sobre secuencia NASA | 4,32 % | 432.000.000 / 10.000.000.000 |
+| Diferencia formal absoluta principal | 432.000.000 aⱼ | Total NASA menos total SV sistémico |
+| Diferencia en segundos | 13.632.883.200.000.000 s | Retorno metrológico de la diferencia formal absoluta |
+| Diferencia porcentual sobre total del conjunto externo | 3,927269 % | 432.000.000 / 11.000.010.000 |
+| Diferencia porcentual sobre total SV | 4,087808 % | 432.000.000 / 10.568.010.000 |
+| Diferencia porcentual sobre secuencia del conjunto externo | 4,32 % | 432.000.000 / 10.000.000.000 |
 | Diferencia entre dominios SV | 2.000.000 aⱼ | Conservación de A☉ − Aₛₛ |
 | Diferencia de dominio en segundos | 63.115.200.000.000 s | Retorno metrológico de 2.000.000 aⱼ |
 | Tránsito final estrecho | 315.576.000.000 s | Retorno de 10.000 aⱼ |
 | Sensibilidad amplia | 2.366.820.000.000 s | Retorno de 75.000 aⱼ |
 | Diferencia amplio–estrecho | 2.051.244.000.000 s | Retorno de 65.000 aⱼ |
 
-Con esta tabla se evita presentar un porcentaje sin campo de lectura. El error de 432.000.000 aⱼ equivale al
+Con esta tabla se evita presentar un porcentaje sin campo de lectura. La diferencia formal absoluta de 432.000.000 aⱼ equivale al
 3,927269 %, al 4,087808 % o al 4,32 %, según el denominador elegido. Los tres valores son correctos si se
 declara el campo al que pertenecen; imponer uno solo como lectura total reduciría la información disponible.
 
@@ -1570,15 +1576,15 @@ que condicionan la determinación: dominio, corte inicial, frontera de fase, tra
 o retorno. En este estudio, por ejemplo, la diferencia entre Aₛₛ y A☉ no es un detalle secundario, porque cambia
 todos los cortes posteriores en 2.000.000 aⱼ. También debe incorporarse la diferencia entre duración de fase y
 apertura restante, porque 9,462519 % y 9,462614058844 % son cifras próximas, pero no expresan la misma magnitud;
-la primera mide la duración de la fase gigante roja sobre el bloque completo SV; la segunda mide lo que falta
-por recorrer después de entrar en gigante roja hastal horizonte de enana blanca. Cuando una distinción cambia
+la primera mide la duración de la fase gigante roja sobre el conjunto completo SV; la segunda mide lo que falta
+por recorrer después de entrar en gigante roja hasta el horizonte de enana blanca. Cuando una distinción cambia
 la salida, el porcentaje o el residual, su entrada es necesaria.
 
 La necesidad también aparece cuando el enunciado externo no es unívoco. NASA puede formular el futuro solar como
 edad actual aproximada, tramo restante hasta gigante roja, vida total de secuencia principal, fase de expansión,
 tránsito por nebulosa planetaria o destino de enana blanca. Esas lecturas no son idénticas. Si se toma una de
 ellas sin declararla, se produce una cifra aparentemente clara pero formalmente incompleta. Por eso el cálculo
-central conserva tres clases de dato: el bloque SV de dominio, el bloque externo redondeado de contraste y la
+central conserva tres clases de dato: el conjunto SV de dominio, el conjunto externo redondeado de contraste y la
 cadena externa compuesta cuando el propio material divulgativo permite enlazar edad actual, tramo restante, fase
 gigante roja y transición final.
 
@@ -1587,7 +1593,7 @@ gigante roja y transición final.
 Una magnitud complementaria puede incorporarse si cumple cuatro condiciones: tiene dominio físico claro, unidad
 declarada, función en el tránsito solar y retorno controlado. Bajo esas condiciones, pueden entrar edad
 redondeada externa, tiempo restante hasta gigante roja, duración de la fase gigante roja, tránsito por nebulosa
-planetaria, segundos derivados del año juliano, porcentaje de fase y error absoluto. También pueden entrar, como
+planetaria, segundos derivados del año juliano, porcentaje de fase y diferencia formal absoluta. También pueden entrar, como
 contraste físico, datos sobre fusión nuclear, pérdida de envoltura, formación de nebulosa planetaria y remanente
 de enana blanca, porque ayudan a precisar qué significa cada fase sin desplazar el cálculo etario.
 
@@ -1609,8 +1615,8 @@ diferencia explica por qué un redondeo externo puede ser útil y, al mismo tiem
 dominio. El segundo es el plano de cadena divulgativa compuesta: si se encadenan 4.600.000.000 aⱼ +
 5.000.000.000 aⱼ +
 1.000.000.000 aⱼ + 10.000 aⱼ, se llega a 10.600.010.000 aⱼ, cifra mucho más próxima a la determinación SV que
-el bloque redondeado de 11.000.010.000 aⱼ. El tercero es el plano de denominadores: un mismo tramo cambia de
-porcentaje si se mide sobre vida total, sobre futuro restante, sobre bloque externo o sobre horizonte raigal.
+el conjunto redondeado de 11.000.010.000 aⱼ. El tercero es el plano de denominadores: un mismo tramo cambia de
+porcentaje si se mide sobre vida total, sobre futuro restante, sobre conjunto externo o sobre horizonte raigal.
 
 No conviene incorporar como cálculo central todo lo que resulte interesante. El destino de Mercurio, Venus o la
 Tierra durante la fase gigante roja, la expansión radial de la estrella, la masa perdida o la luminosidad
@@ -1634,11 +1640,11 @@ composición y su dominio.
 | Inicio RG por cadena alta | 9.600.000.000 aⱼ | +32.000.000 aⱼ frente a A_RG,inicio(Oₛₛ) | Contraste compuesto |
 | WD por cadena alta | 10.600.010.000 aⱼ | +32.000.000 aⱼ frente a A_WD(Oₛₛ) | Contraste compuesto |
 | WD por cadena alta amplia | 10.600.075.000 aⱼ | +32.000.000 aⱼ frente a A_WD,75(Oₛₛ) | Sensibilidad compuesta |
-| Bloque externo de secuencia | 11.000.010.000 aⱼ | +432.000.000 aⱼ frente a A_WD(Oₛₛ) | Redondeo de bloque |
+| Conjunto externo de secuencia | 11.000.010.000 aⱼ | +432.000.000 aⱼ frente a A_WD(Oₛₛ) | Redondeo de bloque |
 | “Unos diez mil millones” | Indeterminado | No decide futuro, edad total ni fase | U hasta declarar dominio |
 
 Esta tabla evita multiplicar lecturas sin necesidad. Muestra que el dato externo encadenado como edad actual
-alta más tramo restante deja una diferencia de 32.000.000 aⱼ, mientras el bloque redondeado de secuencia
+alta más tramo restante deja una diferencia de 32.000.000 aⱼ, mientras el conjunto redondeado de secuencia
 principal eleva la diferencia a 432.000.000 aⱼ. El SV distingue ambas rutas sin mezclarlas.
 
 ## XI.5. Retornos metrológicos de los contrastes complementarios
@@ -1653,7 +1659,7 @@ principal eleva la diferencia a 432.000.000 aⱼ. El SV distingue ambas rutas si
 | Cadena externa alta frente a A_WD(O☉) | 30.000.000 | 946.728.000.000.000 |
 | Cadena externa baja frente a A_WD(Oₛₛ) | 68.000.000 | 2.145.916.800.000.000 |
 | Cadena externa baja frente a A_WD(O☉) | 70.000.000 | 2.209.032.000.000.000 |
-| Bloque externo frente a A_WD(Oₛₛ) | 432.000.000 | 13.632.883.200.000.000 |
+| Conjunto externo frente a A_WD(Oₛₛ) | 432.000.000 | 13.632.883.200.000.000 |
 | Tramo amplio frente a tramo central | 65.000 | 2.051.244.000.000 |
 
 Los retornos en segundos se derivan siempre de 1 aⱼ = 31.557.600 s. No sustituyen la lectura etaria; la
@@ -1687,8 +1693,8 @@ magnitud formalmente fijada. Entonces la frase deja de ser orientación y preten
 formal. Ahí el Sistema Vectorial SV introduce la corrección: no niega la utilidad de la aproximación, pero exige
 declarar cuánto redondeo hay, qué dominio se ha usado, qué tramo se ha sumado y qué residual resulta.
 
-El caso principal es la secuencia principal total. En el bloque NASA de contraste aparece una escala de
-10.000.000.000 aⱼ; el SV, desde el dominio sistémico, calcula 9.568.000.000 aⱼ. La diferencia absoluta es
+El caso principal es la secuencia principal total. En el conjunto externo redondeado de contraste aparece una escala de
+10.000.000.000 aⱼ; el SV, desde el dominio sistémico, calcula 9.568.000.000 aⱼ. La diferencia formal absoluta es
 432.000.000 aⱼ. Esa diferencia no basta para declarar fallo material grave en la divulgación externa, porque el
 redondeo al millardo puede absorberla. Pero sí basta para afirmar que el dato externo no es determinación de
 precisión. La frase “casi diez mil millones” orienta; el cálculo 9.568.000.000 aⱼ formaliza.
@@ -1770,20 +1776,20 @@ dominio solar individual, los cortes equivalentes son 10.570.000.000 aⱼ y 10.5
 10.000 aⱼ no altera la lectura general, pero impide la identificación instantánea de dos estados físicos
 distintos.
 
-## XII.7. Valor científico del contraste coordinado con NASA
+## XII.7. Valor científico del contraste externo con NASA
 
-El valor científico del contraste no consiste en oponer el SV a NASA. Consiste en colocar ambos planos en una
-relación ordenada. La formulación NASA presenta el futuro solar con lenguaje de divulgación y con cifras
+El valor científico del contraste no consiste en oponer el SV a NASA, sino en distinguir sus
+planos de operación. La formulación NASA presenta el futuro solar con lenguaje de divulgación y con cifras
 redondeadas. El SV toma esa información como referencia externa y la somete a dominio, origen, tramo, porcentaje
-y residual. La consecuencia es una precisión que no destruye el dato externo, sino que lo mejora en el plano
-formal.
+y residual. La consecuencia es una precisión que no destruye el dato externo, sino que lo sitúa en el plano
+formal que le corresponde.
 
 La frase “NASA redondea; el Sistema Vectorial SV formaliza” debe entenderse en ese sentido. No es una fórmula de
 confrontación; es una delimitación de funciones. El redondeo comunica; la formalización determina. La
-divulgación permite que un público amplio comprendal destino del Sol; el cálculo SV permite saber cuánto dura
-cada fase, qué porcentaje ocupa, qué error absoluto aparece frente al bloque externo y qué dominio se ha usado.
-La relación es aditiva: conserva el fenómeno físico descrito por la astrofísica y añade una regla de precisión
-para que el dato no se presente con más precisión de la que realmente tiene.
+divulgación permite que un público amplio comprenda el destino del Sol; el cálculo SV permite saber cuánto dura
+cada fase, qué porcentaje ocupa, qué diferencia formal absoluta aparece frente al conjunto externo y qué dominio se ha usado.
+La relación es de contraste por dominios: conserva el fenómeno físico descrito por la astrofísica y añade una
+regla de precisión para que el dato no se presente con más determinación de la que realmente posee.
 
 # XIII. Restricciones de interpretación
 
@@ -1802,14 +1808,14 @@ condiciones fallan, el dato no determina, aunque proceda de una institución cie
 
 ## XIII.2. La formulación NASA no resulta invalidada por usar lenguaje redondeado
 
-El uso de lenguaje redondeado no invalidal valor divulgativo de NASA. Una expresión divulgativa puede ser
+El uso de lenguaje redondeado no invalida el valor divulgativo de NASA. Una expresión divulgativa puede ser
 correcta en su plano aunque no sea formalmente suficiente. Decir “unos cinco mil millones de años” o “casi diez
 mil millones de años” comunica una escala física general, no una tabla formal de dominio. La lectura SV
 no debe convertir esa diferencia de función en declaración de error material.
 
 El análisis muestra la insuficiencia del redondeo para una determinación formal de precisión. Si el SV calcula
 9.568.000.000 aⱼ para la secuencia principal total sistémica y el banco externo de contraste usa 10.000.000.000 aⱼ,
-la diferencia absoluta de 432.000.000 aⱼ no destruye el valor divulgativo del redondeo. Sí muestra que el
+la diferencia formal absoluta de 432.000.000 aⱼ no destruye el valor divulgativo del redondeo. Sí muestra que el
 redondeo no debe ocupar el lugar del resultado formal.
 
 ## XIII.3. El cálculo SV no declara observación empírica nueva del Sol
@@ -1841,7 +1847,7 @@ El origen (0,0) no es el centro físico del Sol, no es el centro geométrico del
 baricentro y no es un punto del espacio desde el que se mide una distancia astronómica común. Es una referencia
 formal de recomposición. Su función es ordenar el cálculo de edad bajo dominio declarado.
 
-Confundir (0,0) con un lugar físico ordinario produciría un desplazamiento ilegítimo del aparato. El cálculo no
+Confundir (0,0) con un lugar físico ordinario produciría un desplazamiento ilegítimo del sistema formal. El cálculo no
 dice que el Sol esté a cierta distancia del origen; dice que el tránsito etario se recompone desde el origen
 formal del dominio. Esta restricción evita que la edad se convierta en distancia, que el origen se convierta en
 objeto físico o que el resultado se lea como cartografía espacial.
@@ -1861,7 +1867,7 @@ se tome como cálculo completo.
 ## XIII.7. El porcentaje calculado no sustituye modelos de evolución estelar
 
 Los porcentajes calculados no sustituyen modelos físicos de evolución estelar. Decir que la gigante roja ocupa
-9,462519 % del bloque SV hasta entrada en enana blanca no describe por sí solo toda la física de esa fase. No
+9,462519 % del conjunto SV hasta entrada en enana blanca no describe por sí solo toda la física de esa fase. No
 informa de luminosidad, masa perdida, estructura del núcleo, evolución química, dinámica de la envoltura ni
 enfriamiento posterior. Informa de distribución etaria bajo el patrón declarado.
 
@@ -1917,15 +1923,15 @@ aⱼ.
 
 ## XIV.3. Resultado comparativo SV–NASA
 
-El contraste con el bloque NASA de contraste se establece sobre el bloque externo redondeado.
+El contraste con el conjunto externo redondeado de contraste se establece sobre el conjunto externo redondeado.
 
 Con Δ_MS,total^NASA = 10.000.000.000 aⱼ, Δ_RG^NASA = 1.000.000.000 aⱼ y Δ_PN→WD^NASA = 10.000 aⱼ, se obtiene Δ_total^NASA = 11.000.010.000 aⱼ.
 
 El SV, en dominio sistémico, devuelve Δ_MS,total^SV = 9.568.000.000 aⱼ, Δ_RG^SV = 1.000.000.000 aⱼ y Δ_PN→WD^SV = 10.000 aⱼ, lo que da Δ_total^SV = 10.568.010.000 aⱼ.
 
-La comparación principal se presenta.
+La comparación principal se presenta mediante magnitudes declaradas.
 
-| Magnitud | Sistema Vectorial SV | Bloque NASA de contraste |
+| Magnitud | Sistema Vectorial SV | Conjunto externo redondeado de contraste |
 |---|---:|---:|
 | Secuencia principal total | 9.568.000.000 aⱼ | 10.000.000.000 aⱼ |
 | Fase gigante roja | 1.000.000.000 aⱼ | 1.000.000.000 aⱼ |
@@ -1933,30 +1939,30 @@ La comparación principal se presenta.
 | Total hasta enana blanca | 10.568.010.000 aⱼ | 11.000.010.000 aⱼ |
 
 La comparación principal muestra que la diferencia principal no está en la fase gigante roja ni en la transición
-final, sino en el bloque redondeado de secuencia principal.
+final, sino en el conjunto redondeado de secuencia principal.
 
-## XIV.4. Error absoluto principal
+## XIV.4. Diferencia formal absoluta principal
 
-El error absoluto principal entre el bloque NASA de contraste y el resultado SV sistémico se calcula al restar
+La diferencia formal absoluta principal entre el conjunto externo redondeado de contraste y el resultado SV sistémico se calcula al restar
 10.568.010.000 aⱼ de 11.000.010.000 aⱼ. La diferencia es E_abs = 432.000.000 aⱼ. La misma distancia aparece en la
-secuencia principal total, donde el bloque externo de 10.000.000.000 aⱼ se separa del cálculo SV de
+secuencia principal total, donde el conjunto externo de 10.000.000.000 aⱼ se separa del cálculo SV de
 9.568.000.000 aⱼ por esos mismos 432.000.000 aⱼ.
 
-Este error no se presenta como pérdida de valor del redondeo divulgativo. Se presenta como medida formal de su
-diferencia respecto de la determinación SV.
+Esta diferencia no se presenta como pérdida de valor del redondeo divulgativo. Se presenta como medida formal de su
+separación respecto de la determinación SV.
 
-## XIV.5. Error porcentual principal
+## XIV.5. Diferencia porcentual principal
 
-El error absoluto de 432.000.000 aⱼ puede leerse respecto de cuatro denominadores, y por eso cada porcentaje
-debe declarar su campo de referencia. Frente al total del bloque NASA de contraste, E_%NASA = 432.000.000 /
+La diferencia formal absoluta de 432.000.000 aⱼ puede leerse respecto de cuatro denominadores, y por eso cada porcentaje
+debe declarar su campo de referencia. Frente al total del conjunto externo redondeado de contraste, E_%NASA = 432.000.000 /
 11.000.010.000 · 100 ≈ 3,927269 %. Frente al total SV sistémico, E_%SV = 432.000.000 / 10.568.010.000 · 100 ≈
-4,087808 %. Frente al bloque redondeado de secuencia principal NASA, E_%MS,NASA = 432.000.000 / 10.000.000.000 ·
+4,087808 %. Frente al conjunto redondeado de secuencia principal del conjunto externo, E_%MS,NASA = 432.000.000 / 10.000.000.000 ·
 100 = 4,32 %. Frente a la secuencia principal calculada por SV, E_%MS,SV = 432.000.000 / 9.568.000.000 · 100 ≈
 4,515050 %.
 
 Estas lecturas no se contradicen. Cada una usa un denominador distinto y debe declararlo. La forma más directa
-para el cuerpo principal es que el redondeo NASA se separa del cálculo SV sistémico en 432.000.000 aⱼ,
-equivalentes al 4,32 % de la secuencia principal redondeada por NASA y al 4,515050 % de la secuencia principal
+para el cuerpo principal es que el redondeo externo se separa del cálculo SV sistémico en 432.000.000 aⱼ,
+equivalentes al 4,32 % de la secuencia principal redondeada por el conjunto externo y al 4,515050 % de la secuencia principal
 calculada por SV.
 
 ## XIV.6. Fórmula sintética del resultado
@@ -1964,11 +1970,11 @@ calculada por SV.
 La fórmula sintética del resultado puede expresarse como «NASA redondea; el Sistema Vectorial SV formaliza». En
 términos de cálculo, la cadena es dato externo redondeado → dominio declarado → origen (0,0) → tramo situado →
 residual → retorno SV. En forma de salida comparativa, A_WD(Oₛₛ) = 10.568.010.000 aⱼ; A_WD(O☉) = 10.570.010.000
-aⱼ; E_valor absoluto de (NASA−SV) = 432.000.000 aⱼ; R_WD,SS = 0; R_WD,☉ = 0.
+aⱼ; E_dif(externo−SV) = 432.000.000 aⱼ; R_WD,SS = 0; R_WD,☉ = 0.
 
 La salida final puede formularse de este modo. Bajo dominio sistémico, el tránsito solar hacia régimen de enana
-blanca se fija en 10.568.010.000 aⱼ; bajo dominio solar individual, en 10.570.010.000 aⱼ; frente al bloque NASA
-de contraste, la diferencia absoluta principal es 432.000.000 aⱼ. NASA conserva valor como referencia externa de
+blanca se fija en 10.568.010.000 aⱼ; bajo dominio solar individual, en 10.570.010.000 aⱼ; frente al conjunto externo redondeado
+de contraste, la diferencia formal absoluta principal es 432.000.000 aⱼ. NASA conserva valor como referencia externa de
 contraste; el Sistema Vectorial SV conserva la admisión formal de dominio.
 
 # XV. Conclusión
@@ -1981,7 +1987,7 @@ presenta el futuro solar con un lenguaje orientado a la comprensión general: el
 millones de años en su régimen actual, entrará después en fase de gigante roja, expulsará sus capas externas y
 terminará finalmente como enana blanca. El Sistema Vectorial SV no rechaza esa secuencia; la toma como banco
 externo de contraste y la convierte en cálculo formal mediante dominio declarado, origen (0,0), tramo situado,
-porcentaje, error absoluto y residual algebraico.
+porcentaje, diferencia formal absoluta y residual algebraico.
 
 La salida formal se presenta en dos dominios. En dominio sistémico, con Aₛₛ = 4.568.000.000 aⱼ, la entrada en
 régimen de enana blanca se sitúa en 10.568.010.000 aⱼ. En dominio solar individual, con A☉ = 4.570.000.000 aⱼ,
@@ -1997,8 +2003,8 @@ de envoltura y la formación de una enana blanca. El Sistema Vectorial SV no sus
 es una regla de precisión para no tomar un redondeo como admisión formal. Allí donde NASA habla de escalas
 generales, la lectura SV exige precisar por el dominio, la unidad, el tramo, el porcentaje y el residual.
 
-Por eso, la diferencia de 432.000.000 aⱼ frente al bloque NASA de contraste debe presentarse como cuantificación
-formal del redondeo. El bloque externo de 10.000.000.000 aⱼ para la secuencia principal conserva valor
+Por eso, la diferencia de 432.000.000 aⱼ frente al conjunto externo redondeado de contraste debe presentarse como cuantificación
+formal del redondeo. El conjunto externo de 10.000.000.000 aⱼ para la secuencia principal conserva valor
 orientativo; el cálculo SV sistémico devuelve 9.568.000.000 aⱼ. La diferencia es material para un estudio de
 precisión, aunque pueda ser absorbida por una formulación divulgativa al millardo. El avance científico se
 produce cuando cada lenguaje reconoce su alcance.
@@ -2008,7 +2014,7 @@ produce cuando cada lenguaje reconoce su alcance.
 El aporte formal del Sistema Vectorial SV consiste en transformar una secuencia física cualitativa en una
 estructura calculable. Este estudio no se limita a decir que el Sol pasará a gigante roja y después a enana
 blanca. Declara dos dominios, fija cortes actuales, incorpora tramos externos como contraste, recompone desde
-origen formal, calcula porcentajes, determina error absoluto y verifica residual. La frase “mucho menos tiempo”
+origen formal, calcula porcentajes, determina diferencia formal absoluta y verifica residual. La frase “mucho menos tiempo”
 se expresa mediante una proporción. En la distribución SV sistémica, la gigante roja ocupa 9,462519 % del bloque
 hasta entrada en enana blanca; la secuencia principal ocupa 90,537386 %, y la transición final hacia enana
 blanca ocupa 0,0000946
@@ -2016,7 +2022,7 @@ blanca ocupa 0,0000946
 
 Esa salida no agota la astrofísica solar. No pretende sustituir modelos de evolución estelar, ni observación
 instrumental, ni simulaciones físicas. Su valor está en otro plano: formaliza la atribución etaria del tránsito
-solar y separa el dato externo de su posible sobrelectura. El SV no convierte el redondeo NASA en error material
+solar y separa el dato externo de su posible sobrelectura. El SV no convierte el redondeo externo en error material
 general; precisa algo más fino: la formulación redondeada de NASA es útil como contraste, pero insuficiente como
 determinación formal de precisión.
 
@@ -2024,7 +2030,7 @@ determinación formal de precisión.
 
 El cálculo alcanza validez formal en sus dos dominios principales. En Ωₛₛ, el residual de recomposición es 0. En
 Ω☉, el residual de recomposición también es 0. La diferencia entre resultados conserva exactamente la diferencia
-entre Aₛₛ y A☉. El desarrollo no mezcla dominios, no ocultal cambio de base y no introduce un dato externo
+entre Aₛₛ y A☉. El desarrollo no mezcla dominios, no oculta el cambio de base y no introduce un dato externo
 como fundamento interno.
 
 El banco externo se conserva como contraste. Las fuentes NASA aportan la secuencia física general del futuro
@@ -2106,7 +2112,7 @@ https://science.nasa.gov/missions/hubble/hubble-witnesses-the-final-blaze-of-glo
 
 ## Advertencia y reserva de derechos
 
-Esta publicación, titulada *Contraste de precisión etaria solar SV–NASA. NASA redondea; el Sistema Vectorial SV formaliza*, incluida la totalidad de sus textos, formulaciones, estructura expositiva, tablas, cálculos, criterios de admisión, nomenclatura, dominios, tramos, residuales, retornos metrológicos, porcentajes, errores absolutos, archivos auxiliares y cualquier material complementario que forme parte de la obra o se publique vinculado a ella, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO u otra entidad competente.
+Esta publicación, titulada *Contraste de precisión etaria solar SV–NASA. NASA redondea; el Sistema Vectorial SV formaliza*, incluida la totalidad de sus textos, formulaciones, estructura expositiva, tablas, cálculos, criterios de admisión, nomenclatura, dominios, tramos, residuales, retornos metrológicos, porcentajes, diferencias formales absolutas, archivos auxiliares y cualquier material complementario que forme parte de la obra o se publique vinculado a ella, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO u otra entidad competente.
 
 Cualquier forma de explotación de la obra o de partes sustanciales de ella —incluidas su reproducción, distribución, comunicación pública, puesta a disposición, transformación, traducción, adaptación, incorporación a bases de datos, minería de textos y datos, entrenamiento o evaluación de sistemas automatizados, integración en productos, servicios, informes, software, modelos, catálogos, materiales docentes, materiales industriales, publicaciones técnicas, desarrollos empresariales, sistemas de inteligencia artificial o herramientas de análisis científico— sólo podrá realizarse conforme a la licencia indicada, con autorización expresa y por escrito de los titulares de derechos, o al amparo de una excepción legal aplicable.
 
@@ -2150,7 +2156,7 @@ This provision does not limit scientific criticism, academic review, independent
 
 ## Justificación científica de la publicación previa a contraste, implementación o explotación técnica
 
-La formulación de *Contraste de precisión etaria solar SV–NASA* no puede plantearse como un desarrollo privado, opaco o meramente instrumental. El trabajo fija públicamente una arquitectura formal que coordina edad del Sistema Solar como dominio sistémico, edad del Sol como objeto físico individual, tramos externos de contraste, origen (0,0) de recomposición, Lanzadera Ómicron, residual algebraico de admisión, porcentajes de fase, error absoluto y retorno metrológico. Esa fijación previa permite que cualquier contraste posterior, crítica, implementación, lectura computacional, desarrollo técnico o revisión académica pueda cotejarse con una formulación anterior y trazable, sin reconstrucciones oportunistas ni desplazamientos de autoría.
+La formulación de *Contraste de precisión etaria solar SV–NASA* no puede plantearse como un desarrollo privado, opaco o meramente instrumental. El trabajo fija públicamente una arquitectura formal que coordina edad del Sistema Solar como dominio sistémico, edad del Sol como objeto físico individual, tramos externos de contraste, origen (0,0) de recomposición, Lanzadera Ómicron, residual algebraico de admisión, porcentajes de fase, diferencia formal absoluta y retorno metrológico. Esa fijación previa permite que cualquier contraste posterior, crítica, implementación, lectura computacional, desarrollo técnico o revisión académica pueda cotejarse con una formulación anterior y trazable, sin reconstrucciones oportunistas ni desplazamientos de autoría.
 
 La relevancia científica de los resultados no reside en proclamar reconocimiento externo inmediato ni en sustituir los procedimientos de la ciencia contemporánea. Reside en abrir una región de contraste formal donde astronomía observacional, metrología, datos externos estabilizados, registros etarios, dominios SV y retorno matemático puedan confrontarse bajo criterios declarados. El valor del desarrollo consiste precisamente en esa frontera: no negar la práctica científica vigente, no usurpar su plano instrumental y no permitir que ésta sustituya el plano formal del Sistema Vectorial SV. La publicación previa fija las condiciones de esa confrontación antes de que se produzcan usos derivados, implementaciones, validaciones parciales o aplicaciones externas.
 
@@ -2158,7 +2164,7 @@ Sin esta fijación pública, la fase posterior podría confundirse con una aplic
 
 ## Scientific justification for publication prior to contrast, implementation or technical exploitation
 
-The formulation of *Contrast of Solar Age Precision SV–NASA* cannot be framed as a private, opaque or merely instrumental development. The work publicly fixes a formal architecture coordinating the age of the Solar System as systemic domain, the age of the Sun as an individual physical object, external contrast intervals, (0,0) origin of recomposition, Omicron Launcher, algebraic residual of admission, phase percentages, absolute error and metrological return. This prior fixation enables any subsequent contrast, criticism, implementation, computational reading, technical development or academic review to be compared against a prior and traceable formulation, without opportunistic reconstructions or displacement of authorship.
+The formulation of *Contrast of Solar Age Precision SV–NASA* cannot be framed as a private, opaque or merely instrumental development. The work publicly fixes a formal architecture coordinating the age of the Solar System as systemic domain, the age of the Sun as an individual physical object, external contrast intervals, (0,0) origin of recomposition, Omicron Launcher, algebraic residual of admission, phase percentages, formal absolute difference and metrological return. This prior fixation enables any subsequent contrast, criticism, implementation, computational reading, technical development or academic review to be compared against a prior and traceable formulation, without opportunistic reconstructions or displacement of authorship.
 
 The scientific relevance of the results does not lie in proclaiming immediate external recognition or in replacing the procedures of contemporary science. It lies in opening a region of formal contrast where observational astronomy, metrology, stabilised external data, age records, SV domains and mathematical return may be confronted under declared criteria. The value of the development lies precisely at that boundary: not in denying current scientific practice, not in usurping its instrumental plane and not in allowing it to replace the formal plane of the Vectorial System SV. Prior publication fixes the conditions of that confrontation before derived uses, implementations, partial validations or external applications arise.
 
