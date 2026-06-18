@@ -11,6 +11,8 @@
 **Licencia:** CC BY-NC-ND 4.0  
 **Fecha:** Madrid, 2026
 
+![Portada de la publicación Contraste de precisión etaria solar SV–NASA](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/contraste-precision-etaria-solar-sv-nasa/imagenes/portada.png)
+
 **Convenciones de notación para lectura externa al SV.** A significa edad o corte etario declarado; Aₛₛ designa
 la edad del Sistema Solar como dominio sistémico; A☉ designa la edad del Sol como objeto físico individual; Ωₛₛ
 y Ω☉ nombran esos dos dominios; Oₛₛ y O☉ nombran sus orígenes formales de recomposición; Δ indica tramo o
