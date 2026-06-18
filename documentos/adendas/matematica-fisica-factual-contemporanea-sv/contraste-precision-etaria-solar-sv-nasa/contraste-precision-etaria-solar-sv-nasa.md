@@ -27,14 +27,14 @@ son instrumentos de cálculo, no autoridades externas ni sustitutos del dominio 
 0.1. Resumen técnico ampliado  
 0.2. Nota de método. Ciencia contemporánea como contraste, no como fundamento del Sistema Vectorial SV  
 
-I. Estado del arte físico contemporáneo sobre el futuro solar  
+**I. Estado del arte físico contemporáneo sobre el futuro solar**
 I.1. El Sol como estrella de secuencia principal en la física contemporánea  
 I.2. Entrada futura en fase de gigante roja  
 I.3. Pérdida de envoltura, nebulosa planetaria y régimen de enana blanca  
 I.4. Diferencia entre divulgación científica, estimación astrofísica y clausura formal de magnitudes  
 I.5. Límites de expresiones como “unos”, “casi” y “mucho menos tiempo” en un cálculo de precisión  
 
-II. Análisis del problema  
+**II. Análisis del problema**
 II.1. Tránsito solar, no edad absoluta de la totalidad  
 II.2. Sol individual y Sistema Solar como dominios distintos  
 II.3. Distinción entre A☉ y Aₛₛ  
@@ -42,7 +42,7 @@ II.4. Por qué no basta con decir que el Sol “vivirá unos tantos miles de mil
 II.5. Necesidad de declarar origen, tramo, fase, unidad, residual y retorno  
 II.6. Riesgo de error de plano por conversión de un redondeo divulgativo en clausura físico  
 
-III. Marco formal del Sistema Vectorial SV aplicado al tránsito solar  
+**III. Marco formal del Sistema Vectorial SV aplicado al tránsito solar**
 III.1. Dominio declarado, objeto físico y frontera de régimen  
 III.2. Origen (0,0) como referencia formal de cálculo  
 III.3. Patrón etario SV y uso del año juliano aⱼ  
@@ -51,7 +51,7 @@ III.5. Función de la Lanzadera en la recomposición de tramos
 III.6. Residual algebraico y criterio de clausura formal  
 III.7. Restricción de no contaminación entre SV y bancos externos de contraste  
 
-IV. Datos de partida  
+**IV. Datos de partida**  
 IV.1. Magnitudes internas del SV empleadas  
 IV.2. Edad del Sistema Solar como dominio sistémico Aₛₛ = 4.568.000.000 aⱼ  
 IV.3. Edad del Sol como objeto individual A☉ = 4.570.000.000 aⱼ  
@@ -168,6 +168,7 @@ XV.4. Clausura del cálculo y conservación del banco externo como contraste
 XVI. Bibliografía  
 XVI.1. Fuentes internas del Sistema Vectorial SV  
 XVI.2. Fuentes externas de contraste físico y astronómico  
+
 ---
 
 # 0. Resumen
