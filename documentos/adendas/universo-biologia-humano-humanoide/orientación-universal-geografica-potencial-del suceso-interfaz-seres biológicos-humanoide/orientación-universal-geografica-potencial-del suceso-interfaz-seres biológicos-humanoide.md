@@ -111,7 +111,7 @@ Prefacio
 12.5. Objetivos declarados y desarrollos posteriores
 13. Bibliografía
 13.1. Bibliografía del Sistema Vectorial SV
-13.2. Bibliografía exterior subordinada
+13.2. Bibliografía exterior
 13.3. Conjuntos externos de contraste, datación y orientación comparada  
 14. Cláusulas legales
 
@@ -827,7 +827,7 @@ El humanoide definido por el Sistema Vectorial SV sólo queda orientativamente a
 Quedan declarados objetivos materiales posteriores. Primero: mantener la revisión APA7 inline en cada afirmación exterior y depurar la bibliografía cuando se incorporen nuevas fuentes o rutas. Segundo: construir laboratorios de rutas con datos trazables para calcular `δ_i` cuando existan magnitudes suficientes. Tercero: separar rutas-tipo, especies singularizadas, poblaciones concretas e individuos con seguimiento. Cuarto: ampliar tablas geológicas con subdominios reales —montañas, islas, mares, cuencas, fósiles o estratos— sólo cuando existan método, unidad, frontera y residual. Quinto: desarrollar tablas de individuación potencial para especies, familias, grupos e individuos con trazas suficientes. Sexto: formular el módulo técnico de orientación humanoide sin convertirlo en sensorio agregado ni archivo enciclopédico. Estos objetivos declarados no invalidan el resultado formal; delimitan los desarrollos que deberán precisarse en trabajos posteriores.
 
 ## 13. Bibliografía
-La bibliografía se divide en tres bloques: documentos del Sistema Vectorial SV con DOI materialmente utilizados en este desarrollo; bibliografía exterior subordinada; y conjuntos externos de contraste, datación y orientación comparada. La lista conserva criterio APA7, con DOI cuando consta materialmente en los documentos o fuentes consultadas.
+La bibliografía se divide en tres bloques: documentos del Sistema Vectorial SV con DOI materialmente utilizados en este desarrollo; bibliografía exterior; y conjuntos externos de contraste, datación y orientación comparada. La lista conserva criterio APA7, con DOI cuando consta materialmente en los documentos o fuentes consultadas.
 
 ### 13.1. Bibliografía del Sistema Vectorial SV
 Lloret Egea, J. A. (2026a). *Potencial de un suceso: comunicación estructural en el Universo físico realizado, equipotencialidad, diferencia polar y métrica*. IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.f0cbabc2>
@@ -854,7 +854,7 @@ Lloret Egea, J. A. (2026k). *Ruta 3: restricción regional/geológica*. ITVIA �
 
 Lloret Egea, J. A. (2026l). *Trilogía Cosmológica* [Colección]. ITVIA — IA eñ™ — La Biblia de la IA™. <https://doi.org/10.21428/39829d0b.2a152990>
 
-### 13.2. Bibliografía exterior subordinada
+### 13.2. Bibliografía exterior  
 Ballerini, M., Cabibbo, N., Candelier, R., Cavagna, A., Cisbani, E., Giardina, I., Lecomte, V., Orlandi, A., Parisi, G., Procaccini, A., Viale, M., y Zdravkovic, V. (2008). Interaction ruling animal collective behaviour depends on topological rather than metric distance: Evidence from a field study. *Proceedings of the National Academy of Sciences, 105*(4), 1232–1237. <https://doi.org/10.1073/pnas.0711437105>
 
 Benediktová, K., Adámková, J., Svoboda, J., Painter, M. S., Bartoš, L., Nováková, P., Vynikalová, L., Hart, V., Phillips, J. B., y Burda, H. (2020). Magnetic alignment enhances homing efficiency of hunting dogs. *eLife, 9*, e55080. <https://doi.org/10.7554/eLife.55080>
