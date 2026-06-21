@@ -108,7 +108,6 @@ Prefacio
 12.2. Resultado para los entes biológicos
 12.3. Resultado para el humano
 12.4. Resultado para el humanoide definido por el Sistema Vectorial SV
-12.5. Objetivos declarados y desarrollos posteriores
 13. Bibliografía
 13.1. Bibliografía del Sistema Vectorial SV
 13.2. Bibliografía exterior
@@ -823,8 +822,6 @@ El humano aparece como soporte biológico singular que añade lenguaje, memoria,
 ### 12.4. Resultado para el humanoide definido por el Sistema Vectorial SV
 El humanoide definido por el Sistema Vectorial SV sólo queda orientativamente admitido cuando traduce dominio a terna, frame, suceso, interfaz, potencial, trayectoria, residual y retorno. Si recibe datos sin dominio, no hay orientación formal. Si navega sin semántica de tránsito, no hay orientación en sentido SV. Si cierra sin residual, la operación falla. Si conserva `U` cuando falta frontera y devuelve `0` sólo cuando el dominio cierra, la orientación queda legítimamente admitida. La definición del humanoide queda subordinada a la cadena formal: Universo Épsilon-Atlas → observables → seres biológicos → humano → humanoide.
 
-### 12.5. Objetivos declarados y desarrollos posteriores
-Quedan declarados objetivos materiales posteriores. Primero: mantener la revisión APA7 inline en cada afirmación exterior y depurar la bibliografía cuando se incorporen nuevas fuentes o rutas. Segundo: construir laboratorios de rutas con datos trazables para calcular `δ_i` cuando existan magnitudes suficientes. Tercero: separar rutas-tipo, especies singularizadas, poblaciones concretas e individuos con seguimiento. Cuarto: ampliar tablas geológicas con subdominios reales —montañas, islas, mares, cuencas, fósiles o estratos— sólo cuando existan método, unidad, frontera y residual. Quinto: desarrollar tablas de individuación potencial para especies, familias, grupos e individuos con trazas suficientes. Sexto: formular el módulo técnico de orientación humanoide sin convertirlo en sensorio agregado ni archivo enciclopédico. Estos objetivos declarados no invalidan el resultado formal; delimitan los desarrollos que deberán precisarse en trabajos posteriores.
 
 ## 13. Bibliografía
 La bibliografía se divide en tres bloques: documentos del Sistema Vectorial SV con DOI materialmente utilizados en este desarrollo; bibliografía exterior; y conjuntos externos de contraste, datación y orientación comparada.
