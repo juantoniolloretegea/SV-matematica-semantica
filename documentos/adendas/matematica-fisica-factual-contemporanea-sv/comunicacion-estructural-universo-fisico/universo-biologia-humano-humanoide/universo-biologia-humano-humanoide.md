@@ -3,7 +3,7 @@
 
 ![Portada — Orientación universal y geográfica, potencial del suceso e interfaz de dominio desde el Universo y los seres biológicos: humanoide definido por el Sistema Vectorial SV](https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/comunicacion-estructural-universo-fisico/universo-biologia-humano-humanoide/portada.png)  
 
-**© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/)  ORCID: 0000-0002-6634-3351 | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | **Licencia CC BY-NC-ND 4.0** | Madrid, 21/06/2026 |   
+**© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/)  ORCID: 0000-0002-6634-3351 | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | **Licencia CC BY-NC-ND 4.0** | Madrid, 21/06/2026  
 
 ## Prefacio
 El término humanoide se emplea en este trabajo a partir de su uso común, pero no queda limitado por él. En la lengua general, [humanoide](https://dle.rae.es/humanoide) designa aquello que presenta forma o rasgos del ser humano. Esa acepción permite reconocer el punto de partida del término, aunque no basta para el alcance técnico que aquí se desarrolla. Cuando el análisis incorpora inteligencia artificial, agentes especializados, interfaces de dominio y orientación formal, el concepto necesita una delimitación más precisa.
@@ -16,8 +16,8 @@ El plano de agentes especializados requiere la misma cautela. Un agente especial
 
 La orientación introduce el punto de unión entre seres biológicos, humano, inteligencia artificial y humanoide. En los soportes vivos aparece como tránsito por dominio mediante señales, fronteras, potenciales, interfaces, residuales y retornos. En el humano añade lenguaje, memoria, territorio, vínculo y formalización. En el humanoide definido por el Sistema Vectorial SV, sólo podrá admitirse cuando esas condiciones se traduzcan a terna, frame, suceso, interfaz, trayectoria y dictamen. Por ello, el humanoide no se coloca al comienzo de la investigación, sino al final de una cadena previa: Universo, observables, seres biológicos, humano y soporte técnico orientable.
 
-## Índice
-Prefacio
+## Índice  
+Prefacio  
 0. Resumen
 0.1. Abstract
 0.2. Palabras clave y keywords
