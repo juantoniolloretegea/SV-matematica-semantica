@@ -5,6 +5,9 @@
 
 **© 2026. Todos los derechos reservados.** | [**Juan Antonio Lloret Egea**](https://www.linkedin.com/in/juanantoniolloretegea/)  ORCID: 0000-0002-6634-3351 | [Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)](https://www.itvia.online/) | IA eñ™ — La Biblia de la IA™ | [**ISSN 2695-6411**](https://portal.issn.org/resource/ISSN/2695-6411) | **Licencia CC BY-NC-ND 4.0** | Madrid, 21/06/2026  
 
+> La Recta Atlas recibe este nombre porque actúa como una línea de proyección y, al mismo tiempo, como un atlas formal: no dibuja mapas geográficos ordinarios, pero ordena observables, dominios y rutas dentro del universo físico realizado. Atlas conserva aquí su doble resonancia: la bóveda celeste sostenida por la figura mitológica y la colección de mapas que permite situar regiones y recorridos. Técnicamente, la Recta Atlas toma una edad física admisible `A_i`, calcula su coordenada de comparecencia `E_i=A_Ωobs−A_i`, la normaliza mediante `x_i=E_i/F_Ω` y la proyecta por `S_η(x_i)` sobre la Línea Umbral SV para obtener una posición inicial `(μ_i^0,λ_i^0)` y una intensidad de régimen `I_i^0`. Así no calcula un potencial absoluto por simple edad, sino una posición de potencial e intensidad bajo dominio declarado; la singularidad completa sólo aparece cuando existe un diferencial `δ_i` materialmente justificado por frontera, traza, ruta, vínculo, magnitud o residual.
+
+
 ## Índice  
 Prefacio  
 0. Resumen
