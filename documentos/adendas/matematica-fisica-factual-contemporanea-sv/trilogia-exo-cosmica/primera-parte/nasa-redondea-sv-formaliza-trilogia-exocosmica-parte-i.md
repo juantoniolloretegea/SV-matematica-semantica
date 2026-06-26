@@ -1,4 +1,4 @@
-# NASA redondea; el Sistema Vectorial SV formaliza
+# NASA redondea; el Sistema Vectorial — SV formaliza Trilogía Exocósmica Parte I
 
 **Patrón Ómicron, ε-Atlas, radio estructural, frontera etaria, nodo versal, Universo Versal, órbita suprasistémica y pivotación axial del dominio-universo físico realizado**
 
