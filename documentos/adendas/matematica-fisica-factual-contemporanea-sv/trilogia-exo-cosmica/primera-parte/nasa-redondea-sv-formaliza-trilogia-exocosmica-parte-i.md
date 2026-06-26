@@ -12,6 +12,7 @@
 **Colección:** *Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal*  
 **DOI de colección:** 10.21428/39829d0b.f51da8e2  
 **DOI de la publicación:** 10.21428/39829d0b.28563444 
+
 **URL canónica GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-exo-cosmica/primera-parte
 
 
