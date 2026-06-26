@@ -1,4 +1,4 @@
-# NASA redondea; el Sistema Vectorial — SV formaliza Trilogía Exocósmica Parte I
+# NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte I
 
 **Patrón Ómicron, ε-Atlas, radio estructural, frontera etaria, nodo versal, Universo Versal, órbita suprasistémica y pivotación axial del dominio-universo físico realizado**
 
@@ -13,7 +13,6 @@
 **DOI de colección:** 10.21428/39829d0b.f51da8e2  
 **URL canónica GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-exo-cosmica/primera-parte
 
----
 
 ## Resumen
 
@@ -23,7 +22,6 @@ Se definen y delimitan los nombres técnicos necesarios antes de su uso: Patrón
 
 **Palabras clave:** Sistema Vectorial SV; Trilogía Exocósmica; Patrón Ómicron; ε-Atlas; nodo versal; Universo Versal; Constante Descartes; Lanzadera Ómicron; Recta-Ómicron; Línea del Umbral SV; esfera raigal; fibra; radio estructural; frontera etaria; órbita suprasistémica; pivotación axial; no clausura honesta.
 
----
 
 ## Abstract
 
@@ -33,11 +31,10 @@ The study defines and delimits its technical terms before using them: Omicron Pa
 
 **Keywords:** Vectorial System SV; Exocosmic Trilogy; Omicron Pattern; ε-Atlas; versal node; Versal Universe; Descartes Constant; Omicron Launcher; Omicron Line; SV Threshold Line; root-fibre sphere; fibre; structural radius; age-boundary; suprasystemic orbit; axial pivoting; honest non-closure.
 
----
 
 ## Prólogo de la Trilogía Exocósmica
 
-La *Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal* se plantea como continuación formal de la Trilogía Cosmológica, no como corrección retroactiva de esta. La Trilogía Cosmológica fijó el dominio-universo observable, sus radios de lectura, la diferencia entre radio estructural, frontera situada, radio comóvil externo y retorno metrológico. La lectura exocósmica comienza al considerar ese dominio no solo desde su propia frontera, sino desde la pregunta por su inscripción en un régimen envolvente de lectura: nodo versal, Universo Versal de primer orden, órbita suprasistémica y pivotación axial.
+La *Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal* se plantea como continuación formal de la Trilogía Cosmológica, no como corrección retroactiva de esta. La Trilogía Cosmológica fijó el dominio-universo observable, sus radios de lectura, la diferencia entre radio estructural, frontera situada, radio comóvil externo y retorno metrológico (Lloret Egea, 2026k, 2026l, 2026m). La lectura exocósmica comienza al considerar ese dominio no solo desde su propia frontera, sino desde la pregunta por su inscripción en un régimen envolvente de lectura: nodo versal, Universo Versal de primer orden, órbita suprasistémica y pivotación axial.
 
 La primera parte establece el Patrón Ómicron y formaliza el paso desde ε-Atlas hacia el nodo versal. La segunda parte desarrollará el sistema exocósmico de ε-Atlas: radio orbital, diámetro, superficie, volumen, longitud de órbita, retornos metrológicos y relación volumétrica entre Universo Versal y ε-Atlas. La tercera parte tratará el ciclo exocósmico: pivotaciones, clausura, relación progenitor-descendiente, retorno y límites de determinación.
 
@@ -45,7 +42,6 @@ Junto a esa secuencia, esta primera parte incorpora una lectura radial más ampl
 
 La trilogía no postula una exterioridad absoluta ni pretende cerrar la Totalidad. Su ámbito es más preciso: formaliza el régimen que aparece cuando el dominio-universo habitado se proyecta hacia frontera, nodo, órbita y clausura bajo condiciones SV. Cuando no comparece dominio suficiente, el sistema no fuerza conclusión y conserva U.
 
----
 
 ## Índice
 
@@ -91,7 +87,6 @@ La trilogía no postula una exterioridad absoluta ni pretende cerrar la Totalida
 
 </details>
 
----
 
 # I. Estado del arte y problema de forma
 
@@ -137,7 +132,7 @@ La fórmula “NASA redondea; el Sistema Vectorial SV formaliza” se lee bajo e
 
 # II. Método: contraste externo y formalización SV
 
-El método se ordena mediante cinco reglas. La Ciencia Contemporánea entra como plano externo de contraste, no como fundamento formal del SV; ninguna magnitud se incorpora sin dominio declarado; ningún símbolo o nombre técnico se utiliza sin función y etimología previas; todo cálculo preserva residual y retorno; y, cuando faltan dominio, frontera, fuente, unidad, residual o retorno, el SV conserva U.
+El método se ordena mediante cinco reglas, en continuidad con los fundamentos algebraico-semánticos del SV (Lloret Egea, 2026a). La Ciencia Contemporánea entra como plano externo de contraste, no como fundamento formal del SV; ninguna magnitud se incorpora sin dominio declarado; ningún símbolo o nombre técnico se utiliza sin función y etimología previas; todo cálculo preserva residual y retorno; y, cuando faltan dominio, frontera, fuente, unidad, residual o retorno, el SV conserva U.
 
 El método opera así en un régimen de doble disciplina. Hacia fuera, conserva datos y lenguaje científico contemporáneo cuando son útiles para orientar escala. Hacia dentro, exige que toda magnitud pase por Patrón Ómicron, Lanzadera Ómicron, Recta-Ómicron, Línea del Umbral SV, Constante Descartes y verificación de no contradicción con la ecuación rectora del SV.
 
@@ -155,7 +150,7 @@ El método opera así en un régimen de doble disciplina. Hacia fuera, conserva 
 
 ## III.2. ε-Atlas
 
-**Función.** ε-Atlas designa el dominio-universo observable ya cerrado por la Trilogía Cosmológica cuando se lee bajo función portadora exocósmica. No introduce un segundo dominio físico, no desplaza `Ωobs` y no recalcula el radio estructural. Su identidad operativa queda fijada así:
+**Función.** ε-Atlas designa el dominio-universo observable ya cerrado por la Trilogía Cosmológica cuando se lee bajo función portadora exocósmica. No introduce un segundo dominio físico, no desplaza `Ωobs` y no recalcula el radio estructural. Su identidad operativa se expresa en forma de definición formal:
 
 `ε-Atlas := Ωobs | lectura exocósmica portadora`
 
@@ -287,7 +282,7 @@ Estas fórmulas no convierten la geometría auxiliar en fundamento formal ni sus
 
 ## IV.3. Relación con la Lanzadera Ómicron
 
-La operación de Lanzadera Ómicron no recalcula el radio estructural. Su función es situada y verificadora: permite leer desde una referencia local, como la Tierra, hacia la frontera etaria/proyectada del dominio, y también permite recomponer magnitudes ya calculadas cuando el cambio de origen queda declarado. La cadena propia de la Lanzadera puede expresarse así:
+La operación de Lanzadera Ómicron no recalcula el radio estructural. Su función es situada y verificadora: permite leer desde una referencia local, como la Tierra, hacia la frontera etaria/proyectada del dominio, y también permite recomponer magnitudes ya calculadas cuando el cambio de origen queda declarado. La cadena propia de la Lanzadera admite esta forma formal:
 
 `λ_acc → κ_∂←acc^SV → λ_∂ → Brazo_∂Ωobs^SV(Tierra) → R_aux,loc^SV`
 
@@ -362,17 +357,17 @@ con:
 
 ## V.2. Radio, diámetro y circunferencia
 
-Con el radio estructural heredado en notación ε-Atlas declarado:
+Declarado el radio estructural heredado en notación ε-Atlas,
 
 `R_ε = 13.800.000.000 ly_J`
 
-se obtiene:
+el diámetro se expresa como:
 
 `D_ε = 2R_ε`
 
 `D_ε = 27.600.000.000 ly_J`
 
-La circunferencia estructural auxiliar queda:
+La circunferencia estructural auxiliar se expresa como:
 
 `C_ε = 2πR_ε`
 
@@ -398,7 +393,7 @@ En metros cuadrados:
 
 `S_ε = 2,1419896936090227 × 10^53 m²`
 
-El volumen auxiliar queda:
+El volumen auxiliar se expresa como:
 
 `V_ε = (4π/3)R_ε³`
 
@@ -546,7 +541,7 @@ Ese nodo se denomina nodo versal y se simboliza como:
 
 El nodo versal no es un centro físico ordinario ni un punto astronómico localizado por observación instrumental. Es el nodo funcional respecto del cual ε-Atlas presenta tránsito orbital suprasistémico bajo Patrón Ómicron. Su función consiste en permitir la lectura exocósmica de primer orden: desde el dominio-universo que habitamos hacia el régimen que lo contiene orbitalmente.
 
-La transición formal queda:
+La transición formal se expresa como:
 
 `ε-Atlas → ∂ε-Atlas → Ξ_Ω`
 
@@ -630,7 +625,7 @@ se obtiene:
 
 `C_D^ℓ = 1.644.268.004,1909232869849931627402501525`
 
-La constante queda:
+La constante adopta esta forma:
 
 `𝒞_D^SV = (230.000.000, 1.644.268.004,1909232869849931627402501525, 7,148991322569232)`
 
@@ -714,7 +709,7 @@ El valor operativo localizado en la Trilogía Cosmológica es:
 
 `R_aux,loc^SV ≈ 68.012,8263 ly_J`
 
-Por tanto, la ruta situada hacia el nodo versal queda:
+Por tanto, la ruta situada hacia el nodo versal se expresa como:
 
 `D(Tierra, Ξ_Ω) = D(Tierra, ∂ε-Atlas) + D(∂ε-Atlas, Ξ_Ω)`
 
@@ -828,7 +823,7 @@ La clausura axial-etaria de ε-Atlas es:
 
 `A_fin(ε-Atlas) = 27.600.000.000 a_J`
 
-Por tanto, la duración de traslación compuesta de ε-Atlas dentro del Universo Versal queda:
+Por tanto, la duración de traslación compuesta de ε-Atlas dentro del Universo Versal se expresa como:
 
 `T_tras^SV(ε-Atlas | Universo Versal) = C_D^τ · A_fin(ε-Atlas)`
 
@@ -888,11 +883,11 @@ Se denota:
 
 Su función no es introducir un eje físico observable en el sentido astronómico contemporáneo, sino declarar la orientación formal mínima necesaria para que la esfera estructural tenga pivotación definida.
 
-La operación axial queda:
+La operación axial se denota:
 
 `Piv^SV(ε-Atlas)`
 
-y su ciclo angular completo queda:
+y su ciclo angular completo se expresa como:
 
 `0 → π/2 → π → 3π/2 → 2π`
 
@@ -1028,7 +1023,7 @@ Este último coincide con la circunferencia estructural ya calculada para ε-Atl
 
 ## VII.8. Retorno humano de los arcos de pivotación
 
-La semipivotación retorna a patrones humanos así:
+La semipivotación se devuelve a patrones humanos en esta forma:
 
 | Magnitud | Resultado |
 |---|---:|
@@ -1036,7 +1031,7 @@ La semipivotación retorna a patrones humanos así:
 | `Arc_π` en distancias Tierra-Sol | `2,741752303788 × 10^15 au` |
 | `Arc_π` en patrón Tierra/Sol-centro galáctico | `1.667.460,716136` |
 
-La pivotación completa retorna así:
+La pivotación completa se devuelve a patrones humanos en esta forma:
 
 | Magnitud | Resultado |
 |---|---:|
@@ -1203,7 +1198,7 @@ La traslación propia del Universo Versal hacia un nodo versal de rango posterio
 
 Las magnitudes cosmológicas y exocósmicas calculadas aquí exceden con rapidez la escala ordinaria de lectura. Por esa razón, cada magnitud principal se devuelve a patrones humanos reconocibles. El retorno no produce la magnitud; solo la comunica. La magnitud nace en el dominio SV bajo Patrón Ómicron, y después se expresa en metros, distancias Tierra-Luna, distancias Tierra-Sol y distancia Tierra/Sol-centro galáctico.
 
-Los patrones usados son:
+Los patrones usados proceden de unidades metrológicas y valores externos declarados: año luz juliano, unidad astronómica definida por IAU/JPL y distancia media Tierra-Luna empleada como retorno de escala (International Astronomical Union, 2012; Jet Propulsion Laboratory, Center for Near Earth Object Studies, s. f.; NASA, s. f.).
 
 | Patrón | Símbolo | Valor operativo |
 |---|---:|---:|
@@ -1256,7 +1251,7 @@ La lectura del nodo versal es mucho mayor:
 
 `D(O_U,Ξ_Ω) ≈ 8,727268637629 × 10^14` veces la distancia Tierra/Sol-centro galáctico
 
-La longitud orbital interna de ε-Atlas dentro del Universo Versal queda:
+La longitud orbital interna de ε-Atlas dentro del Universo Versal se expresa como:
 
 `L_orb ≈ 5,483504607576 × 10^15` veces la distancia Tierra/Sol-centro galáctico
 
@@ -1433,7 +1428,7 @@ La Ciencia Contemporánea no se usa como fundamento interno del SV. Su función 
 
 No se sostiene que la cosmología estándar carezca de valor. Sostiene que su lenguaje sobre radio, diámetro, distancia, extensión observable, tiempo de viaje de la luz, radio comóvil y tamaño total del universo exige separar regímenes. El SV suma formalización allí donde el plano externo comunica o redondea.
 
-La regla pública queda:
+La regla pública se formula como:
 
 `La Ciencia Contemporánea contrasta; el Sistema Vectorial SV formaliza.`
 
@@ -1571,7 +1566,7 @@ Esta frase no divide la ciencia. Distingue funciones. La Ciencia Contemporánea 
 
 El hallazgo principal no consiste en afirmar que nadie haya calculado radios cosmológicos. La Ciencia Contemporánea dispone de radio comóvil, diámetro observable, tiempo de viaje de la luz, distancia angular, distancia de luminosidad y volumen comóvil. El hallazgo SV consiste en otra cosa: separar radio estructural, frontera situada, radio comóvil externo, nodo versal, Universo Versal de primer orden, órbita suprasistémica, pivotación axial y relación volumétrica progenitor-descendiente.
 
-El resultado principal puede sintetizarse así:
+El resultado principal puede sintetizarse en esta forma:
 
 `ε-Atlas` queda formalizado como esfera estructural.
 
@@ -1601,7 +1596,7 @@ El enlace no reabre la Trilogía Cosmológica ni corrige sus resultados. Su func
 
 En la Trilogía Cosmológica, el dominio aparece como universo observable retornado, con sus radios, fronteras y magnitudes cosmológicas diferenciadas. En esta primera parte de la Trilogía Exocósmica, ese mismo dominio se nombra ε-Atlas cuando se lo trata como dominio-universo físico realizado que soporta tránsito, frontera, nodo, órbita y pivotación. El cambio de nombre no sustituye el dominio ni altera los resultados anteriores; precisa la función que ahora se exige a ese dominio.
 
-La lectura puede resumirse así:
+La lectura puede formularse en esta forma:
 
 `Ωobs → dominio-universo observable retornado`
 
@@ -1642,10 +1637,8 @@ donde `r_Ξ(D)` designa el primer umbral fibroso-raigal del dominio, `ρ_D` la m
 
 En ese marco, la operación de Lanzadera Ómicron cumple una función doble. Primero, permite devolver magnitudes de acceso, frontera, horizonte o proyección auxiliar cuando dominio, nodo, métrica, frontera, residual y traza están suficientemente declarados. Segundo, permite comprobar recomposiciones de magnitudes ya calculadas, como ocurre con la lectura situada de frontera y el cambio de origen respecto de `R_ε := R_U^SV`. La operación no inventa subdominios ni sustituye el cálculo por metáfora; conserva U cuando se pide una singularidad interna no declarada y devuelve magnitud cuando la pregunta está bien tipada.
 
-La relación entre detalle y totalidad queda así formulada sin pérdida de escala: lo local no agota el dominio que lo contiene, y el dominio envolvente no borra la singularidad local. Cada nivel conserva su radio, frontera, residual y retorno. Por eso el átomo, el planeta, el sistema estelar, la galaxia, ε-Atlas y el Universo Versal pueden compartir una misma forma de gobierno radial sin convertirse en la misma entidad material. La homología formal no implica identidad de cosa; permite comparar dominios finitos sin mezclar sus planos.
+La relación entre detalle y totalidad se formula sin pérdida de escala: lo local no agota el dominio que lo contiene, y el dominio envolvente no borra la singularidad local. Cada nivel conserva su radio, frontera, residual y retorno. Por eso el átomo, el planeta, el sistema estelar, la galaxia, ε-Atlas y el Universo Versal pueden compartir una misma forma de gobierno radial sin convertirse en la misma entidad material. La homología formal no implica identidad de cosa; permite comparar dominios finitos sin mezclar sus planos.
 
-
----
 
 # Anexo A. Esfera raigal como traslación exocosmológica de dominios finitos y Lanzadera Ómicron
 
@@ -1867,7 +1860,7 @@ La formulación radial exige una regla más estricta. Un dominio sólo puede ent
 
 ### I.2. Inflación eterna y universos burbuja como hipótesis contemporáneas de contraste
 
-La inflación eterna y los universos burbuja constituyen una de las vías por las que la cosmología contemporánea ha intentado pensar dominios más allá del observable. En esos modelos, el dominio observable puede entenderse como región interna de una burbuja generada dentro de un régimen inflacionario más amplio. Bajo ciertas formulaciones, distintas burbujas podrían presentar historias, parámetros o condiciones físicas diferenciadas, y algunas colisiones entre burbujas podrían dejar señales observables en el fondo cósmico de microondas.
+La inflación eterna y los universos burbuja constituyen una de las vías por las que la cosmología contemporánea ha intentado pensar dominios más allá del observable (Coleman & De Luccia, 1980; Feeney et al., 2011; Guth, 1981; Linde, 2010). En esos modelos, el dominio observable puede entenderse como región interna de una burbuja generada dentro de un régimen inflacionario más amplio. Bajo ciertas formulaciones, distintas burbujas podrían presentar historias, parámetros o condiciones físicas diferenciadas, y algunas colisiones entre burbujas podrían dejar señales observables en el fondo cósmico de microondas.
 
 Ese programa posee interés físico como contraste porque introduce una pregunta afín al problema de dominio: si el observable no agota lo real, ¿cómo detectar, medir o limitar el régimen envolvente? Sin embargo, su incorporación directa como fundamento queda bloqueada. La burbuja cosmológica es una hipótesis de modelo; no es, por sí misma, una esfera raigal. Una burbuja inflacionaria puede aportar un caso externo de discusión sobre dominios, fronteras y observabilidad, pero no aporta la condición formal que permite declarar radio, residual, retorno y traza dentro de la formulación radial.
 
@@ -1875,7 +1868,7 @@ La diferencia es decisiva. La teoría de burbujas pregunta por posibles dominios
 
 ### I.3. Multiversos, problema de medida y dificultad de testabilidad
 
-El término multiverso reúne familias heterogéneas de propuestas: inflación eterna, paisajes de teorías, regiones causalmente desconectadas, dominios con parámetros diferenciados, universos burbuja, escenarios de branas o formulaciones especulativas de totalidad múltiple. Esa heterogeneidad impide usar “multiverso” como concepto técnico único. En muchos casos, el problema central no es sólo matemático, sino de medida, testabilidad y admisión física: cómo asignar peso a dominios no observables, cómo evitar infinitos no controlados, cómo distinguir predicción de selección observacional, y cómo convertir una hipótesis de dominio externo en contraste material.
+El término multiverso reúne familias heterogéneas de propuestas: inflación eterna, paisajes de teorías, regiones causalmente desconectadas, dominios con parámetros diferenciados, universos burbuja, escenarios de branas o formulaciones especulativas de totalidad múltiple (Aguirre & Tegmark, 2004; Tegmark, 2009; Vaas, 2010). Esa heterogeneidad impide usar “multiverso” como concepto técnico único. En muchos casos, el problema central no es sólo matemático, sino de medida, testabilidad y admisión física: cómo asignar peso a dominios no observables, cómo evitar infinitos no controlados, cómo distinguir predicción de selección observacional, y cómo convertir una hipótesis de dominio externo en contraste material.
 
 Este campo externo confirma la necesidad de una disciplina de dominio, pero no la proporciona por sí solo. Si una propuesta multiversal carece de frontera declarada, métrica de comparación, residual visible, retorno posible y criterio de rechazo, no puede entrar como fundamento. Puede permanecer como hipótesis de contraste, como problema abierto o como material adversarial, pero no como verdad estructural.
 
@@ -1899,7 +1892,7 @@ Por tanto, ΛCDM entra como referencia externa de cosmología observable, no com
 
 ### I.5. Energía oscura dinámica, DESI y tensión observacional contemporánea
 
-Los resultados recientes asociados a DESI y a otros grupos cosmológicos externos han intensificado el debate sobre la posible evolución de lo que la Ciencia Contemporánea denomina energía oscura. Las mediciones de BAO y su combinación con CMB y supernovas han abierto discusión sobre si la ecuación de estado puede apartarse de una constante estricta. Ese debate tiene valor como contraste porque muestra que incluso dentro de la Ciencia Contemporánea la interpretación de Λ, aceleración cosmológica y expansión permanece abierta.
+Los resultados recientes asociados a DESI y a otros grupos cosmológicos externos han intensificado el debate sobre la posible evolución de lo que la Ciencia Contemporánea denomina energía oscura (Abdul-Karim et al., 2025). Las mediciones de BAO y su combinación con CMB y supernovas han abierto discusión sobre si la ecuación de estado puede apartarse de una constante estricta. Ese debate tiene valor como contraste porque muestra que incluso dentro de la Ciencia Contemporánea la interpretación de Λ, aceleración cosmológica y expansión permanece abierta.
 
 La lectura aquí adoptada debe ser precisa. Una tensión observacional no es una verdad interna. Una mejora de ajuste no equivale a fundamento. Una parametrización dinámica no cierra por sí sola la naturaleza del régimen. DESI, BAO, CMB, supernovas y otros grupos externos de contraste pueden presionar el modelo, mostrar residuales, sugerir extensiones o abrir hipótesis. No pueden convertir un parámetro externo en magnitud constitutiva de la formulación radial.
 
@@ -1935,7 +1928,7 @@ La matriz fija el rango del estado del arte. Lo externo entra como dato, grupo d
 
 ## II. Fundamentos utilizados
 
-Los fundamentos empleados en este desarrollo no comparecen como autoridad bibliográfica ni como ornamento de continuidad. Comparecen como condiciones formales de admisión. Su función es fijar qué puede entrar en la formulación radial, bajo qué dominio, con qué tipo de retorno y con qué límite. El estado del arte anterior ha situado los grupos externos de contraste; este apartado fija la base interna que gobierna el cálculo.
+Los fundamentos empleados en este desarrollo no comparecen como autoridad bibliográfica ni como ornamento de continuidad. En términos de procedencia, este tramo se apoya en los fundamentos algebraico-semánticos, el verificador ternario, la no clausura honesta de U, la apertura raigal, la lectura etaria, la distancia entre observables, el tránsito por dominios y la Línea del Umbral SV ya formalizados en el SV (Lloret Egea, 2026a, 2026b, 2026c, 2026d, 2026e, 2026f, 2026h, 2026i, 2026j). Comparecen como condiciones formales de admisión. Su función es fijar qué puede entrar en la formulación radial, bajo qué dominio, con qué tipo de retorno y con qué límite. El estado del arte anterior ha situado los grupos externos de contraste; este apartado fija la base interna que gobierna el cálculo.
 
 La esfera raigal no se deriva de inflación eterna, universos burbuja, multiverso, ΛCDM, DESI ni energía oscura dinámica. Esos marcos externos pueden aportar datos, tensiones, hipótesis o problemas de contraste, pero no fundan la formulación. La formulación radial se apoya en una cadena propia: verificador ternario, apertura raigal, observabilidad tipada, tránsito por dominios, lectura etaria, distancia entre observables, Patrón Ómicron, ε-Atlas, Universo Versal y constante cosmológica interna.
 
@@ -1943,7 +1936,7 @@ La regla de uso es estricta: cada fundamento se incorpora sólo en el punto en q
 
 ### II.1. Teoría del TODO y de la NADA: verificador ternario y no clausura honesta
 
-La Teoría del TODO y de la NADA aporta el marco de cierre y de no cierre de la formulación. Su valor en este desarrollo no consiste en introducir una totalidad verbal, sino en impedir que un dominio parcial se presente como cierre absoluto. La formulación radial necesita esa restricción desde el principio: una esfera raigal de dominio no es la Totalidad, no agota todos los dominios posibles y no convierte una frontera de lectura en borde ontológico de lo existente.
+La Teoría del TODO y de la NADA aporta el marco de cierre y de no cierre de la formulación (Lloret Egea, 2026b). Su valor en este desarrollo no consiste en introducir una totalidad verbal, sino en impedir que un dominio parcial se presente como cierre absoluto. La formulación radial necesita esa restricción desde el principio: una esfera raigal de dominio no es la Totalidad, no agota todos los dominios posibles y no convierte una frontera de lectura en borde ontológico de lo existente.
 
 El verificador ternario trabaja sobre Σ={0,1,U}. La salida 0 corresponde a defecto nulo en el dominio declarado; la salida 1 corresponde a rechazo por contradicción, invasión de dominio o defecto no admisible; la salida U conserva indeterminación honesta cuando falta una condición material que no puede inventarse. Aquí, U no funciona como refugio ni como suspensión cómoda. Se utiliza sólo cuando una pregunta carece de subdominio, nodo, métrica, frontera, residual, retorno o traza suficientes.
 
@@ -1953,7 +1946,7 @@ La consecuencia para la esfera raigal es directa: ningún dominio finito queda a
 
 ### II.2. Raigal, apertura de imperfección y horizonte de retorno
 
-El fundamento raigal aporta la primera estructura de apertura. La fibra/raigal no se toma como sustancia oculta, cuerpo físico ordinario, entidad psicológica ni metáfora orgánica. Nombra el primer umbral por el que una diferencia puede empezar a comparecer como dominio, identidad, traza y retorno. En la formulación radial, ese umbral se expresa mediante r_Ξ(D), radio interno mínimo o umbral de apertura del dominio D.
+El fundamento raigal aporta la primera estructura de apertura (Lloret Egea, 2026f). La fibra/raigal no se toma como sustancia oculta, cuerpo físico ordinario, entidad psicológica ni metáfora orgánica. Nombra el primer umbral por el que una diferencia puede empezar a comparecer como dominio, identidad, traza y retorno. En la formulación radial, ese umbral se expresa mediante r_Ξ(D), radio interno mínimo o umbral de apertura del dominio D.
 
 La esfera raigal no comienza en una superficie externa, sino en una apertura interna. Su cadena mínima es:
 
@@ -1971,7 +1964,7 @@ La fórmula no dibuja una esfera material infinita. Declara una región de domin
 
 ### II.3. Proyecciones biológicas de la fibra: observabilidad, dominio y transducción
 
-Las proyecciones biológicas de la fibra no entran aquí como biologización del universo ni como analogía libre. Su función es más precisa: mostrar cómo una apertura común puede generar proyecciones diferenciadas sin perder invariantes de tipo. La herencia-descendencia que figura en el título debe leerse en ese rango formal, no como reproducción biológica literal entre universos, dominios o esferas.
+Las proyecciones biológicas de la fibra no entran aquí como biologización del universo ni como analogía libre (Lloret Egea, 2026g). Su función es más precisa: mostrar cómo una apertura común puede generar proyecciones diferenciadas sin perder invariantes de tipo. La herencia-descendencia que figura en el título debe leerse en ese rango formal, no como reproducción biológica literal entre universos, dominios o esferas.
 
 El patrón de herencia-descendencia exige cuatro elementos: matriz de apertura, proyección diferenciada, conservación parcial de invariantes y divergencia de trayectoria. Un dominio descendiente no es una copia del dominio envolvente. Conserva relación formal con él sólo si existe tránsito declarado, frontera reconocible, residual visible y retorno suficiente. Sin esos elementos, la semejanza no basta.
 
@@ -1991,7 +1984,7 @@ Esta regla impide usar la palabra “dominio” como recipiente abstracto. Un do
 
 La esfera raigal como traslación exocosmológica necesita precisamente esa disciplina. No basta afirmar que hay “dominios dentro de dominios”. La formulación exige indicar cómo un dominio finito puede quedar contenido formalmente en otro sin perder identidad material, sin borrar su singularidad y sin convertir el dominio envolvente en totalidad absoluta.
 
-La regla puede enunciarse así:
+La regla puede enunciarse en forma formal:
 
 un dominio local no agota el dominio que lo contiene; un dominio envolvente no anula la singularidad del dominio contenido.
 
@@ -1999,7 +1992,7 @@ Esta doble custodia sostiene la lectura de lo finito dentro de lo finito con ape
 
 ### II.5. Lectura etaria, coordenada de comparecencia y Recta Atlas
 
-La lectura etaria introduce una forma de ordenar comparecencias sin convertir el tiempo en fundamento. Un corte etario no es tiempo rector. Es una condición de lectura declarada: fija un régimen, una unidad, una frontera y un retorno. En este desarrollo, esa distinción protege tanto la lectura de T_obs como la posible familia Λ_SV(T).
+La lectura etaria introduce una forma de ordenar comparecencias sin convertir el tiempo en fundamento (Lloret Egea, 2026i, 2026j). Un corte etario no es tiempo rector. Es una condición de lectura declarada: fija un régimen, una unidad, una frontera y un retorno. En este desarrollo, esa distinción protege tanto la lectura de T_obs como la posible familia Λ_SV(T).
 
 T_obs no entra como cronología absoluta. Entra como régimen de retorno ciclo-distancial del dominio observable retornado. Cuando se emplea para calcular:
 
@@ -2167,7 +2160,7 @@ Uso no admisible: infinito material, totalidad absoluta, frontera ontológica de
 
 La fórmula declara un conjunto de elementos x que pertenecen al campo de observables del dominio y cuya distancia radial respecto de O_U queda entre el umbral raigal y el radio externo acotado. No se trata de una esfera física infinita ni de una burbuja cosmológica. Es una región formal-material de dominio finito.
 
-La lectura humana puede expresarse así: un elemento pertenece a la esfera raigal de D cuando comparece dentro de los observables del dominio, supera el umbral de apertura y no rebasa la frontera radial declarada.
+La lectura humana puede expresarse en esta forma: un elemento pertenece a la esfera raigal de D cuando comparece dentro de los observables del dominio, supera el umbral de apertura y no rebasa la frontera radial declarada.
 
 Uso admisible: definición formal de dominio finito bajo lectura radial.
 
@@ -2239,7 +2232,7 @@ El tránsito formal entre dominios se expresa mediante la condición:
 
 `T_D^SV(D_i,D_j;x)=0`
 
-Dentro de la regla de inclusión, la fórmula completa queda:
+Dentro de la regla de inclusión, la fórmula completa se expresa como:
 
 `𝔅_Ξ(D_i) ⊂_Λ 𝔅_Ξ(D_j) ⇔ R_i < R_j ∧ T_D^SV(D_i,D_j;x)=0`
 
@@ -2390,7 +2383,7 @@ Uso no admisible: refugio retórico, probabilidad, zona gris, cierre por ausenci
 
 El glosario fija la gramática mínima del desarrollo y cierra la ambigüedad terminológica de base: centro, fibra, dominio, radio, frontera, transducción, Lanzadera, constante cosmológica y U.
 
-La regla general queda cerrada así: todo término que entre en cálculo debe declarar dominio, función, límite y retorno. Todo término que no pueda hacerlo conserva U o queda rechazado si invade un dominio ya calculado.
+La regla general se cierra en esta forma: todo término que entre en cálculo debe declarar dominio, función, límite y retorno. Todo término que no pueda hacerlo conserva U o queda rechazado si invade un dominio ya calculado.
 
 ## IV. Problema formal: detalle, dominio envolvente y apertura indefinida
 
@@ -2452,7 +2445,7 @@ La forma mínima de la relación será:
 
 `𝔅_Ξ(D_i) ⊂_Λ 𝔅_Ξ(D_j)`
 
-sólo si:
+y sólo queda admitida cuando se cumple, en forma lógica:
 
 `R_i < R_j ∧ T_D^SV(D_i,D_j;x)=0`
 
@@ -2464,11 +2457,11 @@ Lo finito dentro de lo finito no es encierro vulgar. Es conservación de singula
 
 La doble custodia exige que el dominio local conserve identidad, frontera, residual y retorno, mientras el dominio envolvente conserva escala, radio, marco de lectura y traza de inclusión.
 
-La regla puede formularse así:
+La regla puede formularse en forma lógica:
 
 `Cust(D_i,D_j)=0`
 
-si:
+si se cumple, en forma lógica:
 
 `Id(D_i) ≠ Id(D_j)`
 
@@ -2592,7 +2585,7 @@ La salida bloqueada es:
 
 ### V.5. Secuencia de apertura: centro, fibra, dominio, frontera y retorno
 
-La secuencia de apertura queda fijada así:
+La secuencia de apertura se fija en esta forma:
 
 `O_U=(0,0) → fibra/raigal → ObsU(D) → ρ_D → R_D → ∂D → Δ_D → Ret_D → Tr_D`
 
@@ -2674,7 +2667,7 @@ Si cualquiera de esas condiciones falta, la pertenencia no se decide por semejan
 
 La fórmula no dibuja una esfera cósmica material. Tampoco afirma que toda realidad se organice como una bola geométrica. Lo que establece es una regla de lectura: un dominio finito puede formularse radialmente cuando existe centro, apertura, métrica, radio, frontera y retorno.
 
-La lectura humana puede resumirse así:
+La lectura humana puede resumirse en esta forma:
 
 desde O_U=(0,0) se abre un primer umbral fibra/raigal; a partir de ese umbral comparecen elementos evaluables del dominio; cada elemento sólo pertenece a la esfera raigal si se mantiene dentro del radio externo acotado; y el conjunto resultante no agota la Totalidad, sino el dominio D bajo la métrica declarada.
 
@@ -2768,7 +2761,7 @@ Tr_D fija la traza.
 
 Esta acotación impide que un dominio local quede absorbido sin más por un dominio envolvente. Un dominio contenido conserva identidad si conserva frontera, traza y residual. El dominio envolvente conserva escala, radio y retorno, pero no anula la singularidad del dominio contenido.
 
-La regla queda así:
+La regla se expresa como:
 
 un observable local no agota el dominio que lo contiene;
 
@@ -2788,7 +2781,7 @@ Entonces:
 
 `Eval_𝔅(x;D)=0`
 
-si y sólo si:
+si y sólo si se cumple, en forma lógica:
 
 `x ∈ ObsU(D)`
 
@@ -2901,7 +2894,7 @@ La inclusión formal se escribe:
 
 `𝔅_Ξ(D_i) ⊂_Λ 𝔅_Ξ(D_j) ⇔ R_i < R_j ∧ T_D^SV(D_i,D_j;x)=0`
 
-La expresión se lee así:
+La expresión se lee en esta forma:
 
 la esfera raigal del dominio D_i queda incluida formalmente en la esfera raigal del dominio D_j si, y sólo si, el radio de D_i es menor que el radio de D_j y el tránsito formal entre ambos dominios no deja defecto.
 
@@ -2931,7 +2924,7 @@ La condición de cierre local puede escribirse como:
 
 `Δ_{i→j}=Δ_id ⊕ Δ_∂ ⊕ Δ_ρ ⊕ Δ_tr ⊕ Δ_ret`
 
-La inclusión queda admitida sólo si:
+La inclusión queda admitida sólo cuando se cumple, en forma lógica:
 
 `Δ_{i→j}=0`
 
@@ -3004,7 +2997,7 @@ Esta tabla no pretende agotar los casos posibles. Su función es mostrar la regl
 
 La inclusión sin transductor queda rechazada. No basta escribir que un dominio “pertenece” a otro. No basta que ambos tengan forma esférica. No basta que una escala sea mayor que otra. No basta que una teoría externa hable de regiones, burbujas, dominios o multiversos. La inclusión formal exige transducción o relación equivalente declarada.
 
-La condición de rechazo puede escribirse así:
+La condición de rechazo puede escribirse en forma lógica:
 
 `R_i < R_j ∧ T_D^SV(D_i,D_j;x) ≠ 0 ⇒ 𝔅_Ξ(D_i) ⊄_Λ 𝔅_Ξ(D_j)`
 
@@ -3112,7 +3105,7 @@ y su residual asociado:
 
 `Δ_⊂(D_i,D_j)=Δ_R ⊕ Δ_id ⊕ Δ_∂ ⊕ Δ_can ⊕ Δ_tr ⊕ Δ_ret`
 
-La salida queda así:
+La salida se expresa como:
 
 si el residual se anula, la inclusión pasa;
 
@@ -3126,7 +3119,7 @@ La relación de lo finito dentro de lo finito queda delimitada sin infinito mate
 
 La formulación radial no sustituye la Recta Atlas ni absorbe la Línea del Umbral. Las tres formas pertenecen a planos distintos y sólo pueden componerse si cada una conserva su función. Confundirlas produciría un error de arquitectura: una proyección intradominio no es una esfera raigal; una condición de paso no es una frontera física absoluta; y una esfera raigal de dominio no invalida la lectura rectilínea cuando la pregunta pertenece al interior de un dominio declarado.
 
-La distinción puede fijarse así:
+La distinción puede fijarse en esta forma:
 
 Recta Atlas → ordena comparecencias dentro de un dominio.
 
@@ -3140,7 +3133,7 @@ Cada una responde a una pregunta diferente. La Recta Atlas pregunta por posició
 
 La Recta Atlas es una proyección intradominio. Su función es ordenar puntos, posiciones, comparecencias o magnitudes dentro de un dominio previamente declarado. No define por sí sola el dominio; opera cuando el dominio ya se encuentra suficientemente situado.
 
-Una forma mínima de lectura puede expresarse así:
+Una forma mínima de lectura puede expresarse en esta forma:
 
 `x_i ∈ Atlas(D)`
 
@@ -3216,7 +3209,7 @@ pero:
 
 Línea del Umbral(D) ≠ ∂D
 
-y:
+y, en su delimitación formal:
 
 `Línea del Umbral(D) ≠ R_D`
 
@@ -3224,7 +3217,7 @@ y:
 
 La formulación radial no invalida la Recta Atlas porque no compiten por la misma función. La esfera raigal declara pertenencia a un dominio finito bajo lectura radial; la Recta Atlas permite ordenar comparecencias dentro de ese dominio. Una vez que la esfera raigal ha fijado centro, umbral, radio y frontera, todavía puede ser necesario ordenar internamente sus elementos. Ahí la Recta Atlas conserva plena utilidad.
 
-La relación admisible puede representarse así:
+La relación admisible puede representarse en forma formal:
 
 `x ∈ 𝔅_Ξ(D;O_U,R_D) → x_i ∈ Atlas(D)`
 
@@ -3288,7 +3281,7 @@ La composición completa exige residual compuesto:
 
 `Δ_comp = Δ_obs ⊕ Δ_η ⊕ Δ_𝔅 ⊕ Δ_Atlas`
 
-La salida compuesta queda admitida si:
+La salida compuesta queda admitida cuando se cumple, en forma lógica:
 
 `Δ_comp=0`
 
@@ -3318,7 +3311,7 @@ La Lanzadera Ómicron designa una operación formal de tránsito, devolución y 
 
 Esta precisión es necesaria porque el nombre podría inducir una lectura figurativa impropia. La operación no “viaja”, no “decide”, no “explora” y no “descubre” dominios. Opera sólo si la pregunta está declarada. Cuando la pregunta carece de dominio, nodo, métrica, frontera, residual, retorno o traza, la salida correspondiente queda en U. Cuando las condiciones cierran, la devolución pertenece al cálculo.
 
-La forma general puede escribirse así:
+La forma general puede escribirse en forma formal:
 
 `L_Ω(N_i,N_j;D,M,Tr)=salida admisible ⇔ D ∧ N_i ∧ N_j ∧ M ∧ F_D ∧ I_D ∧ C_D ∧ R_D ∧ Tr_D`
 
@@ -3495,7 +3488,7 @@ El cambio de origen sólo cambia la carta de lectura. No cambia por sí mismo la
 
 Cuando una pregunta pide subdominios no declarados, la salida correcta no es inventarlos. La operación conserva U.
 
-La forma puede escribirse así:
+La forma puede escribirse en forma formal:
 
 `SubD_k no declarado ⇒ L_Ω(SubD_k)=U`
 
@@ -3578,11 +3571,11 @@ donde:
 
 Δ_Tr controla la traza.
 
-La operación queda cerrada si:
+La operación queda cerrada cuando se cumple, en forma lógica:
 
 `Δ_LΩ=0`
 
-El resultado asociado es:
+El resultado asociado se expresa como:
 
 Salida_LΩ=0 si Δ_LΩ=0.
 
@@ -3604,7 +3597,7 @@ La condición residual es:
 
 `Δ_LΩ=Δ_D ⊕ Δ_N ⊕ Δ_M ⊕ Δ_F ⊕ Δ_C ⊕ Δ_Ret ⊕ Δ_Tr`
 
-La salida ternaria queda:
+La salida ternaria se expresa como:
 
 0 si la devolución cierra sin defecto;
 
@@ -3638,25 +3631,25 @@ Para ε-Atlas se toma como radio estructural de trabajo:
 
 `R_ε = 13.800.000.000 ly_J`
 
-El diámetro queda:
+El diámetro se expresa como:
 
 `D_ε = 2R_ε`
 
 `D_ε = 27.600.000.000 ly_J`
 
-La circunferencia auxiliar queda:
+La circunferencia auxiliar se expresa como:
 
 `C_ε = 2πR_ε`
 
 `C_ε ≈ 86.707.957.239,078293 ly_J`
 
-La superficie auxiliar queda:
+La superficie auxiliar se expresa como:
 
 `S_ε = 4πR_ε²`
 
 `S_ε ≈ 2,3931396197985609 × 10^21 ly_J²`
 
-El volumen auxiliar queda:
+El volumen auxiliar se expresa como:
 
 `V_ε = (4π/3)R_ε³`
 
@@ -3728,7 +3721,7 @@ En notación científica:
 
 `D_V ≈ 4,5381796915669483 × 10^19 ly_J`
 
-La longitud orbital auxiliar, entendida como circunferencia geométrica asociada al radio versal, queda:
+La longitud orbital auxiliar, entendida como circunferencia geométrica asociada al radio versal, se expresa como:
 
 `L_orb,V = 2πR_V`
 
@@ -3738,13 +3731,13 @@ En notación científica:
 
 `L_orb,V ≈ 1,4257111979697118 × 10^20 ly_J`
 
-La superficie auxiliar queda:
+La superficie auxiliar se expresa como:
 
 `S_V = 4πR_V²`
 
 `S_V ≈ 6,4701336046657312 × 10^39 ly_J²`
 
-El volumen auxiliar queda:
+El volumen auxiliar se expresa como:
 
 `V_V = (4π/3)R_V³`
 
@@ -3786,11 +3779,11 @@ La clausura versal no borra ε-Atlas. Si ε-Atlas queda relacionado formalmente 
 
 `ε-Atlas ⊂_Λ Universo Versal`
 
-sólo si:
+sólo si se cumple, en forma lógica:
 
 `R_ε < R_V`
 
-y:
+y, además, en forma de tránsito formal:
 
 `T_D^SV(ε-Atlas, Universo Versal; x)=0`
 
@@ -3820,7 +3813,7 @@ con:
 
 `C_D^τ = 230.000.000`
 
-y:
+y, como clausura axial-etaria declarada:
 
 `A_fin = 27.600.000.000 a_J`
 
@@ -3870,7 +3863,7 @@ Con:
 
 `c = 299.792.458 m·s^-1`
 
-queda:
+la constante cosmológica interna adopta la forma:
 
 `Λ_SV,puro(T_obs)=3/(c²T_obs²)`
 
@@ -4000,7 +3993,7 @@ Un dominio sólo queda admitido cuando comparece con identidad, frontera, métri
 | Retorno Ret_D | ¿Qué devuelve el dominio? | 0 | U | 1 |
 | Traza Tr_D | ¿Dónde queda auditada la operación? | 0 | U | 1 |
 
-La admisión completa puede resumirse así:
+La admisión completa puede resumirse en forma lógica:
 
 `Adm(D)=0 ⇔ Id_D ∧ ObsU(D) ∧ O_U ∧ r_Ξ(D) ∧ ρ_D ∧ R_D ∧ ∂D ∧ Δ_D=0 ∧ Ret_D ∧ Tr_D`
 
@@ -4240,7 +4233,7 @@ La salida ternaria debe acompañarse siempre de causa. No basta escribir U. Debe
 
 Las matrices dejan fijada la disciplina de entrada y salida del desarrollo. Admiten dominios, fórmulas, contrastes y retornos cuando conservan tipo. Rechazan sustituciones, sustancializaciones, importaciones de fundamento y cierres favorables por ausencia de prueba. Conservan U cuando falta una condición material de cierre.
 
-El resultado operativo puede resumirse así:
+El resultado operativo puede resumirse en forma lógica:
 
 Adm(D)=0 sólo con dominio completo.
 
@@ -4598,7 +4591,7 @@ U localizada, no refugio;
 
 inclusión sólo por radio menor y tránsito sin defecto.
 
-La tupla adversarial del tramo puede expresarse así:
+La tupla adversarial del tramo puede expresarse en forma lógica:
 
 `T_adv = (0,0,0,0,0,0,0,0,0)`
 
@@ -4772,13 +4765,13 @@ o cierre favorable porque no se ha probado lo contrario.
 
 ### XIII.5. Aplicación del verificador ternario
 
-La aplicación del verificador ternario se realiza sobre tres niveles.
+El verificador ternario se aplica en cinco niveles.
 
-Nivel 1: dominio
+Nivel 1: dominio. En su forma lógica:
 
 `V_D(D)=0`
 
-si:
+si se cumple:
 
 `Id_D ∧ ObsU(D) ∧ O_U ∧ r_Ξ(D) ∧ ρ_D ∧ R_D ∧ ∂D ∧ Δ_D=0 ∧ Ret_D ∧ Tr_D`
 
@@ -4786,11 +4779,11 @@ Si falta un componente, el verificador devuelve U localizada.
 
 Si hay contradicción de dominio, devuelve 1.
 
-Nivel 2: fórmula
+Nivel 2: fórmula. En su forma de definición lógica:
 
 `V_𝔅(x;D)=0`
 
-si:
+si se cumple:
 
 `x ∈ ObsU(D) ∧ r_Ξ(D) ≤ ρ_D(x,O_U) ≤ R_D ∧ Δ_𝔅(x;D)=0`
 
@@ -4798,11 +4791,11 @@ Si el radio, la métrica, el retorno o la pertenencia faltan, devuelve U.
 
 Si la lectura convierte la esfera raigal en burbuja, multiverso o esfera infinita, devuelve 1.
 
-Nivel 3: relación entre dominios
+Nivel 3: relación entre dominios. En su forma lógica:
 
 `V_⊂(D_i,D_j)=0`
 
-si:
+si se cumple:
 
 `R_i < R_j ∧ T_D^SV(D_i,D_j;x)=0`
 
@@ -4810,15 +4803,15 @@ Si R_i<R_j pero falta tránsito, devuelve U_T.
 
 Si se declara inclusión sólo por tamaño o semejanza, devuelve 1.
 
-Nivel 4: operación de Lanzadera Ómicron
+Nivel 4: operación de Lanzadera Ómicron. En su forma lógica:
 
 `V_L(L_Ω)=0`
 
-si:
+si se cumple:
 
 `D ∧ N_i ∧ N_j ∧ M ∧ F_D ∧ I_D ∧ C_D ∧ R_D ∧ Tr_D`
 
-y:
+y, además, en su condición de defecto:
 
 `Δ_LΩ=0`
 
@@ -4826,11 +4819,11 @@ Si falta nodo, frontera, magnitud, retorno o traza, devuelve U.
 
 Si se lee como vehículo, sujeto o viaje, devuelve 1.
 
-Nivel 5: constante cosmológica interna y contraste externo
+Nivel 5: constante cosmológica interna y contraste externo. En su forma lógica:
 
 `V_Λ(Λ_SV,puro)=0`
 
-si:
+si se cumple:
 
 `Λ_SV,puro(T_obs)=3/(c²T_obs²)`
 
@@ -4910,7 +4903,7 @@ eliminación de la Ciencia Contemporánea como contraste;
 
 ni cierre favorable por ausencia de prueba.
 
-La sentencia formal queda así:
+La sentencia formal se expresa como:
 
 𝔅_Ξ(D;O_U,R_D) es apta como esfera raigal de dominio finito si D declara observables, centro, umbral, métrica, radio, frontera, residual, retorno y traza.
 
@@ -4972,7 +4965,7 @@ pero esa forma no sustituye el cálculo interno.
 
 ### XIV.2. Después la lectura humana
 
-La lectura humana puede formularse así: un dominio finito puede recibir lectura radial cuando dispone de centro formal-material, primer umbral de apertura, campo de observables, métrica, radio externo acotado, frontera, residual, retorno y traza. La esfera raigal no es una cosa añadida al dominio; es la forma de leer su pertenencia radial bajo esas condiciones.
+La lectura humana puede formularse en esta forma: un dominio finito puede recibir lectura radial cuando dispone de centro formal-material, primer umbral de apertura, campo de observables, métrica, radio externo acotado, frontera, residual, retorno y traza. La esfera raigal no es una cosa añadida al dominio; es la forma de leer su pertenencia radial bajo esas condiciones.
 
 O_U=(0,0) no es un punto físico ordinario ni una singularidad cosmológica. Es centro formal-material de lectura. La fibra/raigal no es sustancia ni energía oculta. Es primer umbral de apertura. R_D no es infinito. Es radio acotado por dominio. U no es ignorancia vulgar ni probabilidad. Es indeterminación honesta localizada cuando falta una condición material de cierre.
 
@@ -5000,7 +4993,7 @@ La fórmula de inclusión conserva esa disciplina:
 
 `𝔅_Ξ(D_i) ⊂_Λ 𝔅_Ξ(D_j)`
 
-sólo pasa si:
+y sólo pasa cuando se cumple, en forma lógica:
 
 `R_i < R_j ∧ T_D^SV(D_i,D_j;x)=0`
 
@@ -5010,7 +5003,7 @@ Así, lo finito dentro de lo finito no se decide por imagen geométrica, sino po
 
 La Lanzadera Ómicron queda fijada como operación, no como figura narrativa. Su función es devolver o verificar magnitudes situadas bajo pregunta declarada. Puede intervenir en cambios de origen, accesos, fronteras, horizontes auxiliares o recomposiciones de magnitud, pero no crea dominios y no inventa subdominios.
 
-La regla queda cerrada así:
+La regla se cierra en esta forma:
 
 si la pregunta declara dominio, nodos, magnitud, frontera, canal, residual, retorno y traza, la operación puede devolver una salida;
 
@@ -5058,25 +5051,25 @@ Su aptitud no procede de una teoría externa de burbujas, de una hipótesis de m
 
 `dominio → centro → fibra/raigal → métrica → radio → frontera → residual → retorno → traza`
 
-La fórmula rectora queda:
+La fórmula rectora se expresa como:
 
 `𝔅_Ξ(D;O_U,R_D) = {x ∈ ObsU(D) : r_Ξ(D) ≤ ρ_D(x,O_U) ≤ R_D}`
 
-La inclusión entre esferas finitas queda:
+La inclusión entre esferas finitas se expresa como:
 
 `𝔅_Ξ(D_i) ⊂_Λ 𝔅_Ξ(D_j) ⇔ R_i < R_j ∧ T_D^SV(D_i,D_j;x)=0`
 
-La Lanzadera Ómicron queda:
+La Lanzadera Ómicron se expresa como:
 
 L_Ω como operación de tránsito, devolución y verificación bajo pregunta declarada.
 
-La constante cosmológica interna queda:
+La constante cosmológica interna se expresa como:
 
 `Λ_SV,puro(T_obs)=1,7600043527547774 × 10^-52 m^-2`
 
 como curvatura ciclo-distancial del dominio cosmológico observable retornado.
 
-El resultado TODO/NADA del tramo queda:
+El resultado TODO/NADA del tramo se expresa como:
 
 `T_TN = (0,0,0,0,0,0,0,0,0)`
 
@@ -5093,67 +5086,35 @@ Lo no declarado permanece en U.
 Lo rechazado no entra por analogía, tamaño, semejanza, autoridad externa ni ausencia de prueba contraria.
 
 
----
-
 # Bibliografía
 
 ## Fuentes internas del Sistema Vectorial SV
 
-Lloret Egea, J. A. (2019). *Sistema Vectorial SV: fundamentos, célula y cuerpo algebraico*. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español.
+Lloret Egea, J. A. (2026a). *Fundamentos algebraico-semánticos del Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.b0cf9a13
 
-Lloret Egea, J. A. (2026). *Fundamentos algebraico-semánticos del Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.b0cf9a13
+Lloret Egea, J. A. (2026b). *Teoría del TODO y de la NADA en el Sistema Vectorial SV: refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K₃ⁿ, frontera común (μ, λ) = (0,0) y verificador ternario fuerte*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.17613/k3q1d-fjj45
 
-Lloret Egea, J. A. (2026). *Teoría del TODO y de la NADA en el Sistema Vectorial SV: refundación factual sobre el corpus del suceso, distancia factual fibrosa, célula configuracional K₃ⁿ, frontera común (μ, λ) = (0,0) y verificador ternario fuerte*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.17613/k3q1d-fjj45
+Lloret Egea, J. A. (2026c). *Origen de fundamentos, definición y alcance de la U en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.f433065f
 
-Lloret Egea, J. A. (2026). *Origen de fundamentos, definición y alcance de la U en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.f433065f
+Lloret Egea, J. A. (2026d). *Transiciones estructurales y trayectorias de la U en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.10e10f96
 
-Lloret Egea, J. A. (2026). *Transiciones estructurales y trayectorias de la U en el Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.10e10f96
+Lloret Egea, J. A. (2026e). *Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.67195860
 
-Lloret Egea, J. A. (2026). *Convergencia ternaria y gobierno determinista de trayectorias en el Sistema Vectorial SV: tipología de la indeterminación, HNA como teorema y fundamentos de la célula NLP*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.802bed57
+Lloret Egea, J. A. (2026f). *Raigal, apertura de imperfección y horizonte de retorno de los observables - (Del arraigo preproyectivo a la vida formal transducible de cuerpos, especies, estrellas y dominios-universo)*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.bfd86036
 
-Lloret Egea, J. A. (2026). *El transductor lingüístico — morfismo de dominio — y el horizonte H_NLP del Sistema Vectorial SV: construcción formal del mapeo entre actos comunicativos, textura de indeterminación y evaluación ternaria*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.6c9cbb28
+Lloret Egea, J. A. (2026g). *Proyecciones biológicas de la fibra*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.1ab33893
 
-Lloret Egea, J. A. (2026). *Nuevas matemáticas del Sistema Vectorial SV y Física factual como conjunto iniciador*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.67195860
+Lloret Egea, J. A. (2026h). *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.30dfd78b
 
-Lloret Egea, J. A. (2026). *De Bell a Tsirelson sin formalismo de Hilbert: desarrollo determinista no local del Sistema Vectorial SV*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.17613/1666c-c5g66
+Lloret Egea, J. A. (2026i). *Edades relativas del universo observable y de sus objetos físicos*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.b56ed853
 
-## Publicaciones cosmológicas y exocósmicas SV
+Lloret Egea, J. A. (2026j). *Distancia absoluta y relativa entre observables del Universo*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.c394e160
 
-Lloret Egea, J. A. (2026). *Trilogía Cosmológica*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.2a152990
+Lloret Egea, J. A. (2026k). *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.101f1d12
 
-Lloret Egea, J. A. (2026). *Determinación del radio, la superficie y el volumen del Universo — Trilogía Cosmológica, Parte I*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.101f1d12
+Lloret Egea, J. A. (2026l). *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.db21f00e
 
-Lloret Egea, J. A. (2026). *Recta-Ómicron (Lanzadera) — Trilogía Cosmológica, Parte II*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.db21f00e
-
-Lloret Egea, J. A. (2026). *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.0430adc0
-
-Lloret Egea, J. A. (2026). *Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. DOI de colección: https://doi.org/10.21428/39829d0b.f51da8e2
-
-Lloret Egea, J. A. (2026). *NASA redondea; el Sistema Vectorial SV formaliza: Patrón Ómicron, ε-Atlas, radio estructural, frontera etaria, nodo versal, Universo Versal, órbita suprasistémica y pivotación axial del dominio-universo físico realizado*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. DOI pendiente.
-
-Lloret Egea, J. A. (2026). *Contraste de precisión etaria solar SV–NASA: NASA redondea; el Sistema Vectorial SV formaliza*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.22c326bf
-
-Lloret Egea, J. A. (2026). *Edades relativas del universo observable y de sus objetos físicos*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.b56ed853
-
-Lloret Egea, J. A. (2026). *Distancia absoluta y relativa entre observables del Universo*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.c394e160
-
-Lloret Egea, J. A. (2026). *Vida y clausura de los observables realizados: cuerpos, especies, estrellas y frontera sutural del universo observable como dominio físico realizado*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.9c15d6fe
-
-Lloret Egea, J. A. (2026). *Línea del Umbral SV, circulación de retorno del dominio-universo y átomo formal de ascendencia no agotada*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.30dfd78b
-
-Lloret Egea, J. A. (2026). *Raigal, apertura de imperfección y horizonte de retorno de los observables - (Del arraigo preproyectivo a la vida formal transducible de cuerpos, especies, estrellas y dominios-universo)*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.bfd86036
-
-Lloret Egea, J. A. (2026). *Proyecciones biológicas de la fibra*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.1ab33893
-
-Lloret Egea, J. A. (2026). *El origen material ordinario del Universo observable y la relación entre física contemporánea y el SV en el tránsito por dominios: errores de plano, contraste entre aparatos y continuidad H–He de la materia ordinaria*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.90fce13d
-
-Lloret Egea, J. A. (2026). *Campo y energía, génesis de la masa y definición física de la gravedad: gravitación universal, constante cosmológica y dominio observable*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.41afec0f
-
-Lloret Egea, J. A. (2026). *La materia oscura no existe como sustancia: demostración formal de nulidad sustancial, densidad gravitatoria efectiva de sutura y contraste físico escalable*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.7b41835f
-
-Lloret Egea, J. A. (2026). *Génesis del hidrógeno y teoría de la persistencia energética estructural: masa, frontera, residual e identidad física bajo compatibilidad operatoria universal*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.17613/qq4q9-sd847
-
-Lloret Egea, J. A. (2026). *Determinación dirigida del elemento químico SV-399. — Actinio (Ac) + 3 Oganesón (Og) + Tungsteno/Wolframio (W)*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.5211d837
+Lloret Egea, J. A. (2026m). *Radio, frontera y densidad del universo observable — Trilogía Cosmológica, Parte III*. IA eñ™ — La Biblia de la IA™. Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español. https://doi.org/10.21428/39829d0b.0430adc0
 
 ## Fuentes externas de contraste
 
@@ -5161,15 +5122,11 @@ Abdul-Karim, M., et al. (2025). *DESI DR2 results II: Measurements of baryon aco
 
 Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., Ballardini, M., Banday, A. J., Barreiro, R. B., Bartolo, N., Basak, S., Battye, R., Benabed, K., Bernard, J.-P., Bersanelli, M., Bielewicz, P., Bock, J. J., Bond, J. R., Borrill, J., Bouchet, F. R., ... Planck Collaboration. (2020). *Planck 2018 results. VI. Cosmological parameters*. *Astronomy & Astrophysics, 641*, A6. https://doi.org/10.1051/0004-6361/201833910
 
-Alam, S., Aubert, M., Avila, S., Balland, C., Bautista, J. E., Bershady, M. A., Bizyaev, D., Blanton, M. R., Bolton, A. S., Bovy, J., Brownstein, J. R., Burtin, E., Chuang, C.-H., Comparat, J., Dawson, K. S., de la Macorra, A., du Mas des Bourboux, H., Eisenstein, D. J., Escoffier, S., ... eBOSS Collaboration. (2021). *Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Cosmological implications from two decades of spectroscopic surveys at the Apache Point Observatory*. *Physical Review D, 103*, 083533. https://doi.org/10.1103/PhysRevD.103.083533
-
 Aguirre, A., & Tegmark, M. (2004). *Multiple universes, cosmic coincidences, and other dark matters*. arXiv. arXiv:hep-th/0409072.
 
-Bertone, G., Hooper, D., & Silk, J. (2005). Particle dark matter: Evidence, candidates and constraints. *Physics Reports, 405*(5–6), 279–390. https://doi.org/10.1016/j.physrep.2004.08.031
+Alam, S., Aubert, M., Avila, S., Balland, C., Bautista, J. E., Bershady, M. A., Bizyaev, D., Blanton, M. R., Bolton, A. S., Bovy, J., Brownstein, J. R., Burtin, E., Chuang, C.-H., Comparat, J., Dawson, K. S., de la Macorra, A., du Mas des Bourboux, H., Eisenstein, D. J., Escoffier, S., ... eBOSS Collaboration. (2021). *Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Cosmological implications from two decades of spectroscopic surveys at the Apache Point Observatory*. *Physical Review D, 103*, 083533. https://doi.org/10.1103/PhysRevD.103.083533
 
 Carroll, S. M. (2001). The cosmological constant. *Living Reviews in Relativity, 4*, 1. https://doi.org/10.12942/lrr-2001-1
-
-Clowe, D., Bradač, M., González, A. H., Markevitch, M., Randall, S. W., Jones, C., & Zaritsky, D. (2006). A direct empirical proof of the existence of dark matter. *The Astrophysical Journal Letters, 648*(2), L109–L113. https://doi.org/10.1086/508162
 
 Coleman, S., & De Luccia, F. (1980). Gravitational effects on and of vacuum decay. *Physical Review D, 21*(12), 3305–3315. https://doi.org/10.1103/PhysRevD.21.3305
 
@@ -5189,11 +5146,7 @@ NASA. (2025). *How big is space? We asked a NASA expert: Episode 61*. National A
 
 NASA. (s. f.). *Moon facts*. National Aeronautics and Space Administration. https://science.nasa.gov/moon/facts/
 
-NASA. (s. f.). *Sun facts*. National Aeronautics and Space Administration. https://science.nasa.gov/sun/facts/
-
 NASA Goddard Space Flight Center. (s. f.). *The Milky Way Galaxy — Imagine the Universe*. https://imagine.gsfc.nasa.gov/science/featured_science/milkyway/
-
-Rubin, V. C., & Ford, W. K., Jr. (1970). Rotation of the Andromeda Nebula from a spectroscopic survey of emission regions. *The Astrophysical Journal, 159*, 379–403. https://doi.org/10.1086/150317
 
 Tegmark, M. (2009). *Many worlds in context*. arXiv. arXiv:0905.2182.
 
@@ -5214,8 +5167,6 @@ NASA Earth Observatory / NASA Goddard Space Flight Center. (s. f.). *Blue Marble
 NASA/JPL-Caltech/Spitzer Space Telescope. (s. f.). *Spitzer galactic infrared image* (`ssc2006-02a1.jpg`).
 
 STScI/NASA/ESA. (s. f.). *Deep-field astronomical image* (`STScI-01EVVD1H0Z5HWP2PPK7N0TMQN3.jpg`).
-
----
 
 # Cláusulas legales
 
@@ -5267,7 +5218,7 @@ La difusión previa cumple una función de claridad científica y de trazabilida
 
 La relevancia científica de un eventual desarrollo técnico no residiría en proclamar una exterioridad absoluta, un multiverso importado, una cartografía material de subdominios no declarados ni una sustitución de la cosmología contemporánea. Su valor estaría precisamente en la frontera: abrir una región de contraste en la que cálculo SV, distancia, edad, dominio, frontera, retorno, transductor, grupo externo y residual puedan confrontarse bajo criterios declarados. La Ciencia Contemporánea conserva así su función como grupo externo de contraste; el Sistema Vectorial SV conserva su función de formalización interna.
 
-La difusión previa también ordena la eventual colaboración futura. Permite que cualquier investigador, laboratorio, grupo técnico o entidad interesada conozca con exactitud qué se formula, qué no se formula, qué magnitudes están cerradas, qué magnitudes quedan en U, qué resultados son admisibles, qué efectos puede tener una colaboración y qué reservas de propiedad intelectual o industrial permanecen vigentes. Sin esta fijación pública, una fase posterior podría confundirse con especulación genérica, analogía cosmológica, uso libre de una arquitectura ajena o apropiación parcial de resultados; con ella, el trabajo queda situado como formulación previa de una diana formal ya definida.
+La difusión previa también ordena la eventual colaboración futura. Permite que cualquier investigador, laboratorio, grupo técnico o entidad interesada conozca con exactitud qué se formula, qué no se formula, qué magnitudes están cerradas, qué magnitudes quedan en U, qué resultados son admisibles, qué efectos puede tener una colaboración y qué reservas de propiedad intelectual o industrial permanecen vigentes. Sin esta fijación pública, un tramo posterior podría confundirse con especulación genérica, analogía cosmológica, uso libre de una arquitectura ajena o apropiación parcial de resultados; con ella, el trabajo queda situado como formulación previa de una diana formal ya definida.
 
 ## Scientific justification for publication prior to contrast, implementation or technical exploitation
 
