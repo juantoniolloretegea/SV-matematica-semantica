@@ -292,8 +292,6 @@ Exocosmic Trilogy, Part II (μ) formally develops, through executed computation,
 
 ## Fuentes externas de contraste cosmológico, orbital y metrológico
 
-## Fuentes de imágenes y medios
-
 # Cláusulas legales
 
 ---
@@ -1098,9 +1096,6 @@ Unión Astronómica Internacional. (2012). *Resolution B2 on the re-definition o
 
 El radio orbital galáctico (distancia del Sol al centro de la Vía Láctea, `R_G = 26.000 ly_J`) y el año galáctico (periodo orbital del Sol en torno al centro galáctico, `𝒞_D^τ = 230.000.000 a_J`) se declaran expresamente como valores de contraste adoptados por el Sistema Vectorial, dentro de los márgenes que la literatura astronómica de referencia reconoce para ambas magnitudes. No se introducen como medidas con incertidumbre propia ni como fundamento, sino como anclas de calibración tipada del desarrollo. Todos estos parámetros intervienen únicamente como contraste y calibración tipada, sin función constitutiva sobre el tránsito exocósmico.
 
-## Fuentes de imágenes y medios
-
-La imagen de portada (*portada.png*) pertenece a esta publicación y reside en el repositorio canónico del Sistema Vectorial junto al texto. Su uso se rige por la licencia declarada en las cláusulas.
 
 # Cláusulas legales
 
