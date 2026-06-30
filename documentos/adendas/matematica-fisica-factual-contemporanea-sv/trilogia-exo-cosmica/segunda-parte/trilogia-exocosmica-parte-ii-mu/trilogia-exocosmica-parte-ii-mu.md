@@ -1098,9 +1098,8 @@ El radio orbital galáctico (distancia del Sol al centro de la Vía Láctea, `R_
 
 
 # Cláusulas legales
-láusulas legales
 
-Advertencia y reserva de derechos
+**Advertencia y reserva de derechos**
 
 Esta publicación, incluyendo su texto, formulación, estructura expositiva, tablas, figuras, cálculos, gráficos, imágenes integradas, selección y disposición de contenidos, archivos auxiliares, nomenclatura, símbolos, matrices, operadores, transductores, criterios de admisión, dominios, retornos, verificadores, anexos y documentación asociada, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO.
 
