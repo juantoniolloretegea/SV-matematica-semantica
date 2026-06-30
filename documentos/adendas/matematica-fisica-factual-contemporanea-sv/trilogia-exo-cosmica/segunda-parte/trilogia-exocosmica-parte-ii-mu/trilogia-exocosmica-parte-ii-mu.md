@@ -2,9 +2,7 @@
 
 <p align="center"><img width="900" alt="Portada — Trilogía Exocósmica, Parte II (μ)" src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-exo-cosmica/segunda-parte/trilogia-exocosmica-parte-ii-mu/portada.png"></p>
 
-> **El núcleo de la Parte II (μ) es la orbitalidad: de las órbitas locales que describe Kepler —Tierra-Sol, Sol-galaxia—, el Sistema Vectorial asciende, por una sola razón de escala, a la órbita suprasistémica de ε-Atlas en el Universo Versal de primer orden, bajo la lógica ternaria `{0, 1, U}`.**
->
-> *(La razón de escala no se funda en el dato externo: su valor se calibra con la orbitalidad observable —el cociente entre el radio galáctico y el planetario—, pero su autoridad reside en el patrón del sistema; con ella se produce el radio versal, su geometría y su recorrido suprasistémico. El retorno metrológico confirma, sin holgura, que el lazo cierra. El rango central, el Universo Capital, no se determina aquí: se reserva a la Parte II (λ).)
+> **El núcleo de la Parte II (μ) es la orbitalidad: de las órbitas locales que describe Kepler —Tierra-Sol, Sol-galaxia—, el Sistema Vectorial asciende, por una sola razón de escala, a la órbita suprasistémica de ε-Atlas en el Universo Versal de primer orden, bajo la lógica ternaria `{0, 1, U}`. (La razón de escala no se funda en el dato externo: su valor se calibra con la orbitalidad observable —el cociente entre el radio galáctico y el planetario—, pero su autoridad reside en el patrón del sistema; con ella se produce el radio versal, su geometría y su recorrido suprasistémico. El retorno metrológico confirma, riguroso, que el lazo cierra. El rango central, el Universo Capital, no se determina aquí y se reserva a la Parte II (λ).)**
 
 ## Sistema exocósmico de ε-Atlas: Transductor SV16-Pi, radio versal, órbita suprasistémica, retornos metrológicos y matriz orbital-transductiva
 
@@ -12,7 +10,7 @@
 
 ---
 
-© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 27/06/2026 | Colección: Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal | DOI de colección: 10.21428/39829d0b.f51da8e2 
+© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 30/06/2026 | Colección: Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal | DOI de colección: 10.21428/39829d0b.f51da8e2 
 
 ---
 
@@ -152,7 +150,7 @@ Exocosmic Trilogy, Part II (μ) formally develops, through executed computation,
 
 ## VIII.3. Duración de la traslación compuesta
 
-## VIII.4. Tasa factual de recorrido orbital
+## VIII.4. Tasa formal de recorrido orbital
 
 ## VIII.5. Diferencia entre órbita formal, pivotación y traslación supranodal
 
@@ -291,6 +289,8 @@ Exocosmic Trilogy, Part II (μ) formally develops, through executed computation,
 ## Fuentes internas del Sistema Vectorial SV
 
 ## Fuentes externas de contraste cosmológico, orbital y metrológico
+
+## Fuentes de imágenes y medios
 
 # Cláusulas legales
 
@@ -682,7 +682,7 @@ Con el radio galáctico de contraste `R_G = 26.000 ly_J` y el radio planetario `
 
 Aplicada como escala lineal sobre `R_ε`, produce el radio versal:
 
-`R_V = 𝒞_D^ℓ · R_ε = 22.690.898.457.834.741.360,3929056458 ly_J`
+> **`R_V = 𝒞_D^ℓ · R_ε = 22.690.898.457.834.741.360,3929056458 ly_J`**
 
 El producto es exacto respecto de los valores declarados; el residual aritmético interno es nulo, sin que ello afirme residual físico u observacional alguno. Este `R_V` es la magnitud que la Parte II (λ) toma por continuidad para construir, ya con la Constante ñ, el tránsito hacia el Universo Capital. En μ, `R_V` cierra el radio versal de primer orden y no se prolonga más allá. ∎
 
@@ -748,7 +748,7 @@ La precisión impide dos errores simétricos. El primero reduciría el resultado
 
 ## VII.6. Resultado central de escala
 
-El resultado central de escala es la terna Descartes completa, que ordena el tránsito en sus planos longitudinal, etario y de densidad: `𝒞_D^τ = 230.000.000`, `𝒞_D^ℓ = 1.644.268.004,19092328` y `𝒞_D^ρ = 7,148991322569`, con la relación de cierre `𝒞_D^ρ = 𝒞_D^ℓ / 𝒞_D^τ`. La componente longitudinal opera directamente en la producción del radio versal; la etaria gobierna la órbita suprasistémica que se calcula a continuación; la de densidad se conserva para mantener la terna completa sin mezclar planos de uso. Con esta terna, la relación de escala entre ε-Atlas y el Universo Versal se determina en sus tres órdenes y se entrega, por continuidad, al desarrollo λ. ∎
+El resultado central de escala es la terna Descartes completa, que ordena el tránsito en sus planos longitudinal, etario y de densidad: `𝒞_D^τ := T_SS↻Gal / T_⊕ = 230.000.000` (adimensional), `𝒞_D^ℓ = 1.644.268.004,19092328` y `𝒞_D^ρ = 7,148991322569`, con la relación de cierre `𝒞_D^ρ = 𝒞_D^ℓ / 𝒞_D^τ`. La componente longitudinal opera directamente en la producción del radio versal; la componente etaria `𝒞_D^τ` interviene como cociente adimensional de subciclo y, combinada con la longitudinal, determina la componente de densidad `𝒞_D^ρ` y, con ella, la tasa formal de recorrido `v_orb = π·𝒞_D^ρ` que se establece más adelante; la de densidad se conserva así como componente operativa de la terna sin mezclar planos de uso. Con esta terna, la relación de escala entre ε-Atlas y el Universo Versal se determina en sus tres órdenes y se entrega, por continuidad, al desarrollo λ. ∎
 
 # VIII. Órbita suprasistémica de ε-Atlas
 
@@ -768,17 +768,19 @@ Esta longitud coincide con `C_V` calculada en VI.3, ahora interpretada como reco
 
 La duración de la traslación suprasistémica se compone de la componente etaria de la Constante Descartes y de la magnitud axial-etaria final de ε-Atlas, `T_tras = 𝒞_D^τ · A_fin`. Ejecutada:
 
-`T_tras = 230.000.000 · 27.600.000.000 a_J`
+`T_tras = 𝒞_D^τ · A_fin = 230.000.000 (adimensional) · 27.600.000.000 a_J`
 
-`T_tras = 6.348.000.000.000.000.000 a_J = 6,348 × 10^18 a_J`
+> **`T_tras = 6.348.000.000.000.000.000 a_J = 6,348 × 10^18 a_J`**
 
-La duración es compuesta porque combina el factor etario del régimen orbital interno —el año galáctico respecto del año terrestre— con el recorrido axial completo de ε-Atlas. El producto es exacto respecto de los valores declarados; el residual aritmético interno es nulo, sin afirmación de residual físico u observacional. ∎
+La duración es compuesta porque combina la componente etaria `𝒞_D^τ`, cociente adimensional de subciclo, con el recorrido axial completo de ε-Atlas en `a_J`. La componente `𝒞_D^τ` no porta unidad propia: se obtiene como cociente entre el periodo de traslación supranodal de referencia y el periodo de referencia interno, `𝒞_D^τ := T_SS↻Gal / T_⊕ = 230.000.000`, con `T_SS↻Gal = 230.000.000 a_J` y `T_⊕ = 1 a_J`. Por ser adimensional, el producto `𝒞_D^τ · A_fin` conserva la unidad de `A_fin` y entrega `T_tras` en `a_J`, sin cruzar planos métricos. El producto es exacto respecto de los valores declarados; el residual aritmético interno es nulo, sin afirmación de residual físico u observacional. ∎
 
-## VIII.4. Tasa factual de recorrido orbital
+## VIII.4. Tasa formal de recorrido orbital
 
-La tasa factual de recorrido es el cociente entre la longitud orbital y la duración compuesta, `v_orb = L_orb / T_tras`. Ejecutada:
+La tasa formal de recorrido es el cociente entre la longitud orbital y la duración compuesta, `v_orb = L_orb / T_tras`. Ejecutada:
 
 `v_orb = 1,4257111980 × 10^20 ly_J / 6,348 × 10^18 a_J = 2,2459218620 × 10^1 ly_J/a_J`
+
+Esta tasa no es un cociente aislado: cierra con la terna Descartes. La correspondencia axial-etaria declarada en III.4 y VI —donde `1 ly_J` expresa la distancia recorrida por la luz durante `1 a_J`— autoriza la relación `R_ε / A_fin = 1/2 ly_J/a_J`, sin identificar distancia y tiempo como magnitudes homogéneas. Sustituyendo `L_orb = 2πR_V` y `R_V = 𝒞_D^ℓ·R_ε`, y con `T_tras = 𝒞_D^τ·A_fin`, la tasa se reduce paso a paso: `v_orb = (2π·𝒞_D^ℓ·R_ε)/(𝒞_D^τ·A_fin) = 2π·(𝒞_D^ℓ/𝒞_D^τ)·(R_ε/A_fin) = 2π·𝒞_D^ρ·(1/2 ly_J/a_J) = π·𝒞_D^ρ`, es decir, `v_orb = π·𝒞_D^ρ = 22,459218619560678 ly_J/a_J`. El cierre confirma que la duración compuesta no es un periodo adosado desde fuera, sino una magnitud ligada a la terna por la componente de densidad.
 
 Expresada en `ly_J/a_J`, la tasa equivale a 22,459 veces el recorrido de la luz en un año juliano. Esta cifra no se lee como velocidad física superlumínica, sino como tasa formal de recorrido dentro del régimen suprasistémico: la órbita es relación formal de dominio, no trayectoria en un espacio empírico disponible, y su tasa pertenece al mismo plano formal. La restricción de lectura física se desarrolla en VIII.6.
 
@@ -789,6 +791,8 @@ Tres movimientos no deben confundirse. La **órbita formal** suprasistémica es 
 ## VIII.6. Restricciones de lectura física
 
 El recorrido suprasistémico, su duración y su tasa expresan relación formal de dominio, no trayectoria física en un espacio externo directamente observable. La tasa de recorrido no afirma desplazamiento superlumínico de cuerpo alguno; la longitud orbital no afirma una circunferencia material recorrible; la duración compuesta no afirma una cronología soberana del Universo Versal. El régimen orbital externo de Kepler y de las efemérides, que se trata a continuación, opera como marco de contraste y no convierte esta órbita formal en órbita física ordinaria.
+
+**Nota de precisión.** Junto a la órbita suprasistémica de primer orden aquí determinada, la lectura situada de la Lanzadera Ómicron habilita una magnitud nodal-fronteriza de subescala, `R_aux,loc^SV`, sobre la cual puede formularse una lectura orbital auxiliar de régimen propio, distinta de la órbita versal y subordinada a su cambio de origen. El nodo correspondiente a esa órbita auxiliar recibe la denominación de **Nodo Santiago Ramón y Cajal**, en reconocimiento a la doctrina de la neurona —dominios con frontera propia que se comunican sin fundirse—, principio análogo a la separación de dominios que ordena este desarrollo. Su determinación —radio, ciclo por correspondencia axial-etaria y razón de descendencia respecto de `R_ε`— se desarrolla, con sus justificaciones, en un anexo de la Trilogía Exocósmica, Parte III (μ), donde la relación progenitor-descendiente recibe tratamiento propio. En ese anexo se determina también, por resta vectorial referida al origen formal, la distancia entre el Nodo Santiago Ramón y Cajal y el nodo versal `Ξ_Ω`, obtenida tras recalibrar el nodo auxiliar al origen por el mismo patrón de cambio de base que ordena la lectura situada. En este desarrollo μ no se ejecuta ni se cierra: solo se deja indicada para preservar la continuidad sin anticipar su régimen.
 
 # IX. Retornos metrológicos
 
@@ -890,7 +894,7 @@ Las magnitudes determinadas en μ, admitidas con cierre apto, son: el radio estr
 
 ## XII.2. Magnitudes externas de contraste
 
-Las magnitudes externas de contraste, admitidas como calibración y verificación pero no como fundamento, son: la distancia Tierra-Sol, el radio orbital galáctico, el año galáctico, la distancia Tierra-Luna y las referencias de Kepler y de las efemérides JPL/Horizons. Su régimen es de contraste tipado: aportan valor de calibración y permiten verificar el cierre del lazo, sin constituir la autoridad del tránsito.
+Las magnitudes externas de contraste, admitidas como calibración y verificación pero no como fundamento, son: la distancia Tierra-Sol, el radio orbital galáctico `R_G`, el periodo de traslación supranodal de referencia `T_SS↻Gal` (año galáctico), la distancia Tierra-Luna y las referencias de Kepler y de las efemérides JPL/Horizons. Su régimen es de contraste tipado: aportan valor de calibración y permiten verificar el cierre del lazo, sin constituir la autoridad del tránsito. Sus cocientes ya transducidos en la terna Descartes —`𝒞_D^τ`, `𝒞_D^ℓ`, `𝒞_D^ρ`— operan, en cambio, como componentes adimensionales internas del cálculo.
 
 ## XII.3. Magnitudes no intercambiables
 
@@ -905,7 +909,7 @@ Permanecen en `U` localizada, por falta de condiciones declaradas en μ: la cade
 | Clase | Ejemplos | Clasificación ternaria |
 |---|---|---|
 | Determinadas | `R_ε`, terna Descartes, `R_V`, `S_V`, `V_V`, `L_orb`, `T_tras`, retornos | Cierre apto (0) |
-| Externas de contraste | Tierra-Sol, `R_G`, año galáctico, Tierra-Luna, Kepler, JPL/Horizons | Admitidas como contraste; rechazadas como fundamento |
+| Externas de contraste | Tierra-Sol, `R_G`, `T_SS↻Gal` (año galáctico), Tierra-Luna, Kepler, JPL/Horizons | Admitidas como contraste; rechazadas como fundamento |
 | No determinadas | Cadena supranodal, Capital, ñ, herencia-descendencia, co-descendencia, pivotación | No determinación honesta (`U`) |
 
 La matriz no mezcla las tres clases. Lo determinado se calcula; lo externo calibra y contrasta sin fundar; lo no declarado permanece en `U` hasta que un desarrollo posterior reúna las condiciones de su determinación. ∎
@@ -1094,12 +1098,15 @@ Jet Propulsion Laboratory. (s. f.). *JPL Horizons System: solar system dynamics 
 
 Unión Astronómica Internacional. (2012). *Resolution B2 on the re-definition of the astronomical unit of length*. XXVIII Asamblea General, Pekín. (Definición de la unidad astronómica: 1 au = 1,495978707 × 10¹¹ m).
 
-El radio orbital galáctico (distancia del Sol al centro de la Vía Láctea, `R_G = 26.000 ly_J`) y el año galáctico (periodo orbital del Sol en torno al centro galáctico, `𝒞_D^τ = 230.000.000 a_J`) se declaran expresamente como valores de contraste adoptados por el Sistema Vectorial, dentro de los márgenes que la literatura astronómica de referencia reconoce para ambas magnitudes. No se introducen como medidas con incertidumbre propia ni como fundamento, sino como anclas de calibración tipada del desarrollo. Todos estos parámetros intervienen únicamente como contraste y calibración tipada, sin función constitutiva sobre el tránsito exocósmico.
+El radio orbital galáctico (distancia del Sol al centro de la Vía Láctea, `R_G = 26.000 ly_J`) y el periodo de traslación supranodal de referencia (periodo orbital del Sol en torno al centro galáctico, `T_SS↻Gal = 230.000.000 a_J`) se adoptan como valores externos brutos de contraste, dentro de los márgenes que la literatura astronómica de referencia reconoce para ambas magnitudes. No se introducen como medidas con incertidumbre propia ni como fundamento, sino como anclas de calibración tipada del desarrollo. A partir de esos datos brutos, sus cocientes formalizados dentro de la Constante Descartes —`𝒞_D^τ := T_SS↻Gal / T_⊕ = 230.000.000`, adimensional, junto a `𝒞_D^ℓ` y `𝒞_D^ρ`— operan en el cálculo de μ como componentes adimensionales ya transducidas. Esta distinción es esencial: los datos externos brutos (`T_SS↻Gal`, `R_G`, `1 au`) actúan como contraste y calibración tipada, sin función fundante; sus cocientes formalizados son componentes internas de la terna, sin que ello convierta la Ciencia Contemporánea en autoridad del tránsito exocósmico.
 
+## Fuentes de imágenes y medios
+
+La imagen de portada (*portada.png*) pertenece a esta publicación y reside en el repositorio canónico del Sistema Vectorial junto al texto. Su uso se rige por la licencia declarada en las cláusulas.
 
 # Cláusulas legales
 
-**Advertencia y reserva de derechos**
+## Advertencia y reserva de derechos
 
 Esta publicación, incluyendo su texto, formulación, estructura expositiva, tablas, figuras, cálculos, gráficos, imágenes integradas, selección y disposición de contenidos, archivos auxiliares, nomenclatura, símbolos, matrices, operadores, transductores, criterios de admisión, dominios, retornos, verificadores, anexos y documentación asociada, queda protegida por los derechos de propiedad intelectual de su autor y, en su caso, por la gestión de derechos que corresponda a través de CEDRO.
 
@@ -1109,7 +1116,7 @@ Cualquier forma de explotación de la obra o de partes sustanciales de ella —i
 
 La aplicación, implementación, explotación técnica o incorporación de los resultados, fórmulas, tablas, nomenclatura, metodología, transductores, criterios de admisión, dominios, retornos, matrices, anexo esférico-raigal, Patrón Ómicron, ε-Atlas, nodo versal, Ξ_Ω, Universo Versal, Constante Descartes, Lanzadera Ómicron, relaciones de radio, superficie, volumen, pivotación, clausura, relación progenitor-descendiente o conclusiones de esta obra en física, cosmología, exocosmología, matemáticas aplicadas, ingeniería, inteligencia artificial, ciencia de datos, simulación, educación, software, productos editoriales, modelos de lenguaje u otras ciencias derivadas queda reservada a la autorización expresa del autor cuando implique reproducción, transformación, comunicación pública, distribución, integración sustancial de la obra protegida, explotación comercial, desarrollo empresarial o uso no cubierto por la licencia.
 
-Notice and reservation of rights
+## Notice and reservation of rights
 
 This publication, including its text, formulation, expository structure, tables, figures, calculations, graphics, incorporated images, selection and arrangement of contents, auxiliary files, nomenclature, symbols, matrices, operators, transducers, admission criteria, domains, returns, verifiers, annexes and associated documentation, is protected by the author’s intellectual property rights and, where applicable, by the corresponding rights management through CEDRO.
 
@@ -1119,7 +1126,7 @@ Any form of exploitation of the work or of substantial parts thereof —includin
 
 The application, implementation, technical exploitation or incorporation of the results, formulas, tables, nomenclature, methodology, transducers, admission criteria, domains, returns, matrices, root-fibre spherical annex, Omicron Pattern, ε-Atlas, versal node, Ξ_Ω, Versal Universe, Descartes Constant, Omicron Launcher, radius, surface and volume relations, pivoting, closure, progenitor-descendant relation or conclusions of this work in physics, cosmology, exocosmology, applied mathematics, engineering, artificial intelligence, data science, simulation, education, software, editorial products, language models or other derived sciences is reserved to the express authorization of the author where it entails reproduction, transformation, public communication, distribution, substantial integration of the protected work, commercial exploitation, business development or any use not covered by the license.
 
-Disposición sobre propiedad industrial potencial, colaboración técnica y reserva de explotación
+## Disposición sobre propiedad industrial potencial, colaboración técnica y reserva de explotación
 
 La formulación científica, matemática y técnica asociada a esta publicación puede dar lugar a desarrollos posteriores de propiedad industrial, protección registral, secreto empresarial, software, modelos computacionales, sistemas de verificación, motores de cálculo, simuladores, interfaces de dominio, transductores, arquitecturas de trazabilidad, métodos de análisis cosmométrico, sistemas de contraste, modelos de entrenamiento o evaluación de inteligencia artificial, protocolos de validación formal o aplicaciones derivadas en dominios científicos y técnicos. La publicación no constituye solicitud de patente, cesión, licencia, autorización de explotación industrial ni renuncia a derechos de propiedad intelectual o industrial sobre métodos, procedimientos, criterios técnicos, matrices de análisis, secuencias de cálculo, modelos de transducción, sistemas de decisión, aplicaciones materiales, implementaciones computacionales o desarrollos derivados que puedan resultar patentables, registrables, protegibles como secreto empresarial o explotables mediante acuerdos de colaboración, licencia, transferencia o investigación conjunta.
 
@@ -1129,7 +1136,7 @@ Todo laboratorio, universidad, centro tecnológico, empresa, entidad pública o 
 
 Ninguna comunicación informal, lectura del documento, recepción de archivos, revisión técnica, comentario, cita, descarga, uso interno no autorizado, incorporación a repositorios, prueba computacional, reutilización en modelos, integración en herramientas ni evaluación privada generará derechos de explotación, prioridad técnica, expectativa jurídica, cotitularidad ni autorización implícita sobre el método, la arquitectura conceptual, los cálculos, la nomenclatura, el anexo, la colección o los desarrollos derivados. Esta disposición no limita la crítica científica, la revisión académica, la cita legítima ni el contraste independiente dentro de los límites legales aplicables. Su finalidad es preservar la trazabilidad de autoría, la integridad del método, la eventual protección industrial posterior y la ordenación jurídica de futuras colaboraciones técnicas.
 
-Provision on potential industrial property, technical collaboration and reservation of exploitation rights
+## Provision on potential industrial property, technical collaboration and reservation of exploitation rights
 
 The scientific, mathematical and technical formulation associated with this publication may give rise to subsequent developments involving industrial property, registrable protection, trade secrets, software, computational models, verification systems, calculation engines, simulators, domain interfaces, transducers, traceability architectures, cosmometric analysis methods, contrast systems, artificial-intelligence training or evaluation models, formal validation protocols or derived applications in scientific and technical domains. Publication does not constitute a patent application, assignment, licence, authorization for industrial exploitation or waiver of intellectual or industrial property rights over methods, procedures, technical criteria, analytical matrices, calculation sequences, transduction models, decision systems, material applications, computational implementations or derived developments that may be patentable, registrable, protectable as trade secrets or exploitable through collaboration, licensing, transfer or joint research agreements.
 
@@ -1139,7 +1146,7 @@ Any laboratory, university, technology centre, company, public or private entity
 
 No informal communication, reading of the document, receipt of files, technical review, comment, citation, download, unauthorized internal use, incorporation into repositories, computational test, reuse in models, integration into tools or private evaluation shall generate exploitation rights, technical priority, legal expectation, co-ownership or implied authorization over the method, conceptual architecture, calculations, nomenclature, annex, collection or derived developments. This provision does not limit scientific criticism, academic review, legitimate citation or independent contrast within the applicable legal limits. Its purpose is to preserve authorship traceability, the integrity of the method, possible subsequent industrial protection and the legal organisation of future technical collaborations.
 
-Justificación científica de la publicación previa a contraste, implementación o explotación técnica
+## Justificación científica de la publicación previa a contraste, implementación o explotación técnica
 
 La formalización exocósmica desarrollada en esta publicación no puede plantearse como una prueba privada, opaca o meramente instrumental. El objeto tratado —Patrón Ómicron, ε-Atlas, nodo versal, Universo Versal, Constante Descartes, pivotación axial, relación volumétrica y formulación esférico-raigal de dominios finitos— pertenece a un dominio de frontera entre cosmología formal, matemática del Sistema Vectorial SV, transducción de magnitudes, retorno metrológico y contraste externo. Por ello, cualquier validación seria exige que la diana formal, las restricciones, los dominios, las fórmulas, los criterios de admisión, las condiciones de rechazo, los residuales y la salida U queden públicamente fijados antes de cualquier explotación técnica, simulación, implementación computacional, revisión especializada o contraste externo.
 
@@ -1147,9 +1154,9 @@ La difusión previa cumple una función de claridad científica y de trazabilida
 
 La relevancia científica de un eventual desarrollo técnico no residiría en proclamar una exterioridad absoluta, un multiverso importado, una cartografía material de subdominios no declarados ni una sustitución de la cosmología contemporánea. Su valor estaría precisamente en la frontera: abrir una región de contraste en la que cálculo SV, distancia, edad, dominio, frontera, retorno, transductor, grupo externo y residual puedan confrontarse bajo criterios declarados. La Ciencia Contemporánea conserva así su función como grupo externo de contraste; el Sistema Vectorial SV conserva su función de formalización interna.
 
-La difusión previa también ordena la eventual colaboración futura. Permite que cualquier investigador, laboratorio, grupo técnico o entidad interesada conozca con exactitud qué se formula, qué no se formula, qué magnitudes están cerradas, qué magnitudes quedan en U, qué resultados son admisibles, qué efectos puede tener una colaboración y qué reservas de propiedad intelectual o industrial permanecen vigentes. Sin esta fijación pública, un tramo posterior podría confundirse con especulación genérica, analogía cosmológica, uso libre de una arquitectura ajena o apropiación parcial de resultados; con ella, el trabajo queda situado como formulación previa de una diana formal ya definida.
+La difusión previa también ordena la eventual colaboración futura. Permite que cualquier investigador, laboratorio, grupo técnico o entidad interesada conozca con exactitud qué se formula, qué no se formula, qué magnitudes están cerradas, qué magnitudes quedan en U, qué resultados son admisibles, qué efectos puede tener una colaboración y qué reservas de propiedad intelectual o industrial permanecen vigentes. Sin esta fijación pública, un tramo posterior podría confundirse con especulación genérica, analogía cosmológica, uso libre de una arquitectura ajena o apropiación parcial de resultados; con ella, el trabajo se sitúa como formulación previa de una diana formal ya definida.
 
-Scientific justification for publication prior to contrast, implementation or technical exploitation
+## Scientific justification for publication prior to contrast, implementation or technical exploitation
 
 The exocosmic formalisation developed in this publication cannot be framed as a private, opaque or merely instrumental test. The object treated —Omicron Pattern, ε-Atlas, versal node, Versal Universe, Descartes Constant, axial pivoting, volumetric relation and root-fibre spherical formulation of finite domains— belongs to a boundary domain between formal cosmology, mathematics of the Vectorial System SV, transduction of magnitudes, metrological return and external contrast. For that reason, any serious validation requires the formal target, restrictions, domains, formulas, admission criteria, rejection conditions, residuals and U output to be publicly fixed before any technical exploitation, simulation, computational implementation, specialised review or external contrast.
 
@@ -1159,9 +1166,10 @@ The scientific relevance of a possible technical development would not lie in pr
 
 Prior publication also organises possible future collaboration. It enables any researcher, laboratory, technical group or interested entity to know exactly what is formulated, what is not formulated, which magnitudes are closed, which magnitudes remain in U, which results are admissible, what effects collaboration may have and which reservations of intellectual or industrial property remain in force. Without this public fixation, a later phase could be confused with generic speculation, cosmological analogy, free use of another party’s architecture or partial appropriation of results; with it, the work is situated as prior formulation of an already defined formal target.
 
-La licencia CC BY-NC-ND 4.0 de esta publicación se aplica al texto, selección, estructura, formulación y contenidos propios del autor, salvo indicación contraria. 
+La licencia CC BY-NC-ND 4.0 de esta publicación se aplica al texto, selección, estructura, formulación y contenidos propios del autor, salvo indicación contraria.
 
-The CC BY-NC-ND 4.0 license of this publication applies to the author’s own text, selection, structure, formulation and contents, unless otherwise indicated. 
+The CC BY-NC-ND 4.0 license of this publication applies to the author’s own text, selection, structure, formulation and contents, unless otherwise indicated.
 
 **Lugar y fecha.** Madrid, 30 de junio de 2026.
 
+| URL canónica: https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-exo-cosmica/segunda-parte/trilogia-exocosmica-parte-ii-mu/trilogia-exocosmica-parte-ii-mu.md |
