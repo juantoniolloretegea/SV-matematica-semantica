@@ -6,7 +6,7 @@
 
 ---
 
-**Colección**: *Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal* | DOI de colección: 10.21428/39829d0b.f51da8e2  |  *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte I*. DOI: https://doi.org/10.21428/39829d0b.28563444 | *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte II (μ)*  https://doi.org/10.21428/39829d0b.49cecf93   |  
+**Colección**: *Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal* | [DOI de colección: 10.21428/39829d0b.f51da8e2](https://doi.org/10.21428/39829d0b.f51da8e2)  |  *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte I*. DOI: https://doi.org/10.21428/39829d0b.28563444 | *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte II (μ)*  https://doi.org/10.21428/39829d0b.49cecf93   |  
 
 **De esta publicación**: *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte II (λ)* | [DOI: 10.21428/39829d0b.8a6b4c3d ](https://doi.org/10.21428/39829d0b.8a6b4c3d)
 
