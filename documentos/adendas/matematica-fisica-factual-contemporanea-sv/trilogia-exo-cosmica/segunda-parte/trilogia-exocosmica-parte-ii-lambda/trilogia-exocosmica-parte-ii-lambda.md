@@ -733,9 +733,9 @@ La estructura anidada de los regímenes orbitales de la naturaleza dispone cada 
 
 `O₂` — Sol en torno a la Galaxia: radio `R(O₂) = R_G = 26.000 ly`; periodo `T(O₂) = 230.000.000 a_J`.
 
-`O₃` — ε-Atlas en torno al nodo versal `Ξ_Ω`: radio `R(O₃) = R_V = 22.690.898.457.834.741.360,3929056458 ly_J`; periodo `T(O₃) = T_tras^SV = 𝒞_D^τ · A_fin(ε-Atlas) = 230.000.000 · 27.600.000.000 = 6,348 × 10^18 a_J`.
+`O₃` — ε-Atlas en torno al nodo versal `Ξ_Ω`: radio `R(O₃) = R_V = 22.690.898.457.834.741.360,3929056458 ly_J`; duración compuesta formal `T(O₃) = T_tras^SV = 𝒞_D^τ · A_fin(ε-Atlas) = 230.000.000 (adimensional) · 27.600.000.000 a_J = 6,348 × 10^18 a_J`. En `O₃`, `T_tras^SV` se recibe de `μ` como duración compuesta formal del régimen suprasistémico, no como periodo físico ordinario ni como cronología material de un cuerpo observable.
 
-Los tres radios y los tres periodos proceden de magnitudes determinadas: `O₁` y `O₂`, del régimen orbital anidado; `O₃`, de la órbita suprasistémica del Universo Versal de primer orden, cuyo radio es `R_V` y cuyo periodo es la duración de traslación `T_tras^SV`. La escalera se lee del patrón anidado de la naturaleza, dato estructural firme: cada régimen orbital se inscribe dentro del siguiente.
+Las tres magnitudes radiales y sus magnitudes temporales asociadas proceden de magnitudes determinadas: `O₁` y `O₂`, del régimen orbital anidado; `O₃`, de la órbita suprasistémica del Universo Versal de primer orden, cuyo radio es `R_V` y cuya duración compuesta formal es la traslación `T_tras^SV`. La escalera se lee del patrón anidado de la naturaleza, dato estructural firme: cada régimen orbital se inscribe dentro del siguiente.
 
 ## IX.9. Ampliación al peldaño suprasistémico y determinación de la terna ñ
 
@@ -749,13 +749,13 @@ La Constante Descartes se forma con la ventana de los dos peldaños internos del
 
 La Constante ñ se forma con la ventana subida un peldaño, `(O₂, O₃)`, por la misma ley de razón orbital. El ascenso de la ventana reproduce la disposición anidada de la naturaleza, en la que cada constante de escala relaciona un régimen orbital con el inmediatamente envolvente. La terna ñ se determina, componente por componente:
 
-`𝒞_ñ^τ = T(O₃) / T(O₂) = T_tras^SV / 230.000.000 = A_fin(ε-Atlas) = 27.600.000.000`
+`𝒞_ñ^τ = T(O₃) / T(O₂) = 6,348 × 10^18 a_J / 230.000.000 a_J = 27.600.000.000`
 
 `𝒞_ñ^ℓ = R(O₃) / R(O₂) = R_V / R_G = 872.726.863.762.874,6677074194479`
 
 `𝒞_ñ^ρ = 𝒞_ñ^ℓ / 𝒞_ñ^τ = 31.620,538542133`
 
-Cada componente resulta de operación sobre magnitudes determinadas. La componente etaria iguala la clausura axial-etaria del observable, `A_fin(ε-Atlas) = 27.600.000.000 a_J`; la longitudinal, la razón del radio versal al radio galáctico; la de densidad, el cociente de las dos anteriores. La terna se determina por cálculo.
+Cada componente resulta de operación sobre magnitudes determinadas. La componente etaria `𝒞_ñ^τ` es adimensional: su valor numérico coincide con el valor numérico de la clausura axial-etaria del observable, `A_fin(ε-Atlas) = 27.600.000.000 a_J`, pero no arrastra su unidad, pues procede del cociente de dos duraciones expresadas en `a_J`. La longitudinal es la razón del radio versal al radio galáctico; la de densidad, el cociente de las dos anteriores. La terna se determina por cálculo.
 
 El salto etario entre las dos constantes vale `𝒞_ñ^τ / 𝒞_D^τ = 27.600.000.000 / 230.000.000 = 120`, que mide la clausura del observable en revoluciones galácticas.
 
@@ -1079,9 +1079,9 @@ En consecuencia, el núcleo geométrico-métrico del bloque se cierra ya en esto
 
 ## XI.13. Alcance del bloque: determinación, definición y desarrollos contiguos
 
-El núcleo geométrico-métrico del Universo Capital se determina y concluido en este bloque: `R_C`, `D_C`, `L_C`, `S_C` y `V_C` resultan de cálculo sobre la escalera orbital exhibida en IX.8–IX.10. Tres precisiones delimitan su alcance, todas de carácter positivo.
+El núcleo geométrico-métrico del Universo Capital queda determinado y concluido en este bloque: `R_C`, `D_C`, `L_C`, `S_C` y `V_C` resultan de cálculo sobre la escalera orbital exhibida en IX.8–IX.10. Tres precisiones delimitan su alcance, todas de carácter positivo.
 
-La traslación propia del Universo Capital corresponde al peldaño `O₅` —la órbita del Capital en torno a un nodo supra-capital— y pertenece al desarrollo del dominio supra-capital. Dentro de la cadena considerada `Ω_C → Ω_V → ε-Atlas`, el Capital es el término envolvente y no traslada respecto de ningún nodo interior a ella; su orbitalidad interna, la del Universo Versal en torno al nodo capital, se determina con radio `R_C` (IX.10).
+La traslación propia del Universo Capital no se abre en la cadena considerada ni en desarrollo alguno: el Capital es el original absoluto y terminal de la herencia-descendencia (IX.10), sin dominio que lo envuelva ni nodo respecto del cual trasladar. Dentro de la cadena `Ω_C → Ω_V → ε-Atlas`, el Capital es el término envolvente y no traslada respecto de ningún nodo interior ni superior; su orbitalidad interna, la del Universo Versal en torno al nodo capital, se determina con radio `R_C` (IX.10). No se declara peldaño `O₅` alguno: sobre el original no hay original, y su ausencia es conclusión estructural, no reserva de desarrollo.
 
 Los contenidos del Universo Capital se determinan por declaración expresa de cada uno, con su dominio, frontera, residual y retorno; el inventario procede término a término, no por enumeración anticipada ni por simetría de la cadena. El exterior de la frontera capital se formaliza en el anexo XVI como Espacio compatible.
 
@@ -1169,7 +1169,7 @@ El paso de un nivel a otro de la cadena se admite sólo bajo tres condiciones co
 
 Estas tres condiciones operan como control de cadena, no como formalidad añadida. Sin dominio suficiente no hay término sobre el que hablar. Sin residual identificable, el paso fingiría un cierre íntegro donde sólo habría ocultación de resto. Sin retorno compatible, la instancia derivada resultaría desarticulada del nivel del que pretende descender.
 
-La cadena `Ω_C → Ω_V → ε-Atlas` satisface estas condiciones en los tres niveles declarados. Más allá de ε-Atlas en sentido descendente, y por encima del Universo Capital en sentido ascendente, el paso pertenece a desarrollos contiguos —el dominio descendente ulterior y el dominio supra-capital—, que fijan dominio, residual y retorno propios.
+La cadena `Ω_C → Ω_V → ε-Atlas` satisface estas condiciones en los tres niveles declarados. Más allá de ε-Atlas en sentido descendente, el paso pertenece a un desarrollo contiguo —el dominio descendente ulterior—, que fija dominio, residual y retorno propios. En sentido ascendente, en cambio, la cadena no se prolonga: el Universo Capital es el original absoluto y terminal, sin dominio que lo envuelva (IX.10), de modo que no hay peldaño ni desarrollo supra-capital que declarar.
 
 ## XII.7. Herencia-descendencia en el dominio atómico: H → He
 
@@ -1279,13 +1279,13 @@ La separación del Universo Capital se declara sostenida por frontera, identidad
 
 ## XIV.4. Resultado axial-etario
 
-El desarrollo axial-etario capital introduce `A_{\mathrm{semi}}^{SV}(\Omega_C)` y `A_{\mathrm{fin}}^{SV}(\Omega_C)` por definición expresa, con diferencial axial-etario capital y proyección axial-etaria del Sistema ñ. El alcance se circunscribe al dominio capital; la traslación propia del Capital pertenece al desarrollo supra-capital (IX.10).
+El desarrollo axial-etario capital introduce `A_{\mathrm{semi}}^{SV}(\Omega_C)` y `A_{\mathrm{fin}}^{SV}(\Omega_C)` por definición expresa, con diferencial axial-etario capital y proyección axial-etaria del Sistema ñ. El alcance se circunscribe al dominio capital; la traslación propia del Capital no se declara, pues el Capital es el original absoluto y terminal, sin nodo superior respecto del cual trasladar (IX.10).
 
 ## XIV.5. Resultado de ñ y su relación con Descartes
 
 La Constante ñ se obtiene por ampliación de la escalera orbital anidada al peldaño suprasistémico, en la misma familia relacional que la Constante Descartes y sin arrastre de ésta al tramo capital. Su terna es:
 
-`𝒞_ñ^τ = 27.600.000.000`; `𝒞_ñ^ℓ = 872.726.863.762.874,6677074194479`; `𝒞_ñ^ρ = 31.620,538542`.
+`𝒞_ñ^τ = 27.600.000.000` (adimensional); `𝒞_ñ^ℓ = 872.726.863.762.874,6677074194479`; `𝒞_ñ^ρ = 31.620,538542`.
 
 La componente longitudinal produce el radio capital `R_C = 𝒞_ñ^ℓ R_V = R_V^2 / R_G = 1{,}9802956647 \times 10^{34}\ \mathrm{ly}_J`. El salto etario entre Descartes y ñ vale exactamente 120, que equivale a la clausura del observable medida en revoluciones galácticas. El Sistema ñ se mantiene como operador de tránsito y selección, sin convertirse en clave universal ni en recuento de elementos.
 
@@ -1327,7 +1327,7 @@ El desarrollo de λ se mantiene en plano formal. Los datos astronómicos externo
 
 ## XV.6. Límites y cuestiones abiertas conservadas
 
-La determinación de la Parte II (λ) se circunscribe a la cadena `Ω_C → Ω_V → ε-Atlas`. La traslación propia del Universo Capital pertenece al desarrollo del dominio supra-capital, que abre la órbita del Capital en torno a un nodo superior; el presente desarrollo determina el dominio capital como envolvente de la cadena. La terna ñ se determina íntegra en sus tres componentes, cada uno por cálculo sobre la escalera orbital. Las magnitudes extensas se expresan a la precisión declarada de la conversión `ly_J/au`, que fija con garantía el número de cifras significativas.
+La determinación de la Parte II (λ) se circunscribe a la cadena `Ω_C → Ω_V → ε-Atlas`. El documento no declara traslación propia del Universo Capital: el Capital queda como término envolvente y terminal de la cadena, y como término constitutivo de la Totalidad, original absoluto sin nodo superior respecto del cual trasladar (IX.10); la orbitalidad determinada es la interna del Universo Versal en torno al nodo capital. La terna ñ se determina íntegra en sus tres componentes, cada uno por cálculo sobre la escalera orbital. Las magnitudes extensas se expresan a la precisión declarada de la conversión `ly_J/au`, que fija con garantía el número de cifras significativas.
 
 ## XV.7. Puntos de contacto observacional y contraste falsable
 
@@ -1403,7 +1403,7 @@ La definición de Totalidad como articulación irreducible de Vacío Absoluto, E
 
 ## XVII.6. Reserva honesta de lo no cerrado
 
-El presente desarrollo determina el dominio capital como envolvente de la cadena `Ω_C → Ω_V → ε-Atlas`: su escala, su radio y su geometría, por cálculo sobre la escalera orbital. Lo contiguo se sitúa con precisión —la traslación propia del Capital, en el desarrollo supra-capital; cada contenido capital, por declaración expresa; el exterior de la frontera, como Espacio compatible en el anexo—. La determinación procede término a término, y cada término entra en resultado por la vía que lo determina.
+El presente desarrollo determina el dominio capital como envolvente de la cadena `Ω_C → Ω_V → ε-Atlas`: su escala, su radio y su geometría, por cálculo sobre la escalera orbital. Lo contiguo se sitúa con precisión —el Capital no traslada, por ser original absoluto y terminal; cada contenido capital, por declaración expresa; el exterior de la frontera, como Espacio compatible en el anexo—. La determinación procede término a término, y cada término entra en resultado por la vía que lo determina.
 
 ---
 
@@ -1439,7 +1439,7 @@ Lloret Egea, J. A. (2026l). *Recta-Ómicron (Lanzadera) — Trilogía Cosmológi
 
 Lloret Egea, J. A. (2026m). *Vida y clausura de los observables realizados*. ITVIA, IA eñ — La Biblia de la IA. https://doi.org/10.21428/39829d0b.9c15d6fe
 
-La Trilogía Exocósmica, Parte II (μ), que precede editorialmente a este desarrollo, se incorporará con su identificador propio una vez publicada.
+Lloret Egea, J. A. (2026n). *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte II (μ)*. ITVIA, IA eñ — La Biblia de la IA. https://doi.org/10.21428/39829d0b.49cecf93
 
 ## XVIII.2. Fuentes externas de contraste
 
