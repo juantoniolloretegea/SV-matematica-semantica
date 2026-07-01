@@ -2,6 +2,12 @@
 
 <p align="center"><img width="900" alt="Portada — Trilogía Exocósmica, Parte II (λ)" src="https://raw.githubusercontent.com/juantoniolloretegea/SV-matematica-semantica/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/trilogia-exo-cosmica/segunda-parte/trilogia-exocosmica-parte-ii-lambda/portada.png"></p>
 
+© 2026. Todos los derechos reservados | Juan Antonio Lloret Egea ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 30/06/2026 | 
+
+Colección: Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal | DOI de colección: 10.21428/39829d0b.f51da8e2  |  NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte I. DOI: https://doi.org/10.21428/39829d0b.28563444 | NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte II (μ)  https://doi.org/10.21428/39829d0b.49cecf93   | **De esta publicación**: *NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte II (λ)* | [DOI: 10.21428/39829d0b.8a6b4c3d ](https://doi.org/10.21428/39829d0b.8a6b4c3d)
+
+---
+
 > **El Sistema Vectorial articula, bajo un único patrón estructural y una sola lógica de clausura ternaria `{0, 1, U}`, una escala continua y acotada que va del mínimo atómico —el hidrógeno— al máximo cósmico —el Universo Capital—, con puntos de contacto observacional declarados.**
 >
 > *(No postula nuevas fuerzas ni dimensiones, ni recurre a la gravedad cuántica: extiende por cálculo un patrón anclado en lo observado —órbitas medidas, precedencia `H→He` concorde con la nucleosíntesis, edad del universo, radio de Bohr, cero absoluto— y declara, fila por fila, dónde puede ser refutado. Quien discrepe tiene dónde atacar.)*
