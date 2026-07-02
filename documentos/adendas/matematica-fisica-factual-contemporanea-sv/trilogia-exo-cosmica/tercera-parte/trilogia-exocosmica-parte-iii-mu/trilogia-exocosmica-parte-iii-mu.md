@@ -12,9 +12,6 @@
 
 **Desarrollo μ de la Parte III (μ + λ): recepción cerrada de la Parte I, la Parte II (μ) y la Parte II (λ); composición de la constante longitudinal de cadena; retorno directo y por tramos del Universo Capital al dominio observable; distinción de residuales; y Teorema de Unicidad Capital, transducción raigal del residual de clausura y completitud no reductiva de la Totalidad, con el Anexo del Nodo Santiago Ramón y Cajal.**
 
----
-
-© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 02/07/2026 | Colección: Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal | DOI de colección: 10.21428/39829d0b.f51da8e2
 
 ---
 
