@@ -123,7 +123,7 @@ Aquí el cociente `R_C / 𝒞_Cε^ℓ` reconstruye el radio observable de partid
 
 <div align="center"><code>R_C / 𝒞_Cε^ℓ = (R_C / 𝒞_ñ^ℓ) / 𝒞_D^ℓ = R_ε.</code></div>
 
-La coincidencia es analítica por construcción: al haberse definido la constante de cadena como el producto `𝒞_ñ^ℓ · 𝒞_D^ℓ`, dividir por ella y dividir sucesivamente por las dos constantes de tramo son la misma operación. El residual entre las dos vías es nulo por identidad algebraica, no por ajuste. ∎
+La coincidencia es analítica por construcción: al haberse definido la constante de cadena como el producto `𝒞_ñ^ℓ · 𝒞_D^ℓ`, dividir por ella y dividir sucesivamente por las dos constantes de tramo son la misma operación. El residual entre las dos vías es nulo por identidad algebraica, no por ajuste. (C.Q.D).
 
 El significado del teorema no es la trivialidad de que dividir por un producto equivalga a dividir por sus factores. Su significado es de dominio: la cadena `ε-Atlas → Universo Versal → Universo Capital` admite retorno directo y retorno por tramos sin defecto de dominio, sin tramo no declarado y sin constante intermedia oculta. Que las dos vías coincidan certifica que no hay un tercer tramo escondido entre el observable y el capital, ni un operador ajeno interpuesto.
 
@@ -232,7 +232,7 @@ Sea `Ω_C^0` el Universo Capital primario de la vuelta considerada. Sea `𝔛^SV
 
 ## IX.4. Unicidad del Capital primario
 
-Supóngase que existieran dos capitales primarios en una misma vuelta, `Ω_C^0` y `Ω_C'^0`. Si fueran distinguibles, existiría una frontera o dominio de comparación que los separase; pero entonces ambos quedarían inscritos bajo un marco más amplio, y ninguno ocuparía ya la función de primario. Contradicción. Si no fueran distinguibles, no serían dos, sino doble denominación de un mismo término. Identidad. Luego sólo puede existir un Capital primario por vuelta. ∎
+Supóngase que existieran dos capitales primarios en una misma vuelta, `Ω_C^0` y `Ω_C'^0`. Si fueran distinguibles, existiría una frontera o dominio de comparación que los separase; pero entonces ambos quedarían inscritos bajo un marco más amplio, y ninguno ocuparía ya la función de primario. Contradicción. Si no fueran distinguibles, no serían dos, sino doble denominación de un mismo término. Identidad. Luego sólo puede existir un Capital primario por vuelta. (C.Q.D)
 
 Los índices `n`, `n+1` no representan generaciones cronológicas ni sucesión temporal: representan vueltas de la espiral en régimen append-only. La herencia-descendencia se lee como precedencia estructural, no como genealogía en el tiempo.
 
@@ -283,7 +283,7 @@ bajo las condiciones: `Ω_C^0` único primario por vuelta; `Δ_clausura(Ω_C^n) 
 
 ## IX.9. Conclusión
 
-La cadena de la Parte III (μ) cierra con residual algebraico y residual estructural nulos; ese cierre no elimina el diferencial raigal, que pertenece a otro plano. La unicidad del Capital primario de cada vuelta queda demostrada por reducción al absurdo. La espiral del Todo y la Nada cicla a través de la frontera `(0,0)`, no por encima de la cima capital, y avanza append-only hasta agotar cada familia antes de relevarla. La mediación entre clausura y apertura corre a cargo del transductor `𝔛^SV_ñG_Raigal`; su salida es suceso activador, no materia; y la Totalidad permanece completa y no reductiva bajo toda la espiral. Ningún dominio se postula por encima del Capital. La mediación queda formalmente declarada y controlada; los valores físicos absolutos no determinados por este bloque no se inventan ni se convierten en cierre. ∎
+La cadena de la Parte III (μ) cierra con residual algebraico y residual estructural nulos; ese cierre no elimina el diferencial raigal, que pertenece a otro plano. La unicidad del Capital primario de cada vuelta queda demostrada por reducción al absurdo. La espiral del Todo y la Nada cicla a través de la frontera `(0,0)`, no por encima de la cima capital, y avanza append-only hasta agotar cada familia antes de relevarla. La mediación entre clausura y apertura corre a cargo del transductor `𝔛^SV_ñG_Raigal`; su salida es suceso activador, no materia; y la Totalidad permanece completa y no reductiva bajo toda la espiral. Ningún dominio se postula por encima del Capital. La mediación queda formalmente declarada y controlada; los valores físicos absolutos no determinados por este bloque no se inventan ni se convierten en cierre. (C.Q.D)
 
 ---
 
