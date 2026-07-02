@@ -109,7 +109,7 @@ La Trilogía Exocósmica, Parte III (λ) formaliza el humanoide como sujeto que 
 
 - **X. Clausura de la Trilogía Exocósmica**
 
-- **Anexo. Rutas Atlas y ejemplos de lectura**
+- **Anexo. Las dos escalas del potencial y ejemplos de lectura**
 
 - **Bibliografía**
 
@@ -325,26 +325,44 @@ La clausura no agota el Sistema Vectorial ni cierra sus dominios de aplicación.
 
 ---
 
-# **Anexo. Rutas Atlas y ejemplos de lectura**
+# Anexo. Las dos escalas del potencial y ejemplos de lectura
 
-Este anexo ilustra la lectura orientativa del humanoide sobre la Recta Atlas, sin recalcular la escala ni la cadena. Recoge, como contraste, la proyección inicial de algunos observables sobre la Recta Atlas, en régimen de igualdad polar `P_i^0 = 0` e intensidad `I_i^0` en unidades de potencial Atlas, con `A_{Ωobs} = 13.800.000.000 a_J`, `F_Ω = 27.600.000.000 a_J`, `η = 0,1` y `Q = 64` (Lloret Egea, 2026b).
+El potencial de un observable se refiere siempre a la Línea del Umbral (`P = μ − λ`), pero su lectura exige elegir la escala sobre la que se sitúa. Dos escalas se distinguen aquí, y no deben confundirse, por dos razones precisas. La primera es de calibración: si el cero se fija en el estado actual del ciclo —el presente—, todo lo anterior al presente queda por debajo del cero, y las familias anteriores al propio Universo Épsilon-Atlas caen fuera de la escala; por eso el cero absoluto se fija en el origen del Universo Capital, que es anterior a todo dominio y hace positivo cuanto de él desciende. La segunda es de resolución: sobre la escala del Universo Capital, el Universo Épsilon-Atlas entero se sitúa en `χ ≈ 3,48 × 10⁻²⁵`, y un radio atómico en `χ ≈ 1,41 × 10⁻⁶¹`, de modo que distinguir observables internos —especies, seres vivos, seres humanos— exige una escala propia y ampliada. Se usan, pues, dos escalas anidadas: la del Universo Capital para las magnitudes cósmicas, y la del Universo Épsilon-Atlas para los observables de nuestro dominio.
 
-<div>
+## A.1. Escala del Universo Capital y sus observables
 
-|                                  |                                |           |                               |                                              |
-|----------------------------------|--------------------------------|-----------|-------------------------------|----------------------------------------------|
-| **Observable o dominio**         | **`A_i`** **en** **`10⁹ a_J`** | **`x_i`** | **`I_i^0`** **en** **`u_AT`** | **Régimen**                                  |
-| Observable cosmológico retornado | 13,800                         | 0,000000  | **0,000**                     | origen de comparecencia                      |
-| Vía Láctea-entorno               | 13,600                         | 0,007246  | **3,734**                     | régimen temprano admisible                   |
-| Sistema Solar                    | 4,568                          | 0,334493  | **78,416**                    | régimen derivado admisible                   |
-| Sol                              | 4,570                          | 0,334420  | **78,407**                    | régimen derivado admisible                   |
-| Tierra                           | 4,540                          | 0,335507  | **78,540**                    | régimen planetario, contraste                |
-| Corte actual del ciclo           | 0,000                          | 0,500000  | **95,644**                    | referencia de corte                          |
-| Clausura acotada del ciclo       | −13,800                        | 1,000000  | **128,000**                   | límite de escala, no objeto físico ordinario |
+Esta escala tiene su cero en el origen del Universo Capital —el Vacío Absoluto `(0,0)`, origen absoluto— y su unidad en el ciclo completo del Capital. Por el criterio transductivo condicionado de simetría del ciclo, heredado de la determinación de edades, el estado actual de un dominio se sitúa en la mitad de su ciclo (`A_fin = 2 · A_act`); extrapolado al Capital, ese criterio no devuelve una edad —que permanece reservada— sino un radio, de modo que el estado actual del Capital es el radio `R_C` y la clausura de su ciclo es `2 · R_C`, con el Capital exactamente en `1/2` (Lloret Egea, 2026a; 2026p). La coordenada de carta es `χ = r / (2 · R_C)`.
 
-</div>
+| Corte de la escala | Expresión por razón exacta | Posición `χ` | Estatuto |
+|---|---|---:|---|
+| Origen absoluto `(0,0)` | `0` | `0` | Vacío Absoluto, origen del Capital |
+| `a₀` (radio de Bohr) | `a₀ / (2·R_C)` | `≈ 1,41 × 10⁻⁶¹` | primer corte material |
+| `R_ε` (frontera Épsilon-Atlas) | `1 / (2 · 𝒞_Cε^ℓ)` | `≈ 3,48 × 10⁻²⁵` | frontera del dominio observable |
+| `R_V` (radio versal) | `1 / (2 · 𝒞_ñ^ℓ)` | `≈ 5,73 × 10⁻¹⁶` | nodo versal |
+| `R_C` (Capital, estado actual) | `1 / 2` | `0,5` | estado actual del Capital |
+| `2 · R_C` (Capital, clausura) | `1` | `1` | clausura del ciclo capital |
 
-Esta tabla no afirma que el potencial singular de cada observable sea nulo: afirma que, en la proyección inicial sobre la Recta Atlas, todos los regímenes se sitúan sobre la Línea del Umbral con `P_i^0 = 0` y distinta intensidad. La singularidad de cada uno exige un diferencial `δ_i` declarado; si no hay magnitud suficiente, la singularidad queda en `U`. Una ruta del agente ordena estas potencias como vector `Π_AT(R)` de origen, medio, campo, frontera, alimento, vínculo, retorno y residual, y sólo se cierra numéricamente cuando cada componente dispone de magnitud, unidad, frontera y retorno declarados.
+Las posiciones `χ` de esta tabla se ofrecen sólo como orientación decimal: la escala se opera por sus **razones exactas** —`𝒞_Cε^ℓ = R_C / R_ε`, `𝒞_ñ^ℓ = R_C / R_V = R_V / R_G`—, nunca por el valor decimal truncado de `χ`. Truncar `χ` más allá de las cifras que la razón admite colapsaría todo el Universo Épsilon-Atlas a `χ = 0` y destruiría la escala; la disciplina relacional, ya adoptada en la Parte III (μ), lo impide.
+
+## A.2. Escala del Universo Épsilon-Atlas y sus observables
+
+Esta escala es la Recta Atlas, y sirve para los observables de nuestro dominio, donde la escala del Universo Capital no tiene resolución. Su cero está en el origen del Universo Épsilon-Atlas y su unidad en el ciclo observable, con `A_{Ωobs} = 13.800.000.000 a_J`, `F_Ω = 27.600.000.000 a_J`, `η = 0,1` y `Q = 64`; el estado actual del dominio observable se sitúa, también, en `1/2` de su ciclo (Lloret Egea, 2026b). Es el segmento Épsilon-Atlas de la escala del Universo Capital, ampliado por el factor exacto `𝒞_Cε^ℓ = 1,434996858 × 10²⁴`. La tabla recoge la proyección inicial de algunos observables, en régimen de igualdad polar `P_i^0 = 0` e intensidad `I_i^0` en unidades de potencial Atlas `u_AT`.
+
+| Observable o dominio | `A_i` en `10⁹ a_J` | `x_i` | `I_i^0` en `u_AT` | Régimen |
+|---|---:|---:|---:|---|
+| Origen del dominio observable | 13,800 | 0,000000 | 0,000 | origen de la escala |
+| Vía Láctea-entorno | 13,600 | 0,007246 | 3,734 | régimen temprano admisible |
+| Sistema Solar | 4,568 | 0,334493 | 78,416 | régimen derivado admisible |
+| Sol | 4,570 | 0,334420 | 78,407 | régimen derivado admisible |
+| Tierra | 4,540 | 0,335507 | 78,540 | régimen planetario, contraste |
+| Estado actual del ciclo | 0,000 | 0,500000 | 95,644 | referencia de corte, `1/2` del ciclo |
+| Clausura del ciclo observable | −13,800 | 1,000000 | 128,000 | límite de escala, no objeto físico ordinario |
+
+Esta tabla no afirma que el potencial singular de cada observable sea nulo: afirma que, en la proyección inicial, todos los regímenes se sitúan sobre la Línea del Umbral con `P_i^0 = 0` y distinta intensidad. La singularidad de cada uno exige un diferencial `δ_i` declarado; si no hay magnitud suficiente, la singularidad queda en `U`. Una ruta del agente ordena estas potencias como vector `Π_AT(R)` de origen, medio, campo, frontera, alimento, vínculo, retorno y residual, y sólo se cierra numéricamente cuando cada componente dispone de magnitud, unidad, frontera y retorno declarados.
+
+Las dos escalas se enlazan por la razón exacta `𝒞_Cε^ℓ`, y la lectura del humanoide elige entre ellas según el dominio del observable: la del Universo Capital para las magnitudes cósmicas, la del Universo Épsilon-Atlas para los observables internos, sin colapsar una en otra.
+
+---
 
 ---
 
