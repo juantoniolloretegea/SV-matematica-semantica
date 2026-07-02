@@ -218,7 +218,7 @@ Este teorema cierra la posible grieta entre el cierre estructural de la cadena y
 
 ## IX.2. El transductor y su nombre
 
-Se fija el transductor de mediación entre clausura y apertura, con símbolo `𝔛^SV_ñG_Raigal`. Su nombre —ñ-Isaac Newton-Raigal— reúne tres términos que sólo significan juntos: **ñ**, por adscripción al Sistema ñ y al régimen capital; **Newton**, por la referencia gravitacional newtoniana recibida como retorno físico de enlace, no como fundamento; y **Raigal**, por la función de raíz, residual, retorno y apertura. Separados, cada término pierde lo que el conjunto nombra: la mediación de raíz que transduce el diferencial raigal de una clausura en el suceso activador de la vuelta siguiente.
+Se fija el transductor de mediación entre clausura y apertura, con símbolo `𝔛^SV_ñG_Raigal`. Su nombre — **ñ-Isaac Newton-Raigal** — reúne tres términos que sólo tienen acepción y significado juntos: **ñ**, por adscripción al Sistema ñ y al régimen capital, y porque la letra **'ñ'** es singular del espaol, idioma en el que el SV ha sido escrito y pensado; **Newton**, por la referencia gravitacional newtoniana recibida como retorno físico de enlace, y en reconimiento a su aportación a la Física con su Ley de Gravitación Universal, no como fundamento; y **Raigal**, por la función de raíz y su significado en el idioma español de éste término: [raigal](https://dle.rae.es/raigal), residual, retorno y apertura. Separados, cada término pierde lo que el conjunto nombra: la mediación de raíz que transduce el diferencial raigal de una clausura en el suceso activador de la vuelta siguiente.
 
 ## IX.3. Enunciado
 
