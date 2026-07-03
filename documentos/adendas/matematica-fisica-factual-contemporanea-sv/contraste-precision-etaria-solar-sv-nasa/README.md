@@ -1,8 +1,15 @@
-# Contraste de precisión etaria solar SV–NASA: NASA redondea; el Sistema Vectorial SV formaliza
+# Contraste de precisión etaria solar SV–NASA
 
-**Publicación** · DOI: [https://doi.org/10.21428/39829d0b.22c326bf](https://doi.org/10.21428/39829d0b.22c326bf "_blank")
+## NASA redondea; el Sistema Vectorial SV formaliza
 
-**Autor:** Juan Antonio Lloret Egea · ORCID: 0000-0002-6634-3351 · Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) · IA eñ™ — *La Biblia de la IA*™ · ISSN 2695-6411 · Licencia: CC BY-NC-ND 4.0
+**Tránsito solar a gigante roja y enana blanca con dominio, origen y retorno externo**
+
+**Autor:** Juan Antonio Lloret Egea  
+**ORCID:** 0000-0002-6634-3351  
+**Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA)**  
+**IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411**  
+**Licencia:** CC BY-NC-ND 4.0  
+**DOI:** [https://doi.org/10.21428/39829d0b.22c326bf](https://doi.org/10.21428/39829d0b.22c326bf "_blank")
 
 ---
 
@@ -12,98 +19,116 @@
 
 ---
 
-## Función de esta publicación
+## Nota de no afiliación y referencia externa
 
-Esta publicación desarrolla un contraste de precisión entre determinadas formulaciones públicas de NASA sobre el futuro del Sol y la formalización del Sistema Vectorial SV. Su objeto no es declarar que NASA yerre materialmente en su comunicación divulgativa, sino distinguir entre redondeo público, dominio declarado, tramo situado, residual de recomposición y retorno formal.
+NASA se menciona exclusivamente como fuente pública externa de contraste y como referencia nominal de determinadas magnitudes divulgadas o redondeadas. Esta publicación no está afiliada, patrocinada, revisada, aprobada ni respaldada por NASA. Toda formalización, interpretación, cálculo y responsabilidad matemática corresponden exclusivamente al autor y al Sistema Vectorial SV.
 
-La fórmula titular **“NASA redondea; el Sistema Vectorial SV formaliza”** debe leerse como distinción de función: NASA opera como fuente pública externa de contraste; el Sistema Vectorial SV formaliza internamente las magnitudes tratadas bajo sus propios criterios de dominio, origen, tramo, porcentaje, diferencia formal absoluta y residual.
-
----
-
-## Nota de no afiliación y alcance del contraste SV–NASA
-
-NASA se menciona exclusivamente como fuente pública externa de contraste y como referencia nominal de determinadas magnitudes divulgadas o redondeadas. Esta publicación no está afiliada, patrocinada, revisada, aprobada ni respaldada por NASA. El contraste SV–NASA se limita al tratamiento formal de magnitudes públicas bajo el Sistema Vectorial SV. Toda formalización, interpretación, cálculo y responsabilidad matemática corresponden exclusivamente al autor y al Sistema Vectorial SV.
-
-La presencia de imágenes o referencias procedentes de NASA se entiende conforme a sus condiciones públicas de uso de imágenes y medios: no implica patrocinio, aprobación, revisión, validación ni respaldo institucional de NASA hacia esta publicación, su autor, el Sistema Vectorial SV o cualquier actividad asociada.
+El uso de imágenes o materiales NASA queda sometido a las condiciones públicas de la agencia. La publicación no reproduce insignias, logotipos ni sellos institucionales de NASA como signos de identificación propia.
 
 ---
 
-## Encaje editorial
+## Relación editorial con la Trilogía Exocósmica
 
-Esta publicación puede figurar asociada a la colección **Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal** por compartir el mismo criterio metodológico **SV–NASA**: magnitudes públicas NASA tratadas como referencia externa declarada y formalización propia del Sistema Vectorial SV.
+Esta publicación figura como publicación relacionada con la colección **Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal** por compartir el mismo criterio de contraste expresado en la fórmula titular:
 
-Esa adscripción es sólo de cautela de lectura y respeto institucional. No convierte este contraste solar en parte numerada de la Trilogía Exocósmica, ni altera la arquitectura de dicha Trilogía, que permanece cerrada como secuencia de tres partes desplegadas en cinco publicaciones.
+> **NASA redondea; el Sistema Vectorial SV formaliza.**
+
+La adscripción es editorial y metodológica. No altera la arquitectura de la Trilogía Exocósmica, que permanece cerrada como secuencia de tres partes desplegadas en cinco publicaciones. El contraste solar no constituye una sexta parte de la Trilogía: actúa como antecedente relacionado de precisión etaria, dominio declarado y retorno externo bajo el mismo criterio SV–NASA.
 
 ---
 
-## Núcleo formal
+## Objeto formal de la publicación
 
-El estudio distingue dos dominios que no deben confundirse:
+La publicación desarrolla un contraste de precisión entre formulaciones públicas de NASA sobre el futuro del Sol y la formalización etaria del Sistema Vectorial SV. El problema no se formula como una oposición institucional, sino como una distinción de plano: una magnitud redondeada orienta la lectura pública; una determinación formal exige dominio, origen, tramo, fase, unidad, residual y retorno.
 
-| Dominio | Magnitud rectora | Lectura |
+El estudio trabaja con dos dominios no intercambiables:
+
+| Dominio | Magnitud rectora | Función |
 |---|---:|---|
-| Sistema Solar como dominio sistémico `Ωₛₛ` | `Aₛₛ = 4.568.000.000 aⱼ` | Corte etario del dominio sistémico |
-| Sol como objeto físico individual `Ω☉` | `A☉ = 4.570.000.000 aⱼ` | Corte etario del objeto solar |
+| Sistema Solar como dominio sistémico `Ωₛₛ` | `Aₛₛ = 4.568.000.000 aⱼ` | Corte sistémico de recomposición |
+| Sol como objeto físico individual `Ω☉` | `A☉ = 4.570.000.000 aⱼ` | Corte solar individual |
 
-A partir de esos cortes, la publicación incorpora como contraste externo los tramos declarados:
+La diferencia `A☉ − Aₛₛ = 2.000.000 aⱼ` se conserva durante toda la recomposición. No se elimina por escala ni se corrige por aproximación divulgativa.
+
+---
+
+## Núcleo de formalización SV
+
+El cálculo declara los tramos externos admitidos como contraste y los somete a recomposición bajo dominio:
 
 | Tramo | Valor | Función |
 |---|---:|---|
-| `Δ_MS,resto` | `5.000.000.000 aⱼ` | Tramo restante de secuencia principal hasta entrada en fase de gigante roja |
-| `Δ_RG` | `1.000.000.000 aⱼ` | Duración de la fase de gigante roja tomada como bloque de contraste |
-| `Δ_PN→WD` | `10.000 aⱼ` | Convención estrecha de transición hacia régimen de enana blanca |
+| `Δ_MS,resto` | `5.000.000.000 aⱼ` | Tramo restante hasta entrada en fase de gigante roja |
+| `Δ_RG` | `1.000.000.000 aⱼ` | Duración de la fase de gigante roja como tramo declarado |
+| `Δ_PN→WD` | `10.000 aⱼ` | Tránsito estrecho hacia régimen de enana blanca |
 
-Resultados principales:
+La forma general de recomposición es:
 
-| Resultado | Dominio | Valor | Residual |
-|---|---|---:|---:|
-| Entrada en régimen de enana blanca | `Ωₛₛ` | `A_WD(Oₛₛ) = 10.568.010.000 aⱼ` | `0` |
-| Entrada en régimen de enana blanca | `Ω☉` | `A_WD(O☉) = 10.570.010.000 aⱼ` | `0` |
-| Diferencia conservada entre dominios | `Ω☉ − Ωₛₛ` | `2.000.000 aⱼ` | Conservada |
+```text
+A_WD(O_D) = A_actual,D + Δ_MS,resto + Δ_RG + Δ_PN→WD
+```
 
-La diferencia formal absoluta principal frente al conjunto externo redondeado de contraste es:
+El residual de admisión se expresa como:
 
-`432.000.000 aⱼ`
+```text
+R_WD,D = A_WD(O_D) − (A_actual,D + Δ_MS,resto + Δ_RG + Δ_PN→WD)
+```
 
-Esa cifra no se presenta como invalidación material de la divulgación externa, sino como delimitación formal entre redondeo público y determinación SV bajo dominio declarado.
+La salida se admite cuando el residual se anula en el dominio declarado.
 
 ---
 
-## Estructura del documento
+## Resultados rectores
 
-El documento principal desarrolla:
+| Resultado | Valor |
+|---|---:|
+| Entrada en régimen de enana blanca en dominio sistémico `A_WD(Oₛₛ)` | `10.568.010.000 aⱼ` |
+| Entrada en régimen de enana blanca en dominio solar individual `A_WD(O☉)` | `10.570.010.000 aⱼ` |
+| Diferencia conservada entre dominios | `2.000.000 aⱼ` |
+| Residual sistémico `R_WD,SS` | `0` |
+| Residual solar individual `R_WD,☉` | `0` |
+| Diferencia formal absoluta principal frente al conjunto externo redondeado de contraste | `432.000.000 aⱼ` |
 
-1. estado del arte físico contemporáneo sobre el futuro solar;
-2. análisis del problema de dominio entre Sol individual y Sistema Solar;
-3. marco formal SV aplicado al tránsito solar;
-4. datos de partida;
-5. determinación en dominio sistémico;
-6. determinación en dominio solar individual;
-7. matriz de tránsito por fases solares;
-8. contraste SV–NASA;
-9. tablas de resultados;
-10. análisis de evidencia y precisión comparada;
-11. restricciones de interpretación;
-12. resultado y conclusión;
-13. bibliografía y cláusulas legales.
+La distribución SV sistémica hasta entrada en régimen de enana blanca queda expresada así:
+
+| Fase | Duración SV | Porcentaje SV |
+|---|---:|---:|
+| Secuencia principal total | `9.568.000.000 aⱼ` | `90,537386 %` |
+| Fase de gigante roja | `1.000.000.000 aⱼ` | `9,462519 %` |
+| Tránsito estrecho hacia enana blanca | `10.000 aⱼ` | `0,0000946 %` |
+| Total | `10.568.010.000 aⱼ` | `100 %` |
+
+---
+
+## Criterio de lectura
+
+La fórmula **“NASA redondea; el Sistema Vectorial SV formaliza”** identifica una relación de contraste entre comunicación pública redondeada y formalización SV. NASA opera como referencia pública externa; el SV ejecuta la determinación formal bajo dominio, origen, tramo, fase, unidad, residual y retorno.
+
+El resultado no convierte el redondeo en error material ni convierte la referencia externa en fundamento del SV. La publicación mide la separación formal entre magnitudes divulgadas o redondeadas y recomposición SV, conserva la diferencia entre dominio sistémico y objeto solar individual, y devuelve resultados auditables en años julianos, segundos, porcentajes y residuales.
+
+---
+
+## Estructura interna
+
+La publicación desarrolla el contraste mediante los siguientes bloques principales:
+
+1. Estado del arte físico contemporáneo sobre el futuro solar.  
+2. Análisis del problema: tránsito solar, dominio, origen y riesgo de redondeo como determinación.  
+3. Marco formal SV aplicado al tránsito solar.  
+4. Datos de partida y normalización en año juliano `aⱼ`.  
+5. Determinación SV en dominio sistémico `Ωₛₛ`.  
+6. Determinación SV en dominio solar individual `Ω☉`.  
+7. Matriz de tránsito por fases solares y precisión metrológica.  
+8. Contraste SV–NASA.  
+9. Tablas de datos, porcentajes, diferencias y residuales.  
+10. Discusión física, restricciones de interpretación y resultado.  
+11. Bibliografía y cláusulas legales.
 
 ---
 
 ## Archivo principal
 
 - [`contraste-precision-etaria-solar-sv-nasa.md`](contraste-precision-etaria-solar-sv-nasa.md)
-
----
-
-## Imagen de portada
-
-- [`imagenes/portada.png`](imagenes/portada.png)
-
----
-
-## Criterio de lectura
-
-Esta publicación no sustituye la astrofísica solar empírica, no declara una observación nueva del Sol y no usa NASA como fuente constitutiva del Sistema Vectorial SV. Conserva el material NASA como contraste externo y formula una lectura SV de precisión etaria mediante dominio, origen, tramo, residual y retorno.
 
 ---
 
