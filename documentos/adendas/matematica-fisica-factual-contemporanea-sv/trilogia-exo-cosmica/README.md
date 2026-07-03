@@ -18,7 +18,7 @@ La colección se apoya en el Sistema Vectorial SV y conserva la disciplina de se
 <tr>
 <td width="35%">
 
-<a href="https://doi.org/10.21428/39829d0b.28563444" target="_blank"><img src="primera-parte/portada.png" alt="Portada — NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte I" width="100%"></a>
+<a href="https://doi.org/10.21428/39829d0b.28563444" target="_blank"><img src="primera-parte/imagenes/portada.png" alt="Portada — NASA redondea; el Sistema Vectorial SV formaliza — Trilogía Exocósmica, Parte I" width="100%"></a>
 
 </td>
 <td width="65%">
