@@ -105,6 +105,19 @@ Clausura la Trilogía en el sujeto que lee. Formaliza el humanoide Watson como s
 
 ---
 
+
+## Nota final sobre referencia NASA y publicación relacionada
+
+NASA se menciona en esta colección exclusivamente como fuente pública externa de contraste y como referencia nominal de determinadas magnitudes divulgadas o redondeadas. La colección y sus publicaciones no están afiliadas, patrocinadas, revisadas, aprobadas ni respaldadas por NASA. Toda formalización, interpretación, cálculo y responsabilidad matemática corresponden exclusivamente al autor y al Sistema Vectorial SV.
+
+La publicación [*Contraste de precisión etaria solar SV–NASA: NASA redondea; el Sistema Vectorial SV formaliza*](https://doi.org/10.21428/39829d0b.22c326bf "_blank") figura asociada a esta colección sólo como publicación relacionada por cautela de lectura y respeto institucional hacia NASA, al compartir el mismo criterio de contraste externo: magnitudes públicas NASA tratadas como referencia declarada y formalización propia del Sistema Vectorial SV.
+
+Esta adscripción no altera la arquitectura de la **Trilogía Exocósmica** ni eleva el contraste solar al rango de parte numerada. La Trilogía permanece cerrada como secuencia de tres partes desplegadas en cinco publicaciones; el contraste solar queda como antecedente relacionado de precisión etaria y retorno externo.
+
+DOI de la publicación relacionada: [https://doi.org/10.21428/39829d0b.22c326bf](https://doi.org/10.21428/39829d0b.22c326bf "_blank")
+
+---
+
 ## Registro técnico, hashes y criptografía
 
 Bloque reservado para la incorporación posterior de datos de custodia técnica, huellas criptográficas, hashes, sellos de integridad, referencias de depósito y demás identificadores de preservación asociados a la colección y a sus cinco publicaciones.
