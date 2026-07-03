@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+<a href="https://doi.org/10.21428/39829d0b.f51da8e2" target="_blank"><img src="portada.png" alt="Portada — Trilogía Exocósmica: más allá del dominio-universo que habitamos, hacia el nodo versal" width="100%"></a>
+</p>
+
+---
+
 ## Secuencia de la colección
 
 La **Trilogía Exocósmica** queda formada por tres partes desplegadas en cinco publicaciones. La separación `μ / λ` no multiplica la trilogía: distingue funciones internas de cálculo, tránsito, cierre y lectura. La Parte I abre el dominio exocósmico; la Parte II se desdobla en orbitalidad `μ` y tránsito capital `λ`; la Parte III se desdobla en cierre estructural `μ` y clausura humanoide `λ`.
