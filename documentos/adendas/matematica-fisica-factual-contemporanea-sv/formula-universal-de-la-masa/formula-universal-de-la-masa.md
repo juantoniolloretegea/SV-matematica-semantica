@@ -6,7 +6,7 @@
 
 ---
 
-© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 06/07/2026
+© 2026. Todos los derechos reservados. | Juan Antonio Lloret Egea | [DOI 10.21428/39829d0b.95b8df6b](https://doi.org/10.21428/39829d0b.95b8df6b) | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia CC BY-NC-ND 4.0 | Madrid, 06/07/2026
 
 ---
 
