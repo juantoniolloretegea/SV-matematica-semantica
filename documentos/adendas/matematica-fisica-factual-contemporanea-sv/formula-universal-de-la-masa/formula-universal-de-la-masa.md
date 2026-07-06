@@ -32,7 +32,7 @@ The mass of a body treated as an equivalent-radius sphere follows from multiplyi
 - V. Método de contraste
 - VI. Contraste con cuerpos del Sistema Solar
 - VII. Densidad semilla y anclaje cosmológico de ε-Atlas
-- VIII. Masa de ε-Atlas
+- VIII. Masa de ε-Atlas: universo que habitamos y que engloba el Sistema Solar, Vía Láctea, etc.
 - IX. Cadena de proporcionalidad y naturaleza de las constantes
 - X. Universo Versal
 - XI. Universo Capital
@@ -163,7 +163,8 @@ El dominio observable, tratado bajo lectura exocósmica como dominio-universo co
 
 De la combinación de ambos anclajes surge un resultado que conviene exhibir porque hace transparente la fundamentación de la masa. Al ser el radio igual a c·T_obs y la densidad la crítica, los factores geométricos se cancelan con el factor 3 de la densidad y la masa del dominio observable admite la forma cerrada M_ε = c³·T_obs/(2G). Es decir, la masa de ε-Atlas coincide con la magnitud que se asocia al contenido energético del universo observable a densidad crítica, y no con un número introducido a mano. La génesis física de la masa y la definición de la gravedad que subyacen a este anclaje se han tratado por separado en el marco (Lloret Egea, 2026a).
 
-## VIII. Masa de ε-Atlas
+##  VIII. Masa de ε-Atlas: universo que habitamos y que engloba el Sistema Solar, Vía Láctea, etc.
+
 
 Del radio anterior se obtiene el volumen esférico equivalente V_ε = (4π/3)R_ε³ = 9,32180209648921×10⁷⁸ m³. El producto del volumen por la densidad semilla devuelve la masa del dominio observable:
 
