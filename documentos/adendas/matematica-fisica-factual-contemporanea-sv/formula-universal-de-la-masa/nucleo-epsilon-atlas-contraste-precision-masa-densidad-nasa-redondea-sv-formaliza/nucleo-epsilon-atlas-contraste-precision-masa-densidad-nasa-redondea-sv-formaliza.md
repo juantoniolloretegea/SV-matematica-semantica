@@ -26,7 +26,7 @@ La recomposición cierra de forma exacta: aplicada la constante de la ventana in
 
 La masa así obtenida es determinación formal por cadena, del mismo régimen que las masas del Universo Versal y del Universo Capital, y no medición instrumental externa.
 
-Aunque los datos son los datos, y el cálculo es el cálculo; y el patrón de la naturaleza Herencia-Descendencia…: ¿es, por tanto, un dato ya calculado por Ésta?
+> ### Aunque los datos son los datos, y el cálculo es el cálculo; y el patrón de la naturaleza Herencia-Descendencia…: ¿es, por tanto, un dato ya calculado por Ésta?
 
 El término núcleo se emplea en sentido de precedencia generadora de cadena, no de cuerpo compacto (aunque tampoco se afirma lo contrario). Al final se recoge una corrección de las entradas de contraste de la fila de la Luna en la tabla de la publicación de adscripción.
 
@@ -37,7 +37,7 @@ Recomposition closes exactly: applying the lower-window constant, the core recom
 
 The mass so obtained is a formal chain determination, of the same regime as the masses of the Versal and Capital Universes, and not an external instrumental measurement.
 
-Although data are data, calculation is calculation, and the pattern of nature is Inheritance-Descendence, the question is therefore posed in its proper terms: is this a datum already calculated by that pattern?
+> ### Although data are data, calculation is calculation, and the pattern of nature is Inheritance-Descendence, the question is therefore posed in its proper terms: is this a datum already calculated by that pattern?
 
 The term core is used in the sense of generative chain precedence, not of a compact body (although the contrary is not asserted either). A correction of the contrast entries of the Moon row in the ascription publication's table is recorded at the end.
 
