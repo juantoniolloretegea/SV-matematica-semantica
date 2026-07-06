@@ -18,6 +18,7 @@
 
 **Publicación de adscripción:** *Fórmula universal de la masa y proporcionalidad por herencia-descendencia: radio, densidad de dominio, ε-Atlas, Universo Versal y Universo Capital*  
 **DOI de adscripción:** [10.21428/39829d0b.95b8df6b](https://doi.org/10.21428/39829d0b.95b8df6b)
+[**DOI de la publicación**: 10.21428/39829d0b.84d43855](https://doi.org/10.21428/39829d0b.84d43855)
 
 **URL canónica:** [SV-matematica-semantica / fórmula universal de la masa / núcleo de ε-Atlas](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/formula-universal-de-la-masa/nucleo-epsilon-atlas-contraste-precision-masa-densidad-nasa-redondea-sv-formaliza)
 
