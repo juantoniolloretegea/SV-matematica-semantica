@@ -122,7 +122,7 @@ La circularidad aparece cuando estas condiciones se mezclan, esto es, cuando de 
 
 El contraste con cuerpos bien determinados sigue un procedimiento fijo. De cada cuerpo se toman, de grupos externos de datos, el radio medio volumétrico y la densidad global; para el Sol se toman masa, radio volumétrico medio y densidad media (Jet Propulsion Laboratory, s.f.; Lloret Egea, 2026b). Los radios se convierten de kilómetros a metros y las densidades de gramos por centímetro cúbico a kilogramos por metro cúbico. Con esas entradas se calcula la masa por la forma general y se compara con la masa publicada. El residual se define como la diferencia relativa en tanto por ciento entre la masa calculada y la publicada,
 
-$$\text{residual}(\%) = \frac{M_{\text{fórmula}} - M_{\text{grupo externo}}}{M_{\text{grupo externo}}}\times 100,$$
+residual (%) = (M_fórmula − M_grupo externo) / M_grupo externo × 100,
 
 de manera que un residual positivo indica que la fórmula devuelve una masa algo mayor que la publicada, y uno negativo, algo menor.
 
@@ -153,7 +153,7 @@ A modo de ejemplo resuelto de principio a fin, la fila de la Tierra se obtiene a
 
 El paso del cuerpo planetario al dominio observable exige una densidad de referencia que no se ajuste para cerrar un resultado, sino que provenga de una magnitud cosmológica reconocida. Esa densidad se define en el marco de referencia dentro del tramo de radio, frontera y densidad del universo observable (Lloret Egea, 2026m) como
 
-$$\rho_\varepsilon = \frac{3}{8\pi G\,T_{obs}^{2}},$$
+ρ_ε = 3 / (8πG·T_obs²),
 
 que es la forma de la densidad crítica cuando el inverso del tiempo observable ocupa el lugar del parámetro de expansión. En esta expresión G es la constante de gravitación universal, G = 6,67430×10⁻¹¹ m³·kg⁻¹·s⁻², y T_obs es el tiempo observable, la extensión temporal del universo observable, T_obs = 4,3549488×10¹⁷ s, equivalente a 1,38×10¹⁰ años julianos; el valor es ρ_ε = 9,429953786784435×10⁻²⁷ kg·m⁻³, del orden de la densidad crítica del universo observable.
 
@@ -167,7 +167,7 @@ De la combinación de ambos anclajes surge un resultado que conviene exhibir por
 
 Del radio anterior se obtiene el volumen esférico equivalente V_ε = (4π/3)R_ε³ = 9,32180209648921×10⁷⁸ m³. El producto del volumen por la densidad semilla devuelve la masa del dominio observable:
 
-$$M_\varepsilon = V_\varepsilon\,\rho_\varepsilon = 8,79041629794435\times10^{52}\ \text{kg}.$$
+M_ε = V_ε·ρ_ε = 8,79041629794435×10⁵² kg.
 
 Esta masa es masa calculada del dominio-universo observable, con densidad de reconocida naturaleza cosmológica y radio derivado del tiempo observable. Pertenece al régimen de anclaje cosmológico, pues tanto el radio como la densidad remiten a magnitudes independientes de la cadena de proporcionalidad que se introduce a continuación. La coincidencia con la forma cerrada M_ε = c³·T_obs/(2G) confirma el anclaje por una vía independiente del cálculo volumétrico directo. (c.q.d.)
 
@@ -175,7 +175,7 @@ Esta masa es masa calculada del dominio-universo observable, con densidad de rec
 
 Dos dominios cualesquiera i y j, vinculados por una razón lineal C^ℓ = R_j/R_i entre sus radios, comparten esa misma razón elevada al cuadrado en la superficie y al cubo en el volumen. Si, además, sus densidades guardan una razón C^ρ, las masas heredan la proyección combinada
 
-$$\frac{M_j}{M_i} = \left(\frac{R_j}{R_i}\right)^{3}\cdot\frac{\rho_j}{\rho_i} = (C^{\ell})^{3}\,C^{\rho}.$$
+M_j/M_i = (R_j/R_i)³·(ρ_j/ρ_i) = (C^ℓ)³·C^ρ.
 
 La masa es, así, la cuarta proyección de una misma escala lineal, después de la lineal, la superficial y la volumétrica. No es una relación independiente, sino la consecuencia de aplicar la densidad de dominio sobre la proyección volumétrica.
 
@@ -204,7 +204,7 @@ Aplicada la razón lineal del primer tramo al radio de ε-Atlas, el radio del Un
 
 La densidad del Universo Versal se obtiene multiplicando la densidad semilla por la razón densitaria del tramo, con ρ_V = ρ_ε·C_D^ρ = 6,74146577939508×10⁻²⁶ kg·m⁻³. El producto del volumen por la densidad heredada, o de modo equivalente la masa semilla por la proyección combinada del tramo, devuelve
 
-$$M_V = M_\varepsilon\,(C_D^{\ell})^{3}\,C_D^{\rho} = 2,79365022966150\times10^{81}\ \text{kg}.$$
+M_V = M_ε·(C_D^ℓ)³·C_D^ρ = 2,79365022966150×10⁸¹ kg.
 
 La masa del Universo Versal es masa calculada de dominio formalmente determinado por cadena. No procede de medición instrumental externa ni aquí se pretende tal medición; su valor es único dada la masa semilla y las constantes del tramo. La cadena que enlaza los dominios envolventes con el observable se ha definido en el marco como relación de envolvencia y descendencia, y no como simple aumento de tamaño. (c.q.d.)
 
@@ -214,7 +214,7 @@ El radio del Universo Capital se obtiene aplicando la componente lineal de la Co
 
 La densidad del Universo Capital se obtiene de la del Versal por la razón densitaria del segundo tramo, con ρ_C = ρ_V·C_ñ^ρ = 2,13168778507833×10⁻²¹ kg·m⁻³. La masa resulta del producto del volumen por la densidad heredada, o de la masa del Versal por la proyección combinada del segundo tramo:
 
-$$M_C = M_V\,(C_{\tilde n}^{\ell})^{3}\,C_{\tilde n}^{\rho} = 5,87186856848270\times10^{130}\ \text{kg}.$$
+M_C = M_V·(C_ñ^ℓ)³·C_ñ^ρ = 5,87186856848270×10¹³⁰ kg.
 
 Como en el tramo anterior, la masa del Universo Capital es masa calculada de dominio formalmente determinado por cadena, única dada la entrada y sin contraste instrumental externo. No se afirma que ninguna agencia haya medido esta masa; lo que se sostiene es que la cadena, con sus constantes declaradas, la determina sin holgura. (c.q.d.)
 
