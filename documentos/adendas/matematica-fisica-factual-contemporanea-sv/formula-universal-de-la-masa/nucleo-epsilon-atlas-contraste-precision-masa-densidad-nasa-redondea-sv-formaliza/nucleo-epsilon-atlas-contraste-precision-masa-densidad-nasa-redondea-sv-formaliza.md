@@ -4,6 +4,8 @@
 
 ![Portada de la publicación: los dominios núcleo de ε-Atlas, ε-Atlas, Universo Versal y Universo Capital, con sus masas, la forma M = (4π/3)R³ρ y la recomposición del núcleo.](portada.png)
 
+<sub> NASA se menciona exclusivamente como fuente pública externa de contraste y como referencia nominal de determinadas magnitudes divulgadas o redondeadas. Esta publicación no está afiliada, patrocinada, revisada, aprobada ni respaldada por NASA. Toda formalización, interpretación, cálculo y responsabilidad matemática corresponden exclusivamente al autor y al Sistema Vectorial SV. </sub> 
+
 © 2026. Juan Antonio Lloret Egea. Todos los derechos reservados bajo los términos de la licencia CC BY-NC-ND 4.0.
 
 **Autor:** Juan Antonio Lloret Egea  
