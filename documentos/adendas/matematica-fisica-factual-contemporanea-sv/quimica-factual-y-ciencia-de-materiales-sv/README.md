@@ -13,6 +13,8 @@
 **Colección PubPub:** https://www.itvia.online/quimica-factual-y-ciencia-de-materiales-en-el-sistema-vectorial-sv  
 **Repositorio GitHub:** https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv
 
+> ## [Debate de ciencia por contraposición con publicaciones alineadas con el SV](https://www.itvia.online/nuevos-elementos-quimicos-busqueda-nuclear-retorno-mineralogico-y-extension-estructural-mas-alla-de-z--172-vol1)
+
 ## Presentación de la colección
 
 La colección **Química factual y ciencia de materiales en el Sistema Vectorial SV** reúne trabajos dedicados a la estructura material realizada: génesis del hidrógeno, elementos, enlaces, pares estructurales, aleaciones, compatibilidades, moléculas, dominios térmicos y materiales de nueva generación. Su punto de partida es la química como lectura organizada de la materia, con fórmulas, tablas, dominios, residuales, retornos y contrastes capaces de ser examinados por la ciencia contemporánea.
