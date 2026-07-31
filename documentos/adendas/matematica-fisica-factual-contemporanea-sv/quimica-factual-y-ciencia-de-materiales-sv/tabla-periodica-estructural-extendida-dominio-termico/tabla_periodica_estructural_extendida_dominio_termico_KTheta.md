@@ -43,7 +43,7 @@ This paper formulates an extended structural periodic table as a scientific expl
    - Anexo D. Protocolo de discusión con ciencia contemporánea.
    - Anexo E. Glosario operativo de lectura externa.
    - Anexo F. Condiciones de conservación del enunciado térmico-material.
-   - Anexo G. Regla compositiva y cálculo operatorio de `SV-399` (`SV16-Ómicron`) en el dominio `K_Θ`.
+   - **Anexo G. Regla compositiva y cálculo operatorio de `SV-399` (`SV16-Ómicron`) en el dominio `K_Θ`.**
 6. Bibliografía.
 
 ## Marco académico y técnico
@@ -720,7 +720,7 @@ Este anexo permite conservar la ambición del título sin debilitar el rigor. El
 
 <a id="anexo-g-sv399"></a>
 
-### Anexo G. Regla compositiva y cálculo operatorio de `SV-399` (`SV16-Ómicron`) en el dominio `K_Θ`
+> ### Anexo G. Regla compositiva y cálculo operatorio de `SV-399` (`SV16-Ómicron`) en el dominio `K_Θ`
 
 #### G.1. Posición y coordenadas estructurales
 
