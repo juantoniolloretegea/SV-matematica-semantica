@@ -724,55 +724,25 @@ Este anexo permite conservar la ambición del título sin debilitar el rigor. El
 
 #### G.1. Posición y coordenadas estructurales
 
-Este anexo explicita el procedimiento que determina la composición publicada de `SV-399` dentro de la familia compositiva del dominio térmico `K_Θ`. El punto de partida es la posición global `k=399`. En la representación visual de los `325` candidatos posteriores a `Ω₁₁₈`, la misma entrada ocupa el índice interno `i=399−118=281` y recibe la denominación `SV16-Ómicron`. El índice interno `281` no debe confundirse con la entrada global `SV-281`.
+Este anexo expone el procedimiento que determina la composición publicada de `SV-399` dentro de la familia compositiva del dominio térmico `K_Θ`. El punto de partida es la posición global `k=399`. En la representación visual de los `325` candidatos posteriores a `Ω₁₁₈`, la misma entrada ocupa el índice interno `i=399−118=281` y recibe la denominación `SV16-Ómicron`. El índice interno `281` no debe confundirse con la entrada global `SV-281`.
 
 Las funciones generativas de la tabla proporcionan, sin parámetros adicionales:
 
-\[
-\begin{aligned}
-Z_{SV}(399)&=118+399=517,\\
-A_{SV}(399)&=294+3(399)+\left\lfloor\frac{399}{2}\right\rfloor=1690,\\
-P(399)&=8+\left\lfloor\frac{398}{18}\right\rfloor=30,\\
-G(399)&=1+(398\bmod 18)=3,\\
-\Theta_{\max}(399)&=700+10(399)=4690\;^\circ\mathrm{C}.
-\end{aligned}
-\]
+`Z_SV(399) = 118 + 399 = 517`; `A_SV(399) = 294 + 3·399 + ⌊399/2⌋ = 1690`; `P(399) = 8 + ⌊398/18⌋ = 30`; `G(399) = 1 + (398 mod 18) = 3`; `Θ_max(399) = 700 + 10·399 = 4690 °C`.
 
 La fila queda, por tanto, fijada antes de aplicar la regla compositiva: `k=399`, `Z_SV=517`, `A_SV=1690`, período `30`, grupo `3` y `M_Θ(399)=1`.
 
 #### G.2. Regla compositiva y cierre de carga
 
-En las filas admitidas de `K_Θ`, el elemento de anclaje depende del grupo. Para los grupos `1`, `2` y `3`, las anclas son `Fr(87)`, `Ra(88)` y `Ac(89)`; para los grupos `4,…,18`, son `Rf(104)`, `Db(105)`, `Sg(106)`, `Bh(107)`, `Hs(108)`, `Mt(109)`, `Ds(110)`, `Rg(111)`, `Cn(112)`, `Nh(113)`, `Fl(114)`, `Mc(115)`, `Lv(116)`, `Ts(117)` y `Og(118)`. La familia conserva, además, un término fijo de tres oganesones.
+En las filas admitidas de `K_Θ`, el elemento de anclaje depende del grupo. Para los grupos `1`, `2` y `3`, las anclas son `Fr(87)`, `Ra(88)` y `Ac(89)`; para los grupos `4` a `18`, son `Rf(104)`, `Db(105)`, `Sg(106)`, `Bh(107)`, `Hs(108)`, `Mt(109)`, `Ds(110)`, `Rg(111)`, `Cn(112)`, `Nh(113)`, `Fl(114)`, `Mc(115)`, `Lv(116)`, `Ts(117)` y `Og(118)`. La familia conserva, además, un término fijo de tres oganesones.
 
-La composición estructural se obtiene determinando por diferencia el componente restante:
+La regla puede escribirse en texto plano como `C_Z(k) = E_G(k) + 3Og + X_k`, donde `E_G(k)` es el elemento de anclaje asignado al grupo y `X_k` es el componente restante. Su número atómico se determina por diferencia:
 
-\[
-C_Z(k)=E_{G(k)}+3Og+X_k,
-\qquad
-Z(X_k)=Z_{SV}(k)-Z(E_{G(k)})-3Z(Og).
-\]
+`Z(X_k) = Z_SV(k) − Z(E_G(k)) − 3·Z(Og)`.
 
-El signo `+` expresa aquí composición estructural de carga. No representa una mezcla química, una proporción estequiométrica ni una reacción nuclear experimental. La regla exige que `Z(X_k)∈{1,…,118}`, de modo que el componente restante corresponda a un elemento del dominio reconocido. En el retorno tipado de carga adoptado por la publicación, `Z_fís(k)=Z_SV(k)`.
+El signo `+` expresa composición estructural de carga. No representa una mezcla química, una proporción estequiométrica ni una reacción nuclear experimental. La regla exige que `Z(X_k)` pertenezca al intervalo `1…118`, de modo que el componente restante corresponda a un elemento del dominio reconocido. En el retorno tipado de carga adoptado por la publicación, `Z_fís(k)=Z_SV(k)`.
 
-Para `SV-399`, el grupo `3` asigna el actinio como ancla: `E_3=Ac`, con `Z(Ac)=89`. Como `Z(Og)=118`, el componente restante queda determinado por:
-
-\[
-Z(X_{399})=517-89-3(118)=74.
-\]
-
-El número atómico `74` corresponde al wolframio (`W`). En consecuencia:
-
-\[
-\boxed{C_Z(399)=Ac+3Og+W}
-\]
-
-con cierre exacto de carga:
-
-\[
-89+3(118)+74=517,
-\qquad
-R_{Z\mathrm{fís}}=517-517=0.
-\]
+Para `SV-399`, el grupo `3` asigna el actinio como ancla: `E_G(399)=Ac`, con `Z(Ac)=89`. Como `Z(Og)=118`, el componente restante queda determinado por `Z(X_399)=517−89−3·118=74`. El número atómico `74` corresponde al wolframio (`W`). En consecuencia, `C_Z(399)=Ac+3Og+W`, con cierre exacto de carga: `89+3·118+74=517` y `R_Zfís=517−517=0`.
 
 La continuidad inmediata de la regla puede comprobarse en las filas contiguas:
 
@@ -787,57 +757,17 @@ Aplicada al conjunto de las `57` filas admitidas de `K_Θ`, esta regla reproduce
 
 #### G.3. Cierre de la masa auxiliar
 
-El régimen auxiliar de masa de `K_Θ` se aplica por separado a cada componente. Para un elemento reconocido de número atómico `Z_i`, se define:
+El régimen auxiliar de masa de `K_Θ` se aplica por separado a cada componente. Para un elemento reconocido de número atómico `Z_i`, se toma `A_ref^Θ(Z_i)=redondeo_par(2,5·Z_i)`, donde `redondeo_par` significa redondeo al entero más próximo y, en caso de empate exacto, al entero par. La operación se efectúa componente por componente; no se redondea globalmente el valor `2,5·ΣZ`.
 
-\[
-A_{\mathrm{ref}}^{\Theta}(Z_i)=\operatorname{red}_{\mathrm{par}}(2{,}5Z_i),
-\]
-
-siendo `red_par` el redondeo al entero más próximo y, en caso de empate exacto, al entero par. La operación se efectúa componente por componente; no se redondea globalmente el valor `2,5·ΣZ`.
-
-En `SV-399`:
-
-\[
-A_{\mathrm{ref}}^{\Theta}(Ac)=222,\qquad
-A_{\mathrm{ref}}^{\Theta}(Og)=295,\qquad
-A_{\mathrm{ref}}^{\Theta}(W)=185.
-\]
-
-Por ello:
-
-\[
-\Sigma A_{\mathrm{ref}}=222+3(295)+185=1292,
-\]
-
-\[
-N_{\mathrm{res}}=A_{SV}-\Sigma A_{\mathrm{ref}}=1690-1292=398,
-\]
-
-\[
-R_A=1690-1292-398=0.
-\]
+En `SV-399`, los valores son `A_ref^Θ(Ac)=222`, `A_ref^Θ(Og)=295` y `A_ref^Θ(W)=185`. Por ello, `ΣA_ref=222+3·295+185=1292`; el término formal de cierre es `N_res=A_SV−ΣA_ref=1690−1292=398`; y el residual de masa se anula: `R_A=1690−1292−398=0`.
 
 Las magnitudes complementarias de la fila son `N=A_SV−Z_fís=1173` y `N/Z=1173/517≈2,2689`. En este régimen, `N_res` es el término formal que completa el cierre de la masa auxiliar; no constituye una instrucción experimental para incorporar neutrones libres.
 
 #### G.4. Resultado y alcance
 
-El procedimiento anterior permite reconstruir la fila sin acudir a una elección posterior de componentes:
+El procedimiento permite reconstruir la fila mediante la secuencia `k=399 → i=281 → Z_SV=517 → A_SV=1690 → P=30 → G=3 → Ac+3Og+W`, con `ΣA_ref=1292` y `N_res=398`.
 
-\[
-(k,i,Z_{SV},A_{SV},P,G)=(399,281,517,1690,30,3),
-\]
-
-\[
-C_Z(399)=Ac+3Og+W,\qquad
-\Sigma A_{\mathrm{ref}}=1292,\qquad
-N_{\mathrm{res}}=398.
-\]
-
-Los residuales declarados para la posición se anulan en sus respectivos planos:
-
-\[
-R_{ZSV}=R_{ASV}=R_{Z\mathrm{fís}}=R_A=R_\Theta=0.
-\]
+Los residuales declarados para la posición se anulan en sus respectivos planos: `R_ZSV=0`, `R_ASV=0`, `R_Zfís=0`, `R_A=0` y `R_Θ=0`.
 
 La regla determina la composición de `SV-399` dentro de la familia publicada y permite comprobar su continuidad con las demás filas de `K_Θ`. No afirma que `Ac+3Og+W` sea la única partición aritmética concebible de `517`, ni convierte el cierre estructural en síntesis física, medición experimental o existencia material demostrada. La determinación operatoria queda cerrada en el dominio declarado; la existencia física de `SV-399` permanece en `U`.
 
