@@ -8,7 +8,6 @@ Autor: Juan Antonio Lloret Egea — ORCID: 0000-0002-6634-3351
 Editor: IA eñ™ — La Biblia de la IA™ (Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español, ITVIA) — ISSN 2695-6411  
 Licencia: CC BY-NC-ND 4.0 — Protegida por CEDRO © 2026 Juan Antonio Lloret Egea. Todos los derechos reservados. Madrid, 06/06/2026  
 DOI PubPub/Crossref: https://doi.org/10.21428/39829d0b.5fd2b270  
-Release PubPub: https://www.itvia.online/pub/tabla-periodica-estructural-extendida-del-dominio-termico-ktheta-materiales-por-encima-de-4500-c/release/1  
 Repositorio GitHub: https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/adendas/matematica-fisica-factual-contemporanea-sv/quimica-factual-y-ciencia-de-materiales-sv/tabla-periodica-estructural-extendida-dominio-termico
 
 ---
@@ -30,11 +29,28 @@ Este trabajo formula una tabla periódica estructural extendida como dominio cie
 
 This paper formulates an extended structural periodic table as a scientific exploration domain, not as a replacement for the recognised periodic table and not as an experimental proclamation of undetected elements. The working domain is finite, `k∈{1,2,…,443}`, and is generated through explicit functions, declared physical transduction, compositional closure, mass closure, null residuals and a reproducible verification. The work articulates three principal entries —`SV-119`, `SV-280` and `SV-443`—, three adjacent controls —`SV-120`, `SV-281` and `SV-442`—, and a structural thermal domain `K_Θ` of 57 entries with resistance above `4500 °C`, range `4510–5130 °C`, and declared maximum at `SV-443`. The contribution is not an ingenuous continuation of ordinary atoms beyond the known limits of finite nuclei, relativistic electronic structure, Dirac–Fock calculations or QED constraints. It is a reproducible, falsifiable and transductive structural catalogue that offers candidates, constraints, exclusions, thermal families, compositional closures and critical protocols for formal, physical-theoretical and practical exploration by contemporary science.
 
+
+## Índice de lectura
+
+1. Resumen.
+2. Abstract.
+3. Marco académico y técnico.
+4. Núcleo formal y técnico.
+5. Anexos técnicos de lectura, retorno y conservación:
+   - Anexo A. Delimitación frente a la tabla periódica convencional y los límites Dirac–Fock/QED.
+   - Anexo B. Corolario de transducción no confinante aplicado a elementos estructurales.
+   - Anexo C. Matriz de refutación y retorno.
+   - Anexo D. Protocolo de discusión con ciencia contemporánea.
+   - Anexo E. Glosario operativo de lectura externa.
+   - Anexo F. Condiciones de conservación del enunciado térmico-material.
+   - [Anexo G. Cálculo operatorio interno de la determinación compositiva de `SV-399` (`SV16-Ómicron`)](#anexo-g-sv399).
+6. Bibliografía.
+
 ## Marco académico y técnico
 
 ### Palabras clave
 
-Tabla periódica estructural extendida; nuevos elementos; transducción física; cierre compositivo; residuales nulos; materiales de alta temperatura; dominio térmico; frontera 443; Sistema Vectorial SV; reproducibilidad formal.
+Tabla periódica estructural extendida; nuevos elementos; transducción física; cierre compositivo; residuales nulos; materiales de alta temperatura; dominio térmico; frontera 443; Sistema Vectorial SV; reproducibilidad formal; SV-399; SV16-Ómicron; cálculo operatorio; composición nuclear-estructural; cierre de carga; cierre de masa.
 
 ### Regla de dominio, transducción no confinante y criterio de validez
 
@@ -463,6 +479,8 @@ Quedan fuera del dominio térmico positivo:
 
 Cada fila térmica declara el régimen auxiliar `A_ref_parametrico_KTheta_round_2_5Z`, separado del régimen rector de los seis puntos principales/control. La comparación entre regímenes es transductiva, no una identidad isotópica experimental. En este régimen auxiliar, `ΣA_ref` se obtiene por suma de componentes: para cada componente de la composición se toma el redondeo al entero más cercano, con resolución par de los semienteros, de `2.5·Z_i`, y después se suman las contribuciones; no se aplica un redondeo global sobre `2.5·ΣZ`. Esta precisión explica las filas semienteras y mantiene reproducible el cierre `R_A=0`.
 
+La regla operatoria de esta familia —ancla por grupo, término fijo `3Og` y componente residual de carga— y su aplicación a `SV-399` se desarrollan en el [Anexo G](#anexo-g-sv399).
+
 | Elemento | rol | k | Z_SV | A_SV | Periodo | Grupo | Z_fis | Composicion | Sigma_Z | Sigma_A_ref | Regimen_A_ref | N_res | N | N_Z | Theta_max_C | Margen_C | R_ZSV | R_ASV | R_Zfis | R_A | R_Theta | resolución |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `SV-381` | termico_KTheta | 381 | 499 | 1627 | 29 | 3 | 499 | `Ac+3Og+Ba` | 499 | 1247 | `A_ref_parametrico_KTheta_round_2_5Z` | 380 | 1128 | 2.2605 | 4510 | 10 | 0 | 0 | 0 | 0 | 0 | `ADMISIBLE` |
@@ -698,6 +716,249 @@ La condición de retirada sería:
 `Retirada_Titulo_Θ^SV=1 ⇔ Θ_max(k) presentado como punto de fusión experimental ∨ ausencia de transductor térmico-material ∨ ausencia de fase externa de verificación ∨ identificación de candidato estructural con material fabricado`
 
 Este anexo permite conservar la ambición del título sin debilitar el rigor. El trabajo no renuncia al dominio térmico; lo somete a una obligación demostrativa superior.
+
+
+<a id="anexo-g-sv399"></a>
+
+### Anexo G. Cálculo operatorio interno de la determinación compositiva de `SV-399` (`SV16-Ómicron`)
+
+#### G.1. Objeto y alcance
+
+Este anexo reúne el cálculo operatorio interno mediante el cual la posición global `SV-399` queda individualizada y la composición `Ac+3Og+W` cierra carga y masa auxiliar dentro del dominio declarado. Recibe como datos el dominio `k∈{1,…,443}` y las funciones generativas de la publicación. La clausura interna no se identifica con síntesis material:
+
+`resolución_interna(SV-399)=ADMISIBLE`
+
+`existencia_física(SV-399)=U`
+
+#### G.2. Correspondencia entre el índice global y la tabla principal de 325 entradas
+
+En la tabla analítica global, la diana es:
+
+`SV-399`, con `k_global=399`.
+
+En la tabla principal de los `325` candidatos situados después del bloque inicial de `118`, la misma posición se expresa mediante el índice interno:
+
+`i_principal=k_global−118=399−118=281`.
+
+La denominación visual correspondiente es:
+
+`SV16-Ómicron`.
+
+Por tanto:
+
+`SV-399_global ⇔ i_principal=281 ⇔ SV16-Ómicron`.
+
+Esta correspondencia no identifica la diana con el elemento global `SV-281`. El valor `281` es aquí el índice interno de la tabla principal de `325` entradas; `SV-281` global es una entrada distinta.
+
+#### G.3. Coordenadas estructurales recibidas
+
+Para todo `k∈{1,…,443}`, la publicación declara:
+
+`Z_SV(k)=118+k`
+
+`A_SV(k)=294+3k+⌊k/2⌋`
+
+`Periodo(k)=8+⌊(k−1)/18⌋`
+
+`Grupo(k)=1+((k−1) mod 18)`.
+
+Para `k=399`:
+
+`Z_SV(399)=118+399=517`
+
+`A_SV(399)=294+3·399+⌊399/2⌋=1690`
+
+`Periodo(399)=8+⌊398/18⌋=30`
+
+`Grupo(399)=1+(398 mod 18)=3`.
+
+La fila queda así individualizada antes de cualquier transducción geológica:
+
+| Magnitud | Resultado |
+|---|---:|
+| Índice global | `399` |
+| Índice principal | `281` |
+| Denominación visual | `SV16-Ómicron` |
+| `Z_SV` | `517` |
+| `A_SV` | `1690` |
+| Periodo | `30` |
+| Grupo | `3` |
+
+#### G.4. Regla de ancla por grupo y composición de carga
+
+La tabla `K_Θ` usa una familia compositiva determinista. A cada grupo `G` se asigna un ancla oficial `A_G`:
+
+| Grupo | Ancla | `Z(A_G)` |
+|---:|---|---:|
+| 1 | `Fr` | 87 |
+| 2 | `Ra` | 88 |
+| 3 | `Ac` | 89 |
+| 4 | `Rf` | 104 |
+| 5 | `Db` | 105 |
+| 6 | `Sg` | 106 |
+| 7 | `Bh` | 107 |
+| 8 | `Hs` | 108 |
+| 9 | `Mt` | 109 |
+| 10 | `Ds` | 110 |
+| 11 | `Rg` | 111 |
+| 12 | `Cn` | 112 |
+| 13 | `Nh` | 113 |
+| 14 | `Fl` | 114 |
+| 15 | `Mc` | 115 |
+| 16 | `Lv` | 116 |
+| 17 | `Ts` | 117 |
+| 18 | `Og` | 118 |
+
+La composición de carga se construye como:
+
+`C_Z(k)=A_{G(k)} ⊕ 3Og ⊕ X_k`
+
+donde `X_k` es el componente oficial de cierre determinado por:
+
+`Z(X_k)=Z_SV(k)−Z(A_{G(k)})−3·Z(Og)`.
+
+Para que una fila pertenezca a esta familia compositiva, el residual debe corresponder a un elemento oficial:
+
+`Z(X_k)∈{1,…,118}`.
+
+El operador `⊕` designa composición estructural de cierre. No designa mezcla química, aleación, mineral, proporción estequiométrica ni reacción nuclear ejecutable.
+
+#### G.5. Aplicación exacta a `SV-399`
+
+Como `Grupo(399)=3`, el ancla es:
+
+`A_3=Ac`
+
+`Z(Ac)=89`.
+
+El término fijo de frontera es:
+
+`3Og`
+
+`3·Z(Og)=3·118=354`.
+
+El componente residual queda:
+
+`Z(X_399)=517−89−354=74`.
+
+El número atómico oficial `74` corresponde a `W`. Por tanto:
+
+`X_399=W`.
+
+La composición publicada resulta:
+
+`C_Z(399)=Ac ⊕ 3Og ⊕ W`.
+
+En forma compacta:
+
+`SV-399=Ac+3Og+W`.
+
+El cierre de carga es exacto:
+
+`ΣZ=89+3·118+74=517`
+
+`R_Zfís=517−517=0`.
+
+Dentro de esta publicación, `Z_fís=Z_SV` es una coordenada de retorno tipada. El cierre anterior no constituye observación de un núcleo ordinario con `517` protones ni demuestra existencia material.
+
+#### G.6. Cierre de masa auxiliar
+
+El régimen auxiliar de la tabla térmica se aplica componente por componente:
+
+`A_ref^Θ(Z_i)=redondeo_par(2,5·Z_i)`,
+
+donde `redondeo_par` resuelve los semienteros hacia el entero par más próximo. No se redondea globalmente `2,5·ΣZ`.
+
+Para `SV-399`:
+
+`A_ref^Θ(Ac)=redondeo_par(2,5·89)=redondeo_par(222,5)=222`
+
+`A_ref^Θ(Og)=redondeo_par(2,5·118)=295`
+
+`A_ref^Θ(W)=redondeo_par(2,5·74)=185`.
+
+La suma de masas auxiliares es:
+
+`ΣA_ref=222+3·295+185=1292`.
+
+El residual de masa queda:
+
+`N_res=A_SV−ΣA_ref=1690−1292=398`.
+
+El cierre es:
+
+`R_A=1690−1292−398=0`.
+
+Las magnitudes complementarias son:
+
+`N=A_SV−Z_fís=1690−517=1173`
+
+`N/Z=1173/517≈2,2689`.
+
+`N_res=398` es un reservorio formal de cierre másico dentro del régimen auxiliar. No se presenta como instrucción física para incorporar `398` neutrones libres ni como ecuación experimental de bombardeo.
+
+#### G.7. Continuidad local y ausencia de selección retrospectiva
+
+La misma regla reproduce la vecindad inmediata:
+
+| Elemento | Grupo | Ancla | Residual `X_k` | Composición | `ΣZ` |
+|---|---:|---|---|---|---:|
+| `SV-397` | 1 | `Fr` | `W` | `Fr+3Og+W` | 515 |
+| `SV-398` | 2 | `Ra` | `W` | `Ra+3Og+W` | 516 |
+| `SV-399` | 3 | `Ac` | `W` | `Ac+3Og+W` | 517 |
+| `SV-400` | 4 | `Rf` | `Nd` | `Rf+3Og+Nd` | 518 |
+
+La continuidad muestra que `Ac`, `3Og` y `W` no se incorporan después de elegir una matriz geológica. `SV-399` ocupa una fila de una familia compositiva ya recorrida por índice, grupo, ancla y componente residual.
+
+La regla demuestra la procedencia de la composición publicada dentro de esta familia. No afirma que `Ac+3Og+W` sea la única partición aritmética imaginable de `517` ni que se haya probado un mínimo global sobre todas las composiciones concebibles bajo cualquier función de coste.
+
+#### G.8. Nexo entre determinación nuclear-estructural y transducción geológico-analítica
+
+La cadena de prevalencia queda:
+
+`Ω_443^SV → k=399 → (Z_SV,A_SV,P,G) → Ac+3Og+W → cierre de carga y masa auxiliar → transducción geológico-analítica posterior`.
+
+Los planos tienen funciones distintas:
+
+| Plano | Función | Resultado |
+|---|---|---|
+| Generativo y químico-estructural | Fija el dominio y las coordenadas de la entrada | `k=399`, `Z_SV=517`, `A_SV=1690`, periodo `30`, grupo `3` |
+| Nuclear-estructural compositivo | Aplica ancla, término `3Og`, componente residual y cierres | `Ac+3Og+W`, `ΣA_ref=1292`, `N_res=398`, residuales nulos |
+| Geológico-analítico posterior | Transduce la diana hacia matrices y vecindades materialmente interrogables | ventana de búsqueda, descarte, candidato o `U` |
+| Existencia física | Exige retorno exclusivo, reproducible e independiente | `U` mientras no exista cierre material suficiente |
+
+La geología no determina `SV-399`; recibe una diana ya determinada. A su vez, el cierre interno no garantiza el retorno geológico ni la existencia física.
+
+#### G.9. Resultado operatorio y condición de conservación
+
+La secuencia explícita es:
+
+`k=399`
+
+`→ Z_SV=517, A_SV=1690, Periodo=30, Grupo=3`
+
+`→ A_3=Ac`
+
+`→ Z(X_399)=517−89−3·118=74`
+
+`→ X_399=W`
+
+`→ C_Z(399)=Ac+3Og+W`
+
+`→ ΣA_ref=1292`
+
+`→ N_res=398`
+
+`→ R_ZSV=R_ASV=R_Zfís=R_A=0`.
+
+El resultado se conserva si las fórmulas, el mapa de anclas, la composición tabulada y los cierres reproducen estos valores. Debe reabrirse si una reejecución material devuelve una diferencia, si se altera el régimen de redondeo sin declararlo o si la composición deja de cerrar bajo la regla publicada.
+
+La conclusión de este anexo es:
+
+`determinación_operatoria_interna(SV-399)=CERRADA_EN_EL_DOMINIO_DECLARADO`
+
+`existencia_física(SV-399)=U`
+
 
 ## Bibliografía
 
