@@ -3,6 +3,7 @@
 **Juan Antonio Lloret Egea**
 Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA), España
 ORCID: 0000-0002-6634-3351
+[DOI: 10.21428/39829d0b.f0892864](https://doi.org/10.21428/39829d0b.f0892864)
 
 **PREPRINT - NO REVISADO POR PARES**
 Versión española previa a revisión editorial y por pares. 8 de agosto de 2026.
