@@ -5,7 +5,7 @@
 **ORCID:** 0000-0002-6634-3351  
 **Fecha:** 9 de agosto de 2026  
 **Estado:** PREPRINT — NO REVISADO POR PARES  
-**DOI ITVIA:** PENDIENTE DE ASIGNACIÓN
+[DOI: 10.21428/39829d0b.e5347310](https://doi.org/10.21428/39829d0b.e5347310)
 
 ## Resumen
 
