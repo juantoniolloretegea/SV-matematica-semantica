@@ -7,6 +7,11 @@
 **Estado:** PREPRINT — NO REVISADO POR PARES  
 [DOI: 10.21428/39829d0b.e5347310](https://doi.org/10.21428/39829d0b.e5347310)
 
+> **English** — official IEEE wording
+This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+**Español**
+Este trabajo ha sido enviado al IEEE para su posible publicación. Los derechos de autor podrán ser transferidos sin previo aviso, tras lo cual esta versión podría dejar de estar accesible.
+
 ## Resumen
 
 Las interfaces heterogéneas de percepción e información pueden ser válidas por separado y, sin embargo, resultar conjuntamente insuficientes para constituir un episodio de decisión; también pueden aportar evidencias legítimas pero contradictorias que no deben eliminarse antes de la resolución. Los trabajos existentes abordan la planificación consciente de la incertidumbre, el filtrado de seguridad, la abstención, los contratos de interfaz, la admisión en tiempo de ejecución y la certificación de acciones, pero estos mecanismos no distinguen por sí solos entre un fallo previo a la resolución para constituir un episodio de orientación y una no clausura finita exacta; tampoco proporcionan un criterio, formulado en el nivel de los testigos, que permita preservar el perfil exacto de clausura alcanzable cuando se sustituyen interfaces.
