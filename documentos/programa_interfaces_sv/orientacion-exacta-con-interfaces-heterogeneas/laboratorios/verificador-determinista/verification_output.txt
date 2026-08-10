@@ -1,0 +1,19 @@
+Formal adversarial suite: 8/8 scenarios verified.
+F1: (frozenset({0}), frozenset({0, 1}), (False, True, True))
+F2: (frozenset({0, 1}), frozenset({1}), False)
+F3: (frozenset({0}), frozenset({0, 1}), (True, False, True))
+F4: (frozenset({0, 1}), frozenset({0}), (True, True, False))
+F5: (frozenset({0}), frozenset({0}), ('n_p0', 'n_q1', 'n_r1'))
+F6: (frozenset({0, 1}), ('w_p_cam_map', 'w_p_lidar_map', 'w_q1', 'w_r1'))
+F7: (frozenset({0}), frozenset({0}), (True, True, True))
+F8: (frozenset({0}), frozenset({0}), (False, True, False))
+
+Canonical scaling family:
+k,raw_bases,signatures,reduction
+2,16,4,4
+3,64,8,8
+4,256,16,16
+5,1024,32,32
+6,4096,64,64
+7,16384,128,128
+8,65536,256,256
