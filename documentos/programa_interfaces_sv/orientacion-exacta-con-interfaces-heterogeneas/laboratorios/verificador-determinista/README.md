@@ -65,7 +65,7 @@ Este laboratorio **no sustituye las demostraciones matemáticas de la publicaci�
 
 ## Correspondencia con la publicación
 
-El laboratorio corresponde a la sección **Reproducible Evaluation** del manuscrito inglés enviado a *IEEE Transactions on Systems, Man, and Cybernetics: Systems* y a la sección equivalente del preprint español. Los identificadores F1–F8 y la familia de escalado conservan la misma semántica que en la publicación.
+El laboratorio corresponde a la sección de evaluación reproducible de la publicación. Los identificadores F1–F8 y la familia de escalado conservan la misma semántica que en el texto principal.
 
 ## Integridad de la ejecución de referencia
 
