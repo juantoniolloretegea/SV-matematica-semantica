@@ -90,7 +90,7 @@ Las denominaciones «físico» y «del modelo» no implican que Kᵢ sea conocid
 
 Δᵢ = Kᵢμᵢ₋₁ + bᵢ − K̂ᵢνᵢ₋₁ − b̂ᵢ = KᵢΔᵢ₋₁ + (Kᵢ − K̂ᵢ)νᵢ₋₁ + bᵢ − b̂ᵢ.  (13)–(14)
 
-que es la ecuación (12). □
+que es la ecuación (12). (c.q.d.)
 
 La ecuación (12) separa tres contribuciones que pueden resultar indistinguibles en una salida escalar terminal: el defecto heredado KᵢΔᵢ₋₁, el desajuste entre transductores Θᵢ y el defecto local o interfacial εᵢ.
 
@@ -108,7 +108,7 @@ con Kₙ:ₙ₊₁ igual a la identidad sobre 𝓜ₙ como convención para el p
 
 Δₙ₊₁ = Kₙ₊₁:₁Δ₀ + Σₖ₌₁ⁿ Kₙ₊₁:ₖ₊₁(Θₖ + εₖ) + (Θₙ₊₁ + εₙ₊₁).  (17)–(18)
 
-que es la fórmula requerida. □
+que es la fórmula requerida. (c.q.d.)
 
 Las recurrencias generadas por desajustes de operadores y errores de transferencia están bien establecidas en análisis numérico y en estudios de especificación incorrecta de modelos [8, 9, 14]. Por ello, la ecuación (16) no se presenta por sí sola como una reivindicación de novedad. Aquí proporciona la identidad de propagación necesaria para los resultados sobre clases de medida que siguen.
 
@@ -146,7 +146,7 @@ Para cualquier r ∈ ℜᵢ(ν) ⊆ 𝒜ᵢ, la diferencia PᵢᵃKᵢν − r e
 
 ‖Kᵢν − r‖TV = ‖PᵢᵃKᵢν − r‖TV + ‖Cᵢ^{a→s}ν‖TV.  (25)
 
-El término singular es independiente de r, de modo que infᵣ[c + f(r)] = c + infᵣ f(r), con c = ‖Cᵢ^{a→s}ν‖TV. Al tomar el ínfimo sobre r se obtiene la ecuación (21); no se requiere que ℜᵢ(ν) sea convexo o cerrado, ni que el ínfimo se alcance. Las restantes afirmaciones se siguen inmediatamente. □
+El término singular es independiente de r, de modo que infᵣ[c + f(r)] = c + infᵣ f(r), con c = ‖Cᵢ^{a→s}ν‖TV. Al tomar el ínfimo sobre r se obtiene la ecuación (21); no se requiere que ℜᵢ(ν) sea convexo o cerrado, ni que el ínfimo se alcance. Las restantes afirmaciones se siguen inmediatamente. (c.q.d.)
 
 El teorema 2 proporciona el primer certificado de clausura no trivial. Distingue una aproximación deficiente *dentro* de la clase regular de la incapacidad de la clase de modelos para representar una salida singular físicamente requerida. Esta última impone una cota mínima de error distinta de cero incluso cuando la componente regular puede aproximarse con precisión arbitraria.
 
@@ -166,7 +166,7 @@ de modo que
 
 ‖μ − a − s‖TV = ‖μᵃ − a‖TV + ‖μˢ − s‖TV.  (28)
 
-Las variables a y s son independientes; por consiguiente, el ínfimo de la suma es la suma de los dos ínfimos. □
+Las variables a y s son independientes; por consiguiente, el ínfimo de la suma es la suma de los dos ínfimos. (c.q.d.)
 
 La ecuación (26) motiva un certificado de clausura con dos componentes:
 
@@ -204,7 +204,7 @@ En particular,
 
 ‖Δₙ‖TV = Δₙ(Xₙ) = Σₖ₌₁ⁿ (Kₙ:ₖ₊₁dₖ)(Xₙ) = Σₖ₌₁ⁿ dₖ(Xₖ) = Σₖ₌₁ⁿ ‖dₖ‖TV.  (35)–(37)
 
-La ecuación (34) se sigue de que todos los sumandos son no negativos. □
+La ecuación (34) se sigue de que todos los sumandos son no negativos. (c.q.d.)
 
 **Corolario 1 (Omisión homogénea).** Si ‖dₖ‖TV = e para todo k, entonces
 
@@ -242,7 +242,7 @@ En consecuencia, las correcciones restringidas a bandas regulares posteriores no
 
 PⱼˢΔⱼ = Kⱼ^{ss}Pⱼ₋₁ˢΔⱼ₋₁  (44)
 
-para j = k + 1,…,n. La iteración demuestra la ecuación (42), y la aplicación sucesiva de la isometría sobre la banda singular demuestra la ecuación (43). Una corrección posterior perteneciente a 𝒜ⱼ sigue siendo regular bajo transductores posteriores fieles a las bandas y, por ello, no puede cancelar la componente singular. □
+para j = k + 1,…,n. La iteración demuestra la ecuación (42), y la aplicación sucesiva de la isometría sobre la banda singular demuestra la ecuación (43). Una corrección posterior perteneciente a 𝒜ⱼ sigue siendo regular bajo transductores posteriores fieles a las bandas y, por ello, no puede cancelar la componente singular. (c.q.d.)
 
 El teorema 5 es deliberadamente condicional. Los transductores físicos pueden convertir legítimamente la clase de medida; cuando lo hacen, los bloques no diagonales de la ecuación (19) deben conservarse en lugar de anularse por definición. Los bancos de prueba con agua de la sección VII no invocan fidelidad a las bandas ni isometría singular: el banco de prueba de cambio de fase utiliza el conjunto admisible de salidas exclusivamente regulares del teorema 2, mientras que el banco de prueba de volumen aísla el término de desajuste entre transductores Θᵢ de la ecuación (12).
 
@@ -270,7 +270,7 @@ mientras que
 
 **‖Δ‖TV = ‖Δᵃ‖TV + ‖Δˢ‖TV > 0.**  (49)
 
-**Demostración.** La ecuación (48) se sigue de la ecuación (47). Las componentes son mutuamente singulares por construcción, por lo que la ecuación (49) se sigue de la ecuación (6). □
+**Demostración.** La ecuación (48) se sigue de la ecuación (47). Las componentes son mutuamente singulares por construcción, por lo que la ecuación (49) se sigue de la ecuación (6). (c.q.d.)
 
 Así, un escalar terminal correcto puede coexistir con un residuo no nulo resuelto por clases. El balance escalar aplica un espacio residual de dimensión infinita sobre un único número y, por tanto, descarta información.
 
