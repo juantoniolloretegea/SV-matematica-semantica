@@ -4,7 +4,7 @@
 **Afiliación:** Instituto Tecnológico de la Inteligencia Artificial para el Español (ITVIA), Madrid, España  
 **ORCID:** 0000-0002-6634-3351  
 **Fecha:** 9 de agosto de 2026  
-**Estado:** PREPRINT — Release 3: URL vinculada: (https://www.itvia.online/pub/orientacion-exacta-con-interfaces-heterogeneas-constitucion-del-episodio-y-sustitucion-que-preserva-la-clausura/release/3)
+**Estado:** PREPRINT — Release 4: URL vinculada: (https://www.itvia.online/pub/orientacion-exacta-con-interfaces-heterogeneas-constitucion-del-episodio-y-sustitucion-que-preserva-la-clausura/release/4)
 
 [DOI: 10.21428/39829d0b.e5347310](https://doi.org/10.21428/39829d0b.e5347310)
 
