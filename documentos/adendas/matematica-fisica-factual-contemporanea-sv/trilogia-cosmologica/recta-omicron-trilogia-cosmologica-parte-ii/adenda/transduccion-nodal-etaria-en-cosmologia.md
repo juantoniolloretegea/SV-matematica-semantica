@@ -1,11 +1,8 @@
 # Transducción nodal-etaria en cosmología: DOAN-Ω16 (Lanzadera Ómicron) y coordenada de frontera del universo observable
 
-**Juan Antonio Lloret Egea**  
-Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA), Madrid, España  
-ORCID: 0000-0002-6634-3351  
-Autor de correspondencia: juanantoniolloretegea@ieee.org
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión preprint. | Madrid, 10/08/2026. [DOI: 10.21428/39829d0b.4a9083a4](https://doi.org/10.21428/39829d0b.4a9083a4)
 
-> **Preprint — 10 de agosto de 2026.** Esta versión no ha sido sometida a revisión por pares.
+> Preprint — 10 de agosto de 2026. Esta versión no ha sido sometida a revisión por pares.
 
 ## Resumen
 
