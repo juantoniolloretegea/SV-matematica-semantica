@@ -4,16 +4,8 @@
 **Afiliación:** Instituto Tecnológico de la Inteligencia Artificial para el Español (ITVIA), Madrid, España  
 **ORCID:** 0000-0002-6634-3351  
 **Fecha:** 9 de agosto de 2026  
-**Estado:** PREPRINT — NO REVISADO POR PARES  
+**Estado:** PREPRINT — Release 3: URL vinculada: (https://www.itvia.online/pub/orientacion-exacta-con-interfaces-heterogeneas-constitucion-del-episodio-y-sustitucion-que-preserva-la-clausura/release/3)
 [DOI: 10.21428/39829d0b.e5347310](https://doi.org/10.21428/39829d0b.e5347310)
-
-> **English** — official IEEE wording
-> 
-This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
-
-> **Español**
-> 
-Este trabajo ha sido enviado al IEEE para su posible publicación. Los derechos de autor podrán ser transferidos sin previo aviso, tras lo cual esta versión podría dejar de estar accesible.
 
 ## Resumen
 
