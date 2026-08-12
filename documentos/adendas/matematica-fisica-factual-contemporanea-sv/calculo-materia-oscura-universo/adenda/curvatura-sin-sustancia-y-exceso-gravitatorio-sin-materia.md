@@ -1,8 +1,7 @@
 # Curvatura sin sustancia y exceso gravitatorio sin materia: dos teoremas sobre un dominio observable declarado
 
-**Juan Antonio Lloret Egea**  
-Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA), 28029 Madrid, España  
-ORCID: 0000-0002-6634-3351  
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión preprint. | Madrid, 10/08/2026 
+[DOI: 10.21428/39829d0b.bc609684 ](https://doi.org/10.21428/39829d0b.bc609684)
 
 > **Preprint — 10 de agosto de 2026.** Esta versión no ha sido sometida a revisión por pares.
 
