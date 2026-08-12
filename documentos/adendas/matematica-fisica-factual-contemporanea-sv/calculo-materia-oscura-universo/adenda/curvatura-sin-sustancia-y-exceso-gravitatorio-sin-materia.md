@@ -3,7 +3,6 @@
 **Juan Antonio Lloret Egea**  
 Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA), 28029 Madrid, España  
 ORCID: 0000-0002-6634-3351  
-Autor de correspondencia: Juan Antonio Lloret Egea, juanantoniolloretegea@ieee.org
 
 > **Preprint — 10 de agosto de 2026.** Esta versión no ha sido sometida a revisión por pares.
 
