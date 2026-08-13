@@ -1,13 +1,9 @@
-© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 13/08/2026
-
-***PREPRINT*** **- NO REVISADO POR PARES**
 
 # Sustitución de interfaces heterogéneas en sistemas finitos de resolución: constitución del episodio y preservación exacta de los perfiles de terminales alcanzables
 
-**Juan Antonio Lloret Egea**  
-Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA)  
-Madrid, España  
-ORCID: 0000-0002-6634-3351
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 13/08/2026
+
+***PREPRINT*** **- NO REVISADO POR PARES**
 
 ## Resumen
 
