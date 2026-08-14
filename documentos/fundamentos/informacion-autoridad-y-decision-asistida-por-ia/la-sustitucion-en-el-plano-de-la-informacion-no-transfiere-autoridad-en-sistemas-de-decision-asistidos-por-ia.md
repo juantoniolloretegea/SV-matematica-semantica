@@ -6,7 +6,7 @@ ORCID: 0000-0002-6634-3351
 
 ## Resumen
 
-Los sistemas de IA igualan o sustituyen cada vez con mayor frecuencia las aportaciones humanas de información relevante para la toma de decisiones, aunque continúan sujetos a mecanismos de autorización y supervisión. Los marcos existentes de control de acceso y gobernanza de agentes formalizan entidades principales, permisos, capacidades, delegación y aprobación por parte del usuario, pero no caracterizan de forma directa la posibilidad de que una sustitución en el plano de la información modifique la autoridad para consolidar una decisión. Este trabajo define una semántica operacional tipada que separa una envolvente persistente de autoridad, AEnv, de la autoridad habilitada por la información, IEnabledAuth. La información puede satisfacer precondiciones probatorias y habilitar concesiones ya constituidas, mientras que solo las transiciones admitidas de gobernanza o de naturaleza constitucional pueden modificar la autoridad persistente; las consolidaciones protegidas reservadas al ser humano requieren además un acto de autorización humana admitido. Con un conjunto sellado de reglas, demostramos la no escalada de autoridad (TA) y la no derivabilidad soberana (TB). Junto con una proposición de independencia entre resolución y autoridad, TA da lugar al corolario de sustitución en el plano de la información (IS): una sustitución perfecta respecto de una firma de decisión declarada no implica equivalencia ni transferencia de autoridad. El resultado no depende de la falibilidad del modelo: la información suministrada por una IA externa puede conducir, tras la verificación declarada, al mismo candidato, la misma base verificada y la misma firma del resolvedor que la información proporcionada por una entidad principal autorizada. Una implementación de referencia congelada en Python supera 78 pruebas, con una cobertura del 96 % de las sentencias, y los debilitamientos deliberados admiten trazas explícitas de contraejemplo. El marco es una semántica operacional de referencia, no un sistema criptográfico de identidad ni una afirmación de que se apliquen efectivamente políticas de seguridad en producción. Proporciona un criterio formal para utilizar información de alta calidad generada por máquinas sin alterar la autoridad de consolidación constituida por separado.
+Los sistemas de IA igualan o sustituyen cada vez con mayor frecuencia las aportaciones humanas de información relevante para la toma de decisiones, aunque continúan sujetos a mecanismos de autorización y supervisión. Los marcos existentes de control de acceso y gobernanza de agentes formalizan entidades principales, permisos, capacidades, delegación y aprobación por parte del usuario, pero no caracterizan de forma directa la posibilidad de que una sustitución en el plano de la información modifique la autoridad para consolidar una decisión. Este trabajo define una semántica operacional tipada que separa una envolvente persistente de autoridad, AEnv, de la autoridad habilitada por la información, IEnabledAuth. La información puede satisfacer precondiciones probatorias y habilitar concesiones ya constituidas, mientras que solo las transiciones admitidas de gobernanza o de naturaleza constitucional pueden modificar la autoridad persistente; las consolidaciones protegidas reservadas al ser humano requieren además un acto de autorización humana admitido. Con un conjunto sellado de reglas, demostramos la no escalada de autoridad (TA) y la no derivabilidad soberana (TB). Junto con una proposición de independencia entre resolución y autoridad, TA da lugar al corolario de sustitución en el plano de la información (IS): una sustitución perfecta respecto de una firma de decisión declarada no implica equivalencia ni transferencia de autoridad. El resultado no depende de la falibilidad del modelo: la información suministrada por una IA externa puede conducir, tras la verificación declarada, al mismo candidato, la misma base verificada y la misma firma del resolvedor que la información proporcionada por una entidad principal autorizada. Una implementación de referencia congelada en Python supera 78 pruebas, con una cobertura del 96 % de las sentencias; el artefacto ejecutable y el laboratorio reproducible asociados a esta versión permiten repetir esas cifras. Los debilitamientos deliberados admiten trazas explícitas de contraejemplo. El marco es una semántica operacional de referencia, no un sistema criptográfico de identidad ni una afirmación de que se apliquen efectivamente políticas de seguridad en producción. Proporciona un criterio formal para utilizar información de alta calidad generada por máquinas sin alterar la autoridad de consolidación constituida por separado.
 
 ## Declaración de impacto
 
@@ -66,19 +66,25 @@ Los trabajos previos proporcionan mecanismos de confinamiento, delegación, apro
 
 Sea la configuración AUTH:
 
+```text
 K = (Cᵛ, I, Aᵍ, Tok, Hist).
+```
 
 Cᵛ es la constitución de autoridad en la versión v: roles de autoridad declarados, especificaciones de verificadores y restricciones constitucionales. I contiene información ordinaria, certificados sin procesar, certificados verificados y solicitudes de revisión. Aᵍ contiene entidades principales persistentes, vinculaciones y concesiones en la época de autoridad g. Tok contiene capacidades lineales efímeras. Hist es un registro al que solo pueden añadirse entradas y que contiene referencias inmutables al entorno semántico. Todas las trazas de los teoremas parten de un estado bien formado WF_AUTH(K₀) y evolucionan únicamente mediante las transiciones selladas que se definen a continuación. Se excluye la modificación arbitraria de Cᵛ o Aᵍ por corrupción del almacenamiento, vulneración del entorno de ejecución o inyección fuera del modelo; por tanto, la persistencia es una propiedad del sistema de transiciones, no una afirmación sobre la seguridad de la inicialización.
 
 Una concesión G es válida cuando es única, se refiere a una entidad principal declarada y a un rol de autoridad compatible, permanece dentro de sus vinculaciones de operación, ámbito y objeto, satisface los requisitos declarados de verificador y resolvedor, y no asigna operaciones protegidas reservadas al ser humano a una clase de autoridad no humana. Definimos:
 
+```text
 AEnv(K) = {G ∈ Aᵍ : ValidGrant(Cᵛ, Aᵍ, G)}.
+```
 
 AEnv es la envolvente persistente de autoridad respecto del sistema de transiciones admitido. No es el conjunto de acciones ejecutables en un instante determinado, y la semántica no demuestra que Cᵛ o Aᵍ hayan sido aprovisionados inicialmente de forma segura.
 
 Para un candidato c y un contexto de decisión ζ, sea Enabled_I(G; K, c, ζ) la condición según la cual las precondiciones informativas de la concesión G están satisfechas por el estado actual de la información. Definimos:
 
+```text
 IEnabledAuth(K, c, ζ) = {G ∈ AEnv(K) : Enabled_I(G; K, c, ζ)}.
+```
 
 Un verificador puede, por tanto, introducir un VerifiedCertificate que modifique IEnabledAuth sin modificar AEnv. La pertenencia a IEnabledAuth no proporciona por sí sola un token vigente ni completa una consolidación protegida.
 
@@ -90,7 +96,9 @@ Se utilizan tres clases de tokens: DetToken, HumanToken y GovernanceToken. Los t
 
 Un contexto de uso es:
 
+```text
 UseContext = (subject, executor, operation, scope, object, state, subject_admitted).
+```
 
 El sujeto debe ser admitido en la frontera de ejecución y debe coincidir con principal(token). El ejecutor no tiene por qué coincidir con esa entidad principal: un entorno de ejecución de confianza puede llevar a cabo una acción autorizada en nombre de una entidad principal sin adquirir por ello la autoridad de dicha entidad.
 
@@ -132,13 +140,17 @@ El caso protegido más restrictivo utiliza un dominio ternario de decisión Σ =
 
 Para una ejecución e, sea la firma declarada de información relevante para la decisión:
 
+```text
 InfoSig(e) = (candidate(e), verified_basis(e), resolver_signature(e)).
+```
 
 Definimos InfoEq(e, e′) exactamente cuando InfoSig(e) = InfoSig(e′). En este trabajo, «sustitución perfecta en el plano de la información» significa, por tanto, igualdad respecto de la firma declarada de información relevante para la decisión, no identidad de actores ni de cálculos internos.
 
 Sea ρ(x) la firma declarada del resolvedor del actor informativo x en el contexto de decisión, y escribamos x ≡_R y cuando las firmas comparadas del resolvedor sean iguales. Definimos el perfil efectivo de autoridad de la entidad principal p como:
 
+```text
 AProf(p, K) = {G ∈ AEnv(K) : principal(G) = p}.
+```
 
 Entonces x ≡_A y cuando sus perfiles efectivos de autoridad son iguales en el contexto comparado. InfoEq y ≡_R pertenecen al plano de la información; AProf y ≡_A pertenecen a la autoridad constituida.
 
@@ -170,11 +182,15 @@ Una traza ordinaria es una traza operacional bien formada que no contiene ningú
 
 **Teorema 1.** Para toda traza ordinaria:
 
+```text
 K₀ → K₁ → ··· → Kₙ,
+```
 
 se cumple:
 
+```text
 AEnv(Kₙ) = AEnv(K₀).
+```
 
 IEnabledAuth puede variar a lo largo de la misma traza, y esa variación puede habilitar la emisión de tokens deterministas y COMMIT_DET sin ampliar AEnv.
 
@@ -196,7 +212,9 @@ TB no afirma que toda U requiera una intervención humana. Los estados ordinario
 
 **Corolario IS.** Considérense dos ejecuciones e y e′ que comparten los mismos C y A iniciales, no contienen cambios de gobernanza ni constitucionales y solo difieren en las entidades principales productoras de información p y p′. Si InfoEq(e, e′), la igualdad de la información declarada como relevante para la decisión no implica equivalencia de autoridad ni transferencia de la autoridad para consolidar decisiones:
 
+```text
 InfoEq(e, e′) ⇏ p ≡_A p′.
+```
 
 **Demostración.** Por TA, sustituir al productor de información a lo largo de una traza ordinaria no puede modificar AEnv. Por la proposición 1, la igualdad del resolvedor no implica igualdad de perfiles de autoridad. Si una entidad principal External p′ carece de una concesión válida, la igualdad exacta de su firma informativa con la de un Service autorizado p no incorpora ninguna concesión a AProf(p′, K), no emite un token vigente para p′ ni satisface un acto humano protegido de frontera. El Service autorizado puede utilizar la información externa y consolidar la decisión bajo su propia concesión; el productor de la información no adquiere por ello la autoridad del Service. □
 
@@ -223,11 +241,19 @@ Los casos positivos son igualmente importantes. La gobernanza puede vincular exp
 
 ### 6.1. Implementación de referencia congelada
 
-La semántica sellada se materializó en una implementación de referencia en Python destinada a pruebas de conformidad, no a aplicar políticas de seguridad en un entorno de producción. El artefacto congelado de 13 de agosto de 2026 tiene el siguiente SHA-256:
+La semántica sellada se materializó en una implementación de referencia en Python destinada a pruebas de conformidad, no a aplicar políticas de seguridad en un entorno de producción. El laboratorio reproducible público asociado a esta versión se encuentra en [Laboratorio reproducible SV-AUTH A.2 r2](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/fundamentos/informacion-autoridad-y-decision-asistida-por-ia/Laboratorios/SV-AUTH-A2-r2). Conserva sin modificaciones el artefacto congelado de 13 de agosto de 2026 y verifica su integridad antes de ejecutarlo.
 
+SHA-256 del artefacto congelado:
+
+```text
 7c18761cf5546c8fdd9ad962c0ea3e0a54a9ddd4a4bf6d43c0ab29c7e4cf794f
+```
 
-La ejecución del artefacto exacto produce 78 pruebas superadas y ninguna fallida. El informe de cobertura contiene 537 sentencias, con una cobertura agregada del 96 %; el módulo authority-runtime (ejecución de autoridad) alcanza el 94 % y el módulo authority-types (tipos de autoridad) el 98 %. Una matriz de correspondencia entre reglas y pruebas vincula las 15 reglas sensibles selladas con pruebas que las someten a ejercicio directo. Estas cifras aportan evidencia de que la implementación de referencia se ajusta a la semántica sellada en los casos sometidos a prueba; no constituyen una demostración de seguridad universal ni una enumeración exhaustiva de ataques. TA, TB e IS se siguen de los argumentos semánticos de la sección 4, respecto del sistema de transiciones sellado y las fronteras declaradas.
+El laboratorio contiene los módulos medidos, la batería completa de 78 pruebas, el comprobador estático auxiliar, las dependencias fijadas y un ejecutor automático. La ejecución del artefacto exacto produce 78 pruebas superadas y ninguna fallida. El informe de cobertura contiene 537 sentencias, con 24 no cubiertas y una cobertura agregada del 96 %; el módulo `authority_runtime.py` alcanza el 94 % y el módulo `authority_types.py` el 98 %. Una matriz de correspondencia entre reglas y pruebas vincula las 15 reglas sensibles selladas con pruebas que las someten a ejercicio directo.
+
+El laboratorio incorpora además un contrato diagnóstico suplementario de 16 pruebas para comprobar códigos de rechazo representativos. Esas 16 pruebas no se suman a las 78 citadas en el artículo, no modifican el artefacto r2 congelado y no se utilizan para demostrar TA, TB o IS; su finalidad es distinguir el rechazo operacional de la clasificación diagnóstica exacta del rechazo.
+
+Estas cifras aportan evidencia de que la implementación de referencia se ajusta a la semántica sellada en los casos sometidos a prueba; no constituyen una demostración de seguridad universal ni una enumeración exhaustiva de ataques. TA, TB e IS se siguen de los argumentos semánticos de la sección 4, respecto del sistema de transiciones sellado y las fronteras declaradas.
 
 La batería combina tres clases. AES, Adversarial Exclusion Suite, somete a prueba fallos representativos de autorización, entre ellos escalada de autoridad, certificados falsificados o inyectados, ataques de repetición, tokens obsoletos, escalada de clase, discordancia del sujeto, U históricas fabricadas, gobernanza no autorizada, ataques de deserialización o importación y ataques basados en igualdad exacta de salidas. AES es finita y no pretende enumerar todos los ataques posibles. Los testigos P1 cubren ambas direcciones de la independencia entre resolución y autoridad. LAS, Legitimate Automation Suite, comprueba que la semántica admite automatización legítima en lugar de satisfacer las propiedades de seguridad mediante rechazo universal.
 
@@ -295,7 +321,7 @@ Los siguientes pasos técnicos se mantienen deliberadamente separados de la afir
 
 [4] A. Ibrahim y Y. Li, “Overlaying governance: A compositional authorization framework for delegation and scope in agentic AI,” arXiv:2606.03518, 2026.
 
-[5] M. Llambí-Morillas y D. Fernández-Fernández, “Cryptographically verifiable authorization for autonomous AI agents: A falsifiable hypothesis and proof-of-concept,” arXiv:2607.21325v2, 2026.
+[5] M. Llambí-Morillas y D. Fernández-Fernández, “Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation,” arXiv:2607.21325, 2026.
 
 [6] J. G. Benjamin, A. K. Jain y K. Nandakumar, “Binding biometrics with AI agent identifiers for delegation of authority,” arXiv:2608.04292, 2026.
 
