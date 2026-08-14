@@ -1,0 +1,23 @@
+{
+  "artefacto": "SV-AUTH A.2 r2",
+  "nota": "Catálogo diagnóstico suplementario. No modifica el r2 congelado ni las cifras 78/78 y 96 % citadas en el artículo.",
+  "codigos": [
+    {"code":"E601","name":"IllegalAuthorityCoercion","categoria":"coercion","estado_r2":"emitido","descripcion":"Una vía informativa intenta introducir un objeto de autoridad o un certificado verificado reservado."},
+    {"code":"E602","name":"UnauthorizedGrantMutation","categoria":"governance","estado_r2":"emitido","descripcion":"Se intenta modificar autoridad persistente sin la operación gubernativa exacta o mediante un grant duplicado."},
+    {"code":"E603","name":"TokenAuthorityEscalation","categoria":"capability","estado_r2":"emitido","descripcion":"La clase de capacidad o la clase de grant no coincide con la autoridad requerida."},
+    {"code":"E604","name":"TokenBindingMismatch","categoria":"binding","estado_r2":"emitido","descripcion":"No coinciden principal, operación, ámbito, objeto, candidato, estado u otra vinculación contextual."},
+    {"code":"E605","name":"StaleAuthorityEnvironment","categoria":"epoch-version","estado_r2":"emitido","descripcion":"La versión constitucional o la época de autoridad no coincide con el estado vigente."},
+    {"code":"E606","name":"TokenReplay","categoria":"linearity-replay","estado_r2":"emitido","descripcion":"Se reutiliza, repite o vuelve a acuñar una capacidad cuyo identificador ya está vivo o consumido."},
+    {"code":"E607","name":"UnverifiedCommitBasis","categoria":"evidence","estado_r2":"emitido","descripcion":"La base probatoria no está verificada, no coincide con el contexto o no acredita la no clausura exigida."},
+    {"code":"E608","name":"HumanReviewLaundering","categoria":"boundary-act","estado_r2":"emitido","descripcion":"Falta un acto humano/gubernativo admitido o se intenta blanquear una solicitud/referencia como autorización. En r2 este código también cubre fallos de admisión gubernativa."},
+    {"code":"E609","name":"UnauthorizedSovereignU","categoria":"sovereign-commit","estado_r2":"emitido","descripcion":"Se intenta constituir una decisión U protegida sin la clase de token humano y operación requeridas."},
+    {"code":"E610","name":"UnauthorizedSovereignUResolution","categoria":"sovereign-resolution","estado_r2":"emitido","descripcion":"Se intenta resolver una U protegida sin antecedente U válido, operación o linaje exigidos."},
+    {"code":"E611","name":"AuthorizationRecordReplay","categoria":"act-replay","estado_r2":"emitido","descripcion":"Se repite un acto de autorización humana o gubernativa ya admitido."},
+    {"code":"E612","name":"TokenDeserializationForgery","categoria":"serialization","estado_r2":"emitido","descripcion":"Una representación serializada o un payload modificado intenta actuar como capacidad viva."},
+    {"code":"E613","name":"SovereignImportBypass","categoria":"import-restore","estado_r2":"emitido","descripcion":"Se intenta introducir una decisión soberana o restaurar estado por una vía no admitida."},
+    {"code":"E614","name":"Reserved","categoria":"reserved","estado_r2":"reservado-no-emitido","descripcion":"Código reservado; no es emitido por authority_runtime.py en el r2 congelado."},
+    {"code":"E615","name":"InvariantDerogationAttempt","categoria":"governance-invariant","estado_r2":"emitido","descripcion":"Una mutación gubernativa o constitucional produciría un estado que deroga invariantes AUTH."},
+    {"code":"E616","name":"Reserved","categoria":"reserved","estado_r2":"reservado-no-emitido","descripcion":"Código reservado; no es emitido por authority_runtime.py en el r2 congelado."},
+    {"code":"E617","name":"HistoricalSemanticDrift","categoria":"history","estado_r2":"emitido","descripcion":"Una restauración o historial no conserva las referencias semánticas exigidas por WF_AUTH."}
+  ]
+}

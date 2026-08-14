@@ -1,0 +1,14 @@
+Cross-audit summary
+
+The original 36/36 artifact remains reproducible but is not treated as full A.2 conformance.
+A spec-runtime audit found additional gaps not exercised by that suite.
+The revised reference implementation closes those gaps and expands the battery.
+
+Current local result:
+- 78 passed, 0 failed
+- 537 statements
+- 96% total coverage
+- runtime 94%, types 98%
+
+The remaining uncovered branches are not treated as proof obligations discharged by coverage alone.
+Semantic proof, reference conformance, and final SV integration remain distinct layers.

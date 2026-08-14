@@ -1,0 +1,17 @@
+{
+  "laboratorio": "SV-AUTH A.2 r2",
+  "fecha_artefacto": "2026-08-13",
+  "artefacto_congelado": "frozen/SV_AUTH_A2_revised_reference_r2_20260813.zip",
+  "sha256": "7c18761cf5546c8fdd9ad962c0ea3e0a54a9ddd4a4bf6d43c0ab29c7e4cf794f",
+  "resultado_citado": {
+    "pytest": {"passed": 78, "failed": 0},
+    "coverage": {"statements": 537, "missed": 24, "percent": 96},
+    "authority_runtime_py": 94,
+    "authority_types_py": 98
+  },
+  "reglas_sensibles": 15,
+  "overlay_diagnostico": {
+    "modifica_r2": false,
+    "finalidad": "comprobar que rechazos representativos devuelven el codigo AuthError esperado"
+  }
+}

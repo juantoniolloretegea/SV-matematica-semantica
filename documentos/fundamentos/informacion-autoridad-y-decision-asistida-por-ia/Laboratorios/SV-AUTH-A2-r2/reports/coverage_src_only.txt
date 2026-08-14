@@ -1,0 +1,6 @@
+Name                                         Stmts   Miss  Cover
+----------------------------------------------------------------
+src/sv_motor/security/authority_runtime.py     305     19    94%
+src/sv_motor/security/authority_types.py       232      5    98%
+----------------------------------------------------------------
+TOTAL                                          537     24    96%

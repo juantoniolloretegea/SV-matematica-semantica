@@ -1,0 +1,17 @@
+Verificación local del laboratorio reproducible — 14/08/2026
+
+Artefacto r2 citado:
+SHA-256 7c18761cf5546c8fdd9ad962c0ea3e0a54a9ddd4a4bf6d43c0ab29c7e4cf794f
+
+Batería congelada:
+78 passed, 0 failed
+
+Cobertura restringida a los dos módulos citados en la publicación:
+authority_runtime.py: 305 sentencias, 19 no cubiertas, 94 %
+authority_types.py:   232 sentencias, 5 no cubiertas, 98 %
+TOTAL:                537 sentencias, 24 no cubiertas, 96 %
+
+Contrato diagnóstico suplementario:
+16 passed, 0 failed
+
+Nota: las 16 pruebas diagnósticas no se suman a las 78 pruebas congeladas. Verifican la clase de error de rechazos representativos sin modificar el artefacto r2.
