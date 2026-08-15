@@ -3,10 +3,9 @@
 **Autor:** Juan Antonio Lloret Egea  
 **Institución:** Instituto Tecnológico de la Inteligencia Artificial para el Español (ITVIA)  
 **Lugar:** Madrid, España  
-**Correo electrónico:** juanantoniolloretegea@ieee.org  
 **ORCID:** 0000-0002-6634-3351  
 **DOI:** PENDIENTE DE ASIGNACIÓN  
-**Laboratorio asociado:** `laboratorio/`
+[**Laboratorio asociado:**](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/fundamentos/aprendizaje-trazable-en-inteligencia-artificial/laboratorios)
 
 
 ## Resumen
