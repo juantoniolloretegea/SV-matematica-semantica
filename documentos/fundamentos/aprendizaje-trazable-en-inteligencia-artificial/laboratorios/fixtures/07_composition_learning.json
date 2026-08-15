@@ -1,0 +1,189 @@
+{
+  "episode": {
+    "id": "M7_composition_learning",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "source_APTO",
+        "target_INDETERMINADO"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "source_APTO",
+        "target_INDETERMINADO"
+      ],
+      "R": [
+        "delta_series"
+      ],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [],
+    "operators": {
+      "sigma_1_phi": {
+        "arity": 2,
+        "kind": "composition",
+        "table": [
+          {
+            "inputs": [
+              "X:source_APTO",
+              "X:target_INDETERMINADO"
+            ],
+            "output": "R:delta_series"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_delta": {
+        "target": {
+          "type": "R",
+          "id": "delta_series"
+        },
+        "nodes": [
+          {
+            "id": "s",
+            "kind": "leaf",
+            "value": "X:source_APTO",
+            "source": "prior"
+          },
+          {
+            "id": "t",
+            "kind": "leaf",
+            "value": "X:target_INDETERMINADO",
+            "source": "prior"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "sigma_1_phi",
+            "inputs": [
+              "s",
+              "t"
+            ],
+            "output": "R:delta_series",
+            "execution_id": "sigma_exec_1"
+          }
+        ],
+        "root": "r",
+        "incorporation_record": "l1__add__R__delta_series"
+      }
+    },
+    "ledger": [
+      {
+        "id": "log_sigma_exec_1",
+        "kind": "ExecComp",
+        "execution_id": "sigma_exec_1",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      },
+      {
+        "id": "l1__add__R__delta_series",
+        "kind": "Add",
+        "type": "R",
+        "target": "delta_series",
+        "registration_ordinal": 1,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_delta"
+        ]
+      }
+    ],
+    "executions": [
+      {
+        "id": "sigma_exec_1",
+        "operator": "sigma_1_phi",
+        "inputs": [
+          "X:source_APTO",
+          "X:target_INDETERMINADO"
+        ],
+        "output": "R:delta_series"
+      }
+    ],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "w_delta"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "w_delta"
+      ]
+    },
+    "support_policy": {
+      "admitted_inputs": [],
+      "executions": [
+        "sigma_exec_1"
+      ],
+      "witnesses": [
+        "w_delta"
+      ],
+      "policy_id": "rho_M7_composition_learning",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "source_APTO"
+      },
+      {
+        "type": "X",
+        "id": "target_INDETERMINADO"
+      }
+    ],
+    "trajectory_refs": [
+      0
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [
+      "R:delta_series"
+    ],
+    "learn": true,
+    "composition_executed": [
+      "sigma_exec_1"
+    ],
+    "composition_support": {
+      "R:delta_series": [
+        "sigma_exec_1"
+      ]
+    },
+    "composition_record_essential": {
+      "R:delta_series": [
+        "sigma_exec_1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "episode": {
+    "id": "M3_route_only",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": [
+        "route_ab"
+      ]
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [],
+    "operators": {
+      "route": {
+        "arity": 2,
+        "kind": "internal",
+        "table": [
+          {
+            "inputs": [
+              "X:alpha",
+              "X:beta"
+            ],
+            "output": "Lambda:route_ab"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_route": {
+        "target": {
+          "type": "Lambda",
+          "id": "route_ab"
+        },
+        "nodes": [
+          {
+            "id": "a",
+            "kind": "leaf",
+            "value": "X:alpha",
+            "source": "prior"
+          },
+          {
+            "id": "b",
+            "kind": "leaf",
+            "value": "X:beta",
+            "source": "prior"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "route",
+            "inputs": [
+              "a",
+              "b"
+            ],
+            "output": "Lambda:route_ab",
+            "execution_id": "w_route__r__exec"
+          }
+        ],
+        "root": "r",
+        "incorporation_record": "l1__add__Lambda__route_ab"
+      }
+    },
+    "ledger": [
+      {
+        "id": "log_w_route__r__exec",
+        "kind": "ExecReason",
+        "execution_id": "w_route__r__exec",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      },
+      {
+        "id": "l1__add__Lambda__route_ab",
+        "kind": "Add",
+        "type": "Lambda",
+        "target": "route_ab",
+        "registration_ordinal": 1,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_route"
+        ]
+      }
+    ],
+    "executions": [
+      {
+        "id": "w_route__r__exec",
+        "operator": "route",
+        "inputs": [
+          "X:alpha",
+          "X:beta"
+        ],
+        "output": "Lambda:route_ab"
+      }
+    ],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "w_route"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "w_route"
+      ]
+    },
+    "support_policy": {
+      "admitted_inputs": [],
+      "executions": [
+        "w_route__r__exec"
+      ],
+      "witnesses": [
+        "w_route"
+      ],
+      "policy_id": "rho_M3_route_only",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      },
+      {
+        "type": "X",
+        "id": "beta"
+      }
+    ],
+    "trajectory_refs": [
+      0
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [
+      "Lambda:route_ab"
+    ],
+    "learn": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "episode": {
+    "id": "M13_foundation_rewrite_attack",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [],
+    "operators": {},
+    "witnesses": {},
+    "ledger": [],
+    "executions": [],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "4e9c7ec2880315d190095088dbfe5b4c179f8d59ea379f9534c4ad4925a4567c"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [],
+      "retained_record_ids": []
+    },
+    "support_policy": {
+      "admitted_inputs": [],
+      "executions": [],
+      "witnesses": [],
+      "policy_id": "rho_M13_foundation_rewrite_attack",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      }
+    ],
+    "trajectory_refs": []
+  },
+  "expected_error": "machine foundation rewrite forbidden"
+}

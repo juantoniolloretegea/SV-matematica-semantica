@@ -1,0 +1,311 @@
+{
+  "episode": {
+    "id": "M9_rectification_learning",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha",
+        "beta",
+        "gamma"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha",
+        "delta"
+      ],
+      "R": [
+        "invalidates_old_support"
+      ],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [
+      "event_eps"
+    ],
+    "operators": {
+      "omega_inv": {
+        "arity": 2,
+        "kind": "rectification",
+        "table": [
+          {
+            "inputs": [
+              "X:beta",
+              "event_eps"
+            ],
+            "output": "X:delta"
+          }
+        ]
+      },
+      "mark_invalidation": {
+        "arity": 1,
+        "kind": "rectification",
+        "table": [
+          {
+            "inputs": [
+              "X:delta"
+            ],
+            "output": "R:invalidates_old_support"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_delta": {
+        "target": {
+          "type": "X",
+          "id": "delta"
+        },
+        "nodes": [
+          {
+            "id": "b",
+            "kind": "leaf",
+            "value": "X:beta",
+            "source": "prior"
+          },
+          {
+            "id": "e",
+            "kind": "leaf",
+            "value": "event_eps",
+            "source": "external"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "omega_inv",
+            "inputs": [
+              "b",
+              "e"
+            ],
+            "output": "X:delta",
+            "execution_id": "w_delta__r__exec"
+          }
+        ],
+        "root": "r",
+        "incorporation_record": "l1__add__X__delta"
+      },
+      "w_rel": {
+        "target": {
+          "type": "R",
+          "id": "invalidates_old_support"
+        },
+        "nodes": [
+          {
+            "id": "b",
+            "kind": "leaf",
+            "value": "X:beta",
+            "source": "prior"
+          },
+          {
+            "id": "e",
+            "kind": "leaf",
+            "value": "event_eps",
+            "source": "external"
+          },
+          {
+            "id": "d",
+            "kind": "op",
+            "operator": "omega_inv",
+            "inputs": [
+              "b",
+              "e"
+            ],
+            "output": "X:delta",
+            "execution_id": "w_rel__d__exec"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "mark_invalidation",
+            "inputs": [
+              "d"
+            ],
+            "output": "R:invalidates_old_support",
+            "execution_id": "w_rel__r__exec"
+          }
+        ],
+        "root": "r",
+        "incorporation_record": "l1__add__R__invalidates_old_support"
+      }
+    },
+    "ledger": [
+      {
+        "id": "l1__add__X__delta",
+        "kind": "Add",
+        "type": "X",
+        "target": "delta",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_delta"
+        ]
+      },
+      {
+        "id": "l1__add__R__invalidates_old_support",
+        "kind": "Add",
+        "type": "R",
+        "target": "invalidates_old_support",
+        "registration_ordinal": 1,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_rel"
+        ]
+      },
+      {
+        "id": "l1__withdraw__X__beta",
+        "kind": "Withdraw",
+        "type": "X",
+        "target": "beta",
+        "registration_ordinal": 2,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      },
+      {
+        "id": "l1__withdraw__X__gamma",
+        "kind": "Withdraw",
+        "type": "X",
+        "target": "gamma",
+        "registration_ordinal": 3,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      }
+    ],
+    "executions": [
+      {
+        "id": "w_delta__r__exec",
+        "operator": "omega_inv",
+        "inputs": [
+          "X:beta",
+          "event_eps"
+        ],
+        "output": "X:delta"
+      },
+      {
+        "id": "w_rel__d__exec",
+        "operator": "omega_inv",
+        "inputs": [
+          "X:beta",
+          "event_eps"
+        ],
+        "output": "X:delta"
+      },
+      {
+        "id": "w_rel__r__exec",
+        "operator": "mark_invalidation",
+        "inputs": [
+          "X:delta"
+        ],
+        "output": "R:invalidates_old_support"
+      }
+    ],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "w_delta",
+        "w_rel"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "w_delta",
+        "w_rel"
+      ]
+    },
+    "local_vectors": {
+      "initial": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "1",
+        "1"
+      ],
+      "final": [
+        "U",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "1",
+        "1"
+      ]
+    },
+    "support_policy": {
+      "admitted_inputs": [
+        "event_eps"
+      ],
+      "executions": [
+        "w_delta__r__exec",
+        "w_rel__d__exec",
+        "w_rel__r__exec"
+      ],
+      "witnesses": [
+        "w_delta",
+        "w_rel"
+      ],
+      "policy_id": "rho_M9_rectification_learning",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      },
+      {
+        "type": "X",
+        "id": "beta"
+      },
+      {
+        "type": "X",
+        "id": "gamma"
+      }
+    ],
+    "trajectory_refs": [
+      0
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [
+      "R:invalidates_old_support",
+      "X:delta"
+    ],
+    "learn": true
+  }
+}

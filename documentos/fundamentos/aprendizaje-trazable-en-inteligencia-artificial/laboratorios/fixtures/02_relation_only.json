@@ -1,0 +1,177 @@
+{
+  "episode": {
+    "id": "M2_relation_only",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [
+        "rel_ab"
+      ],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [],
+    "operators": {
+      "relate": {
+        "arity": 2,
+        "kind": "internal",
+        "table": [
+          {
+            "inputs": [
+              "X:alpha",
+              "X:beta"
+            ],
+            "output": "R:rel_ab"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_rel": {
+        "target": {
+          "type": "R",
+          "id": "rel_ab"
+        },
+        "nodes": [
+          {
+            "id": "a",
+            "kind": "leaf",
+            "value": "X:alpha",
+            "source": "prior"
+          },
+          {
+            "id": "b",
+            "kind": "leaf",
+            "value": "X:beta",
+            "source": "prior"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "relate",
+            "inputs": [
+              "a",
+              "b"
+            ],
+            "output": "R:rel_ab",
+            "execution_id": "w_rel__r__exec"
+          }
+        ],
+        "root": "r",
+        "incorporation_record": "l1__add__R__rel_ab"
+      }
+    },
+    "ledger": [
+      {
+        "id": "log_w_rel__r__exec",
+        "kind": "ExecReason",
+        "execution_id": "w_rel__r__exec",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      },
+      {
+        "id": "l1__add__R__rel_ab",
+        "kind": "Add",
+        "type": "R",
+        "target": "rel_ab",
+        "registration_ordinal": 1,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_rel"
+        ]
+      }
+    ],
+    "executions": [
+      {
+        "id": "w_rel__r__exec",
+        "operator": "relate",
+        "inputs": [
+          "X:alpha",
+          "X:beta"
+        ],
+        "output": "R:rel_ab"
+      }
+    ],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "w_rel"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "w_rel"
+      ]
+    },
+    "support_policy": {
+      "admitted_inputs": [],
+      "executions": [
+        "w_rel__r__exec"
+      ],
+      "witnesses": [
+        "w_rel"
+      ],
+      "policy_id": "rho_M2_relation_only",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      },
+      {
+        "type": "X",
+        "id": "beta"
+      }
+    ],
+    "trajectory_refs": [
+      0
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [
+      "R:rel_ab"
+    ],
+    "learn": true,
+    "reasoning_executed": true
+  }
+}

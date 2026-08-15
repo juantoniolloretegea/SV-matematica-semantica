@@ -1,0 +1,243 @@
+{
+  "episode": {
+    "id": "M15_recovery_with_new_route_learning",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": [
+        "route_beta_new"
+      ]
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [
+      "obs_beta_again",
+      "obs_route"
+    ],
+    "operators": {
+      "mu_beta_again": {
+        "arity": 1,
+        "kind": "acquisition",
+        "table": [
+          {
+            "inputs": [
+              "obs_beta_again"
+            ],
+            "output": "X:beta"
+          }
+        ]
+      },
+      "mu_route": {
+        "arity": 1,
+        "kind": "acquisition",
+        "table": [
+          {
+            "inputs": [
+              "obs_route"
+            ],
+            "output": "Lambda:route_beta_new"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_beta_again": {
+        "target": {
+          "type": "X",
+          "id": "beta"
+        },
+        "incorporation_record": "l2__add__X__beta",
+        "nodes": [
+          {
+            "id": "o",
+            "kind": "leaf",
+            "value": "obs_beta_again",
+            "source": "external"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "mu_beta_again",
+            "inputs": [
+              "o"
+            ],
+            "output": "X:beta",
+            "execution_id": "w_beta_again__r__exec"
+          }
+        ],
+        "root": "r"
+      },
+      "w_route_new": {
+        "target": {
+          "type": "Lambda",
+          "id": "route_beta_new"
+        },
+        "incorporation_record": "l3__add__Lambda__route_beta_new",
+        "nodes": [
+          {
+            "id": "o",
+            "kind": "leaf",
+            "value": "obs_route",
+            "source": "external"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "mu_route",
+            "inputs": [
+              "o"
+            ],
+            "output": "Lambda:route_beta_new",
+            "execution_id": "w_route_new__r__exec"
+          }
+        ],
+        "root": "r"
+      }
+    },
+    "ledger": [
+      {
+        "id": "l1__withdraw__X__beta",
+        "kind": "Withdraw",
+        "type": "X",
+        "target": "beta",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      },
+      {
+        "id": "l2__add__X__beta",
+        "kind": "Add",
+        "type": "X",
+        "target": "beta",
+        "registration_ordinal": 1,
+        "trajectory_ref": 1,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_beta_again"
+        ]
+      },
+      {
+        "id": "l3__add__Lambda__route_beta_new",
+        "kind": "Add",
+        "type": "Lambda",
+        "target": "route_beta_new",
+        "registration_ordinal": 2,
+        "trajectory_ref": 1,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_route_new"
+        ]
+      }
+    ],
+    "executions": [
+      {
+        "id": "w_beta_again__r__exec",
+        "operator": "mu_beta_again",
+        "inputs": [
+          "obs_beta_again"
+        ],
+        "output": "X:beta"
+      },
+      {
+        "id": "w_route_new__r__exec",
+        "operator": "mu_route",
+        "inputs": [
+          "obs_route"
+        ],
+        "output": "Lambda:route_beta_new"
+      }
+    ],
+    "support_policy": {
+      "admitted_inputs": [
+        "obs_beta_again",
+        "obs_route"
+      ],
+      "executions": [
+        "w_beta_again__r__exec",
+        "w_route_new__r__exec"
+      ],
+      "witnesses": [
+        "w_beta_again",
+        "w_route_new"
+      ],
+      "policy_id": "rho_M15_recovery_with_new_route_learning",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "l2",
+        "l3",
+        "w_beta_again",
+        "w_route_new"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "l2",
+        "l3",
+        "w_beta_again",
+        "w_route_new"
+      ]
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      },
+      {
+        "type": "X",
+        "id": "beta"
+      }
+    ],
+    "trajectory_refs": [
+      0,
+      1
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [
+      "Lambda:route_beta_new"
+    ],
+    "learn": true,
+    "operational_verdict": "LEARN"
+  }
+}

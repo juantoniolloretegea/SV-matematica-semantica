@@ -1,0 +1,172 @@
+{
+  "episode": {
+    "id": "M14_recovery_not_second_incremental",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [
+      "obs_beta_again"
+    ],
+    "operators": {
+      "mu_beta_again": {
+        "arity": 1,
+        "kind": "acquisition",
+        "table": [
+          {
+            "inputs": [
+              "obs_beta_again"
+            ],
+            "output": "X:beta"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_beta_again": {
+        "target": {
+          "type": "X",
+          "id": "beta"
+        },
+        "incorporation_record": "l2__add__X__beta",
+        "nodes": [
+          {
+            "id": "o",
+            "kind": "leaf",
+            "value": "obs_beta_again",
+            "source": "external"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "mu_beta_again",
+            "inputs": [
+              "o"
+            ],
+            "output": "X:beta",
+            "execution_id": "w_beta_again__r__exec"
+          }
+        ],
+        "root": "r"
+      }
+    },
+    "ledger": [
+      {
+        "id": "l1__withdraw__X__beta",
+        "kind": "Withdraw",
+        "type": "X",
+        "target": "beta",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      },
+      {
+        "id": "l2__add__X__beta",
+        "kind": "Add",
+        "type": "X",
+        "target": "beta",
+        "registration_ordinal": 1,
+        "trajectory_ref": 1,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_beta_again"
+        ]
+      }
+    ],
+    "executions": [
+      {
+        "id": "w_beta_again__r__exec",
+        "operator": "mu_beta_again",
+        "inputs": [
+          "obs_beta_again"
+        ],
+        "output": "X:beta"
+      }
+    ],
+    "support_policy": {
+      "admitted_inputs": [
+        "obs_beta_again"
+      ],
+      "executions": [
+        "w_beta_again__r__exec"
+      ],
+      "witnesses": [
+        "w_beta_again"
+      ],
+      "policy_id": "rho_M14_recovery_not_second_incremental",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "l2",
+        "w_beta_again"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "l2",
+        "w_beta_again"
+      ]
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      },
+      {
+        "type": "X",
+        "id": "beta"
+      }
+    ],
+    "trajectory_refs": [
+      0,
+      1
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [],
+    "learn": false,
+    "operational_verdict": "NO_LEARN"
+  }
+}

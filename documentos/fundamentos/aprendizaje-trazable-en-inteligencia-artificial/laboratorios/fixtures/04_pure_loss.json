@@ -1,0 +1,96 @@
+{
+  "episode": {
+    "id": "M4_pure_loss",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha",
+        "beta"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [],
+    "operators": {},
+    "witnesses": {},
+    "ledger": [
+      {
+        "id": "l1__withdraw__X__beta",
+        "kind": "Withdraw",
+        "type": "X",
+        "target": "beta",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": []
+      }
+    ],
+    "executions": [],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1"
+      ],
+      "retained_record_ids": [
+        "l1"
+      ]
+    },
+    "support_policy": {
+      "admitted_inputs": [],
+      "executions": [],
+      "witnesses": [],
+      "policy_id": "rho_M4_pure_loss",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      },
+      {
+        "type": "X",
+        "id": "beta"
+      }
+    ],
+    "trajectory_refs": [
+      0
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [],
+    "learn": false,
+    "operational_verdict": "NO_LEARN"
+  }
+}

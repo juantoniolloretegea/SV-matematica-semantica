@@ -1,0 +1,156 @@
+{
+  "episode": {
+    "id": "M6_direct_without_reasoning",
+    "domain": "D_star",
+    "subject": "s",
+    "foundation": {
+      "id": "F_h_v1",
+      "descriptor": {
+        "id": "F_h_v1",
+        "domain": "D_star",
+        "version": "1",
+        "semantics": "traceable_learning_v0_4",
+        "closure_policy": "declared_exact_ternary",
+        "validity_region": "fixture_scope"
+      },
+      "sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "initial": {
+      "X": [
+        "alpha"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "final": {
+      "X": [
+        "alpha",
+        "gamma"
+      ],
+      "R": [],
+      "Lambda": []
+    },
+    "representation_equivalence": [],
+    "admitted_inputs": [
+      "obs_gamma"
+    ],
+    "operators": {
+      "mu_gamma": {
+        "arity": 1,
+        "kind": "acquisition",
+        "table": [
+          {
+            "inputs": [
+              "obs_gamma"
+            ],
+            "output": "X:gamma"
+          }
+        ]
+      }
+    },
+    "witnesses": {
+      "w_gamma": {
+        "target": {
+          "type": "X",
+          "id": "gamma"
+        },
+        "nodes": [
+          {
+            "id": "o",
+            "kind": "leaf",
+            "value": "obs_gamma",
+            "source": "external"
+          },
+          {
+            "id": "r",
+            "kind": "op",
+            "operator": "mu_gamma",
+            "inputs": [
+              "o"
+            ],
+            "output": "X:gamma",
+            "execution_id": "w_gamma__r__exec"
+          }
+        ],
+        "root": "r",
+        "incorporation_record": "l1__add__X__gamma"
+      }
+    },
+    "ledger": [
+      {
+        "id": "l1__add__X__gamma",
+        "kind": "Add",
+        "type": "X",
+        "target": "gamma",
+        "registration_ordinal": 0,
+        "trajectory_ref": 0,
+        "provenance": [],
+        "links": [],
+        "support": [
+          "w_gamma"
+        ]
+      }
+    ],
+    "executions": [
+      {
+        "id": "w_gamma__r__exec",
+        "operator": "mu_gamma",
+        "inputs": [
+          "obs_gamma"
+        ],
+        "output": "X:gamma"
+      }
+    ],
+    "machine_transitions": [
+      {
+        "kind": "machine",
+        "from_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a",
+        "to_foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+      }
+    ],
+    "operational_query": {
+      "admissible": true,
+      "access_scope": [],
+      "completed_access": [],
+      "required_record_ids": [
+        "l1",
+        "w_gamma"
+      ],
+      "retained_record_ids": [
+        "l1",
+        "w_gamma"
+      ]
+    },
+    "support_policy": {
+      "admitted_inputs": [
+        "obs_gamma"
+      ],
+      "executions": [
+        "w_gamma__r__exec"
+      ],
+      "witnesses": [
+        "w_gamma"
+      ],
+      "policy_id": "rho_M6_direct_without_reasoning",
+      "fixed_before_verdict": true,
+      "foundation_sha256": "9ff0313f39665297008693a6a397687e63f154e10594e39be2c3cd87a821575a"
+    },
+    "history_before_episode": [
+      {
+        "type": "X",
+        "id": "alpha"
+      }
+    ],
+    "trajectory_refs": [
+      0
+    ]
+  },
+  "expected": {
+    "evolution": true,
+    "incrementals": [
+      "X:gamma"
+    ],
+    "learn": true,
+    "reasoning_executed": false
+  }
+}
