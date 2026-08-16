@@ -4,7 +4,7 @@
 **Institución:** Instituto Tecnológico de la Inteligencia Artificial para el Español (ITVIA)  
 **Lugar:** Madrid, España  
 **ORCID:** 0000-0002-6634-3351  
-**DOI de esta edición española:** pendiente de asignación  
+[**DOI : 10.21428/39829d0b.bebc607c**](https://doi.org/10.21428/39829d0b.bebc607c)  
 [**Laboratorio asociado:**](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/fundamentos/aprendizaje-trazable-en-inteligencia-artificial/laboratorios)
 
 
