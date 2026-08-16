@@ -10,7 +10,7 @@
 
 ## Resumen
 
-Esta publicación desarrolla una semántica finita, determinista y autocontenida para el aprendizaje trazable en sistemas de inteligencia artificial que operan dentro de un dominio declarado previamente por autoridad humana. El objeto formal central vincula un estado ternario explícito, formado por un *frame* y su vector asociado, con una traza estructural de solo adición y un registro cognitivo. El aprendizaje se define como una evolución estructural que contiene al menos un incremento nuevo y sustentado. El soporte se establece mediante un certificado finito registrado cuyas hojas, aplicaciones de operadores, procedencia e incorporación pueden reconstruirse y comprobarse. La semántica distingue el aprendizaje del razonamiento, la composición, el crecimiento cardinal, la verdad, la mejora y la mera extensión de la traza. Contramodelos finitos establecen que el aprendizaje puede coexistir con la contracción del conocimiento activo y con la transición de una coordenada ternaria previamente resuelta en 0 o 1 de nuevo a U; que dos vectores locales extremos iguales no determinan si hubo aprendizaje; y que el razonamiento o la composición intercelular pueden producirse con aprendizaje o sin él. La realización de inteligencia artificial impone cuatro invariantes: los mecanismos estadísticos no pueden constituir aprendizaje ni clausura; todos los pasos constitutivos deben ser explícitamente reconstruibles; las transiciones de máquina preservan el fundamento fijado bajo soberanía humana; y no se devuelve una clausura en 0 o 1 salvo que la base declarada la sustente. Una implementación determinista de referencia ejercita las definiciones finitas sobre ejemplos serializados, pero no interviene en el establecimiento de los resultados matemáticos. Un corolario de reconstrucción distingue la pérdida de un soporte local originario de la pérdida del conocimiento reconstruible cuando permanece disponible un código de reinicio adecuado.
+Esta publicación desarrolla una semántica finita y determinista para el aprendizaje trazable en sistemas de inteligencia artificial que operan dentro de un dominio declarado previamente por autoridad humana. El objeto formal central vincula un estado ternario explícito, formado por un *frame* y su vector asociado, con una traza estructural de solo adición y un registro cognitivo. El aprendizaje se define como una evolución estructural que contiene al menos un incremento nuevo y sustentado. El soporte se establece mediante un certificado finito registrado cuyas hojas, aplicaciones de operadores, procedencia e incorporación pueden reconstruirse y comprobarse. La semántica distingue el aprendizaje del razonamiento, la composición, el crecimiento cardinal, la verdad, la mejora y la mera extensión de la traza. Contramodelos finitos establecen que el aprendizaje puede coexistir con la contracción del conocimiento activo y con la transición de una coordenada ternaria previamente resuelta en 0 o 1 de nuevo al valor de no clausura U; que dos vectores locales extremos iguales no determinan si hubo aprendizaje; y que el razonamiento o la composición intercelular pueden producirse con aprendizaje o sin él. La realización de inteligencia artificial impone cuatro invariantes: los mecanismos estadísticos no pueden constituir aprendizaje ni clausura; todos los pasos constitutivos deben ser explícitamente reconstruibles; las transiciones de máquina preservan el fundamento fijado bajo soberanía humana; y no se devuelve una clausura en 0 o 1 salvo que la base declarada la sustente. Una implementación determinista de referencia ejercita las definiciones finitas sobre ejemplos serializados, pero no interviene en el establecimiento de los resultados matemáticos. Un corolario de reconstrucción distingue la pérdida de un soporte local originario de la pérdida del conocimiento reconstruible cuando permanece disponible un código de reinicio adecuado.
 
 **Palabras clave:** aprendizaje trazable; razonamiento automatizado; *frames* ternarios; certificados de soporte; evolución estructural del conocimiento; soberanía humana
 
@@ -20,7 +20,7 @@ El término *aprendizaje* designa procesos formales y computacionales sustancial
 
 > Dadas dos fases declaradas del mismo sistema de IA, ¿en qué condiciones exactas constituye el cambio entre ellas aprendizaje trazable, y no mera ejecución, repetición, pérdida, recodificación, mutación sin soporte o actualización opaca?
 
-Esta publicación desarrolla ese criterio para una clase deliberadamente restringida de sistemas. No pretende formular una teoría universal de la cognición ni propone sustituir el aprendizaje automático estadístico. Estudia, en cambio, sistemas de IA en los que una afirmación de aprendizaje solo es admisible cuando el cambio pertinente es finito, reconstruible, acotado por un dominio y comprobable de manera independiente. La sección 3 vuelve a formular todas las convenciones ternarias, de *frame*, traza y célula necesarias para los resultados, de modo que la publicación pueda leerse con independencia del marco en el que tales convenciones se desarrollaron inicialmente. Las publicaciones anteriores del Sistema Vectorial (SV) se citan únicamente para dejar constancia de la procedencia de ese sustrato [18, 19, 20, 21, 22]; ningún teorema posterior exige importar una definición externa del SV. El nuevo objeto semántico examinado aquí es el *aprendizaje*.
+Esta publicación desarrolla ese criterio para una clase deliberadamente restringida de sistemas. No pretende formular una teoría universal de la cognición ni propone sustituir el aprendizaje automático estadístico. Estudia, en cambio, sistemas de IA en los que una afirmación de aprendizaje solo es admisible cuando el cambio pertinente es finito, reconstruible, acotado por un dominio y comprobable de manera independiente. Se han desarrollado construcciones relacionadas con células ternarias, *frames*, trazas acumulativas, sucesos admisibles y composición intercelular tipada en trabajos anteriores del Sistema Vectorial (SV) [18, 19, 20, 21, 22]. El presente trabajo aborda un problema diferente: establecer un criterio de aprendizaje trazable a nivel de episodio bajo las restricciones estructurales y de autoridad que se definen a continuación.
 
 La proposición motivadora es deliberadamente sencilla: aprender es una evolución del conocimiento desde una fase A hasta una fase B en la que aparece un incremento reconocible dentro de un dominio declarado D. Convertir esa proposición en un criterio ejecutable exige cuatro separaciones. En primer lugar, el conocimiento ha de estar manifestado: un cambio interno que no está parametrizado ni registrado queda fuera del conocimiento formal certificado por el sistema. En segundo lugar, la evolución es estructural y ordinal; el tiempo físico transcurrido no es una primitiva. En tercer lugar, la presencia de un incremento no requiere crecimiento cardinal: una rectificación o una sustitución pueden constituir aprendizaje incluso cuando el conocimiento activo se contrae. En cuarto lugar, el soporte y la clausura no confieren autoridad. Una fuente, un cálculo interno o una conclusión de máquina no adquieren soberanía sobre el fundamento declarado por el ser humano por el mero hecho de estar disponibles o de obtenerse reiteradamente.
 
@@ -48,9 +48,9 @@ El precedente metodológico más próximo para la implementación asociada es la
 
 La verificación de modelos con semántica trivaluada utiliza desde hace tiempo un tercer valor semántico para fórmulas que no pueden decidirse sobre espacios de estados incompletos [16], mientras que las estructuras de sucesos proporcionan una formulación clásica de sucesos, causalidad y conflicto [17]. Son formalismos vecinos pertinentes, pero no se identifican con los objetos ternarios definidos a continuación. En particular, el valor U utilizado aquí no es una probabilidad, una puntuación de confianza, un valor nulo, un código de error ni un punto medio numérico, y tampoco se divide en subclases. Una consulta ternaria legítima devuelve el mismo U irreducible siempre que el procedimiento exhaustivo declarado no sustente ninguna de las dos clausuras fuertes.
 
-Las convenciones de célula, *frame*, traza y composición que se vuelven a formular en la sección 3 poseen una historia documentada en trabajos anteriores del SV [18, 19, 20, 21, 22]. Trabajos separados estudian la no clausura certificada y la autoridad bajo sustitución informacional [23, 24]. Estas citas establecen únicamente genealogía y fronteras de comparación. Esta publicación es formalmente autocontenida: su predicado de aprendizaje, sus testigos, contramodelos y resultado de soberanía utilizan solo definiciones e hipótesis expuestas aquí. La comparación bibliográfica es deliberadamente acotada: la literatura examinada no aporta el mismo predicado a nivel de episodio, pero no se formula una afirmación universal de inexistencia bibliográfica.
+Las construcciones de célula, *frame*, traza y composición empleadas más adelante poseen precedentes en trabajos anteriores del SV [18, 19, 20, 21, 22]. Otros estudios del SV abordan la no clausura certificada y la autoridad bajo sustitución informacional [23, 24]. La contribución desarrollada aquí es la semántica de aprendizaje a nivel de episodio: la evolución estructural se vincula a incrementos históricamente nuevos y sustentados, mientras que el razonamiento, la composición, el estado ternario local y la autoridad de máquina permanecen formalmente diferenciados. La comparación bibliográfica es deliberadamente acotada y no formula una afirmación universal de inexistencia bibliográfica.
 
-## 3. Sustrato formal
+## 3. Marco formal
 
 ### 3.1. Dominios, valores ternarios, células, *frames* y trazas acumulativas
 
@@ -78,7 +78,7 @@ El clasificador celular empleado a lo largo de esta publicación es la aplicaci�
 
 Como T(n) > n/2 para todo n = b² admisible con b ≥ 3, las dos condiciones fuertes de recuento no pueden cumplirse simultáneamente. Las etiquetas son nombres de las tres clasificaciones celulares; no introducen orden ni aritmética sobre Σ.
 
-Un **frame** Fᵣ es una realización manifestada e inmutable de una evaluación celular en el índice ordinal r. Su vector asociado es explícito: una realización proporciona un decodificador determinista y declarado Vec_D que satisface:
+Un ***frame*** Fᵣ es una realización manifestada e inmutable de una evaluación celular en el índice ordinal r. Su vector asociado es explícito: una realización proporciona un decodificador determinista y declarado Vec_D que satisface:
 
 Vec_D(Fᵣ) = vᵣ.
 
@@ -96,7 +96,7 @@ Bᵣ = ((Fᵣ, vᵣ), Γ[0:r]).
 
 El registro cognitivo que se introduce a continuación no es otra copia de Γ: constituye una capa tipada de manifestación cuyos registros apuntan a esta traza acumulativa o a entradas externas admitidas explícitamente. Esta distinción permite que dos episodios compartan los mismos vectores locales extremos y, sin embargo, difieran en su historia cognitiva.
 
-Las convenciones de este apartado son completas para todos los teoremas de esta publicación. Su aparición anterior en el SV constituye procedencia bibliográfica, no una premisa importada [18, 19, 20, 21, 22].
+Formulaciones relacionadas de células ternarias, *frames*, trazas acumulativas y sucesos admisibles aparecen en trabajos anteriores del SV [18, 19, 20, 21, 22].
 
 ### 3.2. Conocimiento manifestado
 
@@ -167,25 +167,25 @@ Así, una sustitución atómica por una forma concreta equivalente desde el punt
 
 La semántica subyacente concierne al conocimiento estructural manifestado. La realización de IA añade una capa de invariantes más estricta.
 
-**Definición 3 (Fundamento bajo soberanía humana).** Para una autoridad humana h y un dominio D, sea F_h^D el objeto que contiene la frontera del dominio declarada por el ser humano, su semántica, el repertorio admisible de operadores, los criterios de clausura y la región certificada de validez V_h^D. La región no es temporal por definición; en una aplicación ordenada concreta puede adoptar la forma de un intervalo.
+**Definición 3 (Fundamento bajo soberanía humana).** Para una autoridad humana h y un dominio D, sea Fₕᴰ el objeto que contiene la frontera del dominio declarada por el ser humano, su semántica, el repertorio admisible de operadores, los criterios de clausura y la región certificada de validez Vₕᴰ. La región no es temporal por definición; en una aplicación ordenada concreta puede adoptar la forma de un intervalo.
 
 Un estado de máquina se escribe:
 
-Aᵣ = (F_h^D, Sᵣ, Trajᵣ),
+Aᵣ = (Fₕᴰ, Sᵣ, Trajᵣ),
 
-siendo Sᵣ = (Knowᵣ, Lᵣ) el estado estructural de conocimiento. El conocimiento inicial contenido en S₀ puede revisarse mediante aprendizaje legítimo. Por el contrario, la máquina carece de autoridad para reescribir el fundamento F_h^D.
+siendo Sᵣ = (Knowᵣ, Lᵣ) el estado estructural de conocimiento. El conocimiento inicial contenido en S₀ puede revisarse mediante aprendizaje legítimo. Por el contrario, la máquina carece de autoridad para reescribir el fundamento Fₕᴰ.
 
-Todo operador de máquina admisible ω ∈ Ω_m^D es una función parcial, determinista y declarada, con dominio, codominio, precondiciones y semántica explícitos, así como con un registro de ejecución reconstruible. Los cuatro invariantes siguientes definen la realización de IA estudiada en este trabajo.
+Todo operador de máquina admisible ω ∈ Ωₘᴰ es una función parcial, determinista y declarada, con dominio, codominio, precondiciones y semántica explícitos, así como con un registro de ejecución reconstruible. Los cuatro invariantes siguientes definen la realización de IA estudiada en este trabajo.
 
 **I₁ — Base no estadística.** Ninguna operación es constitutiva de la semántica de aprendizaje si su validez, selección de candidatos, soporte, veredicto de aprendizaje o clausura dependen de frecuencia empírica, verosimilitud, confianza, muestreo, estimación estadística u optimización de una función de pérdida.
 
-**I₂ — Ausencia de inferencia opaca.** Todo paso constitutivo es una operación matemática finita efectivamente ejecutada, perteneciente al repertorio declarado, realizada dentro de D y V_h^D, y con entradas y salidas reconstruibles.
+**I₂ — Ausencia de inferencia opaca.** Todo paso constitutivo es una operación matemática finita efectivamente ejecutada, perteneciente al repertorio declarado, realizada dentro de D y Vₕᴰ, y con entradas y salidas reconstruibles.
 
 **I₃ — Soberanía humana.** Para toda transición de máquina admisible M, se preserva la proyección del fundamento:
 
-π_F(M(A)) = F_h^D.
+π_F(M(A)) = Fₕᴰ.
 
-Una revisión humana es una operación tipada independiente Rev_h y no pertenece a Ω_m^D. Cada episodio queda anclado a una versión identificada del fundamento. Si Rev_h modifica ese fundamento, el episodio vigente termina y todo episodio posterior se evalúa respecto de la nueva versión; la traza anterior permanece como historia y no se reinterpreta como si la revisión hubiera estado vigente retrospectivamente.
+Una revisión humana es una operación tipada independiente Revₕ y no pertenece a Ωₘᴰ. Cada episodio queda anclado a una versión identificada del fundamento. Si Revₕ modifica ese fundamento, el episodio vigente termina y todo episodio posterior se evalúa respecto de la nueva versión; la traza anterior permanece como historia y no se reinterpreta como si la revisión hubiera estado vigente retrospectivamente.
 
 **I₄ — Clausura ternaria correcta.** Solo se devuelve una conclusión ternaria fuerte cuando la base declarada la clausura. Una consulta legítima que siga sin resolverse después de completar el procedimiento exhaustivo declarado devuelve el único valor U. Una consulta mal formada o fuera de dominio se rechaza, en lugar de traducirse a U.
 
@@ -195,7 +195,7 @@ Una revisión humana es una operación tipada independiente Rev_h y no pertenece
 
 **Definición 4 (Episodio).** Un episodio es el objeto finito:
 
-E[i:j; s,D] = (s, D, F_h^D, Traj[i:j], Sᵢ, Sⱼ, R_E, ρ_E),
+E[i:j; s,D] = (s, D, Fₕᴰ, Traj[i:j], Sᵢ, Sⱼ, R_E, ρ_E),
 
 con i < j como fronteras ordinales declaradas; R_E es un registro finito del episodio que enlaza registros cognitivos con conocimiento previo, entradas externas admitidas, operadores ejecutados y referencias de trayectoria; y ρ_E es una política finita de soporte declarada.
 
@@ -205,7 +205,7 @@ Bᵢ = ((Fᵢ, vᵢ), Γ[0:i]) y Bⱼ = ((Fⱼ, vⱼ), Γ[0:j]).
 
 Los registros cognitivos situados en esas fronteras quedan anclados mediante referencias tipadas de trayectoria. No se presupone una aplicación desde el estado cognitivo completo Knowᵣ al vector local vᵣ: ambas capas comparten episodio y traza, pero codifican información distinta. Esta distinción es esencial para el resultado de insuficiencia de los extremos de la sección 5.3.
 
-Un episodio es admisible cuando están declarados D, s y F_h^D; Traj[i:j] está bien formada; los estados de conocimiento utilizan el mismo esquema declarado de equivalencia de representación; Act_D(Lᵢ) = Knowᵢ y Act_D(Lⱼ) = Knowⱼ; Lᵢ ⪯_D Lⱼ; el sufijo añadido no contiene registros Seed; todo operador invocado está declarado y satisface sus precondiciones; todo registro cognitivo está tipado; toda referencia de trayectoria se resuelve dentro de la traza acumulativa declarada o en una frontera externa admitida explícitamente; y tanto el registro del episodio como la política de soporte son finitos y están bien formados. Estas son condiciones de alcance para los resultados posteriores; no se afirma que constituyan un conjunto mínimo de supuestos.
+Un episodio es admisible cuando están declarados D, s y Fₕᴰ; Traj[i:j] está bien formada; los estados de conocimiento utilizan el mismo esquema declarado de equivalencia de representación; Act_D(Lᵢ) = Knowᵢ y Act_D(Lⱼ) = Knowⱼ; Lᵢ ⪯_D Lⱼ; el sufijo añadido no contiene registros Seed; todo operador invocado está declarado y satisface sus precondiciones; todo registro cognitivo está tipado; toda referencia de trayectoria se resuelve dentro de la traza acumulativa declarada o en una frontera externa admitida explícitamente; y tanto el registro del episodio como la política de soporte son finitos y están bien formados. Estas son condiciones de alcance para los resultados posteriores; no se afirma que constituyan un conjunto mínimo de supuestos.
 
 ### 4.2. Soporte registrado
 
@@ -290,7 +290,7 @@ Un episodio mal formado o fuera de dominio no recibe U; no supera el juicio de e
 
 **Teorema 1 (Terminación y determinismo de la comprobación de episodios).** Sea E un episodio finito admisible tal que: a) la equivalencia de representación es decidible; b) todo testigo de soporte está serializado explícitamente como un grafo finito; c) el registro del episodio es completo respecto de ρ_E bajo la política finita de soporte; y d) todo operador de dominio utilizado por un testigo es una función parcial determinista con precondiciones decidibles. Entonces los predicados Supp_D(a,E), Evol_D(E) y Learn_D(E) son decidibles mediante un verificador determinista que termina.
 
-**Demostración.** El episodio contiene un número finito de registros cognitivos y un número finito de testigos de soporte serializados, cada uno representado mediante un grafo finito. La decidibilidad de la equivalencia de representación produce conjuntos finitos de comparación reducida. Cada testigo puede comprobarse respecto de aciclicidad, tipado de hojas, pertenencia de operadores, satisfacción de precondiciones, reproducción de cada operador determinista, igualdad en la raíz y pertenencia de la incorporación resultante; bajo las hipótesis enunciadas, todas esas comprobaciones terminan. Por tanto, la familia finita de candidatos C_ρE(a) puede enumerarse y comprobarse, lo que hace decidible W_E(a) para cada registro serializado de incorporación a. La extensión exacta por prefijo de registros finitos y los deltas cognitivos de cada registro son igualmente decidibles; en consecuencia, también lo es Evol_D(E). Por último, Inc_D(E) es un conjunto finito filtrado y Learn_D(E) es la conjunción de una proposición decidible con la prueba decidible Inc_D(E) ≠ ∅. El determinismo se sigue de los operadores deterministas junto con las políticas fijas de comparación y soporte. **Q. E. D.**
+**Demostración.** El episodio contiene un número finito de registros cognitivos y un número finito de testigos de soporte serializados, cada uno representado mediante un grafo finito. La decidibilidad de la equivalencia de representación produce conjuntos finitos de comparación reducida. Cada testigo puede comprobarse respecto de aciclicidad, tipado de hojas, pertenencia de operadores, satisfacción de precondiciones, reproducción de cada operador determinista, igualdad en la raíz y pertenencia de la incorporación resultante; bajo las hipótesis enunciadas, todas esas comprobaciones terminan. Por tanto, la familia finita de candidatos C_ρE(a) puede enumerarse y comprobarse, lo que hace decidible W_E(a) para cada registro serializado de incorporación a. La extensión exacta por prefijo de registros finitos y los deltas cognitivos de cada registro son igualmente decidibles; en consecuencia, también lo es Evol_D(E). Por último, Inc_D(E) es un conjunto finito filtrado y Learn_D(E) es la conjunción de una proposición decidible con la prueba decidible Inc_D(E) ≠ ∅. El determinismo se sigue de los operadores deterministas junto con las políticas fijas de comparación y soporte. **C.Q.D.**
 
 No se afirma ninguna cota de complejidad independiente del procedimiento declarado de equivalencia y de los costes de los operadores. La implementación de referencia registra el tamaño serializado de cada objeto comprobado y no realiza búsqueda de teoremas más allá del episodio suministrado.
 
@@ -316,7 +316,7 @@ Admitimos un suceso externo ε y ejecutamos un operador exacto declarado ω_inv(
 
 Knowⱼ = ({α, δ}, ∅, ∅).
 
-Supongamos que los cuatro símbolos son mutuamente no equivalentes bajo ≡rep[D,X]. Extendemos Lᵢ mediante el sufijo finito e inmutable formado por Add_X(δ), con su testigo registrado, seguido de Withdraw_X(β) y Withdraw_X(γ). Por tanto, Lᵢ ⪯_D Lⱼ, y el sufijo añadido contiene un delta cognitivo positivo no vacío y deltas negativos no vacíos; en consecuencia, Evol_D(E) es verdadero. Si q es el ordinal del registro Add_X(δ), entonces [δ] no ha aparecido en la historia cognitiva anterior y esa incorporación posee soporte histórico, de modo que (q, X, [δ]) ∈ Inc_D(E). Se sigue que Learn_D(E) es verdadero. Sin embargo, en la fase final [β] y [γ] están ausentes del contenido activo, lo que establece tanto la falta de inclusión como 2 < 3. **Q. E. D.**
+Supongamos que los cuatro símbolos son mutuamente no equivalentes bajo ≡rep[D,X]. Extendemos Lᵢ mediante el sufijo finito e inmutable formado por Add_X(δ), con su testigo registrado, seguido de Withdraw_X(β) y Withdraw_X(γ). Por tanto, Lᵢ ⪯_D Lⱼ, y el sufijo añadido contiene un delta cognitivo positivo no vacío y deltas negativos no vacíos; en consecuencia, Evol_D(E) es verdadero. Si q es el ordinal del registro Add_X(δ), entonces [δ] no ha aparecido en la historia cognitiva anterior y esa incorporación posee soporte histórico, de modo que (q, X, [δ]) ∈ Inc_D(E). Se sigue que Learn_D(E) es verdadero. Sin embargo, en la fase final [β] y [γ] están ausentes del contenido activo, lo que establece tanto la falta de inclusión como 2 < 3. **C.Q.D.**
 
 Por tanto, el aprendizaje trazable no implica crecimiento cardinal del conocimiento activo ni monotonía por componentes.
 
@@ -336,7 +336,7 @@ En E_R, un nuevo suceso admitido y un operador exacto producen un registro suste
 
 En E_L, la misma transición local de un valor fuerte a U acompaña a una retirada registrada causada exclusivamente por la pérdida de soporte de un elemento activo. No se añade ningún registro cognitivo positivo, de modo que Inc_D(E_L) = ∅. Puede existir evolución estructural por pérdida, pero Learn_D(E_L) es falso.
 
-Como el par (vᵢ, vⱼ) es idéntico en ambos episodios mientras que las proposiciones de aprendizaje difieren, ninguna función del par de extremos locales por sí solo puede decidir correctamente el aprendizaje en ambos. **Q. E. D.**
+Como el par (vᵢ, vⱼ) es idéntico en ambos episodios mientras que las proposiciones de aprendizaje difieren, ninguna función del par de extremos locales por sí solo puede decidir correctamente el aprendizaje en ambos. **C.Q.D.**
 
 Este resultado explica por qué la relación *frame*–traza es semánticamente necesaria: un vector local es solo una proyección del episodio, no un certificado completo de aprendizaje.
 
@@ -353,13 +353,13 @@ Este resultado explica por qué la relación *frame*–traza es semánticamente 
 | E_C | falso | verdadero |
 | E_D | falso | falso |
 
-**Demostración.** Sea ρ(α) = β un operador interno exacto declarado. En E_A, partimos de Xᵢ = {α}, ejecutamos ρ e incorporamos el nuevo β sustentado; ambos predicados son verdaderos. En E_B, partimos de Xᵢ = {α, β} y ejecutamos la misma derivación. El razonamiento queda registrado, pero no se incorpora ningún registro cognitivo positivo históricamente nuevo, por lo que no hay aprendizaje. En E_C, admitimos un observable externo o_γ y aplicamos una transducción de adquisición declarada μ(o_γ) = γ; γ se incorpora sin una derivación interna desde conocimiento previo, por lo que hay aprendizaje, pero no razonamiento interno. Finalmente, en E_D, ejecutamos una transición legítima y no cognitiva del sistema que modifica al menos un parámetro del sistema —como exige el esquema de trayectoria declarado—, pero no modifica ningún registro cognitivo ni ejecuta una derivación interna. Ninguno de los dos predicados es verdadero. **Q. E. D.**
+**Demostración.** Sea ρ(α) = β un operador interno exacto declarado. En E_A, partimos de Xᵢ = {α}, ejecutamos ρ e incorporamos el nuevo β sustentado; ambos predicados son verdaderos. En E_B, partimos de Xᵢ = {α, β} y ejecutamos la misma derivación. El razonamiento queda registrado, pero no se incorpora ningún registro cognitivo positivo históricamente nuevo, por lo que no hay aprendizaje. En E_C, admitimos un observable externo o_γ y aplicamos una transducción de adquisición declarada μ(o_γ) = γ; γ se incorpora sin una derivación interna desde conocimiento previo, por lo que hay aprendizaje, pero no razonamiento interno. Finalmente, en E_D, ejecutamos una transición legítima y no cognitiva del sistema que modifica al menos un parámetro del sistema —como exige el esquema de trayectoria declarado—, pero no modifica ningún registro cognitivo ni ejecuta una derivación interna. Ninguno de los dos predicados es verdadero. **C.Q.D.**
 
 ### 5.5. La composición puede sustentar aprendizaje sin ser aprendizaje
 
-Una composición en serie mantiene formalmente diferenciados la evaluación de la célula fuente, la aplicación del conector, la actualización del puente y la reevaluación de la célula destino. Para la construcción utilizada aquí, una ocurrencia de ejecución e_σ serializa las cuatro etapas y la actualización de trayectoria resultante; no se requiere ninguna definición externa de composición.
+Una composición en serie mantiene formalmente diferenciados la evaluación de la célula fuente, la aplicación del conector, la actualización del puente y la reevaluación de la célula destino. Para la construcción utilizada aquí, una ocurrencia de ejecución e_σ registra las cuatro etapas y la actualización de trayectoria resultante.
 
-Consideremos dos células mínimas admisibles, C₁ y C₂, ambas con base estructural b = 3. Por tanto, cada una tiene n = b² = 9 y T(9) = 7; en la notación del marco de origen corresponden a células SV(9,3). Sea v₁ el vector asociado al *frame* considerado de la célula fuente C₁:
+Consideremos dos células mínimas admisibles, C₁ y C₂, ambas con base estructural b = 3. Por tanto, cada una tiene n = b² = 9 y T(9) = 7. Sea v₁ el vector asociado al *frame* considerado de la célula fuente C₁:
 
 v₁ = (0,0,0,0,0,0,0,0,1),
 
@@ -399,7 +399,7 @@ Exec_σ(E) ⇏ Learn_D(E).
 
 Existen, no obstante, episodios admisibles en los que una ejecución de este tipo participa en un testigo válido de soporte para un incremento aprendido.
 
-**Demostración.** El episodio E⁰ anterior es un contramodelo finito: Exec_σ(E⁰) es verdadero, mientras su conjunto de incrementos está vacío y, por tanto, Learn_D(E⁰) es falso. El episodio E⁺ muestra asimismo que una ejecución del mismo tipo puede participar en un testigo válido de soporte del aprendizaje. **Q. E. D.**
+**Demostración.** El episodio E⁰ anterior es un contramodelo finito: Exec_σ(E⁰) es verdadero, mientras su conjunto de incrementos está vacío y, por tanto, Learn_D(E⁰) es falso. El episodio E⁺ muestra asimismo que una ejecución del mismo tipo puede participar en un testigo válido de soporte del aprendizaje. **C.Q.D.**
 
 Para la atribución, fijemos una ocurrencia concreta de incorporación a_z = Add_τ(z) y definamos CompSupp_σ(a_z,E) cuando al menos un testigo válido registrado para a_z contiene la ocurrencia de ejecución e_σ como nodo de operador.
 
@@ -413,7 +413,7 @@ EssRec_σ(a_z,E) ⇒ CompSupp_σ(a_z,E) ⇒ Exec_σ(E),
 
 mientras que, en general, fallan ambas recíprocas.
 
-**Demostración.** Las implicaciones directas se siguen inmediatamente de las definiciones. La primera recíproca falla en un modelo con dos testigos válidos de soporte para el mismo z, uno de los cuales contiene e_σ y el otro es independiente de esa ejecución. La segunda recíproca falla en E⁰, o en un episodio donde se ejecuta la composición mientras una adquisición externa independiente aporta el único incremento aprendido. **Q. E. D.**
+**Demostración.** Las implicaciones directas se siguen inmediatamente de las definiciones. La primera recíproca falla en un modelo con dos testigos válidos de soporte para el mismo z, uno de los cuales contiene e_σ y el otro es independiente de esa ejecución. La segunda recíproca falla en E⁰, o en un episodio donde se ejecuta la composición mientras una adquisición externa independiente aporta el único incremento aprendido. **C.Q.D.**
 
 La calificación «esencial respecto del registro» es deliberada: la necesidad se establece únicamente respecto del registro completo de soporte declarado y no implica necesidad causal más allá de la evidencia registrada.
 
@@ -425,11 +425,11 @@ A₀ —M₀→ A₁ —M₁→ … —M(q−1)→ A_q
 
 cualquier secuencia finita de transiciones de máquina admisibles, incluidas transiciones cuyos episodios satisfacen Learn_D. Si toda Mᵣ satisface el invariante I₃, entonces:
 
-π_F(A_q) = π_F(A₀) = F_h^D.
+π_F(A_q) = π_F(A₀) = Fₕᴰ.
 
-**Demostración.** Por I₃, π_F(Aᵣ₊₁) = π_F(Aᵣ) para todo r. La inducción sobre la longitud de la secuencia finita de transiciones proporciona, por tanto, la igualdad entre las proyecciones inicial y final del fundamento. **Q. E. D.**
+**Demostración.** Por I₃, π_F(Aᵣ₊₁) = π_F(Aᵣ) para todo r. La inducción sobre la longitud de la secuencia finita de transiciones proporciona, por tanto, la igualdad entre las proyecciones inicial y final del fundamento. **C.Q.D.**
 
-El resultado es independiente de cuánto conocimiento se haya aprendido. En particular, ninguna secuencia finita de transiciones de máquina admisibles puede ejecutar una operación Rev_h que cambie el fundamento en un estado donde dicha operación modifica la proyección π_F. Una máquina puede detectar y registrar un conflicto entre un resultado derivado y F_h^D, pero ese conflicto no le confiere autoridad para modificar F_h^D. La revisión del fundamento exige la operación humana distinta Rev_h, que crea una nueva versión trazable en vez de reescribir silenciosamente la versión histórica.
+El resultado es independiente de cuánto conocimiento se haya aprendido. En particular, ninguna secuencia finita de transiciones de máquina admisibles puede ejecutar una operación Revₕ que cambie el fundamento en un estado donde dicha operación modifica la proyección π_F. Una máquina puede detectar y registrar un conflicto entre un resultado derivado y Fₕᴰ, pero ese conflicto no le confiere autoridad para modificar Fₕᴰ. La revisión del fundamento exige la operación humana distinta Revₕ, que crea una nueva versión trazable en vez de reescribir silenciosamente la versión histórica.
 
 ## 6. Realización mediante célula de conocimiento y reconstrucción
 
@@ -493,9 +493,9 @@ Sea S un soporte local que participó en la formación histórica de una parte d
 
 siempre que Qᵣ y Restart_D sigan siendo suficientes para la reconstrucción afirmada.
 
-**Demostración.** Por hipótesis, Qᵣ está disponible, satisface el criterio de integridad declarado y reconstruye Sᵣ mediante el procedimiento determinista Restart_D. La indisponibilidad de S, por sí sola, no elimina esa vía de reconstrucción. **Q. E. D.**
+**Demostración.** Por hipótesis, Qᵣ está disponible, satisface el criterio de integridad declarado y reconstruye Sᵣ mediante el procedimiento determinista Restart_D. La indisponibilidad de S, por sí sola, no elimina esa vía de reconstrucción. **C.Q.D.**
 
-El corolario no implica que la procedencia sobreviva automáticamente. Si se pretende reconstruir el origen histórico, la procedencia pertinente debe estar también codificada en Qᵣ. Del mismo modo, una nueva demostración descubierta posteriormente para el mismo contenido no se convierte retrospectivamente en el testigo histórico original.
+**Observación (propiedades distintas de continuidad).** El Corolario 1 se refiere únicamente a la reconstruibilidad del estado. No establece que el soporte originario siga disponible, que la procedencia histórica pueda reconstruirse ni que un registro conservado posteriormente sea suficiente para emitir un veredicto operacional fuerte sobre el aprendizaje histórico. Son propiedades distintas. La pérdida de un testigo histórico puede dejar Sᵣ reconstruible y, al mismo tiempo, hacer insuficiente el registro conservado para volver a verificar la relación histórica de soporte. En tal caso, la capa operacional puede devolver U después del procedimiento exhaustivo de acceso declarado sin convertir por ello la proposición histórica Learn_D(E) en su negación. Asimismo, la recuperación de conocimiento previamente representado no constituye un incremento nuevo, salvo que incorpore un contenido, una relación, una ruta o un argumento históricamente no registrados y no equivalentes. Una nueva demostración del mismo contenido tampoco se convierte retrospectivamente en el testigo histórico original.
 
 Una especificación generativa o de reinicio finita puede codificar organización y restricciones sin enumerar explícitamente todos los estados que puedan realizarse posteriormente. Todas las afirmaciones de esta sección dependen únicamente de las condiciones enunciadas de codificación, decodificación, disponibilidad, integridad y reconstrucción.
 
@@ -539,13 +539,13 @@ La semántica restringe, por tanto, qué puede admitirse como operador constitut
 
 Los índices ordinales bastan para las definiciones. Si un dominio registra fechas, duraciones, edades o lecturas de reloj, esas magnitudes son métricas de dominio asociadas a sucesos o *frames*. Modificar una duración de ese tipo manteniendo intacto el mismo episodio estructural finito no altera el veredicto de aprendizaje. La semántica distingue, por tanto, «más adelante en la trayectoria» de «después de una cantidad especificada de tiempo físico».
 
-Un dominio puede, no obstante, incorporar una fecha, una condición de caducidad o una autorización dependiente del reloj dentro de F_h^D; en tal caso, esa condición es un dato ordinario de dominio cuya satisfacción debe comprobar el correspondiente operador declarado, y no una primitiva de la relación de aprendizaje.
+Un dominio puede, no obstante, incorporar una fecha, una condición de caducidad o una autorización dependiente del reloj dentro de Fₕᴰ; en tal caso, esa condición es un dato ordinario de dominio cuya satisfacción debe comprobar el correspondiente operador declarado, y no una primitiva de la relación de aprendizaje.
 
 ### 8.3. Ausencia de reescritura de fundamentos soberanos por la máquina
 
 El resultado de invariancia se refiere exclusivamente a transiciones de máquina admisibles; no establece que el fundamento definido por autoridad humana sea inmutable. Una autoridad humana puede revisar deliberadamente una regla, una frontera de dominio o una hipótesis científica. Tales revisiones quedan fuera de la relación de transiciones de máquina estudiada aquí.
 
-La afirmación más restringida, constitutiva de la realización de IA, es que satisfacer el predicado de aprendizaje no confiere a una transición de máquina autoridad para modificar F_h^D. Una revisión humana mediante Rev_h crea una nueva versión trazable del fundamento, en lugar de una reescritura retrospectiva por la máquina. Los episodios de aprendizaje no atraviesan esa frontera de versión: cada episodio se juzga bajo la versión del fundamento declarada a su entrada, mientras que revisiones posteriores pueden afectar a la admisibilidad futura sin borrar el veredicto histórico alcanzado bajo la versión anterior.
+La afirmación más restringida, constitutiva de la realización de IA, es que satisfacer el predicado de aprendizaje no confiere a una transición de máquina autoridad para modificar Fₕᴰ. Una revisión humana mediante Revₕ crea una nueva versión trazable del fundamento, en lugar de una reescritura retrospectiva por la máquina. Los episodios de aprendizaje no atraviesan esa frontera de versión: cada episodio se juzga bajo la versión del fundamento declarada a su entrada, mientras que revisiones posteriores pueden afectar a la admisibilidad futura sin borrar el veredicto histórico alcanzado bajo la versión anterior.
 
 ### 8.4. Representación y granularidad
 
@@ -553,7 +553,7 @@ La afirmación más restringida, constitutiva de la realización de IA, es que s
 
 Learn_D(E) ⇔ Learn_D(E′).
 
-**Demostración.** Como η es biyectiva y preserva cada delta cognitivo, E posee un delta cognitivo añadido no vacío si, y solo si, E′ lo posee; por tanto, se preserva la evolución estructural. Las clases de incorporación positivas históricamente nuevas se corresponden biyectivamente y, por hipótesis, también se preserva la existencia de soporte, de modo que η induce una biyección entre Inc_D(E) e Inc_D(E′). La equivalencia de los predicados de aprendizaje se sigue de la Definición 9. **Q. E. D.**
+**Demostración.** Como η es biyectiva y preserva cada delta cognitivo, E posee un delta cognitivo añadido no vacío si, y solo si, E′ lo posee; por tanto, se preserva la evolución estructural. Las clases de incorporación positivas históricamente nuevas se corresponden biyectivamente y, por hipótesis, también se preserva la existencia de soporte, de modo que η induce una biyección entre Inc_D(E) e Inc_D(E′). La equivalencia de los predicados de aprendizaje se sigue de la Definición 9. **C.Q.D.**
 
 El resultado se restringe deliberadamente a transformaciones que preservan la estructura. La readquisición de una clase previamente manifestada y posteriormente retirada se clasifica como recuperación, no como segundo incremento de esa clase; una nueva ruta, relación o argumento no equivalentes adquiridos durante la recuperación pueden, sin embargo, constituir un incremento de su propio tipo. No se afirma invariancia bajo recodificaciones arbitrarias con pérdida ni bajo refinamientos arbitrarios de uno a muchos. Si una representación colapsa dos estructuras de conocimiento no equivalentes, la comparación no puede tratarse como exacta.
 
@@ -561,15 +561,17 @@ La teoría trata, por ello, el esquema de manifestación como parte de las condi
 
 ### 8.5. Líneas abiertas
 
-Quedan abiertas varias líneas: custodia distribuida de códigos de reinicio y testigos; conocimiento colectivo o institucional que abarque varios sujetos soberanos; migración formal de realizaciones de células de conocimiento entre sustratos; revisión humana admisible de fundamentos; y teoremas de reconstrucción más fuertes para códigos generativos. Son direcciones de investigación puestas de manifiesto por las distinciones desarrolladas aquí, no resultados reivindicados en esta publicación.
+Las distinciones anteriores delimitan un perímetro específico de investigación sobre custodia y continuidad. Un primer problema consiste en caracterizar esquemas de custodia distribuida para códigos de reinicio, testigos de soporte, registros de procedencia y registros de episodio ante pérdidas parciales. La reconstruibilidad del estado, la reconstruibilidad de la procedencia, la disponibilidad del soporte originario y la suficiencia del registro conservado para emitir posteriormente un veredicto operacional fuerte no tienen por qué desaparecer a la vez. El trabajo futuro deberá determinar las condiciones de conservación de cada propiedad, sus dependencias mutuas y el punto en que la pérdida de evidencia retenida obliga a devolver U en una consulta operacional sin reescribir por ello la proposición histórica de aprendizaje.
+
+Un segundo grupo de problemas comprende el conocimiento colectivo o institucional que abarque varios sujetos soberanos, la migración formal de realizaciones de células de conocimiento entre entornos de ejecución, la revisión de fundamentos autorizada por el ser humano y teoremas de reconstrucción más fuertes para códigos generativos finitos. Estas líneas pueden reutilizar las distinciones establecidas en esta publicación, pero aquí no se reivindica ningún resultado sobre custodia distribuida, aprendizaje colectivo, migración ni conservación bajo pérdida arbitraria.
 
 ## 9. Conclusión
 
-La semántica desarrollada en este trabajo define aprendizaje trazable para una clase acotada de sistemas de IA sin identificar el aprendizaje con entrenamiento estadístico, inferencia opaca, almacenamiento monótono ni automodificación no controlada. La construcción parte de un dominio y un fundamento declarados por autoridad humana, define explícitamente su sustrato ternario de *frame* y traza, añade conocimiento estructural manifestado y un registro cognitivo finito, y exige soporte registrado para todo incremento positivo. El criterio central es:
+La semántica desarrollada en este trabajo define aprendizaje trazable para una clase acotada de sistemas de IA sin identificar el aprendizaje con entrenamiento estadístico, inferencia opaca, almacenamiento monótono ni automodificación no controlada. La construcción parte de un dominio y un fundamento declarados por autoridad humana, define explícitamente la estructura ternaria formada por *frame* y traza, añade conocimiento estructural manifestado y un registro cognitivo finito, y exige soporte registrado para todo incremento positivo. El criterio central es:
 
 Learn_D(E) ⇔ Evol_D(E) ∧ Inc_D(E) ≠ ∅.
 
-Las demostraciones y los contramodelos finitos muestran que el aprendizaje puede incluir rectificación y contracción, que no puede decidirse a partir de los vectores locales extremos por sí solos y que es separable tanto del razonamiento como de la composición. El resultado de soberanía establece que ninguna secuencia finita de transiciones de máquina admisibles —incluidas las que satisfacen el predicado de aprendizaje— reescribe el fundamento humano. El corolario de reconstrucción distingue la pérdida de un soporte local de la pérdida de conocimiento cuando sigue disponible un código de reinicio adecuado. En conjunto, estos resultados proporcionan una base matemática acotada y autocontenida para trabajos posteriores en razonamiento automatizado e IA trazable, sin reivindicar una teoría universal de la cognición.
+Las demostraciones y los contramodelos finitos muestran que el aprendizaje puede incluir rectificación y contracción, que no puede decidirse a partir de los vectores locales extremos por sí solos y que es separable tanto del razonamiento como de la composición. El resultado de soberanía establece que ninguna secuencia finita de transiciones de máquina admisibles —incluidas las que satisfacen el predicado de aprendizaje— reescribe el fundamento humano. El corolario de reconstrucción distingue la pérdida de un soporte local de la pérdida de conocimiento cuando sigue disponible un código de reinicio adecuado. En conjunto, estos resultados establecen un criterio matemático finito de aprendizaje trazable para la clase acotada de sistemas de razonamiento automatizado e IA trazable estudiada aquí, sin reivindicar una teoría universal de la cognición.
 
 
 ## Referencias
