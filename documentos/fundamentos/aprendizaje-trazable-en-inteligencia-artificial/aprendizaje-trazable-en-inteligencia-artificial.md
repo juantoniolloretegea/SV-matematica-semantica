@@ -1,10 +1,7 @@
 # Aprendizaje trazable en inteligencia artificial: evolución estructural del conocimiento con *frames* ternarios y trazas acumulativas
 
-**Autor:** Juan Antonio Lloret Egea  
-**Institución:** Instituto Tecnológico de la Inteligencia Artificial para el Español (ITVIA)  
-**Lugar:** Madrid, España  
-**ORCID:** 0000-0002-6634-3351  
-[**DOI : 10.21428/39829d0b.bebc607c**](https://doi.org/10.21428/39829d0b.bebc607c)  
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 15/08/2026 
+[**DOI** : 10.21428/39829d0b.bebc607c](https://doi.org/10.21428/39829d0b.bebc607c)  
 [**Laboratorio asociado:**](https://github.com/juantoniolloretegea/SV-matematica-semantica/tree/main/documentos/fundamentos/aprendizaje-trazable-en-inteligencia-artificial/laboratorios)
 
 
