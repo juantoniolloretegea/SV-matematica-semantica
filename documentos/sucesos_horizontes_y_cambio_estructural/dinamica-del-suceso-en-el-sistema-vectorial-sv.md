@@ -1,6 +1,4 @@
-# Dinámica del Suceso en el Sistema Vectorial SV
-
-© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 17/08/2026. DOI: 
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 17/08/2026
 
 ---
 
@@ -14,7 +12,7 @@ Esta separación permite distinguir el tramo realizable, la cadena de sucesos de
 
 Cuando cambia el horizonte, el transporte, la persistencia, la reevaluación, la no herencia y la preservación parcial se rigen por los resultados establecidos para regímenes heterogéneos. La continuidad y la equivalencia global no se presumen.
 
-La U es única y no admite tipado. Las clasificaciones de resolubilidad, frontera, criticidad o vecindad califican la situación de una posición respecto de un horizonte; no modifican U ni introducen valores adicionales. La estructura descrita no exige identidad global, composición total, monoide, grupo ni métrica general; tampoco toma el tiempo canónico o la probabilidad como primitivas.
+U es uno de los tres valores del alfabeto Σ y no admite subtipos. Las clasificaciones de resolubilidad, frontera, criticidad o vecindad recaen sobre posiciones cuyo valor es U y dependen del horizonte declarado; no modifican U ni amplían el alfabeto. La estructura descrita no exige identidad global, composición total, monoide, grupo ni métrica general; tampoco toma el tiempo canónico o la probabilidad como primitivas.
 
 **Palabras clave:** Sistema Vectorial SV; Suceso; suceso admisible; *frame*; horizonte; U; reevaluación; cadena realizable; HNA; *append-only*.
 
@@ -26,11 +24,15 @@ El Sistema Vectorial SV utiliza el alfabeto Σ = {0, 1, U} [1–3]. Una célula 
 
 El *frame* representa una configuración celular; no es un suceso. Por ello, S(a) = S(b) no implica identidad de los sucesos ni de los recorridos asociados a ambas configuraciones. Esta distinción resulta asimismo necesaria en la recurrencia estructural, donde puede repetirse una configuración visible sin repetirse el suceso [15].
 
-### 1.1. U única y no tipada
+### 1.1. Unicidad de U y clasificación contextual de las posiciones
 
-La U conserva un único estatuto dentro de Σ. No existen subtipos de U. Si una posición p satisface S(p) = U, su situación puede clasificarse respecto de un horizonte declarado —por ejemplo, como resoluble, fronteriza o irreducible según [13]— sin alterar su valor. Las nociones de criticidad, vecindad u otras propiedades contextuales califican igualmente la posición o su situación en el horizonte, no a U.
+El alfabeto Σ contiene exactamente tres valores: 0, 1 y U. U es un único valor de Σ y no admite subtipos.
 
-Una U genuina no es probabilidad ni mero estado pendiente, ni representa una transición en curso. Expresa no clausura tras el agotamiento trazable de las vías admisibles disponibles en el dominio y horizonte declarados [2,3,13].
+En [13], la función Γ_H se aplica a una posición i cuyo valor es U y devuelve una de tres categorías: irreducible, fronteriza o resoluble. Las definiciones subsiguientes reúnen los índices de las posiciones en tres conjuntos según el resultado de Γ_H. La clasificación recae, por tanto, sobre la posición respecto del horizonte declarado, no sobre U.
+
+En [14] se emplea después la formulación según la cual una posición pᵢ = U puede tipificarse y aparecen las expresiones «U irreducible», «U fronteriza» y «U resoluble». Este trabajo adopta un refinamiento terminológico de esa formulación: tales expresiones designan posiciones con valor U clasificadas por Γ_H; no constituyen valores distintos, variantes ni clases de U. El alfabeto permanece Σ = {0, 1, U}. El mismo criterio se aplica a la criticidad, la vecindad y cualquier otra propiedad contextual: califican la posición o su situación respecto del horizonte, no a U.
+
+La asignación legítima de U a una posición no expresa probabilidad, espera, transición en curso ni simple cálculo pendiente. Expresa no clausura tras el agotamiento trazable de las vías admisibles disponibles en el dominio y horizonte declarados [2,3,13].
 
 ---
 
@@ -157,7 +159,7 @@ La identidad corresponde al caso escalar de un recorrido realizado. Las formas m
 
 ---
 
-## 8. Persistencia *append-only*, HNA y bifurcación
+## 8. Persistencia append-only, HNA y bifurcación
 
 El teorema HNA se aplica a una misma trayectoria canónica *append-only* [13,14].
 
@@ -201,7 +203,7 @@ Si una reevaluación modifica el conjunto de posiciones, su identificación o la
 
 El transporte entre horizontes debe quedar declarado en el régimen correspondiente. Si no se declara un transporte, no se establece identidad entre posiciones pertenecientes a horizontes distintos.
 
-La repetición de un mismo *frame* visible tampoco implica identidad de suceso. Los resultados de [15] admiten configuraciones iguales asociadas a activaciones distintas; por tanto, S(a) = S(b) no implica e(a) = e(b), ni la igualdad de la configuración visible identifica por sí sola el activador que la acompaña. Esto es compatible con HNA: la persistencia impide que una posición clausurada recupere U dentro de una misma trayectoria canónica, pero no impide que recorridos estructuralmente distintos presenten la misma configuración visible.
+La repetición de un mismo *frame* visible tampoco implica identidad de suceso ni de activación. En el régimen de recurrencia estructural de [15] puede cumplirse v(Sₙ) = v(S₀) con εₙ ≠ ε₀. La distinción entre ambas comparecencias depende de la evaluación o trayectoria a la que pertenecen y, cuando el régimen indexa activaciones, del activador asociado; no del *frame* considerado aisladamente. Esto es compatible con HNA: la persistencia impide que una posición clausurada recupere U dentro de una misma trayectoria canónica, pero no impide que evaluaciones o recorridos estructuralmente distintos presenten la misma configuración visible.
 
 ---
 
@@ -223,7 +225,7 @@ Estas relaciones no exigen identidad global, composición total, monoide, grupo 
 
 La dinámica del Suceso distingue la ejecución de una reevaluación de la constitución de un suceso admisible; distingue asimismo la composición local de la existencia de un recorrido común. HNA, la bifurcación, la aciclicidad del régimen estricto de clausura de U y el transporte declarado entre horizontes completan esa dinámica sin introducir estructuras más fuertes de las necesarias.
 
-La U permanece única y no tipada. La igualdad entre *frames* no determina identidad de suceso ni de activación. Con estas relaciones queda descrita la dinámica general del Suceso en el Sistema Vectorial SV.
+U permanece como un único valor de Σ; las clasificaciones contextuales recaen sobre posiciones, no sobre U. La igualdad entre *frames* no determina identidad de suceso ni de activación. Con estas relaciones queda descrita la dinámica general del Suceso en el Sistema Vectorial SV.
 
 ---
 
