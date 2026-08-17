@@ -1,9 +1,7 @@
 # Dinámica del Suceso - Sistema Vectorial SV
 
-**Juan Antonio Lloret Egea**  
-Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español® (ITVIA)  
-ORCID: 0000-0002-6634-3351  
-Madrid, 17 de agosto de 2026  
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados.  
+ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411  | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión.  Madrid, 17/08/2026 |  
 
 **DOI:** 10.21428/39829d0b.8ea18396  
 **URL canónica:** https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/sucesos_horizontes_y_cambio_estructural/dinamica-del-suceso-sistema-vectorial-sv.md
@@ -309,8 +307,3 @@ U permanece como un único valor de Σ. Las clasificaciones contextuales recaen 
 [15] Lloret Egea, J. A. (2026). *Conjunto matemático unificado del cambio factual, ciclos, medición factual y trayectorias poligonales de activación en el Sistema Vectorial SV*. DOI: 10.21428/39829d0b.2b3c9808.
 
 ---
-
-© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados.  
-ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411  
-Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión.  
-Madrid, 17/08/2026
