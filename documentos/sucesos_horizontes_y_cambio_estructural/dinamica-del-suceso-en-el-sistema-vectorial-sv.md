@@ -1,7 +1,7 @@
 # Dinámica del Suceso - Sistema Vectorial SV
 
 © 2026 Juan Antonio Lloret Egea. Algunos derechos reservados.  
-ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411  | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión.  Madrid, 17/08/2026 |  
+ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411| Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión. | Madrid, 17/08/2026.
 
 **DOI:** 10.21428/39829d0b.8ea18396  
 **URL canónica:** https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/sucesos_horizontes_y_cambio_estructural/dinamica-del-suceso-sistema-vectorial-sv.md
@@ -20,7 +20,7 @@ HNA preserva las posiciones clausuradas dentro de una misma trayectoria *append-
 
 Los cambios de horizonte quedan sujetos a persistencia, reevaluación, no herencia, transporte declarado y preservación local<sup>[9–12]</sup>; no se presume continuidad ni equivalencia global. La recurrencia estructural permite, además, que una configuración visible vuelva a aparecer con una activación distinta<sup>[15]</sup>, por lo que la identidad del *frame* no determina la identidad del suceso ni de la activación.
 
-U sigue siendo uno de los tres valores de `Σ = {0, 1, U}`<sup>[1–3]</sup> y no admite subtipos. Las clasificaciones irreducible, fronteriza y resoluble definidas en<sup>[13]</sup>, así como otras propiedades contextuales, califican posiciones cuyo valor es U respecto del horizonte declarado; no modifican U ni amplían el alfabeto.
+U sigue siendo uno de los tres valores de `Σ = {0, 1, U}`<sup>[1–3]</sup> y no admite subtipos. Las clasificaciones irreducible, fronteriza y resoluble definidas en [13], así como otras propiedades contextuales, califican posiciones cuyo valor es U respecto del horizonte declarado; no modifican U ni amplían el alfabeto.
 
 El resultado es una dinámica general en la que configuración, dato de transición, reevaluación, suceso admisible, realización y cadena quedan formalmente relacionados sin exigir identidad global, composición total, monoide, grupo, métrica general, tiempo ni probabilidad como primitivas.
 
@@ -40,7 +40,7 @@ El alfabeto Σ contiene exactamente tres valores: 0, 1 y U. U es un único valor
 
 La función `Γ_H` clasifica cada posición cuyo valor es U respecto del horizonte declarado como irreducible, fronteriza o resoluble<sup>[13]</sup>. Las tres clases resultantes son conjuntos de posiciones; no son clases de U. El valor de cada una de esas posiciones continúa siendo U.
 
-En<sup>[14]</sup> aparecen también las expresiones «U irreducible», «U fronteriza» y «U resoluble». Conforme a la definición formal de `Γ_H` de<sup>[13]</sup>, esas expresiones se entienden aquí como abreviaturas de «posición con valor U clasificada como irreducible, fronteriza o resoluble». El alfabeto permanece `Σ = {0, 1, U}`. La criticidad, la vecindad y cualquier otra propiedad contextual se predican igualmente de la posición o de su situación respecto del horizonte, no de U.
+En [14] aparecen también las expresiones «U irreducible», «U fronteriza» y «U resoluble». Conforme a la definición formal de `Γ_H` de [13], esas expresiones se entienden aquí como abreviaturas de «posición con valor U clasificada como irreducible, fronteriza o resoluble». El alfabeto permanece `Σ = {0, 1, U}`. La criticidad, la vecindad y cualquier otra propiedad contextual se predican igualmente de la posición o de su situación respecto del horizonte, no de U.
 
 La asignación legítima de U a una posición no expresa probabilidad, espera, transición en curso ni simple cálculo pendiente. Expresa no clausura después del agotamiento trazable de las vías admisibles disponibles en el dominio y horizonte declarados<sup>[2,3,13]</sup>.
 
@@ -54,9 +54,9 @@ En el álgebra de composición intercelular se define el horizonte de tipos de s
 
 VII.1 define, por otra parte, el horizonte estructural `H = (Iₕ, ≼ₕ, Xₕ, 𝒜ₕ)`, que determina las posiciones disponibles, la relación interna declarada, el espacio de configuraciones legibles y la familia de observables<sup>[6]</sup>.
 
-Por tanto, `ℋ(𝒜)`, `H`, `εᵢ`, `τᵢ`, `νₙ`, `S`, `e` y `Rₑ` son objetos distintos. En particular, el dato de transición `ν` puede inducir una reevaluación en la arquitectura de<sup>[4]</sup>, pero no se identifica con el suceso admisible `e` de VII.1<sup>[6]</sup>.
+Por tanto, `ℋ(𝒜)`, `H`, `εᵢ`, `τᵢ`, `νₙ`, `S`, `e` y `Rₑ` son objetos distintos. En particular, el dato de transición `ν` puede inducir una reevaluación en la arquitectura de [4], pero no se identifica con el suceso admisible `e` de VII.1<sup>[6]</sup>.
 
-La notación debe conservar el significado del régimen en que fue definida. Así, `εᵢ` es un tipo de suceso en<sup>[4]</sup>, mientras que en el régimen de recurrencia de<sup>[15]</sup> `εₖ` designa un activador indexado. La coincidencia de letra no identifica ambos objetos. Del mismo modo, los usos posteriores de `ν` no convierten el dato de transición de<sup>[4]</sup> en el suceso admisible de VII.1<sup>[14,15]</sup>.
+La notación debe conservar el significado del régimen en que fue definida. Así, `εᵢ` es un tipo de suceso en [4], mientras que en el régimen de recurrencia de [15] `εₖ` designa un activador indexado. La coincidencia de letra no identifica ambos objetos. Del mismo modo, los usos posteriores de `ν` no convierten el dato de transición de [4] en el suceso admisible de VII.1<sup>[14,15]</sup>.
 
 ---
 
@@ -214,7 +214,7 @@ La afirmación se limita a la misma trayectoria. Si cambia la trayectoria o si c
 
 ### 8.2. Bifurcación
 
-La bifurcación definida en<sup>[13]</sup> permite que dos trayectorias compartan un prefijo ya constituido y diverjan después mediante datos de transición distintos. El prefijo común se conserva: la trayectoria nueva no modifica retrospectivamente la anterior.
+La bifurcación definida en [13] permite que dos trayectorias compartan un prefijo ya constituido y diverjan después mediante datos de transición distintos. El prefijo común se conserva: la trayectoria nueva no modifica retrospectivamente la anterior.
 
 ---
 
@@ -246,7 +246,7 @@ El cambio de horizonte no autoriza a presumir continuidad. VII.4 distingue persi
 
 En consecuencia, una posición del horizonte de partida no se identifica por defecto con una posición del horizonte resultante. Esa identificación sólo puede afirmarse cuando existe el transporte correspondiente<sup>[10,11]</sup>.
 
-La repetición de un mismo *frame* visible tampoco implica identidad de suceso ni de activación. En la notación del régimen de recurrencia estructural de<sup>[15]</sup> puede cumplirse `v(Sₙ) = v(S₀)` con `εₙ ≠ ε₀`. La igualdad de la configuración visible no determina, por sí sola, la evaluación, la trayectoria ni el activador asociados. Esta posibilidad es compatible con HNA: una posición clausurada no se reabre dentro de la misma trayectoria, pero evaluaciones o recorridos distintos pueden presentar la misma configuración visible<sup>[13–15]</sup>.
+La repetición de un mismo *frame* visible tampoco implica identidad de suceso ni de activación. En la notación del régimen de recurrencia estructural de [15] puede cumplirse `v(Sₙ) = v(S₀)` con `εₙ ≠ ε₀`. La igualdad de la configuración visible no determina, por sí sola, la evaluación, la trayectoria ni el activador asociados. Esta posibilidad es compatible con HNA: una posición clausurada no se reabre dentro de la misma trayectoria, pero evaluaciones o recorridos distintos pueden presentar la misma configuración visible<sup>[13–15]</sup>.
 
 ---
 
@@ -254,13 +254,13 @@ La repetición de un mismo *frame* visible tampoco implica identidad de suceso n
 
 Los resultados anteriores permiten establecer cinco relaciones principales:
 
-1. **Separación de objetos.** El *frame* y el dato de transición se definen en<sup>[1,4]</sup>; el horizonte estructural, el suceso admisible y el operador de reevaluación, en VII.1<sup>[6]</sup>. La dinámica exige conservar esas diferencias.
-2. **Separación entre composición y suceso.** Las Definiciones 4.1 y 4.2 precisan cuándo existe una reevaluación compuesta; el Teorema 5.1 demuestra que esa existencia no basta para constituir un suceso. La admisibilidad del compuesto vuelve a depender de A1–A6<sup>[6]</sup>.
-3. **Separación entre composición local y recorrido.** VII.3 establece las condiciones de cadena<sup>[8]</sup>. El tramo realizable y la cadena realizable añaden la existencia de un testigo común. La Proposición 6.2 demuestra que la composición por pares no garantiza ese testigo.
-4. **Persistencia, bifurcación y aciclicidad restringida.** HNA y la bifurcación proceden de<sup>[13,14]</sup>. Sobre HNA y la realizabilidad, el Teorema 9.2 demuestra la aciclicidad del régimen estricto de habilitación por clausura de U.
-5. **Cambio de horizonte e identidad.** El tránsito entre horizontes queda sometido a las condiciones de persistencia, enlace, transporte y preservación de<sup>[9–12]</sup>. La recurrencia de<sup>[15]</sup> demuestra que la igualdad de *frames* no determina identidad de activación.
+1. **Separación de objetos.** El *frame* y el dato de transición se definen en [1,4]; el horizonte estructural, el suceso admisible y el operador de reevaluación, en VII.1 [6]. La dinámica exige conservar esas diferencias.
+2. **Separación entre composición y suceso.** Las Definiciones 4.1 y 4.2 precisan cuándo existe una reevaluación compuesta; el Teorema 5.1 demuestra que esa existencia no basta para constituir un suceso. La admisibilidad del compuesto vuelve a depender de A1–A6 [6].
+3. **Separación entre composición local y recorrido.** VII.3 establece las condiciones de cadena [8]. El tramo realizable y la cadena realizable añaden la existencia de un testigo común. La Proposición 6.2 demuestra que la composición por pares no garantiza ese testigo.
+4. **Persistencia, bifurcación y aciclicidad restringida.** HNA y la bifurcación proceden de [13,14]. Sobre HNA y la realizabilidad, el Teorema 9.2 demuestra la aciclicidad del régimen estricto de habilitación por clausura de U.
+5. **Cambio de horizonte e identidad.** El tránsito entre horizontes queda sometido a las condiciones de persistencia, enlace, transporte y preservación de [9–12]. La recurrencia de [15] demuestra que la igualdad de *frames* no determina identidad de activación.
 
-Estas relaciones no exigen identidad global, composición total, monoide, grupo ni métrica general. Tampoco toman el tiempo como primitiva<sup>[5,12]</sup> ni la probabilidad como fundamento de la clausura<sup>[1–3]</sup>.
+Estas relaciones no exigen identidad global, composición total, monoide, grupo ni métrica general. Tampoco toman el tiempo como primitiva [5,12] ni la probabilidad como fundamento de la clausura [1–3].
 
 ---
 
@@ -307,3 +307,4 @@ U permanece como un único valor de Σ. Las clasificaciones contextuales recaen 
 [15] Lloret Egea, J. A. (2026). *Conjunto matemático unificado del cambio factual, ciclos, medición factual y trayectorias poligonales de activación en el Sistema Vectorial SV*. DOI: 10.21428/39829d0b.2b3c9808.
 
 ---
+
