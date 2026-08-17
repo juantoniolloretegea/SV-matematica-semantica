@@ -4,7 +4,7 @@
 ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ — La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión. | Madrid, 17/08/2026.
 
 **DOI:** 10.21428/39829d0b.8ea18396  
-**URL canónica:** https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/sucesos_horizontes_y_cambio_estructural/dinamica-del-suceso-sistema-vectorial-sv.md
+**URL canónica:** https://github.com/juantoniolloretegea/SV-matematica-semantica/blob/main/documentos/sucesos_horizontes_y_cambio_estructural/dinamica-del-suceso-sistema-vectorial-sv/dinamica-del-suceso-sistema-vectorial-sv.md
 
 ---
 
