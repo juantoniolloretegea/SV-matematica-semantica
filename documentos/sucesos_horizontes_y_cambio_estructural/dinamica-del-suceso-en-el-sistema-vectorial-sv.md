@@ -1,6 +1,9 @@
 # Dinámica del Suceso en el Sistema Vectorial SV
 
-© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 17/08/2026
+**Juan Antonio Lloret Egea**
+Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español® (ITVIA)
+ORCID: 0000-0002-6634-3351
+Madrid, 17 de agosto de 2026
 
 ---
 
@@ -28,7 +31,7 @@ Las referencias indican la procedencia de las nociones heredadas. Las definicion
 
 El Sistema Vectorial SV utiliza el alfabeto Σ = {0, 1, U} [1–3]. Una célula de base b dispone de n = b² posiciones y una configuración, denominada *frame* en el SV, es S = (s₁, …, sₙ) ∈ Σⁿ. La instancia canónica de primer nivel es SV(9,3), sin que la dinámica general quede restringida a nueve posiciones [1,4].
 
-Los fundamentos fijan el *frame* como configuración celular [1], mientras que VII.1 define el suceso como una cuaterna que actúa sobre configuraciones legibles [6]. Por ello, el *frame* no es el suceso: S(a) = S(b) no implica identidad de los sucesos ni de los recorridos asociados a ambas configuraciones. La misma separación reaparece en la recurrencia estructural, donde puede repetirse una configuración visible con activaciones distintas [15].
+Los fundamentos fijan el *frame* como configuración celular [1], mientras que VII.1 define el suceso como una cuaterna que actúa sobre configuraciones legibles [6]. Por ello, el *frame* no es el suceso: dos evaluaciones pueden presentar la misma configuración visible sin constituir el mismo suceso ni pertenecer al mismo recorrido. La misma separación reaparece en la recurrencia estructural, donde una configuración visible puede repetirse con activaciones distintas [15].
 
 ### 1.1. Unicidad de U y clasificación contextual de las posiciones
 
@@ -62,8 +65,8 @@ VII.1 define el suceso admisible como la cuaterna e = (H, H′, σ, Rₑ), donde
 2. **A2 — dominio no vacío y operador bien tipado.**
 3. **A3 — legibilidad de la entrada y de la salida.**
 4. **A4 — no trivialidad del suceso:** existe un observable compatible F y un punto x ∈ Dₑ tales que F_H′(Rₑ(x)) − F_H(x) ≠ 0.
-5. **A5 — control exterior parcial.**
-6. **A6 — compatibilidad observacional declarada.**
+5. **A5 — control exterior parcial:** existe al menos un control Cₑ = (Jₑ, θₑ), con Jₑ ⊆ I_H ∖ σ y una aplicación parcial θₑ : Jₑ → I_H′, de modo que la región exterior declarada no desaparezca del análisis sin correspondencia formal.
+6. **A6 — compatibilidad observacional declarada:** la comparación entre las lecturas F_H y F_H′ sólo puede invocarse cuando la familia observacional ha sido declarada compatible entre los horizontes considerados.
 
 Estas seis condiciones pertenecen a la definición de admisibilidad de VII.1 [6]. En particular, A4 excluye como suceso una transformación que no produzca variación en ningún observable compatible dentro del dominio y alcance declarados [6].
 
@@ -71,7 +74,7 @@ Estas seis condiciones pertenecen a la definición de admisibilidad de VII.1 [6]
 
 ## 4. Composición de reevaluaciones
 
-VII.1 asocia a cada suceso admisible eₖ un operador de reevaluación Rₖ con dominio declarado [6]. Sean eₖ = (Hₖ₋₁, Hₖ, σₖ, Rₖ), para k = 1, …, m, sucesos admisibles tales que el horizonte de llegada de cada eₖ coincide con el horizonte de partida de eₖ₊₁. Las Definiciones 4.1 y 4.2 formalizan en este trabajo cuándo esa sucesión de operadores puede ejecutarse sobre un mismo estado inicial.
+VII.1 asocia a cada suceso admisible eₖ un operador de reevaluación Rₖ con dominio declarado y deja abierta la composición parcial de sucesos [6]. Sean eₖ = (Hₖ₋₁, Hₖ, σₖ, Rₖ), para k = 1, …, m, sucesos admisibles tales que el horizonte de llegada de cada eₖ coincide con el horizonte de partida de eₖ₊₁. Las Definiciones 4.1 y 4.2 formalizan en este trabajo cuándo esa sucesión de operadores puede ejecutarse sobre un mismo estado inicial.
 
 ### Definición 4.1. Dominio efectivo
 
@@ -109,7 +112,7 @@ El contraejemplo pertenece a la capa operatoria de VII.1; no se presenta como un
 
 ### Criterio 5.2. Constitución del compuesto como suceso
 
-Por la definición de suceso admisible de VII.1 [6], una reevaluación compuesta constituye un nuevo suceso si y sólo si la cuaterna correspondiente satisface de nuevo A1–A6. En particular, que R₁…ₘ esté definido no implica que e₁…ₘ sea admisible. La composición parcial exige dos comprobaciones independientes: la existencia de la reevaluación compuesta y la admisibilidad de la cuaterna resultante.
+Por la definición de suceso admisible de VII.1 [6], una reevaluación compuesta constituye un nuevo suceso si y sólo si la cuaterna correspondiente satisface de nuevo A1–A6. En particular, que R₁…ₘ esté definido no implica que e₁…ₘ sea admisible. Quedan así separadas las dos cuestiones que intervienen en la composición parcial: primero, si la sucesión de operadores está definida sobre algún estado inicial común; segundo, si el resultado reúne nuevamente las condiciones que permiten llamarlo suceso admisible.
 
 ### 5.3. Soporte efectivo con índices comunes
 
@@ -143,7 +146,7 @@ VII.3 define una cadena de sucesos admisibles mediante cuatro condiciones: compo
 
 ### Definición 6.4. Cadena realizable
 
-La noción de cadena realizable se introduce aquí para añadir a la cadena de VII.3 [8] un testigo material común: una cadena realizable es una cadena en ese sentido que, además, satisface D₁…ₘ ≠ ∅. Esta condición aporta el testigo común necesario para representar un recorrido efectivo x₀ ↦ x₁ ↦ ⋯ ↦ xₘ.
+La noción de cadena realizable se introduce aquí para añadir a la cadena de VII.3 [8] una condición que VII.3 no expresa por sí sola: la existencia de un testigo común para toda la sucesión. Así, una cadena realizable es una cadena en el sentido de VII.3 que, además, satisface D₁…ₘ ≠ ∅ y permite representar un único recorrido efectivo x₀ ↦ x₁ ↦ ⋯ ↦ xₘ.
 
 Una cadena realizable no constituye necesariamente un único suceso compuesto. Para que la cuaterna asociada al recorrido sea además un suceso compuesto debe satisfacer A1–A6 de VII.1 [6]; en particular, A4 exige que la lectura final de algún observable compatible difiera de su lectura inicial.
 
@@ -151,7 +154,7 @@ Una cadena realizable no constituye necesariamente un único suceso compuesto. P
 
 ## 7. Aditividad sobre recorridos realizados
 
-VII.3 exige que una cadena declare un criterio de lectura acumulativa y transporte suficiente de observables [8]. En el caso escalar en que esas lecturas son compatibles a lo largo de una cadena realizable, sea xₖ = Rₖ(xₖ₋₁) y denotemos por Fₖ la lectura del observable en el horizonte Hₖ.
+VII.3 exige que una cadena declare un criterio de lectura acumulativa y transporte suficiente de observables [8]. El Teorema 7.1 fija, dentro de ese marco, el caso escalar de una cadena realizable: sea xₖ = Rₖ(xₖ₋₁) y denotemos por Fₖ la lectura compatible del observable en el horizonte Hₖ.
 
 ### Teorema 7.1. Identidad telescópica de la variación observable
 
@@ -167,7 +170,7 @@ La identidad corresponde al caso escalar de un recorrido realizado. Las formas m
 
 ## 8. Persistencia append-only, HNA y bifurcación
 
-HNA es un teorema ya demostrado en el corpus para una misma trayectoria canónica *append-only* [13,14]. El Teorema 8.1 expresa ese resultado en la notación utilizada aquí.
+HNA es un teorema ya demostrado en el corpus para una misma trayectoria canónica *append-only* [13,14]. El Teorema 8.1 lo enuncia en la notación empleada en este trabajo.
 
 ### Teorema 8.1. Persistencia de una posición clausurada
 
@@ -183,7 +186,7 @@ La semántica de *fork* de [13] permite que dos trayectorias compartan un prefij
 
 ## 9. Precedencia y cadenas estrictas de habilitación
 
-VII.2 define comparabilidad, afectación y precedencia entre sucesos admisibles [7]. El requisito adicional de realización conjunta pertenece a este trabajo: cuando se afirma una trayectoria efectiva, las relaciones establecidas por pares deben poder sostenerse sobre un mismo recorrido.
+VII.2 define comparabilidad, afectación y precedencia entre sucesos admisibles [7]. Esas relaciones pueden establecerse por pares. Este trabajo añade una condición distinta cuando se afirma una trayectoria efectiva: debe existir un mismo recorrido que realice conjuntamente los pasos considerados. La precedencia relacional de VII.2 y la realizabilidad del recorrido no se identifican.
 
 ### Definición 9.1. Número de posiciones con valor U
 
@@ -207,7 +210,7 @@ El Teorema 9.2 se refiere exclusivamente a cadenas realizables de habilitación 
 
 Si una reevaluación modifica el conjunto de posiciones, su identificación o la familia de observables, la continuidad entre horizontes no se presume [5,12]. VII.4 distingue persistencia, reevaluación y no herencia [9]; VII.5 formaliza el enlace tipado entre regímenes [10]; y VII.6 restringe la preservación, la invariancia y la equivalencia a los subdominios en los que se han establecido [11].
 
-VII.5 y VII.6 sólo sostienen transporte, preservación o equivalencia sobre dominios y familias expresamente declarados [10,11]. Por ello, si no se declara un transporte, no se establece identidad entre posiciones pertenecientes a horizontes distintos.
+VII.5 y VII.6 sólo sostienen transporte, preservación o equivalencia sobre dominios y familias expresamente declarados [10,11]. En ausencia de ese transporte, la dinámica no puede identificar por defecto una posición del horizonte de partida con otra del horizonte resultante.
 
 La repetición de un mismo *frame* visible tampoco implica identidad de suceso ni de activación. En el régimen de recurrencia estructural de [15] puede cumplirse v(Sₙ) = v(S₀) con εₙ ≠ ε₀. La distinción entre ambas comparecencias depende de la evaluación o trayectoria a la que pertenecen y, cuando el régimen indexa activaciones, del activador asociado; no del *frame* considerado aisladamente. Esto es compatible con HNA: la persistencia impide que una posición clausurada recupere U dentro de una misma trayectoria canónica, pero no impide que evaluaciones o recorridos estructuralmente distintos presenten la misma configuración visible.
 
@@ -215,7 +218,7 @@ La repetición de un mismo *frame* visible tampoco implica identidad de suceso n
 
 ## 11. Síntesis estructural
 
-La dinámica general del Suceso queda caracterizada por cinco relaciones fundamentales:
+Los resultados anteriores permiten resumir la dinámica general del Suceso en cinco relaciones:
 
 1. **Separación de objetos:** el *frame* y el dato de transición proceden de [1,4], mientras que horizonte estructural, suceso admisible y operador de reevaluación proceden de VII.1 [6]. Estos objetos conservan su identidad matemática propia.
 2. **Separación entre operación y suceso:** la composición funcional de los operadores se desarrolla en §§4–5; el compuesto sólo constituye un suceso cuando satisface las seis condiciones A1–A6 de VII.1 [6].
@@ -229,9 +232,9 @@ Estas relaciones no exigen identidad global, composición total, monoide, grupo 
 
 ## 12. Conclusión
 
-La dinámica del Suceso distingue la ejecución de una reevaluación de la constitución de un suceso admisible; distingue asimismo la composición local de la existencia de un recorrido común. HNA y la bifurcación proceden de [13,14]; la aciclicidad del régimen estricto de clausura de U se demuestra en §9; y el transporte declarado entre horizontes se apoya en VII.4–VII.6 [9–11].
+La dinámica del Suceso distingue la ejecución de una reevaluación de la constitución de un suceso admisible y separa la composición local de la existencia de un recorrido común. HNA y la bifurcación se reciben de [13,14]; la aciclicidad del régimen estricto de clausura de U se demuestra en §9; y el cambio de horizonte queda sujeto al transporte y a las condiciones de preservación establecidas en VII.4–VII.6 [9–11].
 
-U permanece como un único valor de Σ; las clasificaciones contextuales recaen sobre posiciones, no sobre U. La igualdad entre *frames* no determina identidad de suceso ni de activación. Con estas relaciones queda descrita la dinámica general del Suceso en el Sistema Vectorial SV.
+U permanece como un único valor de Σ y las clasificaciones contextuales recaen sobre posiciones, no sobre U. La igualdad de *frames* no determina identidad de suceso ni de activación. La estructura resultante describe la dinámica general del Suceso sin exigir continuidad global, tiempo canónico, probabilidad ni una composición total de sucesos.
 
 ---
 
