@@ -6,7 +6,7 @@
 **Correo electrónico:** juanantoniolloret@itvia.es  
 **Fecha:** 20 de agosto de 2026  
 **Estado editorial:** versión original del autor; prepublicación no revisada por pares  
-**DOI:** pendiente de asignación
+**DOI:** [10.21428/39829d0b.739ed2b6](https://doi.org/10.21428/39829d0b.739ed2b6)
 
 > Esta versión no constituye una guía de práctica clínica, un sistema clínico validado ni una recomendación diagnóstica o terapéutica. Las expresiones «frontera de resolución» y «resolución» se refieren en este trabajo a resolución representacional, no a la resolución de un valor ternario U.
 
