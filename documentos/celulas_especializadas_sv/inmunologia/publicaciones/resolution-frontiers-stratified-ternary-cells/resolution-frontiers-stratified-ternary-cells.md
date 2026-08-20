@@ -8,7 +8,7 @@
 **Estado editorial:** versión original del autor; prepublicación no revisada por pares  
 **DOI:** pendiente de asignación
 
-> Esta versión española reproduce el contenido científico del manuscrito preparado para evaluación externa. No constituye una guía de práctica clínica, un sistema clínico validado ni una recomendación diagnóstica o terapéutica. Las expresiones «frontera de resolución» y «resolución» se refieren en este trabajo a resolución representacional, no a la resolución de un valor ternario U.
+> Esta versión no constituye una guía de práctica clínica, un sistema clínico validado ni una recomendación diagnóstica o terapéutica. Las expresiones «frontera de resolución» y «resolución» se refieren en este trabajo a resolución representacional, no a la resolución de un valor ternario U.
 
 **Palabras clave:** informática biomédica; representación del conocimiento; métodos formales; vacunación; inteligencia artificial
 
@@ -156,34 +156,6 @@ Dentro de estos límites, la construcción ofrece una disciplina formal práctic
 ## Conclusión
 
 Las fronteras de resolución específicas de la operación proporcionan una forma finita y verificable de declarar qué conserva una agregación determinada y qué destruye. En una célula inmunológica especificada previamente y en una célula independiente de integridad de sistemas de IA, las operaciones seleccionadas realizan constructivamente los cuatro niveles de un mismo patrón declarado de representación, y cada frontera no terminal queda respaldada por una aplicación explícita de recuperación y un par separador realizable conforme a las reglas. El resultado es deliberadamente local: no selecciona una representación universalmente óptima ni prescribe cómo deben conectarse las células. Su utilidad consiste en hacer explícita la pérdida de información representacional antes de sustituir un estado rico por su agregado.
-
-## Agradecimientos
-
-El autor reconoce la literatura clínica y técnica de referencia sobre la que se constituyó previamente el dominio IMMUNO-1. En el presente estudio no se reivindica respaldo de expertos clínicos ni validación con datos de pacientes.
-
-## Contribuciones del autor
-
-Juan Antonio Lloret Egea: conceptualización; metodología; análisis formal; investigación; redacción del borrador original; revisión y edición del manuscrito.
-
-## Financiación
-
-No se recibió financiación externa para este estudio.
-
-## Conflictos de intereses
-
-El autor declara no tener conflictos de intereses.
-
-## Declaración ética
-
-No aplicable. No se recogieron ni analizaron datos a nivel de paciente, participante o cohorte.
-
-## Disponibilidad de datos
-
-Ningún conjunto de datos a nivel de paciente o cohorte sustenta los resultados comunicados. Las afirmaciones formales se apoyan en las definiciones de reglas publicadas citadas en las Referencias 8 y 9 y en las construcciones estáticas completas de los testigos reproducidas en el Material suplementario. No se requiere código ejecutable, batería de pruebas de software ni artefacto computacional alguno como evidencia de los resultados presentados en este artículo.
-
-## Declaración sobre IA generativa y tecnologías asistidas por IA
-
-OpenAI ChatGPT (GPT-5.6 Sol) se utilizó como herramienta de apoyo a la investigación para la localización bibliográfica, la comprobación crítica de consistencia, la estructuración del manuscrito, la asistencia en formalización matemática y tipográfica, y la edición del inglés científico. Grok 4.5 (xAI) se utilizó como herramienta de apoyo a la investigación para la revisión crítica de versiones sucesivas del manuscrito, la identificación de mejoras estructurales y matemáticas y la formulación de sugerencias sobre presentación y posicionamiento. DeepSeek-V4-Pro (DeepSeek AI) contribuyó a la revisión crítica y a la comprobación de consistencia formal del manuscrito. Todas las salidas de IA se trataron como aportaciones de investigación no autoritativas. El autor estableció, revisó y aprobó todas las definiciones, afirmaciones matemáticas, demostraciones, interpretaciones y conclusiones, y asume plena responsabilidad sobre el manuscrito.
 
 ## Referencias
 
