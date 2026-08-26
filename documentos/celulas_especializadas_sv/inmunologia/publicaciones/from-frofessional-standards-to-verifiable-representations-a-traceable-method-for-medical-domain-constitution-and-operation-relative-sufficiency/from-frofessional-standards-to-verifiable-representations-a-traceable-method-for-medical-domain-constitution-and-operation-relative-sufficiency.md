@@ -1,7 +1,5 @@
 # De los estándares profesionales a las representaciones verificables: un método trazable para la constitución del dominio médico y la suficiencia relativa a la operación
 
-**Prepublicación maestra v0.2.1 — revisión adversarial consolidada — 26 de agosto de 2026**
-
 **Juan Antonio Lloret Egea**  
 Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA), Madrid, España  
 Título abreviado: **Constitución trazable del dominio médico**
@@ -40,7 +38,7 @@ Este estudio de métodos formales e informática biomédica examina artefactos c
 
 Se realizó una búsqueda intensiva y dirigida de la bibliografía disponible hasta el 26 de agosto de 2026 en bases de datos bibliográficas, plataformas editoriales, repositorios institucionales y de prepublicaciones, así como en fuentes académicas de acceso más amplio en la web. Las familias de búsqueda incluyeron guías clínicas interpretables por ordenador, digitalización de guías, representación del conocimiento médico, supervisión humana, analítica visual clínica, procedencia y registros de auditoría, determinación de consultas, suficiencia de las representaciones, historiales de sucesos y registros exclusivamente acumulativos. La búsqueda estuvo orientada a mecanismos: términos como *ternary*, *frame*, *system*, *traceability* o *human in the loop* se utilizaron como indicios de búsqueda, no como prueba de equivalencia material. La búsqueda se dio por agotada cuando las principales familias conceptuales comenzaron a repetirse sin que apareciera un método materialmente equivalente para la aportación concreta sometida aquí a prueba. Se conservaron los trabajos externos relacionados con independencia de su cronología. Las fechas públicas del SV se consignan únicamente para preservar su genealogía; de la proximidad cronológica no se infiere dependencia ni plagio.
 
-### Corpus profesional y constitución gobernada del dominio
+### *Corpus* profesional y constitución gobernada del dominio
 
 Para un dominio médico candidato `D` se mantienen separadas dos clases de fuentes. `K_D^prof` es el corpus profesional declarado, utilizado para identificar las obligaciones propias de la especialidad, las poblaciones y el alcance. `E_D^clin` es el corpus de evidencia clínica utilizado para constituir reglas médicas operativas. La relación es deliberadamente paralela, no secuencial: un programa formativo puede establecer que una obligación pertenece al ejercicio profesional sin proporcionar un umbral clínico, mientras que una guía puede sustentar un umbral sin definir por ello todo el ámbito profesional de la especialidad.
 
