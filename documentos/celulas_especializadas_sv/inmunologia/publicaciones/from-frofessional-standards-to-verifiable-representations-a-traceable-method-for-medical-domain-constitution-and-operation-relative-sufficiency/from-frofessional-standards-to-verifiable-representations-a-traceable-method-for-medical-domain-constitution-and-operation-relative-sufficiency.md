@@ -188,7 +188,7 @@ El autor declara que no existen conflictos de intereses.
 
 ## Disponibilidad de datos y código
 
-Los resultados no se basan en datos de pacientes ni de cohortes. Las especificaciones e implementaciones de trabajo de inmunología están disponibles públicamente en el repositorio SVperitus-dataset de GitHub. Para reproducir exactamente la comparación de P02 se utilizó el *commit* `1b2838a1c594a1f84b543e7e9c333f9f8e8c55dd`; la prueba de conformidad pertinente es `especificaciones/conformidad/test_immuno2.py` [24]. La especificación publicada del lenguaje SV y su interfaz de consulta pública se identifican en la referencia 25.
+Los resultados no se basan en datos de pacientes ni de cohortes. Las especificaciones e implementaciones de trabajo de inmunología están disponibles públicamente en el repositorio [**SVperitus-dataset**](https://github.com/juantoniolloretegea/SVperitus-dataset) de GitHub. Para reproducir exactamente la comparación de P02 se utilizó el *commit* `1b2838a1c594a1f84b543e7e9c333f9f8e8c55dd`; la prueba de conformidad pertinente es `especificaciones/conformidad/test_immuno2.py` [24]. La especificación publicada del lenguaje SV y su interfaz de consulta pública se identifican en la referencia 25.
 
 ## Declaración sobre el uso de inteligencia artificial generativa
 
