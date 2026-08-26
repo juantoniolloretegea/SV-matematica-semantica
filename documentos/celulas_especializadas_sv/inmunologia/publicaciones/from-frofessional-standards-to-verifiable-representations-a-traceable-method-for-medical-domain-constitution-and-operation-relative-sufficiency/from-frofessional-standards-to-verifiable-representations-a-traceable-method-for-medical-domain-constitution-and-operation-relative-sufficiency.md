@@ -1,7 +1,5 @@
 # De los estándares profesionales a las representaciones verificables: un método trazable para la constitución del dominio médico y la suficiencia relativa a la operación
 
-**Prepublicación maestra v0.3.0 — revisión adversarial final — 26 de agosto de 2026**
-
 **Juan Antonio Lloret Egea**  
 Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español (ITVIA), Madrid, España  
 Título abreviado: **Constitución trazable del dominio médico**
