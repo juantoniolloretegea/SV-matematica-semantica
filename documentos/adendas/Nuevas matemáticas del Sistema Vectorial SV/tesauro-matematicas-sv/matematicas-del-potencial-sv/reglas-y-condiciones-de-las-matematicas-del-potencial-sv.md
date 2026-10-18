@@ -1,10 +1,8 @@
 # Reglas y condiciones de las Matemáticas del Potencial SV
 
-**Matemáticas del Potencial SV · Primera publicación**
-
 ![Portada de Reglas y condiciones de las Matemáticas del Potencial SV](portada-reglas-y-condiciones-potencial-sv.png)
 
-**Autoría:** Juan Antonio Lloret Egea. **Fecha de revisión:** 18 de octubre de 2026.
+© 2026 Juan Antonio Lloret Egea. Algunos derechos reservados. | ORCID: 0000-0002-6634-3351 | Instituto Tecnológico Virtual de la Inteligencia Artificial para el Español™ (ITVIA) | IA eñ™ – La Biblia de la IA™ | ISSN 2695-6411 | Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0). Esta licencia se aplica exclusivamente a esta versión | Madrid, 18/10/2026
 
 ## Resumen
 
@@ -39,9 +37,9 @@ La diferencia entre polos se considera junto con su intensidad: un potencial nul
 
 ## 1. Objeto matemático de la colección
 
-Las Matemáticas del Potencial SV estudian la separación polar de los sucesos admisibles, su lectura sobre configuraciones y las operaciones que permiten comparar, medir y acumular sus variaciones. Su objeto comprende tanto las magnitudes obtenidas como las condiciones que hacen legítimo su uso. Por ello, una fórmula de potencial debe identificar el dominio al que se refiere y la regla mediante la cual asigna valores a sus argumentos [1, 5].
+Las Matemáticas del Potencial SV estudian la separación polar de los sucesos admisibles, su lectura sobre configuraciones y las operaciones que permiten comparar, medir y acumular sus variaciones. Su objeto comprende tanto las magnitudes obtenidas como las condiciones que hacen legítimo su uso. Por ello, una fórmula de potencial debe identificar el dominio al que se refiere y la regla mediante la cual asigna valores a sus argumentos <sup>[1, 5]</sup>.
 
-El antecedente inmediato de esta colección es el estudio sobre orientación universal y geográfica [11]. Allí se relacionan potencial del suceso, intensidad, interfaz de dominio e individuación, y se desarrolla la proyección sobre la Recta Atlas. Este documento recoge ese origen y explicita las condiciones matemáticas que necesita: dominio de la proyección, escala, límites del diferencial y separación entre representación formal y explicación de un fenómeno. La Teoría del TODO y de la NADA [6] interviene como referencia de compatibilidad general; cumple una función distinta de la del antecedente de orientación.
+El antecedente inmediato de esta colección es el estudio sobre orientación universal y geográfica <sup>[11]</sup>. Allí se relacionan potencial del suceso, intensidad, interfaz de dominio e individuación, y se desarrolla la proyección sobre la Recta Atlas. Este documento recoge ese origen y explicita las condiciones matemáticas que necesita: dominio de la proyección, escala, límites del diferencial y separación entre representación formal y explicación de un fenómeno. La Teoría del TODO y de la NADA <sup>[6]</sup> interviene como referencia de compatibilidad general; cumple una función distinta de la del antecedente de orientación.
 
 Sea D un dominio declarado y e un suceso cuya admisibilidad se haya establecido en ese dominio. Una lectura polar asigna a e dos componentes no negativas, μ_D(e) y λ_D(e), expresadas en una misma escala. El orden de estas componentes se conserva. Cuando la lectura y sus condiciones de aplicación están verificadas, se definen:
 
@@ -49,7 +47,7 @@ Sea D un dominio declarado y e un suceso cuya admisibilidad se haya establecido 
 >
 > I_D(e) = μ_D(e) + λ_D(e).
 
-P_D(e) es el potencial e I_D(e), la intensidad polar. En la formulación general, los componentes pertenecen a los reales no negativos; determinados dominios pueden restringirlos a conteos enteros u otras clases expresamente definidas. La elección del dominio numérico precede a las operaciones. El símbolo U no forma parte de estos números ni interviene en la resta [5, §II y §IV].
+P_D(e) es el potencial e I_D(e), la intensidad polar. En la formulación general, los componentes pertenecen a los reales no negativos; determinados dominios pueden restringirlos a conteos enteros u otras clases expresamente definidas. La elección del dominio numérico precede a las operaciones. El símbolo U no forma parte de estos números ni interviene en la resta <sup>[5, §II y §IV]</sup>.
 
 **Proposición 1. Nulidad del potencial y nulidad conjunta.** Para μ y λ no negativas, P = 0 equivale a μ = λ; I = 0 equivale a μ = λ = 0. En consecuencia, P = 0 no implica I = 0.
 
@@ -61,9 +59,9 @@ La colección distribuye el estudio en siete publicaciones: condiciones generale
 
 ## 2. Adscripción al sistema matemático y a los fundamentos del Sistema Vectorial SV
 
-El punto de partida es el alfabeto Σ = {0,1,U}. En la convención general del SV, 0 expresa aptitud o cumplimiento, 1 expresa no aptitud o incumplimiento y U expresa indeterminación. Cada dominio debe explicar la lectura concreta de esos valores sin alterar su distinción [2, 3].
+El punto de partida es el alfabeto Σ = {0,1,U}. En la convención general del SV, 0 expresa aptitud o cumplimiento, 1 expresa no aptitud o incumplimiento y U expresa indeterminación. Cada dominio debe explicar la lectura concreta de esos valores sin alterar su distinción <sup>[2, 3]</sup>.
 
-Una célula de base b, con b entero y b ≥ 3, dispone de n = b² posiciones. Su espacio de configuraciones es K₃ⁿ = {0,1,U}ⁿ. La notación SV(n,b) indicará aquí, en ese orden, el número de posiciones y la base de organización. Así, SV(9,3), SV(16,4) y SV(25,5) comparten el mismo alfabeto de tres símbolos. El cambio de b modifica el tamaño de la célula, no el número de valores ternarios. Existen 3ⁿ configuraciones posibles porque cada una de las n posiciones admite tres asignaciones [2, §3].
+Una célula de base b, con b entero y b ≥ 3, dispone de n = b² posiciones. Su espacio de configuraciones es K₃ⁿ = {0,1,U}ⁿ. La notación SV(n,b) indicará aquí, en ese orden, el número de posiciones y la base de organización. Así, SV(9,3), SV(16,4) y SV(25,5) comparten el mismo alfabeto de tres símbolos. El cambio de b modifica el tamaño de la célula, no el número de valores ternarios. Existen 3ⁿ configuraciones posibles porque cada una de las n posiciones admite tres asignaciones <sup>[2, §3]</sup>.
 
 Una configuración S = (s₁,…,sₙ) es un elemento de ese conjunto. Las publicaciones del SV también la denominan *frame*. Conservar ambos términos permite reconocer el objeto en los antecedentes; la exposición utilizará preferentemente «configuración» cuando no se necesite destacar la denominación específica. U es un valor semántico del alfabeto, no el número 3 ni un punto intermedio entre 0 y 1. Cualquier representación mediante radios, colores o coordenadas constituye una codificación adicional y debe declararse como tal.
 
@@ -73,9 +71,9 @@ El estudio conserva esta separación entre estructura ternaria, representación 
 
 ## 3. Relación de catálogo con el Tesauro de matemáticas del Sistema Vectorial SV
 
-El Tesauro reúne las nociones, operaciones y relaciones matemáticas del sistema y establece una lectura progresiva, desde las configuraciones celulares hasta los desarrollos especializados. Para cada objeto exige función, dominio, variables, condiciones de uso y límites de aplicación. Las Matemáticas del Potencial SV se adscriben a esa organización como una especialización temática [8].
+El Tesauro reúne las nociones, operaciones y relaciones matemáticas del sistema y establece una lectura progresiva, desde las configuraciones celulares hasta los desarrollos especializados. Para cada objeto exige función, dominio, variables, condiciones de uso y límites de aplicación. Las Matemáticas del Potencial SV se adscriben a esa organización como una especialización temática <sup>[8]</sup>.
 
-La relación de catálogo exige que un símbolo conserve la definición que se cita o que cualquier especialización quede expresamente delimitada. Un cambio de letra no constituye una nueva operación; a la inversa, compartir una letra no demuestra identidad entre objetos. Este segundo caso resulta especialmente importante para μ y λ: en el potencial local designan componentes polares, mientras que la Teoría del TODO y de la NADA las emplea también para magnitudes de cierre de trayectorias. La relación entre ambos usos debe establecerse mediante sus dominios y reglas de correspondencia [5, §II.2; 6, §2.12].
+La relación de catálogo exige que un símbolo conserve la definición que se cita o que cualquier especialización quede expresamente delimitada. Un cambio de letra no constituye una nueva operación; a la inversa, compartir una letra no demuestra identidad entre objetos. Este segundo caso resulta especialmente importante para μ y λ: en el potencial local designan componentes polares, mientras que la Teoría del TODO y de la NADA las emplea también para magnitudes de cierre de trayectorias. La relación entre ambos usos debe establecerse mediante sus dominios y reglas de correspondencia <sup>[5, §II.2; 6, §2.12]</sup>.
 
 Cada nueva fórmula de la colección deberá acompañarse de una referencia a su antecedente o de una definición suficiente para reconocer la aportación. Las propiedades demostradas se distinguirán de las convenciones adoptadas. Los ejemplos permitirán comprender una regla, pero su buen resultado en varios casos no se presentará como demostración universal.
 
@@ -83,7 +81,7 @@ Esta organización facilita una lectura autónoma: el lector encontrará aquí l
 
 ## 4. Relación funcional con Transductores de matemáticas
 
-Una transducción establece un paso entre dominios mediante una correspondencia declarada. En el caso del potencial, debe precisar qué objeto se transporta, cuáles son el origen y el destino, qué magnitudes se conservan y cómo se interpreta el resultado. La colección de Transductores distingue esta función de la correlación, la proyección, el cambio de representación y el retorno [7].
+Una transducción establece un paso entre dominios mediante una correspondencia declarada. En el caso del potencial, debe precisar qué objeto se transporta, cuáles son el origen y el destino, qué magnitudes se conservan y cómo se interpreta el resultado. La colección de Transductores distingue esta función de la correlación, la proyección, el cambio de representación y el retorno <sup>[7]</sup>.
 
 Considérense dos dominios D y E. La escritura T: D → E sólo informa de una dirección; no demuestra por sí misma que T conserve los potenciales. Será necesario definir una correspondencia entre los objetos y otra, si procede, entre sus escalas. Si f transporta los sucesos y g transforma los valores, una condición posible de conservación es:
 
@@ -93,11 +91,11 @@ Esta igualdad se exigirá únicamente en el subconjunto para el que haya sido de
 
 El ejemplo muestra por qué deben indicarse las propiedades que se pretenden conservar. Una transducción puede respetar el orden y modificar las unidades; otra puede conservar una relación de equivalencia sin ser invertible. Ninguna de esas posibilidades debe suponerse por semejanza verbal entre magnitudes.
 
-Cuando dos sucesos pertenecen a dominios distintos, su comparación requiere una lectura común o una transducción suficiente. Hasta que se establezca esa correspondencia, restar sus valores sólo produce una expresión numérica sin interpretación acreditada. En particular, la unidad estructural del potencial no se convierte en voltios, julios o cualquier otra unidad física mediante un cambio de nombre [5, §IX.4 y §XII].
+Cuando dos sucesos pertenecen a dominios distintos, su comparación requiere una lectura común o una transducción suficiente. Hasta que se establezca esa correspondencia, restar sus valores sólo produce una expresión numérica sin interpretación acreditada. En particular, la unidad estructural del potencial no se convierte en voltios, julios o cualquier otra unidad física mediante un cambio de nombre <sup>[5, §IX.4 y §XII]</sup>.
 
 ## 5. Criterio de compatibilidad de máximo rango: Teoría del TODO y de la NADA
 
-La colección sitúa su criterio superior de compatibilidad en la Teoría del TODO y de la NADA. En ese ámbito, la ecuación rectora se expresa como [1, 6]:
+La colección sitúa su criterio superior de compatibilidad en la Teoría del TODO y de la NADA. En ese ámbito, la ecuación rectora se expresa como <sup>[1, 6]</sup>:
 
 > 𝓔★_TODO,SV(Γ_U; τ) = 0.
 
@@ -105,7 +103,7 @@ La colección sitúa su criterio superior de compatibilidad en la Teoría del TO
 
 La ecuación reúne defectos relativos al origen formal, al Universo de Sucesos, a su fundamento declarado, a las condiciones de cada ciclo y a la compatibilidad de las leyes de dominio. La nulidad de una diferencia polar local no demuestra, por sí sola, la nulidad de ese conjunto. Tampoco un ejemplo sobre SV(9,3) acredita el agotamiento de todas sus configuraciones: tal afirmación exige comprobar la igualdad entre la imagen considerada y el espacio configuracional completo.
 
-El verificador ternario fuerte, 𝓝★_SV, recibe una familia finita y no vacía de resultados de comprobación r₁,…,rₘ. Su regla es la siguiente [6, §13]:
+El verificador ternario fuerte, 𝓝★_SV, recibe una familia finita y no vacía de resultados de comprobación r₁,…,rₘ. Su regla es la siguiente <sup>[6, §13]</sup>:
 
 | Condición sobre las comprobaciones | Resultado |
 |---|---|
@@ -123,7 +121,7 @@ La verificación del potencial local y la de la ecuación rectora tienen alcance
 
 ## 6. Condición negativa: el tiempo no opera como primitiva
 
-El cambio en el SV se describe mediante sucesos y reevaluaciones en horizontes declarados. Una secuencia S₀, S₁,…,Sₘ expresa un orden de configuraciones. El subíndice k identifica una posición de la secuencia y no presupone duración entre sus términos [4, 9].
+El cambio en el SV se describe mediante sucesos y reevaluaciones en horizontes declarados. Una secuencia S₀, S₁,…,Sₘ expresa un orden de configuraciones. El subíndice k identifica una posición de la secuencia y no presupone duración entre sus términos <sup>[4, 9]</sup>.
 
 Esta distinción permite estudiar una variación Pₖ₊₁ − Pₖ sin atribuirle el significado de velocidad. Para dividirla por otro valor debe existir una escala de comparación declarada. Una diferencia entre índices, un intervalo de carta y una duración medida son objetos distintos, aunque en una representación particular se escriban mediante números reales.
 
@@ -133,7 +131,7 @@ Toda derivada deberá identificar su variable. La notación dP/dα, cuando resul
 
 ## 7. Condición negativa: la probabilidad no opera como fundamento
 
-La valoración ternaria expresa cumplimiento, incumplimiento o indeterminación bajo reglas del dominio. No asigna probabilidades a esos tres resultados. En particular, U no equivale a una probabilidad de un medio ni a una distribución entre 0 y 1 [2, 3].
+La valoración ternaria expresa cumplimiento, incumplimiento o indeterminación bajo reglas del dominio. No asigna probabilidades a esos tres resultados. En particular, U no equivale a una probabilidad de un medio ni a una distribución entre 0 y 1 <sup>[2, 3]</sup>.
 
 Si un estudio externo aporta una probabilidad, el documento deberá identificar el modelo que la produce y el alcance de su uso. Tal dato puede formar parte de un contraste o de la descripción de una fuente; no sustituye la comprobación requerida por una condición del SV. Una afirmación considerada muy probable no adquiere, por esa razón, el mismo estatuto que una propiedad demostrada.
 
@@ -149,9 +147,9 @@ La distinción se aprecia en un caso elemental. Si varias trayectorias presentan
 
 Las comprobaciones exhaustivas sobre un conjunto finito pueden constituir una demostración por casos si el conjunto coincide exactamente con el dominio del enunciado y cada caso se verifica de manera válida. Una muestra, por amplia que sea, no satisface ese requisito cuando quedan casos sin examinar.
 
-La colección distinguirá, por ello, demostración, comprobación exhaustiva, ejemplo ilustrativo y contraste empírico. Los laboratorios previstos en su séptima publicación consisten en pruebas formales reproducibles dentro del SV [1]. Cuando una aplicación formule además una afirmación sobre un fenómeno físico, biológico o de otro ámbito empírico, deberá aportar las observaciones y condiciones de contraste que correspondan a esa afirmación; la consistencia formal no las reemplaza.
+La colección distinguirá, por ello, demostración, comprobación exhaustiva, ejemplo ilustrativo y contraste empírico. Los laboratorios previstos en su séptima publicación consisten en pruebas formales reproducibles dentro del SV <sup>[1]</sup>. Cuando una aplicación formule además una afirmación sobre un fenómeno físico, biológico o de otro ámbito empírico, deberá aportar las observaciones y condiciones de contraste que correspondan a esa afirmación; la consistencia formal no las reemplaza.
 
-Esta distinción afecta a la expresión «causa directriz» utilizada en el antecedente de orientación [11, §§4 y 11]. La identidad P = μ − λ define una magnitud; no demuestra por sí sola que esa magnitud cause una trayectoria. El signo de P tampoco proporciona una dirección espacial sin una correspondencia entre los polos y el dominio. Una explicación causal necesita una regla que relacione las magnitudes con los cambios observables y un contraste capaz de discriminarla frente a otras explicaciones. Los ejemplos sintéticos de individuación de [11, §8.10] ilustran la representación propuesta, pero no constituyen mediciones ni pruebas de causalidad biológica.
+Esta distinción afecta a la expresión «causa directriz» utilizada en el antecedente de orientación <sup>[11, §§4 y 11]</sup>. La identidad P = μ − λ define una magnitud; no demuestra por sí sola que esa magnitud cause una trayectoria. El signo de P tampoco proporciona una dirección espacial sin una correspondencia entre los polos y el dominio. Una explicación causal necesita una regla que relacione las magnitudes con los cambios observables y un contraste capaz de discriminarla frente a otras explicaciones. Los ejemplos sintéticos de individuación de <sup>[11, §8.10]</sup> ilustran la representación propuesta, pero no constituyen mediciones ni pruebas de causalidad biológica.
 
 Un resultado empírico discrepante debe examinarse atendiendo a su método, incertidumbre y correspondencia con el dominio. La incompatibilidad con una formulación previa no basta para descartarlo. El examen puede revelar una diferencia de alcance, una limitación de la medición o la necesidad de revisar la aplicación del modelo. Mantener esta posibilidad de revisión es una condición de su contrastación científica.
 
@@ -181,7 +179,7 @@ La escala tampoco puede cambiarse de forma implícita. Si un registro utiliza un
 
 ## 11. Condición positiva: suceso admisible
 
-El potencial se atribuye a un suceso cuya admisibilidad pueda examinarse. Para precisar esa exigencia se adopta la estructura de la teoría del suceso del SV [4]. Un horizonte se representa por H = (I_H, ≼_H, X_H, A_H): I_H reúne las posiciones o regiones de lectura; ≼_H expresa la relación interna pertinente; X_H contiene las configuraciones legibles, y A_H reúne los observables admitidos. La interpretación concreta de cada componente debe acompañar al modelo.
+El potencial se atribuye a un suceso cuya admisibilidad pueda examinarse. Para precisar esa exigencia se adopta la estructura de la teoría del suceso del SV <sup>[4]</sup>. Un horizonte se representa por H = (I_H, ≼_H, X_H, A_H): I_H reúne las posiciones o regiones de lectura; ≼_H expresa la relación interna pertinente; X_H contiene las configuraciones legibles, y A_H reúne los observables admitidos. La interpretación concreta de cada componente debe acompañar al modelo.
 
 Un candidato a suceso es una cuádrupla e = (H, H′, σ, R_e). Sus componentes identifican el horizonte inicial, el horizonte resultante, el soporte de afectación y el operador de reevaluación. Este último tiene la forma R_e: D_e → X_H′, con D_e contenido en X_H y no vacío. Se requieren las siguientes condiciones:
 
@@ -202,7 +200,7 @@ La condición A5 no afirma, por sí sola, que todo el exterior permanezca invari
 
 **Ejemplo de admisibilidad formal.** En un horizonte con nueve posiciones, tómense S₀ = (0,0,0,0,0,0,0,0,0) y S₁ = (0,0,0,0,1,0,0,0,0). Sea X_H = {0,1,U}⁹ y H′ = H, con una relación de índices fija. Defínanse D_e = {S₀}, R_e(S₀) = S₁, σ = {5} y J_e = {1,2,3,4,6,7,8,9}; θ_e es la identidad sobre J_e. El observable F cuenta las posiciones inscritas con 1 y se utiliza con la misma regla en ambos extremos. Las entradas y salidas pertenecen a X_H, el exterior conserva su referencia y Δ_e F(S₀) = 1. Se cumplen A1–A6.
 
-El ejemplo verifica un operador entre configuraciones; no afirma que sea lícito alterar un registro ya consolidado en cualquier aplicación. Un régimen que conserva las determinaciones anteriores y añade posiciones deberá representar la nueva evaluación sin sobrescribirlas [9]. Las condiciones particulares del dominio se suman a A1–A6.
+El ejemplo verifica un operador entre configuraciones; no afirma que sea lícito alterar un registro ya consolidado en cualquier aplicación. Un régimen que conserva las determinaciones anteriores y añade posiciones deberá representar la nueva evaluación sin sobrescribirlas <sup>[9]</sup>. Las condiciones particulares del dominio se suman a A1–A6.
 
 La composición también requiere examen. Si dos operadores sucesivos devuelven cada configuración a su estado inicial, su composición puede carecer del cambio exigido por A4. Por tanto, que los factores sean sucesos admisibles no basta para atribuir ese mismo carácter a su composición.
 
@@ -248,7 +246,7 @@ Las acumulaciones necesitan una definición propia. Sumar diferencias produce un
 
 ### 13.1. Aplicación al antecedente de orientación: la proyección Atlas
 
-La construcción Atlas [11, §§6 y 8.9] permite concretar estas exigencias. Sean A_ref la edad de referencia, A_i la edad admisible de un observable y F un intervalo de normalización positivo. Las tres magnitudes deben expresarse en la misma unidad. Para este cálculo se abrevia A_Ωobs como A_ref y F_Ω como F. Se definen:
+La construcción Atlas <sup>[11, §§6 y 8.9]</sup> permite concretar estas exigencias. Sean A_ref la edad de referencia, A_i la edad admisible de un observable y F un intervalo de normalización positivo. Las tres magnitudes deben expresarse en la misma unidad. Para este cálculo se abrevia A_Ωobs como A_ref y F_Ω como F. Se definen:
 
 > E_i = A_ref − A_i; x_i = E_i / F.
 >
@@ -274,9 +272,9 @@ El superíndice 0 identifica la representación inicial sobre igualdad polar. No
 
 La cota es necesaria para utilizar esta construcción dentro del régimen no negativo del apartado 1. Por ejemplo, s_i = 5 y δ_i = 12 producen (μ_i,λ_i) = (11,−1), fuera del dominio. Con δ_i = 6 se obtiene (8,2), potencial 6u_AT e intensidad 10u_AT. Si s_i = 0, sólo se admite δ_i = 0 sin cambiar el régimen o la representación. Ese origen de escala no demuestra ausencia física del observable al que se haya asignado.
 
-Como ejemplo puramente numérico, η = 1, Q = 4 y x_i = 1/2 dan s_i = 4 ln(3/2) / ln 2 ≈ 2,33985. Con δ_i = 2, los coeficientes son aproximadamente 3,33985 y 1,33985; por tanto, P_i = 2u_AT e I_i ≈ 4,67970u_AT. Estos valores verifican la cota; no son mediciones de un organismo. Cambiar η o Q cambia la proyección y obliga a declarar cómo se comparan los resultados. Tampoco quedan demostrados por este cálculo los valores cosmológicos utilizados como entradas en [11].
+Como ejemplo puramente numérico, η = 1, Q = 4 y x_i = 1/2 dan s_i = 4 ln(3/2) / ln 2 ≈ 2,33985. Con δ_i = 2, los coeficientes son aproximadamente 3,33985 y 1,33985; por tanto, P_i = 2u_AT e I_i ≈ 4,67970u_AT. Estos valores verifican la cota; no son mediciones de un organismo. Cambiar η o Q cambia la proyección y obliga a declarar cómo se comparan los resultados. Tampoco quedan demostrados por este cálculo los valores cosmológicos utilizados como entradas en <sup>[11]</sup>.
 
-La función de individuación Φ_AT, que en [11, §8.9] transforma una descripción κ_i en δ_i, necesita una definición efectiva en cada aplicación. Enumerar sus componentes no determina la función. Dos descripciones diferentes pueden dar el mismo escalar: por ejemplo, Φ(a,b) = a + b asigna 1 a (1,0) y a (0,1). La distinción de individuos debe conservar su identificador y los rasgos pertinentes, aunque coincidan sus potenciales. Los vectores de ruta requieren además un número y un orden de componentes fijados; no procede restar dos listas que describen magnitudes diferentes por el hecho de que ambas lleven la denominación Atlas.
+La función de individuación Φ_AT, que en <sup>[11, §8.9]</sup> transforma una descripción κ_i en δ_i, necesita una definición efectiva en cada aplicación. Enumerar sus componentes no determina la función. Dos descripciones diferentes pueden dar el mismo escalar: por ejemplo, Φ(a,b) = a + b asigna 1 a (1,0) y a (0,1). La distinción de individuos debe conservar su identificador y los rasgos pertinentes, aunque coincidan sus potenciales. Los vectores de ruta requieren además un número y un orden de componentes fijados; no procede restar dos listas que describen magnitudes diferentes por el hecho de que ambas lleven la denominación Atlas.
 
 ## 14. Condición positiva: residual controlado
 
@@ -286,15 +284,15 @@ Para cada condición se especificarán los datos utilizados y el criterio que pe
 
 La indeterminación sólo puede resolverse mediante información nueva y pertinente de la que antes no se disponía o mediante la intervención de una persona experta en el dominio. En ambos casos debe quedar expuesto qué cambia en la base de evaluación y cómo se justifica el resultado. La intervención experta requiere competencia sobre la cuestión examinada; no convierte una elección arbitraria en determinación fundada.
 
-Esta formulación relaciona la definición general de U con el tratamiento de las evaluaciones completadas y la conservación de registros desarrollado en los antecedentes [3, 9, 10]. Una evaluación anterior permanece como constancia de lo que pudo establecerse con su información y sus reglas. La nueva conclusión se vincula a ella, indicando los datos o el juicio experto que permiten revisarla. Cuando el régimen del SV exige autorización humana para registrar U, esa condición se mantiene [9, 10].
+Esta formulación relaciona la definición general de U con el tratamiento de las evaluaciones completadas y la conservación de registros desarrollado en los antecedentes <sup>[3, 9, 10]</sup>. Una evaluación anterior permanece como constancia de lo que pudo establecerse con su información y sus reglas. La nueva conclusión se vincula a ella, indicando los datos o el juicio experto que permiten revisarla. Cuando el régimen del SV exige autorización humana para registrar U, esa condición se mantiene <sup>[9, 10]</sup>.
 
-**Caso finito certificado.** En un sistema de resolución con un número finito de estados y unas operaciones fijadas, puede examinarse el conjunto completo de resultados terminales alcanzables. Si sus valores binarios forman el conjunto {0}, la conclusión es 0; si forman {1}, es 1. Si no se alcanza ningún resultado terminal o se alcanzan ambos valores, el régimen descrito en [10] registra U, con las condiciones de certificación y autorización que allí se establecen. Para usar este resultado deben acreditarse el conjunto de estados alcanzables y la exhaustividad del examen. Una exploración interrumpida no demuestra ninguno de esos casos.
+**Caso finito certificado.** En un sistema de resolución con un número finito de estados y unas operaciones fijadas, puede examinarse el conjunto completo de resultados terminales alcanzables. Si sus valores binarios forman el conjunto {0}, la conclusión es 0; si forman {1}, es 1. Si no se alcanza ningún resultado terminal o se alcanzan ambos valores, el régimen descrito en <sup>[10]</sup> registra U, con las condiciones de certificación y autorización que allí se establecen. Para usar este resultado deben acreditarse el conjunto de estados alcanzables y la exhaustividad del examen. Una exploración interrumpida no demuestra ninguno de esos casos.
 
 U no se incorpora a la aritmética real del potencial. Si no se dispone de una componente polar determinada, no se realizará una resta ficticia asignándole cero. Puede conservarse la expresión como objeto pendiente de determinación o estudiar una cota justificada, pero deberá distinguirse ese resultado parcial de un valor completo de P_D.
 
 El verificador del apartado 5 combina los residuales de una lista completa de condiciones. Si se conoce un incumplimiento, el resultado es 1 aunque otra condición sea indeterminada. Si no hay incumplimientos y queda U, el resultado es U. Sólo la satisfacción de todas las condiciones examinadas permite el resultado 0 dentro del alcance declarado.
 
-La prioridad del incumplimiento evita solapamientos entre los criterios de orientación de [11, §11]. Una ruta puede presentar simultáneamente una frontera contradicha y un diferencial desconocido. La primera condición determina su no admisión en el examen conjunto; la segunda conserva U en su componente. Del mismo modo, admitir la descripción de una ruta no equivale a disponer de todas sus magnitudes numéricas. Cada dictamen debe indicar si se refiere a la descripción, al cálculo o a una afirmación empírica concreta.
+La prioridad del incumplimiento evita solapamientos entre los criterios de orientación de <sup>[11, §11]</sup>. Una ruta puede presentar simultáneamente una frontera contradicha y un diferencial desconocido. La primera condición determina su no admisión en el examen conjunto; la segunda conserva U en su componente. Del mismo modo, admitir la descripción de una ruta no equivale a disponer de todas sus magnitudes numéricas. Cada dictamen debe indicar si se refiere a la descripción, al cálculo o a una afirmación empírica concreta.
 
 ## 15. Condición positiva: retorno al dominio correspondiente
 
@@ -306,7 +304,7 @@ Esta precaución afecta al uso de distancias. Para sucesos de un mismo dominio c
 
 La desigualdad triangular se deduce de |P_D(e) − P_D(g)| ≤ |P_D(e) − P_D(f)| + |P_D(f) − P_D(g)|. La no negatividad, la simetría y d(e,e) = 0 proceden de las propiedades del valor absoluto. Si se define e ∼ f cuando P_D(e) = P_D(f), la distancia entre clases no depende del representante elegido; su nulidad implica que ambas clases coinciden. Esto demuestra la afirmación métrica en el conjunto cociente, sin atribuir esa separación a los sucesos originales.
 
-En un contraste físico, una unidad estructural de potencial no se identifica automáticamente con una unidad del Sistema Internacional. La correspondencia debe establecerse mediante la aplicación y sus condiciones de medida. El documento sobre potencial de un suceso utiliza una unidad estructural propia en determinados regímenes de conteo [5]; su empleo exige conservar ese significado.
+En un contraste físico, una unidad estructural de potencial no se identifica automáticamente con una unidad del Sistema Internacional. La correspondencia debe establecerse mediante la aplicación y sus condiciones de medida. El documento sobre potencial de un suceso utiliza una unidad estructural propia en determinados regímenes de conteo <sup>[5]</sup>; su empleo exige conservar ese significado.
 
 Un retorno satisfactorio permite responder qué se ha establecido y para qué objeto. Si una transformación impide recuperar esa referencia, el límite deberá figurar en la conclusión, aunque las operaciones intermedias sean correctas.
 
@@ -341,7 +339,7 @@ La tabla reúne los símbolos y fija su significado dentro de este documento.
 | E_i, x_i, η, Q | Diferencia etaria, coordenada normalizada, sensibilidad y rango de la proyección Atlas. |
 | S_η, s_i, u_AT | Función de proyección, coeficiente de igualdad polar y unidad de representación Atlas. |
 | κ_i, Φ_AT, δ_i | Descripción individual, función declarada de proyección y coeficiente diferencial resultante. |
-| Γ_U, τ | Objetos propios de la ecuación general: ciclos concatenados y corpus declarado, conforme a [6]. No son variables temporales por esa notación. |
+| Γ_U, τ | Objetos propios de la ecuación general: ciclos concatenados y corpus declarado, conforme a <sup>[6]</sup>. No son variables temporales por esa notación. |
 
 ## 17. Tabla de condiciones de uso
 
@@ -414,7 +412,7 @@ Este primer documento establece las condiciones comunes de la colección. Las pu
 
 [5] **Potencial de un suceso: comunicación estructural en el universo físico realizado, equipotencialidad, diferencia polar y métrica.** [DOI: 10.21428/39829d0b.f0cbabc2](https://doi.org/10.21428/39829d0b.f0cbabc2).
 
-[6] **Teoría del TODO y de la NADA.** [Versión publicada](https://www.itvia.online/pub/teoria-del-todo-y-de-la-nada/release/1). [DOI: 10.21428/39829d0b.cdf2f2ed](https://doi.org/10.21428/39829d0b.cdf2f2ed). Se utilizan las definiciones del régimen general; las condiciones de igualdad entre recorrido y diferencia neta se demuestran expresamente en el apartado 12 de este documento.
+[6] **Teoría del TODO y de la NADA.** [Versión publicada](https://www.itvia.online/pub/teoria-del-todo-y-de-la-nada/release/1). [DOI: 10.21428/39829d0b.cdf2f2ed](https://doi.org/10.21428/39829d0b.cdf2f2ed).
 
 [7] **Transductores de matemáticas.** [Colección](https://www.itvia.online/transductores-de-matematicas). [DOI: 10.21428/39829d0b.01728a80](https://doi.org/10.21428/39829d0b.01728a80).
 
