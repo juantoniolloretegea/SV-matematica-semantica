@@ -2,11 +2,15 @@
 
 **Matemáticas del Potencial SV · Primera publicación**
 
+![Portada de Reglas y condiciones de las Matemáticas del Potencial SV](portada-reglas-y-condiciones-potencial-sv.png)
+
+**Autoría:** Juan Antonio Lloret Egea. **Fecha de revisión:** 18 de octubre de 2026.
+
 ## Resumen
 
 Este trabajo establece las condiciones de definición, cálculo e interpretación del potencial en el Sistema Vectorial SV. Parte de la célula ternaria, del horizonte y del suceso admisible para precisar cuándo una lectura polar permite obtener un potencial, comparar sus valores o estudiar su variación. La exposición distingue el objeto evaluado, su configuración, los observables que lo describen y las representaciones auxiliares empleadas para el cálculo. Sobre esa base se delimitan el dominio, la variable de carta, las unidades, el residual y el retorno.
 
-La diferencia entre polos se considera junto con su intensidad: un potencial nulo puede corresponder a un equilibrio con intensidad positiva y, por tanto, no determina por sí solo la frontera de nulidad conjunta. La admisión de una fórmula exige, además de corrección algebraica, una justificación de sus hipótesis y de la correspondencia entre los objetos comparados. Se establecen restricciones para las derivadas, las distancias y las acumulaciones, y se explica la compatibilidad requerida con la Teoría del TODO y de la NADA. El tratamiento de U conserva la indeterminación como resultado justificado, distingue ese resultado del trabajo pendiente y vincula su resolución a nueva información pertinente o a intervención experta. Las tablas finales reúnen símbolos, condiciones de uso y motivos de exclusión. El documento ofrece así una base de lectura suficiente para los seis desarrollos posteriores de la colección.
+La diferencia entre polos se considera junto con su intensidad: un potencial nulo puede corresponder a un equilibrio con intensidad positiva y, por tanto, no determina por sí solo la frontera de nulidad conjunta. La admisión de una fórmula exige, además de corrección algebraica, una justificación de sus hipótesis y de la correspondencia entre los objetos comparados. Se establecen restricciones para las derivadas, las distancias y las acumulaciones, y se explica la compatibilidad requerida con la Teoría del TODO y de la NADA. A partir del antecedente de orientación universal y geográfica, se precisan el dominio de la proyección Atlas y la cota que conserva sus polos no negativos. El tratamiento de U conserva la indeterminación como resultado justificado, distingue ese resultado del trabajo pendiente y vincula su resolución a nueva información pertinente o a intervención experta. Las tablas finales reúnen símbolos, condiciones de uso y motivos de exclusión. El documento ofrece así una base de lectura suficiente para los seis desarrollos posteriores de la colección.
 
 **Palabras clave:** potencial; Sistema Vectorial SV; suceso admisible; separación polar; configuración; dominio; variable de carta; residual; indeterminación; retorno.
 
@@ -36,6 +40,8 @@ La diferencia entre polos se considera junto con su intensidad: un potencial nul
 ## 1. Objeto matemático de la colección
 
 Las Matemáticas del Potencial SV estudian la separación polar de los sucesos admisibles, su lectura sobre configuraciones y las operaciones que permiten comparar, medir y acumular sus variaciones. Su objeto comprende tanto las magnitudes obtenidas como las condiciones que hacen legítimo su uso. Por ello, una fórmula de potencial debe identificar el dominio al que se refiere y la regla mediante la cual asigna valores a sus argumentos [1, 5].
+
+El antecedente inmediato de esta colección es el estudio sobre orientación universal y geográfica [11]. Allí se relacionan potencial del suceso, intensidad, interfaz de dominio e individuación, y se desarrolla la proyección sobre la Recta Atlas. Este documento recoge ese origen y explicita las condiciones matemáticas que necesita: dominio de la proyección, escala, límites del diferencial y separación entre representación formal y explicación de un fenómeno. La Teoría del TODO y de la NADA [6] interviene como referencia de compatibilidad general; cumple una función distinta de la del antecedente de orientación.
 
 Sea D un dominio declarado y e un suceso cuya admisibilidad se haya establecido en ese dominio. Una lectura polar asigna a e dos componentes no negativas, μ_D(e) y λ_D(e), expresadas en una misma escala. El orden de estas componentes se conserva. Cuando la lectura y sus condiciones de aplicación están verificadas, se definen:
 
@@ -145,6 +151,10 @@ Las comprobaciones exhaustivas sobre un conjunto finito pueden constituir una de
 
 La colección distinguirá, por ello, demostración, comprobación exhaustiva, ejemplo ilustrativo y contraste empírico. Los laboratorios previstos en su séptima publicación consisten en pruebas formales reproducibles dentro del SV [1]. Cuando una aplicación formule además una afirmación sobre un fenómeno físico, biológico o de otro ámbito empírico, deberá aportar las observaciones y condiciones de contraste que correspondan a esa afirmación; la consistencia formal no las reemplaza.
 
+Esta distinción afecta a la expresión «causa directriz» utilizada en el antecedente de orientación [11, §§4 y 11]. La identidad P = μ − λ define una magnitud; no demuestra por sí sola que esa magnitud cause una trayectoria. El signo de P tampoco proporciona una dirección espacial sin una correspondencia entre los polos y el dominio. Una explicación causal necesita una regla que relacione las magnitudes con los cambios observables y un contraste capaz de discriminarla frente a otras explicaciones. Los ejemplos sintéticos de individuación de [11, §8.10] ilustran la representación propuesta, pero no constituyen mediciones ni pruebas de causalidad biológica.
+
+Un resultado empírico discrepante debe examinarse atendiendo a su método, incertidumbre y correspondencia con el dominio. La incompatibilidad con una formulación previa no basta para descartarlo. El examen puede revelar una diferencia de alcance, una limitación de la medición o la necesidad de revisar la aplicación del modelo. Mantener esta posibilidad de revisión es una condición de su contrastación científica.
+
 ## 9. Condición negativa: la inferencia opaca no opera como cierre
 
 Una conclusión matemática debe permitir reconstruir el paso desde los datos y las hipótesis hasta el resultado. Para ello han de identificarse las definiciones utilizadas, las operaciones realizadas y las condiciones bajo las que esas operaciones están permitidas.
@@ -236,6 +246,38 @@ También debe explicitarse la unidad. En una representación p(α) = δ(α)u, co
 
 Las acumulaciones necesitan una definición propia. Sumar diferencias produce una diferencia neta; sumar sus valores absolutos produce un recorrido; integrar p respecto de α representa otra operación. Incluso después de elegir una interpolación lineal, el área bajo su valor absoluto debe tratar correctamente los cruces por cero. Entre los valores −1 y 1, en un intervalo de longitud uno, esa área es 1/2; el promedio de los valores absolutos de los extremos multiplicado por la longitud es 1. Ambas reglas pueden definirse, pero no son equivalentes en general.
 
+### 13.1. Aplicación al antecedente de orientación: la proyección Atlas
+
+La construcción Atlas [11, §§6 y 8.9] permite concretar estas exigencias. Sean A_ref la edad de referencia, A_i la edad admisible de un observable y F un intervalo de normalización positivo. Las tres magnitudes deben expresarse en la misma unidad. Para este cálculo se abrevia A_Ωobs como A_ref y F_Ω como F. Se definen:
+
+> E_i = A_ref − A_i; x_i = E_i / F.
+>
+> S_η(x) = ln(1 + x/η) / ln(1 + 1/η), con η > 0 y 0 ≤ x ≤ 1.
+>
+> s_i = Q·S_η(x_i), con Q > 0.
+
+η, Q y x_i son parámetros o coeficientes adimensionales de esta representación. El intervalo elegido exige 0 ≤ E_i ≤ F; no basta con que la resta pueda efectuarse. A_i conserva su condición de dato de un dominio físico y no se convierte en fundamento temporal del SV. Si se adopta F = 2A_ref y se restringen las edades observadas a 0 ≤ A_i ≤ A_ref, sólo se recorre 0 ≤ x_i ≤ 1/2. El extremo x = 1 exigiría A_i = −A_ref: puede señalar un extremo formal de la escala, pero no una edad observada no negativa. No debe mezclarse con estas últimas en una tabla sin indicar la diferencia.
+
+Para evitar que una unidad se cuente dos veces, μ_i, λ_i y δ_i designan en las expresiones siguientes coeficientes numéricos; sus magnitudes se obtienen multiplicándolos por la unidad de representación u_AT. La elección de η y Q queda registrada junto a ella, conforme a la denominación u_AT(η,Q) del antecedente:
+
+> μ_i⁰ = λ_i⁰ = s_i.
+>
+> μ_i = s_i + δ_i/2; λ_i = s_i − δ_i/2.
+>
+> P_i = δ_i·u_AT; I_i = 2s_i·u_AT.
+
+El superíndice 0 identifica la representación inicial sobre igualdad polar. No es una potencia. δ_i requiere una regla de obtención a partir de magnitudes o rasgos declarados. Su ausencia no autoriza a asignar cero al diferencial individual: P_i⁰ = 0 es una propiedad de la representación inicial, mientras que P_i puede permanecer indeterminado.
+
+**Proposición 4. Acotación y admisibilidad polar de Atlas.** Con las hipótesis anteriores, 0 ≤ S_η(x) ≤ 1 y la función es estrictamente creciente. Los dos coeficientes polares de la representación individual son no negativos si y sólo si |δ_i| ≤ 2s_i.
+
+**Demostración.** Para x en [0,1], el numerador logarítmico está comprendido entre cero y el denominador, que es positivo. Los extremos son S_η(0) = 0 y S_η(1) = 1. En el interior, S_η′(x) = 1 / [(η + x)·ln(1 + 1/η)] > 0. Finalmente, μ_i ≥ 0 equivale a δ_i ≥ −2s_i y λ_i ≥ 0 equivale a δ_i ≤ 2s_i. La conjunción de ambas desigualdades es la cota indicada. Al restar y sumar los coeficientes se obtienen, respectivamente, δ_i y 2s_i.
+
+La cota es necesaria para utilizar esta construcción dentro del régimen no negativo del apartado 1. Por ejemplo, s_i = 5 y δ_i = 12 producen (μ_i,λ_i) = (11,−1), fuera del dominio. Con δ_i = 6 se obtiene (8,2), potencial 6u_AT e intensidad 10u_AT. Si s_i = 0, sólo se admite δ_i = 0 sin cambiar el régimen o la representación. Ese origen de escala no demuestra ausencia física del observable al que se haya asignado.
+
+Como ejemplo puramente numérico, η = 1, Q = 4 y x_i = 1/2 dan s_i = 4 ln(3/2) / ln 2 ≈ 2,33985. Con δ_i = 2, los coeficientes son aproximadamente 3,33985 y 1,33985; por tanto, P_i = 2u_AT e I_i ≈ 4,67970u_AT. Estos valores verifican la cota; no son mediciones de un organismo. Cambiar η o Q cambia la proyección y obliga a declarar cómo se comparan los resultados. Tampoco quedan demostrados por este cálculo los valores cosmológicos utilizados como entradas en [11].
+
+La función de individuación Φ_AT, que en [11, §8.9] transforma una descripción κ_i en δ_i, necesita una definición efectiva en cada aplicación. Enumerar sus componentes no determina la función. Dos descripciones diferentes pueden dar el mismo escalar: por ejemplo, Φ(a,b) = a + b asigna 1 a (1,0) y a (0,1). La distinción de individuos debe conservar su identificador y los rasgos pertinentes, aunque coincidan sus potenciales. Los vectores de ruta requieren además un número y un orden de componentes fijados; no procede restar dos listas que describen magnitudes diferentes por el hecho de que ambas lleven la denominación Atlas.
+
 ## 14. Condición positiva: residual controlado
 
 Se denomina residual al resultado de examinar una condición de admisibilidad que debe satisfacerse para sostener una conclusión. Su significado depende de la condición examinada: puede referirse al dominio, a la configuración, a la carta, a la unidad, a la identidad del objeto, a la frontera o al retorno. Esa clasificación describe el objeto del examen y no introduce nuevos valores en el alfabeto ternario.
@@ -252,6 +294,8 @@ U no se incorpora a la aritmética real del potencial. Si no se dispone de una c
 
 El verificador del apartado 5 combina los residuales de una lista completa de condiciones. Si se conoce un incumplimiento, el resultado es 1 aunque otra condición sea indeterminada. Si no hay incumplimientos y queda U, el resultado es U. Sólo la satisfacción de todas las condiciones examinadas permite el resultado 0 dentro del alcance declarado.
 
+La prioridad del incumplimiento evita solapamientos entre los criterios de orientación de [11, §11]. Una ruta puede presentar simultáneamente una frontera contradicha y un diferencial desconocido. La primera condición determina su no admisión en el examen conjunto; la segunda conserva U en su componente. Del mismo modo, admitir la descripción de una ruta no equivale a disponer de todas sus magnitudes numéricas. Cada dictamen debe indicar si se refiere a la descripción, al cálculo o a una afirmación empírica concreta.
+
 ## 15. Condición positiva: retorno al dominio correspondiente
 
 El retorno establece qué significa el resultado en el dominio al que se refiere el problema. Debe identificar el objeto, el observable, la escala y las condiciones que permiten interpretar la cantidad obtenida. Una expresión calculable no aporta por sí sola esa correspondencia.
@@ -259,6 +303,8 @@ El retorno establece qué significa el resultado en el dominio al que se refiere
 Cuando se haya utilizado una representación auxiliar, se indicará qué información conserva y cuál pierde. No toda transformación posee inversa. Si dos sucesos diferentes producen el mismo potencial, conocer ese valor no permite reconstruir cuál de ellos lo originó. El retorno deberá apoyarse entonces en la referencia conservada al suceso o expresar la clase de posibilidades compatible con el resultado.
 
 Esta precaución afecta al uso de distancias. Para sucesos de un mismo dominio con potenciales reales comparables puede definirse d(e,f) = |P_D(e) − P_D(f)|. La función es no negativa, simétrica y satisface la desigualdad triangular, pero puede anularse para sucesos distintos. En general constituye una pseudométrica. Será una métrica sobre esos sucesos si el potencial distingue cada pareja de objetos; también induce una métrica sobre las clases que agrupan sucesos de igual potencial. La interpretación de esas clases deberá precisarse antes de utilizarlas como objetos del dominio.
+
+La desigualdad triangular se deduce de |P_D(e) − P_D(g)| ≤ |P_D(e) − P_D(f)| + |P_D(f) − P_D(g)|. La no negatividad, la simetría y d(e,e) = 0 proceden de las propiedades del valor absoluto. Si se define e ∼ f cuando P_D(e) = P_D(f), la distancia entre clases no depende del representante elegido; su nulidad implica que ambas clases coinciden. Esto demuestra la afirmación métrica en el conjunto cociente, sin atribuir esa separación a los sucesos originales.
 
 En un contraste físico, una unidad estructural de potencial no se identifica automáticamente con una unidad del Sistema Internacional. La correspondencia debe establecerse mediante la aplicación y sus condiciones de medida. El documento sobre potencial de un suceso utiliza una unidad estructural propia en determinados regímenes de conteo [5]; su empleo exige conservar ese significado.
 
@@ -291,6 +337,10 @@ La tabla reúne los símbolos y fija su significado dentro de este documento.
 | Δ_e F(x) | Variación del observable F por aplicación de e a x. |
 | N, L | Diferencia neta y recorrido absoluto de una secuencia finita de valores reales. |
 | δ, u | Valor numérico y unidad en una representación p = δu. |
+| A_ref, A_i, F | Edad de referencia, edad del observable e intervalo de normalización, en una unidad común. |
+| E_i, x_i, η, Q | Diferencia etaria, coordenada normalizada, sensibilidad y rango de la proyección Atlas. |
+| S_η, s_i, u_AT | Función de proyección, coeficiente de igualdad polar y unidad de representación Atlas. |
+| κ_i, Φ_AT, δ_i | Descripción individual, función declarada de proyección y coeficiente diferencial resultante. |
 | Γ_U, τ | Objetos propios de la ecuación general: ciclos concatenados y corpus declarado, conforme a [6]. No son variables temporales por esa notación. |
 
 ## 17. Tabla de condiciones de uso
@@ -305,6 +355,7 @@ La tabla reúne los símbolos y fija su significado dentro de este documento.
 | Calcular recorrido absoluto | Valores reales comparables y valor absoluto con significado fijado. |
 | Usar una derivada | Carta, variable, estructura de aproximación y existencia del límite. |
 | Acumular respecto de una carta | Regla de suma o integración, pesos o medida, unidad y condiciones de existencia. |
+| Aplicar la proyección Atlas | F > 0, η > 0, Q > 0, 0 ≤ x ≤ 1, escala declarada y regla efectiva para δ; si se exigen polos no negativos, −2s ≤ δ ≤ 2s. |
 | Afirmar que hay una métrica | Verificación de los axiomas sobre los objetos que se comparan, incluida la separación de objetos distintos. |
 | Registrar U | Evaluación fundada que no permite determinación binaria y requisitos de autorización del régimen aplicable. |
 | Resolver U | Información nueva pertinente o intervención experta, con justificación y conservación de la evaluación precedente. |
@@ -363,7 +414,7 @@ Este primer documento establece las condiciones comunes de la colección. Las pu
 
 [5] **Potencial de un suceso: comunicación estructural en el universo físico realizado, equipotencialidad, diferencia polar y métrica.** [DOI: 10.21428/39829d0b.f0cbabc2](https://doi.org/10.21428/39829d0b.f0cbabc2).
 
-[6] **Teoría del TODO y de la NADA.** [Publicación](https://www.itvia.online/pub/teoria-del-todo-y-de-la-nada). Se utilizan las definiciones del régimen general; las condiciones de igualdad entre recorrido y diferencia neta se demuestran expresamente en el apartado 12 de este documento.
+[6] **Teoría del TODO y de la NADA.** [Versión publicada](https://www.itvia.online/pub/teoria-del-todo-y-de-la-nada/release/1). [DOI: 10.21428/39829d0b.cdf2f2ed](https://doi.org/10.21428/39829d0b.cdf2f2ed). Se utilizan las definiciones del régimen general; las condiciones de igualdad entre recorrido y diferencia neta se demuestran expresamente en el apartado 12 de este documento.
 
 [7] **Transductores de matemáticas.** [Colección](https://www.itvia.online/transductores-de-matematicas). [DOI: 10.21428/39829d0b.01728a80](https://doi.org/10.21428/39829d0b.01728a80).
 
@@ -372,3 +423,5 @@ Este primer documento establece las condiciones comunes de la colección. Las pu
 [9] **Dinámica del Suceso en el Sistema Vectorial SV.** [DOI: 10.21428/39829d0b.8ea18396](https://doi.org/10.21428/39829d0b.8ea18396).
 
 [10] **No clausura certificada en sistemas finitos de resolución.** [DOI: 10.21428/39829d0b.f0892864](https://doi.org/10.21428/39829d0b.f0892864).
+
+[11] **Orientación universal y geográfica, potencial del suceso e interfaz de dominio desde el Universo y los seres biológicos: humanoide.** Versión 1, 22 de junio de 2026; en particular, apartados 3.4–4.4, 6.1–6.8, 8.9–8.10 y 11–12. [Publicación](https://www.itvia.online/pub/orientacion-universal-y-geografica-potencial-del-suceso-e-interfaz-de-dominio-desde-el-universo-y-los-seres-biologicos-humanoide-sv/release/1). [DOI: 10.21428/39829d0b.5e15cabb](https://doi.org/10.21428/39829d0b.5e15cabb).
